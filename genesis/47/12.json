@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Yeṭṭef Yusef ⟨את⟩ baba-s, ⟨את⟩ watmaten-is, ⟨את⟩ akk wexxam n baba-s, s yeqqimen, ṭṭrad ara n warrac imeṛṛa.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "watmaten-is"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam n"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "s yeqqimen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ṭṭrad ara"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "n warrac imeṛṛa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:33:31.068605857Z",
+  "model": "glm-5.3"
+}

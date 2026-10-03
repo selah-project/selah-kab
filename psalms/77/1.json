@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "I win yettnernin, ɣef Yedutun, i Asaf — mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettnernin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:27.415911977Z",
+  "model": "glm-5.3"
+}

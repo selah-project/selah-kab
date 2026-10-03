@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Asa yexdem ayen imezgi deg tiḥci Yahwe, am David baba-s.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ayen imezgi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiḥci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "am David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:46.715510330Z",
+  "model": "glm-5.3"
+}

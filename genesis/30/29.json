@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Yenna-yas: Kečč, tessneḍ ⟨את⟩ wayen i k-xedmeɣ, d ⟨את⟩ wayen illan seg leɣyat-ik ⟨את⟩ ɣuri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tessneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen i k-xedmeɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "i k-xedmeɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wayen illan seg leɣyat-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "illan"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "leɣyat-ik"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ɣuri"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:26.619055171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Ḥesed d tideṛt εeddlan-d; ṣedeq d talwit qebbelen-d.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Ḥesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "d tideṛt"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "εeddlan-d"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "d talwit"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "qebbelen-d"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:36.721312775Z",
+  "model": "glm-5.3"
+}

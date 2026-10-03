@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Axaṭer yessujed imeslug-is ɣur-i, di wussan-iw ad d-siwelɣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "yessujed"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "imeslug-is"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "di wussan-iw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad d-siwelɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:28.185246381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ɣef usafar izerfan iḥeṛṛec ⟨את⟩ iṣafaren, qbel Yahwe, i lebda.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "asafar"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "izerfan"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "iḥeṛṛec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣafaren"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "iṣafaren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T21:18:59.780275580Z",
+  "model": "glm-5.3"
+}

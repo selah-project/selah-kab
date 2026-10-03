@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Slen ⟨i⟩ ⟨את⟩ taɣect n Yahwe Elohim ittḥeṛṛimen deg udiwan, deg waḍu n wass; yeffer wemdan d tmeṭṭut-is si ṭṭaf n Yahwe Elohim, gar yisekkuyen n udiwan.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Slen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ittḥeṛṛimen"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "deg udiwan"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "deg waḍu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "n wass"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "yeffer"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "d tmeṭṭut-is"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "si ṭṭaf n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gar"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yisekkuyen"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "n udiwan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:12.868133579Z",
+  "model": "glm-5.3"
+}

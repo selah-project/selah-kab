@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 23:6",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Qqiḍet aṭas ad teḥerzdem akken ad txedmem ⟨את⟩ akk wayen yuran deg udlis n Tora n Moce, akken ur turaγem ara seg-s ayeffus neγ aζelmaḍ.",
+  "tokens": [
+    {
+      "surface": "וחזקתם",
+      "gloss": "qqiḍet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ad teḥerzdem"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "akken ad txedmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wayen yuran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "wayen yuran"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deg udlis"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "n Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "n Moce"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "akken ur ... ara"
+    },
+    {
+      "surface": "סור",
+      "gloss": "turaγem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ayeffus"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "neγ aζelmaḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:55.010402969Z",
+  "model": "glm-5.3"
+}

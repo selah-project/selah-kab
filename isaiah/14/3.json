@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad yili deg wass ideg Yahwe ad k-id-issemlen seg uḍebsi-ik d tallalit-ik, seg wenxal n dir-agi i txedmeḍ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ad k-id-issemlen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "seg uḍebsi-ik"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "d tallalit-ik"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "wenxal n dir"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ttxedmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:48.138319023Z",
+  "model": "glm-5.3"
+}

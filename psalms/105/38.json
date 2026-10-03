@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Miṣrayim iṣeḥ mi d-yeffɣen, axaṭer tugdi-nnsen teɣli ɣefsen.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "iṣeḥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "mi d-yeffɣen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "teɣli"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "tugdi-nnsen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣefsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:10.154452172Z",
+  "model": "glm-5.3"
+}

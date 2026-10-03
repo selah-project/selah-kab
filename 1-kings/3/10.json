@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Awal-nagi iɛjeb i Adonai, axaṭer Selomo issuter ⟨את⟩ wawal-agi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "iɛjeb"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "issuter"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:56.961587599Z",
+  "model": "glm-5.3"
+}

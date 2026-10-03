@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ur ḥeṛzen ara lɛahd n Elohim, uṛa qbilen ad dduḍen deg Tora-s.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ḥeṛzen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "u deg Tora-s"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "uṛa qbilen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad dduḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:43.371081226Z",
+  "model": "glm-5.3"
+}

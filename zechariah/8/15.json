@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Akken, tuɣaleɣ, xemmemɣ deg wussan-a ad xedmeɣ lxir i ⟨את⟩ Yerucalayim d ⟨את⟩ axxam n Yehuda: ur tettagadeḑ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "tuɣaleɣ"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "xemmemɣ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ad xedmeɣ lxir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "axxam n Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tettagadeḑ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:34:49.105387988Z",
+  "model": "glm-5.3"
+}

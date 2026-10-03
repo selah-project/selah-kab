@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Nniɣ: d ablaḥ i ṣeḥḥeɣ; i tewert d uxlaṣ i d-yenna wayen ur nelli, tazmert-iw ḥeṣṣa-yi-tt. Maca iri, ccruɛ-iw ⟨את⟩ Yahwe, lqeddac-iw ⟨את⟩ Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nniɣ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "d ablaḥ"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "i ṣeḥḥeɣ"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "i tewert d uxlaṣ"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "d wayen ur nelli"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tazmert-iw"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ḥeṣṣa-yi-tt"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "maca iri"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ccruɛ-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "lqeddac-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-iw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:59.953965309Z",
+  "model": "glm-5.3"
+}

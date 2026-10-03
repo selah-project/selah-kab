@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Yah d tezmert-iw d lγana, yuγal-d yelli-d ⟨d⟩ tesεit.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "tezmert-iw"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "d lγana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuγal-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yelli-d"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "d tesεit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:18.280107206Z",
+  "model": "glm-5.3"
+}

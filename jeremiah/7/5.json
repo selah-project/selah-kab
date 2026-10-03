@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Xaṭer ma txedmem akken iwata ⟨את⟩ iberdan-nwen d ⟨את⟩ igamulen-nwen, ma txedmem ccreɛ gar wemdan d umeddakel-is,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xaṭer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "txedmem akken iwata"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "txedmem akken iwata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iberdan-nwen"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "iberdan-nwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "igamulen-nwen"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "igamulen-nwen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "txedmem"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "txedmem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d gar"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umeddakel-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:14:21.148529727Z",
+  "model": "glm-5.3"
+}

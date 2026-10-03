@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Meṣṣi d ameẓyan, Cemouel yettqaddac ɣer Yahwe, sedef Eli. Deg wussan-agi, awal n Yahwe yella d aqdim-an ⟨את⟩ Yahwe — ulac ṛṛuḥ yettɣelli-d s lexlaṣ.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Meṣṣi d ameẓyan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemouel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "yettqaddac ɣer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sedef"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "awal n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "d aqdim-an"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ṛṛuḥ"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "yettɣelli-d s lexlaṣ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:11:13.613139749Z",
+  "model": "glm-5.3"
+}

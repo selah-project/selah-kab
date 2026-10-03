@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Tessemsuḍ ⟨the⟩ tmurt, terẓiḍ-tt; sejji tirẓiwin-is, axaṭer tettruẓ!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Tessemsuḍ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "terẓiḍ-tt"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "sejji"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "tirẓiwin-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tettruẓ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:26.649777870Z",
+  "model": "glm-5.3"
+}

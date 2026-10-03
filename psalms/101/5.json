@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "translation": "Win iɛeggan i ṛṛay-nnes deg ubekkul, ⟨אתו⟩ ad t-ṣemmeɣ; axaṭṭab n tiṭin d wul ameqqran, ⟨אתו⟩ ur ttwaɣ ara.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "win iɛeggan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg ubekkul"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "i ṛṛay-nnes"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "win iɛeggan i ṛṛay-nnes"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ad t-ṣemmeɣ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "axaṭṭab"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "n tiṭin"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "d wul ameqqran"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "axaṭṭab n tiṭin d wul ameqqran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ttwaɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:25.981636308Z",
+  "model": "glm-5.3"
+}

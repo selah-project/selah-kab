@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "David d yirgazen-is kecmen ɣer temdint; ṣban ttettwaɣ s times; tilawin-nnsen, iqcicen-nnsen d yelli-sin-nnsen ṭṭfen-ten.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "d yirgazen-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ṣban"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "ttettwaɣ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "s times"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "tilawin-nnsen"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "iqcicen-nnsen"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "yelli-sin-nnsen"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ṭṭfen-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T04:13:28.148960327Z",
+  "model": "glm-5.3"
+}

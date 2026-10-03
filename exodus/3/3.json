@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna-d Moce: Ad ruɣeɣ, ttut-i, iwakken ad waliɣ ⟨את⟩ tuzzya tameqqrant-agi, acuɣer ur yettɛekkiben ara wedrar n tmedla?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Ad ruɣeɣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ttut-i"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ad waliɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuzzya tameqqrant-agi"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "tuzzya"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "acuɣer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yettɛekkiben"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "wedrar n tmedla"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:45.336083485Z",
+  "model": "glm-5.3"
+}

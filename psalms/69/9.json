@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Llɣi-t d abeṛṛani i watmaten-iw, d abeṛṛani-nniḍen i waraw n yemma-iw.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "abeṛṛani"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "Llɣi-t"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "i watmaten-iw"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "d abeṛṛani-nniḍen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i waraw"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "n yemma-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:03.731267325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Seg ⟨u⟩ Mickan-ik ɣef Yerucalayim, ad d-yeḍḍfen igelliden ⟨d⟩ siyyara i kečč.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Seg Mickan-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ad d-yeḍḍfen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "שי",
+      "gloss": "siyyara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.356716937Z",
+  "model": "glm-5.3"
+}

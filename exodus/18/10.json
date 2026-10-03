@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yenna-d Yitro: Itebberk Yahwe, win iṣellken ⟨את⟩-kun seg ufus n Miṣrayim akk d ufus n Ferɛun, win iṣellken ⟨את⟩ ⟨i⟩ ɣells seg sad n ufus n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "itebberk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "iṣellken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kun",
+      "marks": "kun"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "akk d ufus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Ferɛun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "iṣellken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i ɣells"
+    },
+    {
+      "surface": "העם",
+      "gloss": "i ɣells"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "seg sad n"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ufus"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:59.921955531Z",
+  "model": "glm-5.3"
+}

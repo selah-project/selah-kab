@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yaɛqov issel irẓa ⟨את⟩ Dinah yelli-s; iɛeggalen-is llan ⟨את⟩ lmal-is deg uger. Yaɛqov yessukf iman-is ar mi kecmen.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "issel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "irẓa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "iɛeggalen-is"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmal-is"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "lmal-is"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg uger"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "yessukf iman-is"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar mi"
+    },
+    {
+      "surface": "באם",
+      "gloss": "kecmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:45.253931794Z",
+  "model": "glm-5.3"
+}

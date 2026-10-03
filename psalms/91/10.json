@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Diri ur k-id-ttawad ara, waṭṭan ur iqerreb ara ɣer texxamt-ik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ad k-id-yaweḍ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer kečč"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "waṭṭan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ad iqerreb"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ɣer texxamt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.021470103Z",
+  "model": "glm-5.3"
+}

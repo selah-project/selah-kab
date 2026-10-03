@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Win iwalen ilulen imezwura n Miṣrayim, seg wemdan alamma d lmal.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "win iwalen"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ilulen imezwura"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "seg wemdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almamma d"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "lmal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:51.972561972Z",
+  "model": "glm-5.3"
+}

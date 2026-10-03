@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Tura ɣur-s wayen-nniḍen, ur ttettnalam ara; nekkin ad sseggmenɣ ⟨את⟩ kunwi akked ⟨את⟩ rriv-ikwen. Yensel-asen, yemmeslay-iten ɣef wul-nsen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura ɣur-s wayen-nniḍen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ad ttettnalam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkin"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ad sseggmenɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "rriv-ikwen"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "rriv-ikwen"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "yensel-asen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "asen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ul-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:47.137417968Z",
+  "model": "glm-5.3"
+}

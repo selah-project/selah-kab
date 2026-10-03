@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Taiɛttema maḍi, yiwet n tḥara: kkuẓ n temdanin, sin n yimelyunen, kraḍ n tmettiyin, d settin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "Taiɛttema"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "yiwet n tḥara"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kkuẓ"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "n temdanin"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sin n yimelyunen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n tmettiyin"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "d settin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:13:37.118083361Z",
+  "model": "glm-5.3"
+}

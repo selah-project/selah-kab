@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "D leḥeqq daɣen iqedcen i d-iteddun ɣer Yahwe ad iqedcen, ad Yeḥzem Yahwe fell-asen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "i d-iteddun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "ad iqedcen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ad Yeḥzem"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:11.461911397Z",
+  "model": "glm-5.3"
+}

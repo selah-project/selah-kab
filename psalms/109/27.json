@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Akken ad ẓran belli ifassan-ik ihi, kečč, a Yahwe, i t-texdem.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Akken ad ẓran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ifassan-ik"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "i t-texdem"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:54.239963438Z",
+  "model": "glm-5.3"
+}

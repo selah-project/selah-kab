@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Ula d nekk ad snemmreɣ tin i nevel, s tidet-ik, Elohim-iw; ad ceššeɣ i ɣef s kinnor, Aqeddis n Yisrael.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula d nekk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ad snemmreɣ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "s"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "s tidet-ik"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ad ceššeɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ɣef"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "s kinnor"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Aqeddis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:21.838162040Z",
+  "model": "glm-5.3"
+}

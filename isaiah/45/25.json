@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Deg Yahwe, akk zzerɛa n Yisrael ad ṣedeqen u ad qqaṛen lɛizez.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Deg Yahwe"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "ad ṣedeqen"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "u ad qqaṛen lɛizez"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zzerɛa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:18.808821682Z",
+  "model": "glm-5.3"
+}

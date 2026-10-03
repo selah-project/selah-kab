@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "D ⟨את⟩ ⟨tfemsemt?⟩ takeṛṛust d ⟨את⟩ ayen akk n yimaynen-nnes, d ⟨את⟩ taččart d ⟨את⟩ yimaynen-is, d ⟨את⟩ weẓẓaḍ n ucgu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "takeṛṛust"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "takeṛṛust"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ayen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "n yimaynen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taččart"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "taččart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yimaynen-is"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "yimaynen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "weẓẓaḍ n ucgu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "weẓẓaḍ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "n ucgu"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:31.492558891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Ad zedɣiɣen ifeqwanen-iw, acku ad ceššeɣ i ɣef; akken d nefsi-iw, win i tesleḥleḍ.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ad zedɣiɣen"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ifeqwanen-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ad ceššeɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ɣef"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "akken d nefsi-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "i tesleḥleḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:21.838318847Z",
+  "model": "glm-5.3"
+}

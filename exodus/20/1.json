@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Elohim i d-yemmeslayen ⟨את⟩ awalen-agi akk, s wawal:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "i d-yemmeslayen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:49.558049988Z",
+  "model": "glm-5.3"
+}

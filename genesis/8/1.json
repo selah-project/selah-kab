@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yeccfa Elohim i ⟨את⟩ Nuaḥ, i ⟨את⟩ yal aɣersiw ixatteren d ⟨את⟩ yal lmal i yellan yid-s ⟨את⟩ deg-inṣel. Elohim yewwi-d yiwen n ruaḥ ɣef tmurt, d amdan-is iḥbes waman.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "yeccfa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nuaḥ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "yal aɣersiw ixatteren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "aɣersiw ixatteren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yal lmal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yid-s ⟨את⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "deg-inṣel"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "iḥbes"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:29.999282006Z",
+  "model": "glm-5.3"
+}

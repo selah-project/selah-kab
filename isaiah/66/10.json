@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Ṣeḥḥet ⟨את⟩ Yerucalayim, ɛzlet fell-as akk wid t-ḥemmlen; ṣeḥḥet ⟨את⟩ yides s lleɛza, akk wid iḥuzen fell-as.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "ṣeḥḥet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ɛzlet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "wid t-ḥemmlen"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "ṣeḥḥet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yides"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "s lleɛza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "wid iḥuzen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-03T00:10:37.026031879Z",
+  "model": "glm-5.3"
+}

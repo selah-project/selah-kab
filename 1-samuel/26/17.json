@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Saul yessin ⟨את⟩ taɣect n David, yenna: d taɣect-ik-agi, a mmi David? David yenna: d taɣect-iw, bab-iw agellid.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "yessin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "taɣect-ik"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "taɣect-iw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    }
+  ],
+  "timestamp": "2026-10-02T22:52:10.087269538Z",
+  "model": "glm-5.3"
+}

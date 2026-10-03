@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Nfeḥ yemmesl seg wayen-is, yessen ⟨את⟩ ayen i d-ixeddem-as mmi-s amecṭuḥ.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "yemmesl"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nfeḥ"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "seg wayen-is"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "yessen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i d-ixeddem-as"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-ixeddem-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "amecṭuḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:03.813613275Z",
+  "model": "glm-5.3"
+}

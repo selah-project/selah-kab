@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad d-tmeslayeḍ ⟨את⟩ awalen-iw ɣur-sen; ma slan neɣ ma ḥebsen — d imegguten i d-llan.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Ad d-tmeslayeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen-iw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen-iw"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "slan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "neɣ ma"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "ḥebsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "imegguten"
+    },
+    {
+      "surface": "המה",
+      "gloss": "i d-llan"
+    }
+  ],
+  "timestamp": "2026-10-03T00:42:19.709450850Z",
+  "model": "glm-5.3"
+}

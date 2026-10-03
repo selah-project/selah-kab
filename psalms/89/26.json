@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ad ssruɣ deg yillel afus-is, deg yisaffenan afus-is ayeffus.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ad ssruɣ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "deg yillel"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "deg yisaffenan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "afus-is ayeffus"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:47.420961007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Si-sen i tikkelt-nniḍen ad teṭṭfeḍ, ad ⟨את⟩ ten-tulluḍ ɣer telemmast n times, ad ⟨את⟩ ten-teḥreq deg times; si-sen ad d-yeffeγ times i yal axxam n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "Si-sen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "i tikkelt-nniḍen"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "ad ten-tulluḍ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "telemmast"
+    },
+    {
+      "surface": "האש",
+      "gloss": "n times"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "ad ten-teḥreq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg times"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "si-sen"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ad d-yeffeγ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T00:45:17.762876556Z",
+  "model": "glm-5.3"
+}

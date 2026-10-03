@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad d-tawḍeb ⟨את⟩ ilewiyen ɣer zdat n Yahwe, ad sɛun imezdaɣ n Yisrael ifassen-nsen ⟨את⟩ ɣef ilewiyen.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ad d-tawḍeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilewiyen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilewiyen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ad sɛun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yimezdaɣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ifassen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilewiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:28:09.715417792Z",
+  "model": "glm-5.3"
+}

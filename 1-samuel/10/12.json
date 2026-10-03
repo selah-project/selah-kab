@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yerḍa yiwen seg dinna, yenna: Anwa babasen? Ɣef waya yuɣal d timseɛret: Day Caul atig gar yinabiyen?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Yerḍa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg dinna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "babasen"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "d timseɛret"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "Day...atig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "בנבאים",
+      "gloss": "gar yinabiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:41:04.119304523Z",
+  "model": "glm-5.3"
+}

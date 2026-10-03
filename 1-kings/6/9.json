@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yebna ⟨את⟩ wexxam, yefra-t; yeseggel ⟨את⟩ wexxam s tiqejmurin d tiseddarin n leɛz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "yefra-t"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "yeseggel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "tiqejmurin"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "d tiseddarin"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "n leɛz"
+    }
+  ],
+  "timestamp": "2026-10-02T23:12:27.027014569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ddeqw-a d tuaɣlivin n win iqeqcen, segsent akk ad t-id-yessellek Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "tuaɣlivin"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ddeqw-a"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "win iqeqcen"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "segsent akk"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ad t-id-yessellek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:24.469683526Z",
+  "model": "glm-5.3"
+}

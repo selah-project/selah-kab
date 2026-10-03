@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Xedḍan-d i Mordoḵai ⟨את⟩ wawalen n Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Xedḍan-d"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "i Mordoḵai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen n Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "n Ester"
+    }
+  ],
+  "timestamp": "2026-10-03T02:59:30.077592833Z",
+  "model": "glm-5.3"
+}

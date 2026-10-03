@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yif-it aggur n yiwen n wawal tuqbilṭ-is tamezwarut; yif-it win iɛejjen s ruaḥ win yettxellilen s ruaḥ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yif-it"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "aggur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "n yiwen n wawal"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "tuqbilṭ-is tamezwarut"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yif-it"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "win iɛejjen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "s ruaḥ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "win yettxellilen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "s ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:09.598997092Z",
+  "model": "glm-5.3"
+}

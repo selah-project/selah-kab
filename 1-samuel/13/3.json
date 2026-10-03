@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yonatan yewwet ⟨את⟩ ṣṣumd n Fliṣtim i yellan deg Gebaɛ, Fliṣtim slan-as; CaUL yuzen lexlaṣ deg cofar deg tmurt akk, ad yini: Ad slen Ivrim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yewwet"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṣṣumd n Fliṣtim"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ṣṣumd"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n Fliṣtim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "deg Gebaɛ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "slan-as"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fliṣtim"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "yuzen lexlaṣ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "deg cofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg … akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ad slen"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivrim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:41:52.034675848Z",
+  "model": "glm-5.3"
+}

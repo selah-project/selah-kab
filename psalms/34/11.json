@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Izmer d-imeqranen rṛun, tuɣen tayri; maca wid yessuqulen Yahwe ur akk xṣṛen ara kra n lxir.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "izmer d-imeqranen"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "rṛun"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "tuɣen tayri"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "wid yessuqulen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "xṣṛen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kra n lxir"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:14.980646098Z",
+  "model": "glm-5.3"
+}

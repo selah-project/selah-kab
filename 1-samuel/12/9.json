@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Tuǧǧen ⟨את⟩ Yahwe, Elohim-nnsen; yenbez-ten deg ufus n Siṣera, ameqran n yiṣerdas n Ḥaṣor, deg ufus n Yi­flisṭiyen, deg ufus n ugellid n Muab; nnan-if-ten.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "tuǧǧen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-nnsen"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "yenbez-ten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Siṣera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ameqran"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "yiṣerdas"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Ḥaṣor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Yiflisṭiyen"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nnan-if-ten"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ɣur-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:53.103902087Z",
+  "model": "glm-5.3"
+}

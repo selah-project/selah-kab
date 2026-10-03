@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Mi ad k-nsen, ad ḥebbsen igenwan, ad isenɣen ⟨את⟩ itran-nsen; ad ḥeddeɣ tafukt s tagenni, yir ur d-iseḥḥu taftent-is.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "ad ḥebbsen"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "mi ad k-nsen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "ad isenɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itran-nsen"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "itran-nsen"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "tafukt"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "s tagenni"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "ad ḥeddeɣ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "yir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ad d-iseḥḥu"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "taftent-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:57:34.286202998Z",
+  "model": "glm-5.3"
+}

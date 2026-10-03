@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yella yiṭ, yella taṣebḥit: ass wis semmus.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yiṭ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "taṣebḥit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "wis semmus"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:30.780372394Z",
+  "model": "glm-5.3"
+}

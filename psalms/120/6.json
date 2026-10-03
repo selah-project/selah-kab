@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 120,
+  "translation": "Aṭas i tzedzint nefs-iw ⟨d⟩ wid ikren tifrat.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "tzedzint"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨yi⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ikren"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tifrat"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.493979758Z",
+  "model": "glm-5.3"
+}

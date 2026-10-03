@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ulac timmad deg yiẓri-w s lmeḥḍa n zeεem-ik, ulac talwit deg iẓan-w s lmeḥḍa n tucḍiwin-iw.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ulac"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "timmad"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "deg yiẓri-w"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "s lmeḥḍa n"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "zeεem-ik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ulac"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "deg iẓan-w"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "s lmeḥḍa n"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tucḍiwin-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:36.599972355Z",
+  "model": "glm-5.3"
+}

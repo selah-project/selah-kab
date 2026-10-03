@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "⟨את⟩ Patruṣim, ⟨את⟩ Kaṣluḥim — seg-sen i d-yeffɣen Pilictim — akked ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patruṣim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaṣluḥim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilictim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:57.299161494Z",
+  "model": "glm-5.3"
+}

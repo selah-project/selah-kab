@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Akk wussan-nneɣ ṛuḥen deg teqessa-nnek; nessuffeɣ iseggasen-nneɣ am wayessi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "wussan-nneɣ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "deg teqessa-nnek"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nessuffeɣ"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "iseggasen-nneɣ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "ayessi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.140467493Z",
+  "model": "glm-5.3"
+}

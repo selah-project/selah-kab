@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Mi i-d-iersen ⟨את⟩ Yisrael, Yehonatan mis n Cimea gma n David i t-inuɣ.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "mi i-d-iersen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "i t-inuɣ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mis"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "n Cimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T03:32:58.697568601Z",
+  "model": "glm-5.3"
+}

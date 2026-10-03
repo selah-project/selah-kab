@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Moce yemmeslay ɣer wid n Yisrael iwakken ad xedmen ⟨את⟩ Pesaḥ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "iwakken ad xedmen"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:54.990050624Z",
+  "model": "glm-5.3"
+}

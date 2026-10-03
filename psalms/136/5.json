@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "I win yettexleq igenwan s teẓri, axaṭer ḥesed-is ad yegri i lebda.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "i win yettexleq"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "s teẓri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:04.062508373Z",
+  "model": "glm-5.3"
+}

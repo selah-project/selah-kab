@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Acku taḥrict n yexxam-ik t-yečča-t, tuccḍin n wid ak-yettuccḍen ddant fell-i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "taḥrict"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "n yexxam-ik"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "t-yečča-t"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "tuccḍin"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "n wid ak-yettuccḍen"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ddant"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:03.731483571Z",
+  "model": "glm-5.3"
+}

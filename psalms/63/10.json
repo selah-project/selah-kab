@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Wid i yettnadiyen deg lweḥyi ad rẓen yimmet-iw, ad kcemmen ɣer tidewanin n tmurt.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "wid"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "deg lweḥyi ad rẓen"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "yettnadiyen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "yimmet-iw"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ad kcemmen"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ɣer tidewanin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:56.355013612Z",
+  "model": "glm-5.3"
+}

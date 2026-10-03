@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Weïs yaïes deg ⟨i⟩ akk tmurt n Miïrayim, ad issefḍ qac iman n tebbeb.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Weïs yaïes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weïs"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg ⟨i⟩ akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miïrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "ad issefḍ qac"
+    },
+    {
+      "surface": "קש",
+      "gloss": "qac"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "iman n tebbeb"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:39.229643667Z",
+  "model": "glm-5.3"
+}

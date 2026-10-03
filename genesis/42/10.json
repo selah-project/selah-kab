@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Nnan-as: Ala, a bab-nneɣ, imeddöen-ik usan-d ad ssninsen učči.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a bab-nneɣ"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "imeddünen-ik"
+    },
+    {
+      "surface": "באו",
+      "gloss": "usan-d"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ad ssninsen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "učči"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:59.289119899Z",
+  "model": "glm-5.3"
+}

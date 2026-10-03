@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Iwakken ad neẓ ṣḥeḥma d usselmed, ad nefhem awalen n tgifawt,",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "iwakken ad neẓ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ṣḥeḥma"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "d usselmed"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ad nefhem"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "n tgifawt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:04.076729958Z",
+  "model": "glm-5.3"
+}

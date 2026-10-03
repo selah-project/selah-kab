@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 14:31",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ma arrac-nwen meẓẓen, i tnem ad ilin d lwarad, ad ten-kecmeɣ ⟨את⟩, ad ẓren ⟨את⟩ tmurt i twarrgem degs.",
+  "tokens": [
+    {
+      "surface": "וטפכם",
+      "gloss": "arrac-nwen meẓẓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "tnnem"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "d lwarad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "והביאתי",
+      "gloss": "ad ten-kecmeɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (arrac-nwen)"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ad ẓren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "twarrgem"
+    },
+    {
+      "surface": "בה",
+      "gloss": "degs"
+    }
+  ],
+  "timestamp": "2026-10-02T21:32:08.085631344Z",
+  "model": "glm-5.3"
+}

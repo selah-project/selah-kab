@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Nutni ṛan ⟨ayen⟩; mmestɛerjen, ḥulfan-d tagi, rewḥen deg urwer.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ṛan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ayen⟩"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "mmestɛerjen"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ḥulfan-d tagi"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "rewḥen deg urwer"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:19.763995426Z",
+  "model": "glm-5.3"
+}

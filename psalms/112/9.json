@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Yesseḥla, yefka i wid ur nesɛi ara; ṣedeq-is yeqqim i lebda; iɣer-is ad yali s lɛezz.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Yesseḥla"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "i wid ur nesɛi ara"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ṣedeq-is"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "iɣer-is"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "s lɛezz"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:50.904150549Z",
+  "model": "glm-5.3"
+}

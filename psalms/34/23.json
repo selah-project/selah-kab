@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yahwe isellek ⟨את⟩ nefḍa n yimceḍyen-is, wid akk iǧḥalen deg-s ur ttwḥekkmn ara d imergen.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "isellek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefḍa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n yimceḍyen-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ttwḥekkmn d imergen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "wid iǧḥalen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:32.541008851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yella, mi yesla ugellid Ḥizqiyyahu, yeṭṭef ⟨את⟩ isebsiben-is, yekkes-itent iḥummen s lcac, yekcem ɣer beit Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mi yesla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizqiyyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isebsiben-is"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "isebsiben-is"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "iḥummen"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "s lcac"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:58:31.064508507Z",
+  "model": "glm-5.3"
+}

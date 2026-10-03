@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ṭṭfen-t akk wid yezrin deg ubrid; yuɣal d taxṣa i yimezdaɣ-is.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "Ṭṭfen-t"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wid yezrin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "taxṣa"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "i yimezdaɣ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:11.053602007Z",
+  "model": "glm-5.3"
+}

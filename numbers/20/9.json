@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Moce yewwi-d ⟨את⟩ taɣda-s seg sdat n Yahwe, akken i d-yeḥkem yides.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣda-s"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "taɣda-s"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "seg sdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i d-yeḥkem yides"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:21.397668092Z",
+  "model": "glm-5.3"
+}

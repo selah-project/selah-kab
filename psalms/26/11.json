@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ma d nekki, ad ttedduɣ deg uzeref-iw; ḥelles-iyi-d, rḥem-iyi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma d nekki"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "deg uzeref-iw"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ad ttedduɣ"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ḥelles-iyi-d"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "rḥem-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:00.541641940Z",
+  "model": "glm-5.3"
+}

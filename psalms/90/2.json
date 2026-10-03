@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Uqbel ma nenjem i idurar, ad d-tefɣeḍ tmurt d umaḍal, seg wazal ɣer wazal kečč i d El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "uqbel ma"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "nenjem"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ad d-tefɣeḍ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "d umaḍal"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "seg wazal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wazal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:52.899922714Z",
+  "model": "glm-5.3"
+}

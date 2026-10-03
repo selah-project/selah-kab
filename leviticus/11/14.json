@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "d ⟨את⟩ hadaa, d ⟨את⟩ haaeya, s wanaw-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hadaa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "hadaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haaeya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "haaeya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "s wanaw-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:55.273460069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 141,
+  "translation": "Ttwanḥeṣen iḥekkam-nsen ɣer yirawen n weẓru, ad slen awalen-iw, axaṭer d icebḥen.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ttwanḥeṣen"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ɣer yirawen"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "n weẓru"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "iḥekkam-nsen"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ad slen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "awalen-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "d icebḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:21.671084233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Mi ara mlilen iɣlanen yiwet n tiddin, d tgeldiwin, iwakken ad nqel i ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "mi ara mlilen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yiwet n tiddin"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "d tgeldiwin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "iwakken ad nqel i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:02.401806815Z",
+  "model": "glm-5.3"
+}

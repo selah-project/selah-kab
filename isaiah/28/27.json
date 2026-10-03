@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 28:27",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Acku qeṣaḥ ur yettwarerr ara s tzerbit, ur d-yettwarom ara arrom n lḥanṭra ɣef ikemmun; acku s taɣda i yettwanṭḍen qeṣaḥ, d ikemmun s waɣrud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "בחרוץ",
+      "gloss": "s tzerbit"
+    },
+    {
+      "surface": "יודש",
+      "gloss": "yettwarerr"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "qeṣaḥ"
+    },
+    {
+      "surface": "ואופן",
+      "gloss": "arrom"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "n lḥanṭra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כמן",
+      "gloss": "ikemmun"
+    },
+    {
+      "surface": "יוסב",
+      "gloss": "ur d-yettwarom ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "s taɣda"
+    },
+    {
+      "surface": "יחבט",
+      "gloss": "i yettwanṭḍen"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "qeṣaḥ"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "d ikemmun"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "s waɣrud"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:00.900737178Z",
+  "model": "glm-5.3"
+}

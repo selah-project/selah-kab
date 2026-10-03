@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yiḥemmel ṣedeq d ⟨ccreɛ⟩; s ḥesed n Yahwe akal ⟨d⟩ aččuran.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Yiḥemmel"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "d ccreɛ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "aččuran"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "akal"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:18.335004863Z",
+  "model": "glm-5.3"
+}

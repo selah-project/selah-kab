@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Wid ibeḍḍen ṭṭfen abrid n ddou seg uṛeḥem, ttazven seg teẓgmt, ttmeslayen d ikellan.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "ṭṭfen abrid n ddou"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid ibeḍḍen"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "seg uṛeḥem"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ttazven"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "seg teẓgmt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ttmeslayen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "d ikellan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:30.397681228Z",
+  "model": "glm-5.3"
+}

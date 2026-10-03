@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "D yal lalma isellfen taṛṛaṣa, iseptaṛ taṛṛaṣa s sin, i d-ittawin gera — deg yal lalma, ⟨את⟩-agi tzemrem a ttettem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "d yal"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "lalma"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "isellfen"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "taṛṛaṣa"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "iseptaṛ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "asebṭac"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "s sin"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "taṛṛaṣin"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "i d-ittawin"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "deg yal lalma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-agi",
+      "marks": "lalma-nni"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tzemrem a ttettem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:56:53.376756976Z",
+  "model": "glm-5.3"
+}

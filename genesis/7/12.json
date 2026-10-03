@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yella ugeffur ɣef tmurt, merad n wussan d merad n yiḍen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ugeffur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "merad"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "d merad"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n yiḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:49.123607709Z",
+  "model": "glm-5.3"
+}

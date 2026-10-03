@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yenna Balaq i Bilɛam: mačči d axeṭṭar i t-kkreḥ, mačči d axeṭṭar i t-berrkeḍ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilɛam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mačči d axeṭṭar"
+    },
+    {
+      "surface": "קב",
+      "gloss": "kkreḥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "t-kkreḥ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mačči d axeṭṭar"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "berrkeḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "t-berrkeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:38:04.070001292Z",
+  "model": "glm-5.3"
+}

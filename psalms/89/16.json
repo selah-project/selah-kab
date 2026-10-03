@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ifelleh ugdud issnen ⟨i⟩ usafu, Yahwe; deg tafat n udem-ik ad eddun.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ifelleh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "issnen"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "usafu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "deg tafat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "n udem-ik"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ad eddun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:35.020022271Z",
+  "model": "glm-5.3"
+}

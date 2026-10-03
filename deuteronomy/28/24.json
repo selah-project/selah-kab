@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yahwe ad yefk ⟨את⟩ ageffur n tmurt-ik d aẓekka d lɣubra; seg igenwan ad d-yali ɣef-k alama tettwakkes.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ageffur"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ageffur"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "n tmurt-ik"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "aẓekka"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "lɣubra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ad d-yali"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef-k"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alama"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "tettwakkes"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:20.742141800Z",
+  "model": "glm-5.3"
+}

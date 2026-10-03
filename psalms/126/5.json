@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 126,
+  "translation": "Wid yettzarɣen s yimḍan, s yisefra ad ḥeṣlen.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "wid yettzarɣen"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "s yimḍan"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "s yisefra"
+    },
+    {
+      "surface": "יקצצרו",
+      "gloss": "ad ḥeṣlen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:44.564153366Z",
+  "model": "glm-5.3"
+}

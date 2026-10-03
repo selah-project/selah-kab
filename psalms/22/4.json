@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Keččini d iqeqcen, txebbeḍ deg yismektiyen n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Keččini"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqeqcen"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "txebbeḍ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "yismektiyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:10.474503262Z",
+  "model": "glm-5.3"
+}

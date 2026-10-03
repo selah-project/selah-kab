@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "a Elohim-iw, deg-k necluɣ; ur ẓẓayiɣ ara lḥerṣ; ad wwid iɛdawen-iw lḥerṣ ɣef-i.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "necluɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ẓẓayiɣ ara lḥerṣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ad wwid lḥerṣ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣef-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:43.778369436Z",
+  "model": "glm-5.3"
+}

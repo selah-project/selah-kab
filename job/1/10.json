@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Mačči kečč i s-tesḥetteḍ tiḥirt, i t-yezzin d ⟨את⟩ uxxam-is, d akk wayen i s-ellan, ɣef yal tama? Leɛmel n yifassen-is tbarkeḍ-t, debci-s tessaḥ deg tmurt.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mačči…a"
+    },
+    {
+      "surface": "את",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "tesḥetteḍ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "i t-yezzin"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "axxam-is"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "s-ellan"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ɣef yal tama"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "leɛmel"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "yifassen-is"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "tbarkeḍ-t"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "debcit-is"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "tessaḥ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:31:43.824993821Z",
+  "model": "glm-5.3"
+}

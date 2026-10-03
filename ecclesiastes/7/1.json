@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Izem n yisem yugar zzeyt tazurant, d wass n tmeɣlant yugar wass n tlalit.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yugar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "n yisem"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "zzeyt tazurant"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yzin"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "d wass"
+    },
+    {
+      "surface": "המות",
+      "gloss": "n tmeɣlant"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "yugar wass"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "n tlalit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:07.826517968Z",
+  "model": "glm-5.3"
+}

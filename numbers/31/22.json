@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Maca ⟨את⟩ werǧa, akked ⟨את⟩ lfeḍḍa, ⟨את⟩ nneḥas, ⟨את⟩ uḥdid, ⟨את⟩ ṣṣneɛ, akked ⟨את⟩ uraɣ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "maca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "werǧa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "werǧa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "lfeḍḍa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nneḥas"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "nneḥas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uḥdid"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "uḥdid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṣṣneɛ"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ṣṣneɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "uraɣ"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "uraɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:42:46.559032611Z",
+  "model": "glm-5.3"
+}

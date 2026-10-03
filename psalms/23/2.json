@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Deg wurtan n tuga izerwan yesnulfu-d ad mleɣ; ɣef waman n usgunfu yettwid-iyi.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Deg wurtan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "n tuga izerwan"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "yesnulfu-d ad mleɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מי",
+      "gloss": "waman"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "n usgunfu"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "yettwid-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:51.148449013Z",
+  "model": "glm-5.3"
+}

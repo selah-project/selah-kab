@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "D ⟨את⟩ menorot d tifawin-isen, iwakken ad eeḍgen skud ⟨a⟩ccreɛ dat n debir, s wureẓ imɛelleḍ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menorot"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "menorot"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "tifawin-isen"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "iwakken ad eeḍgen"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "skud ccreɛ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dat n"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wureẓ"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "imɛelleḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:24.732786281Z",
+  "model": "glm-5.3"
+}

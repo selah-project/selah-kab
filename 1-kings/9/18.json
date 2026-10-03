@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "D ⟨את⟩ Baɛalat, d ⟨את⟩ Tamar, deg uneẓruf, deg tmurt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Baɛalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baɛalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uneẓruf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:25.556021019Z",
+  "model": "glm-5.3"
+}

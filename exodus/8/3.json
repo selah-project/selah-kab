@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Xedmen akka iḥerṭumen s leɛlayen-nsen, sdawlen ⟨את⟩ iṣefredɛa ɣef wakal n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Xedmen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "iḥerṭumen"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "s leɛlayen-nsen"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sdawlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣefredɛa"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "iṣefredɛa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:08.857713283Z",
+  "model": "glm-5.3"
+}

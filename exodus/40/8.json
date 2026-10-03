@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad tserreḍ ⟨את⟩ udrar n wexxam, d ayen iḍumen; ad tserreḍ ⟨את⟩ tirẓi n tgebbart n wedrar.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ad tserreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udrar n wexxam"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "udrar n wexxam"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "d ayen iḍumen"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ad tserreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirẓi n tgebbart"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirẓi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "n tgebbart"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n wedrar"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:13.239957701Z",
+  "model": "glm-5.3"
+}

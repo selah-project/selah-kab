@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Iqerra n wid iyi-yezzin, ad asen-yeḥmeṛ umaṭṭaf n yiccan-nsen",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Iqerra"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "wid iyi-yezzin"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "umaṭṭaf"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "n yiccan-nsen"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ad asen-yeḥmeṛ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:16.352621942Z",
+  "model": "glm-5.3"
+}

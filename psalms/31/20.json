@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Acḥet d lfeḍl-ik, i t-tesḥerbeḍ i wid i k-ikellifen, i txedmed i wid igan tallalt deg-k, zdat arraw n yimdanen!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acḥet"
+    },
+    {
+      "surface": "רב",
+      "gloss": "d lfeḍl"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "t-tesḥerbeḍ"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "i wid i k-ikellifen"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "i txedmed"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "i wid igan tallalt"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:59.201813807Z",
+  "model": "glm-5.3"
+}

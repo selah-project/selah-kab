@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ssugγenγ-d imeṛγan-iw; ebniγ-d i yiman-iw yixxamen; sessenγ-d i yiman-iw tiεessarin.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "ssugγenγ-d"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "imeṛγan-iw"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ebniγ-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yiman-iw"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "yixxamen"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "sessenγ-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yiman-iw"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "tiεessarin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:18.672893318Z",
+  "model": "glm-5.3"
+}

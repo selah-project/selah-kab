@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Yahwe Ṣebaot yella yid-neɣ; Ella n Yaɛqov d teṣṭurt-nneɣ. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "yella yid-neɣ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "teṣṭurt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-nneɣ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ella n"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:40.601947859Z",
+  "model": "glm-5.3"
+}

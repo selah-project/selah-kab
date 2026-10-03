@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 31:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Yalha, ad ten-id-rruɣ si tmurt n ugafa, ad ten-yessemlil si teɣẓint n tmurt; gar-asen iḍeɛwweṛen d iɛekkizen, tawtemt yettwuddmen d tin yettawin i wulac tikkelt — tlufa tameqṛant ad d-uɣalen da.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yalha, nekki"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ad ten-id-rruɣ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iten — wid si tmurt n ugafa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si tmurt"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "n ugafa"
+    },
+    {
+      "surface": "וקבצתים",
+      "gloss": "ad ten-yessemlil"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "si teɣẓint"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "iḍeɛwweṛen"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "d iɛekkizen"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "tawtemt yettwuddmen"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "d tin yettawin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tikkelt yiwet"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "tlufa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tameqṛant"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ad d-uɣalen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "da"
+    }
+  ],
+  "timestamp": "2026-10-03T00:28:42.529408882Z",
+  "model": "glm-5.3"
+}

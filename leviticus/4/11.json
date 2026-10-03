@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "D ⟨את⟩ uglim n wagayun, d ⟨את⟩ akk weṛṛis-is, akked uzekka-nnes akked tiḍad-nnes n wadda, akked wayen yellan daxel-is akked lexla-nnes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uglim"
+    },
+    {
+      "surface": "עור",
+      "gloss": "uglim"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wagayun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk weṛṛis-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "weṛṛis-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "akked"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uzekka-nnes"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "akked"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "tiḍad-nnes n wadda"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "wayen yellan daxel-is"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "lexla-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:04.911308072Z",
+  "model": "glm-5.3"
+}

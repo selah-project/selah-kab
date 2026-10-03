@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 29:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad yili aṭas n yiberraniyen-ik am uẓeɣif amecṭuḥ, d aṭas n yiserḥayen am ttsecḥumt yettεeddin; ad yili deg wanṭaḍ, s tikelt.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כאבק",
+      "gloss": "am uẓeɣif"
+    },
+    {
+      "surface": "דק",
+      "gloss": "amecṭuḥ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "זריך",
+      "gloss": "n yiberraniyen-ik"
+    },
+    {
+      "surface": "וכמץ",
+      "gloss": "d am ttsecḥumt"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yettεeddi"
+    },
+    {
+      "surface": "המון",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "n yiserḥayen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לפתע",
+      "gloss": "deg wanṭaḍ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "s tikelt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:54:56.935172428Z",
+  "model": "glm-5.3"
+}

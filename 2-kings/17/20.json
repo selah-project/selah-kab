@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yahwe yugi akk tarwa n Yisrael, yexṣer-iten, yefka-iten deg ufus n yiminigen, armi d-yuzen-iten seg uḍud-is.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "yugi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "yexṣer-iten"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "yefka-iten"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus n"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "yiminigen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "d-yuzen-iten"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "seg uḍud-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:45.490632468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ma negzen ilugan-iw, ur ḥarzen ara ilmeḥyen-iw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ilugan-iw"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ma negzen"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ilmeḥyen-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ḥarzen ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:39.152513747Z",
+  "model": "glm-5.3"
+}

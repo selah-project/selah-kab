@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Wid-a ⟨ttnadin ad sɛen azal⟩ s tkerruṣin, yerna wid-a s lɛudan; ma d neɣni, s yisem n Yahwe Elohim-nneɣ ad nessebder.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wid-a"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "s tkerruṣin"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "wid-a"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "s lɛudan"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ma d neɣni"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ad nessebder"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:00.680112506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 60:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Akk tḥanin n Qedar ad d-jemɛen ɣur-k, ikerriyen n Nebayut ad k-qeddcen; ad alin ɣef meẓbeḥ-iw s leqbal, d axxam n tifawt-iw ad t-ṣebbeɣ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tḥanin"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    },
+    {
+      "surface": "יקבצו",
+      "gloss": "ad d-jemɛen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "אילי",
+      "gloss": "ikerriyen"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayut"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ad k-qeddcen"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ad alin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "s leqbal"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "meẓbeḥ-iw"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "n tifawt-iw"
+    },
+    {
+      "surface": "אפאר",
+      "gloss": "ad t-ṣebbeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:07:53.376513948Z",
+  "model": "glm-5.3"
+}

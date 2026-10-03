@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Iqedcen-iw ttxedḍen, ⟨את⟩ tiǧi n Cabbat-iw tesḥerbeḍ-tt.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "iqedcen-iw"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "ttxedḍen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiǧi n Cabbat-iw"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Cabbat-iw"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "tesḥerbeḍ-tt"
+    }
+  ],
+  "timestamp": "2026-10-03T00:51:40.047943022Z",
+  "model": "glm-5.3"
+}

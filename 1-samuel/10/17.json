@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Semuel yejmeɛ ⟨את⟩ ugdud ɣer Yahwe, deg Miṣpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "yejmeɛ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "deg Miṣpa"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:44.179957866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Hejben ⟨את⟩ Yona, ţuznen-t ɣer yillel; yillel yeḥbes ɣef wayen i ḥemmel.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Hejben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ţuznen-t"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "ɣef wayen i ḥemmel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:55.123785658Z",
+  "model": "glm-5.3"
+}

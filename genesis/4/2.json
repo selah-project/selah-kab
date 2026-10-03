@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ternu tesselḥal-d ⟨את⟩ gma-s ⟨את⟩ Hebel. Hebel yella d aneḥḥal n teksut, Qayen yella d axeddam n lqaɛa.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ternu"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "tesselḥal-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gma-s"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "aneḥḥal"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "teksut"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Qayen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "axeddam"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lqaɛa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:08.798355935Z",
+  "model": "glm-5.3"
+}

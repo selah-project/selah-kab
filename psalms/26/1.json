@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "I David. Ḥkem-iyi, Yahwe, axaṭer nekk deg tumt-iw tteddimaɣ, di Yahwe ttkalɣiɣ, ur lxiɣ ara.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ḥkem-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "deg tumt-iw"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "tteddimaɣ"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "di Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ttkalɣiɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "lxiɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:11.602957922Z",
+  "model": "glm-5.3"
+}

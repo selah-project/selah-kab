@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "S yiwet, akk wid i yi-ikerhen ttmesfhamen ɣef-i; ɣef-i ḥekmen dir iwi.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "s yiwet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ttmesfhamen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wid i yi-ikerhen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ḥekmen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:13.283631241Z",
+  "model": "glm-5.3"
+}

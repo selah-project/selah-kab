@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 128,
+  "translation": "Wali, iwakken akka i yettbanen wemdan yugden Yahwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "i yettbanen"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yugden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:52.616608805Z",
+  "model": "glm-5.3"
+}

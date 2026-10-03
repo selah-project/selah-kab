@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Maca nekkini d Yahwe Elohim-ik, seg tmurt n Miṣrayim; tikkelt-nniḍen ad k-errɣ deg txamin, am wussan n lɛiḍ.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Maca nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ad k-errɣ deg"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "txamin"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "am wussan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n lɛiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:30.241872146Z",
+  "model": "glm-5.3"
+}

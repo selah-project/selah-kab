@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yella-d wayen iḍran deffir lmut n Caul: David yuγal seg umennuɣ mgal ⟨את⟩ Yimaleqiyen, David yezdeγ di Ṣiqlag sin wussan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d wayen iḍran"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yuγal"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "seg umennuɣ mgal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yimaleqiyen"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Yimaleqiyen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeγ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "di Ṣiqlag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    }
+  ],
+  "timestamp": "2026-10-02T22:55:34.897148924Z",
+  "model": "glm-5.3"
+}

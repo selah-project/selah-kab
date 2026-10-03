@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Deg umkan n teḥmali-iw ḥekmen fell-i d abekkax; nekk, neṣṣebɤ kan.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "teḥmali-iw"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ḥekmen fell-i d abekkax"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "neṣṣebɤ kan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:36.523171581Z",
+  "model": "glm-5.3"
+}

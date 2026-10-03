@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ṣubb-d ⟨את⟩ amḍan n warrac n Qehat, seg warrac n Levi, s twaculin-nsen, s yexxamen n yibabaten-nsen.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ṣubb-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amḍan n warrac n Qehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "amḍan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s twaculin-nsen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "s yexxamen n"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yibabaten-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:39.207131541Z",
+  "model": "glm-5.3"
+}

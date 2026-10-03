@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Iwakken lbḥa-nni ad k-yizmer, ur yettḥbes ara. A Yahwe, Elohim-iw, i lebda ad k-ccukreɣ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "ad k-yizmer"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lbḥa-nni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "yettḥbes ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ad k-ccukreɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:09.558890874Z",
+  "model": "glm-5.3"
+}

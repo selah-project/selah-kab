@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Akken ⟨את⟩ Ḥacavya, akked-is ⟨את⟩ Yeccaia, seg warrac n Merari, atmaten-is akked warraw-nsen, ewnin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akken ⟨את⟩",
+      "marks": "Ḥacavya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Ḥacavya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "akked-is ⟨את⟩",
+      "marks": "Yeccaia"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yeccaia"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "seg warrac n"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "atmaten-is"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "akked warraw-nsen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ewnin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:44:22.633096753Z",
+  "model": "glm-5.3"
+}

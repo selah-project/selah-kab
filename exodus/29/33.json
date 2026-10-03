@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad teṭṭen ⟨את⟩ wayen iwumi yettwakfer deg-sen, iwakken ad ččaḥen ⟨את⟩ ifassen-nsen, iwakken ad ṣeggmen ⟨את⟩-nsen; win nniḍen (aziri) ur it-yetṭṭef ara, axaṭer d iqedcen ren.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ad teṭṭen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wayen",
+      "marks": "wayen iwumi yettwakfer deg-sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwumi"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "yettwakfer"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "iwakken ad ččaḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ifassen-nsen"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "iwakken ad ṣeggmen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nsen",
+      "marks": "win nniḍen (aziri)"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "win nniḍen (aziri)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "it-yetṭṭef ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ren"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:54.232610359Z",
+  "model": "glm-5.3"
+}

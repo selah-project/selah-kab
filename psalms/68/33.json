@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Txallilt n tmurt, cnu i Elohim, zemmret i Adonai, selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "txallilt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "cnu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zemmret"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "i Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:55.229862559Z",
+  "model": "glm-5.3"
+}

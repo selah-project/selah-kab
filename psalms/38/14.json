@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Wanag nekk, am win ur nesseli, ur nessefra; am yiwexxamen, imi-s ur d-yeldi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "wanag nekk"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "am win ur nesseli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nessefra"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "am yiwexxamen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ur d-yeldi"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "imi-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:34.077705654Z",
+  "model": "glm-5.3"
+}

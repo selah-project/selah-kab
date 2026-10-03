@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Ad cnaε deg yizerfan, a Yahwe, ad zzimreγ deg yizerfan n yiεeddiyen.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ad cnaɛ kečč"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "deg yizerfan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "ad zzimreɣ kečč"
+    },
+    {
+      "surface": "בל",
+      "gloss": "deg yigerdan"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "n yiεeddiyen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:48.718793949Z",
+  "model": "glm-5.3"
+}

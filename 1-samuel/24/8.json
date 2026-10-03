@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "David yeṣṣef ⟨את⟩ yergazen-is s wawalen, ur yeǧǧi-ara ad kkren ɣef Caul; imi Caul yekker seg wanfar, yuɣal yeddu deg ubrid.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "yeṣṣef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yergazen-is"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "yergazen-is"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "s wawalen"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "yeǧǧa-ten"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ad kkren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "imi Caul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "yekker"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "seg wanfar"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yeddu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:27.514291025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Wid akk iyi-ttwalen ṣeṭṭen deg-i; qeccren s-lmeẓẓaẓ, nuzzun iqerruyen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Wid iyi-ttwalen"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ṣeṭṭen deg-i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "deg-i"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "qeccren"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "s-lmeẓẓaẓ"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "nuzzun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqerruyen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:50.206500318Z",
+  "model": "glm-5.3"
+}

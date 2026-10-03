@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Ad yi-ttuḥebḍeḍ seg tuɣlist n wid nxen, seg tewka n yixeddimen n tikkert.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Ad yi-ttuḥebḍeḍ"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "seg tuɣlist"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "n wid nxen"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "seg tewka"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "n yixeddimen"
+    },
+    {
+      "surface": "און",
+      "gloss": "n tikkert"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:08.865999296Z",
+  "model": "glm-5.3"
+}

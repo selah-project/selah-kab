@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "D ⟨את⟩ temsuyt akk ay ḥemmel ad d-tas ɣer tebburt n uxam n temlilit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "temsuyt akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "temsuyt"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ḥemmel ad d-tas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tebburt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n uxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:05.968529631Z",
+  "model": "glm-5.3"
+}

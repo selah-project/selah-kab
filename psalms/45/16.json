@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Ad ttwattun s tuccfa d lfraḥ, ad kecment deg uxxam n ugellid.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ad ttwattun"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "s tuccfa"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "d lfraḥ"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ad kecment"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "n ugellid"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:37.292968173Z",
+  "model": "glm-5.3"
+}

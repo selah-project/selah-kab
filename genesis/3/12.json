@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Umdan yenna: Tamɣart i txedmeḍ d yid-i, d nettat i yi-d-tyeffɣen seg useklu, u nečč.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Umdan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Tamɣart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "i txedmeḍ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "d yid-i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "i yi-d-tyeffɣen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "useklu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "u nečč"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:29.936864603Z",
+  "model": "glm-5.3"
+}

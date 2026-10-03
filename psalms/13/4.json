@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Wali-yi, err-i, a Yahwe Elohim-iw; ṣeffu tiṭriw-iw, akken ur senɣ deg lmut;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "wali-yi"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "err-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ṣeffu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiṭriw-iw"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "senɣ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lmut"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:14.626796752Z",
+  "model": "glm-5.3"
+}

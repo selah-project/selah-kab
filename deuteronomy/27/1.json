@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Moce akked yimɣaren n Yisrael ḥeṣṣen ⟨את⟩ weɣd, qqaren: Ěḥfeḍ ⟨את⟩ akk iḥekman-iw ara ⟨את⟩ awen-ḥeṣṣeɣ ass-a.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ḥeṣṣen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "akked yimɣaren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weɣd"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weɣd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "qqaren"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "eḥfeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iḥekman-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "iḥekman-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ḥeṣṣeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:59.962573850Z",
+  "model": "glm-5.3"
+}

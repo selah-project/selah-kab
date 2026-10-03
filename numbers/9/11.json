@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Deg wagbur wis sin, deg kuẓ d mraw n wussan, gar tmedyin, ad t-xedmen ⟨את⟩-t; s wugham adjin (maṣa) akked isafan irden ad t-ččen.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "deg wagbur"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "kuẓ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tmedyin"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ad t-xedmen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ugham adjin (maṣa)"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "akked isafan irden"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ad t-ččen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:51.145283442Z",
+  "model": "glm-5.3"
+}

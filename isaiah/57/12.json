@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Nek ad d-melγ ⟨את⟩ ṣedeq-ik d ⟨את⟩ igmaḍ-ik, wanag ur k-nfaɛen ara.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nek"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ad d-melγ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ṣedeq-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igmaḍ-ik"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "igmaḍ-ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "k-nfaɛen ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:23:28.003881796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yessemlil ɣer yiman-is irgazen, yuɣal d anemhal n terbaɛt deg mi i ⟨את⟩ ten-id-yekren David; ṛuḥen ɣer Dimecq, zedɣen deg-s, u ḥekmen deg Dimecq.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Yessemlil"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣer yiman-is"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "שר",
+      "gloss": "anemhal n"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "terbaɛt"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "deg mi i ten-id-yekren"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "irgazen i ten-id-yekren David"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimecq"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ḥekmen"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "deg Dimecq"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:28.797285335Z",
+  "model": "glm-5.3"
+}

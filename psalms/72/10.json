@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Igxlan n Taršiš d tegzirin ad d-rren minḥa; igxlan n Šeba d Seba ad d-mudden asurif.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "igxlan n"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršiš"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "d tegzirin"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ad d-rren"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igxlan n"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "d Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "asurif"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ad d-mudden"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:11.087832128Z",
+  "model": "glm-5.3"
+}

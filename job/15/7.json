@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 15:7",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "D keččini i d amdan amenzu i d-yettwaleden? Neɣ qbel n tiwririn i d-tettwayeffeḍ?",
+  "tokens": [
+    {
+      "surface": "הראישון",
+      "gloss": "amenzu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "tettwaleden"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tiwririn"
+    },
+    {
+      "surface": "חוללת",
+      "gloss": "tettwayeffeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:37:07.514336192Z",
+  "model": "glm-5.3"
+}

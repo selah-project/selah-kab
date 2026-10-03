@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "I yisem-nnek, a Yahwe, ḥyu-iyi; deg ṣedeq-nnek ssuffɣ-ed nefsi-iw seg leḥzen.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "I"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-nnek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ḥyu-iyi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "deg ṣedeq-nnek"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ssuffɣ-ed"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "seg leḥzen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:03.986622303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "A mmi, ma tugiḍ d amedday i weḥbib-ik, ma ṭṭfeḍ afus-ik ula d azemni;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "tugiḍ d amedday"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "i weḥbib-ik"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "ṭṭfeḍ"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "ula d azemni"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "afus-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:30.920784352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yawi ⟨את⟩ imɣaren n yegdud, akked ⟨את⟩ tiseɛlatin n ugeffar akked ⟨את⟩ lebrima, yessen-asen-asen ⟨את⟩ yimdanen n Sikkut.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Yawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imɣaren n yegdud"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "imɣaren"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n yegdud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tiseɛlatin n ugeffar"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "tiseɛlatin"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "n ugeffar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "lebrima"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "lebrima"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "yessen-asen-asen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "s yisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimdanen n Sikkut"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yimdanen"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "n Sikkut"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:07.088866094Z",
+  "model": "glm-5.3"
+}

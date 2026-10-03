@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad zreɛt-tt i yiman-iw di tmurt, ad rḥemmeɣ ⟨את⟩ Lo-Ruḥama, ad iniy i Lo-Ami: agdud-iw kečč; neţta ad yini: Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ad zreɛt-tt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yiman-iw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ad rḥemmeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruḥama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruḥama"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ad iniy"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "i Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "neţta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:14:41.627949516Z",
+  "model": "glm-5.3"
+}

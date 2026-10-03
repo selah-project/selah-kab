@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Acḥal i lebda ad tesnefxeḍ fellaɣ? Ad tzegg lɣaḍeb-ik si tuddsa ɣer tuddsa?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Acḥal i lebda"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ad tesnefxeḍ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fellaɣ"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ad tzegg"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "lɣaḍeb-ik"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "si tuddsa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ɣer tuddsa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:33.705657592Z",
+  "model": "glm-5.3"
+}

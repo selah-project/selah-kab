@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Deg wass ad tgelleḍ, ad yeggal daɣen navi yid-k deg yilel, ad rẓeɣ ⟨את⟩ yemma-k.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "ad tgelleḍ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "ad yeggal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yilel"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "ad rẓeɣ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yemma-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:48.281014219Z",
+  "model": "glm-5.3"
+}

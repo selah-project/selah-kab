@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Lexla ad tefeḍ ⟨ɛal⟩-sen; ad ddun ar Ceol ma llan d imuddir, axaṭer dirit tella deg wexxam-nnsen, deg tgemmert-nnsen.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "lexla"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "⟨ɛal⟩-sen"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "d imuddir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "deg wexxam-nnsen"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "deg tgemmert-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:04.545091572Z",
+  "model": "glm-5.3"
+}

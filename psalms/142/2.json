@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 142,
+  "translation": "Taɣect-iw ɣer Yahwe ssuɣleɣ; taɣect-iw ɣer Yahwe ad ssutreɣ tirewla.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Taɣect-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ssuɣleɣ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "taɣect-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ad ssutreɣ tirewla"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.050718787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Arraw n yiberraniyen ad beddlen iṣurar-ik, d igelliden-nsen ad k-yettqedcen; axateṛ s taẓeft-iw k-iḍreb-ɣef, ma d s leɛqel-iw ḥemleɣ-k \/ iḥemmel-k lweḥn.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ad beddlen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "n yiberraniyen"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "iṣurar-ik"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "d igelliden-nsen"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ad k-yettqedcen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axateṛ"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "s taẓeft-iw"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "k-iḍreb-ɣef"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "s leɛqel-iw"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "iḥemmel-k lweḥn"
+    }
+  ],
+  "timestamp": "2026-10-03T00:07:44.934854485Z",
+  "model": "glm-5.3"
+}

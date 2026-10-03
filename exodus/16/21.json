@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Σuεlen-t ⟨אתו⟩ deg uzal deg uzal, yal argaz Γef Γer n tiiwt-is; mi yuli yissem usnar, yexsi.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "Σuεlen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "t (ayen i d-yekkat λes lman)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg uzal"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "azal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "Γef Γer"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "n tiiwt-is"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "mi yuli yissem"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "usnar"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "yexsi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:30.085036117Z",
+  "model": "glm-5.3"
+}

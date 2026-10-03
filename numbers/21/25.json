@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yisrael yeṭṭef ⟨את⟩ timdinin-agi akk, yezdeɣ Yisrael deg akk timdinin n Yemoriyen, deg Ḥecbun akk d yixeddamen-is.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timdinin-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "timdinin-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg akk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "n Yemoriyen"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "deg Ḥecbun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "yixeddamen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:52.043645246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-d David i wemɛiṛan i d-yennan iws iwalan-is: Amek teẓriḍ d akken imuten Caeul d Yiḥonatan mmi-s?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wemɛiṛan"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iws"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Amek"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "teẓriḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d akken"
+    },
+    {
+      "surface": "מת",
+      "gloss": "imuten"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caeul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "d Yiḥonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    }
+  ],
+  "timestamp": "2026-10-02T22:53:59.018546206Z",
+  "model": "glm-5.3"
+}

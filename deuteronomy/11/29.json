@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 11:29",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad yili, mi k-id-ig Yahwe Elohim-ik ar tmurt i kečči i tettaḍ din iwakken ad tt-tesneḥlem, ad tɛerḍ ⟨את⟩ timɛeccert ɣef udrar n Gerizim, yerna ⟨את⟩ ttut ɣef udrar n ɛEbal.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "k-id-ig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tettaḍ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "iwakken ad tt-tesneḥlem"
+    },
+    {
+      "surface": "וונתתה",
+      "gloss": "ad tɛerḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timɛeccert"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "timɛeccert"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "גריזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttut"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "ttut"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ɛEbal"
+    }
+  ],
+  "timestamp": "2026-10-02T21:54:11.698054182Z",
+  "model": "glm-5.3"
+}

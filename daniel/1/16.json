@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Melṣar yekkes ⟨את⟩ patebag-nsen akked lvin i ṭṭfen ad ssen, iyyeẓ-itent-d i asen yefka tibawin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "Melṣar"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patebag-nsen"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "patebag-nsen"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "akked lvin"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "i ṭṭfen ad ssen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "i asen-yefka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "tibawin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:14.418807007Z",
+  "model": "glm-5.3"
+}

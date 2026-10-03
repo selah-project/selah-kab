@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Err-d-iya tafaska n tlellit-ik, d ruaḥ n lbaṭel ad iyi-ttessel.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Err-d-iya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "tafaska"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "n tlellit-ik"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "d ruaḥ"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "n lbaṭel"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ad iyi-ttessel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:27.652333099Z",
+  "model": "glm-5.3"
+}

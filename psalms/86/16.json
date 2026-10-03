@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Wali-iy, eɛfen-iy; Efk tazmert-ik i wemdan-ik, selles mmi-s n takcident-ik.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wali-iy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yer yi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "eɛfen-iy"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "efk"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tazmert-ik"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i wemdan-ik"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "selles"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "n takcident-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:02.504338310Z",
+  "model": "glm-5.3"
+}

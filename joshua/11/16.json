@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yehochua yeṭṭef ⟨את⟩ tmurt-agi akk: idurar, ⟨את⟩ Uneẓuf akk, ⟨את⟩ tmurt n Gošen akk, ⟨את⟩ tamurt n wadda, ⟨את⟩ Aɛraba, ⟨את⟩ idurar n Yisrael d tmurt-is n wadda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uneẓuf akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Uneẓuf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt n Gošen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "n Gošen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt n wadda"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "tamurt n wadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aɛraba"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Aɛraba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idurar n Yisrael"
+    },
+    {
+      "surface": "הר",
+      "gloss": "idurar n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "d tmurt-is n wadda"
+    }
+  ],
+  "timestamp": "2026-10-02T22:17:17.242865651Z",
+  "model": "glm-5.3"
+}

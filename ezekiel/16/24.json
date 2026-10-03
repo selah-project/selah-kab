@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Tebniḍ i yiman-ik amḍan, txedmeḍ i yiman-ik rram deg yal abrid ameqran.",
+  "tokens": [
+    {
+      "surface": "וַתִּבְנִי",
+      "gloss": "Tebniḍ"
+    },
+    {
+      "surface": "לָ֖ךְ",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "גֶּ֑ב",
+      "gloss": "amḍan"
+    },
+    {
+      "surface": "וַתַּעֲשִׂ֥י",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "לָ֥ךְ",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "רָמָ֖ה",
+      "gloss": "rram"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "רְחֽוֹב",
+      "gloss": "abrid ameqran"
+    }
+  ],
+  "timestamp": "2026-10-03T00:48:52.484803378Z",
+  "model": "glm-5.3"
+}

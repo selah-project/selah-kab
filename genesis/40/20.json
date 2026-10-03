@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yella-d deg wass wis kraḍ — ass n tlalit n ⟨את⟩ Paroh — yexdem tameɣra i meṛṛa iqeddacen-is; yuli ⟨את⟩ iqef n unebbaḍ n yisewwaṭen d ⟨את⟩ iqef n unebbaḍ n yiḥemmaden, gar yiqeddacen-is.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis kraḍ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass n"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "tlalit n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "tameɣra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i meṛṛa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iqeddacen-is"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqef n unebbaḍ n yisewwaṭen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqef"
+    },
+    {
+      "surface": "שר",
+      "gloss": "anebbaḍ"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "n yisewwaṭen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iqef n unebbaḍ n yiḥemmaden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqef"
+    },
+    {
+      "surface": "שר",
+      "gloss": "anebbaḍ"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "n yiḥemmaden"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gar"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iqeddacen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:32.411552366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yahwe ad t-isdukkel ɣef texsi n weṭṭan; akk texsiwt-is tbeddleḍ deg weṭṭan-is.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "ad t-isdukkel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "texsi"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "n weṭṭan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "texsiwt-is"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "tbeddleḍ"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "deg weṭṭan-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:16.951534771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad t-ṣun ⟨את⟩ iɛeggalen n Aharon deg lmeẓraḥ, ɣef lɛula yellan ɣef yiɣsan yellan ɣef tmes — tikci n tmes, iṣan n lḥenni i Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ad t-ṣun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "iɛeggalen n Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iɛeggalen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "deg lmeẓraḥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lɛula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yiɣsan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tikci n tmes"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "iṣan"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "n lḥenni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:24.170117255Z",
+  "model": "glm-5.3"
+}

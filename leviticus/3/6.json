@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ma qorban-is seg ⟨את⟩ wulli, i wedqis n chelamim i Yahwe — awetil neɣ tawetilt, war ticcḍa, ad t-id-yerr qrib.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "wulli"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qorban-is"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "i wedqis"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "n chelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "awetil"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "tawetilt"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "war ticcḍa"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ad t-id-yerr qrib"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:24.170422416Z",
+  "model": "glm-5.3"
+}

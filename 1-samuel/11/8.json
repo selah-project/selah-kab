@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Iḥseb-itent deg Bezeq; llan wid n Yisrael tlata n temrawin n yiften, ma d yemdanen n Yehuda ṛtin n yiften.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "iḥseb-itent"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "deg Bezeq"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temrawin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yiften"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ma d yemdanen n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ṛtin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yiften"
+    }
+  ],
+  "timestamp": "2026-10-02T22:41:04.237129379Z",
+  "model": "glm-5.3"
+}

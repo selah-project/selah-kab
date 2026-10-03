@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mi qqimen, qqimen; mi llan deg usetter, ɛlan ⟨את⟩ nutni; axaṭer ruaḥ n lḥayet tella degsen.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "mi qqimen"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "qqimen"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "mi llan deg usetter"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ɛlan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nutni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "n lḥayet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "degsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:45:59.507012994Z",
+  "model": "glm-5.3"
+}

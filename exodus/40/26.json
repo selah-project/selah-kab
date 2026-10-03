@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yessigdeg ⟨את⟩ meṣbed n ureɣ deg uxem n umlal, ger yifassen n uhder.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "yessigdeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṣbed n ureɣ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meṣbed"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n ureɣ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "deg uxem n"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "umlal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ger yifassen n"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "uhder"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:26.944054451Z",
+  "model": "glm-5.3"
+}

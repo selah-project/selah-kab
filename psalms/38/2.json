@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yahwe, deg wemdekker-ik ur iyi-ttuqqed ara, di tmara-ik ur yi-yessel ara.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "deg wemdekker-ik"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ur iyi-ttuqqed ara"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "di tmara-ik"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ur yi-yessel ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:36.599669010Z",
+  "model": "glm-5.3"
+}

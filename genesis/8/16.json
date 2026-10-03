@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Si teflukt kecc, tid-m, at-m-id, tilawin n at-m-id, ⟨את⟩ yid-k.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "sser\/sufɣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teflukt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "tid-m"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "at-m-id"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "n at-m-id"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:53.822598006Z",
+  "model": "glm-5.3"
+}

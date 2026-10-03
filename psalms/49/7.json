@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Wid yettkennen ɣef tazmert-nsen, deg tuget n lxelṣ-nsen ad zzeyzlen.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Wid yettkennen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "tazmert-nsen"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "deg tuget n"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "lxelṣ-nsen"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "ad zzeyzlen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:02.111801279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Deffir-a, weɣliḍ neṭṭfen abrid seg Ḥazerot, ṣubbendin deg uneẓruf n Faoran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "deffir-a"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "neṭṭfen abrid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weɣliḍ"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "seg Ḥazerot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ṣubbendin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uneẓruf"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Faoran"
+    }
+  ],
+  "timestamp": "2026-10-02T21:30:40.833338728Z",
+  "model": "glm-5.3"
+}

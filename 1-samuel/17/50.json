@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Akka i yerna David ɣef ⟨את⟩ afulayi s ccbaɛa d teṣrit: yeẓẓ ⟨את⟩ afulayi, ineḥ-t; taɣerrest ur telli ara deg ufus n David.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "i yerna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "afulayi"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "s ccbaɛa"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "d teṣrit"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yeẓẓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afulayi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "afulayi"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ineḥ-t"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "taɣerrest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur telli ara"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:21.011968306Z",
+  "model": "glm-5.3"
+}

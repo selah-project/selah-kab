@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Win id-yeččaren adel am uzezru, taẓdeggert am iẓgaren issefsex.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Win id-yeččaren"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "adel"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "am uzezru"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "taẓdeggert"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "am iẓgaren"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "issefsex"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:52.373318721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yusef iẓri ⟨את⟩ atmaten-is, kechmen-t meṛṛa, maca ţur-sen ur ẓrin-t.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "iẓri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atmaten-is"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "atmaten-is"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ţur-sen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "ẓrin-t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:50.807070708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yefka aqedcan i yikabaren n tmezza ⟨את⟩ taneẓẓuft d ⟨את⟩ yilemḍyen i n ugellid David, i yellan deg uxxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Yefka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqedcan"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "i yikabaren"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "n tmezza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneẓẓuft"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "taneẓẓuft"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yilemḍyen"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "yilemḍyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i n ugellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:27.973604255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Iniɣ i wid yettqellaɛen: ur ttqellaɛet ara; i yiresɣiyen: ur ssaliyet ara ⟨iɣeṛḍ⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Iniɣ"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "i wid yettqellaɛen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "ttqellaɛet"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "i yiresɣiyen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ssaliyet"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "iɣeṛḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:19.578680896Z",
+  "model": "glm-5.3"
+}

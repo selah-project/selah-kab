@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yerna Moce yenna-yas i Aharon ⟨את⟩ akk awalen n Yahwe i t-iceyyaɛen, akken ⟨את⟩ akk izamulen i t-yewellen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen n Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "t-iceyyaɛen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akken ⟨את⟩",
+      "marks": "akk izamulen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "izamulen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "t-yewellen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:21.603150999Z",
+  "model": "glm-5.3"
+}

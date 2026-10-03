@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Tabbad ifrawen-nnsen seg tmurt, d tit-nnsen seg warrac n wemdan.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "ifrawen-nnsen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "Tabbad"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "d tit-nnsen"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "seg warrac"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:20.927635730Z",
+  "model": "glm-5.3"
+}

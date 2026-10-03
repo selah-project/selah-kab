@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur tesseḥrir ara ⟨את⟩ ɣiwen-ik, ur tettak ara s yiri; arra n win yettxeddemen s lexlaṣ ur iqqim ara yid-k ⟨את⟩ ar tufat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "tesseḥrir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɣiwen-ik"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ɣiwen-ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "tettak s yiri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "iqqim"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "arra"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "win yettxeddemen s lexlaṣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "yid-k ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tufat"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:32.475268183Z",
+  "model": "glm-5.3"
+}

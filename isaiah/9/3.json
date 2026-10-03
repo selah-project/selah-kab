@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Acku ⟨את⟩ takurt n teɣṛift-is akked ⟨את⟩ tiqemḍa n yiɣil-is, aḥeccum n win t-iḥeccmen, terẓeḍ-t am wass n Midyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takurt n teɣṛift-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "takurt"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "n teɣṛift-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tiqemḍa n yiɣil-is"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tiqemḍa"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "n yiɣil-is"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aḥeccum"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "n win iḥeccmen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "t"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "terẓeḍ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "am wass"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "n Midyan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:36.271886338Z",
+  "model": "glm-5.3"
+}

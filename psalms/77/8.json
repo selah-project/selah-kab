@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "I lebda i d-iḥeqqeṛ Adonai? Ur yernir ara ad yerẓel tikelt-nniḍen?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "i d-iḥeqqeṛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "yernir ara"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "ad yerẓel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:38.373349495Z",
+  "model": "glm-5.3"
+}

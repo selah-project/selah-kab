@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Maḍi maḍi ad ten-ṣeggmeɣ si zdat-ik, armi d tallit ara tɛumreḍ, ad teɣleḍ ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Maḍi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ad ten-ṣeggmeɣ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "si zdat-ik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "d tallit ara"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "tɛumreḍ"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ad teɣleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:53.856173793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ifrax lxurja, iwgel-tt, yedda-d deg teɣrot i d-ixelqen.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "lxurja"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ifrax"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "iwgel-tt"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yedda-d"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "deg teɣrot"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "i d-ixelqen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:18.177067174Z",
+  "model": "glm-5.3"
+}

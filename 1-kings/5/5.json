@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yuda d Yisrael zedɣen deg lɛamni, yal argaz ddaw tezent-is d ddaw tefigt-is, seg Din ar Beer-Ceba, akk wussan n Celomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "d Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "deg lɛamni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "tezent-is"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "d ddaw"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "tefigt-is"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "seg Din"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ceba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:21.670930764Z",
+  "model": "glm-5.3"
+}

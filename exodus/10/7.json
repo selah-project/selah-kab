@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Waklan n Parɛo nnan-as: Acḥal aya ad yeqqim wagi d lmeyyen-nneɣ? Suffeɣ-d ⟨את⟩ yirgazen, ad qdccen ⟨את⟩ Yahwe Elohim-nnsen. Ma ulac aɣilif, ur t-teeḍdeḍ ara ar tura bell Miṣrayim tenger?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Waklan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Parɛo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Acḥal aya"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "aya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-nneɣ"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "d lmeyyen"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Suffeɣ-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yirgazen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "yirgazen"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ad qdccen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-nnsen"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "ar tura"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ur t-teeḍdeḍ ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bell"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:05.921135305Z",
+  "model": "glm-5.3"
+}

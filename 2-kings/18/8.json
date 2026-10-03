@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "D netta i d-yewwet ⟨את⟩ Ifilictiyen arma d Ɛazza akked ⟨את⟩ tilisa-nnes, si tecbarelt n yiḍriyen arma d tamdint n uxṣim.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "i d-yewwet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ifilictiyen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ifilictiyen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ɛazza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tilisa-nnes"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "tilisa-nnes"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "si tecbarelt n"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "yiḍriyen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint n"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "uxṣim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:10.846127265Z",
+  "model": "glm-5.3"
+}

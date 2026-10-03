@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Weɣdhi yeqqim s wegemmaḍ, Moce innaḍ ɣer tanewt taẓeḍt ideg yella din Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weɣdhi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "s wegemmaḍ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "innaḍ ɣer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "tanewt taẓeḍt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:55.388038948Z",
+  "model": "glm-5.3"
+}

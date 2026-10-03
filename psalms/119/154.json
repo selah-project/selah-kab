@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ḥettem lḥeqq-iw, ddu d lḥeqq-iw, s ⟨אמרתך⟩ awal-ik ḥyu-yi.",
+  "tokens": [
+    {
+      "surface": "ריבה",
+      "gloss": "ḥettem"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "lḥeqq-iw"
+    },
+    {
+      "surface": "וגאלני",
+      "gloss": "ddu d lḥeqq-iw"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "awal-ik"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ḥyu-yi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:39.582157136Z",
+  "model": "glm-5.3"
+}

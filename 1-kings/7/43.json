@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akken ⟨את⟩ mraw n yilbank, d ⟨את⟩ mraw n ilɣesla ɣef yilbank.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Akken ⟨את⟩",
+      "marks": "mraw n yilbank"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ilbank"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "mraw n ilɣesla"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "ilɣesla"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "yilbank"
+    }
+  ],
+  "timestamp": "2026-10-03T04:14:52.592408449Z",
+  "model": "glm-5.3"
+}

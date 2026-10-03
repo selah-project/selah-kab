@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Wid ur yerra ara ul-is ɣer awal n Yahwe, iǧǧa ⟨את⟩ iḥeddamen-is d ⟨את⟩ lmal-is deg uzeṭṭa.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "iǧǧa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥeddamen-is"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iḥeddamen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lmal-is"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "lmal-is"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg uzeṭṭa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:07.094444851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Akohen ad yexdem ⟨את⟩ sin: yiwen d qerbani n tucḍa, wayeḍ d lɛuḍya; akohen ad iseggel fell-as ɣer zdat Yahwe, ɣef zav-is.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sin (tibazditin neɣ igerdan n tbazdit)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Akohen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "qerbani n tucḍa"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lɛuḍya"
+    },
+    {
+      "surface": "וככפר וכפר",
+      "gloss": "ad iseggel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ɣef zav-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:57.632819367Z",
+  "model": "glm-5.3"
+}

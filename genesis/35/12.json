@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "D ⟨את⟩ tmurt i nefkeɣ i Avraham d Yiṣḥaq, kečč ad ak-d-mefkeɣ-tt, d wuddis-ik deffir-ek ad ttunefk ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nefkeɣ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "d Yiṣḥaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ad ak-d-mefkeɣ-tt"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "wuddis-ik"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "deffir-ek"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad ttunefk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:05.528954218Z",
+  "model": "glm-5.3"
+}

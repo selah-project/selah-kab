@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ur txeddemeḍ ara taberkanit ɣef uxliq ɣer baba-s, akken ur k-iggu ara, ad tettwaṭṭfeḍ d amednen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "txeddemeḍ taberkanit"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "axliq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "k-iggu"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "ad tettwaṭṭfeḍ d amednen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:29:15.645355920Z",
+  "model": "glm-5.3"
+}

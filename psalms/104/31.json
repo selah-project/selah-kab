@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Yahwe ad yili ṣṣifa-nnes i lebda; Yahwe ad iḥemmel leqḥwel-i-is.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ṣṣifa-nnes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ad iḥemmel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "leqḥwel-i-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:55.400444094Z",
+  "model": "glm-5.3"
+}

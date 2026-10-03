@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "S ḥesed-nnek kkes yiɛdawen-iw, sens akk wid iḥekmen nefsi-iw; axaṭer nekki d axeddam-nnek.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "S ḥesed-nnek"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "kkes"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "yiɛdawen-iw"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "sens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "wid iḥekmen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "axeddam-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:03.986764373Z",
+  "model": "glm-5.3"
+}

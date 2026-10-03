@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad thettwali tmurt akk zdat-is; ula d amdan ad yeqqim d ameɣtu, ur izmir ara ad yeggu.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "ad thettwali"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "zdat-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ad yeqqim d ameɣtu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ad yeggu"
+    }
+  ],
+  "timestamp": "2026-10-03T03:32:13.873414139Z",
+  "model": "glm-5.3"
+}

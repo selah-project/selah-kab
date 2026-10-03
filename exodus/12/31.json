@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Isawel i Moce d Aharon deg yiḍ, yenna: ekkem, ssuffɣetseg-s, kunwi i yiman-nwen, akken i sɛan araw n Yisrael, ṛbet ad tnaṣelmi, ad tnaḥduleḍ ⟨את⟩ Yahwe akken i d-tennam.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Isawel"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "i Moce"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "ekkem"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "ssuffɣet"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "iɣlanen-iw"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kunwi i yiman-nwen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akken i sɛan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "araw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ṛbet"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ad tnaḥduleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "akken i d-tennam"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:57.626532495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Agellid Korc yeccɣel-d <את> ttawel n uxxam n Yahwe i d-yessuffɣ Nevukadneṣṣar seg Yerucalayim, i deg i d-yessuli deg uxxam n yilaw-is.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Korc"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yeccɣel-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "ttawel n uxxam n Yahwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ttawel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yessuffɣ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadneṣṣar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "seg Yerucalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "i d-yessuli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "n yilaw-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:12:23.601478352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 2:6",
+  "book": "malachi",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tora n lḥeqq tella deg imi-s, d busar ur yettwafa ara deg ṣefaf-ines; s tifrat d usdid yeddun ⟨את⟩ yidi, aṭen i d-yerr seg yeḥres.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "n lḥeqq"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "deg imi-s"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "d busar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "yettwafa"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "deg ṣefaf-ines"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "s tifrat"
+    },
+    {
+      "surface": "ובמישור",
+      "gloss": "d usdid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yeddun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yidi",
+      "marks": "yeddun s tifrat d usdid"
+    },
+    {
+      "surface": "ורבים",
+      "gloss": "aṭen"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "i d-yerr"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "seg yeḥres"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:33.444836725Z",
+  "model": "glm-5.3"
+}

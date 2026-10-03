@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Krad deg-wen ad yeḍfer mraw, mraw deg-wen ad yeḍfer tmekt; ad ḍerrgen iɛdawen-nwen qabel-ikum s lessef.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "ad yeḍfer"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "krad deg-wen"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "krad"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "deg-wen"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "tmekt"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ad yeḍfer"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ad ḍerrgen"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "iɛdawen-nwen"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qabel-ikum"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "s lessef"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:37.875598155Z",
+  "model": "glm-5.3"
+}

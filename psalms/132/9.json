@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Iḥekkann-ik ad lbin ṣedeq, iḥelhiyen-ik ad ɛeddlen cciḥa.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "iḥekkann-ik"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ad lbin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "iḥelhiyen-ik"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ad ɛeddlen cciḥa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:47.522407119Z",
+  "model": "glm-5.3"
+}

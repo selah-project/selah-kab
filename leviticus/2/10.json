@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ayen i d-yeggran si tminḥa, n Aharon d warraw-is ⟨⟨d iqeqren n Yisrael⟩⟩, taqedcit n tqedciyin seg yiqeqren n Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ayen i d-yeggran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tminḥa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "d warraw-is"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "taqedcit"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n tqedciyin"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "seg yiqeqren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:19.319320159Z",
+  "model": "glm-5.3"
+}

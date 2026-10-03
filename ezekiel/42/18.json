@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "⟨את⟩ ruaḥ n unzul iyez-it: xemsa n temyat n yiqeni s teqnit n wamezzeg.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ n unzul"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "n unzul"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "iyez-it"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "xemsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temyat"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "n yiqeni"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "s teqnit"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "n wamezzeg"
+    }
+  ],
+  "timestamp": "2026-10-03T01:05:43.589525969Z",
+  "model": "glm-5.3"
+}

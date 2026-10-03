@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ass n ugellid-nneɣ; imeqqranen ḥemmen s taẓi n lexmer; yezzi afus-is ⟨את⟩ wid iqennen.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ugellid-nneɣ"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ḥemmen"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "imeqqranen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "taẓi"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "lexmer"
+    },
+    {
+      "surface": "משך",
+      "gloss": "yezzi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid iqennen"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "wid iqennen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:53.605645645Z",
+  "model": "glm-5.3"
+}

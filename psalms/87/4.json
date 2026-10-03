@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 87,
+  "translation": "Ad ccnekkeḍ Raḥab d Babilun i wid yissnen-yi: wa, Pelištim d Ṣur akked Kuš — wagi ilul-ed dinna.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ad ccnekkeḍ"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Raḥab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "d Babilun"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "i wid yissnen-yi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelištim"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "d Ṣur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ilul-ed"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:56.484671344Z",
+  "model": "glm-5.3"
+}

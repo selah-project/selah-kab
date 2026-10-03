@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yexdem ⟨את⟩ tabarrit talemmast, akken ad teεeddin deg unzum n ⟨את⟩ tilawin, seg yixef armi d wayeḍ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabarrit"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "tabarrit"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "talemmast"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ad teεeddin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg unzum n"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "yixef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "armi d"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "wayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:31.043008419Z",
+  "model": "glm-5.3"
+}

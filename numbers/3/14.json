@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yeqqim YHWH awal i Musa deg uxam n Ssayna, ad d-yini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Yeqqim awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uxam"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "n Ssayna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-yini"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:45.464725972Z",
+  "model": "glm-5.3"
+}

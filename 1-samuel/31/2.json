@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Filistiyen ḍefren Cawul ⟨את⟩ akked ⟨את⟩ warraw-is, Filistiyen nwten ⟨את⟩ Yehonatan d ⟨את⟩ Avinadav d ⟨את⟩ Malqi-Cuɛa, arraw n Cawul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ḍefren"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cawul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "nwten"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malqi-Cuɛa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malqi-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Cuɛa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawul"
+    }
+  ],
+  "timestamp": "2026-10-02T22:54:45.038309020Z",
+  "model": "glm-5.3"
+}

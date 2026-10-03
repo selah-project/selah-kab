@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad tessawleḍ ⟨את⟩ iy-i, ad tedduḍ, ad tettmenniḍ ɣur-i, ad akwen-eseḍleɣ.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Ad tessawleḍ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iy-i"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ad tedduḍ"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "ad tettmenniḍ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "ad akwen-eseḍleɣ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨i⟩ akwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:27:37.130310448Z",
+  "model": "glm-5.3"
+}

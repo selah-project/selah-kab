@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Syin, wul n David iṭṭef-t ⟨i⟩, ɣef wayen i iɣeẓan ⟨את⟩ tayeft n melṭa i yellan i Caul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "syin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iɣeẓan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayeft"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "tayeft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Caul"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:27.513792108Z",
+  "model": "glm-5.3"
+}

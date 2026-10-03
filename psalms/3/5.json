@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Taɣri-iw ɣer Yahwe ad sicreɛ, yerra-yi-d seg udrar n yiqedcen-is. Sela.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "taɣri-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad sicreɛ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "yerra-yi-d"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "seg udrar"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "n yiqedcen-is"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:45.434334310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Neẓra d Yahwe i d-yezzin ddula: ad iḥekem ⟨את⟩ tebvel s ṣedeq, ad iḥekem iɣlanen s lmizan.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "neẓra d"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ad iḥekem"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebvel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "s ṣedeq"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ad iḥekem"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "s lmizan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:26.640515257Z",
+  "model": "glm-5.3"
+}

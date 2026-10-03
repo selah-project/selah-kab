@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ma ṣubbay-ik uɛeṛḍen-t, yuzen-iten deg ufus n tiɣri-nsen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ṣubbay-ik"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "uɛeṛḍen-t"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-t"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "yuzen-iten"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "n tiɣri-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:33:05.230508563Z",
+  "model": "glm-5.3"
+}

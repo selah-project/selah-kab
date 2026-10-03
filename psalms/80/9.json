@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Tageffurt tuɣid-t-id seg Miṣrayim, tekkseḍ ⟨את⟩ yigerfan, tesseɣlin-t deg wakal.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "tageffurt"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "tuɣid-t-id"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "tekkseḍ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "yigerfan"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "tesseɣlin-t"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:25.337628891Z",
+  "model": "glm-5.3"
+}

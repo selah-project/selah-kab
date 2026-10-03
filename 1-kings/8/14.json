@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yewḥed ugellid ⟨את⟩ uḍum-is, yifirek ⟨את⟩ meṛṛa tlata n Yisrael, meṛṛa tlata n Yisrael teqqim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "yewḥed"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uḍum-is"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uḍum-is"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yifirek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa tlata n Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "teqqim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:25.003713373Z",
+  "model": "glm-5.3"
+}

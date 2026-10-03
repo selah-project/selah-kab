@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Ur neḥmid ara imetten ⟨את⟩ Yah, ula d widak akk i d-yettazarren ɣer tasusmi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "imetten"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "neḥmid ara"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "widak i d-yettazarren"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "tasusmi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:48.587710475Z",
+  "model": "glm-5.3"
+}

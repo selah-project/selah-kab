@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "Sselmed-iyi ad xedmeɣ ayen i tḥemmleḍ, axaṭer kecc i d Eloha-nneɣ; ruaḥ-nnek telha, ad yi-ttnuḥeḍ deg tmurt tabegnant.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Sselmed-iyi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad xedmeɣ"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ayen i tḥemmleḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloha-nneɣ"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruaḥ-nnek"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "telha"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ad yi-ttnuḥeḍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "tabegnant"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:03.986493784Z",
+  "model": "glm-5.3"
+}

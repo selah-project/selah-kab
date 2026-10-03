@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "d ⟨את⟩ Yimuriyen, d ⟨את⟩ Yikenɛaniyen, d ⟨את⟩ Yigergaciyen, d ⟨את⟩ Yibusiyen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yimuriyen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Yimuriyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yikenɛaniyen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Yikenɛaniyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yigergaciyen"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Yigergaciyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yibusiyen"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yibusiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:24.240446570Z",
+  "model": "glm-5.3"
+}

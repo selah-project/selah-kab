@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Tagmart-ik tezdeɣ deg-s; s teɣzi-ik, a Elohim, tawid i imeḍburen.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "tagmart-ik"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tezdeɣ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tawid"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "s teɣzi-ik"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "i imeḍburen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:43.228630038Z",
+  "model": "glm-5.3"
+}

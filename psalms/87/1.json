@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 87,
+  "translation": "I wid n Qoraḥ. Mizmor, cnu. Asel-is ⟨yella⟩ deg idurar n yiqedcen.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "i wid n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cnu"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "asel-is"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "deg idurar n"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:56.484102650Z",
+  "model": "glm-5.3"
+}

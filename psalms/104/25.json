@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Wagi ilel, d ameqṛan, uḥrimit yif n ifassen; din llan iɣersiwen yettnuzun ⟨the⟩ war uṭṭun, iɣersiwen imiddan imeẓyanen d imeqṛanen.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqṛan"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "uḥrimit"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "yif n ifassen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "iɣersiwen yettnuzun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "war"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "uṭṭun"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "iɣersiwen imiddan"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "imeẓyanen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "imeqṛanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:30.188043785Z",
+  "model": "glm-5.3"
+}

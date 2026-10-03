@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ur cetten ara ⟨את⟩ afus-is, ⟨d⟩ ass idey iḥelleṣ-iten seg ucengu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "cetten ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "idey"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "iḥelleṣ-iten"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ucengu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:00.113719782Z",
+  "model": "glm-5.3"
+}

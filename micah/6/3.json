@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "A ugdud-iw, acu i xedmeɣ i kečč? D acu i k-iṛefen? Err-ed i yi.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "A ugdud-iw"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "i xedmeɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "D acu"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "i k-iṛefen"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Err-ed"
+    },
+    {
+      "surface": "בי",
+      "gloss": "i yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:21.044920474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yella-d, mi yebda Yahwe ad yali ⟨את⟩ Eliyahu s teẓẓaẓt n igenyan, Eliyahu yedda d Elicɛa seg Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "mi yebda ad yali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "s teẓẓaẓt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenyan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "d Elicɛa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:08.902814770Z",
+  "model": "glm-5.3"
+}

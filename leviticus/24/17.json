@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yal argaz ma yeḍdem ⟨⟨i⟩⟩ nnefs n wemdan, ad yemmut — yemmut ara.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "yeḍdem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yiwen n"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nnefs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "yemmut ara"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:44.867857091Z",
+  "model": "glm-5.3"
+}

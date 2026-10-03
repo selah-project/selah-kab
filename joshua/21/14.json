@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Akk d ⟨את⟩ Yattir akk d migraṣ-is, akken d ⟨את⟩ Ecetmoa akk d migraṣ-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "migraṣ-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraṣ-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "Ecetmoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Ecetmoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "migraṣ-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraṣ-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:41.626944729Z",
+  "model": "glm-5.3"
+}

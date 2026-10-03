@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Nekk ad k-d-melleɣ awalen, akked ⟨את⟩ yimdukkal-nnek yid-k.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ad k-d-melleɣ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "yimdukkal-nnek"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "yimdukkal-nnek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:43:17.486370583Z",
+  "model": "glm-5.3"
+}

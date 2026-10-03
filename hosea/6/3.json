@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad nẓer, ad nḍebbir ad nẓer Yahwe ⟨את⟩; tuffɣa-s tettwahedd d tafat n ṣbeḥ, ad yas-d ɣur-neɣ am ugeffur, am ageffur n temghezt i d-ittazalen tamurt.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "ad nẓer"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "ad nḍebbir ad nẓer"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad nẓer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "d tafat n ṣbeḥ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tettwahedd"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "tuffɣa-s"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ad yas-d"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "am ugeffur"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ɣur-neɣ"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "am ageffur n temghezt"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "i d-ittazalen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:32.236546196Z",
+  "model": "glm-5.3"
+}

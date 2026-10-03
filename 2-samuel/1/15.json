@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Isawel-d David yiwen seg yimeẓyanen, yenna-d: Ḍfer, mmet-it. Iḍfer-it, immut.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "isawel-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "seg yimeẓyanen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "גש",
+      "gloss": "ḍfer"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "mmet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-it"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "iḍfer-it"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "immut"
+    }
+  ],
+  "timestamp": "2026-10-02T22:54:21.874308323Z",
+  "model": "glm-5.3"
+}

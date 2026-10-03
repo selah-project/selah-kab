@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ihi, fell-i i d-yuɣal, yeqellec afus-is akk ass.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ihi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "i d-yuɣal"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "yeqellec"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T02:52:13.405927626Z",
+  "model": "glm-5.3"
+}

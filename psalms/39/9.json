@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Seg tucḍiwin-iw akk, sellesi-yid-i; ur ssegem-iyi ara d taqiccemt n win ineslen.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Seg akk"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "tucḍiwin-iw"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "sellesi-yid-i"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "taqiccemt"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "n win ineslen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ssegem-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:38.908433436Z",
+  "model": "glm-5.3"
+}

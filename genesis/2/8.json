@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe Elohim yexsɛa bustan deg Ɛiden, deg usamar, yessers din ⟨את⟩ adam i yexleq.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "yexsɛa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "bustan"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "deg Ɛiden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "deg usamar"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yexleq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:56.732875979Z",
+  "model": "glm-5.3"
+}

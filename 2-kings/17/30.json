@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yirgazen n Babel xedmen ⟨את⟩ Succot Benot, yirgazen n Kut xedmen ⟨את⟩ Nergal, yirgazen n Ḥamat xedmen ⟨את⟩ Acima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "yirgazen n"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Succot Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Succot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "yirgazen n"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "yirgazen n"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ḥamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Acima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Acima"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:10.415576441Z",
+  "model": "glm-5.3"
+}

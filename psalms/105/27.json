@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Ssersen deg-sen awalen n yizmulen-is, d tmucuḥin deg tmurt n Ḥam.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Ssersen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "n yizmulen-is"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "d tmucuḥin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "חם",
+      "gloss": "n Ḥam"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:43.126153871Z",
+  "model": "glm-5.3"
+}

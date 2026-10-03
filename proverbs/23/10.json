@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur ttbeddil ara tilist taqburant, ur tkecmeḍ ara deg yigran n yilmeẓyen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ttbeddil"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilist"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "taqburant"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "deg yigran"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "n yilmeẪyen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tkecmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:26:44.033124631Z",
+  "model": "glm-5.3"
+}

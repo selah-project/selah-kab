@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Acuγef ara yernu David wayeḍ i yyen γer-k? Kečč, teẓri-d ⟨את⟩ yemdanen-im, a Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "acuγef"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ara yernu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "i yyen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "γer-k"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "teẓri-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yemdanen-im"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yemdanen-im"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:07.005499824Z",
+  "model": "glm-5.3"
+}

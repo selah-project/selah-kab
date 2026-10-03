@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Axaṭer anwa ad itecc, neɣ anwa ad yexdem lɛeb-a, beṛṛa n nekkini?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad itecc"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "neɣ anwa"
+    },
+    {
+      "surface": "יחושׁ",
+      "gloss": "ad yexdem lɛeb-a"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "n nekkini"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:40.263690913Z",
+  "model": "glm-5.3"
+}

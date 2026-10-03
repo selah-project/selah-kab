@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Err awal-ik ad yeqqim i uɛebdi-ik, win i d-yeẓrin ⟨i⟩ tuggdi-inek.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Err ad yeqqim"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i uɛebdi-ik"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "awal-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "i tuggdi-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:48.287645719Z",
+  "model": "glm-5.3"
+}

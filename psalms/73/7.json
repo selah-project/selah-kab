@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Tuffɣa-d tin yivarren seg teḥmumt-nsen; tuɣal tickent tileɣri n ul-nsen d axir.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "tuffɣa-d"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "seg teḥmumt"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "tin yivarren nsen"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "tuɣal tickent d axir"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "tileɣri"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "n ul-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:21.907868109Z",
+  "model": "glm-5.3"
+}

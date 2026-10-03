@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Ad yested El, ad ten-d-yerr; d winna i d-yeqqimen zik. Selah. Wid-nni ur nesɛi ara wayen-nniḍen, ur ẓran ara Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ad yested"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ad ten-d-yerr"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "d winna i d-yeqqimen"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zik"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid-nni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur nesɛi ara"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "wayen-nniḍen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:58.627543166Z",
+  "model": "glm-5.3"
+}

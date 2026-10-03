@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "⟨את⟩ yemdakwal-nwen d ⟨את⟩ tikelin-nwen d ⟨את⟩ iεezzizen-nwen ifazen d ⟨את⟩ iyalen-nwen ad yewṭṭef, ad ten-ixeḍmen lumuṛ-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yemdakwal-nwen"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "yemdakwal-nwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tikelin-nwen"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "tikelin-nwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iεezzizen-nwen"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "iεezzizen-nwen"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ifazen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyalen-nwen"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "iyalen-nwen"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad yewṭṭef"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ad-ixeḍmen"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "lumuṛ-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:34.509475404Z",
+  "model": "glm-5.3"
+}

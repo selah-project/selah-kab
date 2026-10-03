@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "David isled deg ugeẓru belli Nabal yettgizzez ⟨את⟩ lexlaṛ-is.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "isled"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg ugeẓru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "yettgizzez"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lexlaṛ-is"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "lexlaṛ-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:49:14.667036204Z",
+  "model": "glm-5.3"
+}

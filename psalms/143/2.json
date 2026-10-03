@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "Ur aɣ-ruḥu ara ɣer ucceɛ mgal ⟨את⟩ umdan-ik; axaṭer ulac amaḥdi yettidir izmir ad yili d ameɣtu ger idaren-ik.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "aɣ-ruḥu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ɣer ucceɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umdan-ik"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umdan-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "izmir ad yili d ameɣtu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ger idaren-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amaḥdi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yettidir"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:12.430180214Z",
+  "model": "glm-5.3"
+}

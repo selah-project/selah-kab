@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yemmestay ⟨אתם⟩, ad yini: Ma yella ⟨את⟩ yuɣ i nnefs-nwen ad qebreɣ ⟨את⟩ win yemmuten-iw, ɣef zdat-i, cfet-iɣi, ad tmeslayem ɣuri akked Ɛefrun mmi-s n Ṣeḥar.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmestay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnefs-nwen"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nnefs-nwen"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ad qebreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win yemmuten-iw"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "win yemmuten-iw"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ɣef zdat-i"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "cfet-iɣi"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "ad tmeslayem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣuri"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Ɛefrun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Ṣeḥar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:15.708928438Z",
+  "model": "glm-5.3"
+}

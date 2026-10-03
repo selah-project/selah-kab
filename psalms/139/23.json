@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Igen-iyi, a El, issen ul-iw; ḥekm-iyi, issen tiḥekkuwin-iw.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Igen-iyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "issen"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ḥekm-iyi"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "issen"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "tiḥekkuwin-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.997655798Z",
+  "model": "glm-5.3"
+}

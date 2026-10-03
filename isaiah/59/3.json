@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Xaṭer ifassen-wnnwen ṛkment s idammen, iḍfaren-wnnwen s tuccḍa; ilef-wnnwen nnan tikerkas, ils-wnnwen yettḥemmel ⟨dirit⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xaṭer"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "ifassen-wnnwen"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "ṛkment"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "s idammen"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "iḍfaren-wnnwen"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "s tuccḍa"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "ilef-wnnwen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tikerkas"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ils-wnnwen"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "yettḥemmel"
+    }
+  ],
+  "timestamp": "2026-10-03T00:08:43.579058371Z",
+  "model": "glm-5.3"
+}

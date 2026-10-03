@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ḥanok yeddel akked ⟨את⟩ Elohim, ulac-it ḥaca, axaṭer Elohim yewwi-⟨את⟩-t.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "yeddel"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ḥanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ulac-it ḥaca"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "Ḥanok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:58:15.595854957Z",
+  "model": "glm-5.3"
+}

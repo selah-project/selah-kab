@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "ad d-yerr ⟨tagelda⟩ seg uxxam n Cawl, ad yessbekker ⟨את⟩ tagensa n David ɣef Yisrael d ɣef Yehuda, seg Dan ar Beer-Cebɛa.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ad d-yerr"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "⟨tagelda⟩"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg uxxam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Cawl"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ad yessbekker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagensa n David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tagensa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "seg Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cebɛa"
+    }
+  ],
+  "timestamp": "2026-10-02T22:54:23.760106356Z",
+  "model": "glm-5.3"
+}

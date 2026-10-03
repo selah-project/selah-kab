@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Akkinn ad rmdeɣ i wid-iw ṣṣut n lɛib, axaṭer tḥebs-eɣ deg awal-ik.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "akkinn ad rmdeɣ"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "i wid-iw ṣṣut n lɛib"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tḥebs-eɣ"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "deg awal-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:16.337212784Z",
+  "model": "glm-5.3"
+}

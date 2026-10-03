@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Acku Avraham yestermeḥ i taɣect-iw, iḥraz ⟨⟨aḥrez-iw, lamerah-iw, iḥerday-iw, d Tora-iw⟩⟩.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yestermeḥ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "i taɣect-iw"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "iḥraz"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "aḥrez-iw"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "lamerah-iw"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "iḥerday-iw"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "d Tora-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:21:11.942215873Z",
+  "model": "glm-5.3"
+}

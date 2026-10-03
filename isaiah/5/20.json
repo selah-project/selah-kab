@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ayyu i wid iqqaṛen dir d amelḥu, d amelḥu d dir; wid isseḥran tilas i tafat, taft i tilas; wid isseḥran amer i weḥla, aḥla i wamer!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ayyu"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "i wid iqqaṛen"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "dir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d amelḥu"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "d amelḥu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "d dir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wid isseḥran"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tilas"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "i tafat"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "i tilas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wid isseḥran"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amer"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "i weḥla"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "aḥla"
+    },
+    {
+      "surface": "למר",
+      "gloss": "i wamer"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:52.567973895Z",
+  "model": "glm-5.3"
+}

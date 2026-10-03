@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Win ibeddun ijeḍṛan ad iḥuz yidesen; win yettqessiɣen lexlac ad yexṣer deg-sen.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "Win ibeddun"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ijeḍṛan"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ad iḥuz"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yidesen"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "win yettqessiɣen"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lexlac"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ad yexṣer"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:16.542846012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Ad siwlleɣ i Elohim ɛelyon, i El win iwudden ayen-iw.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Ad siwlleɣ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ɛelyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "i El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "win iwudden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ayen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:06.806646847Z",
+  "model": "glm-5.3"
+}

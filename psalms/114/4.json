@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 114,
+  "translation": "Idurar ennenḍel am yizmar, iḍeggen am warraw n yimellel.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Idurar"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "ennenḍel"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "am yizmar"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "iḍeggen"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "am warraw n"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "yimellel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:15.961338238Z",
+  "model": "glm-5.3"
+}

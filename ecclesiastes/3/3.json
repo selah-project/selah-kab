@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akud iwakken ad yuneg, akud iwakken ad ijheḍ; akud iwakken ad yesruḥ, akud iwakken ad yebnu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "iwakken ad yuneg"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "iwakken ad ijheḍ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "iwakken ad yesruḥ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "iwakken ad yebnu"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:16.595473513Z",
+  "model": "glm-5.3"
+}

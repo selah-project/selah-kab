@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad d-ṭṭfen seg idammen, ad s-ǧǧen-t ɣef snat n tesɣṛin n tewwurt d ɣef usudder, ɣef yixxamen ideg ččen-t.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ad d-ṭṭfen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ad s-ǧǧen-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "tesɣṛin n tewwurt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "asudder"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "yixxamen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ččen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (asfel)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:01.216140281Z",
+  "model": "glm-5.3"
+}

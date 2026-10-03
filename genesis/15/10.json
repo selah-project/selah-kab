@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yewwi ⟨את⟩ akk-agi i yiman-is, yebḍa ⟨אתם⟩ di tlemmast, yerna yessers yal aḥric mgal wayeṭṭ; ma d ⟨את⟩ igennen, ur ten-ibḍi ara.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "yebḍa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "akk-agi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tlemmast"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "aḥric"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wayeṭṭ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma d ⟨את⟩",
+      "marks": "igennen"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "igennen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "ibḍi"
+    }
+  ],
+  "timestamp": "2026-10-03T03:58:27.970811362Z",
+  "model": "glm-5.3"
+}

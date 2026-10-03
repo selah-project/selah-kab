@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Neɣliɣ: El-iw, ur ssuiteɣ ara deg tlemmast n wussan-iw; deg wagimen n yigimen ay llan iseggasen-ik.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Neɣliɣ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ssuiteɣ"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "deg tlemmast"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "n wussan-iw"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "deg wagimen"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "n yigimen"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "iseggasen-ak ay llan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:45.960016747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Baɛca yennaḍ akked yigenwan-is iḍan, yettwamdel deg Tirṣa, Ela mmi-s yernu d agellid deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yennaḍ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baɛca"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "igenwan-is"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "yettwamdel"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "deg Tirṣa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yernu d agellid"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:21:36.708395545Z",
+  "model": "glm-5.3"
+}

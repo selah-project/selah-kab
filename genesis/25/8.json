@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Avraham yemmektit, yemmut deg tewert tinufra, d ameqqimran, d abɛid; yettwakkes ɣer yegdud-is.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "yemmektit"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "deg tewert"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tinufra"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "d ameqqimran"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "d abɛid"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "yettwakkes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "yegdud-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:19:52.997286562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yeḥoram yuli ɣef tagelda n baba-s, iẓẓay iman-is, yenɣa ⟨את⟩ akk atmaten-is s seif, daɣen seg yimeqqranen n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yeḥoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "tagelda n"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "iẓẓay iman-is"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "yenɣa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk atmaten-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "atmaten-is"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "s seif"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "seg yimeqqranen n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T03:50:02.813377704Z",
+  "model": "glm-5.3"
+}

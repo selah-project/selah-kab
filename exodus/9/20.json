@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Win i yugaden ⟨את⟩ awal n Yahwe, seg yimekka-nniyen n Ferɛun, yefra ⟨את⟩ yimekka-nnes d ⟨את⟩ lmal-nnes ɣer yexxamen.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Win i yugaden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal n Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "seg yimekka-nniyen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "yefra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimekka-nnes"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yimekka-nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "lmal-nnes"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "lmal-nnes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "yexxamen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:21.632720081Z",
+  "model": "glm-5.3"
+}

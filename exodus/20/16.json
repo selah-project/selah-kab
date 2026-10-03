@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ur d-tettaraḍ ara ɣef ṛṛaḥ-ik ineggalen n lkḍeb.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "d-tettaraḍ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ɣef ṛṛaḥ-ik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ineggalen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n lkḍeb"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:42.037804801Z",
+  "model": "glm-5.3"
+}

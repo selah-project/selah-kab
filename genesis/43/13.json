@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ṭṭefet ⟨את⟩ atmaten-nwen, leeret, uɣal-et ɣer wemdan-nni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atmaten-nwen"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "atmaten-nwen"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ṭṭefet"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "leeret"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "uɣal-et"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan-nni"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:54.280765565Z",
+  "model": "glm-5.3"
+}

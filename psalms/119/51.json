@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Izediyen ḥeṣṛen-iyi aṭas maḍmi; seg Tora-k ur nuddeɣ ara.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "izediyen"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "ḥeṣṛen-iyi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "maḍmi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "seg Tora-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "nuddeɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:27.031475583Z",
+  "model": "glm-5.3"
+}

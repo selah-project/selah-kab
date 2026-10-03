@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad yili, mi k-id-ig Yahwe ɣer tmurt n Lkenɛani, akken i k-yeɣbel kecc d yibanen-ik, ad as-k-yefk ⟨ttan-yi⟩:",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "k-id-ig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "n Lkenɛani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yeɣbel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ik (i kecc)"
+    },
+    {
+      "surface": "ולאבותיך",
+      "gloss": "d yibanen-ik"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ad as-k-yefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:55.625179954Z",
+  "model": "glm-5.3"
+}

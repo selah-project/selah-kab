@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "⟨Yella⟩ tawsit i ittakken izri i baba-s, ⟨את⟩ yemma-s ur tt-beṛṛik ara.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "tawsit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "i baba-s"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ittakken izri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yemma-s"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "tt-beṛṛik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:29:15.645490306Z",
+  "model": "glm-5.3"
+}

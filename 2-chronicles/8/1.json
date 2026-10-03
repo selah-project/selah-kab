@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yella-d deg taggara n tlemsi n tɛecrin iseggasen, mi iɛemmer Culeyman ⟨את⟩ axxam n Yahwe d ⟨את⟩ axxam-is.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "deg taggara"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tɛecrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iɛemmer"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Culeyman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "axxam-is"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "axxam-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:07.405742126Z",
+  "model": "glm-5.3"
+}

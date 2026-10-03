@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yenna Mikayahu: Yella Yahwe — ⟨את⟩ ayen ara d-yini Yahwe ɣur-i, ⟨את⟩-agi kan ara d-meslayeɣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Yella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ara d-yini Yahwe ɣur-i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ara d-yini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ad d-meslayeɣ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ad d-meslayeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:25:32.506015250Z",
+  "model": "glm-5.3"
+}

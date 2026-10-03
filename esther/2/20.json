@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ester ur tenna ara acḥal d tawacult-is d ⟨את⟩ agdud-is, akken i s-yeṣṣeg Mordoɣay; ⟨את⟩ awal n Mordoɣay Ester t-texdem, akken tella deg teṛfi ⟨את⟩ ɣur-s.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ur tenna ara"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "tawacult-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-is"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeṣṣeg"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "i s-"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoɣay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "awal n Mordoɣay"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "n Mordoɣay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "t-texdem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "deg teṛfi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɣur-s"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:38.016568191Z",
+  "model": "glm-5.3"
+}

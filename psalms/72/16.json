@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Ad yili waṭas n yimdewen deg tmurt, iḍefraren n yidurar; ad iṛezzeg am Lebnon iferrawen-is, ad isefnunent si temdint am tuga n tmurt.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "waṭas"
+    },
+    {
+      "surface": "בר",
+      "gloss": "n yimdewen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "iḍefraren"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "n yidurar"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ad iṛezzeg"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "am Lebnon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "iferrawen-is"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ad isefnunent"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "si temdint"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "am tuga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:08.056058370Z",
+  "model": "glm-5.3"
+}

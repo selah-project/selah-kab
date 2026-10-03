@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Akk win ibeṭṭun taɣaṛut, taɣaṛut yebṭan s beṭṭu, i d-yettalin s lḥami, seg yilfan — ⟨את⟩ tin-aṭ teṭṭfem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ibeṭṭun"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "taɣaṛut"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "s beṭṭu"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "yebṭan"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "taɣaṛut"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "i d-yettalin"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "s lḥami"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "seg yilfan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tin-aṭ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "teṭṭfem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:07:12.302460617Z",
+  "model": "glm-5.3"
+}

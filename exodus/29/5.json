@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad teqqleḍ ⟨את⟩ ilebsa, ad tlubbseḍ ⟨את⟩ Aharon s ⟨את⟩ kutonet, d ⟨את⟩ meɛil n ufod, d ⟨את⟩ ufod, d ⟨את⟩ ḥošen, ad t-cedveḍ s ucweb n ufod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad teqqleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilebsa"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ilebsa"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ad tlubbseḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutonet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "meɛil n ufod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meɛil"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "n ufod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ufod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ufod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ḥošen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ḥošen"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "ad t-cedveḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "t-"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "s ucweb"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "n ufod"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:54.040119335Z",
+  "model": "glm-5.3"
+}

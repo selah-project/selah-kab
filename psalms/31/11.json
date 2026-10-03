@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Axaṭer yeḥma wemdan deg yiɣes-iw, iseggasen deg uzyin; teɣli tezmert-iw ɣef lweɛṛ-is, iɣsan-iw ṣeffen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "yeḥma"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "deg yiɣes-iw"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "deg uzyin"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "teɣli"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "ɣef lweɛṛ-is"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tezmert-iw"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "iɣsan-iw"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "ṣeffen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:50.787417944Z",
+  "model": "glm-5.3"
+}

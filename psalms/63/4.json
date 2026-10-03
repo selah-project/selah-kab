@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Acku ḥesed-ik yugar tudert, ilfen-iw ad k-ssnubten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yugar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "tudert"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ilfen-iw"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ad k-ssnubten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:13.771540762Z",
+  "model": "glm-5.3"
+}

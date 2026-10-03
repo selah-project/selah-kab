@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "mmi-s n ɛAmarya, mmi-s n ɛAzarya, mmi-s n Merayot.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ɛAmarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ɛAzarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-10-03T03:14:32.079894697Z",
+  "model": "glm-5.3"
+}

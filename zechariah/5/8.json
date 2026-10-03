@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yenna: Tagi ⟨d⟩ treḥma. Yessuffɣ-itt-id ɣer tlemmast n t-efa, yessuffɣ taẓalt n uɣebbis ɣer imi-is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "treḥma"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "yessuffɣ-itt-id"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "imutti (treḥma)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tlemmast"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "n t-efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "yessuffɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taẓalt n uɣebbis"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "taẓalt"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "n uɣebbis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "imi-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:33:53.991249796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Noaḥ yexdem akken akk ayen i s-yeḥkem Elohim; akka ixd-it.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i s-yeḥkem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Noaḥ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixd-it"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:32.863264598Z",
+  "model": "glm-5.3"
+}

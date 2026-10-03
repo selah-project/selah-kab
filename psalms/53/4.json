@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Akken maḍi tuɣal-d ɣer deffir; kkten akken maḍi deg-sen; ulac win ixedmen lxiṛ, ulac ula yiwen.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "akken maḍi"
+    },
+    {
+      "surface": "סג",
+      "gloss": "tuɣal-d ɣer deffir"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "akken maḍi deg-sen"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "kkten"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxiṛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:02.522585488Z",
+  "model": "glm-5.3"
+}

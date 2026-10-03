@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Win ur nesslay ara i ṣut n wid yettlalen, ula i win yessifen tiḥriyin s tezmert.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nesslay"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "i ṣut"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "n wid yettlalen"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "win yessifen"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "tiḥriyin"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "s tezmert"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:36.822528683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad ⟨את⟩ ten-terẓem akken terẓmed ⟨את⟩ baba-sen, ad kkfen fell-i; arẓem-nsen ad yili i lebda d tacrurt i tsutiwin-nsen.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ad ten-terẓem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "arraw-is"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "terẓmed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-sen"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba-sen"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "ad kkfen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i nsen"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "arẓem-nsen"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "d tacrurt"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "i tsutiwin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:17.289120785Z",
+  "model": "glm-5.3"
+}

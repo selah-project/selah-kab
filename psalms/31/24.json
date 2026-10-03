@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ḥemmled ⟨את⟩ Yahwe, meṛṛa iqedcen-is; Yahwe yettḥarez wid n laman, ad yakzi d aṭas win ixedmen teɣri.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Ḥemmled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "wid n laman"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "yettḥarez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ad yakzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "d aṭas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixedmen"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "teɣri"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:22.865904456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "Azen ifassen-ik seg ufella; ssufeɣ-it-iɣi, seddu-it-iɣi seg waman imeqqṛan, seg ufus n warrac n yibeṛṛaniyen.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Azen"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ifassen-ik"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ssufeɣ-it-iɣi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "seddu-it-iɣi"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "seg waman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "imeqqṛan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "n yibeṛṛaniyen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:22.694530819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "El i d-yezzužen tazmert, i d-yefkan timmit i ubrid-iw.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "i d-yezzužen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i d-yefkan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timmit"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "abrid-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:41.164113651Z",
+  "model": "glm-5.3"
+}

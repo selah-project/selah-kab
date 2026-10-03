@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad snulfun-i d ⟨את⟩ axxam iqedcen; ad zedɛiɣ gar-asen.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ad snulfun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-i d"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "axxam iqedcen"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ad zedɛiɣ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "gar-asen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:30.012525283Z",
+  "model": "glm-5.3"
+}

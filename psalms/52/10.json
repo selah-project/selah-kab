@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Ma nekk, am uzemmur azegzaw deg wexxam n Elohim, ḥebbreɣ deg ḥesed n Elohim, i lebda d lmennat.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma nekk"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "am uzemmur"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "azegzaw"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ḥebbreɣ deg"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "d lmennat"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:28.156749052Z",
+  "model": "glm-5.3"
+}

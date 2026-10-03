@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Maca tijri ur t-id-terr ara ɣur-k; iḍ, am uzal, ad yewleɛ; am tin igger tuɣ tafat.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "maca"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tijri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "t-id-terr ara"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "am uzal"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ad yewleɛ"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "am tin igger"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "tuɣ tafat"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:19.176571449Z",
+  "model": "glm-5.3"
+}

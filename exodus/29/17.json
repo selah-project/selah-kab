@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad tgeḍmeḍ ⟨את⟩ wannzeɣ ɣef tqeccac-is, ad tseggmeḍ tayfant-is akked tiḍar-is, ad tent-terreḍ ɣef tqeccac-is akked ɣef uqerru-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wannzeɣ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wannzeɣ"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "ad tgeḍmeḍ"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ɣef tqeccac-is"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ad tseggmeḍ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "tayfant-is"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "akked tiḍar-is"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ad tent-terreḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "tqeccac-is"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "akked ɣef"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uqerru-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:52.866640121Z",
+  "model": "glm-5.3"
+}

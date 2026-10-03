@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Istenmaḍ, inna: D acu-t aqeddac-ik, a t-id-tḍuṛeḍ ajdi n ddatt, am nekkin?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "istenmaḍ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "d acu-t"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "aqeddac-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "t-id-tḍuṛeḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ajdi"
+    },
+    {
+      "surface": "המת",
+      "gloss": "n ddatt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "am"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "nekkin"
+    }
+  ],
+  "timestamp": "2026-10-02T22:58:05.588465104Z",
+  "model": "glm-5.3"
+}

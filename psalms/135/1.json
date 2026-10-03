@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Sebbḥet Yah, sebbḥet ⟨את⟩ isem n Yahwe, sebbḥet, a yekfa n Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "sebbḥet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sebbḥet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem n Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sebbḥet"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a yekfa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:42.389361809Z",
+  "model": "glm-5.3"
+}

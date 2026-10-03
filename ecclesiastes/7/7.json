@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Axaṭer takerḍa tessuffuɣ-d abalag seg win iḥekmen, d tidet lmutawa tesseḥḥer ⟨את⟩ ul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "takerḍa"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "tessuffuɣ-d abalag"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "seg win iḥekmen"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "tesseḥḥer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "lmutawa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:09.598800892Z",
+  "model": "glm-5.3"
+}

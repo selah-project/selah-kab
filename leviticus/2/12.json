@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Taneṣlit n tazwara ara ten-teqqim ⟨את⟩ i Yahwe, maċči ɣef lmeṣjed i d-ttaɣalen d uaḥ imuṛ.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "taneṣlit"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "n tazwara"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "teqqim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i Yahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mačči ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣjed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ttaɣalen"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "d uaḥ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "imuṛ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:19.319794071Z",
+  "model": "glm-5.3"
+}

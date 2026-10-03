@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Sḥebben-t ɣef yisfen, yeṣfen-t ⟨את⟩ akked yibabaten-is deg temdint n Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Sḥebben-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "yisfen"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "yeṣfen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tideffin n umḍiq n tmeḥmilt (yeṣfen-t)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yibabaten-is"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T03:51:45.986258349Z",
+  "model": "glm-5.3"
+}

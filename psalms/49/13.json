@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Maca amdan deg yiseqqiṛen ur izmir ara ad yeqqim; yettwamecnal am iɣersiwen, ṛuḥen akken.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Maca amdan"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "deg yiseqqiṛen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "yettwamecnal"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "am iɣersiwen"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ṛuḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:32.760890338Z",
+  "model": "glm-5.3"
+}

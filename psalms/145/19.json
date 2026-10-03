@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Ad yexdem radi n wid i t-yuggaden, ad isel ⟨את⟩ zzuzru-nsen, ad ten-yellek.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "radi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wid i t-yuggaden"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zzuzru-nsen"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "zzuzru-nsen"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ad isel"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ad ten-yellek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.806790652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Daɣen El ad k-yerẓ i lebda, ad k-yessel, ad k-yessuffɣeɣ seg uxxam, ad yekseẓ izerfan-ik seg tmurt n yimuddiren. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Daɣen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "ad k-yerẓ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "ad k-yessel"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "ad k-yessuffɣeɣ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "seg uxxam"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "ad yekseẓ izerfan-ik"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "n yimuddiren"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:20.323602235Z",
+  "model": "glm-5.3"
+}

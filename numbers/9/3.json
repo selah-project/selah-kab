@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 9:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Deg wuss mraw-kuẓ deg waggur-agi, gar n tmedlin, ad t-txedment deg lawḍiɛ-is; akken i llan iqedcen-is d ccreɛ-is, akken ad t-txedment.",
+  "tokens": [
+    {
+      "surface": "בארבעה",
+      "gloss": "mraw-kuẓ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deg wuss"
+    },
+    {
+      "surface": "יום",
+      "gloss": "uss"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "deg waggur"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tmedlin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ad t-txedment"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t-",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "deg lawḍiɛ-is"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken i llan"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ccreɛ-is"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ad t-txedment"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t-",
+      "marks": "Pesaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:54.989899894Z",
+  "model": "glm-5.3"
+}

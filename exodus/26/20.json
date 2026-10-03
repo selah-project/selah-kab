@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "I tgeffilt tis snat n Mickan, i tayeffut n ugafa: ezrin islagen.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "i tgeffilt"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "n Mickan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "tis snat"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "i tayeffut"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "n ugafa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ezrin"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "islagen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:55.649713433Z",
+  "model": "glm-5.3"
+}

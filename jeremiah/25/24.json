@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Akken ⟨את⟩ yill n yigeldunen n ɛarab, ⟨את⟩ yill n yigeldunen n wedrumen imcuṛḍen i zedɣen deg uneẓruf.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akken ⟨את⟩",
+      "marks": "yill n yigeldunen n ɛarab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yill"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "n yigeldunen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "n ɛarab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yill n yigeldunen n wedrumen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yill"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "n yigeldunen"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "n wedrumen"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "i zedɣen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uneẓruf"
+    }
+  ],
+  "timestamp": "2026-10-03T00:23:42.995394741Z",
+  "model": "glm-5.3"
+}

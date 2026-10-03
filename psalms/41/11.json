@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Ma kečči, a Yahwe, eḥnen-iyi, qimmen-d, ad awdeɣ-asen.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma kečči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "eḥnen-iyi"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "qimmen-d"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ad awdeɣ-asen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:45.619515140Z",
+  "model": "glm-5.3"
+}

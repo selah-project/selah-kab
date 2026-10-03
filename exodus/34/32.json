@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Deffir wa, akk warraw n Yisrael qerben, Moce yenugel-asen ⟨את⟩ akk ay d-yenna Yahwe ⟨את⟩ yides-s deg wedrar n Sina yi.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "qerben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "yenugel-asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yides-s"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina yi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:00.507931173Z",
+  "model": "glm-5.3"
+}

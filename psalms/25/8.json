@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Lxiṛ d usrireɣ i d-Yahwe; ɣef waya ad iselmed ⟨את⟩ iḍemṛen deg ubrid.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lxiṛ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "d usrireɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ad iselmed"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "iḍemṛen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:50.644974157Z",
+  "model": "glm-5.3"
+}

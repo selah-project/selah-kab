@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Deg wass n tmesṭit-iw, Adonai i ṭṭebbiɣ; afus-iw deg yiḍ yuli, ur ineḥbes ara; nefsi tugi ad tettwaṣelleḥ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "n tmesṭit-iw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "i ṭṭebbiɣ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "ineḥbes"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "tugi"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ad tettwaṣelleḥ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:27.416473128Z",
+  "model": "glm-5.3"
+}

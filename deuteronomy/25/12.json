@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad tgezzem ⟨את⟩ afus-is; allen-ik ur txemmelen ara.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ad tgezzem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "txemmelen ara"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "allen-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:44.610027043Z",
+  "model": "glm-5.3"
+}

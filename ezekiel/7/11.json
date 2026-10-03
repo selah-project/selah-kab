@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Abeṛṛan yuli d aseggen n ireẓẓen; ulac seg-sen, ulac seg lḥeǧǧa-nsen, ulac seg tsengirt-nsen, ulac iḍeggreff deg-sen.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "Abeṛṛan"
+    },
+    {
+      "surface": "קם",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "aseggen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "n ireẓẓen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "seg lḥeǧǧa-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "seg tsengirt-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "נה",
+      "gloss": "iḍeggreff"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:43:43.482680256Z",
+  "model": "glm-5.3"
+}

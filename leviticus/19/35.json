@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur txeddem ara dirit deg ucḍiw, deg tmeḍya, deg uzrir n wazal, d tiḍect n waman.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "txeddem"
+    },
+    {
+      "surface": "עול",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "deg ucḍiw"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "deg tmeḍya"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "deg uzrir n wazal"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "d tiḍect n waman"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:24.753009923Z",
+  "model": "glm-5.3"
+}

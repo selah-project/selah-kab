@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Axemr amaynu igguj, taẓerẓurt tewweḥ, akk wid yuran deg wul ḥuzzen.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "igguj"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "axemr amaynu"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "tewweḥ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "taẓerẓurt"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "ḥuzzen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "wid yuran"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    }
+  ],
+  "timestamp": "2026-10-02T23:50:42.392857988Z",
+  "model": "glm-5.3"
+}

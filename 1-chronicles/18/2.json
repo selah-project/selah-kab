@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yeḥbes ⟨את⟩ Muab; Muab iγuli ⟨d⟩ iεeččalen i David, ttawen-as minḥa.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Yeḥbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "iγuli d"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "iεeččalen"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ttawen-as"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:32:24.848085856Z",
+  "model": "glm-5.3"
+}

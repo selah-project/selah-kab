@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 6:11",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ruḥeɣ-d ar wadda ar busta n teqzut, iwakken ad waliɣ di tebdurt n wesif, iwakken ad waliɣ ma yella lɛenab yefṛeḥ, ma banent-d tirummin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "busta"
+    },
+    {
+      "surface": "אגוז",
+      "gloss": "n teqzut"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "ruḥeɣ-d ar wadda"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "iwakken ad waliɣ"
+    },
+    {
+      "surface": "באבי",
+      "gloss": "di tebdurt"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "n wesif"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "iwakken ad waliɣ"
+    },
+    {
+      "surface": "הפרחה",
+      "gloss": "yefṛeḥ"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "lɛenab"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "banent-d"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "tirummin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:28.962637034Z",
+  "model": "glm-5.3"
+}

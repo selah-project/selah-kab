@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "I Makir, cceγeγ ⟨את⟩ Gilɛad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "I Makir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "cceɣeγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilɛad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilɛad"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:24.291028052Z",
+  "model": "glm-5.3"
+}

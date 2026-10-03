@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ma ulac aɣilif ulac deg-s atmaten, ad ttunefken ⟨את⟩ lɛahd-is i watmaten n baba-s.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ulac aɣilif"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "atmaten"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ad ttunefken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-is"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "i watmaten"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:40:43.009518126Z",
+  "model": "glm-5.3"
+}

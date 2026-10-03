@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ma yessers ⟨את⟩-ten deffir mi yesla, ad yebbu ⟨את⟩ tucḍa-ines ⟨i d-yeǧǧan tameddakelt-is⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "yessers-ten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mi yesla"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ad yebbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tucḍa-ines"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tucḍa-ines"
+    }
+  ],
+  "timestamp": "2026-10-02T21:44:20.131927235Z",
+  "model": "glm-5.3"
+}

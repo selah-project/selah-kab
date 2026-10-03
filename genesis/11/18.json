@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Peleg yidder 30 n yiseggasen, yur-d ⟨את⟩ Reɛu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidder"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "30"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yur-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reɛu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reɛu"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:19.023650644Z",
+  "model": "glm-5.3"
+}

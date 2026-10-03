@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 35:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ruḥen; yeggra-d tugdi n Elohim ɣef yimdanen i d-yezzin i ten-id-yezzin, ur ṭṭfen ara deffir warraw n Yaɛqov.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ruḥen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yeggra-d"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "tugdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "yimdannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "i d-yezzin i ten-id-yezzin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:16.349638168Z",
+  "model": "glm-5.3"
+}

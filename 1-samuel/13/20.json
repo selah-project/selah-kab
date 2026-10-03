@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ruḥen akk Yisrael ɣer Pilistim, ad sselɣen yal argaz ⟨את⟩ taɣawsa-nni-s n uɛeḍdi, ⟨את⟩ taqerḍa-s, ⟨את⟩ tmesrɛet-s, d ⟨את⟩ ttewzal-is.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Ruḥen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ɣer Pilistim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "ad sselɣen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣawsa-nni-s n uɛeḍdi (ploughshare-is)"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "taɣawsa-nni-s n uɛeḍdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taqerḍa-s"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "taqerḍa-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmesrɛet-s"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "tmesrɛet-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttewzal-is"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ttewzal-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:42.240476606Z",
+  "model": "glm-5.3"
+}

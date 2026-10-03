@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Argaz ara yewden ⟨את⟩ tameṭṭut n gma-s: d timewṣiwt ⟨היא⟩; tibersiwt n gma-s i d-icegger; war arraw ad qqimen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yewden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameṭṭut n gma-s"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n gma-s"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "timewṣiwt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tibersiwt"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n gma-s"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "i d-icegger"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "war arraw"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad qqimen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:42.677638300Z",
+  "model": "glm-5.3"
+}

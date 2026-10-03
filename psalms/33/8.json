@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ad cuggen Yahwe ⟨את⟩ tmurt akk; si ḍeṣṣen-s ad ttẓallan akk imezdaɣ n umaḍal.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ad cuggen"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "si ḍeṣṣen-s"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ad ttẓallan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umaḍal"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:07.730088892Z",
+  "model": "glm-5.3"
+}

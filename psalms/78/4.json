@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ur ten-neffer ara seg ijiyen-asen; i tsuta-agi d-iteddun, ad neγmes tanemmirt n Yahwe, taẓert-is, weḥd-is ayen d-iγraḍan, ayen i deg yeγmen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "neffer"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "ijiyen-asen"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "i tsuta"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "d-iteddun"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "neγmes"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "tanemmirt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "taẓert-is"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ayen d-iγraḍan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yeγmen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:20.370787590Z",
+  "model": "glm-5.3"
+}

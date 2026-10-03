@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Yussef yemmut, d mraw n tesriḥ d mraw deg elli uzgen (110 iseggasen); ḥennten-t, ṭṭfen-t deg ṣanduq, deg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yussef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "d mraw..."
+    },
+    {
+      "surface": "מאה",
+      "gloss": "n tesriḥ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ḥennten-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yussef"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "ṭṭfen-t"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "deg ṣanduq"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:07.226987105Z",
+  "model": "glm-5.3"
+}

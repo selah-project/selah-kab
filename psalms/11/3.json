@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Acku isulan ttwaṛẓen; acu i d-yexdem umessid?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "isulan"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ttwaṛẓen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umessid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "i d-yexdem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:42.133849767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "wid ur ten-id-yewwi ara Nebukadneṣar, agellid n Babel, mi d-yuzen ⟨את⟩ Yekonya, mmi-s n Yehoyaqim, agellid n Yehuda, seg Yerucalayim ɣer Babel, akked ⟨את⟩ yimeṛkantiyen akk n Yehuda d Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "ten-id-yewwi"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadneṣar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babel"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "mi d-yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonya"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "seg Yerucalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ɣer Babel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "yimeṛkantiyen akk n Yehuda d Yerucalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "yimeṛkantiyen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "d Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:24:53.146870815Z",
+  "model": "glm-5.3"
+}

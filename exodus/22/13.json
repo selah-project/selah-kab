@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma yessuter urgaz seg umeddakel-is, tuɣeḥ ⟨neɣ⟩ temmut, ma yella bab-is ur yelli ara yid-s, ad yexleṣ lxerc.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "yessuter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urgaz"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umeddakel-is"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "tuɣeḥ"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨neɣ⟩"
+    },
+    {
+      "surface": "מת",
+      "gloss": "temmut"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma yella ... ara"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ad yexleṣ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "lxerc"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:17.873520991Z",
+  "model": "glm-5.3"
+}

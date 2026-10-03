@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Kečč, teḥkem-ed ⟨את⟩ ihedmiten-im iwakken ad ẓernen s waṭas.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "teḥkam-ed"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ihedmiten-im"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ad ẓernen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:29.915368372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Ameklan-nneγ d Yahwe Ṣebaot, isem-is d Win iqedcen n Yisrael.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "Ameklan-nneγ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Win iqedcen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:09.005043203Z",
+  "model": "glm-5.3"
+}

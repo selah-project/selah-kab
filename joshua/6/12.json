@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yekker Yehocua zik di sebḥ; yikohanim ṭṭfen ⟨את⟩ sanduq n Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yekker zik"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di sebḥ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "yikohanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduq n Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:11:44.684542503Z",
+  "model": "glm-5.3"
+}

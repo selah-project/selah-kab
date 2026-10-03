@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Wid i d-yennan i wid yettwalen: Ur walar ara; d wid yettmeslayen d navi: Ur d-tettmeslayen ara d navi ɣef yesseɣ deg-neɣ, meslayet-aɣ-d tumliwin, waledet-aɣ-d tikriḥin.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "i wid yettwalen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "walar ara"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "i wid yettmeslayen d navi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "tettmeslayen ara d navi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "deg-neɣ"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "yesseɣ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "meslayet"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ-d"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "tumliwin"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "waledet"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "tikriḥin"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:01.813620264Z",
+  "model": "glm-5.3"
+}

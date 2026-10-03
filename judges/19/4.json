@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Xaṭen-is, baba n teɣyult, iṭṭef-it s tezmert; i qqim akked ⟨את⟩-s ṣa n wussan; ccan, ssusen, ṣṣen din.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "iṭṭef s tezmert"
+    },
+    {
+      "surface": "בו",
+      "gloss": "it"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "xaṭen-is"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "n teɣyult"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "i qqim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "akked ⟨את⟩-s",
+      "marks": "xaṭen-is"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ṣa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ccan"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ssusen"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ṣṣen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-02T22:33:19.936990961Z",
+  "model": "glm-5.3"
+}

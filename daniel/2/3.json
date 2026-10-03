@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yenna ugellid ɣur-sen: Tiqtit ḥulmeɣ-tt, tettwagwḍ ruaḥ-iw iwakken ad ẓreɣ ⟨את⟩ tiqtit-nni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "tiqtit"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ḥulmeɣ-tt"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "tettwagwḍ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaḥ-iw"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad ẓreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiqtit-nni"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "tiqtit-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T04:40:19.047507369Z",
+  "model": "glm-5.3"
+}

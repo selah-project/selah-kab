@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad nren, ad ruḥen tuɣ, akk iḥdarren-iw; ad uɣalen, ad nren deg tikkelt.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ad nren"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ad ruḥen tuɣ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "iḥdarren-iw"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ad uɣalen"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ad nren"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "deg tikkelt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:40.129589612Z",
+  "model": "glm-5.3"
+}

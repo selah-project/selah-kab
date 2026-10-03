@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Imeẓ ḥed ɣer daxel, iwala ur illi ula d yiwen, iţerrez ⟨את⟩ amiṣri, iţeffel-it deg ijeǧǧigen n yilem.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Imeẓ ḥed ɣer daxel"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ḥed"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ɣer daxel"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur illi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ula d yiwen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iţerrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amiṣri"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "amiṣri"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "iţeffel-it"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "deg ijeǧǧigen n yilem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:31.796823075Z",
+  "model": "glm-5.3"
+}

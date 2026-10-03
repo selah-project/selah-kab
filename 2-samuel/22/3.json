@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Elohim n sruy-i, deg-s ad sduṣṣeɣ; d tagenzirt-yiw d tiɣmert n uselkem-iw, d tignit-iyiw d taggarda-yiw, d win iyi-yesselsen, seg takerḍa ara iyi-t-tekkseḍ.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sruy-i"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ad sduṣṣeɣ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "tagenzirt-yiw"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "tiɣmert"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "n uselkem-iw"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tignit-iyiw"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "taggarda-yiw"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "win iyi-yesselsen"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "seg takerḍa"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "ara iyi-t-tekkseḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:06:34.118067640Z",
+  "model": "glm-5.3"
+}

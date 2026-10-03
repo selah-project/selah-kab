@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Mmi-s n Deker, deg Maqaz, deg Cɛalabim, deg Bet Cemec, d Elon Bet Ḥanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "deg Maqaz"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "deg Cɛalabim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "deg Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Cemec"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "d Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ḥanan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:36.737511579Z",
+  "model": "glm-5.3"
+}

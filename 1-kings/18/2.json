@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Eliyahu yuγal ddu ad iban i Aḥab; tggaδa teqqim teγziγ deg Cemron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yuγal ddu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ad iban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "tggaδa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "teqqim teγziγ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "deg Cemron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:03.768914132Z",
+  "model": "glm-5.3"
+}

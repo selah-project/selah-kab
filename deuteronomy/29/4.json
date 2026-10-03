@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Nniɣ akken ad k-id-inigeɣ ⟨את⟩ kenwen ṣebɛin n iseggasen deg uẓeṭṭa; ilesdi-nwen ur ḥeṣṣen ara fellawen, selleɣ-ik ur iḥeṣṣa ara ɣef uḍar-ik.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "ad k-id-inigeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kenwen",
+      "marks": "kenwen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ṣebɛin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n iseggasen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uẓeṭṭa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ḥeṣṣen"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "ilesdi-nwen"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "fellawen"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "selleɣ-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "iḥeṣṣa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "uḍar-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:55.719656387Z",
+  "model": "glm-5.3"
+}

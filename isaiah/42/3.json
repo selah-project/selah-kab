@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Tala yewtem ur yesruz ara, fitil ayen yerẓen ur isseḥmay ara; s lḥeqq ad d-yessuffeɣ ccreɛ.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "yewtem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "yesruz ara"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "fitil"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ayen yerẓen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "isseḥmay ara"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "s lḥeqq"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ad d-yessuffeɣ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:45.760815654Z",
+  "model": "glm-5.3"
+}

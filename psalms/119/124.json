@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Xeddeɣ akked umeksas-ik akken ḥesed-ik, d tuqqniq-ik sselmed-iyi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Xeddeɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umeksas-ik"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "akken ḥesed-ik"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "d tuqqniq-ik"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "sselmed-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:07.852755240Z",
+  "model": "glm-5.3"
+}

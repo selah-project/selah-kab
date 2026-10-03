@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Azgen ma iṭṭef iqedcen s tuccḍa, ad yernu semmus-is ɣef-s, ad yefk i ukohen ⟨את⟩ iqedcen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "azgen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "s tuccḍa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "semmus-is"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "i ukohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:00.636655830Z",
+  "model": "glm-5.3"
+}

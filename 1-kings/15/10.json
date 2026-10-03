@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "D 41 n yiseggasen yeddukel deg Yerucalayim. Isem n yemma-s d Maɛaxa, yelli-s n Avicalem.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "40"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "d yiwet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yeddukel"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "n yemma-s"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maɛaxa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "n Avicalem"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:46.715397597Z",
+  "model": "glm-5.3"
+}

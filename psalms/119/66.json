@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Taɣawsa n tmuqbel d lmekla lmid-i, acku deg taludna-ik creɣ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "taɣawsa n lxir"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "n tmuqbel"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "d lmekla"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lmid-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "deg taludna-ik"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "creɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:54.673213147Z",
+  "model": "glm-5.3"
+}

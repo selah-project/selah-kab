@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yeǧǧa ⟨את⟩ Mickan n Cilo, aḥebri i izedγen gar yemdanen.",
+  "tokens": [
+    {
+      "surface": "ויטוש",
+      "gloss": "Yeǧǧa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "n Cilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "aḥebri"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "izedγen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "gar yemdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:54.232457540Z",
+  "model": "glm-5.3"
+}

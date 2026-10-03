@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 6:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "ṢsuɣǦǦeb ul n wegḍud-agi, iṣeɛɛel i meẓẓu-is, ḥebbes i ṭṣaṭṣen-is; ad ur iwali s ṭṣaṭṣen-is, ad ur isel s meẓẓu-is, ad ur ifehhem s ul-is, ad ur yuɣal ad iḥelleṣ.",
+  "tokens": [
+    {
+      "surface": "השמן",
+      "gloss": "ṣsuɣǦǦeb"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n wegḍud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "i meẓẓu-is"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "iṣeɛɛel"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "i ṭṣaṭṣen-is"
+    },
+    {
+      "surface": "השע",
+      "gloss": "ḥebbes i"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "iwali"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "s ṭṣaṭṣen-is"
+    },
+    {
+      "surface": "ובאזניו",
+      "gloss": "s meẓẓu-is"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "isel"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "s ul-is"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ifehhem"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "iḥelleṣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:31.262682301Z",
+  "model": "glm-5.3"
+}

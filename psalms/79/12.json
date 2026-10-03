@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "D rred i yimdanen i d-yezgan ɣer tama-nneɣ, sebaɛ n tikkal deg teɣburt-nnsen lɛer-nsen, win i k-iɛerḍen, a Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "D rred"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "i yimdanen i d-yezgan ɣer tama-nneɣ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sebaɛ n tikkal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "teɣburt-nnsen"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "lɛer-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "i k-iɛerḍen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a Adonai"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:09.823139319Z",
+  "model": "glm-5.3"
+}

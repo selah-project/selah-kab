@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Talwit i wefgan i t-izeggwen Yah, seg Tora-k i t-temmled.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Talwit i"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "afgan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "t-izeggwen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ו מתורתך",
+      "gloss": "seg Tora-k"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "i t-temmled"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:27.400713955Z",
+  "model": "glm-5.3"
+}

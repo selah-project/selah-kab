@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Agellid n Acur yegled ⟨את⟩ Yisrael ɣer Acur, yerna yessers-iten di Ḥelaḥ akk di Ḥabor, asif n Gozan, akk di temdinin n Yimediyen.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "yegled"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Acur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ɣer Acur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "yessers-iten"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "di Ḥelaḥ"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "akk di Ḥabor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "asif"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "n Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "akk di temdinin"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "n Yimediyen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:25.346451364Z",
+  "model": "glm-5.3"
+}

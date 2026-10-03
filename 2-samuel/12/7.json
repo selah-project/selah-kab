@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yenna Natan i David: Keccini i d-wemdan-nni. Akka i d-yenna Yahwe, Elohim n Yisrael: Nekk i k-id-yedehnen d agellid ɣef Yisrael, u Nekk i k-ḥedmen seg ufus n Cawl.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keccini"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan-nni"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "i k-id-yedehnen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "u Nekk"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "i k-ḥedmen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Cawl"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:22.295656180Z",
+  "model": "glm-5.3"
+}

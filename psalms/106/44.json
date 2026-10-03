@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Iẓer lweḥc-itent mi isla ⟨את⟩ ungar-nsen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Iẓer"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "lweḥc-itent"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "mi isla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ungar-nsen"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ungar-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:28.380194872Z",
+  "model": "glm-5.3"
+}

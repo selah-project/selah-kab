@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Wid-agi d tiseddarin n Teraḥ: Teraḥ iwelded ⟨את⟩ Avram, ⟨את⟩ Naḥor d ⟨את⟩ Haran; Haran iwelded ⟨את⟩ Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Wid-agi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "tiseddarin"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelded"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naḥor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naḥor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelded"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:00.134509415Z",
+  "model": "glm-5.3"
+}

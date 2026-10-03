@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "D keccči, keccči kan, i yexṣeɣ; d ayen n dir i xedmeɣ deg wallen-ik, iwakken ad tiliḍ d ameɣtu deg wawal-ik, ad tiliḍ d amṣuf deg lḥukm-ik.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "D keccči"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "keccči kan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "i yexṣeɣ"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "d ayen n dir"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "deg wallen-ik"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "i xedmeɣ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ad tiliḍ d ameɣtu"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "deg wawal-ik"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ad tiliḍ d amṣuf"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "deg lḥukm-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:24.943337224Z",
+  "model": "glm-5.3"
+}

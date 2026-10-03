@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "David yeṭṭef ⟨את⟩ ixef n ufliṣti, yewwi-t ɣer Yerucalayim, ⟨את⟩ ileslaḥen-is yeṭṭef-it yerra-t deg uḥejbub-is.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ixef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ixef"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "n ufliṣti"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "yewwi-t"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ileslaḥen-is"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ileslaḥen-is"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "deg uḥejbub-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:45:28.042887460Z",
+  "model": "glm-5.3"
+}

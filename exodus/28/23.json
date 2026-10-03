@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad txeddeḍ ɣef uḥucen snat tiḥnecmin n deḥeb, ad tettmudduḍ ⟨את⟩ ⟨i⟩ snat tiḥnecmin ɣef sin iqerruyen n uḥucen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txeddeḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "uḥucen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "tiḥnecmin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n deḥeb"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ad tettmudduḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "snat tiḥnecmin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "tiḥnecmin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "iqerruyen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "n uḥucen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:12.777332094Z",
+  "model": "glm-5.3"
+}

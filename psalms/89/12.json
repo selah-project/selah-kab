@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Genwan n keçç, daɣen tmurt n keçç; taɣama akk d ayen deg-s, keçç i ten-yesbeddan.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "n keçç"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "n keçç"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "taɣama akk"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "d ayen deg-s"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keçç"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "i ten-yesbeddan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:07.999842512Z",
+  "model": "glm-5.3"
+}

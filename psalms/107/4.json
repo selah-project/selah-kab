@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ṭṭfen abrid ur neẓri deg uḥeuc, abrid n yiɣzer; tamdint n zedgem ur d-wwin.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ṭṭfen abrid ur neẓri"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uḥeuc"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "yiɣzer"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "n zedgem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "wwin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:02.624574987Z",
+  "model": "glm-5.3"
+}

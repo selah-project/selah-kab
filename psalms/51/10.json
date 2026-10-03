@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Ssellen-as-iḍ ad sleγ lehza d ticci, ad reǧhlen iγam i terziḍ.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Ssellen-as-iḍ ad sleγ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "lehza"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "d ticci"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ad reǧhlen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "iγam"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "i terziḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:19.057352371Z",
+  "model": "glm-5.3"
+}

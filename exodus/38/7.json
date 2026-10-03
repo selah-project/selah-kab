@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yessaɣ ⟨את⟩ lbudem deg tyubbac, ɣef yiɣfawen n lmeṛbaḥ, iwakken ad t-id-ṭṭfen yidsen; am uẓegzaw n tfali yexleq ⟨את⟩-t.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yessaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lbudem"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "lbudem"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "deg tyubbac"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "yiɣfawen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "n lmeṛbaḥ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ad t-id-ṭṭfen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yidsen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yidsen"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "am uẓegzaw"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "n tfali"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:12.212124064Z",
+  "model": "glm-5.3"
+}

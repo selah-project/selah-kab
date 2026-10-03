@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "⟨את⟩ taṣṭit n wegdi, d ⟨את⟩ iɛeẓẓalen-is, d ⟨את⟩ taẓlalt n lɛafu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣṭit n wegdi"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "taṣṭit"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "n wegdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iɛeẓẓalen-is"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iɛeẓẓalen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taẓlalt n lɛafu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "taẓlalt n lɛafu"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:10.625776807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ad azneγ ⟨את⟩ tfuzt deg zdat-ik, tegerrez ⟨את⟩ Iḥwiyen d ⟨את⟩ Iknaniten d ⟨את⟩ Iḥitiyen seg zdat-ik.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ad azneγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tfuzt"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tfuzt"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "deg zdat-ik"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "tegerrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iḥwiyen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Iḥwiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iknaniten"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Iknaniten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Iḥitiyen"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Iḥitiyen"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "seg zdat-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:36.058246908Z",
+  "model": "glm-5.3"
+}

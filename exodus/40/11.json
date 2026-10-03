@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad tdehneḍ ⟨את⟩ taṣṣut akked ⟨את⟩ usiges-is, ad teqedgeḍ-t.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ad tdehneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣṣut"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "taṣṣut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "usiges-is"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "usiges-is"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ad teqedgeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "taṣṣut d usiges-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:23.601323165Z",
+  "model": "glm-5.3"
+}

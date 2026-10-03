@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Reḥabeɛam yeẓweɣ deg Yerucalayim, yebna tiɣremtin i wuḥuddu deg Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yeẓweɣ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reḥabeɛam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tiɣremtin"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "i wuḥuddu"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T03:41:21.081338927Z",
+  "model": "glm-5.3"
+}

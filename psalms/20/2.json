@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad k-yer Yahwe deg wass n twaẓi; isem n Elohim n Yaɛqov ad k-yessuli.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "ad k-yer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "n twaẓi"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "ad k-yessuli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:23.119940925Z",
+  "model": "glm-5.3"
+}

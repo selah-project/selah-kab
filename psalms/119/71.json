@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Iwelli ihi-yi ayen tzemreɣ ⟨the⟩ ad kteredɣ deg-s, iwakken ad lemdaɣ iqeccalen-ik.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "iwelli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ihi-yi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "tzemreɣ ad kteredɣ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ad lemdaɣ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iqeccalen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:49.722142733Z",
+  "model": "glm-5.3"
+}

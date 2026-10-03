@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ssel i ṣṣut n t-yuri ⟨seg tẓallit-iw⟩, agellid-iw d Elohim-iw; axaṭer ɣur-k i ttẓallayeɣ.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Ssel"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "i ṣṣut"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "n t-yuri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agellid-iw"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "d Elohim-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "i ttẓallayeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:16.656388915Z",
+  "model": "glm-5.3"
+}

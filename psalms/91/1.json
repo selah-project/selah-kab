@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Win izdeɣ deg umḥellez n Ɛelyon, deg teɣda n Caddai ad yizdeɣ.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Win izdeɣ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg umḥellez"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "n Ɛelyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "deg teɣda"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "n Caddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "ad yizdeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:42.902654139Z",
+  "model": "glm-5.3"
+}

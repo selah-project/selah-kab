@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "S war tuccḍa deg-i, daḥlen u heggan iman-nsen; nnaṛ ɣer trewḍi-yi, ẓer.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "s war"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "daḥlen"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ad heggan iman-nsen"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "nnaṛ"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "ɣer trewḍi-yi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ẓer"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:09.219119572Z",
+  "model": "glm-5.3"
+}

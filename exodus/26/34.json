@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad terreḍ ⟨את⟩ takattayt n uttri ɣef ṣanduq n lland, deg waqedcu n yiqedcen.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ad terreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takattayt n uttri"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takattayt n uttri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ṣanduq"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "n lland"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg waqedcu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "n yiqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:10.479997987Z",
+  "model": "glm-5.3"
+}

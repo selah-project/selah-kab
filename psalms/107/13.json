@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Zɛren ɣer Yahwe deg lexṣa-nsen; seg tẓeddi-nsen, Isellik-iten.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Zɛren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "deg lexṣa-nsen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-nsen"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "seg tẓeddi-nsen"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Isellik-iten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:06.897233301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "David yugad ⟨את⟩ Elohim deg wass-nni, ad yenna: Melmi ara d-kecmeɣ ɣuri ⟨את⟩ tekemmant n Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "yugad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Melmi"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ara d-kecmeɣ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekemmant n Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tekemmant"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:46:52.117889891Z",
+  "model": "glm-5.3"
+}

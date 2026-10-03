@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "D ass-a, a yimezdaɣ n Yerucalayim d a yirgazen n Yehuda, ğemmemet waɣir-iw d teεemmit-iw.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "d ass-a"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "a yimezdaɣ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "d a yirgazen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ğemmemet"
+    },
+    {
+      "surface": "נא",
+      "gloss": "waɣir-iw"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gar-aɣ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "teεemmit-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:56.898392810Z",
+  "model": "glm-5.3"
+}

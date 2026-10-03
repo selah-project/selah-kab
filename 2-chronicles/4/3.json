@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "S ddaw-es tamedyazt n yisefna, s lxiḍ s lxiḍ iẓẓuman ⟨את⟩-id: mraw deg uma, iẓẓuman ⟨את⟩ ilel s lxiḍ; yisefna, sin yizirigen, ttwasemṣlen deg umṣel-is.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "tamedyazt"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "n yisefna"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "s ddaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-es"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s lxiḍ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s lxiḍ"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "iẓẓuman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ilel"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "deg uma"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "izeggan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s lxiḍ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "yizirigen"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "yisefna"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "ttwasemṣlen"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "deg umṣel-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:41:03.558486878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "A mmi, Tora-iw ur ttettuḥ ara, ad yiḥerez wul-ik ilugan-iw.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ttettuḥ ara"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ilugan-iw"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ad yiḥerez"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wul-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:27.232560692Z",
+  "model": "glm-5.3"
+}

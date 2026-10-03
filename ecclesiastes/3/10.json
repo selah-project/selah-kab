@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Twalaɣ ⟨את⟩ tawuri i d-yefka Elohim i warraw n yemdanen, iwakken ad tt-xeddmen deg-s.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Twalaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawuri"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "tawuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i d-yefka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw n"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yemdanen"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "iwakken ad tt-xeddmen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:56.543580175Z",
+  "model": "glm-5.3"
+}

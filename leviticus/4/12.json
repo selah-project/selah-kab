@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad d-yessuffeɣ ⟨את⟩ wagayun akk ar beṛṛa n lɛesker, ar umkan iqedcen, ar anida tettwaseḍren idggen; ad t-iḥreq ɣef yiɣsan deg tmes — deg umkan-agi n wegru n yidggen ad yettwaḥreq.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ad d-yessuffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wagayun akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wagayun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lɛesker"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "umkan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "anida tettwaseḍren"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "idggen"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ad t-iḥreq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yiɣsan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "wegru"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "yidggen"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ad yettwaḥreq"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:04.911625806Z",
+  "model": "glm-5.3"
+}

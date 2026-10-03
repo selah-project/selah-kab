@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad k-isbeḥ uzrib, mačči iḍer-ik; win yeggugan, mačči ccen-ik.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ad k-isbeḥ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "uzrib"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "iḍer-ik"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "win yeggugan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ccen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:29:16.239785504Z",
+  "model": "glm-5.3"
+}

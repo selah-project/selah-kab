@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yehocua yekker zik s taṣebaḥt, yessenqed ⟨את⟩ ugdud, yuli d netta akk d yimɣaren n Yisrael, sdat ugdud, ɣer Ɛi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yekker zik"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "s taṣebaḥt"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "yessenqed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "akk d yimɣaren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ɛi"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:14.207459155Z",
+  "model": "glm-5.3"
+}

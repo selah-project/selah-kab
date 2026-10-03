@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 113,
+  "translation": "Iwakken ad yessifer yid yimeqqranen, yid yimeqqranen n ugdud-is.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Iwakken ad yessifer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yid"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "yimeqqranen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yid"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "yimeqqranen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "n ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:38.265962446Z",
+  "model": "glm-5.3"
+}

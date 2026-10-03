@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Xalt-is n Taḥpenes tsel-as-d mmi-s Genubat, Taḥpenes tessukfed-it deg wexxam n Paroh; Genubat yella deg wexxam n Paroh, gar warrac n Paroh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "tsel-as-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "xalt-is"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "n Taḥpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat, mmi-s"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "tessukfed-it"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Taḥpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Paroh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:09.419371145Z",
+  "model": "glm-5.3"
+}

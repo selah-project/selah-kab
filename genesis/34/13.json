@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Wid n Yaɛqov uqilen ⟨את⟩ Cecem d ⟨את⟩ Ḥamor bab-as s tmerrukt, ttmeslayen, imi iḥermeḥ ⟨את⟩ Dina gma-tsent.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "uqilen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cecem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cecem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ḥamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Ḥamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bab-as"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "s tmerrukt"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ttmeslayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "iḥermeḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "gma-tsent"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:57.030439146Z",
+  "model": "glm-5.3"
+}

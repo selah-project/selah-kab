@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Snubbet i Yahwe, sneulfay-d s yisem-is, mmeldeg deg yegduden ⟨את⟩ tidyanin-is.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "snubbet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "sneulfay-d"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "s yisem-is"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "mmeldeg"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "deg yegduden"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "tidyanin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:13.037669072Z",
+  "model": "glm-5.3"
+}

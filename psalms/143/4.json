@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "Ruaḥ-iw tɛujeb fell-i; deg wallaɣ-iw ul-iw iḥmum.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "tɛujeb fell-i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Ruaḥ-iw"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "deg wallaɣ-iw"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "iḥmum"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:12.430470780Z",
+  "model": "glm-5.3"
+}

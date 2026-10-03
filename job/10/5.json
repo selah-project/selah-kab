@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ma d wussan-ik am wussan n win yettmettaten, neɣ iseggasen-ik am wussan n urgaz?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "Ma d wussan-ik"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "n win yettmettaten"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "wussan-ik"
+    },
+    {
+      "surface": "אם",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "iseggasen-ik"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "am wussan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "n urgaz"
+    }
+  ],
+  "timestamp": "2026-10-03T02:34:34.440039073Z",
+  "model": "glm-5.3"
+}

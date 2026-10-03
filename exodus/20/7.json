@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ur t-taker ara ⟨את⟩ isem n Yahwe Elohim-nnek i lbaṭel; axaṭer Yahwe ur yettḥelleṣ ara ⟨את⟩ win i d-yettawen ⟨את⟩ isem-is i lbaṭel.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ur t-taker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem n Yahwe Elohim-nnek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nnek"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "i lbaṭel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ur yettḥelleṣ ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win i d-yettawen isem-is i lbaṭel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "i d-yettawen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "i lbaṭel"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:16.967074928Z",
+  "model": "glm-5.3"
+}

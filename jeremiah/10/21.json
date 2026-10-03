@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Acku imeksawen uɣlen, ⟨את⟩ Yahwe ur t-ssuḍen ara; ɣef waya ur nwir ara, d akk igizi-nsen yeffeɣ d igummen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "uɣlen"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "imeksawen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "t-ssuḍen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nwir"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "igizi-nsen"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "yeffeɣ d igummen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:03.585514063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Aḥekkim n tneqlit, win i d-yettḥeccmen, ad yessers ⟨את⟩ win i d-yettḥeccmen s wudem n Yahwe, ɣef uṭṭun n teḥrest n Yisrael, ɣef teḥrest n ticcert.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ad yessers"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aḥekkim n tneqlit"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "win i d-yettḥeccmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win i d-yettḥeccmen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "win i d-yettḥeccmen"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣawsiwin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "s wudem n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ɣef uṭṭun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n teḥrest"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umellar"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:16.305224280Z",
+  "model": "glm-5.3"
+}

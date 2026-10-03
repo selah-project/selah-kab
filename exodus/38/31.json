@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "D ⟨את⟩ iɣerwen n ugeffu ay tebbi, d ⟨את⟩ iɣerwen n tebburt n ugeffu, d ⟨את⟩ akk tiseɛlatin n Mickan, d ⟨את⟩ akk tiseɛlatin n ugeffu ay tebbi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iɣerwen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "iɣerwen"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n ugeffu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ay tebbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iɣerwen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "iɣerwen"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tebburt"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n ugeffu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk tiseɛlatin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tiseɛlatin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "n Mickan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk tiseɛlatin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tiseɛlatin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n ugeffu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ay tebbi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:49.015797321Z",
+  "model": "glm-5.3"
+}

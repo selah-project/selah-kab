@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yahwe yettmeslay-d ɣer Moce, ad yini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yettmeslay-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:12.853580578Z",
+  "model": "glm-5.3"
+}

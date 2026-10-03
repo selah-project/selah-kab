@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 13:8",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad yili deg tmurt ⟨the⟩ akk, i d-yenna Yahwe: sin n yiḥricen deg-s ad tt-ḥeccmen ad mmten, ma d wis-kraḍ ad yeqqim deg-s.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg ... akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sin n yiḥricen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ad tt-ḥeccmen"
+    },
+    {
+      "surface": "יגועו",
+      "gloss": "ad mmten"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ma d wis-kraḍ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:36:13.630357101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 61,
+  "translation": "Axaṭer telli-d ⟨d⟩ amulli-iw, d burǧ n tezmert deg udlif n ucengay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "היית",
+      "gloss": "telli-d"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "amulli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iw"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "burǧ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "n tezmert"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "deg udlif"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ucengay"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:06.475992484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Izebel tuzen imsefra ɣer Eliyahu, ad t-inna: Akka ad xedmen iṛebbiten, d akka ad rnen: imi deg wakud agi, azekka, ad sruyeḍ ⟨את⟩ nnfs-ik am nnfs n yiwen segsen.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "tuzen"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "imsefra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad t-inna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "d akka"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "ad rnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "deg wakud agi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "azekka"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ad sruyeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnfs-ik"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nnfs-ik"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "am nnfs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "segsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:16:18.955718886Z",
+  "model": "glm-5.3"
+}

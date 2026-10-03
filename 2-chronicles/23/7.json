@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ad ḥerṣen yid-Lewiyen ⟨את⟩ ugellid s lɛeṛb, yal argaz s yiṣura-nnes deg ufus-nnes; win yekcem ɣer wexxam ad yemmey; ḥerṣet ⟨את⟩ γer tama ⟨n⟩-gellid mi ara yekcem ed mi ara yeffeɣ.",
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "ad ḥerṣen ... s lɛeṛb"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "yid-Lewiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s lɛeṛb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "s yiṣura-nnes"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-nnes"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "win yekcem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmey"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ḥerṣet ... γer tama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ γer tama ⟨n⟩",
+      "marks": "agellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "mi ara yekcem"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "ed mi ara yeffeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:49:29.476234844Z",
+  "model": "glm-5.3"
+}

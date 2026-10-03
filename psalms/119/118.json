@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Tḥeqreḍ akk wid izriwen seg iḥeqqan-ik, imi d ⟨lkuf⟩ ay d taḥrict-nsen.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "tḥeqreḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "wid izriwen"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "seg iḥeqqan-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lkuf"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "taḥrict-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.147593866Z",
+  "model": "glm-5.3"
+}

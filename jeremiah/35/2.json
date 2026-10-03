@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Du ɣer uxxam n Reḥabiyen, mmeslay-iten, awi-ten ɣer uxxam n Yahwe, ɣer yiwet seg tmezzag, seddu-asen ⟨את⟩ lexmer ad ssemt.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uxxam"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "n Reḥabiyen"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "mmeslay-it"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-iten",
+      "marks": "iten (wid n uxxam n Reḥabiyen)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "awi-ten"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "tmezzag"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "seddu-asen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-asen",
+      "marks": "asen"
+    },
+    {
+      "surface": "יין",
+      "gloss": "lexmer"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:43.238339337Z",
+  "model": "glm-5.3"
+}

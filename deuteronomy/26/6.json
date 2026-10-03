@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Wid n Miṣrayim ḥeṛsen ⟨את⟩-aneɣ, ṭṭfen-aɣ-d, sseǧɣen-aɣ-d taɛebbḍt iweɛṛen.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "ḥeṛsen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "aneɣ"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Wid n Miṣrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ṭṭfen-aɣ-d"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "sseǧɣen-aɣ-d"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "i neɣ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "taɛebbḍt"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "iweɛṛen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:00.340772023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 127,
+  "translation": "Talwit i wegbar win yeččan ⟨את⟩ taska-s s rsen; ur ad nren mi ara ad d-yemmeslen d ⟨את⟩ iɛdawen deg usawen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Talwit i"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "wegbar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yeččan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taska-s"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "taska-s"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "s rsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ad nren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ad d-yemmeslen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ d"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "iɛdawen"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "deg usawen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:22.604245857Z",
+  "model": "glm-5.3"
+}

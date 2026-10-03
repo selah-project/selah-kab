@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akked a d-yerr ⟨את⟩ mmi-k ad ineqqel ɣef Yisrael, ad yekcem deg yiqedcen nniḍen, ad yuli yiḍes n Yahwe fellawen, ad kwen-yekkes zik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akked a"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "yerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-k"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mmi-k"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ad ineqqel ɣef"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ad yekcem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "deg yiqedcen"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yiḍes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fellawen"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "ad kwen-yekkes"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "zik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:51:14.717417033Z",
+  "model": "glm-5.3"
+}

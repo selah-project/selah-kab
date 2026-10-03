@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "⟨את⟩ anwa ad isselmed tamussni? D ⟨את⟩ anwa ad ibeggen lexbar? I wid yettwaččaren seg uɣu, i wid yettwakksen seg iḥerkan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ad isselmed"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tamussni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "anwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ad ibeggen"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "lexbar"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "i wid yettwaččaren"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "seg uɣu"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "i wid yettwakksen"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "seg iḥerkan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:00.660905586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Maca, iffer ar deffir n truhit-is, s idammen-is, ur t-ṭṭefem ara ad t-teccem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "maca"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "iffer"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ar deffir n truhit-is"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "s idammen-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "t-ṭṭefem ad t-teccem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:45.816948048Z",
+  "model": "glm-5.3"
+}

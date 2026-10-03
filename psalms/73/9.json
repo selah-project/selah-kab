@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Ssersen di yigenwan iḍer-nsen, d yils-nsen itteddu deg tmurt.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Ssersen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di yigenwan"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "iḍer-nsen"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "d yils-nsen"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "itteddu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:31.507884873Z",
+  "model": "glm-5.3"
+}

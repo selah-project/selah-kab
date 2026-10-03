@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Akk ideg tella tuccḍa deg-s, ur t-qerbet ara; axaṭer ur yettili ara d lqbul i yawen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מום",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "t-qerbet ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "d lqbul"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yettili"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i yawen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:15:15.840136938Z",
+  "model": "glm-5.3"
+}

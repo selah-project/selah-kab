@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad issemkec ⟨את⟩ ufus-is ɣef xeṣ-is, ad inɣ ⟨את⟩-it qbel Axam n Lmeɛlad; ad zzergen warrac n Aharon ⟨את⟩ idammen-is ɣef uẓarim, di iḥricen-is akk.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ad issemkec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "xeṣ-is"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ad inɣ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tayṭṭist"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "axam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n Lmeɛlad"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ad zzergen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen-is"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idammen-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "uẓarim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di iḥricen-is akk"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:10.566734377Z",
+  "model": "glm-5.3"
+}

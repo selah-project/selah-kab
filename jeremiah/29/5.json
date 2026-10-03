@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Snubet tibani, qqimet deg-sent; sinet igezlan, eččet ⟨את⟩ ifiren-nnsent.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "snubet"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "tibani"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "qqimet deg-sent"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "sinet"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "igezlan"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "eččet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifiren-nnsent"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ifiren-nnsent"
+    }
+  ],
+  "timestamp": "2026-10-03T00:27:52.370519039Z",
+  "model": "glm-5.3"
+}

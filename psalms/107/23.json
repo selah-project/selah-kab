@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Widak id-yezzin ɣer yill deg yisekkilen, ixedhmen taggada deg waman yimingaten.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "widak id-yezzin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɣer yill"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "deg yisekkilen"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ixedhmen"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "taggada"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yimingaten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:43.649325115Z",
+  "model": "glm-5.3"
+}

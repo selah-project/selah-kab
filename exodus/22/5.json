@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma yeffeɣ tmes, tuf-d yicukkan, yuḥeṛṛem usfell neɣ iberkan n lexla neɣ lexla akk — win i d-yessenken times ad yexleṣ s lḥeqq ⟨את⟩ tanmeṛt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "tuf-d"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "yicukkan"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "yuḥeṛṛem"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "usfell"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "iberkan"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lexla"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ad yexleṣ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "s lḥeqq"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "win i d-yessenken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanmeṛt"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "tanmeṛt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:14.268374256Z",
+  "model": "glm-5.3"
+}

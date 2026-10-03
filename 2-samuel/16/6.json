@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yessufeɣ tiḥratin ⟨את⟩ ɣef David d ⟨את⟩ akk inebga n ugellid David, akkagdud akken d accenwiyen yella ɣef yefus-is d yidis-is n yezlmaḍ.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Yessufeɣ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "tiḥratin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk inebga n ugellid David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inebga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akkagdud akken"
+    },
+    {
+      "surface": "העם",
+      "gloss": "akkagdud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "accenwiyen"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ɣef yefus-is"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "d yidis-is n yezlmaḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:02:26.719434509Z",
+  "model": "glm-5.3"
+}

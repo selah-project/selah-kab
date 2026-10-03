@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ul n yimawasen deg wexxam n yimeṭṭafen, d ul n yiṛebbuben deg wexxam n ttfa.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Ul"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "n yimawasen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "n yimeṭṭafen"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "d ul"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "n yiṛebbuben"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "n ttfa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:07.827273922Z",
+  "model": "glm-5.3"
+}

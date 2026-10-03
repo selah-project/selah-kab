@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Smekti ma ulac aɣilif ⟨את⟩ wawal i txedmeḍ i ⟨את⟩ Moce, aɛebbad-ik, mi yenna: Ma txeḍɛem, ad k-id-sserbeɣ ⟨את⟩ kunwi gar yegduden.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Smekti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac aɣilif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "aɛebbad-ik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mi yenna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "txeḍɛem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ad"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "sserbeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "gar yegduden"
+    }
+  ],
+  "timestamp": "2026-10-03T04:44:25.262478517Z",
+  "model": "glm-5.3"
+}

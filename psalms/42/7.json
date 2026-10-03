@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Elohim-iw, ɣef-i i tettruẓu nnefs-iw; ɣef wayagi ad k-cekdeɛ seg tmurt n Urdun, d iẓraren n Ḥermon, seg udrar n Miṣar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "tettruẓu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wayagi"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ad k-cekdeɛ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "d iẓraren n Ḥermon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "seg udrar"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Miṣar"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:20.334417322Z",
+  "model": "glm-5.3"
+}

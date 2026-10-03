@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ur qbileɣ ara ad qqimeɣ d irgazen n lekla, d wid yettwaffren ur kecmeɣ ara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "qbileɣ ad qqimeɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "n lekla"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "d"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "wid yettwaffren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kecmeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:11.603419540Z",
+  "model": "glm-5.3"
+}

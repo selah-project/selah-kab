@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yenna-yasen: Ala, maca ad twalim ⟨את⟩ tirgwt n tmurt ayd-tussedim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yasen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tirgwt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "tussedim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad twalim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:59.292117455Z",
+  "model": "glm-5.3"
+}

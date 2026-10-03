@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ma tgerdem ⟨truɛa⟩, ad unagen iṣerḍan i yeẓḍen ɣer tama n usamar (taɣezwart).",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "ma tgerdem"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "truɛa"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "ad unagen"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "iṣerḍan"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "i yeẓḍen"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ɣer tama n usamar"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:14.562292930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Awalen n tkerra ḥedḍen-i, ṭḥemmun ɣef-i s waraccaḍ.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "n tkerra"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ḥedḍen-i"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ṭḥemmun ɣef-i"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "s waraccaḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:36.523044250Z",
+  "model": "glm-5.3"
+}

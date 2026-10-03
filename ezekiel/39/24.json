@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Skud imesḥi-nsen d tilufa-nsen, akka i gxeldɣ ⟨את⟩, u yeffer-iyi udem-iw degsen.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "skud imesḥi-nsen"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "d tilufa-nsen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gxeldɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (axxam n Yisrael)"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "u yeffer-iyi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "degsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:04:58.742807457Z",
+  "model": "glm-5.3"
+}

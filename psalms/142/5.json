@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 142,
+  "translation": "Wali ɣer yeffus, ẓer: ⟨ulac⟩ win iyi-yettwassen; texla-d tawwult-iw n usirem; ulac win inqen deg nefsiw.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "wali"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ɣer yeffus"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ẓer"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨ulac⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "win iyi-yettwassen"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "texla-d"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "tawwult-iw n usirem"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "seg yiwen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "win inqen"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "deg nefsiw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:14.609434600Z",
+  "model": "glm-5.3"
+}

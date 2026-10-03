@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Maḍi talalit-ikim: deg wass i tluleḍ, ur ttwakrez ⟨את⟩ lleǧfa-ikim; ur tettwaḥeṣeḍ deg waman iwakken ad tesfeḍ; ur tettwameṛṛaḥeḍ s temṣeṭ, ur tettwafelleḍ daɣen.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Maḍi talalit-ikim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "i tluleḍ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "keččin (timiḍ-ikim)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ttwakrez"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "lleǧfa-ikim"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "tettwaḥeṣeḍ"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "iwakken ad tesfeḍ"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "s temṣeṭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "tettwameṛṛaḥeḍ"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "tettwafelleḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "tettwafelleḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:49:30.992514908Z",
+  "model": "glm-5.3"
+}

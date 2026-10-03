@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Kehen ad yecerreg ⟨את⟩ ḥelev ɣef mizbeaḥ; ḥeze ad yili i Aharon d warrac-is.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ad yecerreg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ḥelev"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ḥelev"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef mizbeaḥ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "ḥeze"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "d i warrac-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:58.126518299Z",
+  "model": "glm-5.3"
+}

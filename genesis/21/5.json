@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Avraham yella d mraw n yiseggasen mi d-yettwagal i ⟨את⟩ Yiṣḥaq, mmi-s.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yiseggasen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "mi d-yettwagal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:14.577307Z",
+  "model": "glm-5.3"
+}

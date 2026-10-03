@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur zedɣen ara deg tmurt-ik, adak-k-erran ad ⟨את⟩ ak-kedḍlen ɣer-i, axaṭer ad tqebbeḍ ⟨את⟩ iṛebbiten-nnsen, ad uɣen-d d ameṭṭuḥ i kečč.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "deg tmurt-ik"
+    },
+    {
+      "surface": "פן",
+      "gloss": "adak"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "k-erran ad kedḍlen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ak",
+      "marks": "ak (kečč)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣer-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "תעבוד",
+      "gloss": "ad tqebbeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛebbiten-nnsen"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "iṛebbiten-nnsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uɣen-d"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "d ameṭṭuḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:11.417514783Z",
+  "model": "glm-5.3"
+}

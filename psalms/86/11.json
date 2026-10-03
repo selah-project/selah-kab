@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Selmed-iyi Yahwe abrid-ik; ad rzuɣ deg ṣedeq-ik; yelles ul-iw d yiwen, iwakken ad kufeɣ lεezz i l-isem-ik.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Selmed-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "abrid-ik"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ad rzuɣ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "deg ṣedeq-ik"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yelles d yiwen"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "iwakken ad kufeɣ lεezz"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "l-isem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:20.740545154Z",
+  "model": "glm-5.3"
+}

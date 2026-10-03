@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ssuḍen ⟨את⟩ iqeffan n warrac n Gereshon, nutni daɣen, s axxam n yibaban-nsen, s tewaculin-nsen.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ssuḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqeffan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqeffan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "s axxam n"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yibaban-nsen"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tewaculin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:23:02.940901951Z",
+  "model": "glm-5.3"
+}

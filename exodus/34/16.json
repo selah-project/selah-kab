@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "ad teṭṭfeḍ seg yelli-s i warraw-im; ad znen telliyin-is deffir iṛebbiten-nsent, ad s-nessin ⟨את⟩ warraw-im deffir iṛebbiten-nsent.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "seg yelli-s"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "i warraw-im"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "ad znen"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "telliyin-is"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "iṛebbiten-nsent"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "ad s-nessin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-im"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "warraw-im"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "iṛebbiten-nsent"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:30.865662082Z",
+  "model": "glm-5.3"
+}

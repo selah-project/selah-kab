@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tameṭṭut ɣer yelttma-s ur teṭṭafaḍ ara, i wakken ad tili d tameẓla fell-as, ad d-nessili taɣert-is fell-as, deg tmeddurt-is.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "yelttma-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "teṭṭafaḍ"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "ad tili d tameẓla fell-as"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ad d-nessili"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "taɣert-is"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "deg tmeddurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:05.422260363Z",
+  "model": "glm-5.3"
+}

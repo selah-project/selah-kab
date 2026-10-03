@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Ma d kecc, a Yahwe, ⟨d⟩ win yellan deg teɣzi i lebda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma d kecc"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "deg teɣzi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:51.541489044Z",
+  "model": "glm-5.3"
+}

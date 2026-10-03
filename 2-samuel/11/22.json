@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Aberray yerra-d iruḥ, ikecmed, yemmel i David ⟨את⟩ akk wayen i t-izen Yugab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yerra-d iruḥ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "aberray"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ikecmed"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "yemmel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "i t-izen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yugab"
+    }
+  ],
+  "timestamp": "2026-10-03T04:14:02.527072226Z",
+  "model": "glm-5.3"
+}

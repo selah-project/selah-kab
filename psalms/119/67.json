@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Uqbel ad ttwaḥeqreɣ, nekk tttruḥeɣ seg ubrid; ma γil-a awal-ik ḥerzeɣ.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "uqbel ad"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ttwaḥeqreɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "tttruḥeɣ seg ubrid"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ma γil-a"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "awal-ik"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ḥerzeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:54.673356123Z",
+  "model": "glm-5.3"
+}

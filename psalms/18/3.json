@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yahwe d ijeṛṛan-iw d lberṭ-isiw d win yefkan tallalt-iw; El-iw, ijeṛṛan-iw, deg-s ad d-lqeɣ; d leylaḥ-iw d ijeṛṛan n leslaḥ-iw, d aẓṛu ibedden i yaw.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ijeṛṛan-iw"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "d lberṭ-isiw"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "d win yefkan tallalt-iw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iw"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ijeṛṛan-iw"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ad d-lqeɣ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "d leylaḥ-iw"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "d ijeṛṛan"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "n leslaḥ-iw"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "d aẓṛu ibedden i yaw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:28.053639335Z",
+  "model": "glm-5.3"
+}

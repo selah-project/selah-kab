@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Yettwabna ul-iw, a Elohim; ad cceɣleɣ, ad d-rnu ad zzimreɣ, ula d taɛqabbilt-iw.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "yettwabna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ad cceɣleɣ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ad d-rnu ad zzimreɣ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "taɛqabbilt-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:48.718489207Z",
+  "model": "glm-5.3"
+}

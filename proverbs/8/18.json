@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Lexla d laɛzuz ⟨את⟩ ɣur-i, ayla azmaz d ṣedeq.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Lexla"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "d laɛzuz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ɣur-i",
+      "marks": "Lexla d laɛzuz"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ayla"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "azmaz"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "d ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:19:05.921160630Z",
+  "model": "glm-5.3"
+}

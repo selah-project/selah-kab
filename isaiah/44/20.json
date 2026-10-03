@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Yettɛassad deg yuzen; ul yettwaxreḍ yezgel-it, ur izmir ara ad isellek ⟨את⟩ taneffust-is, ur yini ara: mačči d tikrest ay d-lla deg ufus-iw ayfus?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "yettɛassad"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "yettwaxreḍ"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "yezgel-it"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ad isellek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taneffust-is"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "taneffust-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yini ara"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mačči... ?"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tikrest"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "deg ufus-iw ayfus"
+    }
+  ],
+  "timestamp": "2026-10-03T04:22:04.554930234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "David yewwi-d ⟨את⟩ tigeεεzin n werγ i yellan γef yimeḍḍafal n Ḥdadɛezer, yessefka-ten γer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigeεεzin n werγ"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "tigeεεzin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n werγ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yimeḍḍafal"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "n Ḥdadɛezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "yessefka-ten γer"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:30.870753423Z",
+  "model": "glm-5.3"
+}

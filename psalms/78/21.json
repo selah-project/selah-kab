@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ihi, Yahwe yesla, yaz yuli; tmes teqleɛ deg Yaɛqov, yaz ula d nettan yuli deg Yisrael.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yesla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "yaz yuli"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "teqleɛ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "deg Yaɛqov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula d nettan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yaz"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:46.922436262Z",
+  "model": "glm-5.3"
+}

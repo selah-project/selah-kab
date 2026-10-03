@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ur tessirmeɛet ara tmes deg yal axxam-nwen deg wass n Cabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "tessirmeɛet ara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "axxam-nwen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "n Cabbat"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:57.039824136Z",
+  "model": "glm-5.3"
+}

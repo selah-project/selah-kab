@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "Nefsiw ɣer Adonai, ugar n wid yettḥerṣen ɣef tufat, ad yili ḥers ɣef tufat.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefsiw"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ɣer Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "wid yettḥerṣen"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ɣef tufat"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ad yili ḥers"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ɣef tufat"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:03.200731878Z",
+  "model": "glm-5.3"
+}

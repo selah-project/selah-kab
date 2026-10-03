@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 8:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ma yella ur tazneḍ ara ⟨את⟩ wegdi-iw, walih, ad yazen ɣef-ik d ɣef yimeẓḍayen-ik d ɣef wegdi-k d ɣer yexxamen-ik ⟨את⟩ leɛwerb, ad ɛeddlen ixxamen n Miṣrayim s ⟨את⟩ leɛwerb, d tmurt-agi kan ara ţsekkren nnig-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "tazneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wegdi-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wegdi-iw"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "walih"
+    },
+    {
+      "surface": "משליח",
+      "gloss": "ad yazen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ɣef-ik"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "d ɣef yimeẓḍayen-ik"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "d ɣef wegdi-k"
+    },
+    {
+      "surface": "ובבתיך",
+      "gloss": "d ɣer yexxamen-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leɛwerb"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "leɛwerb"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ad ɛeddlen"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ixxamen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leɛwerb"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "leɛwerb"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "d... kan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nnig-s"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nnif"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:36.360664171Z",
+  "model": "glm-5.3"
+}

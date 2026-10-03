@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Wali ma yella abrid n uḍebsi deg-i, waḥdu-yi deg ubrid n lebda.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "n uḍebsi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "deg-i"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "waḥdu-yi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.997798426Z",
+  "model": "glm-5.3"
+}

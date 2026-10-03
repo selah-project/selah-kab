@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ad yeqqim ɣer ddar n lejdud-is; ⟨i⟩ ⟨lebda⟩ ur walin ara tafat.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ad yeqqim ɣer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ddar"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "n lejdud-is"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "⟨lebda⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "walin"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tafat"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:02.152927145Z",
+  "model": "glm-5.3"
+}

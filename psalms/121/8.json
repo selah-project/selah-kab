@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Yahwe ad yeḥrez tuffɣa-ik d unekcum-ik, seg tura akked lawan-nni akk.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ad yeḥrez"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "tuffɣa-ik"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "d unekcum-ik"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "seg tura"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "akked"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lawan-nni akk"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:43.713583188Z",
+  "model": "glm-5.3"
+}

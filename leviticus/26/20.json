@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad yatt azal-nwen war lumuṛ, ur d-tettak ara tmurt-nwen ⟨את⟩ ifewwis-is, ula saklan n tmurt ur d-yettak ara ifrawen-is.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ad yatt"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "war lumuṛ"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "azal-nwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tettak ara"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tmurt-nwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifewwis-is"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ifewwis-is"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ula saklan n"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yettak ara"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ifrawen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:54.859072140Z",
+  "model": "glm-5.3"
+}

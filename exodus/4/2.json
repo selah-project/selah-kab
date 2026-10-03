@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yahwe yenna-yas: Acu-tagi deg ufus-ik? Yenna: D aseffud.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "acu-tagi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-ik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "aseffud"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:28.348961102Z",
+  "model": "glm-5.3"
+}

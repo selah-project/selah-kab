@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 97,
+  "translation": "Times tesseddaw deg uqerru-is, tettčeḥḥa deg tama n yiɛdawen-is.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "deg uqerru-is"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tesseddaw"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "tettčeḥḥa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "deg tama"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "yiɛdawen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:09.656516076Z",
+  "model": "glm-5.3"
+}

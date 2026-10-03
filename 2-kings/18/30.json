@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ur kentt-ittmettalen ara Ḥizeqiyyahu ɣer Yahwe, mi ara yini: Yahwe ad yellek-aɣ, ad yellek-aɣ; tamdint-agi ur tettnefk ara ⟨את⟩ s ufus ugellid n Acur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "kentt-ittmettalen ara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kwen"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizeqiyyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mi ara yini"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ad yellek"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ad yellek-aɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "tettnefk ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Acur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:23.494831257Z",
+  "model": "glm-5.3"
+}

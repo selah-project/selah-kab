@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ma ur yessnul ara ⟨את⟩ tigemmi, neɣ ma yiwezdeɣ ⟨את⟩ tigemmi i wemdan-nniḍen, ur d-tettwasnul ara akk.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "yessnul ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigemmi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tigemmi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "yiwezdeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigemmi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tigemmi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "tettwasnul ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akk"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:43.702014579Z",
+  "model": "glm-5.3"
+}

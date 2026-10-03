@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Yenna Paroh i watmaten-is: d acu-t lxiḍ-wnnin? Nnan i Paroh: d inebgiwen-ik ay nettni, iḥebbsen ɣef leɛǧayem; nekni am akken id d-nettarra, nettni d yidensen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "מה",
+      "gloss": "d acu-t"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "lxiḍ-wnnin"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "iḥebbsen ɣef"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "leɛǧayem"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "inebgiwen-ik"
+    },
+    {
+      "surface": "גם",
+      "gloss": "am akken id d-nettarra"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nettni d"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "yidensen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:34:43.303791953Z",
+  "model": "glm-5.3"
+}

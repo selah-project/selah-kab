@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad teḥrez ⟨את⟩ tluddya n Yahwe Elohim-ik, akken ad teddud deg yiberdan-is, akken ad txesseḍ ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ad teḥrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tluddya n Yahwe Elohim-ik"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tluddya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "akken ad teddud"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "deg yiberdan-is"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "akken ad txesseḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:47.367732115Z",
+  "model": "glm-5.3"
+}

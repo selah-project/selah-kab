@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yahwe ur t-yettazbir ara deg ufus-is, ur t-yerr ara d abeḍci mi ara yettwaḥkem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "ur t-yettazbir ara"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "ur t-yerr ara d abeḍci"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "mi ara yettwaḥkem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:00.744918161Z",
+  "model": "glm-5.3"
+}

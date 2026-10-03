@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Am urgaz i t-tessefra yemma-s, akka nekki ad kwen-issefra; deg Yerucalayim ad ttwasfaram.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "am urgaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "t-tessefra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "ad kwen-issefra"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "ad ttwasfaram"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:21.636138801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Asa agellid yettawi ⟨את⟩ akk Yehuda, sḥeḍḍan ⟨את⟩ ijeṣṣen n Rama akked ⟨את⟩ weẓra-nnes i yebna Baɛca, yebna sentsen ⟨את⟩ Geba akked ⟨את⟩ lMiṣpa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yettawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "sḥeḍḍan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijeṣṣen n Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ijeṣṣen"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "n Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "weẓra-nnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baɛca"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sentsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "lMiṣpa"
+    }
+  ],
+  "timestamp": "2026-10-03T04:48:45.076306158Z",
+  "model": "glm-5.3"
+}

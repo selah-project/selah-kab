@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Qerben, ṭṭfen-ten deg tkutni-nsen, ar beṛṛa n lɛesker, akken i d-yenna Moce.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Qerben"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ṭṭfen-ten"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "deg tkutni-nsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "n lɛesker"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:07:15.610919048Z",
+  "model": "glm-5.3"
+}

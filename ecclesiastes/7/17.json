@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur txeeḍɛed ara aṭas, ula telliḍ d asikkel; acimi ara temmteḍ war ⟨akud-ik⟩?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur…ara"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "txeeḍɛed"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ula"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "d asikkel"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acimi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "temmteḍ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "war"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "akud-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:17.104161666Z",
+  "model": "glm-5.3"
+}

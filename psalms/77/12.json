@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Ad cmuɣ ilug n Yah, acku ad cceḥkuɣ s wayen akk idella, timuct-ik.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ad cmuɣ"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ilug"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ad cceḥkuɣ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "s wayen akk idella"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "timuct-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:40.766706172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ur nni ara wid irrḥen: maca am ccexx, ad tent-yezgugel ruaḥ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nni"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "wid irrḥen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨maca⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "am ccexx"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨win⟩"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ad tent-yezgugel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:47.256387829Z",
+  "model": "glm-5.3"
+}

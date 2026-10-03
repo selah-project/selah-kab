@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "I Zeraḥ, taqbuct n yizraḥiyen; i Caeul, taqbuct n yicaeuliyen.",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "i Zeraḥ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "taqbuct"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "n yizraḥiyen"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Caeul"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "taqbuct"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "n yicaeuliyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:39:38.415528015Z",
+  "model": "glm-5.3"
+}

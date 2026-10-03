@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Wid-agi d yimawlan n Yisrael: Reuven, Cimeɛon, Levi, d Yehuda, Yisaṣqar, d Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Wid-agi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "d yimawlan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeɛon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "d Yehuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaṣqar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "d Zevulun"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:50.506572443Z",
+  "model": "glm-5.3"
+}

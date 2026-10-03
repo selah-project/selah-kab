@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Xas ma dduleɣ deg yiɣzer n tḍullelt n tmettant, ur ttɣilɣ ara i dirit, axaṭer kečči yid-i; taɛessast-nnek d usleg-nnek, nutenti ssuḥen-iyi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "xas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "dduleɣ"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "deg yiɣzer"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "n tḍullelt n tmettant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ttɣilɣ ara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "i dirit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "taɛessast-nnek"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "d usleg-nnek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutenti"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ssuḥen-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:51.148791472Z",
+  "model": "glm-5.3"
+}

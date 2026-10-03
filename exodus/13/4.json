@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ass-a, deg wayyur n Ubib, tetteffɣem.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "tetteffɣem"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "deg wayyur n"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Ubib"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:29.415423615Z",
+  "model": "glm-5.3"
+}

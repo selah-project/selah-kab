@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Slan wid zdeɣen Yavec n Gilɛad ⟨את⟩ ayen xedmen Felecṭim i Caul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Slan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wid zdeɣen"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavec"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen xedmen Felecṭim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Felecṭim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Caul"
+    }
+  ],
+  "timestamp": "2026-10-02T22:54:19.407068735Z",
+  "model": "glm-5.3"
+}

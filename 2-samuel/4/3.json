@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ibeɛroṭiyen rewlen ɣer Gittayim, uɣalen d inedḍunen din ar ass-a.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "rewlen"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "ibeɛroṭiyen"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "ɣer Gittayim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "uɣalen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "inedḍunen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-a"
+    }
+  ],
+  "timestamp": "2026-10-02T22:55:25.878176835Z",
+  "model": "glm-5.3"
+}

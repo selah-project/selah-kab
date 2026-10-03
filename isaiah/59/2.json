@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Xaṭer kan d tuccḍiwin-wnnwen i d-yebdan ger-wnnwen d ger Elohim-nnwen, d iḥekkaten-wnnwen i fferen ⟨udmaw⟩ seg-wenn, ur isel ara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xaṭer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "tuccḍiwin-wnnwen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "i d-yebdan"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "ger-wnnwen"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "d ger"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nnwen"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "iḥekkaten-wnnwen"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "fferen"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udmaw"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "seg-wenn"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ur isel ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:08:43.578698169Z",
+  "model": "glm-5.3"
+}

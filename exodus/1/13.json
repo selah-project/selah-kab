@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Imiṣrayen ṣeggmen ⟨את⟩ tarwa n Yisrael ad xedmen s teẓweɣt.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ṣeggmen…ad xedmen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Imiṣrayen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarwa n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "s teẓweɣt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:42.021127763Z",
+  "model": "glm-5.3"
+}

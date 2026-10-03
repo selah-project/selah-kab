@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad yili d lɛej umeqran deg tmurt akk n Miṣrayim, am win ur neḥriq ara yiwen amzun, daɣen ur neṭṭef ara yiwen-nniḍen imir-nni.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "lɛej"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "umeqran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "am win"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "yiwen amzun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "neḥriq ara"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "yiwen-nniḍen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "neṭṭef ara imir-nni"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:32.726764943Z",
+  "model": "glm-5.3"
+}

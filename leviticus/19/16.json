@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur tedduned ara s tickdi gar yemdanen-ik; ur teqqim ara d amaluc ɣef idem n ɣiwen-ik: nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tedduned"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "s tickdi"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "gar yemdanen-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "teqqim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דם",
+      "gloss": "idem"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ɣiwen-ik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:32.475780581Z",
+  "model": "glm-5.3"
+}

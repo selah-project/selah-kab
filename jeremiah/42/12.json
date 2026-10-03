@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ad kafk-ed i wen treḥma, ad yerḥem ⟨את⟩ kunwi, ad irren ⟨את⟩ kunwi ɣer wakal-nwen.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ad kafk-ed"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "treḥma"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ad yerḥem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ad irren"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "wakal-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:36:41.286367317Z",
+  "model": "glm-5.3"
+}

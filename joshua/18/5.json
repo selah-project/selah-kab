@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ad tt-veḍḍun ⟨אתה⟩ ɣef ṣaɛ n yiḥricen: Yehuda ad yeqqim ɣef tlisa-nnes deg unzul, axxam n Yosef ad qqimen ɣef tlisa-nnsen deg ugafa.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "ad veḍḍun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iḥricen ṣaɛ"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ṣaɛ"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "iḥricen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "tlisa-nnes"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "deg unzul"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "axxam n"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ad qqimen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "tlisa-nnsen"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "deg ugafa"
+    }
+  ],
+  "timestamp": "2026-10-02T22:18:42.299595112Z",
+  "model": "glm-5.3"
+}

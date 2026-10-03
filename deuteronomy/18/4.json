@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tazwara n irden-ik, n ccṛab-ik, d zzit-ik, d tazwara n tuzzya n tisaɣ-ik, ad tt-tekfeḍ i netta.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "tazwara"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "n irden-ik"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "n ccṛab-ik"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "d zzit-ik"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "d tazwara"
+    },
+    {
+      "surface": "גז",
+      "gloss": "n tuzzya"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "n tisaɣ-ik"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ad tt-tekfeḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i netta"
+    }
+  ],
+  "timestamp": "2026-10-02T22:00:40.441837573Z",
+  "model": "glm-5.3"
+}

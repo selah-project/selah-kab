@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "D ileḍ i d-yuli seg tmurt, yessisgew ⟨את⟩ akk udem n wakal.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ileḍ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "i d-yuli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "yessisgew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk udem n wakal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "n wakal"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:56.728711210Z",
+  "model": "glm-5.3"
+}

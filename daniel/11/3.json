@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad yimseḍmel ugellid ujdid, ad yeḥkem s leḥkem ameqqran, ad yexdem ayen i ibɣa",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Ad yimseḍmel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ujdid"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ad yeḥkem"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "s leḥkem"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "ayen i ibɣa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:11:58.605491214Z",
+  "model": "glm-5.3"
+}

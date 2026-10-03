@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Iheggi ⟨את⟩ arawal-is, yewwi-d ⟨את⟩ ugdud-is yid-s.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "iheggi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arawal-is"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "arawal-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "widda ⟨את⟩",
+      "marks": "ugdud-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ugdud-is"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:10.471258679Z",
+  "model": "glm-5.3"
+}

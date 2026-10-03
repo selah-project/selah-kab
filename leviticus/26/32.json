@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Nekkini ad ruzeg-eɣ ⟨את⟩ tamurt, d yiɛdawen-nwen i d-yezzin fell-as ad veḥlen.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ad ruzeg-eɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nekkini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ad veḥlen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "אויביכם",
+      "gloss": "yiɛdawen-nwen"
+    },
+    {
+      "surface": "היושבים",
+      "gloss": "i d-yezzin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:53.622514210Z",
+  "model": "glm-5.3"
+}

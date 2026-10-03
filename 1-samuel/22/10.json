@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yestaqsaya-d deg ⟨את⟩ Yahwe i medden-nni, yefka-yas-d učči, yefka-yas-d ⟨את⟩ teɣensa n Gulyat apelišti.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "yestaqsaya-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i medden-nni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "učči"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka-yas-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i medden-nni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yefka-yas-d ⟨את⟩",
+      "marks": "teɣensa n Gulyat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "teɣensa"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Gulyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "apelišti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka-yas-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i medden-nni"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:05.623782566Z",
+  "model": "glm-5.3"
+}

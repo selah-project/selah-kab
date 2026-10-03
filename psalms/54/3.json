@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 54,
+  "translation": "Elohim, s Yisem-ik sellesi-yi-d, s tezmert-ik ḥkem fell-i.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "s Yisem-ik"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sellesi-yi-d"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "s tezmert-ik"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ḥkem fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:49.687674284Z",
+  "model": "glm-5.3"
+}

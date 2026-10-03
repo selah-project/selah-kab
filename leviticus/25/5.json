@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "⟨את⟩ ayen d-yeqqiman seg ṣṣɣa-ik ur t-tḥeṣṣreḍ ara, d ⟨את⟩ izmuren n tgerfa-ik ur tewwiḍ ara ur teqqimeḍ ara; d aseggas n usgunfu n Cabbaton ad yili i tmurt.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen d-yeqqiman"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "ayen d-yeqqiman"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "seg ṣṣɣa-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "tḥeṣṣreḍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "izmuren"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "izmuren"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "n tgerfa-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבצור",
+      "gloss": "teqqimeḍ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "aseggas"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "n usgunfu n Cabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "i tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:29.121049118Z",
+  "model": "glm-5.3"
+}

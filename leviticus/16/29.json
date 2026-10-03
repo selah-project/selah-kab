@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 16:29",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "S tagi ad tili i wen d lexḍsa n lebda: deg waggur wis sebɛa, deg umeḍraw n waggur, ad txesserem ⟨את⟩ nefsan-nwen, akk lxiḍ ur txeddem ara — win ilulen di tmurt akk d win izdeɣen garawen.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "d lexḍsa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n lebda"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "deg waggur"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis sebɛa"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "deg umeḍraw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n waggur"
+    },
+    {
+      "surface": "תענו",
+      "gloss": "ad txesserem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefsan-nwen"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefsan-nwen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lxiḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "txeddem ara"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "win ilulen di tmurt"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "akk d win izdeɣen"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "izdeɣen"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "garawen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:50.175970830Z",
+  "model": "glm-5.3"
+}

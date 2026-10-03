@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "d ⟨את⟩ yal igbour, i wajan-is",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yal igbour"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "igbour"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "i wajan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:08.663241873Z",
+  "model": "glm-5.3"
+}

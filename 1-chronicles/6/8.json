@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Elqana mmi-s, Eviasaf mmi-s, ula d Asir mmi-s.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "ula d Eviasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ula d Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:43.441009412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D tlaxdast-agi: talgerdt, iḥeqqan d icreɛ, i d-yewsi Yahwe Elohim nnwen iwakken ad iẓer lemqel, akken ad txedmem deg tmurt ara tzzuɣen dinna ad tt-tessekrebem.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "d tlaxdast-agi"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "talgerdt"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iḥeqqan"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "d icreɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yewsi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yewsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nnwen"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "iwakken ad iẓer lemqel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lemqel nnwen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iwakken ad txedmem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "tzzuɣen"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tzzuɣen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "iwakken ad tt-tessekrebem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:51:17.324113625Z",
+  "model": "glm-5.3"
+}

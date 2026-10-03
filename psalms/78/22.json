@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Axatai, ur numin-ara ara deg Elohim, ur nestehmen-ara ara deg uselqi-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axatai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "numin"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nestehmen"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "deg uselqi-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:46.922687991Z",
+  "model": "glm-5.3"
+}

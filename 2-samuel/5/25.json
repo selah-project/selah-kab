@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "David yexdem akka, akken i t-iḥkem Yahwe; yewwet ⟨את⟩ Ifilistiyen seg Geba ɣer unweggig-ik ɣer Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i t-iḥkem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yewwet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ifilistiyen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ifilistiyen"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "seg Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "באך",
+      "gloss": "unweggig-ik"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-10-02T22:56:13.914809658Z",
+  "model": "glm-5.3"
+}

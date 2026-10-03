@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Iɛebdan ḥkmen ɣef-neɣ; ulac win yessekfisen seg afus-nsen.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "iɛebdan"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ḥkmen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɣef-neɣ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "yessekfisen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "seg afus-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:26.753424948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yessidred ⟨את⟩ yilemẓiyen n yimeqqranen n temnaḍin; llan snet temdinin d sin d tlatin (232); deffir-sen yessidred ⟨את⟩ weɣdani akk, at Yisrael akk, sbeɛ n yimelyunen (7000).",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "yessidred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilemẓiyen n yimeqqranen n temnaḍin"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "yilemẓiyen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "n yimeqqranen"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "n temnaḍin"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "snet temdinin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "d tlatin"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "deffir-sen"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yessidred"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weɣdani akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weɣdani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sbeɛ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n yimelyunen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:43.853743832Z",
+  "model": "glm-5.3"
+}

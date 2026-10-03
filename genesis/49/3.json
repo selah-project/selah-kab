@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "A Reuven, kecc d aneggaru-yiw, tazmert-iw d tazwara n tezmert-iw, d ameqqran s lhertime, d ameqqran s tezmert.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "aneggaru-yiw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tazmert-iw"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "d tazwara"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "n tezmert-iw"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "s lhertime"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "עז",
+      "gloss": "s tezmert"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:30.862109196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Rnu yura dinna ɣef yijgalen ⟨את⟩ taleqcut n Tora n Moce, i yuran zdat n at Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yura"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "yijgalen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taleqcut n Tora n Moce"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "taleqcut"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "n Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "yuran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:14:43.866010923Z",
+  "model": "glm-5.3"
+}

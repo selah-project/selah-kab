@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Win yessuffuɣen timanit-agi yettmeslay-ed ɣef ṣedeq; maca ad nqqel: Win yessuffuɣen temɛant yettmeslay-ed ɣef ṣedeq, ma d inagan n lekdeb ⟨d⟩ n tuna.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "win yessuffuɣen"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "temɛant"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "yettmeslay-ed ɣef"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ma d win inagan n"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lekdeb"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tuna"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:37.993763002Z",
+  "model": "glm-5.3"
+}

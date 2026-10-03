@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Warraw n Yisrael ḥebsen ⟨את⟩ tacluḥt-nsen seg wedrar n Ḥoreb.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ḥebsen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tacluḥt-nsen"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "tacluḥt-nsen"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "seg wedrar"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Ḥoreb"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:33.572387606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Nniɣ-imi deg wul-iw: Ihi εeddan, ad k-id-nεesdeg γer lεeğna, wali ayen yellan d lqanεa — wa ihi, tanemmirt: d uwla-agi ihi d hebel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nniɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "imi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "deg wul-iw"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ihi εeddan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tanemmirt"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "ad k-id-nεesdeg"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "γer lεeğna"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "γer lqanεa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wa ihi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "d"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "agi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "d hebel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:18.672081068Z",
+  "model": "glm-5.3"
+}

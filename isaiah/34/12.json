@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Inembaḍen-is ulac deg-sen win ara d-yettwasi i tgelda; meṛṛa isellaken-is ad ilin d ulac.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "inembaḍen-is"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "שם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "i tgelda"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "win ara d-yettwasi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "isellaken-is"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "d ulac"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:25.463587165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ma telliḍ ad tazneḍ ⟨את⟩ gma-neɣ ⟨את⟩ yid-neɣ, ad nerd deg-s, ad necbey-dak uɣrum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ad tazneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gma-neɣ"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "gma-neɣ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ yid-neɣ"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "ad nerd"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ad necbey"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "uɣrum"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:21.038988299Z",
+  "model": "glm-5.3"
+}

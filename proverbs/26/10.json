@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Win d-yefren akk, Ameqran, ad yexelleṣ i uḥemqal, ad yexelleṣ i wid izegren.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Ameqran"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "Win d-yefren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ad yexelleṣ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "i uḥemqal"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ad yexelleṣ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "i wid izegren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:56.221910702Z",
+  "model": "glm-5.3"
+}

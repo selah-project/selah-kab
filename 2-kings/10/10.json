@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ẓren tura mas d awal n Yahwe ur ittekkat ara d akal, win i d-yennan Yahwe ɣef axxam n Aḥab; Yahwe ixdem ⟨את⟩ wayen i d-yennan s ufus n yemdan-is Eliyahu.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Ẓren"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ittekkat"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "d akal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "u Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen i d-yennan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "n yemdan-is"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T23:31:23.333125287Z",
+  "model": "glm-5.3"
+}

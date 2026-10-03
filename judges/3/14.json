@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "At Yisrael qelben ad xedmen i ⟨את⟩ Eglon, agellid n Moab, ṭma d mraw n yiseggasen.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "qelben ad xedmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "At"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ṭma"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:25:01.627356971Z",
+  "model": "glm-5.3"
+}

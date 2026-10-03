@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 13:1",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Iermiyen n Yisrael rnan ad xedmen dirit deg tiṭ n Yahwe, ihi Yahwe yefka-ten deg ufus n Ifeliṣṭiyen arbeɛ n yiseggasen.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "rnad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Iermiyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "yefka-ten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ifeliṣṭiyen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arbeɛ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:31:30.395568616Z",
+  "model": "glm-5.3"
+}

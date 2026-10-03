@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Zuẓeɛ ɣer Yahwe igiten-ik, ad kkrent iḥekumen-ik.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "zuẓeɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "igiten-ik"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "ad kkrent"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "iḥekumen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:22:41.696386572Z",
+  "model": "glm-5.3"
+}

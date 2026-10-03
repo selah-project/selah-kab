@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Awal n Beliɛal yettwaṣubb fell-as; win yuzen, ur yerni ara ad yekker.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliɛal"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "yettwaṣubb"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "yerni ara"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ad yekker"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:45.619131122Z",
+  "model": "glm-5.3"
+}

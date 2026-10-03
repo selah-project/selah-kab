@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yenna: Ur qewweɣ ara ⟨את⟩ Yisrael, maca kečči d axxam n baba-k, mi t-tnegrem ⟨את⟩ ilugan n Yahwe, teddimed deffir Baɛalim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "qewweɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "יישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "maça"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "n baba-k"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "mi t-tnegrem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilugan n Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ilugan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "teddimed"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baɛalim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:44.931366085Z",
+  "model": "glm-5.3"
+}

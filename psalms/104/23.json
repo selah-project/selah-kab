@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Ad yeffeɣ wemdan ɣer umahil-is d ɣer leqdic-is, almi tameddit.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ɣer umahil-is"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "d ɣer leqdic-is"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "almi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tameddit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:34.356572225Z",
+  "model": "glm-5.3"
+}

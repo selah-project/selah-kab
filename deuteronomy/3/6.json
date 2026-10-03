@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Neḥerm-itent ⟨את⟩ akken i nxedmet i Siḥon, agellid n Ceḥbon: aḥerm n yal tamdint, irgazen, tilawin akked leflay.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "Neḥerm-itent"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iten (timdinin-agi)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "nxedmet"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "i Siḥon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Ceḥbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "aḥerm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "akked leflay"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:38.481971937Z",
+  "model": "glm-5.3"
+}

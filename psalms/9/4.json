@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Mi ara d-uɣalen iɛdawen-iw ɣer deffir, ad ṭṭfen ad rẓen seg udem-inek.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "mi ara d-uɣalen"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ɣer deffir"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ad ṭṭfen"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ad rẓen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "seg udem-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:04.437935294Z",
+  "model": "glm-5.3"
+}

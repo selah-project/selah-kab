@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "S ⟨את⟩ Elohim ad nxedem taǧǧa, d netta i d-yerrẓen iɣerbaben-nneɣ.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "S Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ad nxedem"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "taǧǧa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "i d-yerrẓen"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "iɣerbaben-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:50.649723061Z",
+  "model": "glm-5.3"
+}

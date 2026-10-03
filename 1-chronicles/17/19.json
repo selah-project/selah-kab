@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "a Yahwe, imi n umakid-ik, akken yella wul-ik, i txedmed ⟨את⟩ akk timeqqrant-agi, iwakken ad d-tesbeggned ⟨את⟩ akk timeqranin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "imi n"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umakid-ik"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "akken yella wul-ik"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txedmed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk (timeqqrant-agi)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "timeqqrant"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "iwakken ad d-tesbeggned"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk (timeqranin)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "timeqranin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:19.939665231Z",
+  "model": "glm-5.3"
+}

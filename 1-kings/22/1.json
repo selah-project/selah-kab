@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Qqeḍlen (ṭṭfen) kraḍ n yiseggasen, ulac ṭṭra ṣum um d-Aram d um d-Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "qeḍlen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ṭṭra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ṣum um d"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d um d"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:25:52.518767092Z",
+  "model": "glm-5.3"
+}

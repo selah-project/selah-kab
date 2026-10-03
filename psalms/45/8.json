@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Teḥmeleḍ ṣedeq, tukreḍ akuker; ɣef waya, Elohim, Elohim-ik, yessukken-ik s zzenẓar n lferḥ ⟨ugar⟩ n yimdukwal-ik.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "teḥmeleḍ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "tukreḍ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "akuker"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "yessukken-ik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzenẓar"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "lferḥ"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "imdukwal-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:59.966528796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Γeḍḍan ⟨את⟩ Elohim n Yisrael; seddaw n iḍarren-is ⟨yella⟩ am leṣnaɛ n lbric n ussafir, d am akken ⟨llan⟩ igenwan deg ulmey-nsen.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ẓeḍḍan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim n Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "seddaw n"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iḍarren-is"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "am leṣnaɛ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "n lbric"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "n ussafir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "d am akken llan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "deg ulmey-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:03.082475346Z",
+  "model": "glm-5.3"
+}

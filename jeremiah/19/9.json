@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad asen-ḥeṣseb ad ččen ⟨את⟩ idammen n yigerdan-nsen d ⟨את⟩ idammen n yellissan-nsen, yal yiwen ad ičč iferra n umeḥbuṣ-is, deg uẓeḍḍa d uglan ara ten-iḥeṣsen iḍen-nsen d wid-in yebɣan timadin-nsen.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "ad asen-ḥeṣseb ad ččen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen n yigerdan-nsen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "idammen (iferra)"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "n yigerdan-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idammen n yellissan-nsen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "idammen (iferra)"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "n yellissan-nsen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "iferra"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n umeḥbuṣ-is"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ad ičč"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "deg uẓeḍḍa"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "d deg uglan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "iḥeṣsen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "iḍen-nsen"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "d wid-in yebɣan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "timadin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:21:24.958658037Z",
+  "model": "glm-5.3"
+}

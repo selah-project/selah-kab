@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Aṭas i kunwi: tessnubgam ⟨את⟩ wedrar-agi; zzuhret i kunwi-d, ruḥet ɣer ugafa.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Aṭas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "סב",
+      "gloss": "tessnubgam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedrar-agi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "zzuhret"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi-d"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ɣer ugafa"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:58.785618756Z",
+  "model": "glm-5.3"
+}

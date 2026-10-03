@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Sneɣ, a Yahwe, belli ṣedeq i d-lla ccuɛa-inek, s lumen i t-ṭṭfeḍ-t-id i t-iniḍ.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "sneɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ccuɛa-inek"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "s lumen"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "i t-ṭṭfeḍ-t-id i t-iniḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:29.930139111Z",
+  "model": "glm-5.3"
+}

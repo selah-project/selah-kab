@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ayen i yexdem waxṣen deg tiḍ Yahwe; Yahwe immut-id daɣen netta ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "waxṣen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i yexdem"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "immuted"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Onan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:29:23.866472165Z",
+  "model": "glm-5.3"
+}

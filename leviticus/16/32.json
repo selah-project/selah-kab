@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Aqaḥen, win ara yettwayelmen ⟨את⟩ d win ara icebbhen ⟨את⟩ afus-is iwakken ad yili d aqaḥen deg umkan n baba-s — ad iseggri, ad yelbes ⟨את⟩ ilebsen n llif, ilebsen iqedcen.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ad iseggri"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqaḥen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "ara yettwayelmen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "win (aqaḥen)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "d win"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ara icebbhen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "iwakken ad yili d aqaḥen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ad yelbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilebsen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilebsen"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "n llif"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilebsen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:50.176663853Z",
+  "model": "glm-5.3"
+}

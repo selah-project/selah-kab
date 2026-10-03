@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Acku ulac ⟨t⟩ameɣrut deg imi-nsen; idammen-nsen d lehwa; lanẓaren-nsen d qber yeldin; ilsien-nsen ssmiḥen-t.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "deg imi-nsen"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "tameɣrut"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "idammen-nsen"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "d lehwa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qber"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "yeldin"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "lanẓaren-nsen"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilsien-nsen"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "ssmiḥen-t"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:55.541698442Z",
+  "model": "glm-5.3"
+}

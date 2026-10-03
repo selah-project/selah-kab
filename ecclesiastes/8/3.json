@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ur tettɛawad ara ad teffɣeḍ seg udem-is; ur qqim ara deg dir: axaṭer ayen akk i yebɣa ad t-ixdem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "tettɛawad"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "seg udem-is"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ad teffɣeḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "qqim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "deg"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "i yebɣa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad t-ixdem"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:53.351070507Z",
+  "model": "glm-5.3"
+}

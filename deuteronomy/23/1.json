@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur yawi ara urgaz ⟨את⟩ tameṭṭut n baba-s, ur yeftaḥ ara akennaf n baba-s.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yawi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urgaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameṭṭut n baba-s"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "yeftaḥ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "akennaf"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:47.696287229Z",
+  "model": "glm-5.3"
+}

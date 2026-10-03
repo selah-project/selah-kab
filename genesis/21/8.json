@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Aqeṛṛi yameṭṭu d yerna yeẓẓi; Avraham yexdem miseṭ meqqren ass mi yeẓẓa ⟨את⟩ Yiṣḥaq.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "yameṭṭu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "aqeṛṛi"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "yeẓẓa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "miseṭ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "mi yeẓẓa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:14.577836370Z",
+  "model": "glm-5.3"
+}

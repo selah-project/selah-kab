@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "U tagrawt n leɣyur ad k-teḥuz, u tuɣaled d asawen fell-as.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "u tagrawt"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "n leɣyur"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ad k-teḥuz"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "u fell-as"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "tuɣaled"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:33.434716093Z",
+  "model": "glm-5.3"
+}

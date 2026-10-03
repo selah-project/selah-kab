@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Yenna-yasen: teẓram ⟨את⟩ Lavan, mmi-s n Naḥor? Nnan: neẓra-t.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yasen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "teẓram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "n Naḥor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "neẓra"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:45.420647619Z",
+  "model": "glm-5.3"
+}

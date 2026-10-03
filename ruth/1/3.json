@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yemmut Elimlec, argaz n Noɛmi; teqqim ⟨hi⟩ nettat d sin warraw-is.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimlec"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "n Noɛmi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "teqqim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nettat"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "d sin"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "warraw-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:50.135778741Z",
+  "model": "glm-5.3"
+}

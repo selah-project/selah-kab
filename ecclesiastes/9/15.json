@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yettwaf deg-s yiwen urgaz ameṛṛuɣ musnaw, inefles ⟨hi⟩ ⟨את⟩ temdint s lḥikma-is; yal amdan ur icfi ara ɣef ⟨i⟩ ⟨את⟩ urgaz-nni n umeṛṛuɣ.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "yettwaf"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen urgaz"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ameṛṛuɣ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "musnaw"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "inefles"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hi⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "s lḥikma-is"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "yal amdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "icfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urgaz-nni n umeṛṛuɣ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "urgaz-nni"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "n umeṛṛuɣ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:45.250764531Z",
+  "model": "glm-5.3"
+}

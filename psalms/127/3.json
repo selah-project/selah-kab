@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 127,
+  "translation": "Wali, arrac d ⟨ayla⟩ n Yahwe ⟨i llan⟩; allal n yiḓis d arrat.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ayla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "arrat"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "allal"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "n yiḓis"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:45.569353011Z",
+  "model": "glm-5.3"
+}

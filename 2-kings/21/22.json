@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ixeṣ ⟨את⟩ Yahwe, Elohim n yijedayen-is, ur yeddi ara deg ubrid n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ixeṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yijedayen-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:34.802263222Z",
+  "model": "glm-5.3"
+}

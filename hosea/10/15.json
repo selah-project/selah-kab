@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Akka i k-yexdem ⟨i⟩ Bet-El, seg wezgay n dir-nwen ameqqran; deg zebbir, ad yettwakkes, ad yettwakkes agellid n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i k-yexdem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg wezgay"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "dir"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "dir-nwen"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "deg zebbir"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:06.902741290Z",
+  "model": "glm-5.3"
+}

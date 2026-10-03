@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ttarwa n Merari, s tmebbaniyin-nsen, s yixxamen n yibabaten-nsen, ad ten-teḥseb ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ttarwa n"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tmebbaniyin-nsen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "s yixxamen n"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yibabaten-nsen"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ad teḥseb"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ten (ttarwa n Merari)"
+    }
+  ],
+  "timestamp": "2026-10-02T21:23:10.512385461Z",
+  "model": "glm-5.3"
+}

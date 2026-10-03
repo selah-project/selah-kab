@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad yersen ⟨את⟩ afus-is ɣef yixef n qorban-is, ad t-inɣ ⟨את⟩ ɣer zdat agiḍun n temlilit; iɛeggalen n Aharon ad ṣeyyen ⟨את⟩ idammen-is ɣef lmeẓraḥ, di tlisa-s.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ad yersen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "yixef"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "n qorban-is"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ad t-inɣ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "imcess \/ qorban-is"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "agiḍun"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ad ṣeyyen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iɛeggalen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen-is"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idammen-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeẓraḥ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di tlisa-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:24.170819846Z",
+  "model": "glm-5.3"
+}

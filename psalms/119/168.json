@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ḥerṣeɣ iselleḥen-ik d inedfaṛen-ik; acku iberdan-iw akk ḥerṣen fellak.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Ḥerṣeɣ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "iselleḥen-ik"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "d inedfaṛen-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iberdan-iw"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ḥerṣen fellak"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:17.795802758Z",
+  "model": "glm-5.3"
+}

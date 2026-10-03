@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 142,
+  "translation": "Widdeɣleɣ sɣur-k, Yahwe; wennaɣ: D Kecc i d asirem-iw, d aḥric-iw deg tmurt n yimuddiren.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "widdeɣleɣ sɣur-k"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "wennaɣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kecc"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "asirem-iw"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "aḥric-iw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "n yimuddiren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:14.609666075Z",
+  "model": "glm-5.3"
+}

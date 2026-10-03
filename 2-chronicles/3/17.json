@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yessbedd ⟨את⟩ tigejda sdat n ḥekal: yiwet ɣef yidis n uyeffus, d yiwet ɣef yidis n uzelmaḍ; isemma isem n tin yellan ɣef yidis n uyeffus Yakin, d isem n tin yellan ɣef yidis n uzelmaḍ Boɛaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yessbedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigejda"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tigejda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sdat n"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ḥekal"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ɣef yidis n uyeffus"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "d yiwet"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ɣef yidis n uzelmaḍ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "isemma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "n tin n uyeffus"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "d isem"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "n tin n uzelmaḍ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boɛaz"
+    }
+  ],
+  "timestamp": "2026-10-03T03:37:24.924980040Z",
+  "model": "glm-5.3"
+}

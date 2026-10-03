@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ṭṭef-ten ɣef iḍeḍḍan-ik, aru-ten ɣef tafrent n wul-ik.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ṭṭef-ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "iḍeḍḍan-ik"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "aru-ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tafrent"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "n wul-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:19:26.172438072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Qqebbeɣ ɣer tin-navit, teḥmlec, terbeɛ mmi-s. Yenna-d Yahwe ɣur-i: semmis isem-is Maḥer Calal Ḥac Baz.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "qqebbeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "tin-navit"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "teḥmlec"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "terbeɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "semmis"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maḥer"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Calal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Ḥac"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:26.897885852Z",
+  "model": "glm-5.3"
+}

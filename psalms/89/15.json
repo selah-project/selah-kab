@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ṣedeq akked ccreɛ ⟨i⟩-d lsas n uḥcic-ik; ḥesed akked tiseddi ad d-kecmen uqbel udem-ik.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ṣedeq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "akked ccreɛ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "lsas"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "n uḥcic-ik"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "akked tiseddi"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ad d-kecmen uqbel"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:35.019900179Z",
+  "model": "glm-5.3"
+}

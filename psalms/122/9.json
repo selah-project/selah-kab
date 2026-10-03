@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "S lweḥdya n uxxam n Yahwe Elohim-nneɣ, ad rnun i ṭṭbiɛ i lḥiri-k.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "s lweḥdya n"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ad rnun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "i lḥiri-k"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨i ṭṭbiɛ⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:20.099311305Z",
+  "model": "glm-5.3"
+}

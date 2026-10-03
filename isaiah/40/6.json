@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Taɣri tenna: «Iru.» Yenna-d: «Ma⟨i⟩ ad ruɣ? Akk akessuman d acṭib, d akk ḥesed-is am tijeǧǧigt n uzeǧǧa.»",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "taɣri"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad ruɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "akessuman"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "acṭib"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "am tijeǧǧigt"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n uzeǧǧa"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:21.586148473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Axaṭer abekkax isbeyyeḥ tabɣi n nefṣ-is, aberṛani yebarek — yestefrix Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "isbeyyeḥ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "abekkax"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "tabɣi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "n nefṣ-is"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "aberṛani"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "yebarek"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "yestefrix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:00.424922146Z",
+  "model": "glm-5.3"
+}

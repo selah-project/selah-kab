@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "Acku ssmaḥ ⟨yella⟩ ɣur-k, iwakken ad t-tggeẓmeḍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ssmaḥ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ad t-tggeẓmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.378310386Z",
+  "model": "glm-5.3"
+}

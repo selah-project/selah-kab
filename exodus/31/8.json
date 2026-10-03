@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "⟨את⟩ Ttabla akked ⟨את⟩ yiɣeḍḍaḍen-is, ⟨את⟩ ccandila taqbuḥt akked ⟨את⟩ akk yiɣeḍḍaḍen-is, ⟨את⟩ meqṣed n lbaḥur;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttabla"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ttabla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yiɣeḍḍaḍen-is"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "yiɣeḍḍaḍen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ccandila taqbuḥt"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ccandila"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "taqbuḥt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk yiɣeḍḍaḍen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "yiɣeḍḍaḍen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meqṣed n lbaḥur"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meqṣed"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "n lbaḥur"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:01.418896388Z",
+  "model": "glm-5.3"
+}

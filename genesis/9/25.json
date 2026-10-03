@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yenna-d: Yettwanlex Kenaɛan; d akli n yiklan ad yili i watmaten-is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Yettwanlex"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaɛan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akli"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n yiklan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "i watmaten-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:58.316171902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Elohim-iw, ad cceɣɣeɣ ass-a, maḥbuḍ ur d-tettidir; deg yiḍ, ulac ttṛṛuḥ iji.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad cceɣɣeɣ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maḥbuḍ ur"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tettidir"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ttṛṛuḥ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iji"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:10.474386898Z",
+  "model": "glm-5.3"
+}

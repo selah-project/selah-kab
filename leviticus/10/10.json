@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Iwakken ad tferṛem gar wayen yeqdan (קדוש) d wayen n tidet, gar win iḥerṛen d wayen izegrin.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "iwakken ad tferṛem"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wayen yeqdan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d gar"
+    },
+    {
+      "surface": "החל",
+      "gloss": "wayen n tidet"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d gar"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "win iḥerṛen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d gar"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "wayen izegrin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:55.436812595Z",
+  "model": "glm-5.3"
+}

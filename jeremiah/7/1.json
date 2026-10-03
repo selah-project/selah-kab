@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Awal i d-yewweḍen ɣer Yirmeyahu si ⟨את⟩ Yahwe, ad yini:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i d-yewweḍen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "si ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-03T00:14:41.448820403Z",
+  "model": "glm-5.3"
+}

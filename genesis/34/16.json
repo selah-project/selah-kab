@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ad nekfel ⟨את⟩ yelli-mattin-nneɣ i-wenɣ, ⟨את⟩ yelli-mattin-wenɣ ad ten-naḥ i-neɣ; ad nettdeggir ⟨את⟩ yid-wenɣ, ad nili d agdud yiwen.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ad nekfel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelli-mattin-nneɣ"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "yelli-mattin-nneɣ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i-wenɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yelli-mattin-wenɣ"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "yelli-mattin-wenɣ"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "ad ten-naḥ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i-neɣ"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "ad nettdeggir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yid-wenɣ"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ad nili"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "d agdud"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:57.031116732Z",
+  "model": "glm-5.3"
+}

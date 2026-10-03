@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 82,
+  "translation": "Xas, akken d adam ⟨⟨ad immuten⟩⟩, u akken d yiwen seg yigeldan ad ḍren.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Xas"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "akken d adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "ad immuten"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "u akken d yiwen seg"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "yigeldan"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ad ḍren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:55.948451144Z",
+  "model": "glm-5.3"
+}

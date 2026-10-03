@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Nnant-as: ih, kečč igin, ad nuγal d ⟨את⟩ i ked ɣer ugdud-ik.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "nnant"
+    },
+    {
+      "surface": "לה",
+      "gloss": "as"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ih"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ i ked"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "ad nuγal"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ɣer ugdud-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:49:52.363026756Z",
+  "model": "glm-5.3"
+}

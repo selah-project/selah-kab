@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ssiɣel ⟨את⟩ yiderman Yisrael, ad ṭṭfen deg lɛeskar meṛṛa win yeṭṭfen aṭṭan n yiḥerṣen, yal win yesɛan asseṭṭef, akk d yal win iɛiṭṭlen s yisem n lmut.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "ssiɣel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiderman Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yiderman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ad ṭṭfen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lɛeskar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "win yeṭṭfen aṭṭan n yiḥerṣen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d yal"
+    },
+    {
+      "surface": "זב",
+      "gloss": "win yesɛan asseṭṭef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d yal"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "iɛiṭṭlen"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "s yisem n lmut"
+    }
+  ],
+  "timestamp": "2026-10-03T04:06:33.185447465Z",
+  "model": "glm-5.3"
+}

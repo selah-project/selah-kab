@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad d-qqaren ⟨את⟩ tuccḍa-nsen i xedḍen, ad yerr ⟨את⟩ tiggelt-is s lɛeṣl-is, ad yernu ɣef-s tayet n xemsa, ad yefk i win i d-yesɛan taggilt.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ad d-qqaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuccḍa-nsen"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "tuccḍa-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedḍen"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiggelt-is"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "tiggelt-is"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "s lɛeṣl-is"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "tayet n xemsa"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "i win"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "i d-yesɛan taggilt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    }
+  ],
+  "timestamp": "2026-10-02T21:25:39.427261094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ad iqelleb iles-iw ɣef awal-inek, acku lwaṣiyat-ik akk d ṣedeq.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ad iqelleb"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "iles-iw"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ɣef awal-inek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "lwaṣiyat-ik"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:23.547037597Z",
+  "model": "glm-5.3"
+}

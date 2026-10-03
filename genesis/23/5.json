@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "D-yerran warrac n Ḥet ⟨את⟩ Avraham, ad as-inin:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "d-yerran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad as-inin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:15.708349825Z",
+  "model": "glm-5.3"
+}

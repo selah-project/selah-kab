@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Agellid n Acur yewwi-d yimdanen seg Babel, seg Kuta, seg Ɛawa, seg Ḥamat akked Sefarwayim; yessikel-iten deg tiɣmar n Cemrun deg umkan n warrac n Yisrael, εebden Cemrun u zedɣen deg tiɣmar-is.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "seg Babel"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "seg Kuta"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "seg Ɛawa"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "seg Ḥamat"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "akked Sefarwayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yessikel-iten"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "deg tiɣmar"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Cemrun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "εebden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemrun"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Cemrun"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "deg tiɣmar-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:51.661981173Z",
+  "model": "glm-5.3"
+}

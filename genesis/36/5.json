@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Aholiḇama tecna-d ⟨את⟩ Yeɛiɛ, ⟨את⟩ Yaɛlam d ⟨את⟩ Qoraḥ. Wagi d yirawen n Esav, wid i d-yelhan deg tmurt n Kenɛan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Aholiḇama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tecna-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeɛiɛ"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeɛiɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛlam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaɛlam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Qoraḥ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "d yirawen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "i d-yelhan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-is"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenɛan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:43.318119697Z",
+  "model": "glm-5.3"
+}

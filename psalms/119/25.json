@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Nefs-iw teṭṭef ɣer lɣeṛfa; ḥyu-yi-d akken i d-yenna wawal-ik.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "teṭṭef ɣer"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "lɣeṛfa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ḥyu-yi-d"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akken i d-yenna wawal-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:03.134042658Z",
+  "model": "glm-5.3"
+}

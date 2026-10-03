@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Elohim yemeslay-ed ɣer Noaḥ, ad yini.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemeslay-ed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:53.822336150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Elohim yessawel i rakiɛa «igenni». Yella-d taɣmart, yella-d siba: ass wis sin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "i rakiɛa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "taɣmart"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "siba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wis sin"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:05.076161985Z",
+  "model": "glm-5.3"
+}

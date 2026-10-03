@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yexleq Elohim ⟨את⟩ iḥmumren imeqranen, d ⟨את⟩ yal tamuddirt iḥyan ittḍekkren, wid i d-beṭṭan waman s leṣnaf-nsen, d ⟨את⟩ yal agḏiḍ s iḍarren s leṣnaf-is; iẓra Elohim d akken yazen lxir.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥmumren imeqranen"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "iḥmumren"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "imeqranen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yal tamuddirt iḥyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tamuddirt"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "iḥyan"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ittḍekkren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "i d-beṭṭan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "s leṣnaf-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yal agḏiḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "agḏiḍ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "s iḍarren"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "s leṣnaf-is"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d akken"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yazen lxir"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:30.779472974Z",
+  "model": "glm-5.3"
+}

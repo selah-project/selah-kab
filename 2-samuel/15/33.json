@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yenna-yas David: ma tazneḍ ⟨את⟩ yid-i, ad tiliḍ ɣef-i d taɛkilt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "tazneḍ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yid-i",
+      "marks": "yid-i"
+    },
+    {
+      "surface": "והית",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "d taɛkilt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:02:18.532747764Z",
+  "model": "glm-5.3"
+}

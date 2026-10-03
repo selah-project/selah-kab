@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yejla ⟨את⟩ Yehuyakin ɣer Babil, ⟨ואת⟩ yelli-s n ugellid (isem), ⟨ואת⟩ tilawin n ugellid, ⟨ואת⟩ iεeddan-is, ⟨ואת⟩ igezdanen n tmurt — yewwi-ten d ussenfu si Yerucalayim ɣer Babil.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "yejla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuyakin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehuyakin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ɣer Babil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yemma n ugellid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yemma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tilawin n ugellid"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iεeddan-is"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "iεeddan-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igezdanen n tmurt"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "igezdanen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "yewwi-ten"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "d ussenfu"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "si Yerucalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ɣer Babil"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:19.592852898Z",
+  "model": "glm-5.3"
+}

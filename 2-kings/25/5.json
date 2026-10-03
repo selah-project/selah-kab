@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yeḍfer lɛesker n yi-Kasdim ⟨את⟩ ugellid, ṭṭfen-t ⟨את⟩ deg iẓlaven n Yeriḥu, akk lɛesker-is yettwarẓa seg fell-as.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "yeḍfer"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "lɛesker"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "yi-Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "ṭṭfen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "deg iẓlaven n Yeriḥu"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "deg iẓlaven"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriḥu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "lɛesker-is"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "yettwarẓa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "seg fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:14.373494068Z",
+  "model": "glm-5.3"
+}

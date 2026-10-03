@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Rbaɛ iɣer ⟨d⟩; snat n tferka ṣan-d ⟨את⟩ taḥencemt; yiwet n tfeggagt teɣzi-s, yiwet n tfeggagt tehri-s — snat n tferka.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "rbaɛ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iɣer d"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "snat n tferka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣan-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥencemt"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "taḥencemt"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "yiwet n tfeggagt"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-s"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "yiwet n tfeggagt"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "tehri-s"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "snat n tferka"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:08.079508718Z",
+  "model": "glm-5.3"
+}

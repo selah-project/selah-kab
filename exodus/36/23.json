@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yexdem ⟨את⟩ tabardin i Mickan: elsen tabardin i tama n unzul, ɣer utaram.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabardin"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tabardin"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "i Mickan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "elsen"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "tabardin"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "i tama n"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "unzul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ɣer utaram"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:53.786902369Z",
+  "model": "glm-5.3"
+}

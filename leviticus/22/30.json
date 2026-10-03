@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Deg wass-n yines ad tettwaɣ, ur teǧǧim ara seg-s arma d tifawt: nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "n yines"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad tettwaɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "teǧǧim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tifawt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:39.606708235Z",
+  "model": "glm-5.3"
+}

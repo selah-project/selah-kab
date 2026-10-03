@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad teslemɛed deg igenwan ⟨את⟩ tazallit-nsen d ⟨את⟩ lɛutayan-nsen, ad txedmeḍ ccreɛ-nsen.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ad teslemɛed"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazallit-nsen"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "tazallit-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɛutayan-nsen"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "lɛutayan-nsen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ccreɛ-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:34.959136102Z",
+  "model": "glm-5.3"
+}

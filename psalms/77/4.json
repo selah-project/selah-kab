@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Ad cmemreɣ Elohim, ad heḥmu; ad mmens, ruaḥ-iw ad tettẓeg del.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ad cmemreɣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ad heḥmu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ad mmens"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ad tettẓeg del"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaḥ-iw"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:27.416636081Z",
+  "model": "glm-5.3"
+}

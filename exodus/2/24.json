@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Elohim yessla ⟨את⟩ ismuren-nsen; Elohim ismed ⟨את⟩ lɛahd-is — ⟨את⟩ Avraham, ⟨את⟩ Yiṣḥaq, d ⟨את⟩ Yaɛqov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yessla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ismuren-nsen"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ismuren-nsen"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ismed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-is"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:03.717171577Z",
+  "model": "glm-5.3"
+}

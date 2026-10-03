@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Win i d-yessuffɣen ⟨את⟩ kunwi seg tmurt n Miṣrayim, iwakken ad ilin ⟨i⟩ kunwi d Elohim; nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Win i d-yessuffɣen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi seg tmurt n Miṣrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "iwakken ad ilin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "d Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:53.746375353Z",
+  "model": "glm-5.3"
+}

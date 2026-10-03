@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad txedmeḍ ⟨את⟩ tifawin-is, syet, ad textareḍ ⟨את⟩ tifawin-is iwakken ad ssifedent ɣef wudem-is.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tifawin-is"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "tifawin-is"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ad textareḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tifawin-is"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "tifawin-is"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "ad ssifedent"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ar tama"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "wudem-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:09.129067614Z",
+  "model": "glm-5.3"
+}

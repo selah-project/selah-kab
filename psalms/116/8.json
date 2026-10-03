@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Axaṭer txelṣeḍ ⟨את⟩ nnefs-iw seg lmut, ⟨את⟩ ṭṭerṣa-iyi seg yimin, ⟨את⟩ iḍarren-iw seg uberreḥ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "txelṣeḍ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "seg lmut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṭṭerṣa-iyi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ṭṭerṣa-iyi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "yimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḍarren-iw"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iḍarren-iw"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "seg uberreḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:21.986748515Z",
+  "model": "glm-5.3"
+}

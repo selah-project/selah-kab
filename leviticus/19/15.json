@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur txeddem ara tagnut deg ccreɛ; ur tessuli ara ⟨את⟩ udem n umiḥsul, ur tsemdeḥ ara ⟨את⟩ udem n umeqran; s ṣedeq ḥkem ɣiwen-ik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "txeddem"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tagnut"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "deg ccreɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "tessuli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem n"
+    },
+    {
+      "surface": "דל",
+      "gloss": "umiḥsul"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "tsemdeḥ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem n"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "umeqran"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "s ṣedeq"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ḥkem"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ɣiwen-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:32.475643192Z",
+  "model": "glm-5.3"
+}

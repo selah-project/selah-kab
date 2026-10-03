@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "S tuget n ubrid-ik teḥerbeḍ, maca ur tenniḍ ara: iwweḍ ufella; tufiḍ d lḥayat i yif-ik; ɣef waya ur tḥemmleḍ ara tuccḍa.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "s tuget"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "n ubrid-ik"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "teḥerbeḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "tenniḍ"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "iwweḍ ufella"
+    },
+    {
+      "surface": "חית",
+      "gloss": "d lḥayat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "i yif-ik"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "tufiḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "tḥemmleḍ tuccḍa"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:11.914860384Z",
+  "model": "glm-5.3"
+}

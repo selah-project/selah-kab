@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Elohim yefka ⟨את⟩ Daniyel i ḥesed d i ṛeḥma, zdat wemḍbir n serisim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniyel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "i ḥesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "d i ṛeḥma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "שר",
+      "gloss": "wemḍbir"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "serisim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:20.498650530Z",
+  "model": "glm-5.3"
+}

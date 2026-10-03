@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "«Mmudd lεahed i yikahen, wid yessulin Mickan n tugna n lɛahd, ad ffɣen seg Uyarden.»",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Mmudd lεahed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikahen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikahen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wid yessulin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "tugna n lɛahd"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ad ffɣen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Uyarden"
+    }
+  ],
+  "timestamp": "2026-10-03T04:09:08.528314376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Nniɣ nekk deg wul-iw: ⟨את⟩ win iqedcen akked ⟨את⟩ win irekḥen, ad iḥekem Elohim; axaṭer yella wasrag i yal lebɣi, d ɣef yal lexdeɛma din.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "deg wul-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win iqedcen"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "win iqedcen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "win irekḥen"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "win irekḥen"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ad iḥekem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wasrag"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "lebɣi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "lexdeɛma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:10.934451642Z",
+  "model": "glm-5.3"
+}

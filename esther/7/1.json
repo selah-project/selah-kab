@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yekcem ⟨i⟩ ugellid d Haman ad sewsen akked Ester tagellidt.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "d Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ad sewsen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "tagellidt"
+    }
+  ],
+  "timestamp": "2026-10-03T03:01:55.765730134Z",
+  "model": "glm-5.3"
+}

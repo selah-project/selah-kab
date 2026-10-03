@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Nekni nuzen negwi kečč ⟨mačči⟩ ur tsemméḥeḍ.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Nekni"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "nuzen"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "negwi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "tsemméḥeḍ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:51:38.125766938Z",
+  "model": "glm-5.3"
+}

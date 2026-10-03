@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ssedden afusen iruḥen, ijerruḥen iḍarren qeqḥet-asen.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Ssedden"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "afusen"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "iruḥen"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "ijerruḥen iḍarren"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "qeqḥen"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "qeqḥet-asen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:45.406398099Z",
+  "model": "glm-5.3"
+}

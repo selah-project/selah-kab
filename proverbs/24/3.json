@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "S leḥkm yettwabna uxxam, s ttfehm yettwasbedd.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "s leḥkm"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "yettwabna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "s ttfehm"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "yettwasbedd"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:05.889464922Z",
+  "model": "glm-5.3"
+}

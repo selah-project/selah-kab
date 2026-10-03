@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Muab d taqacuct n uḥecci-iw; ɣef Edum ad ssruḥeɣ isendalen-iw; ɣef-i, a Pelištet, ṣennet!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Muab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "taqacuct"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "n uḥecci-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edum"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ad ssruḥeɣ"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "isendalen-iw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelištet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "ṣennet"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:10.400613166Z",
+  "model": "glm-5.3"
+}

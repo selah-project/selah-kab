@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akahen i d-ittawin ⟨את⟩ tulli n wemdan: aglim n tulli-nni i d-yewwi, d nes-s ad yili.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "akkahen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "i d-ittawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulli n wemdan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "tulli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aglim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "n tulli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "i wakkahen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "d nes-s"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:20.110281726Z",
+  "model": "glm-5.3"
+}

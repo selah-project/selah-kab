@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ur tett acemma n dir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "acemma"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "n dir"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:33.230629577Z",
+  "model": "glm-5.3"
+}

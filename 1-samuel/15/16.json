@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yenna Šemuel i Šaul: Ḥbes, ad ak-d-inig ⟨את⟩ ayen i d-yenna Yahwe ɣuri deg yiḍ-agi. Yenna-yas: Inig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "ḥbes"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ad ak-d-inig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i d-yenna Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣuri"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "deg yiḍ-agi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "inig"
+    }
+  ],
+  "timestamp": "2026-10-02T22:44:11.678587547Z",
+  "model": "glm-5.3"
+}

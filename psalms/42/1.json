@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "I wedfer n ucennu. Asefru ameslaw (masckil), i warraw n Qoraḥ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i wedfer n ucennu"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "asefru ameslaw (masckil)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:05.683393169Z",
+  "model": "glm-5.3"
+}

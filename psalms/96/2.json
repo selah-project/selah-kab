@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 96,
+  "translation": "Cnunt i Yahwe, berkit yisem-is; xxebrent seg wass ɣer wass tallalt-is.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "cnunt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkit"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "xxebrent"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "seg wass"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ɣer wass"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "tallalt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:53.596804928Z",
+  "model": "glm-5.3"
+}

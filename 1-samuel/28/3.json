@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Cemmuɛel yemmut, akk Yisrael bbiken fell-as, ḍefnen-t i Rama, deg temdint-is. Ciwel yekkes iseḥḥaren d ⟨את⟩ inmin seg tmurt.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Cemmuɛel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "bbiken"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ḍefnen-t"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "i Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "deg temdint-is"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Ciwel"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "iseḥḥaren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "inmin"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "inmin"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "seg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T22:52:25.601010834Z",
+  "model": "glm-5.3"
+}

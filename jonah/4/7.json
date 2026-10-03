@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Elohim yewhel yiwet n tleɣiwt mi d-yelli usfaw, ass i d-iteddun; temmekt ⟨את⟩ ⟨taqqaɛt⟩, tuzeg.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "yewhel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tleɣiwt"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "mi d-yelli"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "usfaw"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ass i d-iteddun"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "temmekt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqqaɛt"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "⟨taqqaɛt⟩"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "tuzeg"
+    }
+  ],
+  "timestamp": "2026-10-03T01:27:11.109681958Z",
+  "model": "glm-5.3"
+}

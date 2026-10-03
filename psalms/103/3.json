@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Win yettsemmiḥen akk i tikerwa-ik, Win iṣeḥḥen akk timwaḍin-ik.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Win yettsemmiḥen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akk i"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "tikerwa-ik"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "Win iṣeḥḥen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "timwaḍin-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:04.573603839Z",
+  "model": "glm-5.3"
+}

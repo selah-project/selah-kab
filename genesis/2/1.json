@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Qelsen igenwan d tmurt, akk tagiḍin-nsen.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Qelsen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "d tmurt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "tagiḍin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:10.415607407Z",
+  "model": "glm-5.3"
+}

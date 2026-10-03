@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ester tenna-ten akken ad d-yettwarr i Mordokay.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna-ten"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "akken ad d-yettwarr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokay"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:02.880629164Z",
+  "model": "glm-5.3"
+}

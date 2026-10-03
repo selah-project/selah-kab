@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Rriγ nekkini ⟨את⟩ ul-iw ad yeḥbes ɣef akk uẓu i txedmeγ ddaw tfukt.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "rriγ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ad yeḥbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul-iw"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "uẓu"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "i txedmeγ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tfukt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:01.873045722Z",
+  "model": "glm-5.3"
+}

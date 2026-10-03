@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Sbuɣlen-t ⟨את⟩ Yahwe seg tmurt, iɣeṛṛajen, akk tiɣẓiwin.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Sbuɣlen-t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "iɣeṛṛajen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "tiɣẓiwin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:50.759489007Z",
+  "model": "glm-5.3"
+}

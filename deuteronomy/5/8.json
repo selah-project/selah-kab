@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ur txelqeḍ ara i yiman-ik tugna-itaḥriγt, ulac tamlagt n walben m'ara yili deg igenwan d asawen, neγ m'ara yili deg tmurt d akessar, neγ m'ara yili deg yiman d akessar n tmurt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txelqeḍ ara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "tugna-itaḥriγt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "tamlagt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "m'ara yili"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "neγ m'ara yili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "d akessar"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "neγ m'ara yili"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg yiman"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "d akessar"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:17.903759282Z",
+  "model": "glm-5.3"
+}

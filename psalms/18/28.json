@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Axaṭer keččini, agdud aḥeṛṛani ad t-tesellekmaḍ; ma d wallen yettawden, ad tent-tesnust.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keččini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aḥeṛṛani"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ad t-tesellekmaḍ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ma d wallen"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "yettawden"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ad tent-tesnust"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:54.080763476Z",
+  "model": "glm-5.3"
+}

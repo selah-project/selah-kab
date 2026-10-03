@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ihi, wala, ad ḥebbeṛleɣ ⟨את⟩ abrid-ik s ccwak, ad rnuɣ ⟨את⟩ lḥit, iberdan-is ur tt-af ara.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ad ḥebbeṛleɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abrid-ik"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "abrid-ik"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "s ccwak"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ad rnuɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥit"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "lḥit"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "iberdan-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tt-af ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:42.435275536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Cabbat n usgunfu telli i wen; ad txesserem ⟨את⟩ nefsan-nwen — lexḍsa n lebda.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "n usgunfu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "telli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ad txesserem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefsan-nwen"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefsan-nwen"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lexḍsa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:50.176472472Z",
+  "model": "glm-5.3"
+}

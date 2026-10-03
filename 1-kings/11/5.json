@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Selomo yeḍra-d deffir Aštoret, iṛebbi-nni n yimezdaɣ n Ṣidon, akken daɣen deffir Malkam, lxaṣṣa n yimmoniyen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yeḍra-d"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Aštoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iṛebbi-nni"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "n yimezdaɣ n Ṣidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "akken daɣen deffir"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "lxaṣṣa"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "n yimmoniyen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:28.144181176Z",
+  "model": "glm-5.3"
+}

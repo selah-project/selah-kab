@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Mi yemmeslay lmalayk n Yahwe ⟨את⟩ wawalen-agi i warraw meṛṛa n Yisrael, igmeḍ wegdud ⟨את⟩ ṣut-nsen u beccen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mi yella"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "mi yemmeslay"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "lmalayk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrav"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "igmeḍ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṣut-nsen"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ṣut-nsen"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "beccen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:23:29.420147063Z",
+  "model": "glm-5.3"
+}

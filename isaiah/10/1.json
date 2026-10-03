@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ay i wid yettaran ileḥyan n tḍebsit, i wid yurun tasedfi, ttaran-tt.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "i wid yettaran"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ileḥyan"
+    },
+    {
+      "surface": "און",
+      "gloss": "n tḍebsit"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "i wid yurun"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tasedfi"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ttaran-tt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:25.498594968Z",
+  "model": "glm-5.3"
+}

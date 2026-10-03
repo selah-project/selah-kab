@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Acku tidet tɛiwed t-id tezdeɣ tallalin; terraḍ-d taččart n ddeheb ilem ɣef uqerru-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "tezdeɣ t-id tɛiwed"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "tallalin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "n lqem ilhan"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "terraḍ-d"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "ɣef uqerru-is"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "taččart"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ddeheb ilem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:21.164689455Z",
+  "model": "glm-5.3"
+}

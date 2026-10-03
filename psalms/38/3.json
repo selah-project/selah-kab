@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Acku yall-ik kcen deg-i, tuɣal tesdukkel ɣef-i afus-ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "yall-ik"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "kcen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "deg-i"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "tuɣal tesdukkel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:36.599817295Z",
+  "model": "glm-5.3"
+}

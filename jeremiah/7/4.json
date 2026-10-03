@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur yettaket ara i yiman-nwen awalen n lekdeb, ma d tin: Ahekkal n Yahwe, ahekkal n Yahwe, ahekkal n Yahwe, nutni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "yettaket ara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i yiman-nwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "n lekdeb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ma d tin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Ahekkal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ahekkal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ahekkal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    }
+  ],
+  "timestamp": "2026-10-03T00:14:41.449554495Z",
+  "model": "glm-5.3"
+}

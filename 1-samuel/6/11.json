@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ssersen ⟨את⟩ sanduq n Yahwe ɣef ttareyyast, akken ⟨את⟩ tayunit, ⟨את⟩ yiberdanen n werɣ, d ⟨את⟩ tugniwin n yimḍanen-nsen.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Ssersen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduq n Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ttareyyast"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tayunit"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "tayunit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yiberdanen"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "yiberdanen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "werɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tugniwin"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "tugniwin"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "n yimḍanen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:40.773432502Z",
+  "model": "glm-5.3"
+}

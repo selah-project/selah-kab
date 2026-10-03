@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Moce yuɣ ⟨את⟩-iten ad d-yini: deg taggara n ḍebɛ n yiseggasen, deg lwaɛd n useggas n ussefteḥ, deg tehict n Succot,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yuɣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-iten",
+      "marks": "iqedcen d yimɣaren"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-yini"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "deg taggara"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ḍebɛ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "deg lwaɛd"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "useggas"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "n ussefteḥ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "deg tehict"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "n Succot"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:40.455697649Z",
+  "model": "glm-5.3"
+}

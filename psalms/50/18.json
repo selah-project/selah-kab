@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ma twaladeḍ ⟨את⟩ ukṛṛay, terzuḍ yides, d wid iggunin iḥeccen aḥric-ik.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "twaladeḍ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "akṛṛay"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "terzuḍ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yides"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "d"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "wid iggunin"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "aḥric-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:28.484343040Z",
+  "model": "glm-5.3"
+}

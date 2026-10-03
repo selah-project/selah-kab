@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Tiɣremin n teqedcit-ik uɣalent d tinirt, Ẓiyyun tuɣal d tinirt, Yerucalayim tuɣal d texṣert.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "tiɣremin"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "n teqedcit-ik"
+    },
+    {
+      "surface": "היו",
+      "gloss": "uɣalent"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "d tinirt"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ẓiyyun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "d tinirt"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tuɣal"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "d texṣert"
+    }
+  ],
+  "timestamp": "2026-10-03T00:09:33.311754657Z",
+  "model": "glm-5.3"
+}

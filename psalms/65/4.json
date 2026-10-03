@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Tiḍurin n tikerḥi ṭṭfant-i; tuɣalin-inneɣ, kečč ad ten-tḥedduḍ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "tiḍurin"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "n tikerḥi"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ṭṭfant-i"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "tuɣalin-inneɣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ad ten-tḥedduḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:19.939850917Z",
+  "model": "glm-5.3"
+}

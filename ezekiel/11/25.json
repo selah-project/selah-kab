@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Si ɛi, mmeslayeɣ ɣer wgullan ⟨את⟩ akk iwalem n Yahwe, i yi-d-yeskan Yisem.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "mmeslayeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "wgullan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iwalem n Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "iwalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "yi-d-yeskan"
+    }
+  ],
+  "timestamp": "2026-10-03T00:45:26.942794391Z",
+  "model": "glm-5.3"
+}

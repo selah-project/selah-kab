@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yenna Yahwe: Anwa i d-yettfen ⟨את⟩ Aḥab, iwakken ad yuli ad yexleṛ di Ramot Gilɛad? Yiwen yenna s wawal-agi, wayeḍ yenna s wayeḍ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "i d-yettfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ad yexleṛ"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "di Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "s wawal-agi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "s wayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:26:30.110424381Z",
+  "model": "glm-5.3"
+}

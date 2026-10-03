@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yunag seg ⟨את⟩ Eliça, ikec-d ɣer bab-is; inna-as: acu i k-yenna Eliça? Yenna: yenna-yi: ad tiddeḥ, s tidet ad tiddeḥ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yunag"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliça"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ikec-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i-yenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliça"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna-yi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ad tiddeḥ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "s tidet ad tiddeḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:29.792117732Z",
+  "model": "glm-5.3"
+}

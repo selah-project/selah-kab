@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "d ⟨את⟩ taḥesedt, taanafat tames nnes, d ⟨את⟩ tadukifat, d ⟨את⟩ taɛetlact",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taḥesedt"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "taḥesedt"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "taanafat"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "tames nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tadukifat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "tadukifat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taɛetlact"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "taɛetlact"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:40.875892594Z",
+  "model": "glm-5.3"
+}

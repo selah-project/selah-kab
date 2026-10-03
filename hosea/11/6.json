@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yerna seif ad yekker deg tiqersiwin-is, ad isens iẓeṛban-is, ad ten-yetṭ deg wayen d-yexlelen d iman-nnsen.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "ad yekker"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seif"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "deg tiqersiwin-is"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "ad isens"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iẓeṛban-is"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ad ten-yetṭ"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "deg wayen d-yexlelen d iman-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:30:57.260534507Z",
+  "model": "glm-5.3"
+}

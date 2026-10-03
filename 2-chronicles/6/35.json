@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad tesselmeḍ seg igenwan ⟨את⟩ tadallit-nnsen d ⟨את⟩ tigri-nnsen, ad txedmeḍ ccreɛ-nnsen.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Ad tesselmeḍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tadallit-nnsen"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "tadallit-nnsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tigri-nnsen"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "tigri-nnsen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ccreɛ-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:16.480994042Z",
+  "model": "glm-5.3"
+}

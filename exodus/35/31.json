@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Yečča-t ⟨את⟩ s ruaḥ n Elohim, s tḥekma, s lefhm, d s tmussni, d deg meṛṛa lxiḍ.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Yečča-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ n Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "s tḥekma"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "s lefhm"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "d s tmussni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "d deg meṛṛa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "lxiḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:56.698741655Z",
+  "model": "glm-5.3"
+}

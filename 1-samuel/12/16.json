@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Tura daγen, imezret γer tama-s, wali-t ⟨את⟩ lxiḥ ameqqran-agi i d-igellil Yahwe zdat allen-nwen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "daγen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "imezret γer tama-s"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "wali-t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lxiḥ ameqqran-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lxiḥ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-igellil"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "zdat allen-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:35.990041620Z",
+  "model": "glm-5.3"
+}

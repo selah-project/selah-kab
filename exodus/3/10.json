@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tura imi, ddu, ad k-d-ruḥeɣ ɣer Fɛaraun, ad teffɣeḍ ⟨את⟩ ɣeggiw-iw, yigerdan n Yisrael, si Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura imi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ddu"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ad k-d-ruḥeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fɛaraun"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ad teffɣeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɣeggiw-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ɣeggiw-iw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:44.740897842Z",
+  "model": "glm-5.3"
+}

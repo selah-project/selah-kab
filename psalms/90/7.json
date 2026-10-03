@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Axateṛ nekfa deg lḥeqda-ik, deg teɛraḍt-ik nwaggel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axateṛ"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nekfa"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "deg lḥeqda-ik"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "deg teɛraḍt-ik"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "nwaggel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:14.973888708Z",
+  "model": "glm-5.3"
+}

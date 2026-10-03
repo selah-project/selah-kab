@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "D amumuṣ tafat, d lxir i wallalen ad walin ⟨את⟩ tafukt.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "d amumuṣ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "d lxir"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "i wallalen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafukt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tafukt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:40:19.300904946Z",
+  "model": "glm-5.3"
+}

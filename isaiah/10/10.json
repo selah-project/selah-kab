@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Akken tamurt-iw tuɣ ⟨את⟩ tgeldiwin n yielilen, d tugalin-nsen, i yellan gar Yerucalayim d Comeron,",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tuɣ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tamurt-iw"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "tgeldiwin"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "n yielilen"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "d tugalin-nsen"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "gar Yerucalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "d Comeron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:42.984124397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Moce yuɣal yeddu, yenna awalen-agi akk i Yisrael: ⟨את⟩ wawalen-agi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yeddu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:09:02.202044077Z",
+  "model": "glm-5.3"
+}

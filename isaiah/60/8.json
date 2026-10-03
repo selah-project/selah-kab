@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Anwa wid-agi, am usigna ad frurden, d am tiyirdin ar tibratin-nsen?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "am usigna"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "ad frurden"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "am tiyirdin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "tibratin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:07:53.377316700Z",
+  "model": "glm-5.3"
+}

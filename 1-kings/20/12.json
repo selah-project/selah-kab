@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Mi issel ⟨את⟩ wawal-agi, netta itteẓ, d yigelliden, deg txamin, yenna i yimeẓla-is: Sserset. Ssersen iman-nsen ɣef temdint.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mi issel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "itteẓ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "d yigelliden"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "deg txamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yimeẓla-is"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "sserset"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ssersen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:20.893001767Z",
+  "model": "glm-5.3"
+}

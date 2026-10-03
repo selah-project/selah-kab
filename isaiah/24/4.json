@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Tamurt telluz, terrif; texreṣ, terrif tevel; xerṣen iɛellayen, agdud n tmurt.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "telluz"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "terrif"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "texreṣ"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "terrif"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "xerṣen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "iɛellayen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:07.381282255Z",
+  "model": "glm-5.3"
+}

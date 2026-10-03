@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yefra ⟨את⟩ taqbuct n Yahuda, ⟨את⟩ adrar n Ṣihyun i ḥemmel.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "yefra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqbuct n Yahuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "taqbuct"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adrar n Ṣihyun"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣihyun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ḥemmel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:07.681082512Z",
+  "model": "glm-5.3"
+}

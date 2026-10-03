@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ass-nni ad yemmeslay ɣur-sen deg yiri-s n tmara, deg tebrirt-is ad ten-iḥewwes.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ass-nni"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ad yemmeslay"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "deg yiri-s n tmara"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "deg tebrirt-is"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ad ten-iḥewwes"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:37.220202264Z",
+  "model": "glm-5.3"
+}

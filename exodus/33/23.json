@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Syin ad d-tekkseɣ ⟨את⟩ takat-iw, ad twaliḍ ⟨את⟩ deffir-iw; ma d udem-iw ur yettban ara.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Syin ad d-tekkseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takat-iw"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "takat-iw"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ad twaliḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deffir-iw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir-iw"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "yettban ara"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:11.997610825Z",
+  "model": "glm-5.3"
+}

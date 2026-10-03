@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Iqerreb ṣedeq-iw, yeffeɣ yesɛeɛ-iw, iḍer-iw iɣlanen ad iḥekkem; tigzirin ad neṭṭment ɣur-i, d ⟨iḍer-iw⟩ ad nessarem.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "iqerreb"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ṣedeq-iw"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "yesɛeɛ-iw"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "d iḍer-iw"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ad iḥekkem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tigzirin"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ad neṭṭment"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "iḍer-iw"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "ad nessarem"
+    }
+  ],
+  "timestamp": "2026-10-03T04:24:12.244895770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad tewiḍeḍ ⟨את⟩ snat n yiẓuran n cehem, ad tcufḍeḍ fell-asen ⟨i⟩ yismawen n yisek Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ad tewiḍeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "snat n yiẓuran"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "n yiẓuran"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "n cehem"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ad tcufḍeḍ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "yismawen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yisek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:39.144169155Z",
+  "model": "glm-5.3"
+}

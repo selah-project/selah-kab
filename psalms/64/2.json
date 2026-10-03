@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Ssel, Elohim, taɣect-iw deg usarti-iw; seg tugdi n uɛdaw ad tḥerzeḍ tudert-iw.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ssel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "taɣect-iw"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "deg usarti-iw"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "seg tugdi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n uɛdaw"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ad tḥerzeḍ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "tudert-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:08.865848217Z",
+  "model": "glm-5.3"
+}

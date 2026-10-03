@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 15:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Axat'er anwa ad yekhemmel ɣef-kem, a Yerucalayim? Anwa ad k-yettwal? Anwa ad yenzel ad isseqsi ɣef talwit-ik?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axat'er"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "ad yekhemmel"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef-kem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerucalayim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "ad k-yettwal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣef-kem"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ad yenzel"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "ad isseqsi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ɣef talwit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:20:11.895035924Z",
+  "model": "glm-5.3"
+}

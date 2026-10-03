@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "d ⟨את⟩ isekkilen-is d ⟨את⟩ leqdic-nnes i yexdem di tlemmast n Miṣrayim, i Ferɛun agellid n Miṣrayim d tmurt-is meṛṛa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isekkilen-is"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "isekkilen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leqdic-nnes"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "leqdic-nnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tlemmast"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "i Ferɛun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "d akkul"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tmurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:54:25.032595992Z",
+  "model": "glm-5.3"
+}

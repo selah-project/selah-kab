@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Qrib kksen-iyi-d seg tmurt; ma d nek, ur neḥli ara ilugan-inek.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Qrib"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "kksen-iyi-d"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma d nek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "neḥli"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ilugan-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:58.504958312Z",
+  "model": "glm-5.3"
+}

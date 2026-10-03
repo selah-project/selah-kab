@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad iniḍ-asen ⟨את⟩ akk wawalen-agi, maca ur a k-sslen ara; ad tesnubgeḍ-asen, maca ur a k-d-rran ara.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ad iniḍ-asen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wawalen-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sslen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a k"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ad tesnubgeḍ-asen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "k-d-rran"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:52.186057741Z",
+  "model": "glm-5.3"
+}

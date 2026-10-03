@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yahwe yella-d i Cicelonoma i tikkelt tis snat, akken yella-d iℯ deg Givɛon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cicelonoma"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "i tikkelt tis snat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "iℯ"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "deg Givɛon"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:40.215625475Z",
+  "model": "glm-5.3"
+}

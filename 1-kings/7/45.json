@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "D ⟨את⟩ tiqor, d ⟨את⟩ ijeɛḍen, d ⟨את⟩ iseflaqen, d ⟨את⟩ akk ifeckauen n <taḥanut> i d-ig Musa Ḥiram i ugellid Culeman, deg wexxam n Yahwe; d nneḥec iṣeḥ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tiqor"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "tiqor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ijeɛḍen"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "ijeɛḍen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iseflaqen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "iseflaqen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk ifeckauen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ifeccauen"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "taḥanut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-ig"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iga"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ḥiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Culeman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nneḥec"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "iṣeḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:12:51.420502868Z",
+  "model": "glm-5.3"
+}

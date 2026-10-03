@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "A tt-terraɣ d timesbanyit gar yiɣlanen, d annif n yixef i yiderfan.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "A tt-terraɣ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "timesbanyit"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gar yiɣlanen"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "annif n yixef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "yixef"
+    },
+    {
+      "surface": "בל",
+      "gloss": "i yiderfan"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "iderfan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:31.897694587Z",
+  "model": "glm-5.3"
+}

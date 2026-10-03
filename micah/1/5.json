@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Seg tuccḍa n Yaɛqov ⟨llan⟩ akk waya, seg ibekkaven n wexxam n Yisrael. Anta d tuccḍa n Yaɛqov? Mačči d Cumeron? Anta d tiɣbula (bamot) n Yehuda? Mačči d Yerucalayim?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "seg tuccḍa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "seg ibekkaven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anta"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mačči d"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Cumeron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "d anta"
+    },
+    {
+      "surface": "במות",
+      "gloss": "tiɣbula"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mačči d"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:27:25.285819528Z",
+  "model": "glm-5.3"
+}

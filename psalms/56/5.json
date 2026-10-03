@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Deg Elohim ad ceḍceḍɣ ⟨i⟩ wawal-is; deg Elohim sleɣ timan-iw, ur xufeɣ ara: acu i d-izeddan ⟨uleṣwer⟩ ɣur-i?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ad ceḍceḍɣ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wawal-is"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "sleɣ timan-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "xufeɣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "i d-izeddan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "⟨u⟩leṣwer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:24.650335724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yekkes ⟨את⟩ yimeṣḥed ineggen akk d yibamut; yerrẓ ⟨את⟩ yimaṣṣeba; yegz ⟨את⟩ yicera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimeṣḥed ineggen"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "yimeṣḥed"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ineggen"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "akk d yibamut"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "yerrẓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimaṣṣeba"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "yimaṣṣeba"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "yegz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yicera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "yicera"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:48.070081681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yesseɣlaf ⟨את⟩ akal n uxxam s werɣ, ⟨i daxel⟩ d ⟨i beṛṛa⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akal n uxxam"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "akal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "yesseɣlaf"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "s werɣ"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "i daxel"
+    },
+    {
+      "surface": "ו לחיצון",
+      "gloss": "i beṛṛa"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:50.088954408Z",
+  "model": "glm-5.3"
+}

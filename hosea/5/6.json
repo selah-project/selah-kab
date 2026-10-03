@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "S tlullin-nsen d yijejjigen-nsen ad ddun ad nadin Yahwe ⟨את⟩, maca ur ad t-afen ara: yekkes iman-is seg-sen.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "S tlullin-nsen"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "d yijejjigen-nsen"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ad nadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ad t-afen ara"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "yekkes iman-is"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:46.464638303Z",
+  "model": "glm-5.3"
+}

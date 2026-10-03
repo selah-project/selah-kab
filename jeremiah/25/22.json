@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Akken ⟨את⟩ yill n yigeldunen n Ṣor, ⟨את⟩ yill n yigeldunen n Ṣidon, d ⟨את⟩ igeldunen n tegzirt i yellan deg ucemmal n yilel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akken ⟨את⟩",
+      "marks": "yill n yigeldunen n Ṣor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yill"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "n yigeldunen"
+    },
+    {
+      "surface": "צר",
+      "gloss": "n Ṣor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yill n yigeldunen n Ṣidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yill"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "n yigeldunen"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "n Ṣidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "igeldunen n tegzirt"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igeldunen"
+    },
+    {
+      "surface": "האי",
+      "gloss": "n tegzirt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "yellan deg ucemmal"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yilel"
+    }
+  ],
+  "timestamp": "2026-10-03T00:23:42.990075960Z",
+  "model": "glm-5.3"
+}

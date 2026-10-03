@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Meqqṛen leɛmal n Yahwe, ttwassnen ɣef wid i ten-ibɣan akk.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Meqqṛen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "leɛmal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ttwassnen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "ɣef wid i ten-ibɣan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:09.187732122Z",
+  "model": "glm-5.3"
+}

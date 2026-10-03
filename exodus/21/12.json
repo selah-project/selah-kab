@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Win yenṭaḥ ⟨i⟩ wemdan yemmut, s lmut ad yemmut.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "win yenṭaḥ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:34.935595807Z",
+  "model": "glm-5.3"
+}

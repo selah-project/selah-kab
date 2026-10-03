@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Asellak yebɛed ɣer yiḥerren, axaṭṭ iqedcen-ik ur ten-iḍefren ara.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "yebɛed"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ɣer yiḥerren"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "asellak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭṭ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iqedcen-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "iḍefren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:39.582336084Z",
+  "model": "glm-5.3"
+}

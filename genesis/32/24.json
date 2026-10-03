@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yexleṣ-iten, yessuzzri-iten ⟨את⟩ asif, yerna yessuzzri ⟨את⟩ wayen illan.<\/n>",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "yexleṣ-iten"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "yessuzzri-iten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asif"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "asif"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "yessuzzri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen illan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "illan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:16.946959281Z",
+  "model": "glm-5.3"
+}

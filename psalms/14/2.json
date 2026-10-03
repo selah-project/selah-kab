@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yahwe seg igenwan yessedwel-d ɣef at wemdan, iwakken ad iwali ma yella win nesεan leḥya, win yettqebbel ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "seg igenwan"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "yessedwel-d"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "win nesεan leḥya"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "win yettqebbel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:08.310655423Z",
+  "model": "glm-5.3"
+}

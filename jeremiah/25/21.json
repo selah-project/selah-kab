@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edom, ⟨את⟩ Moab d ⟨את⟩ warraw n Ɛammon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "warraw n Ɛammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "n Ɛammon"
+    }
+  ],
+  "timestamp": "2026-10-03T00:23:42.987456067Z",
+  "model": "glm-5.3"
+}

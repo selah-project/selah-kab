@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Ha, nesla ⟨את⟩ deg Efrata, nufa ⟨את⟩ deg yiger n Yeɛra.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "nesla ⟨את⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "deg Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "nufa ⟨את⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "deg yiger"
+    },
+    {
+      "surface": "יער",
+      "gloss": "n Yeɛra"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:57.203513565Z",
+  "model": "glm-5.3"
+}

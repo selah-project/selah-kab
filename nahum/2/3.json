@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Axaṭer Yahwe d-yerra ⟨את⟩ tayri n yiman n Yaɛqov, am tayri n yiman n Yisrael; axaṭer wid yessekren ttsekren ⟨את⟩ tura, rẓen ⟨את⟩ tiɣiwnin-nnsen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שב",
+      "gloss": "d-yerra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayri n yiman n Yaɛqov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "tayri n yiman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "am tayri n yiman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "wid yessekren"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ttsekren"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "tiɣiwnin-nnsen"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "rẓen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:48.329478834Z",
+  "model": "glm-5.3"
+}

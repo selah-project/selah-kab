@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yekkes ⟨את⟩ iṛebbiten n ifeṛṛanjen d ⟨את⟩ tinɣert seg wexxam n Yahwe, d yal lmeṣḥed i yebna deg udrar n wexxam n Yahwe d deg Yerucalayim, iẓa-ten deg beṛṛa n temdint.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛebbiten n ifeṛṛanjen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "n ifeṛṛanjen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tinɣert"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "tinɣert"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d yal"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "lmeṣḥed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "d deg Yerucalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "iẓa-ten"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "deg beṛṛa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "n temdint"
+    }
+  ],
+  "timestamp": "2026-10-03T03:55:42.070042734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ticḍi-s ad yeṭṭef ⟨את⟩ win n dir, yerna s icraḍ n tucḍa-s ad yili yettwaḥeṛṛen.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "ticḍi-s"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win n dir"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "win n dir"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "s icraḍ n"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "tucḍa-s"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ad yili yettwaḥeṛṛen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:38.353995370Z",
+  "model": "glm-5.3"
+}

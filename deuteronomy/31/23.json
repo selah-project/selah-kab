@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 31:23",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Iḥkem-yas i ⟨את⟩ Yehocuaɛ mmi-s n Nun, yenna-yas: ẓdem, qewwen, imi kecc i d-tessekcmay ⟨את⟩ tarwa n Yisrael ɣer tmurt-nni i ḥulfuɣ fell-asen; nekkini ad iliɣ yid-k.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "iḥkem-yas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehocuaɛ mmi-s n Nun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocuaɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ẓdem"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "qewwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "i d-tessekcmay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarwa n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "i ḥulfuɣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ad iliɣ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:59.067697342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 120,
+  "translation": "Acu ara d-yefk i yilsan n treḥma n ukcim, acu-nniḍen ara d-irnu i yilsan?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ara d-yefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "acu-nniḍen"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ara d-irnu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "i yilsan n"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "treḥma n ukcim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:18.257916107Z",
+  "model": "glm-5.3"
+}

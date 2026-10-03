@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad yazen tallalt-ik seg iqedcen, seg Ṣihyun ad k-iddukel.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ad yazen"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "tallalt-ik"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "seg iqedcen"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "seg Ṣihyun"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "ad k-iddukel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:23.120262919Z",
+  "model": "glm-5.3"
+}

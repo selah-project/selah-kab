@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Agellid David iɣdeɛ, ikecmed deg wussan-is; ɣeḍmen-t s yilmaten, maca ur d-yewwi ara i tmeḥmumt.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "iɣdeɛ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ikecmed"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ɣeḍmen-t"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "s yilmaten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "yewwi tmeḥmumt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:08.120088766Z",
+  "model": "glm-5.3"
+}

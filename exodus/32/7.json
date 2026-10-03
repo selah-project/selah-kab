@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yahwe yemmeslay i Moce: du, ddu, acku agdud-ik, win i d-teṭṭfeḍ seg tmurt n Miṣrayim, iḥerc.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ddu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "iḥerc"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "i d-teṭṭfeḍ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:36.837799794Z",
+  "model": "glm-5.3"
+}

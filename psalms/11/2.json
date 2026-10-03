@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Acku ṛṛa, wid ibren ḥazmen lqews, heggan tiseggast-nnsen ɣef yiḍer, iwakken ad ṭṭfen deg ubarcan ɣef wid iwulmen deg ul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ṛṛa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "wid ibren"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "ḥazmen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lqews"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "heggan"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "tiseggast-nnsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "yiḍer"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "iwakken ad ṭṭfen"
+    },
+    {
+      "surface": "במו",
+      "gloss": "deg"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "ubarcan"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ɣef wid iwulmen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "deg ul"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:42.133690446Z",
+  "model": "glm-5.3"
+}

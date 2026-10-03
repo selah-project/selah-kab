@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ur ttilint am uyyis, am userdun, ur nesɛi ara tamussni; s umetreg d urḍen, d ccbaɛt-is, ad ttwaḥeṛben, akken ur d-qqerben ara ɣur-k.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ttilint"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "am uyyis"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "am userdun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "nesɏi ara tamussni"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "s umetreg"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "d urḍen"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "d ccbaɛt-is"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ad ttwaḥeṛben"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akken ur... ara"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "qqerben"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:45.026711561Z",
+  "model": "glm-5.3"
+}

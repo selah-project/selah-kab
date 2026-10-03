@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ma yekker, yiddel beṛṛa ɣef takerdalt-is, ad yesteqfa win iwettan; kan tanufa-s ad yefk, ad yesseḥles, s tidet ad yesseḥles.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yekker"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "yiddel"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "takerdalt-is"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ad yesteqfa"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "win iwettan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kan"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "tanufa-s"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ad yesseḥles"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "s tidet ad yesseḥles"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:29.800950387Z",
+  "model": "glm-5.3"
+}

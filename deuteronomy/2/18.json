@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Kečč, ass-a, ad tɛeḍḍeḍ ⟨את⟩ tilist n Moab, ⟨את⟩ Ɛar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ad tɛeḍḍeḍ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilist n Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilist"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ɛar"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:31.144633601Z",
+  "model": "glm-5.3"
+}

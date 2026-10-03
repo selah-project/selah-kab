@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 87,
+  "translation": "Wid iqqnen-d deg uẓawan am wid iẓerben d yixeddamen n tɣanimt, akk ad inin: tigeṭṭumt-iw s lekmal deg-k.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "wid iqqnen-d deg uẓawan"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "am wid iẓerben d yixeddamen n tɣanimt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "tigeṭṭumt-iw"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:45.164802455Z",
+  "model": "glm-5.3"
+}

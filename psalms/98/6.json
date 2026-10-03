@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "translation": "S waṭṭaben d taɣect n ccufar, ssuturet zdat n ugellid Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "s waṭṭaben"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "d taɣect"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "n ccufar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ssuturet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:23.825046410Z",
+  "model": "glm-5.3"
+}

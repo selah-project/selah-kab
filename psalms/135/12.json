@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Yefka tamurt-nsen d lwerṭa, d lwerṭa i Yisrael, agdud-is.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Yefka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tamurt-nsen"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "d lwerṭa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "d lwerṭa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:31.866778101Z",
+  "model": "glm-5.3"
+}

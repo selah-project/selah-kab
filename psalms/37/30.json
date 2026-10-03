@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Imi n weḥeqqan ad yemmeslay d teḥkma, yils-is ad yedren ccreɛ.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "weḥeqqan"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ad yemmeslay"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "teḥkma"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "yils-is"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ad yedren"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:54.354616537Z",
+  "model": "glm-5.3"
+}

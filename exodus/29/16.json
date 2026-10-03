@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad tneɣleḍ ⟨את⟩ uzimer, ad teṭṭfeḍ ⟨את⟩ idammen-is, ad tent-tezdeq ɣef lmeẓbaḥ, ayen i ṭṭfen tama yal tama.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ad tneɣleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uzimer"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "uzimer"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen-is"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idammen-is"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "ad tent-tezdeq"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeẓbaḥ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ayen i ṭṭfen tama yal tama"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:44.781574628Z",
+  "model": "glm-5.3"
+}

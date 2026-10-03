@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Ad tebḍum ⟨את⟩ tmurt-agi i yiman-nwen, i ṣbeḍan n Yisrael.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "Ad tebḍum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-agi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i yiman-nwen"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "i ṣbeḍan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T01:12:31.650589650Z",
+  "model": "glm-5.3"
+}

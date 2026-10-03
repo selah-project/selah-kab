@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Iuzen iẓẓlamen, yerna yezgel; ur kkkin ara mgal ⟨את⟩ awal-is.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Iuzen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iẓẓlamen"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "yezgel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "kkkin mgal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal-is"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "awal-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:43.126350909Z",
+  "model": "glm-5.3"
+}

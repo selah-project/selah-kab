@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ur ttettun ara kra segs ar taftart; ayen ara d-yeqqimen segs ar taftart, deg tmes a t-tesseḥḥertem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ur...ara"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ttettun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "segs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "taftart"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ayen ara d-yeqqimen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "segs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "taftart"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "a t-tesseḥḥertem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:33.699475541Z",
+  "model": "glm-5.3"
+}

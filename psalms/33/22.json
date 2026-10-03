@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ad yili ḥesed-ik, a Yahwe, ɣef-nneɣ, akken i nesḥessar fell-ak.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ɣef-nneɣ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "nesḥessar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fell-ak"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:56.032523253Z",
+  "model": "glm-5.3"
+}

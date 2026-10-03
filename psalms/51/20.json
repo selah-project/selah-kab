@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Xeḍmen ayen igerrzen s leɛfu-ik ⟨את⟩ Ṣihyun; ad tbnid iẓuran n Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Xeḍmen ayen igerrzen"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "s leɛfu-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣihyun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣihyun"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ad tbnid"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "iẓuran"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:18.525972019Z",
+  "model": "glm-5.3"
+}

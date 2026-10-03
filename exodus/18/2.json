@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yiṭru, bab n tmeṭṭut n Moce, yewwi-d ⟨את⟩ Ṣippura, tameṭṭut n Moce, deffir ma tt-id-yuzen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yiṭru"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "bab n tmeṭṭut n"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣippura"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ṣippura"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tameṭṭut n"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deffir ma"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "tt-id-yuzen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:34.262969680Z",
+  "model": "glm-5.3"
+}

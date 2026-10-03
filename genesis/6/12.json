@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Iwala Elohim ⟨את⟩ terra, dɣa wala-tt tuḥem, axaṭer akk yiḥersiwen sfesden ⟨את⟩ abrid-is deg terra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Iwala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dɣa wala"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "tuḥem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "sfesden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "yiḥersiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abrid-is"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "abrid-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:55.871256674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Tucid ⟨את⟩ arraw-ik d ⟨את⟩ yermeḍ-ik ayen akk i d-tldeḍ i yid-i, tessuḍt ihedmen i wakken ad teccen; maḍi tcit deg tuzna-nnek?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "tucid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-ik"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "arraw-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yermeḍ-ik"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "yermeḍ-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "i d-tldeḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yid-i"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "tessuḍt ihedmen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i wakken"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ad teccen"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "maḍi tcit"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "deg tuzna-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T00:48:56.888111312Z",
+  "model": "glm-5.3"
+}

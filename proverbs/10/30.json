@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Win iḥeqqen ad yeqqim i lebda, ur itteɣli ara; ma yella wid n dirit ur zzdiren ara ⟨di⟩ akal.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "win iḥeqqen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "itteɣli"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ma yella wid n dirit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "zzdiren"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "akal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:20.462410368Z",
+  "model": "glm-5.3"
+}

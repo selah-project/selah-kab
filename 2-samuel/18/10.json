@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yiwen n wemdan yewhem aṭas, yemmel i Yoav, yenna: Atan, ẓriɣ ⟨את⟩ Avcalom yettwaɛlleq deg tenirt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yeẓra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "yemmel"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "i Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Atan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ẓriɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avcalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "yettwaɛlleq"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "deg tenirt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:04:22.637579639Z",
+  "model": "glm-5.3"
+}

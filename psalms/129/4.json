@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 129,
+  "translation": "Yahwe d ameṣli, inɣa iḍulan n wid yexṣren:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "d ameṣli"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "inɣa"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "iḍulan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n wid yexṣren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:39.312544929Z",
+  "model": "glm-5.3"
+}

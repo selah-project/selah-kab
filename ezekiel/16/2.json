@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "A win n wemdan, egm-as ⟨את⟩ i Yerucalayim ⟨את⟩ taymatin-is,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "a win n"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "egm-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Yerucalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taymatin-is"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "taymatin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:49:30.988726689Z",
+  "model": "glm-5.3"
+}

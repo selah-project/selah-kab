@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ula d inebbaten ɛeddan-d qqaren fell-i; amend-ik, netta, ad iseggṛu deg leḥkem-ik.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ula d"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ɛeddan-d"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "inebbaten"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "qqaren"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "amend-ik"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "ad iseggṛu"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "deg leḥkem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:19.904808434Z",
+  "model": "glm-5.3"
+}

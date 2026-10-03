@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad tt-terẓeḍ ⟨את⟩ tiḥdercin, ad tuɣleḍ zzeyt fell-as; minḥa d nettat.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Ad tt-terẓeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tiḥdercin"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "tiḥdercin"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ad tuɣleḍ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzeyt"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d nettat"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:40.629979383Z",
+  "model": "glm-5.3"
+}

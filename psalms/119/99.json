@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Nnig yal win yi-d-isselmaden ẓriɣ lxir, imi timawsiwin-ik ssuent iḥekimen.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "nnig yal"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "win yi-d-isselmaden"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ẓriɣ lxir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "timawsiwin-ik"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ssuent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iḥekimen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:35.833714508Z",
+  "model": "glm-5.3"
+}

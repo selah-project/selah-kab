@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ad rɣeɣ ⟨את⟩ axxam n Aḥav am axxam n Yeravɛam mmi-s n Nevat, am axxam n Baɛca mmi-s n Aḥiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad rɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Aḥav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "n Aḥav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "am axxam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "n Yeravɛam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "n Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "am axxam"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "n Baɛca"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "n Aḥiya"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:17.874092860Z",
+  "model": "glm-5.3"
+}

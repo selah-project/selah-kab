@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 12:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yeuɣ Yehoyadaɛ akohen yiwen n usenduq, yexdem tigeẓẓi deg uɣewwar-is, yerra ⟨את⟩-t ɣer tama n lmeḥṛeb, ɣer yeffus, mi ara yekcem wemdan ɣer wexxam n Yahwe. Ssiḍen din ikohanen, wid iḥerben tawwurt, ⟨את⟩ akk lefḍ i d-ikecmen ɣer wexxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Yeuɣ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyadaɛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "usenduq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "yexdem tigeẓẓi"
+    },
+    {
+      "surface": "חר",
+      "gloss": "tigeẓẓi"
+    },
+    {
+      "surface": "בדלתו",
+      "gloss": "deg uɣewwar-is"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "tama n lmeḥṛeb"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ɣer tama n"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeḥṛeb"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ɣer yeffus"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "mi ara yekcem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɣer wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "Ssiḍen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanen"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "wid iḥerben"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "tawwurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk lefḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lefḍ"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "i d-ikecmen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɣer wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:34:43.122133059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Teggmeḍ ⟨את⟩ talebbaṛt n yepud, s teqcut akk.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Teggmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talebbaṛt"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "talebbaṛt"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "n yepud"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "s teqcut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:42.230818130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "d ⟨את⟩ ilehsiten n weqnan, d ⟨את⟩ ilehsiten iqedcen i Aharon, akebbab, d ⟨את⟩ ilehsiten n yigerdan-is, iwakken ad kebbben:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilehsiten n weqnan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilehsiten"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "n weqnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilehsiten iqedcen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilehsiten"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akebbab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilehsiten n yigerdan-is"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilehsiten"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n yigerdan-is"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ad kebbben"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:56.056775437Z",
+  "model": "glm-5.3"
+}

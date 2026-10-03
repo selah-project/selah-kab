@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Elohim, s imeẓẓan-nneɣ nessel, idermen-nneɣ ddan-aɣ-d ayen txedmeḍ deg wussan-nnsen, deg wussan iqbuṛen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "s imeẓẓan-nneɣ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nessel"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "idermen-nneɣ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ddan-aɣ-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "deg wussan-nnsen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "iqbuṛen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:18.086076664Z",
+  "model": "glm-5.3"
+}

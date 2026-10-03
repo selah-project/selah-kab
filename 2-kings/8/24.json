@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yoram yens akked ybabat-is, yettwamḍel akked ybabat-is deg temdint n David, mmi-s Aḥazyahu yernel deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yens"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ybabat-is"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "yettwamḍel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ybabat-is"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yernel"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Aḥazyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:16:28.258262678Z",
+  "model": "glm-5.3"
+}

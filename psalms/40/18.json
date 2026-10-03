@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ma nekk, d ameḥbus d umiskin; Adonai ad-iḥseb fell-i; kečč ⟨d⟩ tallalt-iw d usellek-iw; a Elohim-iw, ur ttawileḍ ara.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma nekk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "d ameḥbus"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "d umiskin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ad-iḥseb"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "tallalt-iw"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "d usellek-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečç"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ttawileḍ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:19.891555332Z",
+  "model": "glm-5.3"
+}

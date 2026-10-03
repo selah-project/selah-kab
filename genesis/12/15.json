@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Walent ⟨את⟩ yimḍebberen n Ferɛun, cebbeḥen ⟨את⟩ tin ɣer Ferɛun; tettwaṭṭef ⟨i⟩ tameṭṭut, ɣer wexxam n Ferɛun.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Walent"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tameṭṭut-agi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "yimḍebberen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "cebbeḥen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tin (tameṭṭut)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "tettwaṭṭef"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɣer wexxam"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:13.428000739Z",
+  "model": "glm-5.3"
+}

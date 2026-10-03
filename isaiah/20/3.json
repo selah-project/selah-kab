@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yahwe yenna-d: akken itteddu yakɛi Yecayahu ɛuruyen d ur nelli d idjaren, kraḍ iseggasen, d azmul d tmuqbil i ḍeṛṛen Miṣrayim d Kuḥ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "itteddu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yakɛi"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yecayahu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ɛuruyen"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ur nelli d idjaren"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "אות",
+      "gloss": "azmul"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "tmuqbil"
+    },
+    {
+      "surface": "על",
+      "gloss": "i ḍeṛṛen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:51.300912771Z",
+  "model": "glm-5.3"
+}

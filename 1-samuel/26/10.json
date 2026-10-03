@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yenna-d David: Yahwe yettidir, Yahwe kan i t-id-yeṣṣaḍen, neɣ ass-is ad yas ad yemmut, neɣ ad yider deg umennuɣ ad yengiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yettidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨neɣ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "i t-id-yeṣṣaḍen"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ass-is"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ad yas"
+    },
+    {
+      "surface": "וומת",
+      "gloss": "ad yemmut"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "deg umennuɣ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ad yider"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ad yengiri"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:03.556595337Z",
+  "model": "glm-5.3"
+}

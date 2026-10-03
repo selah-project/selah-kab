@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 1:11",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-d Daniyel i wemḍbir n lqut, win i s-yerrun amḍbir n serisim ɣef Daniyel, Ḥananya, Micael d Ɛazarya:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "wemḍbir n lqut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "i s-yerrun"
+    },
+    {
+      "surface": "שר",
+      "gloss": "amḍbir"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "serisim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Ḥananya"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Micael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Ɛazarya"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:20.499241017Z",
+  "model": "glm-5.3"
+}

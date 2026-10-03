@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ḥrez nef-s-inu, selket-iyi-d; ur kettuɣ ara, acku ḥeddeɣ deg-k.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nef-s-inu"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "selket-iyi-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "kettuɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ḥeddeɣ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:45.957898322Z",
+  "model": "glm-5.3"
+}

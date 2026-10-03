@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Aliyen ⟨את⟩ taḥrant n Yahwe, ⟨את⟩ taxxamt n temlilit, d ⟨את⟩ akk ifeq n yiqedcen illan deg texxamt; ⟨את⟩ ten ttalin ikohanim d yilviyen.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "aliyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥrant n Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "taḥrant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taxxamt n temlilit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taxxamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "temlilit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk ifeq n yiqedcen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ifeq"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "illan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "deg texxamt"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ttalin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (taḥrant, taxxamt, ifeq)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "d yilviyen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:15:54.517428355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Wagi d teṛṣa-iw deg uḥeṛmec-iw, axaṭer ⟨את⟩ wawal-ik iḥyu-yi-d.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Wagi"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "teṛṣa-iw"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "deg uḥeṛmec-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "wawal-ik"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "iḥyu-yi-d"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:06.452489435Z",
+  "model": "glm-5.3"
+}

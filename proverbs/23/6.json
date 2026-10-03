@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur ttekket ara ⟨את⟩ aɣrum n win yesɛan taṛomt taruxt, ur teḥmireḍ ara i teqsiḍin-is.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ttekket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aɣrum"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "רע",
+      "gloss": "taruxt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "taṛomt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "teḥmireḍ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "i teqsiḍin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:10.230818578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Awal-nni yerna-d leεqel deg wallen n Abcalom, deg wallen n yimeqranen akk n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "yerna-d leεqel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Awal-nni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg wallen"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abcalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "deg wallen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "n yimeqranen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:02:20.693685843Z",
+  "model": "glm-5.3"
+}

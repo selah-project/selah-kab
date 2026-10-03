@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad ddun inagan n teḥračt; ayen ur ẓriɣ ara, waya ad yi-steqsyen.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "inagan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "teḥračt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ẓriɣ"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ad yi-steqsyen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:07.340888325Z",
+  "model": "glm-5.3"
+}

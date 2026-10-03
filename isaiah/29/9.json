@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Eǧǧit iman-nwen, wemtahemt; ɛerrit iman-nwen, ɛerrit; txexremt, maca ur s lxemr; tnemmremt, ur s tacarart.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "eǧǧit iman-nwen"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "wemtahemt"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "ɛerrit iman-nwen"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "ɛerrit"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "txexremt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "יין",
+      "gloss": "s lxemr"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "tnemmremt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "s tacarart"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:22.145854263Z",
+  "model": "glm-5.3"
+}

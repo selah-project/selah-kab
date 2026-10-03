@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ggen-d ⟨i⟩ igenwan ṣedeq-is, axaṭer Elohim, neṭṭa d aḥekkam. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Ggen-d"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ṣedeq-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "aḥekkam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neṭṭa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:00.196570068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 3:5",
+  "book": "joel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad yili: akk win i d-yessawalen s yisem n Yahwe, ad yizreg; axaṭer deg uḍrar Ṣiyon d deg Yerucalayim ad yili uselḥu, akken i d-yenna Yahwe, d deg wid yeqqimen wid i d-yessawal Yahwe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win i"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "yessawalen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ad yizreg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg uḍrar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyon"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "d deg Yerucalayim"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "uselḥu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובשרידים",
+      "gloss": "d deg wid yeqqimen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "i d-yessawal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:19:02.830383844Z",
+  "model": "glm-5.3"
+}

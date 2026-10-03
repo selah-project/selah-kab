@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ruḥen akk imanen n Yisrael ɣer David ɣer Ḥebron, ad inin: Atan, iḍan-inek d tfekka-inek ⟨nessara⟩ nutni.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Ruḥen akk imanen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ɣer Ḥebron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad inin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Atan"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "iḍan-inek"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "d tfekka-inek"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nutni"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:58.457773852Z",
+  "model": "glm-5.3"
+}

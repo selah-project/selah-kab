@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ma ḍlen, yiwen ad yessili ⟨את⟩ ɛaṣ-ines; maca axaṭer yiwen ma yeqqim, ur d-yelli ara wis sin ara t-issili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ḍlen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ad yessili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛaṣ-ines"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ɛaṣ-ines"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "maca axaṭer"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ma yeqqim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ur d-yelli ara"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ara t-issili"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:28.969886694Z",
+  "model": "glm-5.3"
+}

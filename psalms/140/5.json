@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Ḥrez-iyi, Yahwe, seg yifassen n umaḥraḥ; seg wemdan n teḥqrit ṣeggem-iyi; wid i d-yecudden ad izelqen ippawan-iw.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ḥrez-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "seg yifassen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "n umaḥraḥ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "seg wemdan"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "n teḥqrit"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ṣeggem-iyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "yecudden"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "ad izelqen"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ippawan-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:03.971293992Z",
+  "model": "glm-5.3"
+}

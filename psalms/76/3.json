@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Tanuffa-s tella di Calem, axxam-is deg Ṣihyun.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tella"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "di Calem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "tanuffa-s"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "axxam-is"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "deg Ṣihyun"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:54.789395778Z",
+  "model": "glm-5.3"
+}

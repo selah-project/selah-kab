@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 2:12",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad ssemlileɣ, ih ad ssemlileɣ ⟨את⟩ Yaɛqov, akk-im; ad ssemlileɣ ansa n Yisrael; yiwet ad ten-sdukkels am yimelsiyen deg uzagur, am uyedder deg tlemmast n ueḥric-is; ad d-rwan s lɛecṭa n yimdanen.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ad ssemlileɣ"
+    },
+    {
+      "surface": "אאסף",
+      "gloss": "ih ad ssemlileɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "akk-im"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "ad ssemlileɣ"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "ad ssemlileɣ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ad ten-sdukkels"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "am yimelsiyen"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "deg uzagur"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "am uyedder"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg tlemmast"
+    },
+    {
+      "surface": "הדברו",
+      "gloss": "n ueḥric-is"
+    },
+    {
+      "surface": "תהימנה",
+      "gloss": "ad d-rwan"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "s lɛecṭa n yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:25.869415647Z",
+  "model": "glm-5.3"
+}

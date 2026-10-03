@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Deg uwass wis-kraḍ, Avraham isrefdallen ⟨את⟩ tiṭinawen-is, iwala ⟨את⟩ lḥeččin seg bɛid.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Deg uwass"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis-kraḍ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "isrefdallen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiṭinawen-is"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "tiṭinawen-is"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeččin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lḥeččin"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "seg bɛid"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:41.011477606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ma yelha Ma ad kwen-yesselmed ⟨את⟩? neɣ tura, am win ideggan ⟨את⟩ umdan, ad t-deggem deg-s?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "ma yelha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ad kwen-yesselmed"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "neɣ tura"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "am win ideggan"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "ad t-deggem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:34:45.649472659Z",
+  "model": "glm-5.3"
+}

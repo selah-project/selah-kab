@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Bab n yimesɛeqqalen ur ikfir ara ⟨את⟩ Yusef, iɣef ittu-t.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ikfir"
+    },
+    {
+      "surface": "שר",
+      "gloss": "bab"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "yimesɛeqqalen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "iɣef ittu-t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:39.289815792Z",
+  "model": "glm-5.3"
+}

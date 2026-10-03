@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Eliḥeref d Aḥiya, arraw n Cica, iqedcen d imesnulen; Yehocafat, mmi-s n Aḥilud, d amektail.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Eliḥeref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "d Aḥiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw n"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Cica"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "iqedcen d imesnulen"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Aḥilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "d amektail"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:41.728142191Z",
+  "model": "glm-5.3"
+}

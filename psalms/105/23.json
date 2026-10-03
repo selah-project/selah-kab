@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yisrael yekcem ɣer Miṣrayim, Yaɛqov yezdeɣ d axxam deg tmurt n Ḥam.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "yezdeɣ d axxam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "חם",
+      "gloss": "n Ḥam"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:54.437869181Z",
+  "model": "glm-5.3"
+}

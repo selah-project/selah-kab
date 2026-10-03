@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Tishyin-is ad ḥemlant, ad nnurent; idurar ad luzzent deg tebhirt-is. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ad ḥemlant"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ad nnurent"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "tishyin-is"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ad luzzent"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "deg tebhirt-is"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:06.305237628Z",
+  "model": "glm-5.3"
+}

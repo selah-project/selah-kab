@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Terrmed-d taqerṛt-inu am tin n ureem; ttwadehnen-ɣ s zzit tamaynut.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Terrmed-d"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "am tin n ureem"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "taqerṛt-inu"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ttwadehnen-ɣ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "s zzit"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "tamaynut"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:51.541901560Z",
+  "model": "glm-5.3"
+}

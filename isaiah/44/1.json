@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Tura, cceḍ Yaɛqov, a lεebdi-nneɣ, a Yisrael, kecči i cefxeɣ deg-s.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "cceḍ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a lεebdi-nneɣ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "cefxeɣ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T04:22:07.075719487Z",
+  "model": "glm-5.3"
+}

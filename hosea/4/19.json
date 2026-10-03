@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ruaḥ iṭṭef-tt deg yiğil-ines, u ad ngen tayri si lqettan-nnsen.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "iṭṭef-tt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruaḥ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "tt (Efrayim)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "deg yiğil-ines"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "u ad ngen tayri"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "si lqettan-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:14:55.486561798Z",
+  "model": "glm-5.3"
+}

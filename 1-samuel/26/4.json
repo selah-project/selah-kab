@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "David yuzen imesmuɣlen, yessen belli Cawul i d-yewweḍ s tidet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "imesmuɣlen"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "yessen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-yewweḍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tidet"
+    }
+  ],
+  "timestamp": "2026-10-02T22:51:15.715479217Z",
+  "model": "glm-5.3"
+}

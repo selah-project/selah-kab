@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "Yisrael, ad yergu ɣer Yahwe, axaṭer ɣer Yahwe yella ⟨l⟩ḥesed, d aṭas n tfdut ɣur-s.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ad yergu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "d aṭas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "tfdut"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:03.483338688Z",
+  "model": "glm-5.3"
+}

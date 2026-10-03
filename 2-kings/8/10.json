@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Elisa yenna-yas: Ruḥ, ini-yas: Ad tidireḍ. Maca Yahwe yuran-iyi belli ad yemmet akka tikelt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ruḥ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ini-yas"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "חיה",
+      "gloss": "Ad"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tidireḍ"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "yuran-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ad yemmet"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akka tikelt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:49.418035864Z",
+  "model": "glm-5.3"
+}

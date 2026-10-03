@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Mbarek Yahwe, acku isla ⟨iṣṣut⟩ n tḥannutin-iw.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mbarek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "isla"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iṣṣut"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "tḥannutin-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:31.428967028Z",
+  "model": "glm-5.3"
+}

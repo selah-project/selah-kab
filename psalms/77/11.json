@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Nniɣ: aḍu-iw, d wayen i d-ikksen: tiseddarin n yifus n Uɛlayen.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nniɣ"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "aḍu-iw"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d wayen"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "tiseddarin"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "n yifus"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "n Uɛlayen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:40.766599376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yaɛqov yazen imazanen uqbel-is ɣer Ɛisav gma-s, ɣer tmurt n Seɛir, arẓa n Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yazen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "imazanen"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uqbel-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ɛisav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seɛir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "arẓa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T20:25:16.501156817Z",
+  "model": "glm-5.3"
+}

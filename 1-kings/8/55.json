@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ineḥ, inefk tiṣtit i ⟨את⟩ meṛṛa temsuyt n Yisrael, s taɣect tameqṛanit, ad yenna:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ineḥ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "inefk tiṣtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa temsuyt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "temsuyt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "s taɣect"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tameqṛanit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:59.392294611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ma d nekk, ɣur-k iḥemmleɣ, a Yahwe; nniɣ: Elohim-iw, kecc i d-ttileḍ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma d nekk"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "iḥemmleɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nniɣ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc i d-ttileḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:05.259101178Z",
+  "model": "glm-5.3"
+}

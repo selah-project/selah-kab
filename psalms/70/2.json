@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 70,
+  "translation": "Elohim, iwakken ad iyi-tsellqeḍ; Yahwe, iwakken ad iyi-tεawneḍ, zreb!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "iwakken ad iyi-tsellqeḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "iwakken ad iyi-tεawneḍ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "zreb"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:29.616445177Z",
+  "model": "glm-5.3"
+}

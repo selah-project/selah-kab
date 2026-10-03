@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Syin i teɣzi-s ⟨i⟩ ⟨the⟩ lqrib ɣer-s: i yemma-s, i baba-s, i mmi-s, i yelli-s, d gma-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "syin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "teɣzi-s"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lqrib"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "i yemma-s"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "i baba-s"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "i mmi-s"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "i yelli-s"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "d gma-s"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:55.513235087Z",
+  "model": "glm-5.3"
+}

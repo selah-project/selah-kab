@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "ɛAzarya yenghel akked yibabaten-is, ṭṭfen-t-id ṭṭfen akked yibabaten-is deg temdint n David, ma d Yotam mmi-s yeqqim d agellid deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yenghel"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ɛAzarya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yibabaten-is"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ṭṭfen-t-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t-id"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yibabaten-is"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yeqqim d agellid"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:46.298602677Z",
+  "model": "glm-5.3"
+}

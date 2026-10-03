@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "David d akk Yisrael llan ṣeḥḥen deg zdat n Elohim s tmara-nsen akk, di tezlitt, s yinelmaden, s tinuba, s tebberzin, s temṣal d yisura.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "ṣeḥḥen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat n"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s ... akk"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tmara-nsen"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "di tezlitt"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "s yinelmaden"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "s tinuba"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "s tebberzin"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "s temṣal"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "d yisura"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:15.561494402Z",
+  "model": "glm-5.3"
+}

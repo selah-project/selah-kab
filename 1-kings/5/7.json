@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Wid-agi ibedden ṣṣeggmen ⟨את⟩ ugellid Celomo d ⟨את⟩ akk wid i d-ikecmen ɣer tabelt n ugellid Celomo, yal wahed deg wayyur-is; ur d-tekksen acemma.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "ṣṣeggmen"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "wid ibedden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid Celomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk wid i d-ikecmen ɣer tabelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wid i d-ikecmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tabelt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal wahed"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "deg wayyur-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "d-tekksen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "acemma"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:21.671395177Z",
+  "model": "glm-5.3"
+}

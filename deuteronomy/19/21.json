@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "ὍGloss: tettcuffeṛ ⟨tiṭṭ-ik·ma⟩: ur yili ttṛeḥem ara: nefec i nefec, ṭit i ṭit, iji i iji, afus i afus, aḍar i aḍar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ad tṛeḥem"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "tiṭṭ-ik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefec"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "i nefec"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ṭit"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "i ṭit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iji"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "i iji"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "i afus"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "aḍar"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "i aḍar"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:12.167030242Z",
+  "model": "glm-5.3"
+}

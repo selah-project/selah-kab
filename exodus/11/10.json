@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Moce d Aharon xedmen ⟨את⟩ tibḥirin-agi akk qabel Ferɛun; Yahwe yeqweε ⟨את⟩ ul n Ferɛun, ur yuzen ara ⟨את⟩ at Yisrael seg tmurt-is.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibḥirin-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "tibḥirin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qabel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yeqweε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul n Ferɛun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Ferɛun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yuzen ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "at Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "seg tmurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:44.715748106Z",
+  "model": "glm-5.3"
+}

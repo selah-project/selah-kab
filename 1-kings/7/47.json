@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 7:47",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "D Culeman yeǧǧa ⟨את⟩ akk ifeccauen ur neṭṭaf, axaṭer llan d aṭas maḍi maḍi; taẓḍi n uneḥac ur d-tettwaf.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "yeǧǧa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Culeman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ifeccauen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ifeccauen"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "axaṭer llan d aṭas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "tettwaf"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "taẓḍi"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "uneḥac"
+    }
+  ],
+  "timestamp": "2026-10-02T23:12:51.420919925Z",
+  "model": "glm-5.3"
+}

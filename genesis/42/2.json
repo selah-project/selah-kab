@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yenna: atan, slenɣ belli yella wemdan n yimdhen deg Miṣrayim; ṣubbet ḍin, awet-aɣ-d seg ḍin, iwakken ad nudir, ur nemmet ara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "atan"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "slenɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wemdan n yimdhen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "ṣubbet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ḍin"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "awet-aɣ-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-aɣ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg ḍin"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ad nudir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "nemmet ara"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:58.036335417Z",
+  "model": "glm-5.3"
+}

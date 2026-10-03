@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Selłu-yi, a Elohim, axaṭer llan ṣubbent waman ⟨alama d⟩ tuyyast-iw.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Selłu-yi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ṣubbent"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨alama d⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tuyyast-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:40.895896886Z",
+  "model": "glm-5.3"
+}

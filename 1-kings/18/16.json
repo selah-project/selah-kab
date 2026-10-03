@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yedda Obadyahu ad imlal d Aḥab, inna-yas; yedda Aḥab ad imlal d Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ad immal d"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "inna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ad immal d"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:35.202421918Z",
+  "model": "glm-5.3"
+}

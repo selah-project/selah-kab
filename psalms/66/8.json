@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "I yizekkwan, baraket i Elohim-nneɣ, daɣen sehlit ad issel yis deg waṛec n tedbelt-is.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "baraket"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i yizekkwan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "daɣen sehlit ad issel yis"
+    },
+    {
+      "surface": "קול",
+      "gloss": "waṛec"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "n tedbelt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:50.741248639Z",
+  "model": "glm-5.3"
+}

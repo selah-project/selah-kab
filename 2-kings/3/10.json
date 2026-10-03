@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna ugellid n Yisrael: Ay-aḥwayyu! Yahwe i d-yessewjen kraḍ n yigelliden-agi, iwakken ad ⟨את⟩ ten-yefk deg ufus n Mwab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ay-aḥwayyu!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "i d-yessewjen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "n yigelliden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "kraḍ n yigelliden-agi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "n Mwab"
+    }
+  ],
+  "timestamp": "2026-10-02T23:26:31.169260024Z",
+  "model": "glm-5.3"
+}

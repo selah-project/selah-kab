@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Macac ḥadren ur ṛuḥen ara seg tuccḍiwin n wexxam n Yarobɛam, ɣiɣ iḥettem i ⟨את⟩ Yisrael ad yexṣeḍ deg-s, qqnen deg ugur; Ashera-nni daɣen teqqim d tsbeddit deg Cumɛron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "macac"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ṛuḥen ara"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "seg tuccḍiwin n"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam n"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobɛam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɣiɣ"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "iḥettem i... ad yexṣeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "qqnen deg ugur"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera-nni"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "teqqim d tsbeddit"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "deg Cumɛron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:34:14.909346507Z",
+  "model": "glm-5.3"
+}

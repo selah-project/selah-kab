@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Ixhamen n Edom, d Yicmaɛeliten, Moab, d Igriten.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Ixhamen"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "d Yicmaɛeliten"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "d Igriten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:51.440765526Z",
+  "model": "glm-5.3"
+}

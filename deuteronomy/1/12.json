@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Amek ara ṭṭefeɣ s weḥd-i taskift-awen, lḥeml-awen d timenɣiwin-awen?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Amek"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ara ṭṭefeɣ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "s weḥd-i"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "taskift-awen"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "lḥeml-awen"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "timenɣiwin-awen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:08.087081512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Sin d tacemt iseggwasen ḥeddmen ⟨את⟩ Kedarlaɛomer, deg useggwas wis-krad d tacemt bdan ccwert nnig-is.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Sin d tacemt"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggwasen"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ḥeddmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaɛomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaɛomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "wis-krad d tacemt"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aseggwas"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "bdan ccwert nnig-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:14.156930085Z",
+  "model": "glm-5.3"
+}

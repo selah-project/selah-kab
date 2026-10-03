@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Llan at n Peres: ɣef Leḥṣeron, tagmat n Leḥṣeroniyen; ɣef Ḥamul, tagmat n Ḥamuliyen.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at n"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "ɣef Leḥṣeron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "tagmat"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "n Leḥṣeroniyen"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "ɣef Ḥamul"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "tagmat"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "n Ḥamuliyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:38:52.348742476Z",
+  "model": "glm-5.3"
+}

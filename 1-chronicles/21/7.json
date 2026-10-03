@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Tewɛeṛ taɣawsa-agi ɣef ἐ Elohim deg tuṭṭfiwin-is, ihi iḍebbeṛ ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "tewɛeṛ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tuṭṭfiwin-is"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taɣawsa-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iḍebbeṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T04:46:28.399163042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tsedfi teţţerred, txebber i ugellid. Yenna ugellid: Ma yella d netta kan, isalan llan deg imi-s. Yedda, yedda-d yerna iqreb.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "teţţerred"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "tsedfi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "txebber"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "d netta kan"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "isalan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "deg imi-s"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yedda-d"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "iqreb"
+    }
+  ],
+  "timestamp": "2026-10-02T23:04:41.853499614Z",
+  "model": "glm-5.3"
+}

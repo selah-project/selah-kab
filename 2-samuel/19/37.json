@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "I meḥsub ara yizri uneddab-ik ⟨את⟩ Yarden ⟨את⟩ ugellid, d acuɣer ad iyi-d-igmel ugellid agmuḍ-agi?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "i meḥsub"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ara yizri"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uneddab-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "d acuɣer"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "ad iyi-d-igmel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "agmuḍ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:04:22.419982535Z",
+  "model": "glm-5.3"
+}

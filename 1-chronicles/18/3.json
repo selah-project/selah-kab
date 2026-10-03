@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "David yeḥbes ⟨את⟩ Hadadezer, agellid n Ṣoba, ɣer Ḥamat, mi yella yella-in as ad iseggres afus-is ɣef wasif n Prat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ṣoba"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "ɣer Ḥamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "mi yella-in as"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "ad iseggres"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ɣef wasif"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prat"
+    }
+  ],
+  "timestamp": "2026-10-03T03:32:24.848345826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Meqqer ḥeddan ɣef yiwen, axaṭer sɛan tarbeɛt tarewsant deg ukba-nsen.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Meqqer ḥeddan"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יש",
+      "gloss": "sɛan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-nsen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "tarbeɛt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tarewsant"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "deg ukba-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:28.969595711Z",
+  "model": "glm-5.3"
+}

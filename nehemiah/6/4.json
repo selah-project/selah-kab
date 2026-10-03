@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Izen-d yi-d akken s wawal-agi kuẓt tikal, neεnaɣ-ten d akken s wawal-agi.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "izen-d yi-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yi-d"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken s wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kuẓt"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tikal"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "neεnaɣ-ten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken s wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-03T03:19:17.402432577Z",
+  "model": "glm-5.3"
+}

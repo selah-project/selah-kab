@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad teṭṭfeḍ ⟨את⟩ zzeit n usendeḥ, ad tdehneḍ ⟨את⟩ Mickan akked ⟨את⟩ akk wayen yellan deg-s, ad teqedgeḍ-t akked ⟨את⟩ akk ictaḥen-is, ad yili d aqdic.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zzeit n usendeḥ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzeit"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n usendeḥ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ad tdehneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akk wayen yellan deg-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yellan deg-s"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ad teqedgeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akk ictaḥen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ictaḥen-is"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "d aqdic"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:23.600864898Z",
+  "model": "glm-5.3"
+}

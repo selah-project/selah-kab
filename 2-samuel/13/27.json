@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Avcalom yeḥeṣṣen deg-s, yuzen ⟨את⟩ yid-s ⟨את⟩ Amnun d ⟨את⟩ meṛṛa arraw n ugellid.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "yeḥeṣṣen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yid-s ⟨את⟩",
+      "marks": "Amnun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnun"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "meṛṛa arraw n ugellid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:30.313891774Z",
+  "model": "glm-5.3"
+}

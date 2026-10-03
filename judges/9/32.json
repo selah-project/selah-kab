@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Tura rnu, kenker deg yiḍ, kecṭ d ⟨את⟩ umaḍnu illan ⟨את⟩ yid-k, ṭṭel di lexla.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura rnu"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kenker"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecṭ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "d umaḍnu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "illan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k",
+      "marks": "kecṭ"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ṭṭel"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di lexla"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:17.225410469Z",
+  "model": "glm-5.3"
+}

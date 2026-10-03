@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Anda tmuteḍ, ad mmuteɣ, daɣen din ad ttukellefɣ; akka ad yexleq Yahwe ⟨i⟩yi, yerna akka ad yernu, ma yella lmut kan i d-yeqqimen ad iḥezz gar-i d gar-ik.",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "tmuteḍ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ad mmuteɣ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "daɣen din"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "ad ttukellefɣ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad yexleq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨i⟩yi"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "yerna akka"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lmut"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "ad iḥezz"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gar-i"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "d gar-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:49.555581193Z",
+  "model": "glm-5.3"
+}

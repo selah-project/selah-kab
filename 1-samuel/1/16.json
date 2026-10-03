@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ur territ ara ⟨את⟩ takant-ik ⟨d⟩ tameṭṭut n Beliɛal; axaṭer seg aṭas n ccɣel-iw d teɣmert-iw i d-mmseḥlen, almid dagi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "territ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takant-ik"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "takant-ik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "d"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "n Beliɛal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "seg aṭas"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "n ccɣel-iw"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "d teɣmert-iw"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "i d-mmseḥlen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dagi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:11:12.778516745Z",
+  "model": "glm-5.3"
+}

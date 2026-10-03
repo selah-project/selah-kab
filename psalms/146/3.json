@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 146,
+  "translation": "Ur ttetkalen ara ɣef yigelliden, ula ɣef wemdan n wemdan, axaṭer ulac i wes-ines asellak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ttetkalen ara"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ɣef yigelliden"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ɣef wemmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "axaṭer ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i wes-ines"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "asellak"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:38.684534307Z",
+  "model": "glm-5.3"
+}

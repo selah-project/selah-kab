@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yenna-yas: Akka i d-yenna Yiftaḥ: Yisrael ur yewwi ara ⟨את⟩ tamurt n Moab, ḥatta ⟨את⟩ tamurt n yimezdaguten n Ɛamun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaḥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt n Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ḥatta ⟨את⟩",
+      "marks": "tamurt n yimezdaguten n Ɛamun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yimezdaguten"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    }
+  ],
+  "timestamp": "2026-10-02T22:30:31.731633145Z",
+  "model": "glm-5.3"
+}

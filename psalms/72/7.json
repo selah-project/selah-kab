@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Ad yuli umaṣṣaḥ deg wussan-is, d tuget n talwit, alamma ulac-it uyeyyur.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "deg wussan-is"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umaṣṣaḥ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "d tuget"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alamma"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ulac-it"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "uyeyyur"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:14.565827815Z",
+  "model": "glm-5.3"
+}

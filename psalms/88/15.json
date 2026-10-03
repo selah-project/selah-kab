@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Acuɣer, a Yahwe, tureḍ taneftit-iw, tetteffreḍ udmu-ik s-i?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "acuɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "tureḍ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "taneftit-iw"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "tetteffreḍ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udmu-ik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "s-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:46.318927178Z",
+  "model": "glm-5.3"
+}

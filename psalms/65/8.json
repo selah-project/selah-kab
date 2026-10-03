@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Iḥebbes taẓẓma n yillel, taẓẓma n isaffen-is, d taẓẓma n yegduden.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Iḥebbes"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "taẓẓma"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n yillel"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "taẓẓma"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "n isaffen-is"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "d taẓẓma"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "n yegduden"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:35.474361139Z",
+  "model": "glm-5.3"
+}

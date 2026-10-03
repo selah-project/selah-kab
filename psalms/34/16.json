@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Allen n Yahwe ⟨llan⟩ ɣer wid iqedcenen, yerna imeẓẓuɣen-is ⟨llan⟩ ɣer ccwa-nsen.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Allen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wid iqedcenen"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "imeẓẓuɣen-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ccwa-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:31.501094433Z",
+  "model": "glm-5.3"
+}

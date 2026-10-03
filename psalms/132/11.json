@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Iggugel Yahwe i David s lḥeqq; ur ittur ara degs: seg uwtan n tberkit-ik ad ssebdayeɣ asgeld i kečč.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "iggugel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "s lḥeqq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ittur ara"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "degs"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "seg uwtan"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "n tberket-ik"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ad ssebdayeɣ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "asgeld"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:47.522737915Z",
+  "model": "glm-5.3"
+}

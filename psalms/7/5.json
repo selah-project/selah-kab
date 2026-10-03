@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ma rriɣ dirit i win yid-i illan d talwit, u sselkeɣ ⟨i⟩ṣeḍḍa-iw war sebba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "rriɣ"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "i win yid-i illan d talwit"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "u sselkeɣ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "iṣeḍḍa-iw"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "war sebba"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:33.434149217Z",
+  "model": "glm-5.3"
+}

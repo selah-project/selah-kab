@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "d ⟨את⟩ meṛbaḥ n lqeḥṭan, akked ⟨את⟩ akk ifeckalen-is, d ⟨את⟩ lḥeṣṣad, d ⟨את⟩ aṣes-ines,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meṛbaḥ n lqeḥṭan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meṛbaḥ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "n lqeḥṭan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk ifeckalen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ifeckalen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeṣṣad"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "lḥeṣṣad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aṣes-ines"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "aṣes-ines"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:56.053549342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yufa-ya Ṣekem, mmi-s n Ḥamor taḥvi, agellid n tmurt, ⟨את⟩ ihi; yessili-tt-id, yenṣel fell-as, yessukfel-tt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yufa-ya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ihi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Ṣekem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Ḥamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "taḥvi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yessili-tt-id"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tt"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "yenṣel fell-as"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tt"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "yessukfel-tt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:06.809900610Z",
+  "model": "glm-5.3"
+}

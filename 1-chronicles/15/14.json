@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Iqohanim d ileviyen qqedcen iman-nsen, iwakken ad sɛedden ⟨את⟩ sanduq n Yahwe, Elohim n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "qqedcen iman-nsen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iqohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "d ileviyen"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "iwakken ad sɛedden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduq n Yahwe, Elohim n Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:28.107773570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "S yisem n Yahwe ad d-siwelɣ: a Yahwe, ihya, sserreḥ neefs-iw.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "s yisem n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad d-siwelɣ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ihya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "sserreḥ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefs-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:28.185564115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 10:7",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad ilin am ugennad Efrayim, ul-nnsen ad yefliḥ am lexmar, arraw-nnsen ad walin ad fliḥen, ul-nnsen ad yuli d leḥya deg Yahwe.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "am ugennad"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ad yefliḥ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ul-nnsen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "יין",
+      "gloss": "lexmar"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "arraw-nnsen"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "ושמחו",
+      "gloss": "ad fliḥen"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ad yuli d leḥya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ul-nnsen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:36:24.252153764Z",
+  "model": "glm-5.3"
+}

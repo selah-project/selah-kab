@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Tuli tsiddi n Yahwe ɣef ugdud-is, yewjid ⟨את⟩ tayawsa-is.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Tuli tsiddi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tsiddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ɣef ugdud-is"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "yewjid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayawsa-is"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "tayawsa-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:40.682231457Z",
+  "model": "glm-5.3"
+}

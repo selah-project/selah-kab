@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yezgel iẓri n yexxam, ṣḍaṣt n yamot; teɣzi n uṣela, ṛebɛa n yamot, d tama d tama i yexxam, d tama.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "yezgel"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "iẓri"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n yexxam"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ṣḍaṣt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "n yamot"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "n uṣela"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ṛebɛa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "n yamot"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "d tama"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "d tama"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i yexxam"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "d tama"
+    }
+  ],
+  "timestamp": "2026-10-03T04:30:01.260712283Z",
+  "model": "glm-5.3"
+}

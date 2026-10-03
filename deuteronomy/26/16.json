@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ass-a, Yahwe Elohim-ik k-iḥekkem ad txedmeḍ ⟨את⟩ yilugan-agi d ⟨את⟩ yiccreɛ; ad ⟨את⟩-ten-tḥerzeḍ, ad ⟨את⟩-ten-txedmeḍ s wul-ik meṛṛa d s taneffust-ik meṛṛa.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Ass-a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "k-iḥekkem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilugan-agi"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "yilugan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yiccreɛ"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "yiccreɛ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ad ten-tḥerzeḍ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad ten-txedmeḍ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s ... meṛṛa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "d s ... meṛṛa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "taneffust-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:03:58.676053208Z",
+  "model": "glm-5.3"
+}

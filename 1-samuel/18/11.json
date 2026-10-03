@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Sawl yuzen ⟨את⟩ ⟨aseg⟩, yenna: ad t-neffeɣ David ɣer uẓrar. David yeẓẓel seg ẓdat-is snat n tikkal.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨aseg⟩"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "⟨aseg⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ad t-neffeɣ"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "ɣer uẓrar"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yeẓẓel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "seg ẓdat-is"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "snat n tikkal"
+    }
+  ],
+  "timestamp": "2026-10-02T22:45:48.696149768Z",
+  "model": "glm-5.3"
+}

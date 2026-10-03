@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "I lmegget, ur teṭṭam ara tajerriḍt deg yiman-awen; d tira neɣ taqvaqqvṭ, ur tt-seggmam ara fellawen; nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "tajerriḍt"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "i lmegget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "teṭṭam ara"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "deg yiman-awen"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "d tira"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "taqvaqqvṭ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "seggmam ara"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fellawen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:21.695070537Z",
+  "model": "glm-5.3"
+}

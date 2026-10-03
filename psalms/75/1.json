@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "I wed umeslay, Ur tt-terreḍ ara; d timezgit n Asaf, d lecciḥt.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i wed umeslay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tt-terreḍ ara"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "timezgit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "n Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lecciḥt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:17.023717604Z",
+  "model": "glm-5.3"
+}

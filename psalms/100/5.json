@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 100,
+  "translation": "Axaṭer Yahwe d ameɣtu; lɛahd-nnes n ḥesed ad yeqqim i lebda, d liman-nnes seg wegrudem ɣer wagrudem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-nnes"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דר",
+      "gloss": "wagrudem"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "wagrudem-nniḍen"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "liman-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:50.429874204Z",
+  "model": "glm-5.3"
+}

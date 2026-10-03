@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Axir teččur nnefs-iw s yir lexwayaḍ, ḥyati-t tessaweḍ ar Ceol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "s yir lexwayaḍ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ḥyati-t"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ar Ceol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "tessaweḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:40.965109102Z",
+  "model": "glm-5.3"
+}

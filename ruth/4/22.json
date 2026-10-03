@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ɛubed id-yessefk d baba-s n ⟨את⟩ Icay, Icay id-yessefk d baba-s n ⟨את⟩ David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Ɛubed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessefk d baba-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Icay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Icay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Icay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessefk d baba-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-03T02:49:10.519831127Z",
+  "model": "glm-5.3"
+}

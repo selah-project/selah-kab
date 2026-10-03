@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Yess-itt-id deg ⟨lexder⟩ n yiẓekwan, seg weẓru d atay aqahwi ad k-iseggem akken atqeḍḍeḍ.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "yess-itt-id deg"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "⟨seg lexder⟩"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "yiẓekwan"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "seg weẓru"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "atay aqahwi"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ad k-iseggem akken atqeḍḍeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:17.276288392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 87,
+  "translation": "Tiγri imeqqran ttwaḍrant deg-k, a tamdint n Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Tiγri imeqqran"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ttwaḍrant"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "a tamdint"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:56.484502594Z",
+  "model": "glm-5.3"
+}

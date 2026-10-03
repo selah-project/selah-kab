@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Uɣaleɣ nekk, ẓerɣ ⟨את⟩ akk wid yettwaneḥsaren i yetteddun ddaw yiṭij; wa dɣa immecten n wid yettwaneḥsaren, ulac i ten-i d-icebben; seg yifassen n wid ten-yeḥsren ⟨the⟩ tezmert, ulac i ten-i d-icebben.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "uɣaleɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ẓerɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "wid yettwaneḥsaren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "yetedun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wa dɣa"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "immecten"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "n wid yettwaneḥsaren"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i ten"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "win i d-icebben"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "seg yifassen"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "n wid ten-yeḥsren"
+    },
+    {
+      "surface": "כח",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i ten"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "win i d-icebben"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:50.750401048Z",
+  "model": "glm-5.3"
+}

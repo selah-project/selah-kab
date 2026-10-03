@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ma d ⟨את⟩ teɣmert, ⟨את⟩ iḥricen ed ⟨את⟩ tickemt n teṣṭeṭ, seg ukebbuḍ, seg uqebḥan, i yeḥmeṣ deg lmeṣjed, akken i d-yeṣṣefra Yahwe ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teɣmert"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "teɣmert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iḥricen"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "iḥricen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tickemt n teṣṭeṭ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tickemt n teṣṭeṭ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ukebbuḍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "uqebḥan"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "i yeḥmeṣ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "deg lmeṣjed"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yeṣṣefra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:39.794336928Z",
+  "model": "glm-5.3"
+}

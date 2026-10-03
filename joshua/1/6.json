@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ḥazmeṭ, ǧehded, axaṭer kečč ad tessneflaḍ ⟨את⟩ agdud-agi ⟨את⟩ tamurt, i ɣef ssegdeɣ i ybabaten-nsen ad tent-id-mud-ɣ.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Ḥazmeṭ"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ǧehded"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "ad tessneflaḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-agi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i ɣef"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ssegdeɣ"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "i ybabaten-nsen"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad tent-id-mud-ɣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-02T22:12:35.224096368Z",
+  "model": "glm-5.3"
+}

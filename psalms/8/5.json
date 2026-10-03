@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Acu-t win yettmettaten, akken tettaṭṭafaṛ-t tidect-ik? Akken d mmi-s n wemdan, akken t-zzuɣreḍ-t?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acu-t"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "win yettmettaten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akken"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "tettaṭṭafaṛ-t tidect-ik"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "Akken d mmi-s"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akken"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "t-zzuɣreḍ-t"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:18.804386071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yahwe ad iḥkem iɣlanen; iḥkem-iyi, Yahwe, akken tella ṣedeq-iw d tukksa-nni deg-i.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "iḥkem-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "akken tella ṣedeq-iw"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "d tukksa-nni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "deg-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:50.425954038Z",
+  "model": "glm-5.3"
+}

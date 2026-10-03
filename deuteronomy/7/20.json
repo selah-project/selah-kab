@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yerna Yahwe Elohim-ik ad yazen ⟨את⟩ teεuṛṛist ɣef-sen, alama ṛuḥen wid yeqqimen akked wid ineḥben sɣuṛe-k.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teεuṛṛist"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "teεuṛṛist"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ad yazen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alama"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "wid yeqqimen"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "akked wid ineḥben"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sɣuṛe-k"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:41.042114224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Adonai ad iḥek ɣef yid-s, axaṭer iẓra belli ass-nnes i d-iteddun.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ad iḥek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɣef yid-s"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "i d-iteddun"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ass-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:11.974260346Z",
+  "model": "glm-5.3"
+}

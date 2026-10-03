@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yenna ugdud i Yehocua: Yahwe, Elohim-nneɣ, ⟨את⟩ ara nqeddec, i taɣect-is ara neslem.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim-nneɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ara nqeddec"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "i taɣect-is"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ara neslem"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:29.499672755Z",
+  "model": "glm-5.3"
+}

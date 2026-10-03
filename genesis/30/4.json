@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Tefka-as ⟨את⟩ Bilha, taklit-is, d tameṭṭut; Yaɛqov yekcem ɣur-s.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "tefka-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "taklit-is"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d tameṭṭut"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-02T20:23:56.625375838Z",
+  "model": "glm-5.3"
+}

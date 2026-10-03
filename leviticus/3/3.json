@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad d-yerr seg uzebbeḥ n ccleḥ tikci s tmes i Yahwe: ⟨את⟩ ḥeleb ixeffunen ⟨את⟩ iγriwan, d ⟨את⟩ akk ḥeleb anida yella γef iγriwan.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ad d-yerr"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "seg uzebbeḥ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "n ccleḥ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tikci s tmes"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ḥeleb"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ḥeleb"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ixeffu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iγriwan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iγriwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk ḥeleb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ḥeleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iγriwan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:08.265770556Z",
+  "model": "glm-5.3"
+}

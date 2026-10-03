@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "S wawal ur nessaweḍ, s wayen ur nfeṛḥen, is ad yennaḍ? Awalen-agi ur nefɛay ara.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ad yennaḍ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "nessaweḍ"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "s wayen ur nfeṛḥen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "nefɛay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:36:27.974808917Z",
+  "model": "glm-5.3"
+}

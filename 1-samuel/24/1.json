@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "David yuli-d seg dinna, yezdeɣ deg tseggwa n Ɛin Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yuli-d seg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ deg"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "tseggwa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ɛin"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:28.035698275Z",
+  "model": "glm-5.3"
+}

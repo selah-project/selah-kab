@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Akken ittettu usexxen, akka ad ttettun; akken ittewolf uḍeg deg tmes, akka ad ruḥen yimenɣiwen deg udem n Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "akken ittettu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asexxen"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ad ttettun"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "akken ittewolf"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "uḍeg"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "deg"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ad ruḥen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yimenɣiwen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "deg udem n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:06.737174041Z",
+  "model": "glm-5.3"
+}

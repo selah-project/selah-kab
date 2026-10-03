@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ṣeggem aseḥḥet, ẓmel Tora gar yinelmaden-iw.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ṣeggem"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "aseḥḥet"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "ẓmel"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "gar yinelmaden-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:06.818968025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ruḥen Kehatiyen, wid ideffiren iqedcen; sbedden ⟨את⟩ Mickan arma d-wwḍen.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "Ruḥen"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatiyen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wid ideffiren"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "sbedden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "באם",
+      "gloss": "d-wwḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:28:25.137383289Z",
+  "model": "glm-5.3"
+}

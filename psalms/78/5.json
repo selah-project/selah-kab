@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yesbedd ⟨את⟩ tegriṭ deg Yaɛqov, Tora yessers-tt deg Yisrael, ayen i yeḥkman ⟨את⟩ yiden-nneɣ, iwakken ad ten-yissin i warraw-nnsen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yesbedd"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tegriṭ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "deg Yaɛqov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yessers-tt"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeḥkman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiden-nneɣ"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "yiden-nneɣ"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ad ten-yissin"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "i warraw-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:51.760651590Z",
+  "model": "glm-5.3"
+}

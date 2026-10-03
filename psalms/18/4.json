@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Win yettwaqammen, ad s-siwelɣ ɣer Yahwe, ad d-nffeɣ seg yiɛdawen-iw.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Win yettwaqammen"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad s-siwelɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "seɣ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "yiɛdawen-iw"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ad d-nffeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:28.053769111Z",
+  "model": "glm-5.3"
+}

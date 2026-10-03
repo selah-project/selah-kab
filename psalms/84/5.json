@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 84,
+  "translation": "Ceḥḥun wid izdeɣen deg uxxam-ik; ɣas llan ad k-ceggren. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ceḥḥun"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wid izdeɣen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "deg uxxam-ik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɣas llan"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ad k-ceggren"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:28.855238110Z",
+  "model": "glm-5.3"
+}

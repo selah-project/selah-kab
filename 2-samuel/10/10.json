@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ma d ⟨את⟩ baki n wegdud yefka-t deg ufus n Abicay, gma-s, ihegg ad imcaber d warrac n Ɛemmun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baki n wegdud"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abicay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ihegg"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ad imcaber"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛemmun"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:06.130403636Z",
+  "model": "glm-5.3"
+}

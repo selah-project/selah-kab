@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ma imcess netta i d-yettqebbel ⟨את⟩ qorban-is, ad t-id-yerr qrib ⟨את⟩ ɣer zdat Yahwe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "imcess"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "i d-yettqebbel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorban-is"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qorban-is"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ad t-id-yerr qrib"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "imcess"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:24.170667021Z",
+  "model": "glm-5.3"
+}

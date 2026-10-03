@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yehuda yerra-d ɣer uknaɛani win izdeɣen deg Ḥebron — d yisem n Ḥebron zik Qiryat Arbaɛ — dren ⟨את⟩ Šešay, d ⟨את⟩ Aḥiman, d ⟨את⟩ Ṭalmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "uknaɛani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "win izdeɣen"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "deg Ḥebron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "d yisem"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "n Ḥebron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "zik"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arbaɛ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šešay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Šešay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Aḥiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Aḥiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ṭalmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Ṭalmai"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:56.709047948Z",
+  "model": "glm-5.3"
+}

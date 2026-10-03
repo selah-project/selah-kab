@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Ssnutret i Elohim n yilahen, axaṭer i lebda ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ssnutret"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "i Elohim n"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yilahen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:14.406080574Z",
+  "model": "glm-5.3"
+}

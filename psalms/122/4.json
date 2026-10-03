@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "Inegga n Yisrael, d lɛahd n Yisrael, adalin acku llan deg-s, ad snemmren i yisem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "alin"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "liweɛlan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "iweɛlan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "segzi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ad snemmren"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "i yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:09.132092350Z",
+  "model": "glm-5.3"
+}

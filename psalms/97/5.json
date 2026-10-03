@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 97,
+  "translation": "Idurar, am wax, ḥellan deg uzrir n Yahwe, deg uzrir n Adonai n tmurt akk.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Idurar"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "am wax"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "ḥellan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "deg uzrir n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "deg uzrir n"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:25.271918620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Yahwe yella ⟨את⟩ Yusuf; yuɣal d argaz ameccum; yella deg wexxam n bab-is Amiṣri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ameccum"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "n bab-is"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Amiṣri"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:33.544040765Z",
+  "model": "glm-5.3"
+}

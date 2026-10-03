@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Agellid yexdem ⟨את⟩ lefteḥ d ⟨את⟩ ddḥeb deg Yerucalayim am iẓra, d ⟨את⟩ leɛrarc yexdem-it am tisemrin i yellan deg wadda n tmurt, s waṭas.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefteḥ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lefteḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ddḥeb"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ddḥeb"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "am iẓra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "leɛrarc"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "leɛrarc"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "am tisemrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "deg wadda n tmurt"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "s waṭas"
+    }
+  ],
+  "timestamp": "2026-10-03T04:47:25.938349908Z",
+  "model": "glm-5.3"
+}

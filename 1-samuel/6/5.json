@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Egget tiẓrigin n tiḥbubin-nwen d tiẓrigin n yiɣerḍen-nwen i yeḥerben ⟨את⟩ tamurt, efket tajmilt i Elohim n Yisrael, ay tzemren ad isexsiṛ ⟨את⟩ afus-is seg ţṭaf fellawen, seg yiḥram n yilaw-nwen d seg tmurt-nwen.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Egget"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "tiẓrigin"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "tiḥbubin-nwen"
+    },
+    {
+      "surface": "וצלמי",
+      "gloss": "d tiẓrigin"
+    },
+    {
+      "surface": "עכבריכם",
+      "gloss": "yiɣerḍen-nwen"
+    },
+    {
+      "surface": "המשחיתם",
+      "gloss": "i yeḥerben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "efket"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tajmilt"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ay tzemren"
+    },
+    {
+      "surface": "יקל",
+      "gloss": "ad isexsiṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "seg ţṭaf fellawen"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "yiḥram n yilaw-nwen"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "d seg"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tmurt-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:46.857330610Z",
+  "model": "glm-5.3"
+}

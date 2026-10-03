@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yuf-ed Elohim ⟨את⟩ arrac ⟨n⟩ Yisrael, yessin-it Elohim.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yuf-ed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arrac n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "yessin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:05.112794939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Axaṭer kuneh ad tɛezzlbem ⟨את⟩ Urdun, ad kecblem ad tesneḥlem ⟨את⟩ tmurt i kifen Yahwe Elohim-nwen; ad tt-tesneḥlem yerna ad tizdeɣgem deg-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kuneh"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ad tɛezzlbem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ad kecblem"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ad tesneḥlem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iwettm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwen"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ad tesneḥlem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tt (tamurt)"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ad tizdeɣgem"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:54:11.698654587Z",
+  "model": "glm-5.3"
+}

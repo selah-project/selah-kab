@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Yesselmad Yahwe iberdan-is i Moce, d tilawt-is i warrac n Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "yesselmad"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iberdan-is"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "i Moce"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "d tilawt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:32.278748409Z",
+  "model": "glm-5.3"
+}

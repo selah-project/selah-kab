@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Wid-agi irgazen ssuÉen ⟨את⟩ afus-nnsen, kecmen ⟨את⟩ Luá áur-sen ɣer wexxam, ⟨את⟩ táewint rzentt.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ssuÉen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-nnsen"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "afus-nnsen"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Luá"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Luá"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "áur-sen"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ɣer wexxam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "táewint"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "táewint"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "rzentt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:49.937277555Z",
+  "model": "glm-5.3"
+}

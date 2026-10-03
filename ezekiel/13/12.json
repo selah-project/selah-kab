@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Wa, teɣna yuglen; ur d-yettwanek ara ɣur-kun: Anida lexṣab i t-tṭecem?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yuglen"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "teɣna"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yettwanek"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ɣur-kun"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Anida"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "lexṣab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "t-tṭecem"
+    }
+  ],
+  "timestamp": "2026-10-03T00:47:15.701300812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Wa llan d arrac n Oholibama, yelli-s n Ɛana, yelli-s n Ṣibɛon, tamettut n Ɛesaw; tewwi-d i Ɛesaw ⟨את⟩ Yeɛi d ⟨את⟩ Yeɛlam d ⟨את⟩ Qoraḥ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac n"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s n"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ɛana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s n"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Ṣibɛon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tamettut n"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ɛesaw"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tewwi-d"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "i Ɛesaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeɛi"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeɛi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yeɛlam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yeɛlam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Qoraḥ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:03.696133913Z",
+  "model": "glm-5.3"
+}

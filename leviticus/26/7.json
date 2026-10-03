@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad teḍefrem ⟨את⟩ iɛdawen-nwen, ad ḍerrgen qabel-ikum s lessef.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "ad teḍefrem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɛdawen-nwen"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "iɛdawen-nwen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ad ḍerrgen"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qabel-ikum"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "s lessef"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:37.874893399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "Rjuɣ Yahwe, tessaḥeit nefsiw, d wawal-is ṛuḥeɣ.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Rjuɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "tessaḥeit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsiw"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "d wawal-is"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ṛuḥeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:03.200498030Z",
+  "model": "glm-5.3"
+}

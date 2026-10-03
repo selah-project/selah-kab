@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Tiggert i lebda gar-iw d warraw n Yisrael: acku deg sett wussan Yahwe yexleq ⟨את⟩ igenwan d ⟨את⟩ tmurt, deg wass wis sebaɛ iḥbes, yerbeḥ iman-is.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "gar-iw"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אות",
+      "gloss": "tiggert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sett"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igenwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis sebaɛ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "iḥbes"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "yerbeḥ iman-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:06.389295819Z",
+  "model": "glm-5.3"
+}

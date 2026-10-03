@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 21:32",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Si taqbilt n Nefṭali: ⟨את⟩ tiɣremt n tḥersi i win inɣen, ⟨את⟩ Qedec deg Galil akked ⟨את⟩ akal-ns, ⟨את⟩ Ḥamat-Dor akked ⟨את⟩ akal-ns, ⟨את⟩ Qartan akked ⟨את⟩ akal-ns; kraḍ n tiɣremtin.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "si taqbilt"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Nefṭali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣremt n tḥersi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tiɣremt"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "tḥersi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "i win inɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedec deg Galil"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedec"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "deg Galil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akal-ns"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akal-ns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Ḥamat-Dor"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ḥamat"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akal-ns"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akal-ns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Qartan"
+    },
+    {
+      "surface": "קרתן",
+      "gloss": "Qartan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akal-ns"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akal-ns"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tiɣremtin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kraḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:14.955162689Z",
+  "model": "glm-5.3"
+}

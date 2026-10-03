@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Ur ad izzel i isefra n dir; ul-is yezga, ittam di Yahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "isefra"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ur ad"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "izzel"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yezga"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ittam"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:21.434504377Z",
+  "model": "glm-5.3"
+}

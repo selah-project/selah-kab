@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Acḥebu, mizmor i Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "acḥebu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asaf"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:49.017014104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 146,
+  "translation": "Yahwe ad yennuker i lebda, Elohim-ik, a Ṣiyyun, i tsuta s tsuta. Snubget Yah.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "ad yennuker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "a Ṣiyyun"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i tsuta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "s tsuta"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Snubget"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:43.609616623Z",
+  "model": "glm-5.3"
+}

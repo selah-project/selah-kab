@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "Azmul n Asaf. A Elohim, igrajen kkan-d i lexla n tuṭṭuft-ik, ṭṭqen ⟨את⟩ lḥejcal n yiqedcen-ik, rran ⟨את⟩ Yerucalayim d iḍan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Azmul"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "n Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "A Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kkan-d"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "igrajen"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "i lexla n tuṭṭuft-ik"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ṭṭqen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥejcal"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "lḥejcal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "n yiqedcen-ik"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "d iḍan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:20.054053050Z",
+  "model": "glm-5.3"
+}

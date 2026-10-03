@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Deg beṛṛa, seif ad yexṣer deg warrac; deg texxamin, tugdi: akk d ameẓyan, akk d tafulḥa, agemmum akk d wemdan n ticcert.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "deg beṛṛa"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "ad yexṣer deg warrac"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seif"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "d deg texxamin"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "tugdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "tafulḥa"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "agemmum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "n ticcert"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:45.957977354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Armi ad wafeɣ ⟨את⟩ amkan i Yahwe, Micken i Wabir n Yaɛqov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Armi"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ad wafeɣ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Micken"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "i Wabir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:57.203318411Z",
+  "model": "glm-5.3"
+}

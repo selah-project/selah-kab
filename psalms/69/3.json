@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Mmeɣreɣ deg iḥmumcen n teɣzut, ulac ara ibedden fell-i; kecmeɣ deg iɣeṛman n waman, d asif i yi-iḥeṛḍen.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Mmeɣreɣ"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "deg"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "iḥmumcen n teɣzut"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac ara"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ibedden"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kecmeɣ"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "deg iɣeṛman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "d asif"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "i yi-iḥeṛḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:40.896031970Z",
+  "model": "glm-5.3"
+}

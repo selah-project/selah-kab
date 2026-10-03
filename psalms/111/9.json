@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Yuzen taḥrist i ugdud-is; yeṣṣa lɛahd-is i lebda: iqedcen, d-ittwarẓan, yisem-is.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "taḥrist"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "i ugdud-is"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeṣṣa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iquedcen"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "d-ittwarẓan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yisem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:32.718574378Z",
+  "model": "glm-5.3"
+}

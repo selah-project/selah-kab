@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Ad d-neẓra ḥesed-ik deg tufat, tamant-ik deg yiḍen.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Ad d-neẓra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tufat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "tamant-ik"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "deg yiḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:07.281484357Z",
+  "model": "glm-5.3"
+}

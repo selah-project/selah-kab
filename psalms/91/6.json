@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Seg lɛetta i ttazalen deg tigniwt, seg lexṣara iwumi d-yettas azal n tazelmeḍt.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "seg lɛetta"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "deg tigniwt"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "i ttazalen"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "seg lexṣara"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "iwumi d-yettas"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "azal n tazelmeḍt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:17.998662189Z",
+  "model": "glm-5.3"
+}

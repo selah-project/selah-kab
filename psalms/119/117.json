@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ṣutti-yi ad qqimeɣ d aṣellam, ad ẓerɣ iḥeqqan-ik daymen.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "ṣutti-yi"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "ad qqimeɣ d aṣellam"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "ad ẓerɣ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "iḥeqqan-ik"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "daymen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.147417293Z",
+  "model": "glm-5.3"
+}

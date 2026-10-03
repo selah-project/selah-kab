@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Seg ṭabu n Yiṣaḥar: ⟨את⟩ Kiṣyon akked ⟨את⟩ teɣmert-is, ⟨את⟩ Dabrat akked ⟨את⟩ teɣmert-is.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "seg ṭabu"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yiṣaḥar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiṣyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kiṣyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "teɣmert-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teɣmert-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabrat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabrat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "teɣmert-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teɣmert-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:06.941112275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Aram yufa d-yettwaḥeṛmen ar zdat n Yisrael, mlilen yid-s akk.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "yettwaḥeṛmen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ar zdat n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "mlilen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yid-s akk"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:20.288998352Z",
+  "model": "glm-5.3"
+}

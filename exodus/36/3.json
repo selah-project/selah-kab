@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 36:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ṭṭfen zdat Moce ⟨את⟩ akk tikci i d-yewwin at Yisrael i leqdic n teqedcit iwakken ad tt-xdemen ⟨את⟩; d nutni mazal llan d-yewwin ɣer-es tikci s lebɣi, azal azal.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tikci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "tikci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "d-yewwin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "i leqdic"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "n teqdic"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "taqedcit"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ad tt-xdemen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "taqedcit (tt-)"
+    },
+    {
+      "surface": "והם",
+      "gloss": "d nutni"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "d-yewwin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-es"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "tikci s lebɣi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "azal"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "azal"
+    }
+  ],
+  "timestamp": "2026-10-02T20:59:45.575995340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 138,
+  "translation": "Acku Yahwe d aɛlayan, maca iẓerr ⟨i⟩ wid yettwaddaren; wid iqerḥen, seg tidett i ten-issin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "רם",
+      "gloss": "d aɛlayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "wid yettwaddaren"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "iẓerr"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "wid iqerḥen"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "seg tidett"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "i ten-issin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.212442406Z",
+  "model": "glm-5.3"
+}

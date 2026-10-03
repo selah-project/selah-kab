@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Bless Yahwe, ⟨i⟩ akk i ṣebaot-is, imettiyen-is, wid ixedmen ṛṣa-nnes.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bless"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "i ṣebaot-is"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "imettiyen-is"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wid ixedmen"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ṛṣa-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:00.404919543Z",
+  "model": "glm-5.3"
+}

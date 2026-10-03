@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Ameslayen ur yettbet ara di tmurt; ameslunu n takerḍant, dirit ad t-yeṭṭef alamma yexṣer",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ameslayen"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "(n lesḥa)"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "yettbet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ameslunu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "n takerḍant"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ad t-yeṭṭef"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "alamma yexṣer"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:16.352917816Z",
+  "model": "glm-5.3"
+}

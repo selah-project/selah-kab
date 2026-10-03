@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ssneɣ belli tzemred ⟨akk⟩, ur yettwattuḥ ara ⟨seg-ik⟩ lebɣi.",
+  "tokens": [
+    {
+      "surface": "יידעת",
+      "gloss": "Ssneɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tzemred"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "yettwattuḥ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg-ik"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "lebɣi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:46:42.779289370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ur tezmreḍ ara ad tesbeddeḍ ⟨את⟩ Pesaḥ deg yiwen seg tiberin-ik, i Yahwe Elohim-ik imudden i kečč.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tezmreḍ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ad tesbeddeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "deg yiwen seg"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tiberin-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "imudden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-02T21:57:24.102781937Z",
+  "model": "glm-5.3"
+}

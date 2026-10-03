@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Mi k-ssutureɣ, err-iyi-d, a Elohim n ṣedeq-iw; deg uẓeẓlu tserrḥeḍ felli; ṣutṭuḥ felli, slem i ussuter-iw.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "mi k-ssutureɣ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "err-iyi-d"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "n ṣedeq-iw"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "deg uẓeẓlu"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "tserrḥeḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "felli"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ṣutṭuḥ felli"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "slem"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "i ussuter-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:05.675675711Z",
+  "model": "glm-5.3"
+}

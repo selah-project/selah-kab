@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mi Yoab yella yettḥekku ɣer temdint, yefka ⟨את⟩ Urya deg wemkan i yessen d akken irgazen n tzmert llan dinna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "mi yettḥekku"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yessen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d akken"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "n tzmert"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:32.501475329Z",
+  "model": "glm-5.3"
+}

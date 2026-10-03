@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 7:19",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "I d-yeqreb ⟨את⟩ lqerbani-s: yiwen n wemḍiq n ṣeḍḍaḥ, miẓan-is 130 ceqel, yiwen n wejrid n ṣeḍḍaḥ, 70 ceqel, s ceqel n Uqeds, sin akkin imiren, iḥemmen ifexsi yelmen s uẓeṭṭu, d lminḥa.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "i d-yeqreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lqerbani-s"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lqerbani-s"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "amḍiq"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ṣeḍḍaḥ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "30"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "100"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "miẓan-is"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "ajrid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ṣeḍḍaḥ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "70"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ceqel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "s ceqel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "Uqeds"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sin akkin"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "imiren"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ifexsi"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "yelmen"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "s uẓeṭṭu"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "lminḥa"
+    }
+  ],
+  "timestamp": "2026-10-02T21:23:39.101539993Z",
+  "model": "glm-5.3"
+}

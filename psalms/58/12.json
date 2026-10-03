@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Ad yini wemdan: s tidet, yella usefru i uṣedeq; s tidet, yella Elohim, iḥekmen di tmurt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "usefru"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "i uṣedeq"
+    },
+    {
+      "surface": "אך",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "iḥekmen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:54.475243856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yura deg tibratt: Efket ⟨את⟩ Urya ɣer sdat n wudem n timenɣiwt tayugert, tuɣalem-d seg deffir-is, ad yettwanɣen, ad yemmet.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yura"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deg tibratt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "d aken"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "efket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudem"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "timenɣiwt"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "tayugert"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "tuɣalem-d"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "seg deffir-is"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ad yettwanɣen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:32.501333889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Mi yessenṭeḍ wemdan abaɣ neɣ taẓalluxt, yeǧǧa ⟨את⟩ lmal-is iṭṭef deg wabaɣ n wayeḍ; seg wqquṣan n ubaɣ-is akw seg wqquṣan n teẓalluxt-is ad yexles.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yessenṭeḍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "abaɣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "taẓalluxt"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "yeǧǧa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmal-is"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "lmal-is"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg wabaɣ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "n wayeḍ"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "seg wqquṣan"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "n ubaɣ-is"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "akw seg wqquṣan"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "n teẓalluxt-is"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ad yexles"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:42.333984672Z",
+  "model": "glm-5.3"
+}

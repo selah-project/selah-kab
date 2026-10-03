@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Ibeddel Yahwe ⟨את⟩ waman-nsen ɣer idammen, ineɣ ⟨את⟩ isemcen-nsen.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Ibeddel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waman-nsen"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "waman-nsen"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ɣer idammen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ineɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isemcen-nsen"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "isemcen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:41.291064999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Yaɛqov yekker seg Beer-Cebɛa, d wid n Yisrael ṭṭfen ⟨את⟩ Yaɛqov baba-sen, akked ⟨את⟩ arraw-nsen meẓẓiyen d ⟨את⟩ tewtulin-nsen, deg treylin i yuzen Ferɛun iwakken ad t-id-igan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yekker"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "seg"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Cebɛa"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "d wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov baba-sen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba-sen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "arraw-nsen meẓẓiyen"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "arraw-nsen meẓẓiyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tewtulin-nsen"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "tewtulin-nsen"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "deg treylin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ad t-id-igan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-s",
+      "marks": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:28.137589254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Yusef i d-yewwi ⟨את⟩ Yaεqov baba-s, yessers-t dinna zdat Paroh, Yaεqov inebbih Paroh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaεqov baba-s"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaεqov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "yessers-t dinna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "inebbih"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaεqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-10-02T20:34:08.398758835Z",
+  "model": "glm-5.3"
+}

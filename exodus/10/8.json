@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Parɛo yerr-d ⟨את⟩ Moce akked ⟨את⟩ Aharon ɣer sdat-is, yenna-yasen: Ïnuṭṭef, qeccet ⟨את⟩ Yahwe Elohim-nwen. Anwa, d anwa, wid ara yeddhlen?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "yerr-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer sdat-is"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parɛo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yasen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yasen"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ïnuṭṭef"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qeccet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "d anwa"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "wid ara yeddhlen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:05.921667330Z",
+  "model": "glm-5.3"
+}

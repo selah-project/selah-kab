@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad kecment tibarriyin-is deg yimennen; tibarriyin ad ilint ɣef sin idisan n umizbeaḥ, mi ara ⟨אתו⟩ t-id-wwin.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "ad kecment"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibarriyin-is"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tibarriyin-is"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "deg yimennen"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tibarriyin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "sin"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "idisan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "umizbeaḥ"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "mi ara t-id-wwin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umizbeaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:48.720170569Z",
+  "model": "glm-5.3"
+}

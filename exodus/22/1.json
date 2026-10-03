@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma yuli-d ⟨the⟩agennad deg uxlaḍ, iṭṭef-t yemmut, ulac idammen fell-as.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "deg uxlaḍ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yettwaf"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "agennad"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "iṭṭef-t"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "idammen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:42.328649057Z",
+  "model": "glm-5.3"
+}

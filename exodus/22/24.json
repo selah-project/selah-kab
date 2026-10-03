@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma teselqed ⟨את⟩ idramen i wedɣa-iw, ⟨את⟩ win d uezmaz yid-k, ur ttilid ara d win iqebṭen; ur tessersam ara fella-s ribba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "idramen"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "teselqed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i wedɣa-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "wedɣa-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win d uezmaz"
+    },
+    {
+      "surface": "העני",
+      "gloss": "win d uezmaz"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ttilid"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "d win iqebṭen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "tessersam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fella-s"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribba"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:32.085168978Z",
+  "model": "glm-5.3"
+}

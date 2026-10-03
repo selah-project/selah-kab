@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad nerru s fuska-ik, yerna s yisem n Elohim-nneɣ ad nernu asalu; Yahwe ad yemmed akk isutar-ik.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "ad nerru"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "s fuska-ik"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "ad nernu asalu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ad yemmed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "isutar-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:00.679825016Z",
+  "model": "glm-5.3"
+}

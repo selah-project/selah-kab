@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yekkes seg yegduren-akk n Yehuda ⟨את⟩ yibamut d ⟨את⟩ yḥamman; tagelda teṭṭef talwit deg udem-is.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg yegduren-akk n"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "yegduren"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yibamut"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "yibamut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yḥamman"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "yḥamman"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "teṭṭef talwit"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "tagelda"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "deg udem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:48.070522206Z",
+  "model": "glm-5.3"
+}

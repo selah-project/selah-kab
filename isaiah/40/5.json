@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad d-iban tejmilt n Yahwe, akk akessuman ad tt-walin issetmaḍen, axaṭer ⟨imi⟩ n Yahwe i d-yenna.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ad d-iban"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tejmillt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ad tt-walin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "akessuman"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "issetmaḍen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:21.583563294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad t-terreḍ ⟨את⟩ s usfel n tekla, yerna ad yili ɣef taceppact; ar sdat n wudem n taceppact ad yili.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ad t-terreḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tiliẓrit n yireḥma"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "usfel"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "n tekla"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yerna ad yili"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "taceppact"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sdat n"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudem"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "n taceppact"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:57.260329173Z",
+  "model": "glm-5.3"
+}

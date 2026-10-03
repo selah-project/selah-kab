@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Tlefcem tanaffaɣt, tlafem ijer; ruaḥ-nwen — tames, ad k-teeṭcem.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "tlefcem"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "tanaffaɣt"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "tlafem"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ijer"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ruaḥ-nwen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tames"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ad k-teeṭcem"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:53.626486978Z",
+  "model": "glm-5.3"
+}

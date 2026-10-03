@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Axaṭer ⟨את⟩ akk ixeddimen n Elohim ad yewi-tent deg ucceɣ, ɣef akk wayen yettwaffren, ma yella d lxir neɣ ma yella d lexṣar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ixeddimen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ixeddimen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ad yewi-tent"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "deg ucceɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "wayen yettwaffren"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d lxir"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "neɣ ma yella"
+    },
+    {
+      "surface": "רע",
+      "gloss": "d lexṣar"
+    }
+  ],
+  "timestamp": "2026-10-03T02:59:34.669688383Z",
+  "model": "glm-5.3"
+}

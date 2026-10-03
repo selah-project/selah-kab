@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ur ittezgi ara, ur issali ara taɣect-is, ur issefran ara taɣect-is deg uɣir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ittezgi ara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "issali ara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "issefran ara"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "deg uɣir"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "taɣect-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:45.759664854Z",
+  "model": "glm-5.3"
+}

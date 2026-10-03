@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Wid n tɣeḍlaṛt ḥedden ⟨את⟩ Pesaḥ, deg wicebɛa d mraw deg wagur amezwaru.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ḥedden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "tɣeḍlaṛt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "deg wicebɛa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "deg wagur"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "amezwaru"
+    }
+  ],
+  "timestamp": "2026-10-03T04:42:30.196832549Z",
+  "model": "glm-5.3"
+}

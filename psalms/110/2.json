@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "translation": "Asellal n tezmert-ik ad d-iazel Yahwe seg Siyyun: sneɣled deg ul n yiḍewliyen-ik.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "asellal"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "n tezmert-ik"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ad d-iazel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "seg Siyyun"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "sneɣled"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg ul"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "n yiḍewliyen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:34.602577576Z",
+  "model": "glm-5.3"
+}

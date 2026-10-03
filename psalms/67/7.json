@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 67,
+  "translation": "Tamurt tefka inra-is; ad yelḥet fell-aɣ Elohim, Elohim-nneɣ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tamurt"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "tefka"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "inra-is"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ad yelḥet fell-aɣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:31.763073825Z",
+  "model": "glm-5.3"
+}

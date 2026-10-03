@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad yazdiɣ tamedyant deg Yehuda, ad t-teṭṭ meskuget n Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ad yazdiɣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tamedyant"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yehuda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ad t-teṭṭ"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "meskuget"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:31:14.077837563Z",
+  "model": "glm-5.3"
+}

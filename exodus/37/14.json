@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Fer zdat n wasti, llan ⟨את⟩ iwerzan, d imukan i yilin iɣsan n tawla, iwakken ad tettwaḥemmel ⟨את⟩ tawla.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "fer zdat"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "wasti"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "iwerzan"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "imukan"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "iɣsan"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "iwakken ad tettwaḥemmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawla"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tawla"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:26.651016091Z",
+  "model": "glm-5.3"
+}

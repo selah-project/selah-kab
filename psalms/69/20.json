@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Kečč, teẓriḍ tacitt-iw d lexṣaya-iw d tuneẓkit-iw; ṭṭaf daγen wid-i iḍeggren fell-i ṭṭaf qbel-ik.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "teẓriḍ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "tacitt-iw"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "d lexṣaya-iw"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "d tuneẓkit-iw"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "qbel-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ṭṭaf"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "wid-i iḍeggren fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:38.868532405Z",
+  "model": "glm-5.3"
+}

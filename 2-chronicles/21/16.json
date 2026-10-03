@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yahwe yesseddyas ɣer Yehoram ⟨את⟩ ruaḥ n yifelestiyen d yicurbiyen i yellan ɣer tama n yikučiyen.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "yesseddyas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ n yifelestiyen d yicurbiyen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "n yifelestiyen"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "d yicurbiyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer tama"
+    },
+    {
+      "surface": "יד",
+      "gloss": "n"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "yikučiyen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:49:35.785429166Z",
+  "model": "glm-5.3"
+}

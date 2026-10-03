@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Yahwe ad k-iḥerren seg yir lxir—ḥettemet: seg akk tiddin; ad yeḥrez ⟨את⟩ lenfs-ik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ad k-iḥerren"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg akk"
+    },
+    {
+      "surface": "רע",
+      "gloss": "tiddin"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ad yeḥrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lenfs-ik"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lenfs-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:43.713444263Z",
+  "model": "glm-5.3"
+}

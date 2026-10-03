@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Sḍis n wussan ad txedmeḍ, ad txedmeḍ akk lxedma-ik.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sḍis n"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "lxedma-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:44.069333978Z",
+  "model": "glm-5.3"
+}

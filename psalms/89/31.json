@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ma ǧǧan arraw-is Tora-iw, deg ccreɛ-iw ur ţţafun ara.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ma ǧǧan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "arraw-is"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-iw"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "deg ccreɛ-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ţţafun ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:39.152357429Z",
+  "model": "glm-5.3"
+}

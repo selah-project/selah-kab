@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mi David yella ⟨את⟩ ɣer Edom, Yuab, asellid n iṣerdasen, mi yuli ad yekfen ⟨את⟩ immuten, yewwet akk irgazen deg Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "mi yella"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ɣer",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "mi yuli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yuab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "asellid"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "n iṣerdasen"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ad yekfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "immuten"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "immuten"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yewwet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "deg Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:19.242156369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "D aṣedeq Yahwe deg yiberdan-is meṛṛa, d aḥnan deg lɣerṣa-is meṛṛa.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "d aṣedeq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg meṛṛa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yiberdan-is"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "d aḥnan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg meṛṛa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "lɣerṣa-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.806445605Z",
+  "model": "glm-5.3"
+}

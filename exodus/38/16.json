@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ikelɣumen akk n ugadir, deg ccanf, llan s teɣbalut n ufexar imzeɣlen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ikelɣumen"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n ugadir"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "deg ccanf"
+    },
+    {
+      "surface": "שש",
+      "gloss": "teɣbalut"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "n ufexar imzeɣlen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:15.545011286Z",
+  "model": "glm-5.3"
+}

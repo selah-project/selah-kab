@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ur ttḥemmleḍ ara tağği-is deg wul-ik, ur k-teṭṭef ara s teccar-is.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ur ttḥemmleḍ"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "tağği-is"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "deg wul-ik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "k-teṭṭef"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "s teccar-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:18:49.999292883Z",
+  "model": "glm-5.3"
+}

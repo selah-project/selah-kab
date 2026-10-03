@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yerna Yosef yenna-yasen ass wis-kraḍ: eg-et ayagi, ad ddren; nekki, i ⟨את⟩ Elohim ggwadeɣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yerna yenna-yasen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yasen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis-kraḍ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "eg-et"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ad ddren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ggwadeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:35.100523229Z",
+  "model": "glm-5.3"
+}

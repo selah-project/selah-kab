@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yerna Ɛazarya yexleq ⟨את⟩ Seraya, yerna Seraya yexleq ⟨את⟩ Yehoṣadaq.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "yerna Ɛazarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "yerna Seraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoṣadaq"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehoṣadaq"
+    }
+  ],
+  "timestamp": "2026-10-03T03:25:58.981007420Z",
+  "model": "glm-5.3"
+}

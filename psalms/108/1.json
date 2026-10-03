@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Taɣect n uẓeṭṭaṭ, d zacal n David.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zacal n uẓeṭṭaṭ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:48.718143814Z",
+  "model": "glm-5.3"
+}

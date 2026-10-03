@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Win yesfukkun tameddurt-ik seg teqdiḍt, Win k-ileḥḥun s ḥesed d tmucḥa.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Win yesfukkun"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "seg teqdiḍt"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "tameddurt-ik"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "Win k-ileḥḥun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "s ḥesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "d tmucḥa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:04.573747724Z",
+  "model": "glm-5.3"
+}

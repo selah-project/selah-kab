@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ma yella yiwen seg-sen yedda ɣer wesawen n yal aqejmur n teẓṣit, akk ayen yellan deg-s ad yili d arussed, kunwi ⟨את⟩ ad t-ṭṭefrem.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "aqejmur"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "n teẓṣit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "wesawen n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "yellan deg-s"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ad yili d arussed"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (aqejmur-agi)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ad t-ṭṭefrem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:39.425121920Z",
+  "model": "glm-5.3"
+}

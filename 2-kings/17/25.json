@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Di tazwaru n tzeddikit-nsen din, ur kuzzben ara ⟨את⟩ Yahwe, ihi Yahwe yuzen-ed deg-sen ⟨את⟩ izelmaden, u ṛṛan yenɣen deg-sen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "di tazwaru n"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "tzeddikit-nsen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kuzzben ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen-ed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izelmaden"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "izelmaden"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u ṛṛan"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "yenɣen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:59.161765142Z",
+  "model": "glm-5.3"
+}

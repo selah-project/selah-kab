@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Axatreṭ win inazzin d taɣma i Yahwe, ma d ⟨את⟩ wid imerriren asṛum-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axatreṭ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "taɣma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "win inazzin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ma d ⟨את⟩",
+      "marks": "wid imerriren"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wid imerriren"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "asṛum-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:33.518761219Z",
+  "model": "glm-5.3"
+}

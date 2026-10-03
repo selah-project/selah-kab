@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Tezmert n yigma-S i d-ibeggen i wegduy-Is, iwakken ad yefk-asen lerbeḥt n leǧnas.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "n yigma-S"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "i d-ibeggen"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "i wegduy-Is"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iwakken ad yefk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-asen"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lerbeḥt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "n leǧnas"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:07.356992163Z",
+  "model": "glm-5.3"
+}

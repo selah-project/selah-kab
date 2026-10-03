@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "ad yini baba-s n yelli-s iǧehhiyen i yimeqranen: ⟨את⟩ yelli-w i unefk i wemdan-agi d tameṭṭut, yerna t-ikerḥen,",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "n yelli-s iǧehhiyen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "yimeqranen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelli-w"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "yelli-w"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "i unefk"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d tameṭṭut"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "yerna t-ikerḥen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:03.700301336Z",
+  "model": "glm-5.3"
+}

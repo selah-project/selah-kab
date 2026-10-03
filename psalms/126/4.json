@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 126,
+  "translation": "Uɣal-d, a Yahwe, ⟨את⟩ tuɣalin-nneɣ, am isaffagen deg unẓul.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Uɣal-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuɣalin-nneɣ"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "tuɣalin-nneɣ"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "am isaffagen"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "deg unẓul"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:18.715511226Z",
+  "model": "glm-5.3"
+}

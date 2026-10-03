@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ad uεundan warraw-is d igujilen, ma d tameṭṭut-is ad tuγal d tadewt.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ad uεundan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "d igujilen"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ma d tameṭṭut-is"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "tadewt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:46.335821226Z",
+  "model": "glm-5.3"
+}

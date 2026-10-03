@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Tura ad nekkreɣ, i d-yenna Yahwe; tura ad saɛrḍeɣ iman-iw; tura ad jjieɣ.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ad nekkreɣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ad saɛrḍeɣ iman-iw"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ad jjieɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:53.626310335Z",
+  "model": "glm-5.3"
+}

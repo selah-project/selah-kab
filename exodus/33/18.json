@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yenna: Mel-iyi, s tezmert-ik, ⟨את⟩ tazmert-ik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mel-iyi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "s tezmert-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazmert-ik"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "tazmert-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:09.754283707Z",
+  "model": "glm-5.3"
+}

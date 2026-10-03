@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yal awesḥ deg yikohanim ad yettwi ⟨את⟩-i; d iqedcen n iqedcen nit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "awesḥ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "deg yikohanim"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad yettwi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "itt (asfel)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nit"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:52.392997819Z",
+  "model": "glm-5.3"
+}

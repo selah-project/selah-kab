@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "U mlilen-d akk igelliden-agi, kkeren-d u zeṛben-d yiddeent ɣer yisafen n Merom, iwakken ad nnuɣen mgal Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "mlilen-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kkeren-d"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "zeṛben-d"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yiddeent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yisafen n"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Merom"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ad nnuɣen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:17:24.404502267Z",
+  "model": "glm-5.3"
+}

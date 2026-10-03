@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yerna nek, rriɣ ⟨את⟩-kwen d wid yettwabzen d iḥerjen i wegḍud akk, akken ma ur tḥerram ara ⟨את⟩ iberdan-iw, uggired udmawen deg Tora.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nek"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "rriɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kwen",
+      "marks": "d wid yettwabzen d iḥerjen"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "d wid yettwabzen"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "d iḥerjen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegḍud akk"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "akken ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "tḥerram ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iberdan-iw"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iberdan-iw"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "uggired"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "deg Tora"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:46.006981501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ṣedeq-ik am ijudan n El, ccreɛ-ik ⟨d⟩ lɛuma tameqqrant; amdan d lmal tessellek, a Yahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Ṣedeq-ik"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "am ijudan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ccreɛ-ik"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "lɛuma"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "d lmal"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "tessellek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:48.160576051Z",
+  "model": "glm-5.3"
+}

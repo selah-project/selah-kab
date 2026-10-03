@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Egg ⟨את⟩ ilewiyen seg tggezt n yiqerraḍen n Yisrael, ṣeffeḍ-itent ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Egg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilewiyen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilewiyen"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg tggezt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iqerraḍen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ṣeffeḍ-itent"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ilewiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:28:30.082998399Z",
+  "model": "glm-5.3"
+}

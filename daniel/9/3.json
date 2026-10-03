@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Rriɣ ⟨את⟩ udmu-inu ɣer Adonai, ⟨i⟩ Elohim, iwakken ad ssutreɣ s tẓallit d ukkas, s weẓẓum, d lebsa n tsekkurt, d lɣella.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "rriɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmu-inu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmu-inu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ad ssutreɣ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "tẓallit"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "d ukkas"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "s weẓẓum"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "d lebsa n tsekkurt"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "d lɣella"
+    }
+  ],
+  "timestamp": "2026-10-03T04:42:51.962412245Z",
+  "model": "glm-5.3"
+}

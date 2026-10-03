@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Axater ad tiliḍ am teɣsert i yewweḍ ucṛah-is, am lbustin i ur nesɣi aman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axater"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "am teɣsert"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "i yewweḍ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ucṛah-is"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "am lbustin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur nesɣi"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:39.671517535Z",
+  "model": "glm-5.3"
+}

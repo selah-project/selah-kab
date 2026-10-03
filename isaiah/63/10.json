@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Maca llan ldin deg umennuɣ, u ṭṭfen-t i ⟨את⟩ ruaḥ iqedcen-is; yuɣal d aɛdaw-nsen, d netta yennuɣ yid-sen.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Maca llan"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ldin deg umennuɣ"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "ṭṭfen-t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ iqedcen-is"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "d"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "aɛdaw-nsen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yennuɣ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yid-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:07:14.882058726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Erriḍ-d iberdan-ik ɣer texsyin timezgiyin, ɣer akk ayen i xseṛ ivehhi deg umkan iqedsen.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Erriḍ-d"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "iberdan-ik"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ɣer texsyin"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "timezgiyin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ayen i xseṛ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ivehhi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg umkan iqedsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:23.988947391Z",
+  "model": "glm-5.3"
+}

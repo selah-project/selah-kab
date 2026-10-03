@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad mɣarent leḥzen-nsen; deg wayeṛ-nniḍen i zuggen, ur suffuɣ ara inesfen-nsen n idammen, ur d-suffeɣ ara ⟨את⟩ isem-nsen ɣef yimer-iw.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "ad mɣarent"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "leḥzen-nsen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deg wayeṛ-nniḍen"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "i zuggen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "suffuɣ ara"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "inesfen-nsen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "n idammen"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ad d-suffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-nsen"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "isem-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "yimer-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:55.683040951Z",
+  "model": "glm-5.3"
+}

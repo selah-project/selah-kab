@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad teqqeleḍ ⟨את⟩ semmus n teɣyarin weḥdent, yerna ⟨את⟩ seddis n teɣyarin weḥdent; ad tetekpileḍ ⟨את⟩ taɣyart tisdisit ar sdat n uxxam.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "ad teqqeleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semmus n teɣyarin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "n teɣyarin"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "weḥdent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seddis n teɣyarin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "seddis"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "n teɣyarin"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "weḥdent"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ad tetekpileḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣyart"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "taɣyart"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "tisdisit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sdat n"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "uxxam"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:30.726897014Z",
+  "model": "glm-5.3"
+}

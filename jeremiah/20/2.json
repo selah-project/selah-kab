@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 20:2",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yerna yeḍreb Pacḥur ⟨את⟩ Yirmeya, anavi, yerna t-id-yefk ɣef ⟨את⟩ tiqcidin i yellan deg ugelum n Binyamin, afellay, i yellan deg uxxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "yeḍreb"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pacḥur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeya"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "anavi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yerna t-id-yefk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t-id (Yirmeya)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "tiqcidin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "deg ugelum"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "afellay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:23:59.603593139Z",
+  "model": "glm-5.3"
+}

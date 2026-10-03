@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Yahwe yebɣi ad yedḥer-t, iḥeṭṭef-it; ma yerra nefs-is d taxṣart, ad iwala tasemɣurt-is, ad isɣumu ussan-is, d lebɣi n Yahwe deg ufus-is ad yeddu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yebɣi"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "ad yedḥer-t"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "iḥeṭṭef-it"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "taxṣart"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefs-is"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ad iwala"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tasemɣurt"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ad isɣumu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ussan"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "lebɣi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ad yeddu"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:46.241095512Z",
+  "model": "glm-5.3"
+}

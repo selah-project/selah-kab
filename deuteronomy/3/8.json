@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Deg wakud-inni nuwi ⟨את⟩ tamurt seg ufus n sin n yigeldan n HaEmori, i yellan sedd ur n Urdun, seg wasif Arnon arma d adrar n Ḥermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "nuwi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "inni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "n yigeldan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "n HaEmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sedd ur"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "seg wasif"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Ḥermon"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:32.264950072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Kan ɣef Elohim, a nnfe-s-iw, ḥbes taṛmit; acku seg-s i d-illa rreja-iw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ɣef Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ḥbes taṛmit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a nnfe-s-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "rreja-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:45.270258860Z",
+  "model": "glm-5.3"
+}

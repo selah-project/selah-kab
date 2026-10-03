@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ma d ⟨את⟩ wawlan-nsen i d-ylehmen deg umkan-nsen, ⟨את⟩ wigi yeɣyen Yehochua, axir llan war taɣdit, axir ur ⟨את⟩ ten-neɣyi ara ɣef ubrid.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wawlan-nsen"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wawlan-nsen"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "i d-ylehmen"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "deg umkan-nsen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wigi",
+      "marks": "wigi"
+    },
+    {
+      "surface": "מל",
+      "gloss": "yeɣyen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "war taɣdit"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "neɣyi ara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "iten"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ɣef ubrid"
+    }
+  ],
+  "timestamp": "2026-10-02T22:12:09.657174277Z",
+  "model": "glm-5.3"
+}

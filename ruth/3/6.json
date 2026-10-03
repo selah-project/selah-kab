@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tudd ɣer lɣerni, teqdec akken akk ayen i tenna yis yemma n urgaz.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Tudd"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "lɣerni"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "teqdec"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "tenna yis"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "yemma n urgaz"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:21.973373607Z",
+  "model": "glm-5.3"
+}

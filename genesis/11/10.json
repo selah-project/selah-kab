@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Tigi d talsiwin n Cem: Cem, mi yella d mmi-s n 100 n yiseggasen, iwlad ⟨את⟩ Arpaḵcad, sin n yiseggasen deffir lMabbul.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "talsiwin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "100"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaḵcad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaḵcad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "sin n yiseggasen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "lMabbul"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:32.447334648Z",
+  "model": "glm-5.3"
+}

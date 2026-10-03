@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "I ugdud-agi ad tinid: Akka i d-yenna Yahwe: Wali, qqimeɣ-d deg uḥric-iw ⟨את⟩ abrid n tmeddurt, d ⟨את⟩ abrid n tmettant.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ad tinid"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "wali, qqimeɣ-d"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rniɣ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "deg uḥric-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abrid n tmeddurt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "n tmeddurt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abrid n tmettant"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "המות",
+      "gloss": "n tmettant"
+    }
+  ],
+  "timestamp": "2026-10-03T00:22:22.874981425Z",
+  "model": "glm-5.3"
+}

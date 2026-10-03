@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Akken illa Yahwe akked bab-iw ugellid, akka ad yili akked Celomoh, ad issegher ⟨את⟩ tagaddest-is seg tagaddest n bab-iw ugellid David.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "היה",
+      "gloss": "illa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomoh"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ad issegher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagaddest-is"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tagaddest-is"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "seg tagaddest"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:46.984391302Z",
+  "model": "glm-5.3"
+}

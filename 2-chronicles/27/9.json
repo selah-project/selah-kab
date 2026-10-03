@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Yutan yeṛǧa ɣer babaten-is, ṭṭfen-t deg temdint n David, ula d Aḥaz mmi-s iḥekmem deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yeṛǧa ɣer"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yutan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "babaten-is"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ṭṭfen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (Yutan)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "iḥekmem"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:51:04.775004956Z",
+  "model": "glm-5.3"
+}

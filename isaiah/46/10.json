@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Ad d-ibeggen tagara seg tazwara, seg zik ayen ur yettwaxleq ara; i d-yenna: leɛqel-iw ad yeqqim, akk ayen bɣiɣ ad s-xedmeɣ.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "ad d-ibeggen"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "seg tazwara"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "tagara"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "seg zik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "yettwaxleq ara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "leɛqel-iw"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ayen bɣiɣ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad s-xedmeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:13.454703792Z",
+  "model": "glm-5.3"
+}

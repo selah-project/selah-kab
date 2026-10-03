@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yenna ugellid n Yisrael i Elisa, mi ten-yerra i ẓer: a baba, ad ten-ṭebbeɣ, ad ten-ṭebbeɣ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "mi ten-yerra i ẓer"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ad ten-ṭebbeɣ"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ad ten-ṭebbeɣ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "a baba"
+    }
+  ],
+  "timestamp": "2026-10-02T23:28:29.739252538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad xedmeɣ deg-k ⟨את⟩ wayen ur txedmeɣ ara, d ⟨את⟩ wayen ur t-id-xedmeɣ ara tiktit-nniḍen tinni, ɣef akk tuccḍin-ik.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ad xedmeɣ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "txedmeɣ ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad t-xedmeɣ ara"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "tinni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tiktit-nniḍen"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "tuccḍin-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:44:21.633586107Z",
+  "model": "glm-5.3"
+}

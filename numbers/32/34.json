@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Warraw n Gad bennun ⟨את⟩ Dibon, ⟨את⟩ ɛAṭarot d ⟨את⟩ ɛAroɛer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "bennun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw n"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ɛAṭarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ɛAṭarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ɛAroɛer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ɛAroɛer"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:32.547684820Z",
+  "model": "glm-5.3"
+}

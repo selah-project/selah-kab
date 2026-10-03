@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ma ḥemlen idigna, ad ṣubbun ageffur ɣef tmurt; ma yeqli wesek ɣer unzul neɣ ɣer ugafa, anida yeqli wesek, dinna ad yili.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ḥemlen"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "idigna"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ageffur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ad ṣubbun"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yeqli"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wesek"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "ɣer unzul"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "neɣ ma"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "ɣer ugafa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "anida"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "yekkat"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "wesek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ad yili"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:33.810534456Z",
+  "model": "glm-5.3"
+}

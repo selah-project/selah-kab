@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Maca din, afus-ink ad iyi-iheddu, yefus-ink ad iyi-iḥkem.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "maca"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ink"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ad iyi-iheddu"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ad iyi-iḥkem"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "yefus-ink"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:19.176295552Z",
+  "model": "glm-5.3"
+}

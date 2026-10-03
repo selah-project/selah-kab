@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ṛekkem ɣef yiman-ik, ad ur tettuḍ ⟨את⟩ Yahwe Elohim inek, ad ur tḥerzeḍ ara leɛwamir-is, ccreɛ-is d leḥkam-is, i k-iḥekmen wass-a.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ṛekkem ɣef yiman-ik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tettuḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim inek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim inek"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ad ur … ara"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tḥerzeḍ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "leɛwamir-is"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ccreɛ-is"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "leḥkam-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "i k-iḥekmen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wass-a"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:09.531505807Z",
+  "model": "glm-5.3"
+}

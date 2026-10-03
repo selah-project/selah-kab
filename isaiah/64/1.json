@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Akken tessewḥu tmes lhceṛ iqerṛen, tmes tessuɣ taman, iwakken ad issin ileɛdwan-ik Yisem-ik; si ẓdat-ik, ad reẓẓen iɣlan.",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "akken tessewḥu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "lhceṛ iqerṛen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "taman"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "tessuɣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "iwakken ad issin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Yisem-ik"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "ileɛdwan-ik"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "si ẓdat-ik"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iɣlan"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ad reẓẓen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:23:39.383923073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yerna tagrawla tella gar Asa d Baecca, agellid n Yisrael, akk wussan-nnsen.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "tagrawla"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baecca"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "wussan-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:21:06.652163944Z",
+  "model": "glm-5.3"
+}

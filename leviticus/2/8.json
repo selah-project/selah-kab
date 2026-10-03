@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad d-tawḍeḍ ⟨את⟩ minḥa ara yettwaxleḍen seg waya i Yahwe; ad tt-yerr ⟨i⟩ ɣer ukohen, ad tt-yerr ɣer umizbeaḥ.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ad d-tawḍeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minḥa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yettwaxleḍen"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "seg waya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ad tt-yerr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ad tt-yerr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "umizbeaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:40.630341820Z",
+  "model": "glm-5.3"
+}

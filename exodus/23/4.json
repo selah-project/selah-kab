@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ma temmugreḍ ⟨את⟩ azger n ucengu-ik neɣ ⟨את⟩ aserdun-is yettẓayen, ad t-terreḍ s tidet, ad t-terreḍ i yiman-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "temmugreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azger"
+    },
+    {
+      "surface": "שור",
+      "gloss": "azger"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "n ucengu-ik"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "aserdun-is"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "yettẓayen"
+    },
+    {
+      "surface": "השב",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ad t-terreḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:06.362652767Z",
+  "model": "glm-5.3"
+}

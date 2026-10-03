@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Nɣen din ⟨את⟩ iṛebbiten-nsen, David yenna-d, ɣan-ten deg tmes.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "nɣen din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ɣan-ten"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    }
+  ],
+  "timestamp": "2026-10-03T04:47:18.773628333Z",
+  "model": "glm-5.3"
+}

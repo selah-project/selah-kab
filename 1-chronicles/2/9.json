@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Llawen n Ḥeṣron i ilulen iḍelli: ⟨את⟩ Yeraḥmeɛel, ⟨את⟩ Ram d ⟨את⟩ Kelubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "llawen"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Ḥeṣron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ilulen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iḍelli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeraḥmeɛel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yeraḥmeɛel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Kelubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubay"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:23.396889577Z",
+  "model": "glm-5.3"
+}

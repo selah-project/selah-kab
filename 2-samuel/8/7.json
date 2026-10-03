@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "David yewwi ⟨את⟩ tiɣemsiwin n ureɣ i llant ɣer yiqadcen n Hadadɛezer, i ten-yewwin ɣer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣemsiwin n ureɣ"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "tiɣemsiwin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n ureɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yiqadcen"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "n Hadadɛezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "i ten-yewwin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ɣer Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:07.752867913Z",
+  "model": "glm-5.3"
+}

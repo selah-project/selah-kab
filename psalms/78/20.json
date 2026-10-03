@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Walan, yeḍna taṣrit, waman ḍfent-d, iɣebbaren jellunt; ma yezmer daɣ ad yefk aɣrum, neɣ ad iheggi lḥem i ugdud-is?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "walan"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yeḍna"
+    },
+    {
+      "surface": "צור",
+      "gloss": "taṣrit"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ḍfent-d"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "iɣebbaren"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "jellunt"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ma daɣ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yezmer"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ad iheggi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "lḥem"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "i ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:51.556752234Z",
+  "model": "glm-5.3"
+}

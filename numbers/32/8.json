@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Akka i xedmen ibabat-nwen, mi ten-id-uzneɣ seg Qadecc-Barnɛa, iwakken ad walin ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ibabat-nwen"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "mi ten-id-uzneɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Qadecc-Barnɛa"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Qadecc"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnɛa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:58.882071122Z",
+  "model": "glm-5.3"
+}

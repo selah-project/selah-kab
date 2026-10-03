@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ticki deg waweslit, deg uglim-is, yella ciḥen, yerna yeḥla.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "deg waweslit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ticki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "deg uglim-is"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ciḥen"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "yerna yeḥla"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:47.290768394Z",
+  "model": "glm-5.3"
+}

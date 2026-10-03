@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Timurt-is teččur d lleẓabed d wureɣ, ulac taggara i lexṣus-is; timurt-is teččur d yiswan, ulac taggara i tcariyyin-is.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "timurt-is"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lleẓabed"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "wureɣ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "i lexṣus-is"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "timurt-is"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "yiswan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "i tcariyyin-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:29.858300266Z",
+  "model": "glm-5.3"
+}

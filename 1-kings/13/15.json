@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yenna-yas: Ḍfer-iyi ⟨את⟩ ɣer wexxam, at teččeḍ aɣrum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ḍfer-iyi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ɣer wexxam"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "at teččeḍ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:37.954119548Z",
+  "model": "glm-5.3"
+}

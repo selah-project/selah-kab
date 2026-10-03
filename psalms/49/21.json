@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Amadan deg lɛezz, ma yella ur yefhim ara, yettumeṣel ⟨d⟩ yiɣersiwen — ṭṭfen d lmut.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Amadan"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "deg lɛezz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "yefhim"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "yettumeṣel"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "am yiɣersiwen"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ṭṭfen d lmut"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:36.157562123Z",
+  "model": "glm-5.3"
+}

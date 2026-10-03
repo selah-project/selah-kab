@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Deg wass-nni ad yili wabbir seg Miṣrayim ɣer Acur; Acur ad d-yal ɣer Miṣrayim, u Miṣrayim ɣer Acur, Miṣrayim ad iqeccḍen ⟨את⟩ Acur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "wabbir"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ɣer Acur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ad d-yal"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ɣer Miṣrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "u Miṣrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "ɣer Acur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ad iqeccḍen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Acur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:06.000607258Z",
+  "model": "glm-5.3"
+}

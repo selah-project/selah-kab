@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ulac agellid yettwelleḥḥa s waṭas n lɛesker; amjuh ur yettwattas ara s waṭas n tzmert.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ulac"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "yettwelleḥḥa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "n lɛesker"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "amjuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "yettwattas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "כח",
+      "gloss": "n tzmert"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:02.006027818Z",
+  "model": "glm-5.3"
+}

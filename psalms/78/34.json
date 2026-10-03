@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Mi yennɣa-ten, ssuqlen fell-as; rren-d, ceċɛen-t ɣer El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "yennɣa-ten"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ssuqlen fell-as"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "rren-d"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ceċɛen-t"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:19.176095441Z",
+  "model": "glm-5.3"
+}

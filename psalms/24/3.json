@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Anwa ad yalin ɣer wedrar n Yahwe? Anwa ad yeqqim deg umkan iqeqcen-is?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ad yalin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ɣer wedrar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqeqcen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:23.754941200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Teddueɣ am tili mi ara d-teɣli, ttwaḥetmeɣ am teɣerdant.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "am tili"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "mi ara d-teɣli"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "Teddueɣ"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ttwaḥetmeɣ"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "am teɣerdant"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:54.778652807Z",
+  "model": "glm-5.3"
+}

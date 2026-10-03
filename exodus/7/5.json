@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Miṣrayim ad yissin belli nek d Yahwe, mi ad d-rnuɣ afus-iw ⟨את⟩ ɣef Miṣrayim, ad d-suffɣeɣ ⟨את⟩ tarwa n Yisrael seg tcult-nsen.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ad yissin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "mi ad d-rnuɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-iw"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ad d-suffɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarwa n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "seg tcult-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:19.707173661Z",
+  "model": "glm-5.3"
+}

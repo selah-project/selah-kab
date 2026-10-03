@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ur txedmem ara ⟨את⟩ yid-i iṛebbiten n lfḍḍa d iṛebbiten n ureɣ, ur txedmem ara i yiman-nwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "txedmem ara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yid-i"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iṛebbiten n"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfḍḍa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "d iṛebbiten n"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ureɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "txedmem ara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i yiman-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:55.391136105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Tura, gguleḍ iyi s Yahwe: ma ur tettqatteɛ ara ⟨את⟩ zerɛ-iw deffir-iw, u ma ur tettkettar ara ⟨את⟩ isem-iw seg wexxam n baba.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "gguleḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "s Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma ur… ara"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "tettqatteɛ ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zerɛ-iw"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "zerɛ-iw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir-iw"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "u ma"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "tettkettar ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-iw"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "isem-iw"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "n baba"
+    }
+  ],
+  "timestamp": "2026-10-02T22:47:27.783413848Z",
+  "model": "glm-5.3"
+}

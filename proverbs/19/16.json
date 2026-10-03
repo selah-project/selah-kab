@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Win yeḥerzen alud, yeḥerzen nefs-is; win iwexxren iberdan-is, ad yemmet.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "win yeḥerzen"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "alud"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yeḥerzen"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefs-is"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "win iwexxren"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iberdan-is"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-03T02:24:39.999273108Z",
+  "model": "glm-5.3"
+}

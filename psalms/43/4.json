@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ad kecmeɣ ɣer lmeẓna n Elohim, ɣer El, tidett-iw d lḥifaf-iw; ad ak-ccneɣ s lyuza, a Elohim, Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Ad kecmeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lmeẓna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "tidett-iw"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "d lḥifaf-iw"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ad ak-ccneɣ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "s lyuza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:01.082434220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Moce yewwi-d ⟨את⟩ tmeṭṭut-is akked ⟨את⟩ warraw-is, yessi-d ibewwaṛen ɣef yizeg, yuɣal ar tmurt n Miṣrayim. Moce yewwi-d ⟨את⟩ taɛccart n Elohim deg ufus-is.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmeṭṭut-is"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tmeṭṭut-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "yessi-d ibewwaṛen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "yizeg"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ar tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɛccart"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "taɛccart"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:01.734029085Z",
+  "model": "glm-5.3"
+}

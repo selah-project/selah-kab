@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mi ara tent-ṭṭfen deg-sent, ad d-kkelen ɣur-ak ⟨את⟩ temmekt akk, ɣer tgara n uxxam n umlil.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "Mi ara ṭṭfen"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "deg-sent"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "ad d-kkelen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-ak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨את⟩ temmekt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tgara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlil"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:13.279955295Z",
+  "model": "glm-5.3"
+}

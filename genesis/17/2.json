@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ad rneɣ lɛahd-iw gar-iw d kečč, ad ssiweɣ ⟨את⟩ lekter-ik s waṭas.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ad rneɣ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gar-iw"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "d kečč"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ad ssiweɣ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ lekter-ik",
+      "marks": "lekter-ik"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "waṭas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:16:13.586781287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ma tzenzim talɣa i wayla-k, neɣ tzeddiḍ-d seg ufus n wayla-k, ur tettwetlem ara yiwen ⟨את⟩ wayeḍ, gma-s.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "tzenzim"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "talɣa"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "i wayla-k"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tzeddiḍ-d"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "n wayla-k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "tettwetlem ara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayeḍ, gma-s"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:58.855805822Z",
+  "model": "glm-5.3"
+}

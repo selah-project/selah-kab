@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad yewweḍ uḥerri-kwen armi d ⟨את⟩ teẓra n win, teẓra ad tewweḍ armi d ⟨את⟩ teɛorḍa; ad teccem aɣrum-kwen ⟨ar⟩ teṣbeɛ, ad tzeggem s talwit deg tmurt-kwen.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ad yewweḍ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "uḥerri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teẓra n win"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "teẓra n win"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "teẓra"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "ad tewweḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teɛorḍa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "teɛorḍa"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ad teccem"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "aɣrum-kwen"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ar teṣbeɛ"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ad tzeggem"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "s talwit"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "deg tmurt-kwen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:36.379252077Z",
+  "model": "glm-5.3"
+}

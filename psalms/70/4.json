@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 70,
+  "translation": "Ad uγlen ɣef lɛib-nsen, wid yeqqaren: Heaḥ, Heaḥ!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ad uγlen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "s lebɣi n \/ ɣef ljaxb-iḍefan"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "lɛib-nsen"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wid yeqqaren"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heaḥ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:29.616742376Z",
+  "model": "glm-5.3"
+}

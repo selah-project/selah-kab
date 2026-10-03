@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Iwakken ad issen deg Ṣion isem n Yahwe, d teḥmilt-is deg Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "iwakken ad issen"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "deg Ṣion"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "d teḥmilt-is"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:02.401642186Z",
+  "model": "glm-5.3"
+}

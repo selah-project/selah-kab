@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ecṭun yewlad ⟨את⟩ Bet-Rafa, ⟨את⟩ Paṣeaḥ d ⟨את⟩ Teḥinna, baba n Ggar-Naḥac. Wid-agi d yirgazen n Rexa.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Ecṭun"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yewlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paṣeaḥ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paṣeaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Teḥinna"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Teḥinna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ggar"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naḥac"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "d yirgazen"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "n Rexa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:05.611960641Z",
+  "model": "glm-5.3"
+}

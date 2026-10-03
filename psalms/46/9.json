@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Ddut, wali-d tiqbiḍin n Yahwe, wid i d-yessulin telḥi deg ⟨the⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ddut"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "wali-d"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "tiqbiḍin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i d-yessulin"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "telḥi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:40.601348223Z",
+  "model": "glm-5.3"
+}

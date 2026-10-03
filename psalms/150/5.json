@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 150,
+  "translation": "Cennet-as i Yahwe s yiɣan id iweḥlen: cennet-as i Yahwe s yiɣan n tɣuri n lɛid d uzuzer.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "cennet-as"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "s yiɣan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "id iweḥlen"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "cennet-as"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "s yiɣan"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "n tɣuri n lɛid d uzuzer"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:46.975894224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "S ɣur-k, a Yahwe, nefes-iw ad suliɣ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes-iw"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ad suliɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:43.778078384Z",
+  "model": "glm-5.3"
+}

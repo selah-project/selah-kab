@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Meqqer yezga azal n lfidya n nefsen, taggara-s tekfa i lebda.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "meqqer yezga"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "azal n lfidya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "n nefsen"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "taggara-s tekfa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:22.216195392Z",
+  "model": "glm-5.3"
+}

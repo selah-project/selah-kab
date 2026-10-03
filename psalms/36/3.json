@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Akken i as-yessfel deg wallen-is, iwakken ad taf tuccḍa-s ad tettwakreh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akken"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "i as-yessfel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "deg wallen-is"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ad taf"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "tuccḍa-s"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ad tettwakreh"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:42.575548121Z",
+  "model": "glm-5.3"
+}

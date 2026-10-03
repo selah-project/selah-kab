@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "S deffir n waya, Iyub yeldi ⟨את⟩ imi-s, yekreh ⟨את⟩ ass-nni.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "s deffir n"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imi-s"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "imi-s"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "yekreh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ass-nni"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ass-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T02:30:57.223408052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Win n dir, s tɛlayt n wajh-is, ur yessidir ara ⟨yeẓra⟩; deg yal leḥyel-is: ur illi ara Elohim.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "win n dir"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "s tɛlayt"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "n wajh-is"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "yessidir"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur illi ara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "leḥyel-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:32.564483349Z",
+  "model": "glm-5.3"
+}

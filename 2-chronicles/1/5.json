@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 1:5",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Maḍaḥt n yinijel, i d-yexleq Beṣalel mmi-s n Uri, mmi-s n Ḥur, ḥrez-tt deg zdat n Mickan Yahwe; Sleyman d lǧemɛa ssuɣen ɣur-s.",
+  "tokens": [
+    {
+      "surface": "ומזבח",
+      "gloss": "Maḍaḥt"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "n yinijel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Beṣalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "n Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חור",
+      "gloss": "n Ḥur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ḥrez-tt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat n"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וידרשהו",
+      "gloss": "ssuɣen ɣur-s"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sleyman"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "d lǧemɛa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:37:37.176251768Z",
+  "model": "glm-5.3"
+}

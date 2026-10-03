@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yeḥkem ⟨את⟩ Yisrael snat d tseɛrin (20) d kraḍ (23) n yiseggasen; yemmut, yettwamkel deg Ccamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "snat d tseɛrin (20)"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "d kraḍ (23)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "yettwamkel"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "deg Ccamir"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:20.556529123Z",
+  "model": "glm-5.3"
+}

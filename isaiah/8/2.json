@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad ceddeɣ inagan iqedcen: ⟨את⟩ Urya akohen, ⟨ו⟩⟨את⟩ Zekarya mmi-s n Yeverekyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ad ceddeɣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "inagan"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urya akohen"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ו⟩⟨את⟩",
+      "marks": "Zekarya mmi-s n Yeverekyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:26.897627697Z",
+  "model": "glm-5.3"
+}

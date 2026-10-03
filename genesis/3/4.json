@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna-d ineqqes ɣer tmeṭṭut: ula d tidet, ur tettmetem ara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ineqqes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ula d tidet"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "tettmetem ara"
+    }
+  ],
+  "timestamp": "2026-10-03T03:58:50.954110207Z",
+  "model": "glm-5.3"
+}

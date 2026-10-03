@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad iḥezziḍ i yiman-ik abrid, ad tebḍuḍ ⟨את⟩ tilisa n tmurt-ik ara d-yeṭṭfen Yahwe, Elohim-ik, d lɛahd, iwakken ad yizwer ɣer din yal win inuren amdan.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Ad iḥezziḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ad tebḍuḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilisa n tmurt-ik"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilisa"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "n tmurt-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "ara d-yeṭṭfen... d lɛahd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "iwakken ad yizwer"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "ad yizwer ɣer din"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "win inuren amdan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:59:04.473893965Z",
+  "model": "glm-5.3"
+}

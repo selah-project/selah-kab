@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Tabarut n Ṣor. Ẓewwet, ihuḍan n Tarshish, axaṭer tettwarrez, ulac axxam, ulac anekcum; seg tmurt n Kitim twanfa-yasen.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Tabarut"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Ṣor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Ẓewwet"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ihuḍan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "tettwarrez"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "anekcum"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "twanfa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "yasen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:41.748037979Z",
+  "model": "glm-5.3"
+}

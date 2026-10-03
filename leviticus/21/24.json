@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Moce yemmeslay-ed ɣer Aharon, ɣer warrac-is, akken ɣer tarwa akk n Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay-ed"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akked ɣer"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warrac-is"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akked ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:58.614011751Z",
+  "model": "glm-5.3"
+}

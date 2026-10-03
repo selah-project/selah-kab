@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tafat n Elohim ur yensi ara, Samuel yella yettgel deg uyekkem n Yahwe, anida yella ⟨את⟩ tacarut n Elohim.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "tafat n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "yensi"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yettgel"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "deg uyekkem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tacarut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:10:38.109470105Z",
+  "model": "glm-5.3"
+}

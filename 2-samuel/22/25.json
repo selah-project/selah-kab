@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yahwe yerra-yi s ṣedeq-iw, akken yella uzewwaz-iw ar zdat n tiṭ-inis.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yerra-yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "s ṣedeq-iw"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "akken yella uzewwaz-iw"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ar zdat n"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "tiṭ-inis"
+    }
+  ],
+  "timestamp": "2026-10-02T23:07:56.639079288Z",
+  "model": "glm-5.3"
+}

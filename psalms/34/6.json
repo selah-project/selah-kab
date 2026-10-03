@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Walan ɣer-s, ḍlen s tafat, udemwen-nsen ur ttḥeqqiren ara.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Walan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ḍlen s tafat"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "udemwen-nsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "ttḥeqqiren ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:52.434487573Z",
+  "model": "glm-5.3"
+}

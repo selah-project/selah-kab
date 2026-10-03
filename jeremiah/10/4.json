@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "S lfeḍḍa d ureɣ ṣebbeḥen-t, s temṣuṛ d temdeɣin ḥezzmen-t, ur iggiwi ara.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "S lfeḍḍa"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "d ureɣ"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "ṣebbeḥen-t"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "s temṣuṛ"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "d temdeɣin"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "ḥezzmen-t"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "iggiwi ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:17:17.512926567Z",
+  "model": "glm-5.3"
+}

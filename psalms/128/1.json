@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 128,
+  "translation": "Acḥennu n walluyen. Tiddad i yal win yugden Yahwe, yettazzalen deg yiberdan-is.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Acḥennu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n walluyen"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Tiddad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "win yugden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yettazzalen"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "deg yiberdan-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:52.615973896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ad ṭṭfen tamant-nsen ɣef Elohim, ur ttin ara ixeddimen n El, ad iḥerzen ilugan-nnes.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ad ṭṭfen"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ɣef Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "tamant-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ttin ara"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ixeddimen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ilugan-nnes"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ad iḥerzen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:51.761076539Z",
+  "model": "glm-5.3"
+}

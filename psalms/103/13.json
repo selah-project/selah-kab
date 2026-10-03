@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Akken iḥemmel baba ɣef waraw-is, akka iḥemmel Yahwe ɣef wid i t-ijehlen.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "akken iḥemmel"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "waraw-is"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "akka iḥemmel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wid i t-ijehlen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:36.137069662Z",
+  "model": "glm-5.3"
+}

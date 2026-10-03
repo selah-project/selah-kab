@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Akk-nsen ad jawben, ad inin i kečč: Ula kečč turewweḥ am nekkni; ɣur-neɣ tuɣaleḍ am nekkni.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Akk-nsen"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ad jawben"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ad inin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "turewweḥ"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "am nekkni"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣur-neɣ"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "tuɣaleḍ am nekkni"
+    }
+  ],
+  "timestamp": "2026-10-03T04:19:03.637338076Z",
+  "model": "glm-5.3"
+}

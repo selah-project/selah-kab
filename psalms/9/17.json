@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yettwassan Yahwe, yexdem ccreɛ; aklan yettwagdeg deg lɣurma n yifassen-is. Higgayon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "yettwassan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "deg lɣurma n"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "yifassen-is"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "yettwagdeg"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "aklan"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:42.517744169Z",
+  "model": "glm-5.3"
+}

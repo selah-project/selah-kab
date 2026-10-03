@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Wid yettazdeggen deg yiberḍan n tmurt ṛẓen seg yiznan-ik; timeẓriyin n saba d tameddit ad tzuxxen s lferḥ.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ṛẓen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wid yettazdeggen"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "iberḍan"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "seg yiznan-ik"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "timeẓriyin"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "n saba"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "d tameddit"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "ad tzuxxen s lferḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:40.696900929Z",
+  "model": "glm-5.3"
+}

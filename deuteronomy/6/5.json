@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad tḥemmleḍ ⟨את⟩ Yahwe Elohim-ik, s wul-ik akk, s nnefs-ik akk, s tazmert-ik akk.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Ad tḥemmleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s ... akk"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "s ... akk"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nnefs-ik"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "s ... akk"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "tazmert-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:18.111105722Z",
+  "model": "glm-5.3"
+}

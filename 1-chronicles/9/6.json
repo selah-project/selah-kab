@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "akk-d seg warrac n Zeraḥ: Yeçuɛel, akk d watmaten-is — sḍis n temratin akk d tza.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "akk-d seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zeraḥ"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Yeçuɛel"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "akk d watmaten-is"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sḍis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temratin"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "akk d tza"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:28.391326151Z",
+  "model": "glm-5.3"
+}

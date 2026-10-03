@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yessareɣ-d ⟨את⟩-ik, d ⟨את⟩ akk atmaten-ik, arrac n Levi, ⟨את⟩ yid-ik; tessaram diɣen taweft n lkeyyan?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yessareɣ-d"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-ik",
+      "marks": "akk atmaten-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩ akk",
+      "marks": "atmaten-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "atmaten-ik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac n"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "yid-ik ⟨את⟩"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "tessaram"
+    },
+    {
+      "surface": "גם",
+      "gloss": "diɣen"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "taweft n lkeyyan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:33:31.250338158Z",
+  "model": "glm-5.3"
+}

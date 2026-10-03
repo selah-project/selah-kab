@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad sduqqel-eɣ ⟨את⟩ timdinin-nwen d azagor, ad ruzeg-eɣ ⟨את⟩ iqedcen-nwen, d tevza-nwen ur ttveffeɣ ara.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad sduqqel-eɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timdinin-nwen"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "timdinin-nwen"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "d azagor"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ad ruzeg-eɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen-nwen"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "iqedcen-nwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "ttveffeɣ ara"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "tevza"
+    },
+    {
+      "surface": "ניחוחכם",
+      "gloss": "nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:53.622346717Z",
+  "model": "glm-5.3"
+}

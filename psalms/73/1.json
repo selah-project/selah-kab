@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Taẓuri n Asaf. S tidet, Elohim d ameẓẓan i Yisrael, i wid yesɛan ul d aṣekkan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Taẓuri"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "n Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "S tidet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameẓẓan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "i wid"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ul d aṣekkan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.726809985Z",
+  "model": "glm-5.3"
+}

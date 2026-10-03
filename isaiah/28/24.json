@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ma yikerrez utekci yal ass iwakken ad isiggeẓ? Ma yeldi yerna ad isruḥu akal-is, yal-ass kan?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ma … akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "yal ass"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "yikerrez"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "utekci"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "iwakken ad isiggeẓ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "ad isruḥu"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "akal-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:55:08.857924096Z",
+  "model": "glm-5.3"
+}

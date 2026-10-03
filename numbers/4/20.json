@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Wexxer ur kecmen ara ad walin, deg walwenni, ⟨את⟩ iqedcen, ad mten.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Wexxer ur"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kecmen ara"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "deg walwenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ad mten"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:41.683888248Z",
+  "model": "glm-5.3"
+}

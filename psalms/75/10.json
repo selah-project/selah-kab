@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Ma nekk, ad d-melḍeɣ i lebda; ad cnuɣ i Elohim n Yaɛqov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma nekk"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ad d-melḍeɣ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ad cnuɣ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:39.503133024Z",
+  "model": "glm-5.3"
+}

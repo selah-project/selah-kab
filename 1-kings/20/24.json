@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Xeddem ⟨את⟩ wawal-agi: ekkes igelliden, yal yiwen seg wemkan-is, ssum idebbalen deg umkan-nsen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wawal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "xeddem"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ekkes"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "seg wemkan-is"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ssum"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "idebbalen"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "deg umkan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:25.002039094Z",
+  "model": "glm-5.3"
+}

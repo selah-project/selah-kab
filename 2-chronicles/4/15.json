@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "⟨את⟩ yiwet n ilel, d ⟨את⟩ snat d mraw n yizerzaten ddaw-as.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "izerzaten"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "izerzaten"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "snat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ddaw-as"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:18.826501986Z",
+  "model": "glm-5.3"
+}

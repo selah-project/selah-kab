@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Mṛaw n wetten n Yosef ṣubben-d ad awin-d yimdhen seg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ṣubben-d"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "n wetten"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mṛaw"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ad awin-d"
+    },
+    {
+      "surface": "בר",
+      "gloss": "yimdhen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:58.037996030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Ad iḥkem iɣlan-ik s teṣedeqt, d imeṭṭafen-ik s ccreɛ.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ad iḥkem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iɣlan-ik"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "s teṣedeqt"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "d imeṭṭafen-ik"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "s ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:56.911954778Z",
+  "model": "glm-5.3"
+}

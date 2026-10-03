@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yewwet Yahwe ⟨את⟩ ⟨iɣlan⟩ ɣef wayen xedmen ⟨את⟩ ⟨iɛǧi⟩, iɛǧi-n win ixedmen Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Yewwet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣlan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "iɣlan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɛǧi"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "iɛǧi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win ixedmen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T20:54:52.483335019Z",
+  "model": "glm-5.3"
+}

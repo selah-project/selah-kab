@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Eloha-iw, err-iten am taɣawsa yettzellin, am ceɛɛan sdat n ⟨ה⟩ruаḥ.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloha-iw"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "err-iten"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "am taɣawsa yettzellin"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "am ceɛɛan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat n"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruаḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:14.663549494Z",
+  "model": "glm-5.3"
+}

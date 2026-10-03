@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Keččini tessuteɣ-aɣ deg wemkan n wucciɣen, texseḍ aɣ-d s timest n lmut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Keččini"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "tessuteɣ-aɣ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg wemkan"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "n wucciɣen"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "texseḍ aɣ-d"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "s timest n lmut"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:41.157024647Z",
+  "model": "glm-5.3"
+}

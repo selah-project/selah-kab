@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Iḥkem ula d ⟨את⟩ wis sin, ⟨את⟩ wis kraḍ akked ⟨את⟩ akk wid iṭṭafaren ḥerda-yagi: a tqeblem ad tiniḍ i Esav, mi ara t-tafeḍ: tamawt-aḥerfa i d-yenna.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "iḥkem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wis sin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wis kraḍ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis kraḍ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wid iṭṭafaren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "wid iṭṭafaren"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "ḥerda-yagi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad tiniḍ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "tamawt-aḥerfa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ad tiniḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "mi ara t-tafeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    }
+  ],
+  "timestamp": "2026-10-02T20:25:17.953421010Z",
+  "model": "glm-5.3"
+}

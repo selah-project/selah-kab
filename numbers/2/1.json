@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yenna-d Yahwe ɣer Moce d ɣer Aharon, ad d-yini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-yini"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:41.194099659Z",
+  "model": "glm-5.3"
+}

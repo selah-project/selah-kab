@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Ass ideɣ ttargiɣ, nekwni ad kkneɣ deg-k.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ideɣ ttargiɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekwni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ad kkneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:10.879515813Z",
+  "model": "glm-5.3"
+}

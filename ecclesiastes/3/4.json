@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akud iwakken ad yerwer, akud iwakken ad iḍhek; akud iwakken ad iḥezn, akud iwakken ad yerkeḍ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "iwakken ad yerwer"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "iwakken ad iḍhek"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "iwakken ad iḥezn"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "iwakken ad yerkeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:16.595585966Z",
+  "model": "glm-5.3"
+}

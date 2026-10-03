@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ur t-txeṣṛem ⟨את⟩ atmaten-nwen imiragen-a akk, armi d ass-a, u tfhem ⟨את⟩ leḥsab n tladna n Yahwe, Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "t-txeṣṛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atmaten-nwen"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "atmaten-nwen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "imiragen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "d ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "u tfhem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leḥsab"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "leḥsab"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tladna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:38.329411941Z",
+  "model": "glm-5.3"
+}

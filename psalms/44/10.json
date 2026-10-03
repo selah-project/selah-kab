@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Maca tessuffuɣ-aɣ tesserẓaɣ-aɣ, ur teffeɣ ara akk d yiserdasen-nneɣ.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Maca"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "tessuffuɣ-aɣ"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "tesserẓaɣ-aɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "teffeɣ"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "akk d yiserdasen-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:34.071501118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Iḥbelen n Ceol ţḍuṛen-d yiyyi; imsedyan n tmettant iwḍen-d uqbel-i.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "iḥbelen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Ceol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ţḍuṛen-d yiyyi"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "iwḍen-d uqbel-i"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "imsedyan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "n tmettant"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:49.765591087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ay i-neɣ! Anwa ara i-ṣṣeḥnen si ufus n Elohim-agi imeqranen? Wagi d nutenti Elohim iḍeṣṣen ⟨את⟩ Miṣrayim s yal ṭṭefa deg uẓeṭṭa.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "ay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i-neɣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ara i-ṣṣeḥnen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "si ufus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "imeqranen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nutenti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "iḍeṣṣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s yal"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ṭṭefa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uẓeṭṭa"
+    }
+  ],
+  "timestamp": "2026-10-03T04:10:42.981508081Z",
+  "model": "glm-5.3"
+}

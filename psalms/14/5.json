@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Din ṛuḥen tuggd tameqqrant, axaṭer Elohim yella deg leqrun n wid iḥeqqen.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Din"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ṛuḥen tuggd"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tuggd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "deg leqrun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "n wid iḥeqqen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:01.070763817Z",
+  "model": "glm-5.3"
+}

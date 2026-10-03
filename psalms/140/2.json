@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Sellek-iyi, a Yahwe, seg umdan n dirit, seg wemdan n teqerḍert ad iyi-tḥerzeḍ.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "sellek-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "seg umdan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "n dirit"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "seg wemdan"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "n teqerḍert"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ad iyi-tḥerzeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:53.000428089Z",
+  "model": "glm-5.3"
+}

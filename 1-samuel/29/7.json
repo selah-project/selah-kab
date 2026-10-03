@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ihi tura tuɣal, du s tifrat, ur txeddem ara dirit deg wallen n yiserdan n Feličtim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ihi tura"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tuɣal"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "du"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "s tifrat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txeddem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg wallen"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "n yiserdan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n Feličtim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:52:57.629436471Z",
+  "model": "glm-5.3"
+}

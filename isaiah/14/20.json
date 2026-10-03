@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ur tettekkiḍ ara yid-sen ⟨את⟩ deg lḥeṛz, axaṭer tamurt-ik txeṣbeḍ, agdud-ik tennaɣteḍ; ur yettwabder ara i lebda ales n wid ibren.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "tettekkiḍ ara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yid-sen ⟨את⟩",
+      "marks": "igelliden n leǧnas"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "deg lḥeṛz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tamurt-ik"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "txeṣbeḍ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "tennaɣteḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "yettwabder ara"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ales"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "n wid ibren"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:20.358096684Z",
+  "model": "glm-5.3"
+}

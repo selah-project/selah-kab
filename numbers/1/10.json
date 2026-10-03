@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "I warraw n Yosef: i Efrayim, Eliyama, mmi-s n Ɛammiḥud; i Menaace, Gamliel, mmi-s n Pedacṣur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "n Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "i Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eliyama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "n Ɛammiḥud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "i Menaace"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "n Pedacṣur"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:36.085147886Z",
+  "model": "glm-5.3"
+}

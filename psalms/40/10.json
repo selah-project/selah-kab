@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Bbeṛreɣ ⟨i⟩ ṣedeq deg ⟨i⟩ ljamεa tameqqrant; ha-tan sennat-iw, ur tt-id-ḥebbes ara; Yahwe, kečč ⟨i⟩ t-tesneḍ.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "bbeṛreɣ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "deg ljamεa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ha-tan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sennat-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "tt-id-ḥebbes ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tesneḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:40.162603134Z",
+  "model": "glm-5.3"
+}

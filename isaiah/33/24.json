@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ur izemmreɣ ara ad yini win izdeɣen: melliɣ; aɣdud izdeɣ degs, tuccḍa-nnes tettwakkes.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "win izdeɣen"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "melliɣ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aɣdud"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "izdeɣ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "degs"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tettwakkes"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tuccḍa-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T23:54:00.663330660Z",
+  "model": "glm-5.3"
+}

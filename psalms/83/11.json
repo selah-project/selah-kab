@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Ttwakksen deg Ɛin-Dor, uɣen d lxam i wakal.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Ttwakksen"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "deg"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Ɛin-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "uɣen d"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "lxam"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "i wakal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:31.752618647Z",
+  "model": "glm-5.3"
+}

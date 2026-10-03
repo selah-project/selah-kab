@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Acḥet yezwar ḥesed-ik, a Elohim! S wakken, at wemdan deg tili n yiɛekkaben-ik ad nn-ttafen tamelltit.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acḥet"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "yezwar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "deg tili"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "n yiɛekkaben-ik"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "nn-ttafen tamelltit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:48.160710506Z",
+  "model": "glm-5.3"
+}

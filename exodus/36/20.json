@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yexdem ⟨את⟩ yiɣsan i Mickan, si lɛeḍac n ccaɣi, idegsen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiɣsan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "yiɣsan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "i Mickan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "si lɛeḍac"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n ccaɣi"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "idegsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:48.184528579Z",
+  "model": "glm-5.3"
+}

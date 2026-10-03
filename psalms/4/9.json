@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "S tifrat, yal wa deg umkan-is, ad iddegleɣ ad fnuɣ, acku kecc, Yahwe, d kecc i d-izwaren, d kecc i yerran ad izdeɣ di laman.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "s tifrat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yal wa deg umkan-is"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ad iddegleɣ"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ad fnuɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "d kecc i d-izwaren"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "di laman"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "i yerran ad izdeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:26.061515341Z",
+  "model": "glm-5.3"
+}

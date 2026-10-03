@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ulmen-is maca ur yelli d ulbaɣur ɣer Yahwe, ur umnen ara deg lɛahd-is.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ulmen-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yelli d ulbaɣur"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "umnen ara"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "deg lɛahd-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:19.002578841Z",
+  "model": "glm-5.3"
+}

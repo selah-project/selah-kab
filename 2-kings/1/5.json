@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Imcegɣen uɣalen ɣer-s, yenna-yasen: Acu-agi, kunwi tuɣalem-t?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "uɣalen"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "imcegɣen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "-yasen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "tuɣalem-tt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:26:59.490924994Z",
+  "model": "glm-5.3"
+}

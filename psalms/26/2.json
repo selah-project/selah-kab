@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Sebleɛ-iyi, Yahwe, ḥewwes-iyi, zzdeɣ ikelawen-iw d ul-iw.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Sebleɛ-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ḥewwes-iyi"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "zzdeɣ"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ikelawen-iw"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "d ul-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:11.603182410Z",
+  "model": "glm-5.3"
+}

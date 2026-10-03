@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Ixleq ⟨את⟩ aefod: s wureɣ, s taklit, s urgaman, s tulɛat cciniyet, d lin imziggen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ixleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aefod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "aefod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ureɣ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "taklit"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "urgaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tulɛat cciniyet"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cciniyet"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "imziggen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:11.182881079Z",
+  "model": "glm-5.3"
+}

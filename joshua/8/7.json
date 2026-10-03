@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Kkenwit ad kendrum seg tneɣlit, ad teṭṭefem ⟨את⟩ temdint; Yahwe, Elohim-nwen, ad tt-id-yefk deg yifassen-wen.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kkenwit"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "ad kendrum"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "seg tneɣlit"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "ad teṭṭefem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ad tt-id-yefk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "deg yifassen-wen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:56.354356502Z",
+  "model": "glm-5.3"
+}

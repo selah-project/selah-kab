@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yekker Avraham, yennuz i ugdud n tmurt, i warrac n Ḥet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yekker"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yennuz"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i ugdud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac"
+    },
+    {
+      "surface": "חת",
+      "gloss": "n Ḥet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:15.708769745Z",
+  "model": "glm-5.3"
+}

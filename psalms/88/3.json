@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Ad tekkced tẓallit-iw ɣer zdat-ik, ḍfes amas-ik i yiɣiɣen-iw.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ad tekkced"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ɣer zdat-ik"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tẓallit-iw"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ḍfes"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "amas-ik"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "i yiɣiɣen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:40.964992598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Wagi d udrar n wid t-id-yezzin, wid yezwiren udem-ik, Yaɛqov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "wagi d"
+    },
+    {
+      "surface": "דור",
+      "gloss": "udrar (n leqdyay)"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "wid t-id-yezzin"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wid yezwiren"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:10.450238751Z",
+  "model": "glm-5.3"
+}

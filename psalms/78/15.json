@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yebḍa iẓuran deg ugeffar, iswa-iten am teẓlemt tameqṛant.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "yebḍa"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "iẓuran"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg ugeffar"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "iswa-iten"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "am teẓlemt"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tameqṛant"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:31.610699781Z",
+  "model": "glm-5.3"
+}

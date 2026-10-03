@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Iccureg-d imi-iw di ccna tamaynut, tasmeḥt i Elohim-nneɣ; aṭas ad walin ad ɛadnen, ad ttneklen di Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "iccureg-d"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di imi-iw"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ccna"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tamaynut"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tasmeḥt"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "i Elohim-nneɣ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ad ɛadnen"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ad ttneklen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:47.279096Z",
+  "model": "glm-5.3"
+}

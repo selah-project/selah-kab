@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Axaṭer d iqeddacen-iw nitni, wid i d-yessuffuɣen ⟨את⟩ nitni si tmurt n Miṣrayim; ur ttwazenzan ara s unezzi n weqeddac.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "iqeddacen-iw"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nitni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "i d-yessuffuɣen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nitni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ttwazenzan"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "s unezzi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "n weqeddac"
+    }
+  ],
+  "timestamp": "2026-10-02T21:18:21.429739267Z",
+  "model": "glm-5.3"
+}

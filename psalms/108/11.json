@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Anwa i d-yewwid ɣer temdint n lǧehd? Anwa i d-inha ɣer Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "i d-yewwid"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "n lǧehd"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "i d-inha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:44.517452851Z",
+  "model": "glm-5.3"
+}

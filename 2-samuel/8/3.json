@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "David yewweḍ ⟨את⟩ Ḥadadɛezer mmi-s n Reḥob, agellid n Ṣuba, mi yella yettadda ad d-yerr afus-is ɣef wasif.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yewweḍ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥadadɛezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Ḥadadɛezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "n Reḥob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "n Ṣuba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "mi yella yettadda"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ad d-yerr"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ɣef wasif"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:57.397404773Z",
+  "model": "glm-5.3"
+}

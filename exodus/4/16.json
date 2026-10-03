@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Netta ad yemmeslay d kečč ⟨i⟩ ugdud; netta ad yili d imi-k, kečč ad tiliḍ ikes d Elohim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ad yemmeslay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "d kečč"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ik"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "d imi-k"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ikes"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "d Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:06.258950146Z",
+  "model": "glm-5.3"
+}

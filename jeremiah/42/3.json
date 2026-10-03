@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ad aɣ-d-yini Yahwe, Elohim-ik, ⟨את⟩ abrid ara nteddu deg-s, d ⟨את⟩ ayen ara nxedmen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ad aɣ-d-yini"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abrid"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "nteddu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ayen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nxedmen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:34:49.827362071Z",
+  "model": "glm-5.3"
+}

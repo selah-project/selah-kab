@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Ul-iw yeḥma deg ixef-iw; deg umektit-iw, times teqqel; mmeslaɣeɣ s lesṭel-iw.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "yeḥma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Ul-iw"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "deg ixef-iw"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "deg umektit-iw"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "teqqel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mmeslaɣeɣ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "s lesṭel-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:50.205113878Z",
+  "model": "glm-5.3"
+}

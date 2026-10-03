@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Moce yesser-d seg wedrar ɣer ugdud, iqeddec ⟨את⟩ ugdud, u ḥemmlen ictan-nsen.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yesser-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "iqeddec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ḥemmlen"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ictan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:40.196482949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Nnan-as-d akka: ugdud t-iḍeffren ⟨אתו⟩ deg ubrid, yemmut.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "t-iḍeffren"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t-iḍeffren (i uccariɛ)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:38.070659247Z",
+  "model": "glm-5.3"
+}

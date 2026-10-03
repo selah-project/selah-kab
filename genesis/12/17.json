@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yahwe yeḍḍa Parɛoh d tgigtin timeqranin, i ⟨את⟩ Parɛoh d ⟨את⟩ wexxam-is, ɣef lɛahd n Saray, tameṭṭut n Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "yeḍḍa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parɛoh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parɛoh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "tgigtin"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "timeqranin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wexxam-is"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wexxam-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "n Avram"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:52.589931621Z",
+  "model": "glm-5.3"
+}

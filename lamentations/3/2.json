@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Iseggel ⟨את⟩-i, yerna yedda deg tignewt, mačči deg tafat.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "yi — nekki"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "iseggel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yerna yedda"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tignewt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tafat"
+    }
+  ],
+  "timestamp": "2026-10-03T02:52:13.405735826Z",
+  "model": "glm-5.3"
+}

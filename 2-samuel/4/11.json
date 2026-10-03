@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ayen nniḍen, mi llan irgazen ibeḥsien nɣen ⟨את⟩ urgaz aiqdec deg wexxam-is, ɣef liṛṣ-is — akka tura, mačči ara d-nadi ⟨את⟩ idmum-is seg yifassen-nwen, ad ⟨את⟩ kwen-ḥeṣṣeɣ seg tmurt?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ayen nniḍen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ibeḥsien"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urgaz aiqdec"
+    },
+    {
+      "surface": "איש",
+      "gloss": "urgaz"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "aiqdec"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "deg wexxam-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "liṛṣ-is"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "akk'a tura"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mačči ara"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ad d-nadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idmum-is"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idmum-is"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "seg yifassen-nwen"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "ad kwen-ḥeṣṣeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwen",
+      "marks": "kwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T22:56:09.978759516Z",
+  "model": "glm-5.3"
+}

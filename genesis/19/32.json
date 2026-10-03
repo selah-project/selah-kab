@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ihi, ad nessis ⟨את⟩ baba-nneɣ s lexmar, ad nenṭeq yid-es, akken ad nḥrez tarwa seg baba-nneɣ.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Ihi"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ad nessis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-nneɣ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baba-nneɣ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "s lexmar"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "ad nenṭeq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-es"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ad nḥrez"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "seg baba-nneɣ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:16:30.972444730Z",
+  "model": "glm-5.3"
+}

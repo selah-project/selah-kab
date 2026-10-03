@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "D ⟨את⟩ akk timdinin-nnsen, deg mi ṣṣeddan, d ⟨את⟩ akk ḥeṣṣina-nnsen, ḥerqen-tent s tmes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk timdinin-nnsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "timdinin-nnsen"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "deg mi ṣṣeddan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk ḥeṣṣina-nnsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ḥeṣṣina-nnsen"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ḥerqen-tent"
+    },
+    {
+      "surface": "באש",
+      "gloss": "s tmes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:43.146056070Z",
+  "model": "glm-5.3"
+}

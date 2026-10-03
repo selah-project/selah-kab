@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad i d-yawi ⟨את⟩ takriḥt-is i Yahwe: yiwen n ḥamal war-ečči si ⟨the⟩ lmal, akken tettqiḍeḍ ⟨the⟩ taṣwert-is, d takriḥt, ɣer ⟨the⟩ akohin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takriḥt-is"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "takriḥt-is"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ad i d-yawi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ḥamal"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "war-ečči"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "akken tettqiḍeḍ"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "d takriḥt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:22.586709335Z",
+  "model": "glm-5.3"
+}

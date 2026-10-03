@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad isers afus-is ɣef uqerru n yiḍeḥdi, ad yerẓem-⟨את⟩ t deg umḥadd anda yennezdeg uksiḍ ⟨את⟩ iqeffilt, γer zdat n Yahwe; tiḥutti d neṭṭa.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ad isers"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uqerru"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "n yiḍeḥdi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ad yerẓem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t",
+      "marks": "yiḍeḥdi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umḥadd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "yennezdeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqeffilt"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "iqeffilt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "γer zdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tiḥutti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d neṭṭa"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:11.343585125Z",
+  "model": "glm-5.3"
+}

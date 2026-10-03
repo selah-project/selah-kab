@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 11:19",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Hedad yufa ⟨lḥeqq n lɛinwen⟩ deg wallen n Paroh bezzaf; yefka-yas tameṭṭut: ⟨את⟩ xalt-is n tameṭṭut-is, xalt-is n Taḥpenes, tagebrirt.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hedad"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lɛinwen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg wallen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Paroh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bezzaf"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalt-is n tameṭṭut-is"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "xalt-is"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "n tameṭṭut-is"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "xalt-is"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "n Taḥpenes"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "tagebrirt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:09.419139253Z",
+  "model": "glm-5.3"
+}

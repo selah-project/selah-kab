@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "I lmend n watmaten-iw d inemrawen-iw, ad d-meslayeɣ: tell telwit deg-k.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "i lmend"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "watmaten-iw"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "inemrawen-iw"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ad d-meslayeɣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "שלום",
+      "gloss": "telwit"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.506532622Z",
+  "model": "glm-5.3"
+}

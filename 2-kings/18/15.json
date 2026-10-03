@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ḥizqiya yefka ⟨את⟩ akk lfeḍḍa i d-nufa deg uxxam n Yahwe, d lfeḍḍa n degs akk deg teḥersiwin n wexxam n ugellid.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk lfeḍḍa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "i d-nufa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "d deg teḥersiwin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:27.254580730Z",
+  "model": "glm-5.3"
+}

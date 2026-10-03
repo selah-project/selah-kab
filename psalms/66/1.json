@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "I lmennagc: cnav dumezmur. Ṣeḍḍet i Elohim, tamurt akk!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i lmennagc"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cnav"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "dumezmur"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ṣeḍḍet"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:33.283611012Z",
+  "model": "glm-5.3"
+}

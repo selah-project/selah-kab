@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Bless Yahwe, ⟨i⟩ leqdic-is akk, deg yal amkan n tgelda-nnes; Bless a Yahwe, a nefsiw, ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bless"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "leqdic-is"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "מקות",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "n tgelda-nnes"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Bless"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a nefsiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:00.405291827Z",
+  "model": "glm-5.3"
+}

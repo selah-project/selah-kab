@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Fǧren zik di ṣṣbeḥ, ḥelfen yiwen i watmat-is; Yiṣḥaq yuzen-iten, ṛuḥen seg ⟨את⟩-is s tifrat.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "fǧren zik"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di ṣṣbeḥ"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ḥelfen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "i watmat-is"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "yuzen-iten"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "seg ⟨את⟩",
+      "marks": "seg Yiṣḥaq"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "s tifrat"
+    }
+  ],
+  "timestamp": "2026-10-02T20:20:50.093681536Z",
+  "model": "glm-5.3"
+}

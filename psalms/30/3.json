@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "A Yahwe, Elohim-iw, lxiɣ fell-ak, u yessuji-iyi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "lxiɣ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fell-ak"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "u yessuji-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:24.227160400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akken ma llan d wid yettɣen leḥram, am tnur iḥemmen s ufus n umeḥrir, i yettɣimin ur inejjiḍ ara, si tɣuri n uxmim arma yuɣ axmim.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "akken ma llan"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "d wid yettɣen leḥram"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "tnur"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "iḥemmen"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "s ufus n umeḥrir"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "i yettɣimin ur inejjiḍ ara"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ur inejjiḍ"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "si tɣuri"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "n uxmim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "yuɣ axmim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:28:48.862326155Z",
+  "model": "glm-5.3"
+}

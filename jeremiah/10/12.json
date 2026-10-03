@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 10:12",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Win ixeddem ⟨את⟩ tmurt s tezmert-is, isserreg amaḍal s tussna-is, s lefhama-s isnejbad ⟨את⟩ yigenwan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Win ixeddem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "s tezmert-is"
+    },
+    {
+      "surface": "מכין",
+      "gloss": "isserreg"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amaḍal"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "s tussna-is"
+    },
+    {
+      "surface": "ובתבונתו",
+      "gloss": "s lefhama-s"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "isnejbad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yigenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:10.352986613Z",
+  "model": "glm-5.3"
+}

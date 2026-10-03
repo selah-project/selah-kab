@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Wali, mačči d ⟨את⟩ ⟨seg⟩ Yahwe Ṣebaot i d-yekka? Igdan ad ccɣlen i tmes, iɣlanen ad ḥeẓren i ulac, ad ɛeḍben.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨seg⟩",
+      "marks": "Yahwe Ṣebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "ad ccɣlen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "igdan"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "i"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "ad ɛeḍben"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:35.570742207Z",
+  "model": "glm-5.3"
+}

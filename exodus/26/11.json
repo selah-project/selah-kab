@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad teg semmus n tmerin n iqerṣen n unneɣas, ad tkecmeḍ ⟨את⟩ iqerṣen deg tilawin, yerna ad teqqeleḍ ⟨את⟩ uxxam, akken ad yili yiwen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad teg"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "iqerṣen"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n unneɣas"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmus n tmerin"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ad tkecmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqerṣen"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "iqerṣen"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "deg tilawin"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ad teqqeleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "akken ad yili"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:30.729503146Z",
+  "model": "glm-5.3"
+}

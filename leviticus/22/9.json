@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad eḥerzen ⟨את⟩ lwaṣiyat-iw, ur d-ddun ara deg-s tuccḍa, ad mmten deg-s, acku t-tqedcen-t ⟨את⟩; nekk d Yahwe, win ten-iqedcen.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ad eḥerzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwaṣiyat-iw"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "lwaṣiyat-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ad d-ddun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ad mmten"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "t-tqedcen-t"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "win ten-iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:15:22.225447447Z",
+  "model": "glm-5.3"
+}

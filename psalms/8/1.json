@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "I umensel, ɣef lgitit, mizmor n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i umensel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "lgitit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:16.549994692Z",
+  "model": "glm-5.3"
+}

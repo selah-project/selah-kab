@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Avcalom yuzen imseddayen deg yal tiɣiwanin n Yisrael, ad yin: Mi tFEslam ⟨את⟩ taɣect n lɣerna, ad tiniḍ: Avcalom yuɣal d agellid di Ḥebron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "imseddayen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tiɣiwanin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yin"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "Mi tseflam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "n lɣerna"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ad tiniḍ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yuɣal d agellid"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Ḥebron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:01:53.607925590Z",
+  "model": "glm-5.3"
+}

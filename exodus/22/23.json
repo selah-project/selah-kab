@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad teḥmeḍ tiḥmert-iw, ad kwen-neɣ ⟨את⟩ s sif, tilawin-nwen ad ilint d tixessabin, arraw-nwen d igujilen.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ad teḥmeḍ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "tiḥmert-iw"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ad kwen-neɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwin"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "s sif"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "tilawin-nwen"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "d tixessabin"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "arraw-nwen"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "igujilen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:32.082855923Z",
+  "model": "glm-5.3"
+}

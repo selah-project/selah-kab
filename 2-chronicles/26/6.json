@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yeffeɣ ed yennaqeḍ mgal Iflisiṭiyen; yerẓe ⟨את⟩ urum n Gat d ⟨את⟩ urum n Yabne d ⟨את⟩ urum n Acdud; yebna tiɣrem deg Acdud d deg tmurt n Iflisiṭiyen.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ ed"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "yennaqeḍ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "mgal Iflisiṭiyen"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "yerẓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urum n Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urum n"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "urum n Yabne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urum n"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "urum n Acdud"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "urum n"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Acdud"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tiɣrem"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "deg Acdud"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "d deg tmurt n Iflisiṭiyen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:51:36.482311185Z",
+  "model": "glm-5.3"
+}

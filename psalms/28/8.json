@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yahwe d tezmert-nsen; d netta ay d taɣemma n uselkem i Maciaḥ-is.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nsen"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "taɣemma"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "uselkem"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Maciaḥ-is"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:31.429394840Z",
+  "model": "glm-5.3"
+}

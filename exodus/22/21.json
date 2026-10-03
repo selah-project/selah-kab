@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Kra n taxessabt neɣ agujil, ur ten-tḍeḍḍfen ara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kra n"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "taxessabt"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "neɣ agujil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "tḍeḍḍfen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:32.078287368Z",
+  "model": "glm-5.3"
+}

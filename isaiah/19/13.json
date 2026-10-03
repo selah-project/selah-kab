@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Llan d imeybulen izegraren n Ṣoɛan, ttwaḍlben izegraren n Nof; nutni tnessen ⟨את⟩ Miṣrayim, ⟨d⟩ ticcert n teccalin-is.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "Llan d imeybulen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "izegraren"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Ṣoɛan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ttwaḍlben"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "izegraren"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "tnessen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ticcert"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "teccalin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:39.540128390Z",
+  "model": "glm-5.3"
+}

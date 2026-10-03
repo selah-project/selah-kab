@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 133,
+  "translation": "Acḥem n tɛellayin, i David. Wali, amek d ifollaḥen, amek d ileḥḥen, tuccḍa n watmaten, akk d yiwet.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Acḥem"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tɛellayin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "מה",
+      "gloss": "amek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ifollaḥen"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "amek"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ileḥḥen"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "n watmaten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yiwet"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:57.553384136Z",
+  "model": "glm-5.3"
+}

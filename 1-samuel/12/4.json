@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Nnan: Ur aɣ-ḥeṣṣdeḍ ara, ur aɣ-ṣuẓeḍ ara, ur tuɣ-t d taɣawsa seg ufus n yiwen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Nnan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ur ... ara"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "aɣ-ḥeṣṣdeḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "aɣ-ṣuẓeḍ ara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "tuɣ-t"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n yiwen"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "d taɣawsa"
+    }
+  ],
+  "timestamp": "2026-10-02T22:41:43.999500776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Abarar icuddu mgal uṣeddiq, yerna yessikel ⟨i⟩ tiselmiyin-is ɣef-s.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "icuddu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "abarar"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mgal uṣeddiq"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "yessikel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tiselmiyin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:04.774126125Z",
+  "model": "glm-5.3"
+}

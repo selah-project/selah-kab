@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yeṣeggem ⟨את⟩ tfelwit n yiɣsan n ccaḍa: snat n temḍaday ɣer teɣzi-s, yiwet n temḍaday ɣer tehri-s, yiwet n temḍaday d uzgen ɣer teɣzi-s tudert.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yeṣeggem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tfelwit"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tfelwit"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yiɣsan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n ccaḍa"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "snat n temḍaday"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ɣer teɣzi-s"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yiwet n temḍaday"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ɣer tehri-s"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yiwet n temḍaday"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "teɣzi-s tudert"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:57.019875532Z",
+  "model": "glm-5.3"
+}

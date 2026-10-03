@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Tessuffuɣeḍ akk tirgit-ik, tuɣaleḍ seg zzeeɛa n wudem-ik.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "tessuffuɣeḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "tirgit-ik"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "tuɣaleḍ"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "zzeeɛa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wudem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:33.684890158Z",
+  "model": "glm-5.3"
+}

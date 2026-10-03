@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "David ur yezmir ara ad yeddu ɣer sdat-ines iwakken ad yessel madras deg Ulohim, axaṭer yeḥwaǧ seg terzeit n seif n lmelk n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "yezmir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ɣer sdat-ines"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ad yessel madras"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ulohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "yeḥwaǧ seg terzeit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seif"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "lmelk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:47:04.868970614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 124,
+  "translation": "Lluḥ da Yahwe i d-illan ɣer neɣ, mi d-yekker wemdan ɣer neɣ,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Lluḥ da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "i d-illan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ɣer neɣ"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "mi d-yekker"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ɣer neɣ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:18.210343434Z",
+  "model": "glm-5.3"
+}

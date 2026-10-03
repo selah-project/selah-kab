@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Deg wakud-nni, slehmeɣ-kwen ⟨את⟩ akkw i wawalen i txedmem.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "slehmeɣ-kwen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi (ken)"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akkw i wawalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akkw"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "i wawalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "txedmem"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:42.955617588Z",
+  "model": "glm-5.3"
+}

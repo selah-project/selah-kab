@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Agellid ixdem seg ⟨את⟩ yiɣi n ulǧumim iɣerbaz i beit Yahwe d i beit ugellid, d yilẓa d yinelmen i yiznan; ur ttbanen ara win n zik akk deg tmurt n Yeḥuda.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣi n ulǧumim"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yiɣi"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "ulǧumim"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "iɣerbaz"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i beit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "d i beit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "ilẓa"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "d yinelmen"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "i yiznan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "ttbanen ara"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "win n zik"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeḥuda"
+    }
+  ],
+  "timestamp": "2026-10-03T03:41:42.911338504Z",
+  "model": "glm-5.3"
+}

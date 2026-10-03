@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Mmeslayet-ed ɣer tuccḍa akk n Yisrael, ad t-inin: deg wass wis mraw n wagur-agi, ad yawi yal argaz seyyes i wenbab n yaxxam-is, seyyes i yal xxam.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Mmeslayet-ed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad t-inin"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "deg wass wis mraw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n wagur"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ad yawi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "שה",
+      "gloss": "seyyes"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "wenbab n yaxxam-is"
+    },
+    {
+      "surface": "שה",
+      "gloss": "seyyes"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i yal xxam"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:31.478822859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Wid yettwafeḍsen, i weɛrc n Cimeɛun: tza d semmusin n yelf, d kraḍ n temda.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "wid yettwafeḍsen"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "i weɛrc"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Cimeɛun"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "tza"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "d semmusin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yelf"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "d kraḍ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temda"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:26.868315539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Tiḥci-nneɣ teṛṛeb deg Yahwe: d netta i d tallalt-nneɣ d lḥeṛs-nneɣ.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Tiḥci-nneɣ"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "teṛṛeb deg"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "tallalt-nneɣ"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "d lḥeṛs-nneɣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:36.537299603Z",
+  "model": "glm-5.3"
+}

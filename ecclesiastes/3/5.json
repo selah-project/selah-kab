@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akud iwakken ad werẓen tiḥbula, d akud iwakken ad ddun tiḥbula; akud iwakken ad tqablem, d akud iwakken ad twaliḍ ţeffeɣ seg uqbal.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ad werẓen"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "tiḥbula"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "tiḥbula"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ad tqablem"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "ad twaliḍ ţeffeɣ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "seg uqbal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:35.813208634Z",
+  "model": "glm-5.3"
+}

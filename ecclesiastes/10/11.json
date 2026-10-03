@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ma iṭṭef lḥanas war iseḥru, ulac lfayda i bab n yils.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "lḥanas"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "war"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "iseḥru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "lfayda"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "i bab"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "n yils"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:16.543257201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Nefs-iw tella gar izamaren; ad resto gar wid yettmeclaḥen — tarwa n yemdanen: isennawen-nsen ⟨d⟩ isegren d tceẓyin, ilesen-nsen ⟨d⟩ teskert tigejdit.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gar"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "izamaren"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ad resto"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "wid yettmeclaḥen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yemdanen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "isennawen-nsen"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "isegren"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "d tceẓyin"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ilesen-nsen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "teskert"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "tigejdit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:28.692092478Z",
+  "model": "glm-5.3"
+}

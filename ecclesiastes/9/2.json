@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Akk d akk: yiwen wemḍan i win n ṣedeq d ixerṣeben, i win yelhan d win iredlen, i win iṭṭfen d win ur iṭṭfen ara; win yelhan am win idnuben, win iğğun am win iwaggfen di tagga.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akkenni i"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "wemḍan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "i win n ṣedeq"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "d i ixerṣeben"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "i win yelhan"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "d i win iqehhiyen"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "d i win iredlen"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "d i win iṭṭfen"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "d i win"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ur"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "iṭṭef ara"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "am win yelhan"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "win idnuben"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "win iğğun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "am win"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "iwaggfen di tagga"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ixeḍmen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:41:27.707165589Z",
+  "model": "glm-5.3"
+}

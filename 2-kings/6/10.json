@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yuzen ugellid n Yisrael ɣer wemkan i d-yennan umeḍbas n Elohim, iḥeyyen-t dinna, iṭṭef iman-is dinna, ur yelli d yiwet, ur d-yelli d snat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "d-yennan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umeḍbas"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "iḥeyyen-t"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "iṭṭef iman-is"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yelli d yiwet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur d-yelli"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "snat"
+    }
+  ],
+  "timestamp": "2026-10-02T23:28:54.566946194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur qceɛ ara iman-ik akken ad tiliḍ d amṛaḥ; ḥbes seg tmusni-ik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "qceɛ iman-ik"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "akken ad tiliḍ d amṛaḥ"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "seg tmusni-ik"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ḥbes"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:44.857261164Z",
+  "model": "glm-5.3"
+}

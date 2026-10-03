@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Akken d ⟨את⟩ sin n waraw-is; isem n wayeḍ, Gercom, axaṭer yenna: d agerruj i lḥiqeɣ deg tmurt n wbɛid.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Akken d ⟨את⟩",
+      "marks": "sin n waraw-is"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "n waraw-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "n wayeḍ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gercom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "גר",
+      "gloss": "d agerruj"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "i lḥiqeɣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "n wbɛid"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:34.265070819Z",
+  "model": "glm-5.3"
+}

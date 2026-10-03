@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Kečč, a Yahwe, tessekniḍ-iyi, tettwal-iḍ, tettḥersi lebby-i ⟨את⟩ ɣur-k. Seddu-ten ikken i wulli i wneɣli, ḥerrez iqedcen i wass n lexla.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "yerna kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tessekniḍ-iyi"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "tettwal-iḍ"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "tettḥersi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "lebby-i"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ɣur-k",
+      "marks": "lebby-i"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "seddu-ten"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ikken i wulli"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "i wneɣli"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "ḥerrez iqedcen"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "i wass"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "n lexla"
+    }
+  ],
+  "timestamp": "2026-10-03T00:18:12.858550186Z",
+  "model": "glm-5.3"
+}

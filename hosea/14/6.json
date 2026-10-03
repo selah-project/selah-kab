@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad iliɣ am uḍu n yiḍ i Yisrael; ad yefru am lilya, ad d-yessuffeɣ iẓuran-is am Lebnan.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "ad iliɣ"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "am uḍu n yiḍ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "ad yefru"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "am lilya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ad d-yessuffeɣ"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "iẓuran-is"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "am Lebnan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:08.537573898Z",
+  "model": "glm-5.3"
+}

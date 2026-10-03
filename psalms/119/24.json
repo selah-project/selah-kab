@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Timawin-ik ula d nitenti d ttṛad-iw, d wid i-yettawen tiwsiyin-iw.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula d nitenti"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "timawin-ik"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ttṛad-iw"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wid"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "i-yettawen tiwsiyin-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:19.904966358Z",
+  "model": "glm-5.3"
+}

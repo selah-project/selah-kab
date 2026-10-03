@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma bab-is yid-s, ur yexliṣ ara; ma d amkaru, yusa-d i lexṣaṛ-is.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yexliṣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "amkaru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yusa-d"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "i lexṣaṛ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:17.873779984Z",
+  "model": "glm-5.3"
+}

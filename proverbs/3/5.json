@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ttkel ɣef Yahwe s wul-ik ⟨akk⟩; ɣef tyisselt-ik ⟨ur⟩ tettudden ⟨ara⟩.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Ttkel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "s wul-ik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "tyisselt-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "tettunden ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:54.255769823Z",
+  "model": "glm-5.3"
+}

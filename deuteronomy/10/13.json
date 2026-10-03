@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad teṭṭfed ⟨את⟩ ilugan n Yahwe, d ⟨את⟩ iḥeqqiwen-is, i nekni i k-id-nessuteɣ ass-a, iwakken ad yili lxiṛ i kečč.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "ad teṭṭfed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilugan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ilugan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iḥeqqiwen-is"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "iḥeqqiwen-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekni"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "i k-id-nessuteɣ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "iwakken ad yili lxiṛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:09.683718818Z",
+  "model": "glm-5.3"
+}

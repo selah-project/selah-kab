@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Lavan iḍef ⟨את⟩ Yaɛqov; Yaɛqov yebna taḥemt-is deg udrar, Lavan yebna ⟨את⟩ taḥemt-is ⟨את⟩ i ḥerma-s deg udrar n Gilɛad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "iḍef"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "yebna taḥemt-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥemt-is"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "taḥemt-is"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥemt-is i ḥerma-s"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "i ḥerma-s"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilɛad"
+    }
+  ],
+  "timestamp": "2026-10-02T20:25:32.749505575Z",
+  "model": "glm-5.3"
+}

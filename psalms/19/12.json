@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ula d akli-k yerqqed deg-sen; mi ara ten-yehrez, ⟨yella⟩ taggara meqqren.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "akli-k"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "yerqqed"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "mi ara ten-yehrez"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meqqren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:48.044159343Z",
+  "model": "glm-5.3"
+}

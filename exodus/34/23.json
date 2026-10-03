@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Kraḍ tikkal deg useggas, ad d-yettwali yal awettil-nnek ⟨את⟩ udmawen n Adonai Yahwe, Elohim n Yisrael.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Kraḍ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tikkal"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ad d-yettwali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "awettil-nnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmawen n Adonai Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:55.210807003Z",
+  "model": "glm-5.3"
+}

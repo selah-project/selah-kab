@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Ad sbuɣlen ⟨את⟩ Yisem n Yahwe, axaṭer d Netta i d-iḥekmen, uweḥd-en llan.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ad sbuɣlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisem n Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d Netta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iḥekmen"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "uweḥd-en llan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:50.759051972Z",
+  "model": "glm-5.3"
+}

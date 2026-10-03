@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yenna-d Yahwe ɣer Moce d ɣer Aharon, deg tmurt n Miṣrayim, ad yini:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:31.477563726Z",
+  "model": "glm-5.3"
+}

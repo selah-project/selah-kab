@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Ihi netta, isel Elohim, isleḍ i weslu n tẓallit-iw.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Ihi netta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "isel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "isleḍ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i weslu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "n tẓallit-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:33.889555611Z",
+  "model": "glm-5.3"
+}

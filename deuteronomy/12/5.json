@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Maca ɣer wemkan ara yefren Yahwe Elohim-nwen seg meṛṛa ciṭɛen-nwen, iwakken ad yessers ⟨את⟩ Isem-is din; ɣer texxamt-is ad tnadem, dinna ad tawḍem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "yefren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg meṛṛa"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "ciṭɛen-nwen"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "iwakken ad yessers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Isem-is"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "ɣer texxamt-is"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "ad tnadem"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ad tawḍem"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    }
+  ],
+  "timestamp": "2026-10-02T21:57:01.207671145Z",
+  "model": "glm-5.3"
+}

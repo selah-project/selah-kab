@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Errẓ aẓeṛṛuf n unerman, akk d win n dir; ḍfer dir-is, arma ur yettwaf ara.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Errẓ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "aẓeṛṛuf"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "unerman"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "akk d win n dir"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ḍfer"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "dir-is"
+    },
+    {
+      "surface": "בל",
+      "gloss": "arma ur"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "yettwaf"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:11.124368108Z",
+  "model": "glm-5.3"
+}

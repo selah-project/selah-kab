@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Mi yeqqim Elohim i ccreɛ, iwakken ad isellek meẓyanen akk n tmurt. Cella.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Mi yeqqim"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "i ccreɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "iwakken ad isellek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "meẓyanen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cella"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:38.059509522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yerna Callum yexleq ⟨את⟩ Ḥilqiya, yerna Ḥilqiya yexleq ⟨את⟩ Ɛazarya.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "yerna Callum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥilqiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Ḥilqiya"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "yerna Ḥilqiya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛazarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ɛazarya"
+    }
+  ],
+  "timestamp": "2026-10-03T03:25:58.978956297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 10:8",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "D-lin agguren, ḍeṛṛen ⟨את⟩ warrac n Yisrael deg useggas-nni: tama n ṭam (18) n yiseggasen, ⟨את⟩ akk warrac n Yisrael i llan enniḍen n Uryedun, deg tmurt n yimuriyen, i llan deg Gilɛad.",
+  "tokens": [
+    {
+      "surface": "וירעצו",
+      "gloss": "agguren"
+    },
+    {
+      "surface": "וירצצו",
+      "gloss": "ḍeṛṛen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warrac n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ṭam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk warrac n Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i llan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "enniḍen n"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Uryedun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "n yimuriyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i llan"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "deg Gilɛad"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:25.459938781Z",
+  "model": "glm-5.3"
+}

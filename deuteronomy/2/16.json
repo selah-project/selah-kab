@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yella-d lxiḥ, mi ḥeṛḥen akk yirgazen n lɛesker, mmten seg ummas n ugdud.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d lxiḥ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ḥeṛḥen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yirgazen"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "n lɛesker"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mmten"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "seg ummas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugdud"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:12.420808039Z",
+  "model": "glm-5.3"
+}

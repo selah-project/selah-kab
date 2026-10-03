@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad nṛuz ⟨את⟩ tissiwin-nsen, ad nvelleɣ seg-neɣ ttewriwin-nsen.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Ad nṛuz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tissiwin-nsen"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "tissiwin-nsen"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ad nvelleɣ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-neɣ"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ttewriwin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:53.108032611Z",
+  "model": "glm-5.3"
+}

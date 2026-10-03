@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ur yettusemmi ara tikelt nniḍen amahil d amεezzem, ula i ubexil ur yettwanenna ara d ameqqran.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "yettusemmi ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt nniḍen"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "amahil"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "d amεezzem"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "ula i ubexil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yettwanenna ara"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "d ameqqran"
+    }
+  ],
+  "timestamp": "2026-10-02T23:55:51.365404291Z",
+  "model": "glm-5.3"
+}

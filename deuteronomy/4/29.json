@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Seg wanda i tellam, ad trebbḍem ⟨את⟩ Yahwe, Elohim-nwen, ad t-tafeḍm, axaṭer ad t-trebbḍem s wul-nwen meṛṛa d s neks-nwen meṛṛa.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ad trebbḍem"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg wanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "ad t-tafeḍm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ad t-trebbḍem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s … meṛṛa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wul-nwen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "s … meṛṛa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "neks-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:50:50.627629835Z",
+  "model": "glm-5.3"
+}

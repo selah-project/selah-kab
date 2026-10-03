@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Axam am wayeṭ ad teṭṭfen, ma neẓla ayen i d-yuzen seg umzenzi-is, ɣer yimawlan.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "axam"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "am wayeṭ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ad teṭṭfen"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ma neẓla"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "seg umzenzi-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "yimawlan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:35.832931429Z",
+  "model": "glm-5.3"
+}

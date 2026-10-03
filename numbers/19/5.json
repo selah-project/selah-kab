@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad yeḥreq ⟨את⟩ taɣmat deg teɣzi-s; ⟨את⟩ aglim-is d ⟨את⟩ aselim-is d ⟨את⟩ idammen-is, ɣef lexla-s ad tt-yeḥreq.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "ad yeḥreq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣmat"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "taɣmat"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "deg teɣzi-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aglim-is"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "aglim-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aselim-is"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "aselim-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "idammen-is"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "idammen-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "lexla-s"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ad yeḥreq"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:16.770630563Z",
+  "model": "glm-5.3"
+}

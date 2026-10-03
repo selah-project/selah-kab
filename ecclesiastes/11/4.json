@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Win yettmuqulen ruaḥ ur izeɛraɛ ara; win iẓerran idigna ur iṣeḍḍa ara.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "yettmuqulen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "izeɛraɛ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "iẓerran"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "idigna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "iṣeḍḍa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:33.810687490Z",
+  "model": "glm-5.3"
+}

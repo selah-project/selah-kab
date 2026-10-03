@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Nekki, ad zdiɣ udem-iw ⟨את⟩ d wemdan-nni d twacult-is; ad t-id-kkesɣ ⟨את⟩, akken d ⟨את⟩ wid akk izennan deffir-s, ad znen deffir Molex, seg wammas n wgagdud-nsen.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ad zdiɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem-iw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "d wemdan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-nni"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "d twacult-is"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ad t-id-kkesɣ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid akk izennan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "wid izennan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "deffir-s"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ad znen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molex"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "seg wammas n"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "wgagdud-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:23.042177983Z",
+  "model": "glm-5.3"
+}

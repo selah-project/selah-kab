@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Agdud yeṣṣeḥ, ur d-yenni ara fell-as ⟨את⟩ awal, axaṭer aḥkam n ugellid yella, ad yini: ur tettarar-ara.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "yeṣṣeḥ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "yenni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "awal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "aḥkam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yella"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "tettarar-ara"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:34.739689712Z",
+  "model": "glm-5.3"
+}

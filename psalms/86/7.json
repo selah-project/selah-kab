@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Deg wass n tuyat-iw ad k-siyegɣ, axir kečč ad tɛawneḍ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass n"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "tuyat-iw"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ad k-siyegɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ad tɛawneḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:01.945877519Z",
+  "model": "glm-5.3"
+}

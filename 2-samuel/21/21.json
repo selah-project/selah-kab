@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yexleq ⟨את⟩ Yisrael s wawal, iṭṭef-it Yeḥonatan mmi-s n Cimeɛi, gma-s n David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "yexleq s wawal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "iṭṭef-it"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yeḥonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Cimeɛi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma-s n"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T23:04:00.989393227Z",
+  "model": "glm-5.3"
+}

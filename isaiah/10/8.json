@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Axaṭer ad yini: mačči d iɣellan-iw, meṛṛa, igeldanen ⟨ihi⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mačči...?"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iɣellan-iw"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "igeldanen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:18:26.488292538Z",
+  "model": "glm-5.3"
+}

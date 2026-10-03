@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ma ḥerben s Ceol, seg din ifassen-iw ad ten-d-rbeɣ; ma εeddin γer igenwan, seg din ad ten-id-rγeɣ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "ḥerben"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "s Ceol"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ifassen-iw"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "ad ten-d-rbeɣ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "εeddin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "γer igenwan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "ad ten-id-rγeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:23:25.191335483Z",
+  "model": "glm-5.3"
+}

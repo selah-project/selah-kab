@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ass-nni ad yuɣal d tilemsi; Ad ur t-id-ḍireq ara Eloha seg ufella; ad ur d-yeɣi fellas ara tafat.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "d tilemsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad ur ... ara"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "t-id-ḍireq"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ad ur ... ara"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ad ur d-yeɣi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fellas"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "tafat"
+    }
+  ],
+  "timestamp": "2026-10-03T02:30:57.224066990Z",
+  "model": "glm-5.3"
+}

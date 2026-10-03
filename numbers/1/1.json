@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahwe yemmeslay i Moce deg tniri n Sinay, deg uxam n tmeɛra, ass amenzu deg wayyur wis sin, deg useggas wis sin mi d-uffɣen seg tmurt n Miṣrayim, ad d-yini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg tniri"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "deg uxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n tmeɛra"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ass amenzu"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "deg wayyur"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "mi d-uffɣen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-yini"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:48.397028565Z",
+  "model": "glm-5.3"
+}

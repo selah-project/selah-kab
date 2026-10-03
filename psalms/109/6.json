@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ssens-it fellas win ibeddlen, ad yili ucennu yerbes ɣef yefus-is uyeffus.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Ssens-it"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fellas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "win ibeddlen"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "d ucennu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yerbes"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "yefus-is uyeffus"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:59.449504736Z",
+  "model": "glm-5.3"
+}

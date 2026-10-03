@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Mi ibeggen ⟨את⟩ tiremt n tedbelt n tgelda-s, akked ⟨את⟩ wazal n tebrikt n tezmert-is — aṭas n wussan, ṭman-d temrawin n wussan.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "mi ibeggen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiremt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tiremt"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "n tedbelt"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "n tgelda-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "wazal"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "wazal"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "n tebrikt"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "n tezmert-is"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ṭman-d"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "temrawin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wussan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:01:14.575834985Z",
+  "model": "glm-5.3"
+}

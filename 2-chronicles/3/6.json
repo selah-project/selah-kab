@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yessenṭel ⟨את⟩ uxxam s yemḍan iqimnen i ṣbeḥ n tallit; ḍeheb-nni d ḍeheb n Parwayim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "yessenṭel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "yemḍan"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "iqimnen"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "i ṣbeḥ n tallit"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ḍebeb-nni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍeheb"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parwayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:53.092438336Z",
+  "model": "glm-5.3"
+}

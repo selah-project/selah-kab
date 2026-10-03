@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Wid yeddan ad rẓen ɣer Miṣrayim, imi-w ur t-steqsan; ad kfen deg tezmert n Ferɛun, ad ḥerzben deg tili n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "wid yeddan"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ad rẓen ɣer"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "imi-w"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "t-steqsan"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "ad kfen"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "deg tezmert"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Ferɛun"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "ad ḥerzben"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "deg tili"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:54:20.828015635Z",
+  "model": "glm-5.3"
+}

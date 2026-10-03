@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Zerɛ-is ad yili i lebda, waɛr-is am yiṭij zdat-iw.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "Zerɛ-is"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "waɛr-is"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "am yiṭij"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "zdat-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:58.259418088Z",
+  "model": "glm-5.3"
+}

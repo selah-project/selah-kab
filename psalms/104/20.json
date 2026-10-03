@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Tessawḍed ⟨i⟩ taẓi, yuɣal d iḍ; deg-s ad kkren ⟨ddeqs⟩ akk iɣersiwen n lexla.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Tessawḍed"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "taẓi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ad kkren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "iɣersiwen"
+    },
+    {
+      "surface": "יער",
+      "gloss": "n lexla"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:52.076028280Z",
+  "model": "glm-5.3"
+}

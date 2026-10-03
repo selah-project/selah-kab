@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Ad isselḥu yisem-is deg rrwwaǧ; deg tbendayt d yilugga ad cennun i Yahwe.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ad isselḥun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "deg rrwwaǧ"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "deg tbendayt"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "d yilugga"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ad cennun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:07.853614409Z",
+  "model": "glm-5.3"
+}

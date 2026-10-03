@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Iberdan-is ṭṣefent deg yal akud, ccreɛ-ik llan s ufella, ẓẓay ɣef teẓri-s; meṛṛa iɛdawen-is, ifesseɣ-asen.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ṭṣefent"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "iberdan-is"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "s ufella"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ccreɛ-ik"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ẓẓay ɣef teẓri-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "iɛdawen-is"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ifesseɣ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "-asen (iɛdawen-is)"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:43.641133709Z",
+  "model": "glm-5.3"
+}

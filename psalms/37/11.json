@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ma d imaḥlan ad rmelten tmurt, ad ssurfen deg ttaṣ n tifrat.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ma d imaḥlan"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ad rmelten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ad ssurfen"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ttaṣ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tifrat"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:04.774006686Z",
+  "model": "glm-5.3"
+}

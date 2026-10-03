@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "⟨את⟩ tiḥuqqin-ik ad ḥerzeɣ; ur yi-ttǧǧiḍ ara akka tazwart, aṭas maḍi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiḥuqqin-ik"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tiḥuqqin-ik"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ad ḥerzeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "yi-ttǧǧiḍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "akka tazewart"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas maḍi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:31.792347009Z",
+  "model": "glm-5.3"
+}

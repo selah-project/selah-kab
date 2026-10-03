@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yeqblen Yihudiyen ⟨את⟩ wayen bdan ad sxedmen, akked ⟨את⟩ wayen i d-yura Mordeqay ɣur-sen.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Yeqblen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yihudiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen bdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "bdan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad sxedmen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "wayen i d-yura Mordeqay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "i d-yura"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeqay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣur-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:24.348039367Z",
+  "model": "glm-5.3"
+}

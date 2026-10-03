@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ad yili: am ugdud, am uqessis; am uḥeddum, am bab-is; am telakemt, am tababt-is; am win ittaɣen, am win izenẓen; am win ittakken, am win yettawin; am win yessuṭṭfen, akken win yettwaṭṭfen deg-s.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "am ugdud"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "am uqessis"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "am uḥeddum"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "am bab-is"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "am telakemt"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "am tababt-is"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "am win ittaɣen"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "am win izenẓen"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "am win ittakken"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "am win yettawin"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "am win yessuṭṭfen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "win yessuṭṭfen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:07.379738496Z",
+  "model": "glm-5.3"
+}

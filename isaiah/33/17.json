@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Agellid deg yidir-is, ad t-ẓren wallen-nnek, ad walin tamurt tin i yaggugen.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "deg yidir-is"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ad ẓren"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "wallen-nnek"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "tin i yaggugen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:29.675208737Z",
+  "model": "glm-5.3"
+}

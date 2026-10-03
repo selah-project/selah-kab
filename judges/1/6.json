@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Adoni-Bezek yennfer, ḍefren-t, ṭṭen-t, iɣeẓẓen ⟨את⟩ tiḥmerin n yifassen-is akk tseɛdiyen n iḍarren-is.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "yennfer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ḍefren"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "deffir-s"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "ṭṭen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek (t)"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "iɣeẓẓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiḥmerin d tseɛdiyen"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "tiḥmerin akk tseɛdiyen"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "n yifassen-is"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "n iḍarren-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:24.185847516Z",
+  "model": "glm-5.3"
+}

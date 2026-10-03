@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Acku irbeḥnen ad ṛuḥen, iḍenman n Yahwe am yiḍimen n wemelmaḍ ad neggzen, deg wedgen ad neggzen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "irbeḥnen"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ad ṛuḥen"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "iḍenman n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "am yiḍimen n"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "wemelmaḍ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ad neggzen"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "deg wedgen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ad neggzen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:06.582869296Z",
+  "model": "glm-5.3"
+}

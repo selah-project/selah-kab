@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Mi isla Baɛca, iḥbes ad yebnu ⟨את⟩ Rama, yezdeɣ di Tirṣa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "isla"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baɛca"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "iḥbes"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ad yebnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirṣa"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:00.224278546Z",
+  "model": "glm-5.3"
+}

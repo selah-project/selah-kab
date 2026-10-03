@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Kečč, ḥettem ⟨את⟩ warraw n Yisrael: ad k-id-wwin ɣer-ik zzit uzemmur iṣeḥḥan, iḍebben, i tafat, akken ad tili ⟨tilit⟩ n lampa i lebda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ḥettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warraw n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ad k-id-wwin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer-ik"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzit"
+    },
+    {
+      "surface": "זית",
+      "gloss": "uzemmur"
+    },
+    {
+      "surface": "זך",
+      "gloss": "iṣeḥḥan"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "iḍebben"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "i tafat"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "ad tili ⟨tilit⟩ n"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:05.777173284Z",
+  "model": "glm-5.3"
+}

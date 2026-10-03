@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yejla ⟨את⟩ akk Yerucalayim, ⟨ואת⟩ akk imḍebren, ⟨ואת⟩ akk igezdanen n tezmert — mraw imrawen d ussenfu — d akk iḥerrazen d iḥerrazen n wuzzal; ur yeqqim yiwen, alama idlen n ugdud n tmurt.",
+  "tokens": [
+    {
+      "surface": "ויגלה",
+      "gloss": "yejla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk (Yerucalayim)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk (imḍebren)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "imḍebren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk (igezdanen)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "igezdanen"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "n tezmert"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "imrawen"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "d ussenfu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "iḥerrazen"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "d iḥerrazen n wuzzal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "alama"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "idlen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:19.592666756Z",
+  "model": "glm-5.3"
+}

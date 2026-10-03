@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Cawl yuzen imazanen iwakken ad wwin ⟨את⟩ David, tnna ⟨ha⟩: ameṭṭan i d-yella.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "imazanen"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "iwakken ad wwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tnna"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ameṭṭan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-yella"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:06.940645411Z",
+  "model": "glm-5.3"
+}

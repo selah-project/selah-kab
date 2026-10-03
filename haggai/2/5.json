@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "⟨את⟩ lɛahd i ḥeddeɣ ⟨את⟩ yid-wen mi tuffɣem si Miṣrayim, d ruaḥ-iw i teqqim garawen; ur tettagadamt.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "i ḥeddeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "yid-wen ⟨את⟩"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "mi tuffɣem"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si Miṣrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "d ruaḥ-iw"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "teqqim"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "garawen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tettagadamt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:31:04.754174925Z",
+  "model": "glm-5.3"
+}

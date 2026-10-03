@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "I yigerdan n Neftali, ttawjia-nsen, s tewaculin-nsen, s yixxamen n yibabaten-nsen, s umḍan n yismawen, seg mmraw n yiseggasen d asawen, akk wid izemren ad ffɣen ɣer ṭṭraḍ;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "i yigerdan n"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ttawjia-nsen"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tewaculin-nsen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "s yixxamen n"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yibabaten-nsen"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "s umḍan n"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "yismawen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "seg mmraw n yiseggasen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk wid"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ad ffɣen"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ɣer ṭṭraḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:17.056156575Z",
+  "model": "glm-5.3"
+}

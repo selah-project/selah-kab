@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Akka i d-yenna Yahwe Ṣebaot: Wgiɣ ad iṭef yiwen ayen i xedmen Ɛamaleq i Yisrael, ayen i as-iḥekmen deg ubrid, mi d-yuli seg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "wgiɣ ad iṭef yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i xedmen Ɛamaleq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i xedmen"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Ɛamaleq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i as-iḥekmen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "mi d-yuli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:44:08.874494912Z",
+  "model": "glm-5.3"
+}

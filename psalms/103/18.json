@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "I wid yeḥerzen lɛahd-is, i wid yettxemmiren ilugan-is iwakken ad ten-igen.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "i wid yeḥerzen"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "i wid yettxemmiren"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "ilugan-is"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "iwakken ad ten-igen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:03.004990070Z",
+  "model": "glm-5.3"
+}

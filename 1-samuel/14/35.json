@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ibna Caul yiwen ⟨את⟩ iqedcen i Yahwe; d netta i d-tessawel ⟨את⟩ tazwara n lebni n yiqedcen i Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ibna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "yiqedcen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "d netta (iqedcen-nagi)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "tessawel tazwara"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "n lebni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:44:43.494826451Z",
+  "model": "glm-5.3"
+}

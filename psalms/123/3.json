@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 123,
+  "translation": "Xef fell-aɣ a Yahwe, xef fell-aɣ, axaṭer aṭas neččur seg lɛar.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "xef fell-aɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "xef fell-aɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "neččur"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "seg lɛar"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:51.345150786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Mi iwala Ferɛun belli tufa ⟨את⟩ ⟨the⟩ ttrest, iwaẓen ⟨את⟩ lebba-nnes, ur yesla ara i yid-sen, akken i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mi iwala"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tufa"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ttrest"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "iwaẓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebba-nnes"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lebba-nnes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yesla ara"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "i yid-sen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:56.247269472Z",
+  "model": "glm-5.3"
+}

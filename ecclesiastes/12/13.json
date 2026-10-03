@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Taggara n wawal: akk yettwaslen — ad tketzeṛ ⟨את⟩ Elohim, ad teḥrez ⟨את⟩ tiludna-ynes, axaṭer wagi d amdan akk.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Taggara"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "n wawal"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "yettwaslen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ad tketzeṛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiludna-ynes"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "tiludna-ynes"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ad teḥrez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "amdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:59:34.669439868Z",
+  "model": "glm-5.3"
+}

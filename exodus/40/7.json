@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad tserreḍ ⟨את⟩ lḥeṣṛa ger axxam n umlil d meṣbaḥ, ad tserreḍ deg-s aman.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ad tserreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeṣṛa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "lḥeṣṛa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlil"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "meṣbaḥ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ad tserreḍ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:13.239781477Z",
+  "model": "glm-5.3"
+}

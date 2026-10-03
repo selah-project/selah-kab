@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yewwi-d yefka ⟨את⟩ acddat ɣer lḥiṣ, yessers ⟨את⟩ iẓerban ɣef lḥiṣ, yefka ⟨את⟩ takaffart ɣef lḥiṣ, s wadda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acddat"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "acddat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "lḥiṣ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iẓerban"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "iẓerban"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "lḥiṣ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takaffart"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takaffart"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "lḥiṣ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "s wadda"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:32.383589368Z",
+  "model": "glm-5.3"
+}

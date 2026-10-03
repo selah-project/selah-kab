@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Sara tḥemmel tessel-d i Avraham awliy, deg lɛemer-is ameqqran, deg lawan-nni i d-yenna Elohim ⟨את⟩-s.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "tḥemmel"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tessel-d"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "awliy"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "deg lɛemer-is ameqqran"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "deg lawan-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-s",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:01.916560830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur taggem ara lɛahd s yisem-iw s lekdeb, ad txemmlem ⟨את⟩ isem n Elohim-k; nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "taggem ara lɛahd"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "s yisem-iw"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "s lekdeb"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ad txemmlem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem n Elohim-k"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "n Elohim-k"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "d Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:41.206918220Z",
+  "model": "glm-5.3"
+}

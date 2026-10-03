@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-yasen: Ibrani nekkini; ⟨את⟩ Yahwe, Elohim n yigenwan, gwerɣ-t, win ixleq ⟨את⟩ yilel d ⟨את⟩ tmurt tayebst.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "i\/yasen"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ibrani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n yigenwan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "gwerɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt tayebst"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tmurt tayebst"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:12.095403784Z",
+  "model": "glm-5.3"
+}

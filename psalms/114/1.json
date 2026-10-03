@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 114,
+  "translation": "Mi d-yeffeɣ Yisrael seg Miṣrayim, axxam n Yaɛqov seg ugdud n tutlayt n,tivḥirin,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Mi d-yeffeɣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam n"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg ugdud n"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "tutlayt n,tivḥirin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:15.960553996Z",
+  "model": "glm-5.3"
+}

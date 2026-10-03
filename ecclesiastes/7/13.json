@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Wali ⟨את⟩ amahil n Elohim, axaṭer anwa i izemren ad iṣeggem ⟨את⟩ ayen d-iweḥlen?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahil n Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "amahil"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "i izemren"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ad iṣeggem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen d-iweḥlen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "d-iweḥlen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:33.244003002Z",
+  "model": "glm-5.3"
+}

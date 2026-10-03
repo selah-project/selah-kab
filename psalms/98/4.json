@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "translation": "Zzewwret i Yahwe, tmurt akk: efden fell-as s umaṛḥu, ranen, zzemren.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Zzewwret"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "efden"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ranen"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "zzemren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:01.405836686Z",
+  "model": "glm-5.3"
+}

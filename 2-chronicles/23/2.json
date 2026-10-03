@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "ṭṭfen Yehuda akken umḍin, ljamaɛen ⟨את⟩ yilewiyen seg yimeḍqan-akk n Yehuda, d iqeṛṛyen n yiderman n Yisrael, ṣubben ɣer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ṭṭfen akken umḍin"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ljamaɛen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilewiyen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "yilewiyen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg…akk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "yimeḍqan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "d iqeṛṛyen"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "n yiderman"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ṣubben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:49:33.529847104Z",
+  "model": "glm-5.3"
+}

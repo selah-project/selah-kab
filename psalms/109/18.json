@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Iseffeḍ taɛnant am lebqi-is, tusa-d deg wul-is am waman, dẓi am zzit deg iɣsan-ines.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Iseffeḍ"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "taɛnant"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "am lebqi-is"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "tusa-d deg"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "am waman"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "wul-is"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "am zzit"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "iɣsan-ines"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:21.912791611Z",
+  "model": "glm-5.3"
+}

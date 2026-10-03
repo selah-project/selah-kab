@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yessfeɛj-d seg zzit n usmuḥ ɣef ixf n Aharon, yemmeslay d navi i ⟨i⟩-t iwakken ad t-iqeddec.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "yessfeɛj-d"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "seg zzit"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n usmuḥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ixf"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "yemmeslay d navi i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ i-t",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "iwakken ad t-iqeddec"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:38.229987824Z",
+  "model": "glm-5.3"
+}

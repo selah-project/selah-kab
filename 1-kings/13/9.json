@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Acku akka i yi-yeṣṣa ⟨את⟩ Yahwe deg wawal, ad yini: ur teṭṭfeḍ ara aɣrum, ur tesseṭṭaḍ ara aman, ur tuɣalḍ ara deg ubrid i deg terraḍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i yi-yeṣṣa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yi",
+      "marks": "yi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "deg wawal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "teṭṭfeḍ ara"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "tesseṭṭaḍ ara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tuɣalḍ ara"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i deg"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "terraḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:20.715694754Z",
+  "model": "glm-5.3"
+}

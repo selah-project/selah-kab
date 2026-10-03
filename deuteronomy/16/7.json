@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 16:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad t-tessuɣeḍ ad t-teččeḍ deg umkan i Yahwe Elohim-ik ad yiffer; turaḍdeg tmaraṣ, ad teqqimed ɣer iḍen-ik.",
+  "tokens": [
+    {
+      "surface": "ובשלת",
+      "gloss": "ad t-tessuɣeḍ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ad t-teččeḍ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ad yiffer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "turaḍ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tmaraṣ"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ad teqqimed"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "ɣer iḍen-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:57:24.103167492Z",
+  "model": "glm-5.3"
+}

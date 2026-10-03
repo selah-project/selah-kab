@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "D tura, fernɣ u qudsenɣ ⟨את⟩ axxam agi, iwakken ad yili yisem-iw din i lebda; allen-iw d ul-iw ad ilin din akk wussan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "d tura"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "fernɣ"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "u qudsenɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam agi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "iwakken ad yili"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "yisem-iw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "allen-iw"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "d ul-iw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wussan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:44.665087419Z",
+  "model": "glm-5.3"
+}

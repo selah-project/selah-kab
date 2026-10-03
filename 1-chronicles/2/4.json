@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tamar, tettikkiwin-is, d-lul-it-id ⟨את⟩ Pereṣ d ⟨את⟩ Zeraḥ. Meṛṛa imawlan n Yehuda semmus.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "tettikkiwin-is"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "d-lul-it-id"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pereṣ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereṣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Zeraḥ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zeraḥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Meṛṛa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "imawlan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "semmus"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:50.512663856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 113,
+  "translation": "Ad yili isem n Yahwe yettwanekkes, seg tura ar ⟨i⟩ lebda.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "yettwanekkes"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "seg tura"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:31.268355715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ur tekkist ara ⟨את⟩ ḥesed-ik seg wexxam-iw, ar lebda; ula mi iṭṭa Yahwe ⟨את⟩ iɛdawen n David, yal amdan si wudem n tmurt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "tekkist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ḥesed-ik"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wexxam-iw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ula"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "mi iṭṭa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɛdawen n David"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "iɛdawen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal amdan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "si"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudem"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:37.941611032Z",
+  "model": "glm-5.3"
+}

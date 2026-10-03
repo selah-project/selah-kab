@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Tekrest nefsi ɣer Elohim, ɣer El d amuddir. Melmi ara d-ruḥeɣ ad d-beneɣ wudmawen n Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "tekrest"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ɣer Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ɣer El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "amuddir"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ara d-ruḥeɣ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ad d-beneɣ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudmawen n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:05.683855415Z",
+  "model": "glm-5.3"
+}

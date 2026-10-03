@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Elɛazar iwli-d ⟨את⟩ Pineḥas, Pineḥas iwli-d ⟨את⟩ Abicua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elɛazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwli-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pineḥas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pineḥas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pineḥas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "iwli-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abicua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abicua"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:17.797103817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yuzen ⟨את⟩ tamgerẓuf⟨את⟩-is s ɣuṛ-s, iwakken ad iwali ma ṣfeḍen-t waman si ɣef udmawen n lɣerq.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamgerẓuf"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "tamgerẓuf"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩-is"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "iwakken ad iwali"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "ma ṣfeḍen-t"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "si ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "n lɣerq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:22.248363678Z",
+  "model": "glm-5.3"
+}

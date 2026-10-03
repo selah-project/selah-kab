@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad tettwaleɛneḍ kečči deg temdint, ad tettwaleɛneḍ kečči deg uẓar.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ad tettwaleɛneḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ad tettwaleɛneḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg uẓar"
+    }
+  ],
+  "timestamp": "2026-10-02T22:04:52.988436394Z",
+  "model": "glm-5.3"
+}

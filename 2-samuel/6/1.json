@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Tikkelt-nniḍen, David yefren ⟨את⟩ akk wid yettwafrenen deg Yisrael, tlata n tmrawin n yimdanen.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wid yettwafrenen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "wid yettwafrenen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tlata n tmrawin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:58:21.301720087Z",
+  "model": "glm-5.3"
+}

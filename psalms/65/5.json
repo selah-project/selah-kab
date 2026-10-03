@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Acḥku n win tettwafreḍ, i tessayeḍ ad d-yewveḍ ɣur-ek, ad yezdeɣ deg iḥerfan-ik; a nččuṛ s lxiṛ n wexxam-ik, ⟨d⟩ taqedcit n lhaykal-ik.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Acḥku n win"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "tettwafreḍ"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "tessayeḍ ad d-yewveḍ ɣur-ek"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "iḥerfan-ik"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "a nččuṛ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "s lxiṛ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "n wexxam-ik"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "taqedcit"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "n lhaykal-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:35.473704508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Ddet, seldet, akk wid iK-ttagaden, Elohim; ad awen-meleɣ ayen i d-yexdem i yiman-iw.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ddet"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "seldet"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ad awen-meleɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "wid ... iK-ttagaden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-yexdem"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "i yiman-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:18.185670106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "ḍebb yettxebbi yetterga, d netta i yi-d-yellan, izem deg yimukan iffren.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ḍebb"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "yettxebbi yetterga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yi-d-yellan"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "izem"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "deg yimukan iffren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:52:12.573473368Z",
+  "model": "glm-5.3"
+}

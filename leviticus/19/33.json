@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ma yzdawel ⟨אתך⟩ ger di tmurt-ikwen, ur t-tenuḍem ara ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "yzdawel"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tmurt-ikwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "t-tenuḍem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ger"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:24.752594891Z",
+  "model": "glm-5.3"
+}

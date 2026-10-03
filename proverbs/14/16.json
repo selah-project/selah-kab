@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "D amusnaw yettzuggu, yeffuɣ seg dir; ma d aboḥli ireqqeḍ, yettamen.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "D amusnaw"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yettzuggu"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "yeffuɣ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "seg dir"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "aboḥli"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "ireqqeḍ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "yettamen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:36.071347676Z",
+  "model": "glm-5.3"
+}

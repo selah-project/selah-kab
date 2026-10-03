@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Tkecmeḍ ⟨את⟩ tiggi n ugdud-ik, tefferḍ akk tucḍiwin-nsen. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "tkecmeḍ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tiggi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ugdud-ik"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "tefferḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "tucḍiwin-nsen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:33.684652189Z",
+  "model": "glm-5.3"
+}

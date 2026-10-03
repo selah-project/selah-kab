@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Deg tewqfin-nnek ad ccekkwel, ad waliyeḍ iberdan-nnek.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "Deg tewqfin-nnek"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ad ccekkwel"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ad waliyeḍ"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "iberdan-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:22.800457130Z",
+  "model": "glm-5.3"
+}

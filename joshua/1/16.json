@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Dgan i ⟨את⟩ Yehocaɛa ⟨i d-yenna⟩: Ayen akk iɣ yiɣ-ḍefren, ad t-nexdem; anida iɣ-yaḥenneyɛ, ad nnig ad yeddu.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Dgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yehocaɛa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocaɛa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Ayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "iɣ yiɣ-ḍefren"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ad t-nexdem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "anida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "iɣ-yaḥenneyɛ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ad yeddu"
+    }
+  ],
+  "timestamp": "2026-10-02T22:11:01.305697481Z",
+  "model": "glm-5.3"
+}

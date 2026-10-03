@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Moce yuzen-ten ⟨אתם⟩ seg uneẓẓu n Paɛran, s taqsiḍt n Yahwe; akken-agi meṛṛa d irgazen, d iqeṛṣen n warraw n Yisrael, nekni-agi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen-ten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "seg uneẓẓu n"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paɛran"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "פי",
+      "gloss": "taqsiḍt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "akken-agi meṛṛa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iqeṛṣen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nekni-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:31:31.881929668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Akk win ara iḍemren deg yis-is ad yuɣal d iqedcen; win ara iḍeḍḍfen seg idammen-is ɣef llebsa, anida iḍeḍḍef fell-as, ad tt-tessenvdeg deg umkan iqedcen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "iḍemren"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "deg yis-is"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ad yuɣal d iqedcen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "iḍeḍḍfen"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "seg idammen-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "llebsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "iḍeḍḍef"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "ad tessenvdeg"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:22.862807042Z",
+  "model": "glm-5.3"
+}

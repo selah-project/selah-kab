@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Terraɣem-d ⟨את⟩ yid-i, tennaɣem: igerrez udiwenni i d-teddiḍ ad yettwaxdem.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "terraɣem-d"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "yid-i"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "tennaɣem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "igerrez"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "udiwenni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-teddiḍ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "i d-teddiḍ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yettwaxdem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:46.235337736Z",
+  "model": "glm-5.3"
+}

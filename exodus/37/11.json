@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Iḥettem-t s werɣ d ilem, yerna yeṣeggem-yas azrir n werɣ ayen yeẓrin ⟨i⟩ ṭṭraf-is.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "iḥettem-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tfelwit"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "werɣ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ilem"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yeṣeggem-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "זר",
+      "gloss": "azrir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n werɣ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ayen yeẓrin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:57.020154571Z",
+  "model": "glm-5.3"
+}

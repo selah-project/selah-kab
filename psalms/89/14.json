@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ɣur-k iɣil s tezmert; ad yezdi afus-ik, ad yulyeḍ afus-ik ⟨anyeffus⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ɣur-k"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "iɣil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ad yezdi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ad yulyeḍ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "afus-ik anyeffus"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:35.019752662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "translation": "Agdud-ik i d-yusan s wudem awurman deg wass n tezmert-ik, deg yiḥerfan n teqeḍčit; seg uṭṭun n tfawt, d tal n teqeḍčit i k-d-yettunefken, tal n tmeẓrit-ik.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Agdud-ik"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "s wudem awurman"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "n tezmert-ik"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "deg yiḥerfan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "n teqeḍčit"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "seg uṭṭun"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "n tfawt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i k"
+    },
+    {
+      "surface": "טל",
+      "gloss": "tal"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "n tmeẓrit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:34.602747723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yahwe yesseǧhed ⟨את⟩ ul n Pirɛun, ur yebyi ara ad ten-yuzen.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yesseǧhed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul n Pirɛun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pirɛun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yebyi ara"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ad ten-yuzen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:13.633179523Z",
+  "model": "glm-5.3"
+}

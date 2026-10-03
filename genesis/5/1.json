@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Wagi d udlis n tlalit n Adam. Deg wass ideg yexleq Elohim ⟨את⟩ Adam, s tugna n Elohim i t-ixleq ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Wagi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "adlis"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "n tlalit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Deg wass"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "s tugna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i t-ixleq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Adam"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:53.860120785Z",
+  "model": "glm-5.3"
+}

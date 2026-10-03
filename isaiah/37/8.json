@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yerra-d Rav-Caqe, yufa ⟨את⟩ agellid n Acur yettnaɣ ɣef Libna, axaṭer yessla belli iruḥ seg Lakic.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Caqe"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agellid n Acur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid n"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yettnaɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yessla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "iruḥ"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakic"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:40.790899342Z",
+  "model": "glm-5.3"
+}

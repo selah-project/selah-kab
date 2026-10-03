@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ssuɣen ⟨את⟩ Yirmeyahu s yiwutan, ssulin-t-id ⟨אתו⟩ si tgezzurt, Yirmeyahu yeqqim deg tebert n uḥekku.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "ssuɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "s yiwutan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ssulin-t-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "tgezzurt"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "deg tebert"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "n uḥekku"
+    }
+  ],
+  "timestamp": "2026-10-03T00:34:37.647999027Z",
+  "model": "glm-5.3"
+}

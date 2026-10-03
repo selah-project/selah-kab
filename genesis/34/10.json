@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "D ⟨את⟩-neɣ zedɣet, d ⟨את⟩ wakal ad yili quddem-kwen: zedɣet, tneggit deg-s, ṭṭef-tet.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "d ⟨את⟩-neɣ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "zedɣet"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "d wakal"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "quddem-kwen"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "zedɣet"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "tneggit deg-s"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "ṭṭef-tet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:22.734351563Z",
+  "model": "glm-5.3"
+}

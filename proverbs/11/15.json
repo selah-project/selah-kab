@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad iḍeqqer lxed win yerbeɛ d taɛessast i wemdan n berra; ma d win ikreh tiqqa n tfustin, ad yili d win yettḥemmlen.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "lxed"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ad iḍeqqer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yerbeɛ d taɛessast"
+    },
+    {
+      "surface": "זר",
+      "gloss": "i wemdan n berra"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ma d win ikreh"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "tiqqa n tfustin"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "yettḥemmel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:13.423034030Z",
+  "model": "glm-5.3"
+}

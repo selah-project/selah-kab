@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad teḥmemem ⟨את⟩ agarraw, axaṭer kunyeɣ d igerrawen tellam di tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ad teḥmemem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agarraw"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "agarraw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "d igerrawen"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "tellam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:09.615715201Z",
+  "model": "glm-5.3"
+}

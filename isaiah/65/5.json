@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Wid yettinin: Qqim kan deg wemkan-ik, ur d-tqebbeḍ ara ɣur-i, axaṭer nekk ṣṣeggmeɣ-ik ⟨d⟩ iqedcen. Widagi d uezzuḍ deg yinez-inu, d timsirrit yettcebbeɛen akk ⟨n⟩ ass.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Wid yettinin"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "qreb"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "tqebbeḍ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "ṣṣeggmeɣ-ik"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "widagi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "uezzuḍ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "deg yinez-inu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "timsirrit"
+    },
+    {
+      "surface": "יקקדת",
+      "gloss": "yettcebbeɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T00:10:44.718169018Z",
+  "model": "glm-5.3"
+}

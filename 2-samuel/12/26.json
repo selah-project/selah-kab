@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yuab yenna imenɣi akked Rabbat, tamdint n warrac n Ɛamun, yerna yeṭṭef ⟨את⟩ tamdint tageldant.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "yenna imenɣi akked"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yuab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamdint tageldant"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "tageldant"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:04.549363014Z",
+  "model": "glm-5.3"
+}

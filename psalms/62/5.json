@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Kan seg tideft-is i ṣeggren ad t-inigen; ḥemmlen tirirt; s imi-nsen i tt-lallin, ma d deg ul-nsen i tt-zemren. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "seg tideft-is"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ṣeggren"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ad t-inigen"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ḥemmlen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "tirirt"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "s imi-nsen"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "tt-lallin"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ma d deg ul-nsen"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "tt-zemren"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:45.270051345Z",
+  "model": "glm-5.3"
+}

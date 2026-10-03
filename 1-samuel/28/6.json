@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Cawl issuter ɣer Yahwe, ma d Yahwe ur t-id-irar ara — la deg tiqsiḍin, la deg Urim, la deg inaviyen.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "issuter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "ויא",
+      "gloss": "ma d ... ur ... ara"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "t-id-irar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "la"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "deg tiqsiḍin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "la"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "deg Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "la"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "deg inaviyen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:52:09.663697284Z",
+  "model": "glm-5.3"
+}

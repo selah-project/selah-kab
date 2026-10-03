@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Izul-d ⟨argaz⟩ sendasen: Yusef yettuznuz d akli.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Izul-d"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sendasen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨argaz⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "d akli"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "yettuznuz"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:15.967488441Z",
+  "model": "glm-5.3"
+}

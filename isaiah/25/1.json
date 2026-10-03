@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yahwe, Elohim-iw, kečč ⟨i⟩-telliḍ; ad k-sbuluyeɣ, ad ccehhdeɣ i yisem-ik, axaṭer txedmeḍ taɛugamt: iɣmisen si tezzzit, s tumant, amen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ad k-sbuluyeɣ"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ad ccehhdeɣ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "i yisem-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "taɛugamt"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "iɣmisen"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "si tezzzit"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "s tumant"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:31.737286191Z",
+  "model": "glm-5.3"
+}

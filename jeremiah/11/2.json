@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Cliset ⟨את⟩ wawalen n lɛahd-agi, ttmeslayet-ten ɣer yirgazen n Yehuda d ɣer yimezdaɣ n Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Cliset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen n lɛahd-agi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "ttmeslayet-ten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yirgazen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yimezdaɣ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T00:17:51.282538720Z",
+  "model": "glm-5.3"
+}

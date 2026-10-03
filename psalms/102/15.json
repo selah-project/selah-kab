@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "axaṭer imerwas-ik ḥemlen ⟨את⟩ times-ines, ⟨ו⟩⟨את⟩ lɣubar-ines ad ṣeḥḥen fell-as.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ḥemlen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imerwas-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "times-ines"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "times-ines"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ו⟩⟨את⟩",
+      "marks": "lɣubar-ines"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "lɣubar-ines"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ad ṣeḥḥen fell-as"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:28.884850712Z",
+  "model": "glm-5.3"
+}

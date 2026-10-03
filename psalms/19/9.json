@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ilguten n Yahwe d imerṛa, ifarrajen ⟨i⟩ wul; talut n Yahwe d taṣaft, tefdu ⟨i⟩ tiṭin.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "ilguten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "d imerṛa"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ifarrajen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "talut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "d taṣaft"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "tefdu"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "tiṭin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:48.043703663Z",
+  "model": "glm-5.3"
+}

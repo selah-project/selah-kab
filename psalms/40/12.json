@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Kečč, a Yahwe, ur d-tḥebbes ara tiṛḥem-innek sɣur-i; ḥesed-nnek akked ṭṭerfa-nnek ad iyi-ḥerzent yal tikkelt.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "d-tḥebbes ara"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tiṛḥem-innek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sɣur-i"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-nnek"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ṭṭerfa-nnek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yal tikkelt"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ad iyi-ḥerzent"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:40.162940565Z",
+  "model": "glm-5.3"
+}

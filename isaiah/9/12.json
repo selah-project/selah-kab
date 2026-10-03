@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Agdud ur d-yuɣi ɣer win t-id-iḥekmen, ɣer Yahwe Ṣebaot ⟨את⟩ ur ssuqul.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Agdud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שב",
+      "gloss": "d-yuɣi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "win t-id-iḥekmen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Ṣebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ssuqul"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:17.247702091Z",
+  "model": "glm-5.3"
+}

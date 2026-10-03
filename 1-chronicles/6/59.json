@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Si teṭṭaft n Accer: ⟨את⟩ Macal akked ⟨את⟩ uzgaren-is, ⟨את⟩ Ɛebdon akked ⟨את⟩ uzgaren-is.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "si teṭṭaft"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Accer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Macal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Macal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "uzgaren-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uzgaren-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Ɛebdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Ɛebdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "uzgaren-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uzgaren-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:19.818096229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yettwakreḍ kečč mi ara d-tekcemeḍ, yerna yettwakreḍ kečč mi ara tffeɣeḍ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Yettwakreḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "mi ara d-tekcemeḍ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "yerna yettwakreḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "mi ara tffeɣeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:06:22.920406040Z",
+  "model": "glm-5.3"
+}

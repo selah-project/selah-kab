@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad k-iberek El Caddai ⟨את⟩, ad k-iɛejjb, ad k-isɣumer, ad tiliḍ d leǧmaɛ n yiɣlanen.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "d El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Caddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ad k-iberek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "keččin"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ad k-iɛejjb"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ad k-isɣumer"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "d leǧmaɛ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "n yiɣlanen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:23:50.161325230Z",
+  "model": "glm-5.3"
+}

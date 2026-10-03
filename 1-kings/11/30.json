@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Aḥiya yeṭṭef taɣsirt tamaynut yellan fell-as, yerza-tt d mraw sin n yiḥricen.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Aḥiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "taɣsirt"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "tamaynut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "yerza-tt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "yiḥricen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:21.015237706Z",
+  "model": "glm-5.3"
+}

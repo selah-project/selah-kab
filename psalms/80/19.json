@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Ur netturri ara ɣer deffir seg ɣeṛ-ik; ḥyineɣ, s yisem-ik ad nessiwel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "netturri ɣer deffir"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg ɣeṛ-ik"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ḥyineɣ"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "s yisem-ik"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ad nessiwel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:23.140234524Z",
+  "model": "glm-5.3"
+}

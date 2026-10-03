@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Acku ass n tekkerḍilt yella deg ul-iw, iseggwasen n wid-iw yettwaḥerren i d-yewweḍen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tekkerḍilt"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "deg ul-iw"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "iseggwasen"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "n wid-iw yettwaḥerren"
+    },
+    {
+      "surface": "באה",
+      "gloss": "i d-yewweḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:07:54.327075413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Axer Yahwe iḥettem ijerriḍen n tibburin-em, ibarek tarwa-m deg tlisa-m.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axer"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "iḥettem"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "ijerriḍen"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "n tibburin-em"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ibarek"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tarwa-m"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "deg tlisa-m"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:52.372764692Z",
+  "model": "glm-5.3"
+}

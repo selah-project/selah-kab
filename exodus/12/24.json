@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ḥeṛṛset ⟨את⟩ wawal-agi: d alug i kečč d i warraw-ik, alamma i lebda.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ḥeṛṛset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "alug"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "d i warraw-ik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alamma"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:42.465929710Z",
+  "model": "glm-5.3"
+}

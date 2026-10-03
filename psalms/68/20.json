@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Mebrouk Adonai, yal ass iɛebbi ⟨tavliwin⟩ fell-aɣ; El, d ⟨i⟩-wakken ad yizdeg uselk-nneɣ ⟨i⟩-neɣ. Sela.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Mebrouk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "iɛebbi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fell-aɣ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "uselk-nneɣ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:46.887010475Z",
+  "model": "glm-5.3"
+}

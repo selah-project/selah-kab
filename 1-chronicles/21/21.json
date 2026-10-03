@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Mi yewweḍ-d David ɣer Ɛurnan, Ɛurnan iḥettem-d tamawt, yufa ⟨את⟩ David, yeffeɣ-d seg waniri, yeknu i David, udem-is ar lqaɛa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yewweḍ-d"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ɛurnan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "iḥettem-d tamawt"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ɛurnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ-d"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "waniri"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yeknu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ar lqaɛa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:52.532007969Z",
+  "model": "glm-5.3"
+}

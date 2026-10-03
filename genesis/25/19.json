@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Wa d tuddarin n Yiṣḥaq, mmi-s n Avraham: Avraham iwlad ⟨את⟩ Yiṣḥaq.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Wa d"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "tuddarin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "n Yiṣḥaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "n Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:20:54.067276155Z",
+  "model": "glm-5.3"
+}

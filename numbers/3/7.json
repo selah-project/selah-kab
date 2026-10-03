@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad ḥerzen ⟨את⟩ tayula-s, i ⟨את⟩ tayula n wegdud akk, deg wudem n wuxxam n tmlilit, ad xedmen ⟨את⟩ axeddim n Mickan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ad ḥerzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayula-s"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "tayula-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tayula n wegdud akk"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tayula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg wudem n"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n tmlilit"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axeddim n Mickan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "axeddim n"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:59.065430709Z",
+  "model": "glm-5.3"
+}

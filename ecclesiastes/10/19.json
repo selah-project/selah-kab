@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "I ṭṭfeḥ ssumren aɣrum, tameddint tḥemmel tameddurt, ma d lfella ad yerr ⟨את⟩ yal cci.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "i ṭṭfeḥ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ssumren"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "tameddint"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "tḥemmel"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tameddurt"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ma d lfella"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yal cci"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "yal cci"
+    }
+  ],
+  "timestamp": "2026-10-03T04:41:46.836752313Z",
+  "model": "glm-5.3"
+}

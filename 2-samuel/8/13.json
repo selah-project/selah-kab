@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "David yexleq isem mi yuɣal, mi yeḍfer ⟨את⟩ Aram deg teɛsalt n temelt — tidyanin timḍin n tnaya d tamet, krad n yiḍam amgiran deg wagunen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "mi yuɣal"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "mi yeḍfer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "deg teɛsalt"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "n temelt"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tidyanin timḍin n tnaya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d tamet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "krad n yiḍam"
+    }
+  ],
+  "timestamp": "2026-10-02T22:56:34.437214320Z",
+  "model": "glm-5.3"
+}

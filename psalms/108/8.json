@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Elohim yemmeslay deg uqeddis-is; ad ruḥleɣ, ad beṭṭuɣ Cekem, ad snefqeɣ tagnit n Succut.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "deg uqeddis-is"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ad ruḥleɣ"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ad beṭṭuɣ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "d tagnit"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "n Succut"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ad snefqeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:15.984546576Z",
+  "model": "glm-5.3"
+}

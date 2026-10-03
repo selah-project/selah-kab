@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Ad rsuɣ i kečč, i Yahwe, zeḥḥ n tɣuri, yerna ad siweḍeɣ s yisem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ad rsuɣ zeḥḥ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zeḥḥ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "n tɣuri"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "yerna s yisem n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad siweḍeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:49.645815860Z",
+  "model": "glm-5.3"
+}

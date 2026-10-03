@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Tagenwant-nsen ad d-tekcem ɣer wul-nsen, tikrest-nsen ad tteḥbes, ad tṭuẓ.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Tagenwant-nsen"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ad d-tekcem"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ɣer wul-nsen"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "tikrest-nsen"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ad tteḥbes, ad tṭuẓ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:11.974795094Z",
+  "model": "glm-5.3"
+}

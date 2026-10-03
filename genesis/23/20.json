@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ihi, ⟨ucennar akked tiggert i yellan deg-s⟩ kecmen ɣer Avraham, d tamurt n tlaxert, ⟨s teḥric⟩ seg ⟨את⟩ warraw n Ḥet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kecmen ɣer"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ucennar"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "akked tiggert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ɣer Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "d tamurt n"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "tlaxert"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw n Ḥet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw n"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:13.573009002Z",
+  "model": "glm-5.3"
+}

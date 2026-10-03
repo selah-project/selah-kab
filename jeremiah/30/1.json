@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Awal i d-ikecmen ɣer Yirmeyahu, seg ⟨את⟩ Yahwe, ad yini:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Awal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-ikecmen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yeḍra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-03T00:28:16.222118984Z",
+  "model": "glm-5.3"
+}

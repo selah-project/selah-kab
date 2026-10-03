@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Acku ayet, igelliden unagen, ɛeddan akk d yiwet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ayet"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "unagen"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɛeddan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "akk d yiwet"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:19.763768075Z",
+  "model": "glm-5.3"
+}

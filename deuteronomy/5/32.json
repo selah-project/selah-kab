@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ihi, ḥerzet ad txedmem akken i ḥekkem Yahwe Elohim-nwen ⟨את⟩-kken; ur tzeggemt ara s ayeffus neɣ s azelmaḍ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ḥerzet"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad txedmem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i ḥekkem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kken",
+      "marks": "kken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "tzeggemt"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "s ayeffus"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "s azelmaḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:49.619450480Z",
+  "model": "glm-5.3"
+}

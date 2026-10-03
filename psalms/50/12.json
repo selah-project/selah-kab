@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ma yeɣli-yi uẓ, ur ak-iniɣ ara; axaṭer in-i amadal, akk d wayen deg-s.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "yeɣli-yi uẓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "iniɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "in-i"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amadal"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "akk d wayen deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:56.757779292Z",
+  "model": "glm-5.3"
+}

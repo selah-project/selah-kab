@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Deg tiṭiwin n Yahwe, lmut n imceyyɛen-is tesɛa azal.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "tesɛa azal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭiwin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "lmut"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "n imceyyɛen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:25.768424352Z",
+  "model": "glm-5.3"
+}

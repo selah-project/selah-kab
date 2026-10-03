@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D wagi ayen ara txedmeḍ ⟨את⟩-s: kraḍ n temyur n yiɛeḍḍilen teɣzi n ⟨ta⟩-tabbewt, semmusin n yiɛeḍḍilen tehri-nnes, d tlacin n yiɛeḍḍilen tattayt-nnes.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "d wagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ara txedmeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tabbewt"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temyur"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "n yiɛeḍḍilen"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tabbewt"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmusin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "n yiɛeḍḍilen"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "tehri-nnes"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "d tlacin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "n yiɛeḍḍilen"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "tattayt-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:15.887931918Z",
+  "model": "glm-5.3"
+}

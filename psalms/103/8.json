@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Yahwe d aḥnan d arḥan; yeṭṭef tayri-ynes, d ameqqran deg ḥesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "aḥnan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "d arḥan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "tayri-ynes"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:32.278875810Z",
+  "model": "glm-5.3"
+}

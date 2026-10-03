@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 7:26",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad yimeqqer yisem-ik alma d lebda, iwakken ad yenni: Yahwe Ṣebaot, Elohim ɣef Yisrael, ihi axxam n umaklay-ik David ad yeqqim d usḍeṛf ⟨i⟩ zdat-ik.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ad yimeqqer"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alma"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "d lebda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iwakken ad yenni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ihi axxam"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "n umaklay-ik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "d usḍeṛf"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "zdat-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:27.594556761Z",
+  "model": "glm-5.3"
+}

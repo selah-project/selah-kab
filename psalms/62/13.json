@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "I γer-k, a Adonai, yella ⟨iɣula⟩ l-ḥesed; axaṭer kecc i ttettfeḍ ⟨i⟩ yal argaz, akken yella igmaḍ-is.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "i γer-k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "l-ḥesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "i ttettfeḍ ⟨i⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "akken yella igmaḍ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:34.549871339Z",
+  "model": "glm-5.3"
+}

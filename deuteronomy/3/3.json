@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yahwe Elohim-nneɣ yefka-d deg yifassen-nneɣ ula ⟨את⟩ Ɛug, agellid n Baṣan, akk d ⟨את⟩ meṛṛa ugdud-is; neḥbes-t ar akken ur yeggra-yas ama d win kan i d-yeggran.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "deg yifassen-nneɣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛug"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ɛug"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "n Baṣan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "meṛṛa ugdud-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ugdud-is"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "neḥbes-t"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar akken"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ur"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "yeggra-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ama d win kan i d-yeggran"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:52.102165300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Mraw n yigerdan n Haman, mmi-s n Medata, aɛdaw n Yihuden, ḥremben-ten; ma ɣef lɣanim, ur uznen ara ⟨את⟩ afus-nnsen.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yigerdan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "n Medata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "aɛdaw"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "n Yihuden"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ḥremben-ten"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "ma ɣef lɣanim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "uznen ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-nnsen"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "afus-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:01.075765971Z",
+  "model": "glm-5.3"
+}

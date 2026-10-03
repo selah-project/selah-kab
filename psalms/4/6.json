@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Sfenet isfalen n ṣedeq, tteklet ɣef Yahwe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Sfenet"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "isfalen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "n ṣedeq"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "tteklet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:31.229595473Z",
+  "model": "glm-5.3"
+}

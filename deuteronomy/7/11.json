@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ḥrez ⟨את⟩ taludna, ⟨את⟩ ilugan akked ⟨את⟩ ccreɛ, i nekkini ak-d-lammeḍ ass-a, ad ten-txedmeḍ.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ḥrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taludna"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taludna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "ilugan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ilugan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "ccreɛ"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ak-d-lammeḍ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ad ten-txedmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:27.820574551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Tḥerzeḍ i wakli-ik David bab-i ⟨את⟩ ayen i t-tenniḍ yes; s imi-ik tenniḍ-t, s ufus-ik tceggeɛ-t, akken yella ass agi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "tḥerzeḍ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i wakli-ik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bab-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i t-tenniḍ yes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "t-tenniḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yes"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "tenniḍ-t"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "s imi-ik"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "s ufus-ik"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "tceggeɛ-t"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akken ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:17:11.593236013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Yedda-ten-id seg tmura, seg ugmuḍ d utaram, seg ugafa d yiyles.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "seg tmura"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "yedda-ten-id"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "seg ugmuḍ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "d utaram"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "seg ugafa"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "d yiyles"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:02.624412034Z",
+  "model": "glm-5.3"
+}

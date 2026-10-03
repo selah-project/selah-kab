@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Deg wasif ad tesseṭṭeḍ; maḍi, i d-yettwaḥkem i yiḥerqiyen ad k-ṣubbɣen diwa deg-sen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "seg wasif"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ad tesseṭṭeḍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iḥerqiyen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iḥerqiyen"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "i d-yettwaḥkem"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ad k-ṣubbɣen diwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:59.141798283Z",
+  "model": "glm-5.3"
+}

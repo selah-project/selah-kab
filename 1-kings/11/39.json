@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "U ad ttḥessreɣ ⟨את⟩ tarwa n David ɣef waya, maca mačči akk wussan.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ad ttḥessreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarwa n David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "maca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:57.119982394Z",
+  "model": "glm-5.3"
+}

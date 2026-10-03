@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Haran yemmut ɣdat Teraḥ baba-s, deg tmurt n tuddert-is, deg Ur n yikaldayen.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣdat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ɣdat"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "n tuddert-is"
+    },
+    {
+      "surface": "באור",
+      "gloss": "deg Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "yikaldayen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:00.134644779Z",
+  "model": "glm-5.3"
+}

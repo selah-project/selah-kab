@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Tura，bab-iw sɣiɣen-d lɛebd aẓayan ɣur-kun；nekkin，ad rnuɣ fellawen i lɛebd-nwen；bab-iw iḥekmem-awen ⟨את⟩-kun s yisɛan，nekkin s tsegrent.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "sɣiɣen-d"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ɣur-kun"
+    },
+    {
+      "surface": "על",
+      "gloss": "lɛebd"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "aẓayan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekkin"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ad rnuɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "lɛebd-nwen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "iḥekmem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kun",
+      "marks": "iḥekmem-awen"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "s yisɛan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekkin"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "s tsegrent"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:42.278901044Z",
+  "model": "glm-5.3"
+}

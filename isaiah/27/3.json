@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Nekk, Yahwe, ad tt-ḥerzeɣ; iḥriciyen ad tt-ssukseḍ; akken ur d-yers unṭi fell-as, deg yiḍ d wass ad tt-ḥerzeɣ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ad tt-ḥerzeɣ"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "iḥriciyen"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "ad tt-ssukseḍ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur d-yers"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "unṭi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "d wass"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "ad tt-ḥerzeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:49.223614392Z",
+  "model": "glm-5.3"
+}

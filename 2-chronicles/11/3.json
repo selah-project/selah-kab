@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ini i Reḥavɛam, mmi-s n Celomoh, agellid n Yeḥuda, d i Yisrael akk i yellan deg Yeḥuda d Benyamin, ad t-inin:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reḥavɛam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeḥuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yeḥuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad t-inin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:50.342523348Z",
+  "model": "glm-5.3"
+}

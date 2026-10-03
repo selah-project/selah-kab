@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 22:18",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Mačči Yahwe, Elohim-nwen, yid-wen? Mačči iferres-awen ara zdat tmurt akk? Axater iwalad-d ⟨את⟩ imezdaɣ n tmurt deg ufus-iw, tmurt tettwaṭṭef zdat Yahwe d zdat ugdud-is.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "yid-wen"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "iferres-awen ara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "awen"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "zdat tmurt akk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axater"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iwalad-d"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "deg ufus-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imezdaɣ n tmurt"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "ונכבשה",
+      "gloss": "tettwaṭṭef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "d zdat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:34:44.215231408Z",
+  "model": "glm-5.3"
+}

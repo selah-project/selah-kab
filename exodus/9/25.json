@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Iẓra meḍlen akk tamurt n Miṣrayim: ⟨את⟩ akk wayen illan deg uzenziɣ, seg wemdan arma d lmal; iẓra meḍlen ⟨את⟩ akk ɛeccb n uzenziɣ, ⟨את⟩ akk isekla n uzenziɣ yesrut-it.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "iẓra meḍlen"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "iẓra meḍlen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wayen illan deg uzenziɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg uzenziɣ"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "seg wemdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk ɛeccb n uzenziɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ɛeccb"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n uzenziɣ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "meḍlen"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "iẓra meḍlen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk isekla n uzenziɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "isekla"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n uzenziɣ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yesrut-it"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:20.548216784Z",
+  "model": "glm-5.3"
+}

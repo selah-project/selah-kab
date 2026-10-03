@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yenna Yahwe ɣer Moce, ad yenna:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:45.243361055Z",
+  "model": "glm-5.3"
+}

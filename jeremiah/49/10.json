@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Acku nekk sfaxeɣ ⟨את⟩ Ɛesav, sdaxleɣ ⟨את⟩ tteliqin-is; ur izmir ara ad yeffeɣ; yeddgel zzerɛ-is, watmaten-is d yiɣiwen-is — atan ur llan ara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "sfaxeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛesav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ɛesav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "sdaxleɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tteliqin-is"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "tteliqin-is"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "izmir ara"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "yeddgel"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zzerɛ-is"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "yiɣiwen-is"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "atan ur llan ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:37:30.585646342Z",
+  "model": "glm-5.3"
+}

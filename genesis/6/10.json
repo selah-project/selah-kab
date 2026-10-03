@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Noaḥ yessirew kraḍ n yicurten: ⟨את⟩ Cem, ⟨את⟩ Ḥam, d ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "yessirew"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "icurten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥam"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ḥam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:55.870708096Z",
+  "model": "glm-5.3"
+}

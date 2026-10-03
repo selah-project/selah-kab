@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Imal awal-is i Yaɛqov, ilugan-is d icreɛ-is i Yisrael.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "imal"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "awal-is"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "i Yaɛqov"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ilugan-is"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "d icreɛ-is"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:39.564162451Z",
+  "model": "glm-5.3"
+}

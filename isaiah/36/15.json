@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ur ittamen ara i Ḥizqiya mi akken ⟨את⟩ yenna-kwen: Adu ɣer Yahwe; ad neẓḍeɣ Yahwe, ad yisellek-aɣ; tamdint-agi ur tettunefk ara deg ufus n ugellid n Accur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ur… ara"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ittamen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yenna-kwen",
+      "marks": "kwen (tanekda)"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "i Ḥizqiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mi yenna"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ad neẓḍeɣ"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ad yisellek-aɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ur tettunefk ara"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Accur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:41.134329136Z",
+  "model": "glm-5.3"
+}

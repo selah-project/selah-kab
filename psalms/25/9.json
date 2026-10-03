@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad yesselhu imḍebbirin deg ⟨ccreɛ⟩ u ad yesselmed imḍebbiren abrid-is.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "ad yesselhu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "imḍebbirin"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "deg ccreɛ"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "u ad yesselmed"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "imḍebbirin"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "abrid-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:19.511465910Z",
+  "model": "glm-5.3"
+}

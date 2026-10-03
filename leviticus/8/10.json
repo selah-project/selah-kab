@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Moce yewwi-d ⟨את⟩ zzit n usmuḥ, yemmeḥ ⟨את⟩ Mickan akked ⟨את⟩ akk wayen akk deg-s, yeqeddec-itent.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zzit n usmuḥ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzit"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n usmuḥ"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "yemmeḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akk wayen akk deg-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "yeqeddec"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ -itent"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:38.229617216Z",
+  "model": "glm-5.3"
+}

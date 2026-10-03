@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ikerrub wis sin ⟨⟨d⟩⟩ mraw n yima: yiwet n teɣzi d yiwet n talɣa i sin yikerubim.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "n yima"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ikerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "talɣa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "yikerubim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:14:21.475104316Z",
+  "model": "glm-5.3"
+}

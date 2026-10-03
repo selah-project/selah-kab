@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Idegges fell-as ⟨את⟩ iẓẓi n uɣerfiw, idegges deg iẓẓi n uɣerfiw ⟨את⟩ Urim d ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "idegges"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iẓẓi n uɣerfiw"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "iẓẓi n uɣerfiw"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "idegges"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "iẓẓi n uɣerfiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:29.422749188Z",
+  "model": "glm-5.3"
+}

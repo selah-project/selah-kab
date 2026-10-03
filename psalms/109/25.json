@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Deg umur-nni, nekwni ḥerreṛ-ten ɣef wayen ruḥen: mi ẓran-iyi, ad jbden iqarruyen nsen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nekwni"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ḥerreṛ-ten ɣef"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "wayen ruḥen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɣef wayen ruḥen"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mi ẓran-iyi"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ad jbden"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "iqarruyen nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:54.239614762Z",
+  "model": "glm-5.3"
+}

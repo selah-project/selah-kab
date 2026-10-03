@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad teqqleḍ ⟨את⟩ zeft n udehhi, ad tsenfdeḍ-t ɣef ixef-is, ad t-adehneḍ ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad teqqleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zeft n udehhi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zeft"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n udehhi"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ad tsenfdeḍ-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ixef-is"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ad t-adehneḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "t- (Aharon)"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:54.043345710Z",
+  "model": "glm-5.3"
+}

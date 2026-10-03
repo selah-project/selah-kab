@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Yettak i iylanen aɣrum-nnsen, i warrac n iɣerbilen mi ara ṭṭfen-iḍ aggur.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Yettak"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "i iylanen"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "aɣrum-nnsen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "n iɣerbilen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "יקראאו",
+      "gloss": "ṭṭfen-iḍ aggur"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:10.047603068Z",
+  "model": "glm-5.3"
+}

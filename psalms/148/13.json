@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Ad snemmren ⟨את⟩ Isem n Yahwe, acku Isem-is waḥd-is yuli ɣer s ufella; tamdeft-is tezzu ɣef wakal d igenwan.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ad snemmren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isem n Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "yuli ɣer s ufella"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Isem-is"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "waḥd-is"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "tamdeft-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "d igenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:56.823824306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Ad ttazelɣeɣ zdat Yahwe, deg tmurt n wid yuddren.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "ad ttazelɣeɣ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "n wid yuddren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:51.100151962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 141,
+  "translation": "Ur ttawi ul-iw ɣer wawal n dir, iwakken ad xedmeɣ tixedas deg taḥrist, akked ⟨את⟩ yirgan yettxedimen timsalitin; nekk ur necc seg lqut-nsen ifazen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ttawi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ɣer wawal"
+    },
+    {
+      "surface": "רע",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "iwakken ad xedmeɣ"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "tixedas"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "deg taḥrist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yirgan yettxedimen timsalitin"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "yirgan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "yettxedimen"
+    },
+    {
+      "surface": "און",
+      "gloss": "timsalitin"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "necc"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "seg lqut-nsen ifazen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:20.791796353Z",
+  "model": "glm-5.3"
+}

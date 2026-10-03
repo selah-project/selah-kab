@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad ten-twaḍeḍ ⟨את⟩ seg yifassen-nsen, ad tent-teḥremḍ ɣef lmeṣbaḥ, ɣef lqurban iḥemmen, i ṛṛayḥa tamellalt sdat Yahwe; d tikci s tmes ⟨hiyya⟩ i Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad ten-twaḍeḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tikciwin-agi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "seg yifassen-nsen"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ad tent-teḥremḍ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeṣbaḥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lqurban iḥemmen"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "i ṛṛayḥa"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "tamellalt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "d tikci s tmes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hiyya⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:54:34.241723102Z",
+  "model": "glm-5.3"
+}

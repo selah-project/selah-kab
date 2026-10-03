@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Iwakken ad sselɣeḍ imesli n tenemmirt, ad cchuneg tineẓrufin-ik akk.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ad sselɣeḍ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "imesli"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tenemmirt"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "ad cchuneg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tineẓrufin-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:10.706677441Z",
+  "model": "glm-5.3"
+}

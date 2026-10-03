@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Tkecmt, d akken-agi, at-ttefra n yizmiran, a tarwa n tuɣalin, tarwa n temseɣrit, tettseɣrit.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "d akken-agi"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "tkecmt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "d"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at-ttefra"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "n yizmiran"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "n tuɣalin"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "tettseɣrit"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:46.701625534Z",
+  "model": "glm-5.3"
+}

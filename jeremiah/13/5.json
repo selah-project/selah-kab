@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Teddiɣ, ttuɣ-t deg Prat, akken i-sellseɣ Yahwe ⟨את⟩ iyi.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Teddiɣ"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ttuɣ-t"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "deg Prat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i-sellseɣ \/ yefka-d lamer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ iyi",
+      "marks": "Yi (Moce)"
+    }
+  ],
+  "timestamp": "2026-10-03T00:19:16.280012275Z",
+  "model": "glm-5.3"
+}

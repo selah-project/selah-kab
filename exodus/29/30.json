@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Sebɛa n wussan ad tt-iles acohen i yettazal deg umkan-is, seg warraw-is, win ikecmnen ɣer taḥemt n temlilit iwakken ad iqdim deg wemkan iqedsan.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Sebɛa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "ad tt-iles"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "acohen"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "seg warraw-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ikecmnen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taḥemt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "temlilit"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "iwakken ad iqdim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg wemkan iqedsan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:56.702878067Z",
+  "model": "glm-5.3"
+}

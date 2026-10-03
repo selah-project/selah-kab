@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Nekk, wali, ad qsseɣ ⟨את⟩ ul n Miṣrayim, ad ḍefren ṭṭaf-nsen; ad ttɛimeɣ deg Pɛaṛu d lɛesker-is akk, deg ikerdan-is deg yisurar-is.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "wali"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ad qsseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ad ḍefren"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ṭṭaf-nsen"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ad ttɛimeɣ"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "deg Pɛaṛu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "d lɛesker-is akk"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "lɛesker-is"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "deg ikerdan-is"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "deg yisurar-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:37.404915292Z",
+  "model": "glm-5.3"
+}

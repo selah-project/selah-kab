@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Wid yugaren ḥerben i yi-d iɣbula, ayen ur ntelli ara d Tora-k.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ḥerben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yi-d"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "Wid yugaren"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "iɣbula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "d Tora-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:58.504641556Z",
+  "model": "glm-5.3"
+}

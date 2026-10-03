@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Err nnefs n umalag-ik ad t-tfreḥ, axaṭer ɣef kečč, a Adonai, nnefs-iw la tt-sulayeɣ.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Err… ad t-tfreḥ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nnefs"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "n umalag-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣef kečč"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "la tt-sulayeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:00.489751460Z",
+  "model": "glm-5.3"
+}

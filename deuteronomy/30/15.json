@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Wali! Nek ǧǧan d wudem-ik ass-a: ⟨את⟩ tameddurt akked ⟨את⟩ lxiṛ, ⟨את⟩ tamettant akked ⟨את⟩ lexṣara.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nek ǧǧan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "d wudem-ik"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameddurt"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tameddurt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "lxiṛ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "lxiṛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tamettant"
+    },
+    {
+      "surface": "המות",
+      "gloss": "tamettant"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "lexṣara"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "lexṣara"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:18.894324274Z",
+  "model": "glm-5.3"
+}

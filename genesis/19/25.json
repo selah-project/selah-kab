@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yuzdig ⟨את⟩ tiɣremt-agi, d ⟨את⟩ akk taẓeggagt, d ⟨את⟩ akk imezdaɣ n tiɣremt, d ccal n tmurt.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "yuzdig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣremt-agi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tiɣremt-agi"
+    },
+    {
+      "surface": "האל",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk taẓeggagt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "taẓeggagt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk imezdaɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "n tiɣremt"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ccal"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:15:48.218330855Z",
+  "model": "glm-5.3"
+}

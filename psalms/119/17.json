@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Γemmel i umakhiw-inek, iwakken ad iddedeg, ad ḥerzeγ awal-inek.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Γemmel"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umakhiw-inek"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ad iddedeg"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ad ḥerzeγ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "awal-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:46.517534644Z",
+  "model": "glm-5.3"
+}

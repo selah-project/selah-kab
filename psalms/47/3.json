@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Axatṛa Yahwe, d ⟨Aɛlayan⟩, d win ilhan ad yili yerẓen; agellid ameqqran ɣef ⟨tmurt⟩ meṛṛa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axatṛa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Aɛlayan"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "win ilhan ad yili yerẓen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:46.964078871Z",
+  "model": "glm-5.3"
+}

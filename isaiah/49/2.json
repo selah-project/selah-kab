@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 49:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Yerra awal-iw am teɣsert iẓeḍlen, deg tili n ufus-is i-yi-iffir; yerra-yi am taṭṭit izeḍlen, deg tnaxt-is i-yi-isḥelmen.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "awal-iw"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "am teɣsert"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "iẓeḍlen"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "deg tili"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "n ufus-is"
+    },
+    {
+      "surface": "החביאני",
+      "gloss": "i-yi-iffir"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "yerra-yi"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "am taṭṭit"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "izeḍlen"
+    },
+    {
+      "surface": "באשפתו",
+      "gloss": "deg tnaxt-is"
+    },
+    {
+      "surface": "הסתירני",
+      "gloss": "i-yi-isḥelmen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:59.953660078Z",
+  "model": "glm-5.3"
+}

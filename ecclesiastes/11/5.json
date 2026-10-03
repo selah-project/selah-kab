@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Akken ur tessineḍ ara acu d abrid n ruaḥ, am iɣsan deg taεeṭṭaft n ⟨i⟩ taččurt, akka ur tessineḍ ara ⟨את⟩ lxeḍma n Elohim, i d-yexdem ⟨את⟩ kulci.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ur tessineḍ ara"
+    },
+    {
+      "surface": "יודע",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "n ruaḥ"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "am iɣsan"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "deg taεeṭṭaft"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "n taččurt"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tessineḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lxeḍma n Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lxeḍma"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulci"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kulci"
+    }
+  ],
+  "timestamp": "2026-10-03T04:41:17.099895830Z",
+  "model": "glm-5.3"
+}

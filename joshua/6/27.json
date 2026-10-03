@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yahwe yella d ⟨את⟩ Yeheuccuɛ, isem-is yessiweḍ ɣer tmurt akk.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yeheuccuɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yeheuccuɛ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yessiweḍ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt akk"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:00.051797691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad ḥedmeγ s teẓẓi d lḥeqqa ppaṛ ⟨את⟩ yegdachen wayen ur meslayen.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ad ḥedmeγ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "s teẓẓi"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "d lḥeqqa"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ppaṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yegdachen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegdachen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "meslayen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:28.221199101Z",
+  "model": "glm-5.3"
+}

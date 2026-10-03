@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yehocafat inna i ugellid n Yisrael: Nadi, ma d nekk, ass-a, ⟨את⟩ awal n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Nadi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma d nekk"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal n Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T03:46:32.827562089Z",
+  "model": "glm-5.3"
+}

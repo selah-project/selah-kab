@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Neddren ad tselkem i Yahwe, Elohim-nwen, akk wid i t-yezzin; ad d-yawin tiɛemmert i Win yettwagwaden.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Neddren"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ad tselkem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "wid i t-yezzin"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ad d-yawin"
+    },
+    {
+      "surface": "שי",
+      "gloss": "tiɛemmert"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "i Win yettwagwaden"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:15.701023096Z",
+  "model": "glm-5.3"
+}

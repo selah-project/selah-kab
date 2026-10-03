@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Nadit ⟨את⟩ Yahwe, kunwi ad ppedim; akken ur d-yefri ara am times deg uxxam n Yusef, ad t-yeṭṭef, ulac win ara t-issexsi deg Bet-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Nadit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ad ppedim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur…ara"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ad d-yefri"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "am times"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "n Yusef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ad t-yeṭṭef"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "win ara t-issexsi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "deg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    }
+  ],
+  "timestamp": "2026-10-03T01:22:12.396233130Z",
+  "model": "glm-5.3"
+}

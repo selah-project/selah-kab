@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Fɛarun yessawel i Moce, yenna: Ûrent, ad txeddem ⟨את⟩ Yahwe; ala tilawen-nwen d leɣyul-nwen ad qqimen; ula d arrac-wen ad ddun yid-wen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fɛarun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ûrent"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ad txeddem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ala"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "tilawen-nwen"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "d leɣyul-nwen"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ad qqimen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "arrac-wen"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "yid-wen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:51.983332059Z",
+  "model": "glm-5.3"
+}

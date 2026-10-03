@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Tettwaḥsab-as d ṣedeq, seg yiwen n wat gensa ɣer wayeḍ, ɣer lebda.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "tettwaḥsab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "d ṣedeq"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "seg yiwen n wat gensa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ɣer wayeḍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:05.871390268Z",
+  "model": "glm-5.3"
+}

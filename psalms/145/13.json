@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Tagelda-ik d tagelda n yiseggasen maṛṛa, d tagelda n ⟨laz⟩ akka ara yelli, taselholding-ik inum-s ɣef yal wes-selmed d yal wes-selmed — mačči d tagelda kan: tagelda-ik d tagelda n ⟨⟨laz⟩⟩ akk iɛeggalen, tummant-ik tessaweḍ ɣer yal tagmart d tagmart.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "tagelda-ik"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "d tagelda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "n yiseggasen maṛṛa"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "iɛeggalen akk"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "d taselholding-ik inum-s"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ɣef yal"
+    },
+    {
+      "surface": "דור",
+      "gloss": "tagmart"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "d tagmart"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:12.708400501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Azen tafat-ik d lmizyan-ik; nutni ad yi-d-mmelḥen, ad yi-d-walin ɣer wedrar-ik iqedcen, ɣer yimeckanen-ik.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Azen"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "tafat-ik"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "d lmizyan-ik"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ad yi-d-mmelḥen"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ad yi-d-walin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar-ik"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "yimeckanen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:01.082290335Z",
+  "model": "glm-5.3"
+}

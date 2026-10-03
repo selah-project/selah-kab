@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yebrekk-iten Elohim, ⟨את⟩ Nuen akked ⟨את⟩ warraw-is, yenna-yas-ten: eyyet, cketet, ay-ṭṭef ⟨את⟩ tamurt.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "yebrekk-iten"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nuen"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas-ten"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yas-ten"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "eyyet"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "cketet"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ay-ṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:45.815921785Z",
+  "model": "glm-5.3"
+}

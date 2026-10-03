@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yenna Yahwe ɣer Satan: Ha-t-a deg ufus-ik; maca ⟨את⟩ nefs-is ḥrez.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Ha-t-a"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-ik"
+    },
+    {
+      "surface": "אך",
+      "gloss": "maca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefs-is"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefs-is"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ḥrez"
+    }
+  ],
+  "timestamp": "2026-10-03T02:31:35.010262280Z",
+  "model": "glm-5.3"
+}

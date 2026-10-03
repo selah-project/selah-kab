@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Terraɣ-aɣ ar deffir seg uεeddan, wid yi-nekkerhen ṭṭfen lxir i yiman-nsen.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Terraɣ-aɣ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ar deffir"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "צר",
+      "gloss": "uεeddan"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "wid yi-nekkerhen"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "ṭṭfen lxir"
+    },
+    {
+      "surface": "למו",
+      "gloss": "i yiman-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:34.071639415Z",
+  "model": "glm-5.3"
+}

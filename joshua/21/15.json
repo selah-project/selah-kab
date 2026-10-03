@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Akk d ⟨את⟩ Ḥolon akk d migraṣ-is, akken d ⟨את⟩ Debir akk d migraṣ-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "Ḥolon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Ḥolon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "migraṣ-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraṣ-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "migraṣ-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraṣ-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:41.627089871Z",
+  "model": "glm-5.3"
+}

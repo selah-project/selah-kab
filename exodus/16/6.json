@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yenna Moce d Aharon i meṛṛa at Yisrael: deg tmeddit ad teẓrem dakken d Yahwe i d-yessuffɣen ⟨את⟩ kunwi seg tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "deg tmeddit"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ad teẓrem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dakken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "i d-yessuffɣen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:08.919803154Z",
+  "model": "glm-5.3"
+}

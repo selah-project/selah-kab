@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 32:41",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ad ceḥleɣ fell-asen iwakken ad xedmeɣ-asen lxir, ad ten-ẓeɣ deg tmurt-agi s lḥeqq, akk s wul-iw d akk s nnefs-iw.",
+  "tokens": [
+    {
+      "surface": "וששתי",
+      "gloss": "ad ceḥleɣ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "להטיב",
+      "gloss": "iwakken ad xedmeɣ lxir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "lxir"
+    },
+    {
+      "surface": "ונטעתים",
+      "gloss": "ad ten-ẓeɣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "s lḥeqq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk s"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wul-iw"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "d akk s"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T00:31:59.028125861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Taɛsert ad t-tɛesreḍ ⟨את⟩ akk tagult n zarriɛt-ik, ay d-ikkussed wakal, aseggwas s useggwas.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "taɛsert"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ad t-tɛesreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tagult n zarriɛt-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "tagult"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "n zarriɛt-ik"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ay d-ikkussed"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aseggwas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "s useggwas"
+    }
+  ],
+  "timestamp": "2026-10-02T21:56:52.496865883Z",
+  "model": "glm-5.3"
+}

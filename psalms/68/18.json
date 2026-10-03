@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Iger n Elohim d timillin, d yiberdan n usnunu; Adonai yella gar-asen, am deg Sina, deg tqedcit.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "Iger"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "d timillin"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "d yiberdan"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "n usnunu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "deg Sina"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg tqedcit"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:07.805095712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "D ⟨את⟩ yiwen uzimer ad teṭṭfeḍ, ad ssakeḍ Aharon d warraw-is ⟨את⟩ ifassen-nsen ɣef yixef n uzimer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yiwen uzimer"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "uzimer"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ad ssakeḍ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "d warraw-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ifessen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "yixef"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "n uzimer"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:44.779743448Z",
+  "model": "glm-5.3"
+}

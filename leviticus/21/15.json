@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ad ur iḥerbes ara zerɛ-is deg ugdud-is, axaṭer nekkini d Yahwe, win t-iqedcsen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ad ur ... ara"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "iḥerbes"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zerɛ-is"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "deg ugdud-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "win t-iqedcsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:25.414718973Z",
+  "model": "glm-5.3"
+}

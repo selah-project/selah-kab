@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Acku Elohim ⟨i⟩ iḥekmen: wagi ad t-isider, wagi daɣen ad t-isali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "iḥekmen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ad t-isider"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "wagi daɣen"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ad t-isali"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:19.579116113Z",
+  "model": "glm-5.3"
+}

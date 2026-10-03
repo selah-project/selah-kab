@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Ur kecmeɣ ara ɣer texxamt n uxxam-iw, ur ɛliɣ ara ɣef usenkan-iw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ur…ara"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "kecmeɣ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ɣer texxamt"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "n uxxam-iw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ur…ara"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ɛliɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "usenkan"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:11.117784374Z",
+  "model": "glm-5.3"
+}

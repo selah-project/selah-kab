@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad εumzeɣ ⟨את⟩ tezmert-nwen, ad sdukreγ ⟨את⟩ igenwan-nwen am uzzal, akked ⟨את⟩ tmurt-nwen am nnexxaṣ.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "ad εumzeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tezmert-nwen"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "nwen"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad sdukreγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igenwan-nwen"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "igenwan-nwen"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "am uzzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tmurt-nwen"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tmurt-nwen"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "am nnexxaṣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:54.858853100Z",
+  "model": "glm-5.3"
+}

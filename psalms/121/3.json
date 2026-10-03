@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Ur as-yettak ara ad tlili aḍar-im; ur it-isekleḍ ara Win i k-yeṭṭfen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "as-yettak ara"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ad tlili"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "aḍar-im"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "it-isekleḍ ara"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "Win i k-yeṭṭfen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:24.574178029Z",
+  "model": "glm-5.3"
+}

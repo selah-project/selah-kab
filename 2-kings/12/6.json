@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad s-ḥeṛmen yiqedcen, yal yiwen ⟨את⟩ win i t-ittunefken; nutenti ad ṣeggmen ⟨את⟩ teccḍa n wexxam, anda ma tella teccḍa.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "Ad s-ḥeṛmen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "s-asen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "yiqedcen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "win i t-ittunefken"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "win i t-ittunefken"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nutenti"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ad ṣeggmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teccḍa n wexxam"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "teccḍa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "anda ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tella"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "teccḍa"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:09.393460122Z",
+  "model": "glm-5.3"
+}

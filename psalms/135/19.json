@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "A yiselwet n Yisrael, baraket ⟨את⟩ Yahwe; a yiselwet n Aharon, baraket ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "A yiselwet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "baraket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a yiselwet"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "baraket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:36.663932281Z",
+  "model": "glm-5.3"
+}

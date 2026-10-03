@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tura, ad sfendegh ⟨את⟩ tiṭ n tegdiṭ-is i tiṭṭawen n yimahaben-is; ulac argaz ara tt-id-yesfekken seg ufus-inu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ad sfendegh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiṭ n tegdiṭ-is"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "tiṭ n tegdiṭ-is"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "i tiṭṭawen"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "yimahaben-is"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ulac argaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "yesfekken"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "seg ufus-inu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:29.521900284Z",
+  "model": "glm-5.3"
+}

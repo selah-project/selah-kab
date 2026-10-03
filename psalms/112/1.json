@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Sbeyyeḥ i Yah! Talwit i wemdan igedlen ⟨את⟩ Yahwe, win iḥemmlen lawan-is ⟨s tezmert⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Sbeyyeḥ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Talwit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdum→amdan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "igedlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "lawan-is"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iḥemmlen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s tezmert"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:41.850661021Z",
+  "model": "glm-5.3"
+}

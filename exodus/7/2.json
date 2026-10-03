@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Kečč, ad timmesleḍ ⟨את⟩ akk ayen i k-id-ṣṣegγeγ, ma d Aharon gma-k ad yemmeslay ɣer Parɛo, iwakken ad yuzen ⟨את⟩ at Yisrael seg tmurt-is.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ad timmesleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "k-id-ṣṣegγeγ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ma d Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ad yemmeslay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parɛo"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ad yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "at Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "seg tmurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:05.833616666Z",
+  "model": "glm-5.3"
+}

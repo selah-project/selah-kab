@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad wellehɣ ⟨את⟩ Miṣrayim s ufus n yibabaten iẓeḍlen; agellid athren ad yesselḥu fellsen — i d-yennan Adonai, Yahwe Ṣebaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Ad wellehɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "n yibabaten"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "iẓeḍlen"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "עז",
+      "gloss": "athren"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ad yesselḥu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fellsen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:05.977748386Z",
+  "model": "glm-5.3"
+}

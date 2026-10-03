@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Elohim izugga igujilen deg wexxam, yessuffɣa-d izerfan s lferḥ, maca wid yerwan zedɣen deg wakal iqerɛen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "izugga"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "igujilen"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "yessuffɣa-d"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "izerfan"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "s lferḥ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "maca"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "wid yerwan"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "wakal iqerɛen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:04.648139714Z",
+  "model": "glm-5.3"
+}

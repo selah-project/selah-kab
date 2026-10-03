@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad yili deg wass-nni, ad rẓeg ⟨את⟩ tigezza n Yisrael deg teqbalt n Yizreɛel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ad rẓeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigezza"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tigezza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "deg teqbalt"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreɛel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:44.845937574Z",
+  "model": "glm-5.3"
+}

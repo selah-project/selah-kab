@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Ha-t-an, ṣrefeɣ-k, maca ur k-ṣrefeɣ ara s lfeḍḍa; steɛmreɣ-k deg tnaxxamt n tgudi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ha-t-an"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ṣrefeɣ-k"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s lfeḍḍa"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "steɛmreɣ-k"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "deg tnaxxamt"
+    },
+    {
+      "surface": "עני",
+      "gloss": "n tgudi"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:57.226413915Z",
+  "model": "glm-5.3"
+}

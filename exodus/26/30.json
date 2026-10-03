@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad telḥeḍ ⟨את⟩ Mickan akken i tella talɣa-nnes, i akken t twalid deg udrar.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "ad telḥeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "akken i tella talɣa-nnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i akken"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "t twalid"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:47.286418666Z",
+  "model": "glm-5.3"
+}

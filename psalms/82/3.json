@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 82,
+  "translation": "Eḥekmet i weḥmaj d ugugil; win yecban d lqelleḥ, ṣedeq-itent.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Eḥekmet"
+    },
+    {
+      "surface": "דל",
+      "gloss": "i weḥmaj"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "d ugugil"
+    },
+    {
+      "surface": "עני",
+      "gloss": "win yecban"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "d lqelleḥ"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ṣedeq-itent"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:35.533011536Z",
+  "model": "glm-5.3"
+}

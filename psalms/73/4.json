@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Acku ulac tiseḥraw deg lmut-nsen, d tazmert-nsen tewweḍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "tiseḥraw"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "deg lmut-nsen"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "tewweḍ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "d tazmert-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.727606450Z",
+  "model": "glm-5.3"
+}

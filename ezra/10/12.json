@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Jebbent tagmat akk yerna nnan s yiwet n taɣect tameqqrant: Akken i t-id-nniḍ deg-neɣ, nekni ad t-nexdem.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "jebbent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "tagmat"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "i t-id-nniḍ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "deg-neɣ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad t-nexdem"
+    }
+  ],
+  "timestamp": "2026-10-03T03:16:02.810486865Z",
+  "model": "glm-5.3"
+}

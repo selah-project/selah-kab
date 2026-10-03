@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Kreɣ tagrumma n wid irẓen, akked wid n tucḍa ur qqimeɣ ara.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Kreɣ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "tagrumma"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wid irẓen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n tucḍa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "qqimeɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:10.706146326Z",
+  "model": "glm-5.3"
+}

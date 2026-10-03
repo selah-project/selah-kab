@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Deg wedfir, tewwid-d yiwet n yelli, tesemma ⟨את⟩ isem-is Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "deg wedfir"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tewwid-d"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "tesemma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-10-02T20:23:08.652933455Z",
+  "model": "glm-5.3"
+}

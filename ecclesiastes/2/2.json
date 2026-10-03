@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "γef uwekkuk nniɣ: d asebγes; γer tmuγli-nni n lεeğna: d acu i d-yexdem wa?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "γef uwekkuk"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nniɣ"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "d asebγes"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "γer lεeğna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "d acu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-yexdem"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:18.672449441Z",
+  "model": "glm-5.3"
+}

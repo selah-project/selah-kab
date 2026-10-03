@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Mizmor, izli i wass n Cabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "izli"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "i wass n"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabbat"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:07.281152654Z",
+  "model": "glm-5.3"
+}

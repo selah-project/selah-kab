@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Maca ma nnan «Yahwe yettidir», s tideet s ucḍeḥ i ḥellfen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "maca ma"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yettidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "s tideet"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "s ucḍeḥ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ḥellfen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:15:12.305718256Z",
+  "model": "glm-5.3"
+}

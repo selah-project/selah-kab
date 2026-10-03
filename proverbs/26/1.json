@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Am wedfel deg unebdu, am wigeffu deg timsirt, akka azref ur yelhi ara i uḥmum.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "am wedfel"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "deg unebdu"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "am wigeffu"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "deg timsirt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yelhi"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "i uḥmum"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "azref"
+    }
+  ],
+  "timestamp": "2026-10-03T02:28:21.853048030Z",
+  "model": "glm-5.3"
+}

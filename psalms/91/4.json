@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "S ibernilen-is ad k-yettḥebb; ddaw wawfagen-is ad ttekfu; taɣenbaṭ d usendyaq d tumant-is.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "S ibernilen-is"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ad k-yettḥebb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "wawfagen-is"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ad ttekfu"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "taɣenbaṭ"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "d usendyaq"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "tumant-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:42.903228560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Win yeddan ⟨את⟩ yimeqqranen ad yuɣal d ameqqran, ma d win iddan akk d yisekḥlen ad yexṣer.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "win yeddan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimeqqranen"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yimeqqranen"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ad yuɣal d ameqqran"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ma d win iddan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "akk d yisekḥlen"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ad yexṣer"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:00.997690870Z",
+  "model": "glm-5.3"
+}

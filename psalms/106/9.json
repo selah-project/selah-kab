@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Yeggwiṛ deg Yam Suf, inyir waman-is, yerna ten-id-yuzen di teɣrin timeqqranin, am deg uneẓruf.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "yeggwiṛ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "deg Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "inyir waman-is"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "ten-id-yuzen"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "di teɣrin timeqqranin"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "am deg uneẓruf"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:28.222935362Z",
+  "model": "glm-5.3"
+}

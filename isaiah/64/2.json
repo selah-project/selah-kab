@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Mi txedmed leḥwayc iduchen ur akk nettṛaǧi ara, terraj-d, si ẓdat-ik idurar fḍen.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "mi txedmed"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "leḥwayc iduchen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "nettṛaǧi ara"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "terraj-d"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "si ẓdat-ik"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "fḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:23:39.384427578Z",
+  "model": "glm-5.3"
+}

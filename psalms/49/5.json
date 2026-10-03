@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ad snat amasfel-iw ɣer tmacahut; ad ldiɣ tiḥida-iw s wakinur.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Ad snat"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ɣer tmacahut"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "amasfel-iw"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ad ldiɣ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "s wakinur"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "tiḥida-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:02.111430392Z",
+  "model": "glm-5.3"
+}

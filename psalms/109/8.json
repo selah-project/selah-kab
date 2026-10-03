@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ad qels wussan-is, wayeḍ ad yewṭṭef tamhalt-is.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ad ilin"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "wussan-is"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "drus"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "tamhalt-is"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad yewṭṭef"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:59.449844192Z",
+  "model": "glm-5.3"
+}

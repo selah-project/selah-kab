@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ad teṭṭfeḍ iṣumen, ad txedmeḍ ⟨את⟩ snat akk d mraw (n yiẓerman); sin n yiɛomranen ad yili deg yiwen n uẓrum.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "iṣumen"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "snat akk d mraw n yiẓerman"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "snat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "yiẓerman"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "yiɛomranen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "uẓrum"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:54.618091355Z",
+  "model": "glm-5.3"
+}

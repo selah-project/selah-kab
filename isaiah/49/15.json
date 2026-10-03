@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Is tzeggart tamṭut aneḥḥir-is, ur tesɛi ara teṛṛḥma ɣef mmi-s n tgeṭṭumt-is? Ula d nutenti zzeggrant, ma d nekk ur kkigh ara ⟨keččini⟩.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "is tzeggart"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tamṭut"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "aneḥḥir-is"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ur tesɛi ara teṛṛḥma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "n tgeṭṭumt-is"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nutenti"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "zzeggrant"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ma d nekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "kkigh"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:28.137290818Z",
+  "model": "glm-5.3"
+}

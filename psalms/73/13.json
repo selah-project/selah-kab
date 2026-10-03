@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "S tidet d abeḥri, ssfeḍeɣ lebber-iw, ssenteɣ s usidef ifassen-iw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "S tidet"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "d abeḥri"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ssfeḍeɣ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "lebber-iw"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ssenteɣ"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "s usidef"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ifassen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:26.082094028Z",
+  "model": "glm-5.3"
+}

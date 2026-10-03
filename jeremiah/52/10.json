@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Yizeny ugellid n Babel ⟨את⟩ arraw n Ṣideqyahu deg zdat wallen-is; ula ⟨את⟩ akk inedbalen n Yehuda yizeny deg Ribla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "yizeny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw n Ṣideqyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "n Ṣideqyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "deg zdat wallen-is"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk inedbalen n Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inedbalen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "yizeny"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "deg Ribla"
+    }
+  ],
+  "timestamp": "2026-10-03T00:40:34.789933492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad ikeccem Aharon d warraw-is mi ara ad yuɣal leɛessker deg usafar, ad d-glizin ⟨את⟩ ccetṛa n tesraḥt, ad s-ḥebben yis-s ⟨את⟩ sdat n cetki.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ad ikeccem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "d warraw-is"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "mi ara ad yuɣal deg usafar"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "leɛessker"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "ad d-glizin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ccetṛa n tesraḥt"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ccetṛa"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "n tesraḥt"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ad s-ḥebben"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yis-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sdat n cetki"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "n cetki"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:36.985289932Z",
+  "model": "glm-5.3"
+}

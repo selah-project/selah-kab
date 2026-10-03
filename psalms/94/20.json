@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Taggulli ma yella taxxamt n dir ad d-tekkez ɣer-k — taggulli n win yettcekkiren lehna s ccreɛ?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ad d-tekkez ɣer-k"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxxamt"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "יצצר",
+      "gloss": "yettcekkiren"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "lehna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "s"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:41.796807947Z",
+  "model": "glm-5.3"
+}

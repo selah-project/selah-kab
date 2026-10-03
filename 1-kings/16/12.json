@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Akka i yexṣer Zimri ⟨את⟩ akk at wexxam n Baɛca, akken i d-yenna Yahwe, i yellan d awal i Baɛca, s ufus n Yehu, navi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "yexṣer"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk at wexxam n Baɛca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "at wexxam"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "n Baɛca"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yellan d awal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baɛca"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "n Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:47.026788960Z",
+  "model": "glm-5.3"
+}

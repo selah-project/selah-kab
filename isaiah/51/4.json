@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Sel-d i yi, a agdud-iw, a tayemat-iw, i yi ɣli-d s yimeẓliyen: acku Tora ad teffɣeɣ ⟨את⟩ seg yiɣef-iw, ccreɛ-iw ad mdel γer tafat i yegduden, ad tt-id-rɣeɣ s zreb.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Sel-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i yi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "a agdud-iw"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "a tayemat-iw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "i yi"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ɣli-d s yimeẓliyen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ seg yiɣef-iw",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ad teffɣeɣ"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ccreɛ-iw"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ɣer tafat"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i yegduden"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "ad tt-id-rɣeɣ s zreb"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:25.847957924Z",
+  "model": "glm-5.3"
+}

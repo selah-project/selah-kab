@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Eliyahu yewwi ⟨את⟩ tagelmust-is, iḍfes-tt, izel ⟨את⟩ aman, ansi ṭṭfen sinḍen: da d winna; zdin i sin-nni deg wakal aqquran.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagelmust-is"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "tagelmust-is"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "iḍfes-tt"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "izel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "da"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d winna"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "zdin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "i sin-nni"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "deg wakal aqquran"
+    }
+  ],
+  "timestamp": "2026-10-02T23:26:18.216734774Z",
+  "model": "glm-5.3"
+}

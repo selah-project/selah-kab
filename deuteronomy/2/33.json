@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe, Elohim-nneɣ, i d-yefka-t uqbel-nneɣ; neḍreb ⟨את⟩-t, ⟨את⟩ arraw-is, akked ⟨את⟩ meṛṛa ugdud-is.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "i d-yefka-t"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "uqbel-nneɣ"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "neḍreb"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (netta)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-is"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "arraw-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa ugdud-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:00.355625974Z",
+  "model": "glm-5.3"
+}

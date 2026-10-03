@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad tetṭeḍ ⟨את⟩ wannzeɣ wis sin, ad rren Aharon akked warraw-is ⟨את⟩ ifassen-nsen ɣef uqerru n wannzeɣ.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad tetṭeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wannzeɣ wis sin"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wannzeɣ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ad rren"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "akked warraw-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ifassen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uqerru"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "n wannzeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:52.871541497Z",
+  "model": "glm-5.3"
+}

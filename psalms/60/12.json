@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Mačči d kecc, a Elohim, win iɣ-neḥerjeneɣ? Ur teţţeffeɣ ara, a Elohim, akked yiserdasen-nneɣ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mačči d… ara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "iɣ-neḥerjeneɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Ur… ara"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "teţţeffeɣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "akked yiserdasen-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:10.400847433Z",
+  "model": "glm-5.3"
+}

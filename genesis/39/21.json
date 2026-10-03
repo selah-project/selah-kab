@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Yella Yahwe ⟨את⟩ Yosef, yuzen-ed ḥesed fell-as, yefka-as lɛezz deg wallen n unemhal n wexxam n lḥebs.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yuzen-ed"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "lɛezz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg wallen n"
+    },
+    {
+      "surface": "שר",
+      "gloss": "unemhal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "n lḥebs"
+    }
+  ],
+  "timestamp": "2026-10-02T20:29:19.433452953Z",
+  "model": "glm-5.3"
+}

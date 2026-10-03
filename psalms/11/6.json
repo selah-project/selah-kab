@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad isegru ɣef wid n dir ⟨i⟩ẓuren n times d lkebrit; d ruaḥ iɛeṭṭfen d lḥessa n lkkas-nsen.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "ad isegru (am ugeffur)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n dir"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "⟨i⟩ẓuren"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "d lkebrit"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "d ruaḥ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "iɛeṭṭfen"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "d lḥessa"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "n lkkas-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:41.924921229Z",
+  "model": "glm-5.3"
+}

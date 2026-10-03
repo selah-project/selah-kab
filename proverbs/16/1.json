@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "I wemdan llan iḥezriwen n ul, ma ⟨seg⟩ Yahwe ⟨d-yettas⟩ uqbal n yils.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "iḥezriwen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "n ul"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ma seg Yahwe"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "uqbal"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "n yils"
+    }
+  ],
+  "timestamp": "2026-10-03T02:22:41.695959038Z",
+  "model": "glm-5.3"
+}

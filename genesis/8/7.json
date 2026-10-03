@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yuzen ⟨את⟩ iɣil yettazzalen, yeffeɣ yettaẓalluẓen d uɣelluy, almi i ẓwan waman si ɣef tmurt.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣil"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iɣil yettazzalen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "yettaẓalluẓen"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "d uɣelluy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi i"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "ẓwan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "si ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:22.248196814Z",
+  "model": "glm-5.3"
+}

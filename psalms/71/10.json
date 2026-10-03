@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Axaṭer iɛdawen-iw nnan fell-i; d wid iḥekmen tudert-iw ḥekkmen akk yid-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "wid iḥekmen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tudert-iw"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ḥekkmen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "akk yid-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:04.409056013Z",
+  "model": "glm-5.3"
+}

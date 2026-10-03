@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yehonatan yekkes ⟨את⟩ taqemit yellan fell-as, i t-yefka i David, akk d yilsiy-nnes, almi d sebsib-nnes, almi d tcela-nnes, almi d taẓerẓert-nnes.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqemit"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "taqemit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "i t-yefka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "akk d yilsiy-nnes"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "almi d"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sebsib-nnes"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "almi d"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "tcela-nnes"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "almi d"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "taẓerẓert-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:27.306542806Z",
+  "model": "glm-5.3"
+}

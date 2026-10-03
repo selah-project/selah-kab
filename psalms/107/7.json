@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Yesḥa ɛla-ten deg ubrid uzgir, akken ad ddu-ten ɣer temdint n tzeddegɛt.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Yesḥa ɛla-ten"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "uzgir"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "akken ad ddu-ten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "n tzeddegɛt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:13.013370598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Elohim yeḥkem ɣef leǧnas; Elohim yeqqim ɣef usgeld n yiqedcen-is.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "usgeld"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "n yiqedcen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:30.640472072Z",
+  "model": "glm-5.3"
+}

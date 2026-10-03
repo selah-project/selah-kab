@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ixeṣṣ ⟨את⟩ ixf n yiẓuran-is imeẓẓyanen, yewwi-t ɣer tmurt n Kenaɛan, di temdint n yimeḥelleḍ i t-irra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ixf n yiẓuran-is imeẓẓyanen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ixf"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "n yiẓuran-is imeẓẓyanen"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "ixeṣṣ"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "yewwi-t"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenaɛan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di temdint"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "n yimeḥelleḍ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "i t-irra"
+    }
+  ],
+  "timestamp": "2026-10-03T00:50:14.377601980Z",
+  "model": "glm-5.3"
+}

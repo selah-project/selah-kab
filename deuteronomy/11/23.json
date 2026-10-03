@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad iḥeqqer Yahwe ⟨את⟩ laɛrac-agi akk deg zdat-nwen, ad tekcem deg tmurt n laɛrac imeqṛanen d ugezzlanen nnig-nwen.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "ad iḥeqqer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laɛrac-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "laɛrac-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "deg zdat-nwen"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ad tekcem deg tmurt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "laɛrac"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "imeqṛanen"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "d ugezzlanen"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nnig-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:04.027443632Z",
+  "model": "glm-5.3"
+}

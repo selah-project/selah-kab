@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yeẓweṛ ⟨את⟩ ṭṭaḍ n tmurt akk, tmurt tekcem-d tickemt; yečč ⟨את⟩ acḥiḥ akk n tmurt d ⟨את⟩ tifet akk n yisekla i yeǧǧa ljeǧǧaḍ; deg tmurt akk n Miṣrayim ula d yiwen uzegzaw ur iqqim deg yisekla neɣ deg ucḥiḥ n wemzar.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "yeẓweṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṭṭaḍ n tmurt akk"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ṭṭaḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "tekcem-d tickemt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yečč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acḥiḥ akk n tmurt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "acḥiḥ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tifet akk n yisekla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "tifet"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "n yisekla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "i yeǧǧa"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "ljeǧǧaḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "iqqim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ula d yiwen"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "azegzaw"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "deg yisekla"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "neɣ deg ucḥiḥ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n wemzar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt akk"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:44.022895852Z",
+  "model": "glm-5.3"
+}

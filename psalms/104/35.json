@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Ad ṣufen idnuben seg tmurt, wid ibeḥnen ur ḥeṣlen ara d-ttwaγlen. Berek i Yahwe, a neks-iw ⟨את⟩ Yahwe — adellel i Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ad ṣufen"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "idnuben"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "wid ibeḥnen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ur ḥeṣlen ara"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "d-ttwaγlen"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "berek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a neks-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "adellel"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:15.393361731Z",
+  "model": "glm-5.3"
+}

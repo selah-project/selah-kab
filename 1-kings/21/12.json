@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ɣlen s wuzum, rḥben ⟨את⟩ Navot deg uxef n ugdud.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Ɣlen"
+    },
+    {
+      "surface": "צום",
+      "gloss": "s wuzum"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "rḥben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "deg uxef"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugdud"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:36.015489580Z",
+  "model": "glm-5.3"
+}

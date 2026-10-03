@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Imassen sɛan, maca ur sslamen ara; iṭaren sɛan, maca ur mṣuṭṭfen ara.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "imassen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sɛan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur ara"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sslamen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iṭaren"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sɛan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur ara"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "mṣuṭṭfen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:16.199334245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Wali, wussan ara d-yawḍen; ad d-ṭṭefɣ ⟨את⟩ iḍar-ik d ⟨את⟩ iḍar n uxxam n bab-ik, ad yili ur d-yelli ara urgaz ameqqran deg uxxam-ik.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ara d-yawḍen"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ad d-ṭṭefɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḍar-ik"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "iḍar-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iḍar n uxxam n bab-ik"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "iḍar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "n bab-ik"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ad yili ur d-yelli ara"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "urgaz ameqqran"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "deg uxxam-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:36:44.266393095Z",
+  "model": "glm-5.3"
+}

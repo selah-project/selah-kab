@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 70,
+  "translation": "Ma neḍṛa nekk d aweḥli d uɛessas, a Elohim, yuggel ɣur-i. Kečč i d tallalt-iw d win iyi-ineffen, a Yahwe, ur ttawel ara.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma neḍṛa nekk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "d aweḥli"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "d uɛessas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "yuggel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "tallalt-iw"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "d win iyi-ineffen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ttawel ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:29.616352246Z",
+  "model": "glm-5.3"
+}

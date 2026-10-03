@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur yuɣal ara tikelt-nniḍen ɣer wexxam-is, umkan-is ur t-issin ara tikelt-nniḍen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yuɣal ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ɣer wexxam-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "issin ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:32:21.085639919Z",
+  "model": "glm-5.3"
+}

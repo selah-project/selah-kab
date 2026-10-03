@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Di tgemma iṭṭef icaṛen ⟨את⟩ gma-s; di tezmert-is yennuɣ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "di tgemma"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "iṭṭef icaṛen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gma-s"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "di tezmert-is"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "yennuɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:00.891655251Z",
+  "model": "glm-5.3"
+}

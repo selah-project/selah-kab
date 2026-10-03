@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "I win yettḍefren, mizmor n David. Elohim n ccfa n yismiw-iw, ur ttṣukkuḍ ara.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettḍefren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "n ccfa n yismiw-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ttṣukkuḍ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:36.522495183Z",
+  "model": "glm-5.3"
+}

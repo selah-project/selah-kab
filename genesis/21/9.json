@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Sarah twala ⟨את⟩ mmi-s n Hagar tamiṣrit, ara ttwal i Avraham, yettmeḥqer.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "twala"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "tamiṣrit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "i ttwal"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "yettmeḥqer"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:16.831419753Z",
+  "model": "glm-5.3"
+}

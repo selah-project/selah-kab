@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Kečč tewḥiḍ ⟨את⟩-iyi, i d-yenna Yahwe, tedduḍ ɣer deffir; ḥnifɣ ɣef-k ifassen-inu, ḥewsed-k; ruḥeɣ, ur ttḥulfuɣ ara ad snehmel.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "tewḥiḍ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iyi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ɣer deffir"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "tedduḍ"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "ḥnifɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-inu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ifassen-inu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef-k"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "ḥewsed-k"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "ruḥeɣ"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ad snehmel"
+    }
+  ],
+  "timestamp": "2026-10-03T00:20:11.904060230Z",
+  "model": "glm-5.3"
+}

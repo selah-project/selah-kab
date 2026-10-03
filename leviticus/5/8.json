@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad ten-yawi ⟨אתם⟩ ɣer ukohen; akohen ad d-iqebb ⟨את⟩ win i weḥṭṭa, amezwaru, ad ineg ⟨את⟩ iri-is seg zdat n uẓeṛ-is, maca ur t-ibḍu ara.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ad ten-yawi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ad d-iqebb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win i weḥṭṭa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "i weḥṭṭa"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "amezwaru"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ad ineg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iri-is"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iri-is"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "seg zdat"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "n uẓeṛ-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "t-ibḍu ara"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:06.173159173Z",
+  "model": "glm-5.3"
+}

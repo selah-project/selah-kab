@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "David yessawel deg ul-is ⟨את⟩ wawalen-agi, yugad aṭas Akis, agellid n Gat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "yessawel deg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "deg ul-is"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yugad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "גת",
+      "gloss": "n Gat"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:22.102554393Z",
+  "model": "glm-5.3"
+}

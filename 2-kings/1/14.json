@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Wa! tuder-d tmes seg ⟨igenwan⟩, teṭṭef ⟨את⟩ sin n yinemhalen imezwura n semmus-n-temmar d ⟨את⟩ semmus-nnesen; tura ad tettwazger tameddurt-iw deg tiṭṭawen-inek.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "tuder-d"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨igenwan⟩"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "teṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin n yinemhalen imezwura"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "n yinemhalen"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "semus-n-temmar"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "imezwura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "semus-nnesen"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "semus-nnesen"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "ad tettwazger"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tameddurt-iw"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "deg tiṭṭawen-inek"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:15.388967870Z",
+  "model": "glm-5.3"
+}

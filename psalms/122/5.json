@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "Akkken deg-s i ṛuḥen tseddeɣ tiɣmar i nnḥekmu, tiɣmar n uxxam n David.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axxaṭer"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ṛuḥen tseddeɣ"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "tiɣmar"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "i nnḥekmu"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "tiɣmar"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.505950442Z",
+  "model": "glm-5.3"
+}

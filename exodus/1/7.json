@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "At Yisrael ṣubb-d deg useqsem, llan d aṭas neṣḥan, ṣeḥḥen s tezmert tameqqrant; akk tamurt tettwakcem-⟨את⟩ itent.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ṣubb-d deg useqsem"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "llan d aṭas neṣḥan"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ṣeḥḥen"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "s tezmert tameqqrant"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "s tezmert"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "tettwakcem-itent"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "akk tamurt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ itent"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:32.673100051Z",
+  "model": "glm-5.3"
+}

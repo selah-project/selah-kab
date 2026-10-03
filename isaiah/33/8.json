@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ibekkisen ɣlen, win yezzin deg ubrid yeḥbes; yekkes ⟨את⟩ lɛahd, iẓerẓer tiɣremdin, ur iḥsab ara amdan.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "ɣlen"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ibekkisen"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "win yezzin"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd",
+      "marks": "lɛahd"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "iẓerẓer"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tiɣremdin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "iḥsab"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "amdan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:25.008833742Z",
+  "model": "glm-5.3"
+}

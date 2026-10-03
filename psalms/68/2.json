@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Ad yili-d Elohim, ad pwettren iɛdawen-is, wid t-ikerhen ad rewlen seg udem-is.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "ad yili-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ad pwettren"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "iɛdawen-is"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ad rewlen"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "wid t-ikerhen"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "seg udem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:06.737036791Z",
+  "model": "glm-5.3"
+}

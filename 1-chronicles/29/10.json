@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "David yebrek ⟨את⟩ Yahwe s tiḍriwin n ⟨uɛesker⟩ akk, yenna-d David: Mbarek kečč, a Yahwe, Elohim n Yisrael, babaɣ, seg zik armi d lebda.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "yebrek"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "s tiḍriwin n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "uɛesker"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Mbarek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "babaɣ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "seg zik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "armi d"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T03:37:01.825293193Z",
+  "model": "glm-5.3"
+}

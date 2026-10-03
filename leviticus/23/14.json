@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 23:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Aɣrum, irden ijjan, neɣ irden icettḥen, ur ttettem ara arma d ⟨את⟩ ass-agi s tidet, arma d-tebbɛem ⟨את⟩ qorban n Elohim-nwen; d aḥkam imezgi i tsuta-nwen, deg akk tisdawin-nwen.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "irden ijjan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "irden icettḥen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ttettem ara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "tebbɛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "n Elohim-nwen"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "aḥkam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "imezgi"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "i tsuta-nwen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg akk"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "tisdawin-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:46.573947767Z",
+  "model": "glm-5.3"
+}

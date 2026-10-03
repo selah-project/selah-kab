@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yekkaten udif iqeṛṛen n Yihuda d Binyamin, d yikohanim d yileviyim — yal win i d-iiḥeqqeq <את> Elohi i ruḥ-is, ad yali ad yebnu <את> axxam n Yahwe win yellan di Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "yekkaten udif"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iqeṛṛen"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "n yiqbucen"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "n Yihuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "d Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "d yikohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "d yileviyim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i d-iiḥeqqeq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "ruḥ-is"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruḥ-is"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ad yebnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win yellan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:12:23.601029166Z",
+  "model": "glm-5.3"
+}

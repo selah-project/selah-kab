@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yahwe ad yidir i lebda; yessula teɣsert-is i lḥekkam.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "yessula"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "i lḥekkam"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "teɣsert-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:43.208930702Z",
+  "model": "glm-5.3"
+}

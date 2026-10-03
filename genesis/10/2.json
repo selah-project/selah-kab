@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Arraw n Yefet: Gomer, Magug, Maday, Yawan, Tubal, Meceḥ akked Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Arraw n"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "akked Magug"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "akked Maday"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "akked Yawan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "akked Tubal"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "akked Meceḥ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "akked Tiras"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:01.888494068Z",
+  "model": "glm-5.3"
+}

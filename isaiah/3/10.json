@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ini i win igerrzen: ad yili ⟨d⟩ ameɣtu, axaṭer ifeccen n wayen xedmen ad ccen.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "i win igerrzen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ifeccen"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "n wayen xedmen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ad ccen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:06.179821570Z",
+  "model": "glm-5.3"
+}

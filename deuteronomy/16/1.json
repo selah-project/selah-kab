@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ṛekk ⟨את⟩ ayyur n Abib, ad txedmeḍ Pesaḥ i Yahwe Elohim-ik, axaṭer deg waggur n Abib Yahwe Elohim-ik i d-yessuffɣ-ik seg Miṣrayim deg yiḍ.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Ṛekk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayyur n Abib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ayyur"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "n Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "deg waggur"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "n Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "i d-yessuffɣ-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:06.795639502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe Elohim yebna ⟨את⟩ ṭ-ṭaṛ-nni i yewwi seg umdan, ad yili d tawtmat, yewwi-tt ɣer ⟨u⟩-mdan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṭ-ṭaṛ-nni"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ṭ-ṭaṛ-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umdan"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ad yili d tawtmat"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "yewwi-tt ɣer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨u⟩mdan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:36.065158646Z",
+  "model": "glm-5.3"
+}

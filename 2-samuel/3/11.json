@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yerna ur yezmir ara ad yerr ⟨i⟩ Avner awal niḍen, si tuggdi ⟨i⟩ ⟨את⟩ Avner-is.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "yerna ur"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "yezmir ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niḍen"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "si tuggdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨i⟩ ⟨את⟩ Avner-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:54:23.760342159Z",
+  "model": "glm-5.3"
+}

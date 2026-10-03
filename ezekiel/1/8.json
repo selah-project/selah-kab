@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Afan n wemdan ddaw yiǧriǧen-nsen, ɣef kuẓ n yidis-nsen; udem-nsen akked yiǧriǧen-nsen i kuẓ-nsen.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "afan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "yiǧriǧen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "kuẓ"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "yidis-nsen"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "udem-nsen"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "yiǧriǧen-nsen"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "i kuẓ-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:41:22.125792885Z",
+  "model": "glm-5.3"
+}

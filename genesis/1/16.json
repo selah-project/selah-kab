@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ixleq-d Elohim ⟨את⟩ snat n tfawtin timeqranin: ⟨את⟩ tafat tameqṛant i tnbaḍt n wass, d ⟨את⟩ tafat tameẓyanext i tnbaḍt n yiḍ — akken d ⟨את⟩ yitran.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ixleq-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "snat n tfawtin timeqranin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "snat"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "n tfawtin"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "timeqranin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafat tameqṛant"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "tameqṛant"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "i tnbaḍt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "n wass"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tafat tameẓyanext"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tameẓyanext"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "i tnbaḍt"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "n yiḍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yitran"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "yitran"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:29.241601133Z",
+  "model": "glm-5.3"
+}

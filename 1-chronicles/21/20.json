@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yuffeɣ-d Ornan, iẓra ⟨את⟩ l-malak, kraḍ n warraw-is yettnuḥten yid-s; Ornan yedseq ⟨את⟩ sumen.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yuffeɣ-d"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l-malak"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "l-malak"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "kraḍ n"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "yettnuḥten"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "yedseq"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "sumen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:24.124612767Z",
+  "model": "glm-5.3"
+}

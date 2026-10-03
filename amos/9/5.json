@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Adonai Yahwe Ṣebaot, d win yerzan tmurt — temmug, akk wid zedɣen deg-s ad ẓwεen; ad yuli akk am wasif, ad d-yettwakkes am wasif n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "win yerzan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "temmug"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ad ẓwεen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wid zedɣen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "am wasif"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "ad d-yettwakkes"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "am wasif"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:23:23.661708742Z",
+  "model": "glm-5.3"
+}

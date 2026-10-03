@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Akken ⟨את⟩ iḤivi, ⟨את⟩ iɛarqi, ⟨את⟩ iSini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ akken",
+      "marks": "iḤivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iḤivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ akken",
+      "marks": "iɛarqi"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "iɛarqi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ akken",
+      "marks": "iSini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "iSini"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:57.025890646Z",
+  "model": "glm-5.3"
+}

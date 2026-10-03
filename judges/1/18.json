@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yehuda yeṭṭef ⟨את⟩ ɛaza akk d tillist-is, d ⟨את⟩ Aseqelun akk d tillist-is, akk d ⟨את⟩ ɛeqron akk d tillist-is.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ɛaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked d ⟨את⟩",
+      "marks": "tillist-is"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "tillist-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Aseqelun"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aseqelun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked d ⟨את⟩",
+      "marks": "tillist-is"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "tillist-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ɛeqron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "ɛeqron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked d ⟨את⟩",
+      "marks": "tillist-is"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "tillist-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:23:05.097708461Z",
+  "model": "glm-5.3"
+}

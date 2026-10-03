@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Iqufan n temdint-nni ad yewṭṭen ⟨את⟩ wemdan-nni, ad ⟨את⟩ t-ḍferben.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ad yewṭṭen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "iqufan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-nni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wemdan-nni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan-nni"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ad t-ḍferben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:18.330377422Z",
+  "model": "glm-5.3"
+}

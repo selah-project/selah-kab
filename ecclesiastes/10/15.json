@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Axeddim n yiḥerqalen ad t-yeḥmeṛ: ur yezmir ad yissin ad yeddu ɣer temdint.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Axeddim"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "n yiḥerqalen"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ad t-yeḥmeṛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yezmir ad yissin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:32.282999835Z",
+  "model": "glm-5.3"
+}

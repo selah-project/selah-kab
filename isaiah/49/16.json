@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Wali, ɣef yifassen-iw kqiɣ-k; iṣuṛ-ik umɛin zdat-iw.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "wali"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "yifassen-iw"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "kqiɣ-k"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "iṣuṛ-ik"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "zdat-iw"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "umɛin"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:28.137422549Z",
+  "model": "glm-5.3"
+}

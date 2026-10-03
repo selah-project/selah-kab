@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Elohim Ṣebaot, tuɣal ⟨s lḥemla⟩, wali seg igenwan, ẓer, ẓer daɣen ⟨את⟩ tegrist-agi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tuɣal"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨s lḥemla⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "wali"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "seg igenwan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ẓer"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ẓer daɣen"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "tegrist-agi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:01.401609522Z",
+  "model": "glm-5.3"
+}

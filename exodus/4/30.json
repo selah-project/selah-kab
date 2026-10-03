@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Aharon yemmeslay ⟨את⟩ akk awalen i d-yenna Yahwe i Moce; yexdem isekkilen γer udmawen n wegdud.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "isekkilen"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "γer udmawen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n wegdud"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:02.019171655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad yeṭṭef ⟨את⟩ sin yiferḍen-nni, ad ⟨את⟩ ten-yerr ṣeffan ar zdat n Yahwe, ɣef udeggi n texxamt n umlil.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin yiferḍen-nni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "yiferḍen-nni"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ad ten-yerr ṣeffan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "zdat n Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ar zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ɣef udeggi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n texxamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlil"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:04.391130606Z",
+  "model": "glm-5.3"
+}

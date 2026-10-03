@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ul n ukohin yufrar; iṭef ⟨את⟩ aefod, ⟨את⟩ iterafim ed ⟨את⟩ tugna-aifeslit, yekcem gar yemdanen.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yufrar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "n ukohin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "iṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aefod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "aefod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ed ⟨את⟩",
+      "marks": "iterafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "iterafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ed ⟨את⟩",
+      "marks": "tugna-aifeslit"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "tugna-aifeslit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yemdanen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:34:09.423775596Z",
+  "model": "glm-5.3"
+}

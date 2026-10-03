@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ugdud d-yuzen ⟨את⟩ axxam-is n usesfer uqbel ad yekru, tiqsiyin-nnsen iḥerẓen deg yilacci-nnsen ɣf iɛeddayen-nnsen.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "d-yuzen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam-is n usesfer"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "axxam-is n usesfer"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "uqbel"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ad yekru"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "tiqsiyin-nnsen"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "iḥerẓen"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "deg yilacci-nnsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣf"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "iɛeddayen-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:34.910076528Z",
+  "model": "glm-5.3"
+}

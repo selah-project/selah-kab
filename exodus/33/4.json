@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Mi yesla ⟨⟨⟩⟩ ugdud ⟨את⟩ awal ara n dir-agi, ḥeznen, ulac argaz isulin iseglaven-is ɣef yiman-is.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mi yesla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ḥeznen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "isulin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "iseglaven-is"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef yiman-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:07.325111793Z",
+  "model": "glm-5.3"
+}

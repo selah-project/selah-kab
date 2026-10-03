@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ma d netta ur yewwi-t ara ɣer telguct n weḍeyyen n umɛed, iwakken ad t-yexdem ⟨את⟩ i Yahwe, ad yettwakkes wemdan-nni seg ugdud-is.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ma ... ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "telguct"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "weḍeyyen"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "umɛed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "yewwi-t"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad t-yexdem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "seg ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:09.882212099Z",
+  "model": "glm-5.3"
+}

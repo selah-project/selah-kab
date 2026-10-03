@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "I lebda ur ttettu ara piqqudek, axaṭer sersen tḥyan-iyi.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ttettu ara"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "piqqudek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sersen"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "tḥyan-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:24.666907020Z",
+  "model": "glm-5.3"
+}

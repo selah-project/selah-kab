@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Asaf ad yissin bab-is, aydi d asarem n bab-is; Yisrael ur yezmir ara ad yissin, agdud-iw ur yefhim ara.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ad yissin"
+    },
+    {
+      "surface": "שור",
+      "gloss": "asaf"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "aydi"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "asarem"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "n bab-is"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yezmir ara ad yissin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "yefhim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:32.159268250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "S tidet, a Yahwe, igelliden n Acurṣur rẓen ⟨את⟩ tmura akk, d ⟨את⟩ tmurt-nsen.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "rẓen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acurṣur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmura akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tmura"
+    },
+    {
+      "surface": "וואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-nsen"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tmurt-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:36.086854012Z",
+  "model": "glm-5.3"
+}

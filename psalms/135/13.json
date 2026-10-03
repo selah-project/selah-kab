@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Yahwe, isem-ik ad yeqqim i lebda; Yahwe, asmekti-ik i tgura d tgura.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "asmekti-ik"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i tgura"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "d tgura"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:33.574026029Z",
+  "model": "glm-5.3"
+}

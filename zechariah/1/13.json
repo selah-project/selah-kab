@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yerna Yahwe yedda ⟨את⟩ lmelak, win i d-yemmeslayen deg-i, s wawalen igerrzen, s wawalen n tesmilt.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmelak"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "lmelak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "win i d-yemmeslayen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "deg-i"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "s wawalen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "igerrzen"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "s wawalen"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "n tesmilt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:33:20.993037251Z",
+  "model": "glm-5.3"
+}

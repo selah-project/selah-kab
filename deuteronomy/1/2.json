@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Mraw d yiwen n wussan seg Ḥoreb, s abrid n wedrar n Seɛiṛ, arma d Qedecc Baṛnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "d yiwen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "seg Ḥoreb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "s abrid n"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seɛiṛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedecc"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Baṛnea"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:17.553464297Z",
+  "model": "glm-5.3"
+}

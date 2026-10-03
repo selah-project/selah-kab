@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ger yimceyyaḥ: Eliyaicib. Ger yibleɛ n yiberdan: Callum, d Telem, d Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ger"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "yimceyyaḥ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eliyaicib"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ger yibleɛ n"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "yiberdan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Callum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "d Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "d Uri"
+    }
+  ],
+  "timestamp": "2026-10-03T03:15:45.535787253Z",
+  "model": "glm-5.3"
+}

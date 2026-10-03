@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Taḍar-iy tessawad deg uswir amaγrad; deg yiseγwen ara d-icebbieḥ Yahwe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "taḍar-iy"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "tessawad"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "deg uswir amaγrad"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "deg yiseγwen"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ara d-icebbieḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:26.018911588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Nniɣ: ad d-rɣeɣ ⟨את⟩ ken seg weɛzen n Miṣrayim, ɣer tmurt n Uknaɛni, d uḤeti, d wemori, d uperizi, d uḥwi, d uyebusi — ɣer tmurt i ttzzizdegn ifew d wulli akked tment.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ad d-rɣeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ken"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "seg weɛzen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "n Uknaɛni"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "d uḤeti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "d wemori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "d uperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "d uḥwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "d uyebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "i ttzzizdegn"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ifew d wulli"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "akked tment"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:36.918469896Z",
+  "model": "glm-5.3"
+}

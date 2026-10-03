@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Ssawḍen-t ad yegguji ɣef widdak — ilsawen-nsen; akk wid i ten-id-yefren ad sniqen i yixef-nsen.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "ssawḍen-t ad yegguji"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ɣef widdak"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilsawen-nsen"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "ad sniqen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wid i ten-id-yefren"
+    },
+    {
+      "surface": "בם",
+      "gloss": "i ten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:55.793982516Z",
+  "model": "glm-5.3"
+}

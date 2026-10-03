@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad teqerrebḍ ⟨את⟩ Aharon akked ⟨את⟩ warraw-is ɣer tebburt n txamt n temlilit, ad ten-tesselḍ s waman.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ad teqerrebḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tebburt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n txamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ad ten-tesselḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "Aharon d warraw-is"
+    },
+    {
+      "surface": "במים",
+      "gloss": "s waman"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:23.601500926Z",
+  "model": "glm-5.3"
+}

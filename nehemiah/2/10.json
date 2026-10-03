@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 2:10",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Mi issel Sanballat aḥeruni d Ṭubya aqeddac lamuni, yeqma-yasen d yir tamsalt tameqqrant mi ika-d wemdan ad inadi lxiṛ i warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Mi issel"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "החרני",
+      "gloss": "aḥeruni"
+    },
+    {
+      "surface": "וטוביה",
+      "gloss": "d Ṭubya"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "aqeccac"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "lamuni"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "yeqma-yasen d yir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tamsalt"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ika-d"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ad inadi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "lxiṛ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T04:44:07.464346266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 127,
+  "translation": "Amzun d isḥam deg ufus n win yesɛan tezmert, akka llan arrac n temẓi.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Amzun d isḥam"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "n win yesɛan tezmert"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "n temẓi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:45.569476571Z",
+  "model": "glm-5.3"
+}

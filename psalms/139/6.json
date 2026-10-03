@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Tamussni-ik ⟨d⟩ tamuẓlint ɣef-iya; tuli-t d asawen, ur ẓmiriɣ ara ad awdeɣ ɣer-s.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "tamuẓlint"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tamussni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ɣef-iya"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "tuli-t d asawen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ẓmiriɣ ara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ɣer-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.765011815Z",
+  "model": "glm-5.3"
+}

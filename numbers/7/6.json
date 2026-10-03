@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Moce yeṭṭef ⟨את⟩ tiɛeggalin d ⟨את⟩ ifadden, yefka-⟨את⟩ ten ɣer ileviyyen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɛeggalin"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "tiɛeggalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ifadden"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ifadden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ten ⟨את⟩",
+      "marks": "ɣer ileviyyen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ileviyyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:24:06.526884381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 3:28",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Deg umḍan n yirgazen akk, seg umennay amenzu d asawen: ṭam n ifeden akk d sḍis n temdin, iṭṭefren taneṣṣirt n yiqedcen.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "Deg umḍan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "n yirgazen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "seg umennay"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "amenzu"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ṭam"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n ifeden"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "akk d sḍis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temdin"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "iṭṭefren"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "taneṣṣirt"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n yiqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:43.570771488Z",
+  "model": "glm-5.3"
+}

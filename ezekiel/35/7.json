@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad rɣeγ ⟨את⟩ adrar n Seɛir d axemrum d tadxert, ad kkeseg seg-s win yettazin d win yuɣalen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad rɣeγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adrar n Seɛir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seɛir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "d axemrum"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "d tadxert"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ad kkeseg"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "win yettazin"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "d win yuɣalen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:02:25.640686291Z",
+  "model": "glm-5.3"
+}

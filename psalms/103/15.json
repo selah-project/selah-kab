@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Adam, wussan-is am ucebbub; am seffu n weɣrum, akka iẓeggu.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "am ucebbub"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "wussan-is"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "am seffu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n weɣrum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "iẓeggu"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:36.137584923Z",
+  "model": "glm-5.3"
+}

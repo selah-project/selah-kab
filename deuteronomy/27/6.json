@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "S yiẓra imden ad tbennuḍ ⟨את⟩ meqbed Yahwe, Elohim-ik, ad tserrḥeḍ fell-as iqessṛen i Yahwe, Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "S yiẓra"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "imden"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ad tbennuḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meqbed"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meqbed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ad tserrḥeḍ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "iqessṛen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:31.090713818Z",
+  "model": "glm-5.3"
+}

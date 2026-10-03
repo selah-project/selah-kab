@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad ḥemmel-eɣ ⟨את⟩ lɛezz i ugdud-agi deg tiḥudsiwin n yimezdaɣ n Miṣrayim; ad yili, mi ara tedduḍ, ur tetteduḍ ara d ilem.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad ḥemmel-eɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛezz"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lɛezz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "i ugdud-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiḥudsiwin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n yimezdaɣ n Miṣrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "tedduḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "tedduḍ ara"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "d ilem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:01.310153313Z",
+  "model": "glm-5.3"
+}

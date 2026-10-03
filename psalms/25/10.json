@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Akk iberdan n Yahwe ⟨ḥesed⟩ d ṣedeq i wid yeḥerzen lɛahd-is d ineggalen-is.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "iberdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "d ṣedeq"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "i wid yeḥerzen"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "d ineggalen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:19.511663995Z",
+  "model": "glm-5.3"
+}

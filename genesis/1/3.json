@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-d Elohim: ad yili ṣeɛɛ, yili-d ṣeɛɛ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ṣeɛɛ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yili-d"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ṣeɛɛ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:32.708084516Z",
+  "model": "glm-5.3"
+}

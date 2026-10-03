@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad twaliḍ win iḥerjen deg ummdeṛ, akk ayen ara yeḥmel ⟨את⟩ Yisrael; ur yelli ara urgaz ameqqran deg uxxam-ik, i wussan akk.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "ad twaliḍ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "win iḥerjen"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "deg ummdeṛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "ara yeḥmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur yelli ara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ur yelli ara"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "urgaz ameqqran"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "deg uxxam-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "i wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:36:44.266635254Z",
+  "model": "glm-5.3"
+}

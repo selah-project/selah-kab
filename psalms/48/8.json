@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "S ruaḥ n wasamar, ⟨kemm⟩ terẓeḍ tickelt n Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "s ruaḥ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "n wasamar"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "terẓeḍ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "tickelt"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:19.764224524Z",
+  "model": "glm-5.3"
+}

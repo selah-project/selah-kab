@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad tgeḍ ⟨את⟩ tiqerbuzin si ɣiḍ n cciṭa, ad ⟨את⟩ ten-tesḥet temṣuṭ s wureẓ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad tgeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiqerbuzin"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tiqerbuzin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "si ɣiḍ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n cciṭa"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ad tesḥet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "s wureẓ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:33.559585605Z",
+  "model": "glm-5.3"
+}

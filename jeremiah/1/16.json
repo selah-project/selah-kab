@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad mmeslayeɣ ccreɛ-iw ɣur-sen ⟨את⟩ ɣef ccwrten-nsen akk: idaren-nni i yi-tteǧǧan, i deggun ɣef iṛebbiten nniḍen, yeknun i lεemal n yifassen-nsen.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "ad mmeslayeɣ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ccreɛ-iw"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ccwrten-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nni"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "i yi-tteǧǧan"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "i deggun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ɣef iṛebbiten"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "yeknun"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "i lεemal"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "n yifassen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:53.213976925Z",
+  "model": "glm-5.3"
+}

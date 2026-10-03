@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Akkenni ur ad ḥemmelɣ ⟨את⟩ lḥaya, deg umaru-iw n yakk tludna-ik.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Akkenni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ad ḥemmelɣ lḥaya"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "deg umaru-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yakk"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tludna-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:31.791995399Z",
+  "model": "glm-5.3"
+}

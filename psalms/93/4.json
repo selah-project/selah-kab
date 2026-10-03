@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 93,
+  "translation": "Yugar Yahwe, d win ɛlayan, iṣṣutawen n yisaffen imeqqṛen, iṣeggaden n yilel izeggagen.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "iṣṣutawen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n yisaffen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "imeqqṛen"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "izeggagen"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "iṣeggaden"
+    },
+    {
+      "surface": "ים",
+      "gloss": "n yilel"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "win ɛlayan"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "d win ɛlayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:34.017561998Z",
+  "model": "glm-5.3"
+}

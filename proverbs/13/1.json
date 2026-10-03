@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Mmi iḥekmen isel i useggi n baba-s; maḍfi ur issel ara i tgerdet.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "iḥekmen"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "i useggi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "maḍfi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "issel"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "i tgerdet"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:12.297940970Z",
+  "model": "glm-5.3"
+}

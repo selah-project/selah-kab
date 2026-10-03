@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 146,
+  "translation": "Win id-yezzin ccreɛ i wid yettwazellafen, win iwessben aɣrum i wid iɛeṭṭben; Yahwe yessuffɣa-d wid ttwaḥebsen.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Win id-yezzin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "i wid yettwazellafen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "win iwessben"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "i wid iɛeṭṭben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "yessuffɣa-d"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "wid ttwaḥebsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:58.995312724Z",
+  "model": "glm-5.3"
+}

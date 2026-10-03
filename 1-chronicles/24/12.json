@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "I wis d ƐElyacib, wis mraw d yiwen; i wis d Yaqim, wis mraw d sin.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "i wis d ƐElyacib"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "d yiwen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wis mraw"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "i wis d Yaqim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "d sin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "wis mraw"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:54.720914577Z",
+  "model": "glm-5.3"
+}

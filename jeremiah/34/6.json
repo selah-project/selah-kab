@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yermiya, anavi, yemmeslay ɣer Ṣedeqyahu, agellid n Yehuda, ⟨את⟩ akk awalen-agi, deg Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yermiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "anavi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣedeqyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:52.658780403Z",
+  "model": "glm-5.3"
+}

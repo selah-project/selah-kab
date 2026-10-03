@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Merajot yexleq-d ⟨את⟩ Ɛemarja, i d-yella Ɛemarja yexleq-d ⟨את⟩ Aḥitub.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛemarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ɛemarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "i d-yella Ɛemarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Aḥitub"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:36.257168245Z",
+  "model": "glm-5.3"
+}

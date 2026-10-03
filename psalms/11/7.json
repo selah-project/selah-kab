@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Acku Yahwe d aṣedeq, iḥemmel ṣedeq; wid izemren ad ẓren ⟨udem⟩-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "aṣedeq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "wid izemren"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ad ẓren"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "udem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:41.925092284Z",
+  "model": "glm-5.3"
+}

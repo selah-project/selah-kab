@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ur t-teččem ara yiwen n wass, mačči sin n wussan, mačči semmus n wussan, mačči mraw n wussan, mačči semraw n wass.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "ad teččem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "sin n wussan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "semraw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wass"
+    }
+  ],
+  "timestamp": "2026-10-02T21:32:45.816257241Z",
+  "model": "glm-5.3"
+}

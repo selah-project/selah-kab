@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 99,
+  "translation": "Yahwe yelha; ad ḥerẓen yegduden; Win iţuzeɣɣu ɣef yikerubim; ad iwewweḍ tmurt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yelha"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ad ḥerẓen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yegduden"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Win iţuzeɣɣu"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ɣef yikerubim"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ad iwewweḍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:25.161656350Z",
+  "model": "glm-5.3"
+}

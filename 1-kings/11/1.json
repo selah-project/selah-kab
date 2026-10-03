@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Agellid Celomo iḥemmel aṭas n tilawin tibeṛṛaniyin, akked ⟨את⟩ yelli-s n Ferɛun — timuḥbit, tamunit, tayidunit, taṣidunit, taḥitit.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "tibeṛṛaniyin"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "yelli-s n Ferɛun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "timuḥbit"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "tamunit"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "tayidunit"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "taṣidunit"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "taḥitit"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:08.730851435Z",
+  "model": "glm-5.3"
+}

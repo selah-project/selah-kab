@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ad teggreḍ abrid iwakken ad d-yas tessist ⟨את⟩ Rabbat n beni Ɛammon, akked ⟨את⟩ Yehuda, deg Yerucalayim, ⟨d⟩ taɣremt tikkestin.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ad teggreḍ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "iwakken ad d-yas"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tessist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbat n beni Ɛammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n beni"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "taɣremt tikkestin"
+    }
+  ],
+  "timestamp": "2026-10-03T00:51:58.683802743Z",
+  "model": "glm-5.3"
+}

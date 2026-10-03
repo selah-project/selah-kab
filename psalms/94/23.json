@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Ad yerr-itent ɣur-sent ⟨את⟩ tucḍa-nsent, deg dir-nsent ad yenger-ittent; ad yenger-ittent Yahwe, Elohim-nneɣ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ad yerr-itent"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣur-sent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tucḍa-nsent"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "tucḍa-nsent"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "deg dir-nsent"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ad yenger-ittent"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ad yenger-ittent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:27.006089144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 9:19",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "D ⟨את⟩ timdinin akk n lḥers i ilan Celomo, d timdinin n yiserdan, d timdinin n yifersen; d ⟨את⟩ wayen i ḥemmel Celomo ad yebnu deg Yerucalayim, deg Lebnan akked tmurt akk n tgelda-s.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "timdinin akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "n lḥers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "timdinin n yiserdan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "n yiserdan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "timdinin n yifersen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "n yifersen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wayen i ḥemmel"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "wayen i ḥemmel"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ḥemmel"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ad yebnu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "deg Lebnan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "akked tmurt akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "n tgelda-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:25.556258080Z",
+  "model": "glm-5.3"
+}

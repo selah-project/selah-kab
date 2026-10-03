@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Seg weselmad ɣer weselmad, tuɣdiṣt-ik ⟨tella⟩; tessebded tmurt, tuɣal tettɣimi.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "seg weselmad"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ɣer weselmad"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tuɣdiṣt-ik"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "tessebded"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "tuɣal tettɣimi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:14.292257521Z",
+  "model": "glm-5.3"
+}

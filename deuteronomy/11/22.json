@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 11:22",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ax'aṭer ma tḥerzen s lqeq akk alwaya-agi i nek i ⟨את⟩ kwen-yelqem ad t-texdemm, ad tḥemblem ⟨את⟩ Yahwe Elohim-nwen, ad teddum deg yiberdan-is akk, ad teṭṭfem yid-s:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ax'aṭer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "s lqeq"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "tḥerzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk alwaya-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "alwaya-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nek"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "yelqem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwen"
+    },
+    {
+      "surface": "לעשתה",
+      "gloss": "ad t-texdemm"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ad tḥemblem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim-nwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad teddum"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg akk"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iberdan-is"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "ad teṭṭfem yid-s"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yid-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:04.027247711Z",
+  "model": "glm-5.3"
+}

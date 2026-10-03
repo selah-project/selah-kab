@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Deffir n wussan, uneglaw iweɛḍ, axaṭer ur yelli ara ugeffur deg tmurt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "deffir n"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "iweɛḍ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "uneglaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ugeffur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:37.377847676Z",
+  "model": "glm-5.3"
+}

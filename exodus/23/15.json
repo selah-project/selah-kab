@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 23:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "⟨את⟩ aḥejjuṛ n umaṣuṭ ad t-ḥeḍḍeḍ; sa n wussan ad teṭṭfeḍ maṣuṭ, akken i wen-nniɣ, deg lwaqt, deg wagur n Ubib — axaṭer deg-s i teffeɣḍ seg Miṣrayim — ur ad d-yettwali yiwen udem-iw d ilem.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḥejjuṛ n umaṣuṭ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "aḥejjuṛ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "n umaṣuṭ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ad t-ḥeḍḍeḍ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maṣuṭ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "i wen-nniɣ"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "deg lwaqt"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "deg wagur"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "n Ubib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "teffeɣḍ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ad d-yettwali"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "d ilem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:26.923604382Z",
+  "model": "glm-5.3"
+}

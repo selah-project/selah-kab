@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Elohim d aḥakam n ṣedeq, ma d El yettazzmen yal ass.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "aḥakam"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "n ṣedeq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ma d El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "yettazzmen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:50.426549760Z",
+  "model": "glm-5.3"
+}

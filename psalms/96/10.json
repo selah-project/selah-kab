@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 96,
+  "translation": "Init deg yigensasen: Yahwe yeṭṭef tageldit; iman-nnes amadal yettwabna, ur ittekkṛaḍ ara; ad iḥkem i yegdunen s ṣedeq.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Init"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "deg yigensasen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yeṭṭef tageldit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "iman-nnes"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "yettwabna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amadal"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ittekkṛaḍ ara"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "i yegdunen"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "s ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:57.687149369Z",
+  "model": "glm-5.3"
+}

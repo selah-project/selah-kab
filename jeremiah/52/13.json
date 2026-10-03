@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Yeqqim deg times ⟨את⟩ axxam n Yahwe d ⟨את⟩ axxam n ugellid, akk imukan n Yerucalayim imeqqranen, akk tiygi meqqren yeqqim-tent deg times.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "yeqqim deg times"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "axxam n ugellid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk ⟨את⟩",
+      "marks": "tiygi n Yerucalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "tiygi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk ⟨את⟩",
+      "marks": "axxam ameqqran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tiygi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "imeqqranen"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg times"
+    }
+  ],
+  "timestamp": "2026-10-03T00:40:54.186911280Z",
+  "model": "glm-5.3"
+}

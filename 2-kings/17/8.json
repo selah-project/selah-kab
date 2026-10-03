@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "ḍfen ilugan n yigduden i yessefsay Yahwe miḍen zdat n bani Yisrael, akked wayen ig tt-ixedmen igelliden n Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ḍfen"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "ilugan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "n yigduden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "yessefsay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miḍen zdat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tt-ixedmen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:04.025738086Z",
+  "model": "glm-5.3"
+}

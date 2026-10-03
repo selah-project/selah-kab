@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "S sebba n David aɛeddab-ik, ur rriḍ ara udem n Umecḥun-ik.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "s sebba n"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "aɛeddab-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ur rriḍ ara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem n"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Umecḥun-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:47.522594728Z",
+  "model": "glm-5.3"
+}

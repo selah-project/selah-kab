@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "David yeṭṭef ⟨את⟩ Aḥinoɛam seg Yizreɛel; sin akin, snat-agi n tmeṭṭutin, llant d tilawin-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥinoɛam"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Aḥinoɛam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "seg Yizreɛel"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "llant"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akin"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "snat-agi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-is"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "d tilawin"
+    }
+  ],
+  "timestamp": "2026-10-02T22:50:25.934734653Z",
+  "model": "glm-5.3"
+}

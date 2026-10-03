@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Akahen ad yaru ⟨את⟩ talɛant-agi deg udlis, ad tt-yessef ar waman iqquren.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ad yaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talɛant-agi"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "talɛant"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akahen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deg udlis"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "ad yessef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "waman"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "iqquren"
+    }
+  ],
+  "timestamp": "2026-10-02T21:25:11.492974095Z",
+  "model": "glm-5.3"
+}

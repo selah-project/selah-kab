@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 34:20",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Agellid iḥettem ⟨את⟩ Ḥelqiya, d ⟨את⟩ Aḥiqam mmi-s n Safan, d ⟨את⟩ Ɛebdun mmi-s n Mixa, d ⟨את⟩ Safan amyaru, d ⟨את⟩ Ɛacaya, aqeddac n ugellid, ad d-inin:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "iḥettem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Agellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥelqiya"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Ḥelqiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Aḥiqam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Aḥiqam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "n Safan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ɛebdun"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Ɛebdun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "n Mixa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Safan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Safan"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "amyaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ɛacaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Ɛacaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aqeccac"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-inin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:56:40.640767872Z",
+  "model": "glm-5.3"
+}

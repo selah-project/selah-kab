@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Wid n Yisrael akk xedmen akken i d-yeṣṣefa Yahwe ⟨את⟩ Moce akked ⟨את⟩ Aharon; akka i xedmen.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yeṣṣefa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i xedmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:47.926807757Z",
+  "model": "glm-5.3"
+}

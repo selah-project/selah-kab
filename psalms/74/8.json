@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Nnan deg wul-awen: ad ten-nessḥer yakk; ḥerqen ⟨את⟩ akk anmuga n El deg tmurt.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Nnan"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "deg wul-awen"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "ad ten-nessḥer"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yakk"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ḥerqen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "anmuga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:23.838089404Z",
+  "model": "glm-5.3"
+}

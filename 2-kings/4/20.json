@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Iṭṭef-it-id, iwi-t ɣer yemma-s; tuɣ tefka-t ɣef iẓan-ines almi d tazaladt, immut.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Iṭṭef-it-id"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "iwi-t"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tuɣ tefka-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "iẓan-ines"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tazaladt"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "immut"
+    }
+  ],
+  "timestamp": "2026-10-02T23:28:06.775123575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "I n David. Yahwe d tafat-iw d usellak-iw; anwa ara kweḥleɣ? Yahwe d lɛezz n ḥyati; anwa ara ẓeṛbeɣ?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I n David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "d tafat-iw"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "d usellak-iw"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ara kweḥleɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "d lɛezz"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "n ḥyati"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ara ẓeṛbeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:44.413420885Z",
+  "model": "glm-5.3"
+}

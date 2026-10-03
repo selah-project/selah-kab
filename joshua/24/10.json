@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ur ṣedmeɣ ara ad d-sleɣ i Bilɛam, yerna yeberek fellawen ⟨את⟩ tikal, ɣef wayen iyi-yefkan ad kwen-id-ḥebbesɣ seg ufus-is.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ur ṣedmeɣ ara"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ad d-sleɣ"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "i Bilɛam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yeberek"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "tikal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "fellawen"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ad kwen-id-ḥebbesɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kwen"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "seg ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:51.537427357Z",
+  "model": "glm-5.3"
+}

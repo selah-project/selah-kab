@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Maca nekk, ɣer-k a Yahwe ssutreɣ, deg tifawt asuter-iw ad yizwer-k.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maca nekk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ssutreɣ"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "deg tifawt"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "asuter-iw"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ad yizwer-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:46.318809835Z",
+  "model": "glm-5.3"
+}

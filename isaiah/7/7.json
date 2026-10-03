@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akka i d-yenna Adonai Yahwe: ur ad d-yekkuf, ur ad yili.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ad d-yekkuf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:46.482302798Z",
+  "model": "glm-5.3"
+}

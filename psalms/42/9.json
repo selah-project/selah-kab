@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Deg wass ad ihedder Yahwe ⟨את⟩ ḥesed-is, deg yiḍ ccinna nniɣ yid-i, taẓallit i El n tmeddurt-iw.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ad ihedder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "ccinna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "taẓallit"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "i El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "n tmeddurt-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:25.755080016Z",
+  "model": "glm-5.3"
+}

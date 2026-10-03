@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "S wawal: ad ak-mide ⟨את⟩ tmurt n Kenɛan, d aḥric n lerbaḥ-awen.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "S wawal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ad ak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "-mide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt n Kenɛan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenɛan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "aḥric"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "n lerbaḥ-awen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:03.753822918Z",
+  "model": "glm-5.3"
+}

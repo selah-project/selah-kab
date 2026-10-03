@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Tessuffeɣ-d deg zdat Ccel d yimeddulen-is, ččan, neffden, unagen deg yiḍ nni.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "Tessuffeɣ-d deg zdat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ccel"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "d zdat"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yimeddulen-is"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ččan"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "neffden"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "unagen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    }
+  ],
+  "timestamp": "2026-10-02T22:50:07.070811525Z",
+  "model": "glm-5.3"
+}

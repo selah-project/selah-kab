@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Krehγ nekkini ⟨את⟩ akk uẓu-iw i txedmeγ ddaw tfukt, acku ara t-eǧǧeγ i wemdan ara yilin deffir-i.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "krehγ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk uẓu-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "uẓu-iw"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "i nekk"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "i txedmeγ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tfukt"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ara t-eǧǧeγ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ara yili"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:01.872658420Z",
+  "model": "glm-5.3"
+}

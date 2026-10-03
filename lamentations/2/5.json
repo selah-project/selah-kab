@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 2:5",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Adonai yuɣal amzun d aɛdaw: yeblaɛ Yisrael, yeblaɛ ⟨akk⟩ iɣermanen-is; iḥermes isukaḥ-ines, yerna deg yelli n Yehuda tayeẓẓit d lpertt.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "amzun d aɛdaw"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yeblaɛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yeblaע"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "iɣermanen-is"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "iḥermes"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "isukaḥ-ines"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "deg yelli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "tayeẓẓit"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "d lpertt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:53:23.687903580Z",
+  "model": "glm-5.3"
+}

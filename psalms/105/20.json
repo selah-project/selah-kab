@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Izul ugellid, i t-iḥellel; anebbaḍ n yegdanen i t-iselleḥ.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Izul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "i t-iḥellel"
+    },
+    {
+      "surface": "משל",
+      "gloss": "anebbaḍ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "n yegdanen"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "i t-iselleḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:15.968008592Z",
+  "model": "glm-5.3"
+}

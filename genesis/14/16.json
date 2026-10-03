@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yerra-d ⟨את⟩ lekmal akk; Yenna-d daɣen ⟨את⟩ Lut gma-s akken d wayla-s yerra-d; daɣen ⟨את⟩ tilawin akken ⟨את⟩ imezdaɣ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Yerra-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lekmal akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "lekmal"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lut"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "akken d wayla-s"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilawin"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imezdaɣ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "imezdaɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:12.122835760Z",
+  "model": "glm-5.3"
+}

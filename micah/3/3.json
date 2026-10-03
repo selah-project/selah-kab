@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Wid yeccan tifekka n ugdud-iw, ḥeṣṣen aglim-nsen si fell-asen, ṣerrgen ⟨את⟩ iɣsan-nsen, u zenẓan-ten am di tinest, am tfekkt deg taxdirat.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Wid"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yeccan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "tifekka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ugdud-iw"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "aglim-nsen"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "si fell-asen"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "ḥeṣṣen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iɣsan-nsen"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "iɣsan-nsen"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ṣerrgen"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "zenẓan-ten"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "am"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "di tinest"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "am tfekkt"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "taxdirat"
+    }
+  ],
+  "timestamp": "2026-10-03T04:31:26.526423435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Iqeḍqen ad sɛun ⟨את⟩ tmurt, ad zedɣen deg-s i lebda.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "iqeḍqen"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ad sɛun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "ad zedɣen"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:54.354404831Z",
+  "model": "glm-5.3"
+}

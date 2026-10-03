@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ur yettwaf ara garawen win izuggen mmi-s neɣ yelli-s deg tmes, aqessar n tqessmin, win iḥerḍen tinas, win ittxebbiren, neɣ win ixedmen tiseḥḥart.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yettwaf ara"
+    },
+    {
+      "surface": "בך",
+      "gloss": "garawen"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "win izuggen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "neɣ yelli-s"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "aqessar"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "n tqessmin"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "win iḥerḍen tinas"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "win ittxebbiren"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "win ixedmen tiseḥḥart"
+    }
+  ],
+  "timestamp": "2026-10-02T21:59:23.653051269Z",
+  "model": "glm-5.3"
+}

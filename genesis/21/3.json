@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Avraham isemma ⟨את⟩ yisem n mmi-s, win i d-ilulan i Sara: Yiṣḥaq.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "isemma"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yisem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "n mmi-s"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "win i d-ilulan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "d-ilulan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:01.916776099Z",
+  "model": "glm-5.3"
+}

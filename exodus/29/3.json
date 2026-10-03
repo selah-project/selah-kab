@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad ten-treḍbeḍ ⟨אתם⟩ ɣef yiwen n ukerruš, ad ten-tesseḥbes ⟨אתם⟩ deg ukerruš, akked ⟨את⟩ yifis d ⟨את⟩ sin n yimellalen.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ad ten-treḍbeḍ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ihin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "סל",
+      "gloss": "akerruš"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "ad ten-tesseḥbes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ihin"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "deg ukerruš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "yifis"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yifis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "sin n yimellalen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "n yimellalen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:35.399069524Z",
+  "model": "glm-5.3"
+}

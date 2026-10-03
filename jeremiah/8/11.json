@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ssujjen ⟨את⟩ jerḥ n yelli n ugdud-iw s zzhel, qqaren: Talwit, talwit; ma yella-ulac talwit.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ssujjen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jerḥ n yelli n ugdud-iw"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "jerḥ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli n"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ugdud-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "zzhel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "qqaren"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma yella-ulac"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:08.792249692Z",
+  "model": "glm-5.3"
+}

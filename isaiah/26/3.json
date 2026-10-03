@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Iḍes immelsen ɣef kečč, ad t-tḥerzeḍ s telwit — telwit! — acku deg kečč i yettεeqqel.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "iḍes"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "immelsen"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ad t-tḥerzeḍ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "telwit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "telwit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg kečč"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "yettεeqqel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:52.449450803Z",
+  "model": "glm-5.3"
+}

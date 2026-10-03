@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mi yella wayen yettwanḥebren i David, yeggra-d ⟨את⟩ meṛṛa Yisrael, iɛedda ⟨את⟩ Urdun, yekcem-d ɣer Ḥelam; Aram yewṣel-d ɣer zdat n David, ḥerben yid-es.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yettwanḥeber"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "yeggra-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "iɛedda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urdun"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Urdun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem-d"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "ɣer Ḥelam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "yewṣel-d"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ɣer zdat n"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ḥerben"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-es"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:16.219389902Z",
+  "model": "glm-5.3"
+}

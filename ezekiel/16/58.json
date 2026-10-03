@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "D ⟨את⟩ ttexrireḍ-ik i ḥemleḍ ⟨וְאת⟩ tmuḥan-ik, i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ttexrireḍ-ik"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "ttexrireḍ-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmuḥan-ik"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "tmuḥan-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "i ḥemleḍ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:49:40.439599403Z",
+  "model": "glm-5.3"
+}

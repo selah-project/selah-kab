@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yeṭṭef yerna yeṭṭef s yiles-is ɣer Yahwe — maca: ur iṛuḥ ara ddeffir-is, iḥrez taludna-nnes i Yahwe i d-yesselḥen i Moce ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "yeṭṭef ɣer"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "סר",
+      "gloss": "iṛuḥ ddeffir"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ddeffir-is"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "iḥrez"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "taludna-nnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "d-yesselḥen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:10.845748205Z",
+  "model": "glm-5.3"
+}

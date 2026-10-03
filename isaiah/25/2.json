@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Axaṭer terraḍ ⟨i⟩ temdint d axlay, tamdint tummint d wagḍu; lqṣeb n yibeṛṛaniyen ⟨yerna⟩ seg temdint, i lebda ur tettwabna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "terraḍ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "d axlay"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "tamdint tummint"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "tummint"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "d wagḍu"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "lqṣeb"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "n yibeṛṛaniyen"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "seg temdint"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "tettwabna"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:31.738596032Z",
+  "model": "glm-5.3"
+}

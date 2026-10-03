@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "D ⟨את⟩ iẓra n Yerucalayim, di rrif akk, i ḥerṣen akk iɛsekker n yikaldayen yellan d unemhal n yiṭabbaḥen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "D ⟨את⟩",
+      "marks": "iẓra n Yerucalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di rrif akk"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ḥerṣen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iɛeskker"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "n yikaldayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan d"
+    },
+    {
+      "surface": "רב",
+      "gloss": "unemhal"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "n yiṭabbaḥen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:02.597504330Z",
+  "model": "glm-5.3"
+}

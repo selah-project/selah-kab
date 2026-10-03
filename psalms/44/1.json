@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "I umasuqel, i waraw n Qoraḥ, d ameskar amasem.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i umasuqel"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i waraw"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "d ameskar amasem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:18.085754111Z",
+  "model": "glm-5.3"
+}

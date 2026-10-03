@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 93,
+  "translation": "Timawin-inek nnan-d tidet s waṭas; i wemkan-ik n yiqedcen yiweddaq teqedcit, a Yahwe, ɣer teɣzi n wussan.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Timawin-inek"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "nnan-d tidet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "i wemkan-ik"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yiweddaq"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "teqedcit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ɣer teɣzi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:11.832987514Z",
+  "model": "glm-5.3"
+}

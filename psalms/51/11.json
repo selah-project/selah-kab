@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Delleḍ udmuv-ik seg ibekkiven-inu, kkseḍ akk ibekkiven-iw meqqrenin.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Delleḍ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udmuv-ik"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "seg ibekkiven-inu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ibekkiven-iw meqqrenin"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "kkseḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:19.057542354Z",
+  "model": "glm-5.3"
+}

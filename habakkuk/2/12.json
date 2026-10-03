@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ay aḥwan i win yebennun tamdint s idammen, i usesbeɛ tamdint s tewtla!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ay aḥwan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "i win yebennun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "s idammen"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "i usesbeɛ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "s tewtla"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:01.513642394Z",
+  "model": "glm-5.3"
+}

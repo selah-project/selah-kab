@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Axatek ur zdigeg ara deg uxam, seg wass ideg sliɣeɣ ⟨את⟩ at Yisrael seg Miṣrayim, arma d ass-a, maca kkaneɣ ttedduɣ deg uḥemdam d deg Mickan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axatek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "zdigeg ara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxam"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "seg wass ideg"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "sliɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "at Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kkaneɣ"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ttedduɣ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "deg uḥemdam"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "d deg Mickan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:58:24.248412269Z",
+  "model": "glm-5.3"
+}

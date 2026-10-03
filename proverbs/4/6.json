@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ur tt-teǧǧ ara, ad k-teḥrez; ḥemmel-tt, ad k-teṣḥes.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "tt-teǧǧ ara"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "ad k-teḥrez"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ḥemmel-tt"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "ad k-teṣḥes"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:04.662685882Z",
+  "model": "glm-5.3"
+}

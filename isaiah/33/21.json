@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 33:21",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Maca dinna Yahwe ⟨i⟩-neɣ, ameqṛan n tezmert, amkan n yisaffen, d ixxafen iḥerben deg yifassen; ulac taberkant s tɛeqqalt ad d-tekcem degs, ulac taberkant tameqṛant ad t-yezri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ameqṛan n tezmert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i-neɣ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "n yisaffen"
+    },
+    {
+      "surface": "יארים",
+      "gloss": "n ixxafen"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "iḥerben"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "deg yifassen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ad d-tekcem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "degs"
+    },
+    {
+      "surface": "אני",
+      "gloss": "taberkant"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "s tɛeqqalt"
+    },
+    {
+      "surface": "וצי",
+      "gloss": "ulac ... ad t-yezri"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "tameqṛant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יעברנו",
+      "gloss": "ad t-yezri"
+    }
+  ],
+  "timestamp": "2026-10-02T23:54:00.658571353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ṣedeqya mmi-s n Kenaɛana yexleq i yiman-is tiqernin n wuzzal, yenna: Akka i d-yenna Yahwe: S tiqernin-agi ad tṭeccmeḍ ⟨את⟩ Aram, alamma ten-tekkmleḍ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Ṣedeqya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaɛana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tiqernin"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "n wuzzal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "S tiqernin-agi"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "ad tṭeccmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alamma"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "ten-tekkmleḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:25:46.117086639Z",
+  "model": "glm-5.3"
+}

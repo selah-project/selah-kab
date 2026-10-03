@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-yas Ɛli: Armi melmi ara tettcukkeḍ? Ekkes ⟨את⟩ lvin-ik seg fellam!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "yas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ɛli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Armi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ara tettcukkeḍ"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Ekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lvin-ik"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "lvin-ik"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "seg fellam"
+    }
+  ],
+  "timestamp": "2026-10-03T04:11:25.228511739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 126,
+  "translation": "Ad yeddu yella, ad yeddu yettḥeqqic, yettawi tawṣa n uzeṭṭu; ad yekcem yella s yisefra, yettawi isugga-nnis.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ad yeddu yella"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "yettḥeqqic"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yettawi"
+    },
+    {
+      "surface": "משך",
+      "gloss": "tawṣa"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "n uzeṭṭu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ad yekcem yella"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ad yekcem"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "s yisefra"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yettawi"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "isugga-nnis"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:44.564488212Z",
+  "model": "glm-5.3"
+}

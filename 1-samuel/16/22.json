@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Cawl yazen ɣer Yicay ad yenna: ad yeqqim David deg zdat-iw, ma ulac aɣrif, axaṭer yufa lɛafya deg tiṭṭiyeṭ-iw.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yazen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yicay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac aɣrif"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lɛafya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭṭiyeṭ-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T22:42:57.171340289Z",
+  "model": "glm-5.3"
+}

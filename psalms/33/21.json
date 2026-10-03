@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Axaṭer degs i yuɣal ul-nneɣ d aeḥdan, axaṭer deg Yisem-iw iqedcen neḥbes deg-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "degs"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yuɣal d aeḥdan"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ul-nneɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "deg Yisem-iw"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "neḥbes deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:56.032201259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "d timdiṛin akk n Siḥon, agellid n yimoriyen, i yenneḥkem deg Ḥecbon, ar tilist n warraw n Ɛammon;",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "d timdiṛin akk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timdiṛin"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Siḥon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "n yimoriyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yenneḥkem"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "deg Ḥecbon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilist"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n warraw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛammon"
+    }
+  ],
+  "timestamp": "2026-10-02T22:15:53.500106177Z",
+  "model": "glm-5.3"
+}

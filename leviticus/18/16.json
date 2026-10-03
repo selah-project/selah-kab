@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ɛerva n tmeṭṭut n gma-k ur t-treffeḍ; d ɛerva n gma-k nettat.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ɛerva"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "t-treffeḍ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ɛerva"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nettat"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:22.443081648Z",
+  "model": "glm-5.3"
+}

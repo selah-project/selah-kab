@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "d ⟨את⟩ zzit n uḥettu, d ⟨את⟩ rrnan n yisemmaden i wegguni, akken akk i d-mlaɣ-k, ad t-ssgen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zzit n uḥettu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzit"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n uḥettu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rrnan n yisemmaden"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "rrnan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "n yisemmaden"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "i wegguni"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "d-mlaɣ-k"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ad t-ssgen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:56.058820418Z",
+  "model": "glm-5.3"
+}

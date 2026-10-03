@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Deg wul-iw i ḥebbeṣeɣ awal-ik, iwakken ur k-id-ḥettigeɣ ara.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "deg wul-iw"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "i ḥebbeṣeɣ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "awal-ik"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "k-id-ḥettigeɣ ara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨k-id⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:00.438524978Z",
+  "model": "glm-5.3"
+}

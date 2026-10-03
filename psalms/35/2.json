@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ḥkem aggen d tγawsa, yekkat, ihi qqim i tiddin-inu.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Ḥkem"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "aggen"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "d tγawsa"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "qqim ihi"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "i tiddin-inu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:55.726556914Z",
+  "model": "glm-5.3"
+}

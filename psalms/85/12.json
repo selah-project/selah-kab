@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Tideṛt ad d-teqqim seg tmurt d lḥemla, ṣedeq ad d-iẓeṛ seg igenwan.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Tideṛt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt d lḥemla"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ad d-teqqim"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "seg igenwan"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "ad d-iẓeṛ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:36.721496892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "A mmi, ma tremseḍ awalen-iw, ma tḥettmen ⟨את⟩ yid-k tewsiyin-iw.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "A mmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tremseḍ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "awalen-iw"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "tewsiyin-iw"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "tḥettmen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k",
+      "marks": "yid-k (tewsiyin-iw)"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:35.846082500Z",
+  "model": "glm-5.3"
+}

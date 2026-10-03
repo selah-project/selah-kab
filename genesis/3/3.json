@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Maca i uceṭṭiḥ n useklu i d-yellan deg telemmast n leǧnina, Elohim yenna: ur t-tettetem deg-s, ur t-taddun deg-s, elken ad temmtem.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "i uceṭṭiḥ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "n useklu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yellan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg telemmast"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "n leǧnina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "t-tettetem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "t-taddun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "פן",
+      "gloss": "elken"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ad temmtem"
+    }
+  ],
+  "timestamp": "2026-10-03T03:58:50.953835010Z",
+  "model": "glm-5.3"
+}

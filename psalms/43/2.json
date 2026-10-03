@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Axaṭer keččini d Elohim n tzemmart-iw, ɣer acu tuɣleḍ-t-id fell-i? Ɣer acu tteddun taɛqalt-iw deg weqyad n yiɛdaw?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keččini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "n tzemmart-iw"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ɣer acu"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "tuɣleḍ-t-id fell-i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ɣer acu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "tteddun taɛqalt-iw"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "tteddu"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "deg weqyad"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n yiɛdaw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:01.082133040Z",
+  "model": "glm-5.3"
+}

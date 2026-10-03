@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Jerrben ⟨את⟩ Elohim Ɛelyon, dɣa qelɛen ɣef-s, inagan-is ur ṣṭafen ara.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Jerrben"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "qelɛen ɣef-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Ɛelyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɛelyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "inagan-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ṣṭafen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:31.668507581Z",
+  "model": "glm-5.3"
+}

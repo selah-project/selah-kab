@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ula d ɣef waya, teldi ⟨את⟩ tiḍin-ik, u tessiweḍ ⟨את⟩-i deg ccreɛ akked kečč?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ula d"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "waya"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "teldi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "tiḍin-ik"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩-i",
+      "marks": "tessiweḍ ⟨את⟩-i"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "tessiweḍ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "deg ccreɛ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "akked kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T02:35:30.759154269Z",
+  "model": "glm-5.3"
+}

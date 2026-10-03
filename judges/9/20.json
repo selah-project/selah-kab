@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ma ur t-id-terrḍem ara s ttbut, ad d-teffeɣ times seg Abimelec, ad tett ⟨את⟩ iḍebbaren n Cekem akk ⟨את⟩ wexxam n Miluɛ, ad d-teffeɣ times seg iḍebbaren n Cekem akk seg wexxam n Miluɛ, ad tett ⟨את⟩ Abimelec.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ad d-teffeɣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "seg Abimelec"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ad tett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḍebbaren n Cekem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "iḍebbaren"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "n Cekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk ⟨את⟩",
+      "marks": "wexxam n Miluɛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "n Miluɛ"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ad d-teffeɣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "seg iḍebbaren"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "n Cekem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "akk seg wexxam"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "n Miluɛ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ad tett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelec"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelec"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:19.342899744Z",
+  "model": "glm-5.3"
+}

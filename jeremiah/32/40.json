@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 32:40",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ad asen-ḥeṭṭmeɣ lɛahd n lebda: ad ur d-ttuɣal ara ad ten-ḥezzuɣ ⟨את⟩ iten; taḥdaṛt-iw ⟨את⟩ ad tt-ssefk seg wulawen-nsen, iwakken ad ur d-ttunin ara tikki-nni sya i iw.",
+  "tokens": [
+    {
+      "surface": "וכרתי",
+      "gloss": "ad asen-ḥeṭṭmeɣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i sen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n lebda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ad d-ttuɣal ara"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "deffir-nsen"
+    },
+    {
+      "surface": "להיטיבי",
+      "gloss": "ad ten-ḥezzeɣ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ iten",
+      "marks": "iten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taḥdaṛt-iw"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "taḥdaṛt-iw"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad tt-ssefk"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "seg wulawen-nsen"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "iwakken ad ur"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ttunin"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sya i iw"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:12.701000522Z",
+  "model": "glm-5.3"
+}

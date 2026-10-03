@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yexleq ⟨את⟩ taṣast n nneḥac d ⟨את⟩ aẓar-is n nneḥac, s iri n tfrax i ḥeddmen ɣef ugdil n uxem n umlal.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣast"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "taṣast"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n nneḥac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aẓar-is"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "aẓar-is"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n nneḥac"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "s iri"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "n tfrax"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ḥeddmen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ɣef ugdil"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n uxem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlal"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:12.213760581Z",
+  "model": "glm-5.3"
+}

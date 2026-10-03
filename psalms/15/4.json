@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yettwakkes deg tiḥciyin-is win yettwagnan, ma d wid iYahwe igellilen, ad ten-imez. Iɣ yula i umenay ad yeḥmel diri, ur t-id-yettbeddil ara.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "win yettwagnan"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "deg tiḥciyin-is"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "yettwakkes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid igellilen iYahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "wid igellilen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "iYahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ad ten-imez"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "iɣ yula i umenay"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ad yeḥmel diri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "t-id-yettbeddil ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:18.223003014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Izem iwɛeṛ, anwi ur ixelleq ara? Adonai Yahwe yemeslay, anwi ur yemmeslay ara d navi?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "izem"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "iwɛeṛ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ixelleq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yemeslay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "yemmeslay d navi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:20:46.585632684Z",
+  "model": "glm-5.3"
+}

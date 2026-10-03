@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Amaleq ikecmen, yennaɣ d Yisrael deg Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ikecmen"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "yennaɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "deg Refidim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:21.445385189Z",
+  "model": "glm-5.3"
+}

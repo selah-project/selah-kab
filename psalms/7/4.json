@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yahwe Elohim-iw, ma xedmeɣ ayagi, ma tella tegguct deg yif-iyi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "xedmeɣ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יש",
+      "gloss": "tella"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tegguct"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "deg yif-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:57.891095888Z",
+  "model": "glm-5.3"
+}

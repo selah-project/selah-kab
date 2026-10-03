@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 120,
+  "translation": "Tineṛḍin izeggunen n uɣella aɛeḥtunen, akked trueq n useklu n rṭem.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "tineṛḍin"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "n uɣella"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "izeggunen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "trueq n"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "useklu n rṭem"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:18.258072564Z",
+  "model": "glm-5.3"
+}

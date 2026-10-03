@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad muddeɣ ocwan deg iẓuran-nwen i lmal-nwen, ad tettm, ad tcbeḥem.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad muddeɣ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ocwan"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "deg iẓuran-nwen"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "i lmal-nwen"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ad tettm"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ad tcbeḥem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:14.187635771Z",
+  "model": "glm-5.3"
+}

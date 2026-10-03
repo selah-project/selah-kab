@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Yelha wemdan yettḥunmen, d win i d-ittunefaqen; ad isdukkel tiɣawsiwin-is s ccreɛ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Yelha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "yettḥunmen"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "d win i d-ittunefaqen"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ad isdukkel"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "tiɣawsiwin-is"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "s ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:21.434080545Z",
+  "model": "glm-5.3"
+}

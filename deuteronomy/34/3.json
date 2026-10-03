@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "D ⟨את⟩ unefẓa, d ⟨את⟩ zzir n tuccent n Yeriḥo, tamdint n yimɣi n ticcert, arma d Ṣuɛar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unefẓa"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "unefẓa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zzir"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "zzir"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "tuccent"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriḥo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "n yimɣi n ticcert"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Ṣuɛar"
+    }
+  ],
+  "timestamp": "2026-10-02T22:09:13.961053423Z",
+  "model": "glm-5.3"
+}

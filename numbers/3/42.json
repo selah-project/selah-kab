@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Iḥsab Moce, akken yeṣra Yahwe ⟨את⟩-is, ⟨את⟩ akk imezwura deg warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "iḥsab"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeṣra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-is",
+      "marks": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk imezwura"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "imezwura"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "deg warraw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:32.228165208Z",
+  "model": "glm-5.3"
+}

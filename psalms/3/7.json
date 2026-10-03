@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ur ttarguɣ ara tid n wagim n yimezdaɣ, wid i y-izzin rnan ldin ɣef-i.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ttarguɣ"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "tid n wagim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n yimezdaɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "i y-izzin"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "rnan ldin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:45.434677117Z",
+  "model": "glm-5.3"
+}

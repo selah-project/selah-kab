@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ad t-teṭṭfen baba-s d yemma-s, ad t-fḍen ⟨את⟩ ɣer imeqqranen n temdint-is, d ɣer tawwurt n wemkan-is.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ad t-teṭṭfen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "t"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "d yemma-s"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ad t-fḍen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "imeqqranen"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "n temdint-is"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tawwurt"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "n wemkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:00:08.620497437Z",
+  "model": "glm-5.3"
+}

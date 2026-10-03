@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "tiwsiwin deg tmurt n Ḥam, d tid yettẓerrin tugdi ɣef yilel n Ṣuf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "tiwsiwin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "חם",
+      "gloss": "n Ḥam"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "tid yettẓerrin tugdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "n Ṣuf"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:19.564625070Z",
+  "model": "glm-5.3"
+}

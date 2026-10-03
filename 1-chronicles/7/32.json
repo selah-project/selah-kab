@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ḥeber yuraw ⟨את⟩ Yaflet, ⟨את⟩ Comer, ⟨את⟩ Ḥotam, d ⟨את⟩ Cuɛa ulteṣen.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Ḥeber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yuraw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Comer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Comer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Ḥotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cuɛa"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Cuɛa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ulteṣen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:01.978864603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Deg wass-nni, tḥeqq tiddi n Yahwe, iɣuger ad yini.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "tḥeqq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tiddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "iɣuger"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:11.942348649Z",
+  "model": "glm-5.3"
+}

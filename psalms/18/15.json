@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Izenz-d ticeɛ-ines yenfeɛ-asen, yerna ileberḥeq tuɣal d aṭas, yesḥesfer-itent.",
+  "tokens": [
+    {
+      "surface": "ושלח וישלח",
+      "gloss": "Izenz-d"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ticeɛ-ines"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "yenfeɛ-asen"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "ileberḥeq"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tuɣal d aṭas"
+    },
+    {
+      "surface": "והמם ויהמם",
+      "gloss": "yesḥesfer-itent"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:51.670442470Z",
+  "model": "glm-5.3"
+}

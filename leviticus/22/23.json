@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Azger neɣ taɣa win yesɛan aɛeḍḍel neɣ ayen iṛuḥen-as, ad s-neḥruṣa d tikci s lehna ⟨אתו⟩, maca i lɛahd ur yettwaqbel ara.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "azger"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "taɣa"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "win yesɛan aɛeḍḍel"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ayen iṛuḥen-as"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "tikci s lehna"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad s-neḥruṣa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tikci s lehna"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "i lɛahd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "yettwaqbel ara"
+    }
+  ],
+  "timestamp": "2026-10-02T21:15:34.190228305Z",
+  "model": "glm-5.3"
+}

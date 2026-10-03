@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tigejtin n yigennad ṛẓent, wid i d-yuznen ttṛuẓen ẓedmen tazmert.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "tigejtin"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "n yigennad"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ṛẓent"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "wid i d-yuznen ttṛuẓen"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ẓedmen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tazmert"
+    }
+  ],
+  "timestamp": "2026-10-02T22:36:52.119383550Z",
+  "model": "glm-5.3"
+}

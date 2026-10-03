@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "D ⟨את⟩ wegdud, yessekles-it ɣer temdinin, seg yixf n tilist n Miṣrayim ar yixf-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wegdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "yessekles-it"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "temdinin"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "ɣer temdinin"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "seg yixf"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilist"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "yixf-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:34:58.883776035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Zzemreḍ yi, Yahwe, acku aqeḥḥeli-yi; sefseḍ yi, Yahwe, acku ssenzen yiẓan-iw.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Zzemreḍ yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "aqeḥḥeli-yi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "sefseḍ yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ssenzen"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "yiẓan-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:51.658451918Z",
+  "model": "glm-5.3"
+}

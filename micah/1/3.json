@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Akkwen ayagi: Yahwe ad yefreγ si wenkan-is, ad yedru d ad iḍerrer γef tiboaḍ n tmurt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Akkwen ayagi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ad yefreγ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "si wenkan-is"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ad yedru"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "d ad iḍerrer"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "tiboaḍ n"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:27:15.637706817Z",
+  "model": "glm-5.3"
+}

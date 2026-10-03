@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "Axaṭer aɛdaw iḍfer tanefth-iw; yesseɣli tudert-iw ɣer lmert; isselɣet-iyi ad zdimeɣ ger tiberawin, am wid yemmuten zik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "iḍfer"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "aɛdaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tanefth-iw"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "yesseɣli"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ɣer lmert"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "tudert-iw"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "isselɣet-iyi ad zdimeɣ"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ger tiberawin"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "am wid yemmuten"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:12.430354833Z",
+  "model": "glm-5.3"
+}

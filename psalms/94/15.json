@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Ih, ccreɛ ad d-yuɣal ɣer ṣedeq, wid yeflalin deg ul d kecmen ad t-id-ḍefren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ad d-yuɣal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ad t-id-ḍefren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wid yeflalin"
+    },
+    {
+      "surface": "לב",
+      "gloss": "n ul"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:20.142249874Z",
+  "model": "glm-5.3"
+}

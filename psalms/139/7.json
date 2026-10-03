@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Ansi ad ruḥeɣ seg ruaḥ-ik? Ansi ad rewḥeɣ seg uẓeṭṭa-ik?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ansi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ad ruḥeɣ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "seg ruaḥ-ik"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "Ansi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "seg uẓeṭṭa-ik"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ad rewḥeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.765182034Z",
+  "model": "glm-5.3"
+}

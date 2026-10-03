@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad mwaggren ɣef lḥerma n lxerc nnsen, wid yettinin-iḍ-iw: Aha, aha.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ad mwaggren"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "lḥerma"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "n lxerc nnsen"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wid yettinin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iḍ-iw"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:40.882824188Z",
+  "model": "glm-5.3"
+}

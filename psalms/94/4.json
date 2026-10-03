@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Ad d-glun s wawalen, ad mmeslayen s tiṛṛifit, akk imeddnen n tḍemdt ad iqebleḥen iman-nsen.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "ad d-glun"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ad mmeslayen"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "s tiṛṛifit"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "ad iqebleḥen iman-nsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "imeddnen"
+    },
+    {
+      "surface": "און",
+      "gloss": "n tḍemdt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:13.385606574Z",
+  "model": "glm-5.3"
+}

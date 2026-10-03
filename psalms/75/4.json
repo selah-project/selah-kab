@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Teḥwaṛ tmurt akked wid akk zedɣen deg-s, nekkini sneflaɣ-t id iẓuran-nnes. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Teḥwaṛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked wid akk"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "zedɣen deg-s"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "sneflaɣ-t id"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "iẓuran-nnes"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:17.024406225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Ad s-ẓeggen igenwan d tmurt, iylalen d yal ayen yettɣimin degsen.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ad s-ẓeggen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "d tmurt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "iylalen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d yal"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ayen yettɣimin"
+    },
+    {
+      "surface": "בם",
+      "gloss": "degsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:43.799168855Z",
+  "model": "glm-5.3"
+}

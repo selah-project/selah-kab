@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Ad iḥebb imḍebren-is s leɛṣa-s, d yimγaṛen-is ad yesselmed ten tawagit.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Ad iḥebb"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "imḍebren-is"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "s leɛṣa-s"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "d yimγaṛen-is"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ad yesselmed ten tawagit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:54.437727671Z",
+  "model": "glm-5.3"
+}

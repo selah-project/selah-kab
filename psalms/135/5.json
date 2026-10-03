@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Acki nekk, ssneɣ belli Yahwe meqqwer, akked Adonai-nneɣ ⟨i⟨⟩⟩ ufella n akk iṛebbiten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ssneɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqwer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "akked Adonai-nneɣ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af akk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iṛebbiten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:51.971949758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Dlalen ⟨את⟩ ilsawen-nsen, tɣerdayt-nsen d lekred; ur tt-ṭṭfen ara i lmennat, ṭṭfen-ddeg tmurt; axaṭer seg diri ɣer diri ɛeddin, ma d ⟨את⟩ i ur ẓrin, awal i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "Dlalen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilsawen-nsen"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilsawen-nsen"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "tɣerdayt-nsen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lekred"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "i lmennat"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ṭṭfen-ddeg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "seg diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ɛeddin"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ i",
+      "marks": "ur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ẓrin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:17:58.692754304Z",
+  "model": "glm-5.3"
+}

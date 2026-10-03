@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "I lebɣi-iw, i lebɣi-iw, ad txedmeɣ; acku amek ad yettwanef yisem-iw? Taɛzimt-iw i wayeḍ ur tt-muddɣ ara.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "i lebɣi-iw"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "i lebɣi-iw"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad txedmeɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "איך",
+      "gloss": "amek"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "ad yettwanef"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "taɛzimt-iw"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "i wayeḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad muddɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:57.226746876Z",
+  "model": "glm-5.3"
+}

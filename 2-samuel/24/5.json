@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ɛeddin ⟨את⟩ was Iurdan, zeḍlen di Ɛaroɛer, ɣer yefus n temdint i d-yezgan di tlemmast n wasif n Gad, ɣer Yaɛzer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ɛeddin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "was Iurdan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "was Iurdan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "zeḍlen"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Ɛaroɛer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ɣer yefus"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yezgan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tlemmast"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "n wasif"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "n Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaɛzer"
+    }
+  ],
+  "timestamp": "2026-10-02T23:08:28.952504012Z",
+  "model": "glm-5.3"
+}

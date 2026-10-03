@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Ulac am kečç deg Elohim, a Adonai, ulac am igiten-ik.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "am kečč"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "am igiten-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:01.946000659Z",
+  "model": "glm-5.3"
+}

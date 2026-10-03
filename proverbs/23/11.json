@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "axaṭer Win ten-yezzuɣ d ugejdan; neṭṭa ad yekkes ⟨את⟩ timsal-nsen ⟨את⟩ kečč.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "Win ten-yezzuɣ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "d ugejdan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neṭṭa"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ad yekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timsal-nsen"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "timsal-nsen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T02:26:44.033292125Z",
+  "model": "glm-5.3"
+}

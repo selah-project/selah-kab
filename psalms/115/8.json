@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Am ur-a, wid ten-ixelqen ad ilin; akk wid yettḥekmen fell-asen, am-nsen ad ilin.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "am ur-a"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "wid ten-ixelqen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yettḥekmen fell-asen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "am-nsen ad ilin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:13.686342748Z",
+  "model": "glm-5.3"
+}

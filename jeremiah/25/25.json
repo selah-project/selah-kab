@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "akken ⟨d⟩ ⟨את⟩ yill agelliden n Zimri, ⟨d⟩ ⟨את⟩ yill agelliden n ɛElam, ⟨d⟩ ⟨את⟩ yill agelliden n Madyan;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yill agelliden n Zimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yill"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agelliden n"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yill agelliden n ɛElam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yill"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agelliden n"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ɛElam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yill agelliden n Madyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yill"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agelliden n"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madyan"
+    }
+  ],
+  "timestamp": "2026-10-03T00:25:12.540099738Z",
+  "model": "glm-5.3"
+}

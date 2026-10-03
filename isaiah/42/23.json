@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Anwa segwen ad isel ayagi? Ad iqeqeɛ, ad isel i ḥeṣṣa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "segwen"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ad isel"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "ad iqeqeɛ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ad isel"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "i ḥeṣṣa"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:11.750110888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ssalu n David. N Yahwe ⟨⟨d⟩⟩ tamurt akk ayen degs, amaḍal akk wid zedɣen degs.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ssalu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "akk ayen degs"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amaḍal"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "akk wid zedɣen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "degs"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:23.754563189Z",
+  "model": "glm-5.3"
+}

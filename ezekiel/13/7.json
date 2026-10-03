@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 13:7",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Mačči d tayri n tilemt ay tzemrem, d lekḥel ikell ay tettmeslayem, mi tennaḍ: i d-yenna Yahwe, yekkwi ur d-meslayeg ara?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Mačči"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "tayri"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "n tilemt"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "tzemrem"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "d lekḥel"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ikell"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "tettmeslayem"
+    },
+    {
+      "surface": "ואמרים",
+      "gloss": "mi tennaḍ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "yekkwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "meslayeg"
+    }
+  ],
+  "timestamp": "2026-10-03T00:46:35.468502234Z",
+  "model": "glm-5.3"
+}

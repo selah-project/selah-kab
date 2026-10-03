@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad yekkfa dir n wid n dir, ma d win n ṣedeq ad t-tessewḥeleḍ; Elohim, win n ṣedeq, ad yizmir ula d wulawen d yikelawen.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "ad yekkfa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨a nuddi⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n dir"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ad t-tessewḥeleḍ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "win n ṣedeq"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "ad yizmir"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "wulawen"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "ikelawen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "win n ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:50.426231260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Twexreε-ed, kkedweγ ar teεṭel; akk ass, teddweγ s lḥezn.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "twexreε-ed"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "kkedweγ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "teεṭel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "s lḥezn"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "teddweγ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:25.046508624Z",
+  "model": "glm-5.3"
+}

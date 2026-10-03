@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Naḥcon iwelḍed ⟨את⟩ Salma; Salma iwelḍed ⟨את⟩ Boɛz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Naḥcon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelḍed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelḍed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boɛz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boɛz"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:23.401500447Z",
+  "model": "glm-5.3"
+}

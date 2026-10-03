@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna: Anida-t ubrid ara nɛin? Yenna: Ubrid n uneẓruf n Edum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אי",
+      "gloss": "anida"
+    },
+    {
+      "surface": "זה",
+      "gloss": "-t"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ubrid"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ara nɛin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ubrid"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "uneẓruf"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edum"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:07.463672977Z",
+  "model": "glm-5.3"
+}

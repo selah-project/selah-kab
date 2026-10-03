@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Avraham yennej zik ɣef lɛid, ɣer wemkan ideg yebda din s ⟨את⟩ udmawen n Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yennej zik"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ɣef lɛid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yebda din"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmawen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:15:48.218742254Z",
+  "model": "glm-5.3"
+}

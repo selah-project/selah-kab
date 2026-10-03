@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Azedar n Elohim ⟨d⟩ tasuffegt n wawal; azedar n yigelliden ⟨d⟩ anadi ɣef wawal.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "azedar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "tasuffegt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "d azedar"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "yigelliden"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "anadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wawal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:38.838727261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Seg ṣṣut n tayyett-iw, iɣsan-iw ẓẓan-d ɣer yiḥmumen-nni ɣef waksum-iw.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "seg ṣṣut"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "n tayyett-iw"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ẓẓan-d"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "iɣsan-iw"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ɣer waksum-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:23.279797958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Lavan i d-yefkan i Lea, yelli-s, ⟨את⟩ Zilpa, tamettant-is n lexla, ad tili d tamettant-is n lexla i yelli-s.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "i d-yefkan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i yelli-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "tamettant-is n lexla"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "i Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "d tamettant-is n lexla"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:13.898540059Z",
+  "model": "glm-5.3"
+}

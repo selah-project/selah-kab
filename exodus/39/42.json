@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Akken i iḥkem Yahwe ɣef ⟨את⟩ Moce, akka i xedmen at Yisrael ⟨את⟩ lexdeč akk.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iḥkem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i xedmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lexdeč"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "lexdeč"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:40.763932973Z",
+  "model": "glm-5.3"
+}

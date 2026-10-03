@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "D taḥanbt ad tili d tilli i wass, seg tẓegzeit, d taɣla d asettin seg jeenajean d seg wagffur.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "d taḥanbt"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "d tilli"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "i wass"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "seg tẓegzeit"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "d taɣla"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "d asettin"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "seg jeenajean"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "d seg wagffur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:38.295279777Z",
+  "model": "glm-5.3"
+}

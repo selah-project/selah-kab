@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Serafim yuznen d asawen-is; ṣḍa iṣfan i yiwen, ṣḍa iṣfan i yiwen; s sin yessel ⟨את⟩ udem-is, s sin yessel ⟨את⟩ iḍarren-is, s sin yeddu s ufella.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "yuznen"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-s"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ṣḍa"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "iṣfan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ṣḍa"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "iṣfan"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "i yiwen"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "s sin"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "yessel"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "s sin"
+    },
+    {
+      "surface": "יככסה",
+      "gloss": "yessel"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iḍarren-is"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "s sin"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "yeddu s ufella"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:12.453382493Z",
+  "model": "glm-5.3"
+}

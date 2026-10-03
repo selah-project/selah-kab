@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Betuel iwsi-d ⟨את⟩ Rebeka; tam-ezwaren sḍis, nga-d yid-s sett, i twsi Milka i Naḥor, gma-s n Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iwsi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rebeka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tam-ezwaren sḍis"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tewsi"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "i Naḥor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "n Avraham"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:24.229006658Z",
+  "model": "glm-5.3"
+}

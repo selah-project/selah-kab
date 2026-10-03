@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Mačči d talulya-is ara kwen-yerbeḍ ⟨את⟩, d tagiḍt-is ara d-yekker ɣef-kwen?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "talulya-is"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ara kwen-yerbeḍ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "d tagiḍt-is"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ara d-yekker"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ɣef-kwen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:34:45.650088570Z",
+  "model": "glm-5.3"
+}

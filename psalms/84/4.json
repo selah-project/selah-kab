@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 84,
+  "translation": "Ula d tagencyaẓt tufa-d axxam, d tasaḥnut taɛqubt i yiman-is, anida tesseṛɣa ifrax-is; ⟨את⟩ yigerḍiyen-ik, a Yahwe Ṣebaot, agellid-iw akked Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "tagencyaẓt"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tufa-d"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "d tasaḥnut"
+    },
+    {
+      "surface": "קן",
+      "gloss": "taɛqubt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "tesseṛɣa"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ifrax-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yigerḍiyen-ik"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "yigerḍiyen-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agellid-iw"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "akked Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:04.211220631Z",
+  "model": "glm-5.3"
+}

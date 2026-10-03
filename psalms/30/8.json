@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "A Yahwe, s lḥemla-ik tesbeddeḍ i wedrar-iw ⟨tezmert⟩; teffreḍ ⟨udem-ik⟩, tewweḍ-dd yi tuggdi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "A Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "s lḥemla-ik"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "tesbeddeḍ"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "i wedrar-iw"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨tezmert⟩"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "teffreḍ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨udem-ik⟩"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tewweḍ-dd yi"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "tuggdi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:41.160821523Z",
+  "model": "glm-5.3"
+}

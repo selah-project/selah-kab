@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Elohim yefka-ten deg ureqqi n yigenwan, iwakken ad ccɛlen ɣef tmurt.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka-ten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (tiḍricin)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "deg ureqqi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n yigenwan"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "iwakken ad ccɛlen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:49.911930723Z",
+  "model": "glm-5.3"
+}

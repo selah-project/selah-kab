@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ɣer tmeṭṭut n umiddis-ik, ur as-tekfid ara tabṭa-ik n ussu, i wakken ad tili d talweẓt yides.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "n umiddis-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ur as-tekfid ara"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "tabṭa-ik n ussu"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "i wesfaru"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ad tili d talweẓt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yides"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:05.422584244Z",
+  "model": "glm-5.3"
+}

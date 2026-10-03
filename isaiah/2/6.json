@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 2:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Aya i txelṣeḍ ⟨את⟩ agdud-ik, tawwult n Yaɛqov, axaṭer ḥemmen seg usamar, d yimennaḥen am yifilistin, d warraw n yibεeden i ḥemmlen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נטשתה",
+      "gloss": "txelṣeḍ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨את⟩ agdud-ik",
+      "marks": "agdud-ik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tawwult"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ḥemmen"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "seg usamar"
+    },
+    {
+      "surface": "ועננים",
+      "gloss": "d yimennaḥen"
+    },
+    {
+      "surface": "כפלשתים",
+      "gloss": "am yifilistin"
+    },
+    {
+      "surface": "ובילדי",
+      "gloss": "d warraw"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "n yibεeden"
+    },
+    {
+      "surface": "ישפיקו",
+      "gloss": "ḥemmlen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:29.858071307Z",
+  "model": "glm-5.3"
+}

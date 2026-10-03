@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Ur iḥemmel ara tezmert n weɛdi, ur yessɛi ara cceḥḥa deg iḍarren n wemdan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ara tezmert"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "n weɛdi"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ara cceḥḥa deg"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "yessɛi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:10.047901387Z",
+  "model": "glm-5.3"
+}

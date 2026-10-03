@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Leɣya ur nfeɛ deg wass n lɛadab; ṣedeq ad yesten yis-s seg lmut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "nfeɛ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "leɣya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "n lɛadab"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ad yesten yis-s"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "seg lmut"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:11.716203418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yenna-d Yahwe: kecmen treḥmeḍ ɣef aqiqyon, i ur t-txedmimeḍ ara deg-s, ur t-tessugnayeḍ ara ad yimeqqer; mmi-s n yiḍ kan yella, d mmi-s n yiḍ kan i yemmut.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "treḥmeḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "aqiqyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "t-txedmimeḍ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "t-tessugnayeḍ-t"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n yiḍ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "d mmi-s"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n yiḍ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yemmut"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:31.274153168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Ecfkum, eeḍ-d belli nekkini d Elohim; ad d-lliɣ deg yiγlanen, ad d-lliɣ deg tmurt.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Ecfkum"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "eḍ-d"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ad d-lliɣ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "deg yiγlanen"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ad d-lliɣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:40.601836314Z",
+  "model": "glm-5.3"
+}

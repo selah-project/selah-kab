@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Axaṭer ur ttmeslayen ara d leḥna; ɣef wid izuggen deg tmurt, awalen n lḥila snulfay-d.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "leḥna"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ttmeslayen ara"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "wid izuggen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "n lḥila"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "snulfay-d"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:12.899498951Z",
+  "model": "glm-5.3"
+}

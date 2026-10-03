@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Yessuder-d Moce ⟨את⟩ ugdud deg wass-nni, s wawal:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yessuder-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:34.411439884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ur nelli ara d ameẓẓal i ufessas awal n lɛali; ugar-as: awal n tkuct i uneflay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nelli ara d ameẓẓal"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "i ufessas"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "n lɛali"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ugar-as"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "i uneflay"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "awal"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n tkuct"
+    }
+  ],
+  "timestamp": "2026-10-03T02:23:44.127640778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Timdinin akk i ara tmudem i Leviyim ad ilint kemẓan d tam n timdinin; ⟨את⟩ tent d ⟨את⟩ tiḥuna-nsent.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ara tmudem"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "i Leviyim"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kemẓan"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "d tam"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "tent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiḥuna-nsent"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "tiḥuna-nsent"
+    }
+  ],
+  "timestamp": "2026-10-02T21:46:36.645207972Z",
+  "model": "glm-5.3"
+}

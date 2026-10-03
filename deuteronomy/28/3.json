@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yebrek kečč deg temdint, yebrek kečč deg uger.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yebrek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "yebrek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg uger"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:32.593525285Z",
+  "model": "glm-5.3"
+}

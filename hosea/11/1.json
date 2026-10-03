@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mi yella Yisrael d ameẓyan, ẓwanɣeɣ-t, seg Miṣrayim i d-ssawelɣeɣ i mmiw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "d ameẓyan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ẓwanɣeɣ-t"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "i d-ssawelɣeɣ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i mmiw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:24.862490412Z",
+  "model": "glm-5.3"
+}

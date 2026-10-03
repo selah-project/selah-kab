@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "⟨את⟩ anwa tennaḍ awalen-agi? D anesma n anwa i d-yeffɣen seg kečč?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anwa (מי)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "tennaḍ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "d anesma n"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T04:38:59.551063907Z",
+  "model": "glm-5.3"
+}

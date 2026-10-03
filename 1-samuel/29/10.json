@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Tura ekkseḍ zik deg tufat, kečč d imeẓla n bab-ik i d-yusan ⟨את⟩ yid-ek; mi tewweḍ tafat i wen deg tmedẓi, uneteḍ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ekkseḍ zik"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tufat"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "d imeẓla"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "n bab-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "באו",
+      "gloss": "d-yusan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-ek",
+      "marks": "imeẓla n bab-ik"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "tmedẓi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tmedẓi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "uneteḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:50:44.505261936Z",
+  "model": "glm-5.3"
+}

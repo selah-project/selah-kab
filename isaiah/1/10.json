@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Sellket awal i d-yenna Yahwe, a yinubag n Sdum; cetket i Tora n Elohim-nneɣ, a yegdud n Ɛamora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Sellket"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i d-yenna Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "a yinubag"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "n Sdum"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "cetket"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "i Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "n Elohim-nneɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a yegdud"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "n Ɛamora"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:47.433980497Z",
+  "model": "glm-5.3"
+}

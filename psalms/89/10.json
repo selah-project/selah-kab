@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Keçç i yesselḥayen tuɣdis n yill; mi ad sulin iden-is, keçç ten-tesḥebsed.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "keçç"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "i yesselḥayen"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "tuɣdis"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yill"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "mi ad sulin"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "iden-is"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keçç"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ten-tesḥebsed"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:07.999511507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Akk wayen yettuzzilen, win yella d amuddir, ad yili d uuḍ-nwen; am tgssa n isffa nekkun-akken-tt-id-efken, ⟨את⟩ akk ckkun-akken-tt-id-efken.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wayen yettuzzilen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yella"
+    },
+    {
+      "surface": "חי",
+      "gloss": "amuddir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "uuḍ-nwen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "d uuḍ"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "am tgssa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "isffa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nekkun-akken-tt-id-efken"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "akken-tt-id-efken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:45.816712733Z",
+  "model": "glm-5.3"
+}

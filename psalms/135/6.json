@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Ayen akk i yebɣa Yahwe, ixd-ed ⟨את⟩-s deg igenwan d deg tmurt, deg yillan akked yal teḥmumin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yebɣa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixd-ed"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "d deg tmurt"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "deg yillan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked yal"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "teḥmumin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:51.972165517Z",
+  "model": "glm-5.3"
+}

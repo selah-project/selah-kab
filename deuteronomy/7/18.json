@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur tzeggel ara deg-sen; smekti, ad tsmektiḍ ⟨את⟩ ayen i xedmen Yahwe Elohim-ik i Ferɛun d Miṣrayim akk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tzeggel"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "smekti"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ad tsmektiḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i xedmen Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "i Ferɛun"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "d… akk"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:41.041671046Z",
+  "model": "glm-5.3"
+}

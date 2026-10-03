@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 8:11",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Aharon ad iḥeṛṛem ⟨את⟩ ilewiyen d tḥeṛṛma ɣer zdat n Yahwe, seg ⟨את⟩ yimezdaɣ n Yisrael, ad ilin ad xedmen ⟨את⟩ axdam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ad iḥeṛṛem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilewiyen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilewiyen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "d tḥeṛṛma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yimezdaɣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axdam"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "axdam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:28:09.715582211Z",
+  "model": "glm-5.3"
+}

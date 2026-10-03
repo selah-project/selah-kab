@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ur yekwis ara d bab deg ugdud-is, iwakken ad iḥeṛṛec.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "yekwis"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bab"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "deg ugdud-is"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "iwakken ad iḥeṛṛec"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:47.209842536Z",
+  "model": "glm-5.3"
+}

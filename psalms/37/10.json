@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Syin yakan wezzil, ur d-yelli ara ubarar; ma twalid deg umkan-is, ur t-id-tufam ara.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "syin yakan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "wezzil"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ur d-yelli ara"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "abarar"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ma twalid"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "umkan-is"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ur t-id-tufam ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:04.773852185Z",
+  "model": "glm-5.3"
+}

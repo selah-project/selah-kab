@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Yal ass tiḥmelt-iw tezga-d ṣṣut-eni, tuccḍa n udem-iw tessudd fell-i.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Yal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "tiḥmelt-iw"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "tezga-d ṣṣut-eni"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "tessudd fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:31.897831348Z",
+  "model": "glm-5.3"
+}

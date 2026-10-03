@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Wwḍen i David warraw deg Ḥebron; amezwaru-is ⟨d⟩ Amnon, seg Aḥinoεam tayezmanit n Yizreεel.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "Wwḍen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "deg Ḥebron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "amezwaru-is"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "seg Aḥinoεam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "tayezmanit n Yizreεel"
+    }
+  ],
+  "timestamp": "2026-10-02T22:55:04.400981432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Agellid n Babel yessumerd ⟨את⟩ Mattanya, doday, deg umkan-is, yerra-d ⟨את⟩ isem-is Ṣedqiya.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yessumerd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanya"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanya"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "doday"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣedqiya"
+    }
+  ],
+  "timestamp": "2026-10-02T23:39:49.157634319Z",
+  "model": "glm-5.3"
+}

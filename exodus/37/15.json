@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yexleq ⟨את⟩ iɣsan, s waddag n wakasya, yerna yesdukel-ten-id ⟨את⟩ s ḍhheb, iwakken ad tettwaḥemmel ⟨את⟩ tawla.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣsan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "iɣsan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "s waddag"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wakasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "yesdukel s"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "ḍhheb"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍhheb"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "iwakken ad tettwaḥemmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawla"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tawla"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:26.651209358Z",
+  "model": "glm-5.3"
+}

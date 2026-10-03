@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "⟨את⟩ elkuṣ, d ⟨את⟩ ayanecuf, akked ettinchemet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elkuṣ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "elkuṣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayanecuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ayanecuf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ettinchemet"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:08.663513019Z",
+  "model": "glm-5.3"
+}

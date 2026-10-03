@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ad snemmren i Yahwe ḥesed-is, d tijebbuḍin-is i warraw n yemdanen.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ad snemmren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "d tijebbuḍin-is"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yemdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:06.897576948Z",
+  "model": "glm-5.3"
+}

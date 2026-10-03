@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ur yi-tt-weḥleṣ ara deg ufus n uɛdaw; tseddeḍ iḍarren-iw deg umekcud.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "yi-tt-weḥleṣ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n uɛdaw"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "tseddeḍ"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "deg umekcud"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iḍarren-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:50.786911903Z",
+  "model": "glm-5.3"
+}

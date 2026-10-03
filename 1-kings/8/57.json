@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yahwe, Elohim-nneɣ, ad yili ɣur-neɣ, akken yella yiwen d yemnayen-nneɣ; ur aɣ-yettaz ara, ur aɣ-yettaz ara d ad aɣ-iḥejbes.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ɣur-neɣ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yiwen d"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "yemnayen-nneɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "aɣ-yettaz ara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "aɣ-yettaz ara d ad aɣ-iḥejbes"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:13.882071108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad qesɛeɣ ⟨את⟩ Patros, ad sseɣresɣ times deg Coan, ad exdem ccreɛ deg No.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Ad qesɛeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad sseɣresɣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "deg Coan"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ad exdem"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "deg No"
+    }
+  ],
+  "timestamp": "2026-10-03T00:56:55.085264925Z",
+  "model": "glm-5.3"
+}

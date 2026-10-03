@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Akka ad ten-tḍefreḍ s usaffan-ik, s wagur-ik ad ten-tḥewwleḍ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ad ten-tḍefreḍ"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "s usaffan-ik"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "s wagur-ik"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ad ten-tḥewwleḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:14.663799057Z",
+  "model": "glm-5.3"
+}

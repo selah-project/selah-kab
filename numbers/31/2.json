@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Egz neqmat n yat Yisrael seg ⟨את⟩ Midyaniten; ticki yefra, ad tettwaɛsdeq ɣer ugdud-ik.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "egz"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "neqmat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "Midyaniten"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midyaniten"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ticki yefra"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ad tettwaɛsdeq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "ugdud-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:59.872720855Z",
+  "model": "glm-5.3"
+}

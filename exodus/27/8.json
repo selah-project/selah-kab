@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "S tfasi iṣeffuṛen ad t-texdemeḍ ⟨אתו⟩; akken i k-id-iban ⟨אתך⟩ deg wedrar, akka ara ṣeggmen.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "iṣeffuṛen"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "s tfasi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad t-texdemeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umizbeaḥ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "k-id-iban"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ara ṣeggmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:48.725686879Z",
+  "model": "glm-5.3"
+}

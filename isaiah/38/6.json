@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ad k-ḥelleɣ kečč d ⟨את⟩ temdint-agi seg ufus n ugellid n Acur, ad ḥerbeɣ ɣef temdint-agi.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ad k-ḥelleɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "temdint-agi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ad ḥerbeɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:53.200340061Z",
+  "model": "glm-5.3"
+}

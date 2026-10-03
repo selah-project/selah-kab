@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Akk-ed deg lmut ulac asmekti n Yisem-ik; deg Ceol, anwa ara k-ismekten?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Akk-ed"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "במות",
+      "gloss": "deg lmut"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "asmekti n Yisem-ik"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "deg Ceol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ara k-ismekten"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨k⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:29.842414682Z",
+  "model": "glm-5.3"
+}

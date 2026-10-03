@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 146,
+  "translation": "Yahwe yeldi tiṭṭiyin i yidewlen; Yahwe yessaker wid yezgen; Yahwe iḥemmel wid iḥeqqen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "yeldi tiṭṭiyin"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "i yidewlen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "yessaker"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "wid yezgen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wid iḥeqqen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:58.995478821Z",
+  "model": "glm-5.3"
+}

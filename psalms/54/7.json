@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 54,
+  "translation": "Ad yuɣal ddacer ar yinemhalen-iw; s ṣṣeḥ n yisem-ik, ḥettim-iten.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Ad yuɣal"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ddacer"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "ar yinemhalen-iw"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "s ṣṣeḥ n yisem-ik"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "ḥettim-iten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:57.363280616Z",
+  "model": "glm-5.3"
+}

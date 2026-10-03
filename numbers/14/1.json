@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Meṛṛa tlaɣit tessuli taɣlamt-is, efken-d ⟨את⟩ iɣelman-nsen, yemdanen beɛṛen deg yiḍ-nni.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "tessuli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tlaɣit"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "efken-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣelman-nsen"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "iɣelman-nsen"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "beɛṛen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yemdanen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    }
+  ],
+  "timestamp": "2026-10-02T21:31:45.257365413Z",
+  "model": "glm-5.3"
+}

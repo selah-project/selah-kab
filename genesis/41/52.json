@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Ma d ⟨את⟩ isem n wis sin, Efrayim i t-yeccra, axaṭer Elohim yefra-t di tmurt n tussda-s.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ma d ⟨את⟩",
+      "marks": "isem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "השני",
+      "gloss": "n wis sin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yeccra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "yefra-t"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "n tussda-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:45.948447424Z",
+  "model": "glm-5.3"
+}

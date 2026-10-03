@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Kečč, a Yahwe, d taɣenna-iw; Aɛelyan terniḍ-t d axxam-ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "taɣenna-iw"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Aɛelyan"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "terniḍ-t"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "axxam-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.021162567Z",
+  "model": "glm-5.3"
+}

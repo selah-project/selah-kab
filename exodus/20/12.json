@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Seggem ⟨את⟩ baba-k d ⟨את⟩ yemma-k, iwakken ad ɣelint wussan-ik ɣef tmurt-agi i Yahwe Elohim-ik ara k-d-yeččilen.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Seggem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-k"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba-k"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yemma-k"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yemma-k"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken ad"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "ɣelint"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "wussan-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yeččilen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k-d"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:44.075299334Z",
+  "model": "glm-5.3"
+}

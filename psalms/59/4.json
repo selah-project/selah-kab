@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Acku waliken, ẓeṭṭfen i tudert-iw; ddekkren ɣef-i iɛezzien; mačči d tuccḍa-wiw, maca d tuccḍa-wiw, a Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "waliken"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ẓeṭṭfen"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "i tudert-iw"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ddekkren"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "iɛezzien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "d tuccḍa-wiw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca d"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tuccḍa-wiw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:34.505063899Z",
+  "model": "glm-5.3"
+}

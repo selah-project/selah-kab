@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Sneffen ilsawen-nnsen am wazrem, tamaraḍt n taremmut tella ⟨d⟩-daw yimi-nnsen. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "sneffen"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilsawen-nnsen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "azrem"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tamaraḍt"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "taremmut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "daw"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "yimi-nnsen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:53.000766151Z",
+  "model": "glm-5.3"
+}

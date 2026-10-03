@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Ssnutret i Adonai n yibabaten, axaṭer i lebda ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ssnutret"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "i Adonai n"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "yibabaten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:14.406223761Z",
+  "model": "glm-5.3"
+}

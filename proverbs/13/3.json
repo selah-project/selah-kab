@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Win iḥerzen imi-s, iḥerzen neffs-is; win ildin sifeddisen, axṣer i d-ittawḍen.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Win iḥerzen"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "imi-s"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "iḥerzen"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "neffs-is"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "win ildin"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "sifeddisen"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "axṣer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i d-ittawḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:12.298390647Z",
+  "model": "glm-5.3"
+}

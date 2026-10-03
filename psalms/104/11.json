@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Ad sweḥlen akk iɣersiwen n uzaɣar; iyerḍan ad kksen taẓa-nsen.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "ad sweḥlen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "iɣersiwen"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "n uzaɣar"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ad kksen"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "iyerḍan"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "taẓa-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:18.254941326Z",
+  "model": "glm-5.3"
+}

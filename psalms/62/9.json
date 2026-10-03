@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Ttekklit deg-s deg yal tikkelt, a yɣlan; ssefḍet ɣer sdat-is ulawen-nwen; Elohim d amḥelliy i neɣ. Selah.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ttekklit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tikkelt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a yɣlan"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "ssefḍet"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ɣer sdat-is"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ulawen-nwen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "amḥelliy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:43.744699442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Akk leǧnas i txelqeḍ ad d-asen ad knun zdat-ik, a Adonai, ad sεun iseε l-isem-ik.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txelqeḍ"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ad d-asen"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ad knun"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "zdat-ik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ad sεun iseε"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "l-isem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:20.740082279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Si tqeccilt-is Xodec, tweldi ⟨את⟩ Yovav, d ⟨את⟩ Ṣivya, d ⟨את⟩ Meca, d ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "tweldi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Xodec"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tqeccilt-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ṣivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Ṣivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Meca"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:02.076135156Z",
+  "model": "glm-5.3"
+}

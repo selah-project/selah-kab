@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Neččini d Yahwe, neẓgar uleb, naḥeṛṣ iklan, iwakken ad nefk i wemdan akken yella ubrid-is, akken d iferr n wayen yexdem.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "neččini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "neẓgar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "uleb"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "naḥeṛṣ"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "iklan"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "iwakken ad nefk"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "akken yella ubrid-is"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "akken d iferr"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "n wayen yexdem"
+    }
+  ],
+  "timestamp": "2026-10-03T00:20:30.668858656Z",
+  "model": "glm-5.3"
+}

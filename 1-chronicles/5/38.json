@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yerna Aḥitub yexleq ⟨את⟩ Ṣadok, yerna Ṣadok yexleq ⟨את⟩ Callum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "yerna Aḥitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ṣadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "yerna Ṣadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Callum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Callum"
+    }
+  ],
+  "timestamp": "2026-10-03T03:25:58.976928154Z",
+  "model": "glm-5.3"
+}

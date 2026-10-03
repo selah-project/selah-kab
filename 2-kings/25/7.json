@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "D ⟨את⟩ warraw n Ṣidqiyyahu nezḥen qbel iḥerci-nnes; iḥerci n Ṣidqiyyahu ɛeṭṭlen-tensen; ijerreḍ s sneɣ n uẓref, iwess-ed Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "warraw n Ṣidqiyyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣidqiyyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "nezḥen"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "qbel iḥerci-nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iḥerci n Ṣidqiyyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iḥerci"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣidqiyyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ɛeṭṭlen-tensen"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ijerreḍ"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "s sneɣ n uẓref"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "iwess-ed"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:14.374064718Z",
+  "model": "glm-5.3"
+}

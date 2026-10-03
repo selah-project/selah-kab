@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "D ⟨את⟩ akk yimezduɣen imeɛdlen, d ⟨את⟩ akk igelliden n tmurt n ʕuṣ, d ⟨את⟩ akk igelliden n tmurt n Pelictim, d ⟨את⟩ Acalun, d ⟨את⟩ ʕezza, d ⟨את⟩ ʕeqrun, d ⟨את⟩ wayen i d-yegran seg Acduḍ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk yimezduɣen imeɛdlen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "yimezduɣen imeɛdlen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk igelliden n tmurt n ʕuṣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "n ʕuṣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk igelliden n tmurt n Pelictim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n Pelictim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Acalun"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Acalun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ʕezza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ʕezza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ʕeqrun"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "ʕeqrun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wayen i d-yegran seg Acduḍ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "wayen i d-yegran"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "seg Acduḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:25:11.439918502Z",
+  "model": "glm-5.3"
+}

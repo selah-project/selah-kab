@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Paroh yuḍen ɣef yeqeddacen-is, iḥettem-d ⟨את⟩ nekk deg lḥebs n wexxam n sar n yiṭebbaḥen — ⟨את⟩ nekk d ⟨את⟩ sar n yifexren.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "yuḍen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yeqeddacen-is"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "iḥettem-d"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nekk"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "deg lḥebs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "n yiṭebbaḥen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nekk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "sar n yifexren"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "n yifexren"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:22.985771558Z",
+  "model": "glm-5.3"
+}

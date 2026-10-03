@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Wid-agi d llacel n Cem, s tcuffaɛ-nsen, s tutlayin-nsen, deg tmura-nsen, s yegdud-nsen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "llacel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tcuffaɛ-nsen"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "s tutlayin-nsen"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "deg tmura-nsen"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "s yegdud-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:56.747102232Z",
+  "model": "glm-5.3"
+}

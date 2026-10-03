@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Yessuli ⟨את⟩ taṣerṛit-is deg usgunfu; slan-d wimid n Miṣrayim, yerna yesla waxxam n Ferɛun.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yessuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣerṛit-is"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "taṣerṛit-is"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "deg usgunfu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "slan-d"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wimid n Miṣrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "yesla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    }
+  ],
+  "timestamp": "2026-10-02T20:34:51.153252495Z",
+  "model": "glm-5.3"
+}

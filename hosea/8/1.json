@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ɣer imi-ik: ccetlaɛ. Am uceŋceŋ ɣef beyt Yahwe, axaṭer ɛeddin ɣef lɛahd-iw, d Tora-iw i d-ṭṭfen tikwal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "imi-ik"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ccetlaɛ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "am uceŋceŋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɛeddin ɣef"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-iw"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "i d-ṭṭfen tikwal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:11.702442107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 24:18",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yahwe yesseffeɣ-d ɣer zdat-nneɣ yegduden ⟨את⟩ akk, d ⟨את⟩ Emori, win izdeɣ deg tmurt; nekkini daɣen ad neɛbed ⟨את⟩ Yahwe, acku d netta i d-Elohim-nneɣ.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "yesseffeɣ-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yegduden akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yegduden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "win izdeɣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ɣer zdat-nneɣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ad neɛbed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "i d-Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:23:16.027497629Z",
+  "model": "glm-5.3"
+}

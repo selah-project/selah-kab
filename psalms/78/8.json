@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ad uɣalen am yiden-nnsen ara ulac: leǧil iẓeḍḍen d azeggan, leǧil ur nehegg ara ul-is, ur nelli ara d laman ⟨את⟩ El ruaḥ-is.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ara ulac"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad uɣalen"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "am yiden-nnsen"
+    },
+    {
+      "surface": "דור",
+      "gloss": "leǧil"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "iẓeḍḍen"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "d azeggan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "leǧil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nehegg ara"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "nelli ara d laman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaḥ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:51.761338046Z",
+  "model": "glm-5.3"
+}

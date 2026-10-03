@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Rran-d fell-i dirit deg umkan n lxir, d takriht deg umkan n teḥmalt-iw.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Rran-d"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "d takriht"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "teḥmalt-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:59.449277384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Skud amḍan ara tgeḍm, akka ad tgeḍm i yiwen, skud amḍan-nsen.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "skud amḍan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tgeḍm"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ad tgeḍm"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "i yiwen"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "skud amḍan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:33:46.594395990Z",
+  "model": "glm-5.3"
+}

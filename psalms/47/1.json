@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "I win yettemsekil, i warraw n Qoraḥ, Mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettemsekil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:46.963640721Z",
+  "model": "glm-5.3"
+}

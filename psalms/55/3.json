@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Isel-iḍ fell-i, ɛawen-iḍ: kkṛuzdeɣ deg uxemmem-iw, ḥuzmeɣ.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Isel-iḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ɛawen-iḍ"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "kkṛuzdeɣ"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "deg uxemmem-iw"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "ḥuzmeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:48.814766929Z",
+  "model": "glm-5.3"
+}

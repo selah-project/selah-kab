@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Mi kecmen ileğyen iččan, tenna i mmi-s: Awi-d fell-i ileğyi-nniḍen. Yenna-yas: ulac ileğyi-nniḍen. Uzzit teḥbes.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "kecmen iččan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ileğyen"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Awi-d fell-i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ileğyi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-yas"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "yas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ileğyi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "teḥbes"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "Uzzit"
+    }
+  ],
+  "timestamp": "2026-10-02T23:28:45.986941164Z",
+  "model": "glm-5.3"
+}

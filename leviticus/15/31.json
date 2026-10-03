@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Akka ara tessefrḍem ⟨את⟩ tarwa n Yisrael seg lmaḥna-nsen, ur mmaten ara deg lmaḥna-nsen, mi ara ṭṭfen ⟨את⟩ Mickan-iw, win illan gar-asen.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "ara tessefrḍem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarwa n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "seg lmaḥna-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "mmaten ara"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "deg lmaḥna-nsen"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "mi ara ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan-iw"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mickan-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "illan gar-asen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:42.548685626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim Ṣebaot, err-aɣ-d; ceḥḥi ugdil-ik, ad nelluḥ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "err-aɣ-d"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ceḥḥi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ugdil-ik"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ad nelluḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:23.140359480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yenna Yahwe ɣur-s: Ddu, uɣal-d ɣef webrid-ik, ɣer uneẓruf n Damaseq; mi tawaḍ din, adeḥ ⟨את⟩ Ḥazael d agellid ɣef Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ddu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "uɣal-d"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ɣef webrid-ik"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "uneẓruf"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseq"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "mi tawaḍ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "adeḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Ḥazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:35.479495697Z",
+  "model": "glm-5.3"
+}

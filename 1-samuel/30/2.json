@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ṭṭfen ⟨את⟩ tilawin i llan deg-s, seg wemeẓyan arma d ameqran; ulac yiwen wwḍen; ssesfergen-ten-id, unagen ɣer brid-nnsen.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilawin"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i llan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "seg wemeẓyan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wwḍen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "ssesfergen-ten-id"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "unagen"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "ɣer brid-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:13:28.148684711Z",
+  "model": "glm-5.3"
+}

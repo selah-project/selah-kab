@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Syin iḍan, David yewweḍ ⟨את⟩ ifilistinen, i ten-yessenfufen, David yewwi-d ⟨את⟩ meteg ha-amma seg ufus n ifilistinen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yewweḍ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifilistinen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ifilistinen"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "i ten-yessenfufen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meteg ha-amma"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "meteg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ha-amma"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n ifilistinen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:57.396931909Z",
+  "model": "glm-5.3"
+}

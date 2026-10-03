@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad ak-yefk ⟨את⟩ tbarka n Avraham — i keččin akked zerɛa-k ⟨את⟩ yid-k — iwakken ad terniḍ d amlak ⟨את⟩ tamurt n tinnekf-ik, i yawḥel Elohim i Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ad ak-yefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i keččin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tbarka n Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "tbarka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "n Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i keččin"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "akked zerɛa-k"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "iwakken ad terniḍ d amlak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt n tinnekf-ik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "n tinnekf-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i yawḥel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    }
+  ],
+  "timestamp": "2026-10-02T20:23:50.161509347Z",
+  "model": "glm-5.3"
+}

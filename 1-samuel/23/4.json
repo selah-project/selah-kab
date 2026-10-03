@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "David yerna-yas-d issaɣel ɣer Yahwe, Yahwe yerra-yas-d, yenna: Sir ddu ɣer Qeɛila, acku nekk-a ad kkseɣ ⟨את⟩ Feličtim seg ufus-ik.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "yerna-yas-d"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "issaɣel"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "yerra-yas-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sir"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ddu"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ɣer Qeɛila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk-a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad kkseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Feličtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Feličtim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "seg ufus-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:42.434374220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Mlilen, fferen iman-nsen; nutenti ḥerṛzen iḍarren-iw, akken llan rṛan deg nnefs-iw.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "mlilen"
+    },
+    {
+      "surface": "יצצפינו",
+      "gloss": "fferen iman-nsen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutenti"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "iḍarren-iw"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ḥerṛzen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "rṛan deg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:24.650678393Z",
+  "model": "glm-5.3"
+}

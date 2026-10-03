@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ul n urgaz-is yettwakal deg-s, asfel ur yexṣer ara.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "yettwakal"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Ul"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "n urgaz-is"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "asfel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "yexṣer"
+    }
+  ],
+  "timestamp": "2026-10-03T02:30:21.816981055Z",
+  "model": "glm-5.3"
+}

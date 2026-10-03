@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yuli-d Moce ɣer wedrar, issuddes usigna ⟨את⟩ wedrar.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "issuddes"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "usigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adrar"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:59.197744071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Keččini ad tuɣaleḍ, ad tesleḍ i taṛut n Yahwe, ad txedmeḍ ⟨את⟩ leḥkamat-is akk i Ness-aɣ ad k-ḥekkem ass-a.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Keččini"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ad tuɣaleḍ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ad tesleḍ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i taṛut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leḥkamat-is akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "leḥkamat-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ness-aɣ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ad k-ḥekkem"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:54.331272829Z",
+  "model": "glm-5.3"
+}

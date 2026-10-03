@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Kecc tettfeḍ tafat, kecc i d-ijehlen uqbel iḍurar n tgertilt.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "tettfeḍ tafat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "i d-ijehlen"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "iḍurar"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tgertilt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:07.626779546Z",
+  "model": "glm-5.3"
+}

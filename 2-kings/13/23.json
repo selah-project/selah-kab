@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yahwe iḥemmel-iten, iḥemmel-iten, yuɣal ɣur-sen, i lɛahd-is ⟨את⟩ Avraham, Yiṣḥaq d Yaɛqov; ur yexdem ayen ara yeḥren lɣer-ten, ur ten-id-iṭṭer seg udem-is arma d ass-a.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "iḥemmel-iten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iten"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "iḥemmel-iten"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "yuɣal ɣur-sen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "i"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yexdem ayen ara"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "yeḥren lɣer-ten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "ten-id-iṭṭer"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-02T23:32:42.249691426Z",
+  "model": "glm-5.3"
+}

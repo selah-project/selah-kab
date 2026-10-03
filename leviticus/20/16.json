@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Timettut, ma teqreb ɣer yal lmal iwakken ⟨את⟩ ad tt-terbeɛ — ad t-tnɣeḍ ⟨את⟩ tmeṭṭut d ⟨את⟩ lmal: amett ad mmanten; idammen-nsen fell-asen.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "timettut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "teqreb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "iwakken ad tt-terbeɛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tt (lalmal)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "ad t-tnɣeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmeṭṭut"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lmal"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "מות",
+      "gloss": "amett"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ad mmanten"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "idammen-nsen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fell-asen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:05.581416905Z",
+  "model": "glm-5.3"
+}

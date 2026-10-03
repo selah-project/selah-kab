@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "D lɛesker-is, maḍi wid i yettwaḥsaben seg-sen: kraḍ d tlata kemmus n yifdan, d nebba miya.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "d lɛesker-is"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "wid i yettwaḥsaben seg-sen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "d tlata kemmus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yifdan"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "d nebba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "miya"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:49.125569008Z",
+  "model": "glm-5.3"
+}

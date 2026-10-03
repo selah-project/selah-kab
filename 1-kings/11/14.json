@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yahwe yessuli-d aɛdaw i Cileman: ⟨את⟩ Hadad a-Edomay, si tarwa n ugellid — d netta i yellan deg Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yessuli-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "aɛdaw"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "i Cileman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "a-Edomay"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "si tarwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "deg Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:19.241954720Z",
+  "model": "glm-5.3"
+}

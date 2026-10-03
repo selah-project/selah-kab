@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Wayedda ad yini: D Yahwe i d-ini, d Yahwe la yettusemman deg yisem n Yaɛqov, wayedda ad yaru af yis-is: D Yahwe, ad yessemḥasreb s yisem n Yisrael.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "wayedda"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "D Yahwe i d-ini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "wayedda"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "yettusemman"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "wayedda"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "ad yaru"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "af yis-is"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "D Yahwe"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "ad yessemḥasreb"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:57.437004801Z",
+  "model": "glm-5.3"
+}

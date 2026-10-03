@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Acku Yahwe Elohim-ik ifeṣṣel-ik deg wakk n wayen ixedmen ufus-ik; yezra unaḍen-ik deg ⟨את⟩ uneẓruf ameqqran-agi, agi zewwɣen n iseggasen Yahwe Elohim-ik yid-k, ur txeṣṣeṛ kra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ifeṣṣel-ik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg wakk"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "n wayen ixedmen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ufus-ik"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yezra"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "unaḍen-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uneẓruf ameqqran-agi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "uneẓruf"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "zewwɣen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "txeṣṣeṛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kra"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:12.203407999Z",
+  "model": "glm-5.3"
+}

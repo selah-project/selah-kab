@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Tefkaḍ tafururt deg wul-iw, ugar ɣef mi i ketren yirden-nsen d lexmar-nsen.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Tefkaḍ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "tafururt"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "deg wul-iw"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ɣef mi i"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "yirden-nsen"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "d lexmar-nsen"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ketren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:31.229910831Z",
+  "model": "glm-5.3"
+}

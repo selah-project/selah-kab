@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Wid n Yisrael rran i yilewiyen ⟨את⟩ yimdannen-agi ⟨את⟩ iḥricen-nsen, akken i d-yenna Yahwe s ufus n Moce, s uzur.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "rran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "i yilewiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimdannen-agi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "yimdannen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iḥricen-nsen"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "iḥricen-nsen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus n"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "s uzur"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:07.930060411Z",
+  "model": "glm-5.3"
+}

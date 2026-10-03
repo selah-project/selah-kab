@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Iqedcen ad sneflin am tinelmut, ad ɛeddin am araẓ di Lbennu.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Iqedcen"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "am tinelmut"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "ad sneflin"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "am araẓ"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "di Lbennu"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ad ɛeddin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:40.002211639Z",
+  "model": "glm-5.3"
+}

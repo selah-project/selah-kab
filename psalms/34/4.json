@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Semmaɣet ⟨את⟩ Yahwe yid-i; ad nessali isem-is, yiwet.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "semmaɣet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yid-i"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ad nessali"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yiwet"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:40.303352875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 40:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yella-d wayen-nniḍen deffir n wawalen-agi: win yettcebbiren i wemdan n ugellid n Miṣrayim, d win yettbegginiven, ddnuban ɣer bab-nsen, ɣer ugellid n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deffir n"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ddnuban"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "win yettcebbiren i wemdan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "והאפה",
+      "gloss": "d win yettbegginiven"
+    },
+    {
+      "surface": "לאדניהם",
+      "gloss": "ɣer bab-nsen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɣer ugellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:42.575073769Z",
+  "model": "glm-5.3"
+}

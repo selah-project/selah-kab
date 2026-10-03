@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Axatṛi d-azagir awal n Yahwe, akk wannecen-is ⟨ttwaxedmen⟩ s lmendud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axatṛi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "d-azagir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "wannecen-is"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "s lmendud"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:00.689618887Z",
+  "model": "glm-5.3"
+}

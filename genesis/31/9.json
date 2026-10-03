@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Yahwe—ala Elohim—yewweḍ-d lexlaṣ n ⟨את⟩ lmal n baba-wen, i yefka-yi-d.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "yewweḍ-d lexlaṣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmal n baba-wen"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba-wen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i yefka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi-d"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:32.483242244Z",
+  "model": "glm-5.3"
+}

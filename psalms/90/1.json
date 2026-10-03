@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Asuter n Moce, argaz n Elohim. Adonai, kečč telliḍ d axxam i neɣ, seg taseddart ɣer taseddart.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Asuter"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "n Moce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "היית",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "seg taseddart"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ɣer taseddart"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:52.899623489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 1:3",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Wergaz-nni yettali seg temdint-is, seg wass ɣer wayyass, ad yeknu d ad iḥebbes iṭeddin i Yahwe Ṣebaot deg Cilo; dinna llan snat n leɛǧal n Ɛli, Ḥofni d Fineḥas, iqedcen i Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "yettali"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wergaz-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מעירו",
+      "gloss": "seg temdint-is"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "seg wass"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ɣer wayyass"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ad yeknu"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "d ad iḥebbes iṭeddin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "deg Cilo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "snat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n leɛǧal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ɛli"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Ḥofni"
+    },
+    {
+      "surface": "ופנחס",
+      "gloss": "Fineḥas"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:19.421368732Z",
+  "model": "glm-5.3"
+}

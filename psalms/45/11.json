@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Sel deg yimeṛṛa-k, a yelli, wali, lnadi aman-is, tett yiɣf-ik ad isel: tettu agdud-ik d axxam n baba-k.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Sel"
+    },
+    {
+      "surface": "בת",
+      "gloss": "a yelli"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "wali"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "lnudi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "iɣf-ik"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "tettu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "n baba-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:45.124470127Z",
+  "model": "glm-5.3"
+}

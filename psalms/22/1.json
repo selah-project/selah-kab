@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "I win yettnuzef, ɣef ⟨tirgit n tfajrit⟩, d mzimur n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettnuzef"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "tirgit"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "n tfajrit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mzimur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:10.473945675Z",
+  "model": "glm-5.3"
+}

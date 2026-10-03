@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Deg wayen-nniḍen: ⟨seg⟩ yimdanen n yimsuɣlen, d leqtic n yiceṭṭaṛen, d akk igelliden n Ɛerab, d yimḍebberen n tmurt.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Deg wayen-nniḍen"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "seg yimdanen"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "n yimsuɣlen"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "d leqtic"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "n yiceṭṭaṛen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "n Ɛerab"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "d yimḍebberen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:15:00.236653650Z",
+  "model": "glm-5.3"
+}

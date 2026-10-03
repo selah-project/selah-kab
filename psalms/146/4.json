@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 146,
+  "translation": "Ruaḥ-is ad teffeɣ, ad yuɣal ɣer wakal-is; deg wass-nni, iɣewwaṛen-is ad mment.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "ad teffeɣ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Ruaḥ-is"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ɣer wakal-is"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ad mment"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "iɣewwaṛen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:38.684688880Z",
+  "model": "glm-5.3"
+}

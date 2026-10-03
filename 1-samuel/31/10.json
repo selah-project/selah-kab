@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Rran ⟨את⟩ ḥerb-is deg wuxxam n Ɛacṭarot, ṭṭfen ⟨את⟩ tfekka-is ɣef yiri n Bet-Sean.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Rran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ḥerb-is"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ḥerb-is"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wuxxam"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "n Ɛacṭarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ṭṭfen ⟨את⟩",
+      "marks": "tfekka-is"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "tfekka-is"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ɣef yiri n"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Sean"
+    }
+  ],
+  "timestamp": "2026-10-02T22:54:19.406917097Z",
+  "model": "glm-5.3"
+}

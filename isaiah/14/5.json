@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yahwe yerrẓa taɛqqebt n yineraben, aɛsawen n yimsefran.",
+  "tokens": [
+    {
+      "surface": "שָׁבַר",
+      "gloss": "yerrẓa"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "taɛqqebt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n yineraben"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aɛsawen"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "n yimsefran"
+    }
+  ],
+  "timestamp": "2026-10-03T04:19:42.408255301Z",
+  "model": "glm-5.3"
+}

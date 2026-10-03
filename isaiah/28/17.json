@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 28:17",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad sbeddeɣ ccreɛ d aɣdid, ṣedeq d amizzar n lmizan; ad tesnɣed tineɣrit taggurt n ukzib, d waman ad d-leḥḥun ɣef uwennaɣ.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ad sbeddeɣ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "d aɣdid"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "למשקלת",
+      "gloss": "d amizzar n lmizan"
+    },
+    {
+      "surface": "ויעה",
+      "gloss": "ad tesnɣed"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "tineɣrit"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "taggurt"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "n ukzib"
+    },
+    {
+      "surface": "וסתר",
+      "gloss": "awennaɣ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ad d-leḥḥun"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:13.632889712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Akohen ad iwali ⟨את⟩ lekka, ad t-iḥbes ⟨את⟩ lekka sebɛa n wussan.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lekka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lekka"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ad t-iḥbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lekka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lekka"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebɛa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:05.625091302Z",
+  "model": "glm-5.3"
+}

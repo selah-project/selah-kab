@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Taɛkemt akk n Yisrael ad txedem ⟨את⟩-i.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "taɛkemt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ad txedem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-i",
+      "marks": "i (Peṣaḥ)"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:22.543098378Z",
+  "model": "glm-5.3"
+}

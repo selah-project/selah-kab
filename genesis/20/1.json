@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Avraham infaḍ seg din ɣer tmurt n unneẓul, yezdeɣ gar Qadecc gar Cur, yennaɣ deg Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "infaḍ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "n unneẓul"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadecc"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Cur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "yennaɣ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "deg Gerar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:13.534937549Z",
+  "model": "glm-5.3"
+}

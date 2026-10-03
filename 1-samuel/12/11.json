@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yuzen Yahwe ⟨את⟩ Yerubbeal d ⟨את⟩ Bedan d ⟨את⟩ Yiftaḥ d ⟨את⟩ Cemuel; iɣan-ttn-id deg ifadden-nwen seg ufus n yiḥekmen-nwen, di ḥeṛṛa; tezdeɣ-t s laman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbeal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbeal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yiftaḥ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "iɣan-ttn-id"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kken-inwen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "yiḥekmen-nwen"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "di ḥeṛṛa"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "tezdeɣ-t"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "s laman"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:53.104466801Z",
+  "model": "glm-5.3"
+}

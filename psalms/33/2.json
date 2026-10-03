@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ccnt-as i Yahwe s yikenur, s unebeldi n ḍes iḍuten, rennun-as.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ccnt-as"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "s yikenur"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "s unebeledi"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "n ḍes iḍuten"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "rennun-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:00.689170540Z",
+  "model": "glm-5.3"
+}

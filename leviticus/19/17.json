@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur tkukreḍ ⟨את⟩ gma-k deg wul-ik; ad tcetkeḍ ⟨את⟩ i umeddakel-ik akken iwata, ur txeddeḍ ara ddin fell-as.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "tkukreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gma-k"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "deg wul-ik"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "cetkan"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "ad tcetkeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ameddakel-ik"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ameddakel-ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ad txeddeḍ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ddin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:15:20.359828439Z",
+  "model": "glm-5.3"
+}

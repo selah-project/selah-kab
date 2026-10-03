@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Llan akk wussan n Adam, mi yella d amuddir, tiẓa n temdin, d tlata tamdint n yiseggasen; yemmut.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yella d amuddir"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tiẓa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temdin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "d tlata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:22.005602917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Deg udeffir d zdat, tḥerṣbeḍ-iyi, teṭṭfeḍ-iyi, tfukiḍ afus-ik ɣef-iya.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "deg udeffir"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "d zdat"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "tḥerṣbeḍ-iyi, teṭṭfeḍ-iyi"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "tfukiḍ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-iya"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "afus-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.764803740Z",
+  "model": "glm-5.3"
+}

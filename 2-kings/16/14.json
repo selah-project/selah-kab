@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 16:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Lmeṣbeḥ n tnexlit, win i d-izgan ɣer zdat n Yahwe: yekka-t-id ⟨את⟩ si zdat n uxxam, seg gar lmeṣbeḥ d gar axxam n Yahwe, yefka-t ɣef tama n lmeṣbeḥ, ar ugafa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lmeṣbeḥ n tnexlit"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣbeḥ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "n tnexlit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "i d-izgan ɣer zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "yekka-t-id"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "zdat n uxxam"
+    },
+    {
+      "surface": "פני",
+      "gloss": "si zdat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "seg gar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣbeḥ"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "d seg gar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "lmeṣbeḥ n tnexlit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "tama"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "n lmeṣbeḥ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ar ugafa"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:15.188826558Z",
+  "model": "glm-5.3"
+}

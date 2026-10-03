@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 138,
+  "translation": "Deg wass i dlaɣeɣ, terriv-d-yi-d tiggit; tɣellseḍ-tt ad tili deg wallaɣ s tnekri.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Deg wass"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "i dlaɣeɣ"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "terriv-d-yi-d tiggit"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "tɣellseḍ-tt"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "ad tili deg wallaɣ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "s tnekri"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:43.588863534Z",
+  "model": "glm-5.3"
+}

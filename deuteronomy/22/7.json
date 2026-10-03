@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad teǧǧeḍ tilelli i tyemmezwarut ⟨את⟩, d ⟨את⟩ warrac ad teṭṭfeḍ i yiman-ik, iwakken ad yaweḍ lḥir i yiman-ik, yerna ad teqqleḍ dderya ɣef wussan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ad teǧǧeḍ tilelli"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyemmezwarut"
+    },
+    {
+      "surface": "האם",
+      "gloss": "tyemmezwarut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ad yaweḍ lḥir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ad teqqleḍ dderya ɣef"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:00:11.560462572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yebna Yarobɛam ⟨את⟩ Cekem deg wedrar n Efrayim, yezdeɣ deg-s; yeffeɣ seg-s dinna, yebna ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobɛam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "n Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg-s dinna"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:19.062171978Z",
+  "model": "glm-5.3"
+}

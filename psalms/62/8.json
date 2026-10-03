@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Ɣef Elohim i d-lla uselki-iw d lɛezz-iw; Sruḥ n tezmert-iw, adeg-iw n lḥemaya — deg Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɣef"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "uselki-iw"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "d lɛezz-iw"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Sruḥ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "n tezmert-iw"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "adeg-iw n lḥemaya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:45.270499413Z",
+  "model": "glm-5.3"
+}

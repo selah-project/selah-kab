@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Yahwe Yessnen tiḥulas n umdan, acku ⟨d⟩ idlelen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Yessnen"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "tiḥulas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n umdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "idlelen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:27.400585646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Moce weḥd-s ad iqreb ɣer Yahwe; nutni ur ad sqebben ara, ma d aɣlan ur ad yali yid-s.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ad iqreb"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "weḥd-s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ad sqebben"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ma d aɣlan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:39.970803026Z",
+  "model": "glm-5.3"
+}

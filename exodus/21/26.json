@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ma yedreb wemdan ⟨את⟩ tîtit n waklan-is neɣ ⟨את⟩ tîtit n taklent-is i d-yesserẓen, ad t-iveggleḍ d ilelli deg umkan n tîtit-is.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "yedreb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tîtit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tîtit"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "n waklan-is"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tîtit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tîtit"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "n taklent-is"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "i d-yesserẓen"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "d ilelli"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ad t-iveggleḍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "tîtit-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:14.301713911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Anwa i yessen tazmert n tmeḥqrit-nnek? Akken tella tugdi-nnek, akka i tella teqessa-nnek.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i yessen"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "n tmeḥqrit-nnek"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "akken tella tugdi-nnek"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "teqessa-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.140911719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Akken ur yini aɛdaw-iw: Nneqdeɣ-t, ad ḥecmen wid iyi-iceqɛen, mi ara ṛuḥeɣ.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "akken ur…ara"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yini"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "aɛdaw-iw"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "nneqdeɣ-t"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "wid iyi-iceqɛen"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ad ḥecmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ara ṛuḥeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:13.572410734Z",
+  "model": "glm-5.3"
+}

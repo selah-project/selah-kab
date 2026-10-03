@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ma yefrux ṣaraɛat, ad d-yefrux deg yizi, ad s-teḥbes ṣaraɛat ⟨את⟩ akk izi n win iḥulmen, si teɣzimt-ik alamma d iḍarren-ik, akken i t-id-yettwali siḍs n XKohen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "ad d-yefrux"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "ad d-yefrux"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ṣaraɛat"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "deg yizi"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "ad s-teḥbes"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ṣaraɛat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk izi n win iḥulmen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עור",
+      "gloss": "izi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "n win iḥulmen"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "si teɣzimt-ik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "alamma d"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iḍarren-ik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "i t-id-yettwali"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "siḍs n"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "XKohen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:08:39.968847322Z",
+  "model": "glm-5.3"
+}

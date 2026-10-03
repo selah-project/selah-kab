@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Kečč teẓriḍ tuɣac-agi inu d usuli inu, tezwireḍ ad tfehmed tiqqaṛ-agi inu seg tebriḍt.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "teẓriḍ"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "tuɣac-agi inu"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "d usuli inu"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "tezwireḍ ad tfehmed"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "tiqqaṛ-agi inu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "seg tebriḍt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:40.338059655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Unagen watmaten-is ad ssenɣen ⟨את⟩ tiksiwin n baba-s deg Cekem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "unagen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ad ssenɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiksiwin n baba-s"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tiksiwin"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "deg Cekem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:11.489436465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ula yiwen wid yerren arraw-nnes ɣur-k ur ẓẓayen ara lḥerṣ; ad ẓẓun lḥerṣ wid igammen di lweḥc war seb.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wid yerren arraw-nnes ɣur-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ẓẓun ara lḥerṣ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ad ẓẓun lḥerṣ"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "wid igammen di lweḥc"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "war seb"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:43.778528337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 82,
+  "translation": "Nekk, neḍfaɣ: Elohim ⟨⟨kunwi⟩⟩, kunwi akk d arraw n Ɛelyon.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "neḍfaɣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "d arraw n"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɛelyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kunwi akk"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:55.948328074Z",
+  "model": "glm-5.3"
+}

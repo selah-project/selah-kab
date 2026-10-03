@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Axer ulac asmekti i umussan, am uxeyyaf, i lebda; deg wussan i d-iteddun akk ad yattu. Amek i yettmuten amussan? Akken maḍi d uxeyyaf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "asmekti"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "i umussan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "am"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "uxeyyaf"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "deg wussan i d-iteddun"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "i d-iteddun"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "ad yattu"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "amek"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "yettmuten"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "amussan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akken maḍi d"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "uxeyyaf"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:46.534590647Z",
+  "model": "glm-5.3"
+}

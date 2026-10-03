@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ssugnen n tmurt: s wacḥal nettat ⟨d⟩ tageldant, ⟨d⟩ lexla i tt-iḥedmen.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ssugnen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s wacḥal"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nettat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tageldant"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "i lexla"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "i tt-iḥedmen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:33.982884179Z",
+  "model": "glm-5.3"
+}

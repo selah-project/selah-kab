@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "I win yettṣeggem ddwella, Ur tt-kkes, n David, d Miktem.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettṣeggem ddwella"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tt-kkes"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "d Miktem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:30.397037379Z",
+  "model": "glm-5.3"
+}

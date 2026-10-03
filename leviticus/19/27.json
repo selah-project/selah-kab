@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur tesseɣlaym ara tamiḍt n yixef-awen, ur tesseɣlaym ara ⟨את⟩ tamiḍt n teɣmert-ik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "tesseɣlaym ara"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tamiḍt"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "n yixef-awen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "tesseɣlaym ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamiḍt n teɣmert-ik"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "tamiḍt"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "n teɣmert-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:21.694914988Z",
+  "model": "glm-5.3"
+}

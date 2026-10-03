@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Seg elliwis n ḫamsin iseggasen, ad yuɣal ɣer deffir seg tnaɣriwt n wakk, dɣa ur yeḥeddub ara diɣen.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "seg elliwis"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ḫamsin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ad yuɣal ɣer deffir"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "seg tnaɣriwt"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "n wakk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dɣa ur"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "yeḥeddub ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "diɣen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:28:13.025015568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad qelqelɣ Miṣrayim ɣef Miṣrayim, ad nnaɣen argaz d gma-s d argaz d umeḥbun-is, tiɣremt d tiɣremt, tagelda d tagelda.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Ad qelqelɣ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ɣef Miṣrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ad nnaɣen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "d gma-s"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "d argaz"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "d umeḥbun-is"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tiɣremt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "d tiɣremt"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "tagelda"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "d tagelda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:05.971155175Z",
+  "model": "glm-5.3"
+}

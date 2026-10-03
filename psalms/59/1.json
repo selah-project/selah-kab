@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "I umsatal, ɣer unemhal: Ur tt-kkes ara. D taẓuri n David, d aẓru yettwuran. Mi yuzen Caul, walan ⟨את⟩ wexxam iwakken ad t-nɣen.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ɣer unemhal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tt-kkes ara"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "aẓru yettwuran"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "Mi yuzen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "walan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "iwakken ad t-nɣen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:34.504535996Z",
+  "model": "glm-5.3"
+}

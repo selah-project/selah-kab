@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ɛuzzi iwli-d ⟨את⟩ Zeraḥya, Zeraḥya iwli-d ⟨את⟩ Merajot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Ɛuzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwli-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeraḥya"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zeraḥya"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Zeraḥya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwli-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:17.799782794Z",
+  "model": "glm-5.3"
+}

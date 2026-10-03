@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Akk d i idammen iṣeffan i yeṣfa: yeṣfa ⟨את⟩ Yerucalayim s idammen iṣeffan, Yahwe ur yelli ara yessaram ad isemmeḥ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Akk d"
+    },
+    {
+      "surface": "דם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "iṣeffan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "yeṣfa"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "yeṣfa…s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "s idammen"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "iṣeffan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yelli ara yessaram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "ad isemmeḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:52.865945270Z",
+  "model": "glm-5.3"
+}

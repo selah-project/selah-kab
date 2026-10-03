@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 16:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yella-d wawal, mi iḥeṛṛi Aharon ɣer tgivlit akk n yiderdan n Yisrael, wten sin akin ɣer lexla, d ⟨w⟩a⟨ru⟩: teẓrit n Yahwe tettwali deg usigna.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d wawal"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "mi iḥeṛṛi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tgivlit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iderdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויפנו",
+      "gloss": "wten sin akin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lexla"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d ⟨w⟩a⟨ru⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teẓrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "tettwali"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "deg usigna"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:03.817773787Z",
+  "model": "glm-5.3"
+}

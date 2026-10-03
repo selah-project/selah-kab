@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Err udem-ik ad yecfu ɣef uɛebdi-ik, sselm-ed iyi ⟨את⟩ yilugan-ik.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ad yecfu"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ɣef uɛebdi-ik"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "sselm-ed iyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilugan-ik"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "yilugan-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.142508656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yeqsi acṭib, tdedliq tijeǧǧigt, d awal n Elohim-nneɣ ad yeqqim i lebda.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "yeqsi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "acṭib"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "tdedliq"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "tijeǧǧigt"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "d awal"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:21.590098533Z",
+  "model": "glm-5.3"
+}

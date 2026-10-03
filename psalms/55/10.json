@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Adonai, ḍfes ilsawen-nsen, bḍu-ten; axaṭer iwalaɣ takerḍa d tugdi deg temdint.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "ḍfes"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "bḍu-ten"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilsawen-nsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "iwalaɣ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "takerḍa"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "d tugdi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:42.060889595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "I win, i lmukkri, ɣef Cecuken, imezla n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win, i lmukkri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Cecuken"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "imezla n David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:40.895655845Z",
+  "model": "glm-5.3"
+}

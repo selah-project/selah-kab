@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Efket tuzzma i Elohim; teγzi-s atreb ɣef Yisrael, tezmert-is deg wagenwan.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Efket"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tuzzma"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "atreb ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "teγzi-s"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "tezmert-is"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "deg wagenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:55.230233097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Teffɣeɣ-d tames si dat Yahwe, teṭṭef ⟨את⟩-ten, u mmuten di dat Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "teffɣeɣ-d"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tames"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "si dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "teṭṭef"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "-ten (Naddav d Abihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "u mmuten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:08:10.369556333Z",
+  "model": "glm-5.3"
+}

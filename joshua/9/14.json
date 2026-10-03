@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yergazen ṭṭfen seg unečči-nsen, ma d ⟨את⟩ imi n Yahwe ur steqsan ara.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "yergazen"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "seg unečči-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imi n Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "steqsan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:07.704260505Z",
+  "model": "glm-5.3"
+}

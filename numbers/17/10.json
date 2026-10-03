@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "«Aliet seg tnilla n tlufa-agi, iwakken ad ten-kkseɣ ⟨את⟩ deg cwiṭ.» Ɣlin ɣef wudmawen-nsen.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "aliet"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg tnilla n"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tlufa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ad ten-kkseɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "deg cwiṭ (כרגע)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "deg cwiṭ n lakud"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ɣlin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wudmawen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:34:56.353820162Z",
+  "model": "glm-5.3"
+}

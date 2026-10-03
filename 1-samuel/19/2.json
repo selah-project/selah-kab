@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yenna Yonatan i David: Baba Shaul yettnadi ad k-yenɣeḍ. Tura, eṛṛuḥ ad tuɣaleḍ d lǧeḥec, ttḥerbes ɣef iman-ik ṣṣbeḥ, qqim deg umḍiq uffir, tefferḍ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "yettnadi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "ad k-yenɣeḍ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ttḥerbes"
+    },
+    {
+      "surface": "נא",
+      "gloss": "eṛṛuḥ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ṣṣbeḥ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "qqim"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg umḍiq uffir"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "tefferḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:33.442436630Z",
+  "model": "glm-5.3"
+}

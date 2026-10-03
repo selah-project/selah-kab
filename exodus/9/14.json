@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Acku tikkelt-agi, nekk ad d-ruzegh ⟨את⟩ akk yimuggefen-iw ɣef wul-ik, ɣef yixeddamen-ik ed ɣef ugdud-ik, iwakken ad tisseḍ belli ulac win yettcban d nekk deg tmurt-akk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "tikkelt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ad d-ruzegh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk yimuggefen-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "yimuggefen-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "ɣef yixeddamen-ik"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ed ɣef ugdud-ik"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ad tisseḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac win"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "yettcban d nekk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg tmurt-akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:42.628852274Z",
+  "model": "glm-5.3"
+}

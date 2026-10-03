@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "I Clumu. A Elohim, efk ccreɛ-ik i ugellid, d taṣedeqt-ik i mmi-s n ugellid.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "i Clumu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "A Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ccreɛ-ik"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "תן",
+      "gloss": "efk"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "d taṣedeqt-ik"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "i mmi-s n"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:56.911692293Z",
+  "model": "glm-5.3"
+}

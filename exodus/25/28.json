@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad txedmeḍ ⟨את⟩ yisleɣ s lexčaṛ n acacia, ad ten-tcebbeḥ ⟨את⟩ s ureɣ, iwakken ad d-yettwaṭṭef ⟨את⟩ tfelwit yidsen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisleɣ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "yisleɣ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "s lexčaṛ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n acacia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ad ten-tcebbeḥ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "yisleɣ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "s ureɣ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "iwakken ad d-yettwaṭṭef"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yidsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tfelwit"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tfelwit"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:48.800060940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Tura ihi, ad tettwanbez keččin seg tmurt, i yeldin ⟨את⟩ imi-is iwakken ad terra ⟨את⟩ idammen n gma-k seg ufus-ik.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura ihi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ad tettwanbez"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keččin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "yeldin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imi-is"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "imi-is"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ad terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "n gma-k"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "seg ufus-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:16.854141983Z",
+  "model": "glm-5.3"
+}

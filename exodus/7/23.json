@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ferɛun iwweḍ, yuneg ɣer uxxam-is, ur isεi ara ul-is ⟨iṛuḥ⟩ ula deg wayagi.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "iwweḍ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yuneg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uxxam-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שת",
+      "gloss": "isεi … ⟨iṛuḥ⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "deg wayagi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:34.760415144Z",
+  "model": "glm-5.3"
+}

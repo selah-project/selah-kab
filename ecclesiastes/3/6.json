@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akud iwakken ad tnadiḍ, d akud iwakken ad txeḍɛeḍ; akud iwakken ad tḥerzeḍ, d akud iwakken ad teffeɣḍ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ad tnadiḍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ad txeḍɛeḍ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ad tḥerzeḍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ad teffeɣḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:35.813492701Z",
+  "model": "glm-5.3"
+}

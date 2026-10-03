@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "S tuccḍa-nsen ad ḥemmlen ⟨את⟩ ugellid, s yir awal-nsen ⟨ad ḥemmlen⟩ ⟨את⟩ yimeqranen.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "s tuccḍa-nsen"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ad ḥemmlen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "s yir awal-nsen"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "yimeqranen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:28:48.862020085Z",
+  "model": "glm-5.3"
+}

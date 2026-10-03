@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Eǧǧ-iyi, ad ten-ḥesbeɣ, ad kkseɣ ⟨את⟩ isem-nsen seg ddaw ⟨w⟩igenwan, ad err-agh ⟨את⟩ kečč d agdud d ameqran, ugar nnsen.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "eǧǧ-iyi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "ad ten-ḥesbeɣ"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "ad kkseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-nsen"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "isem-nsen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "seg ddaw"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ad err-agh"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kečč",
+      "marks": "kečč d agdud"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "d agdud"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "d ameqran"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nnsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:37.996769010Z",
+  "model": "glm-5.3"
+}

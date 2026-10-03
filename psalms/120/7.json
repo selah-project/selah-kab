@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 120,
+  "translation": "Nekk, tifrat-nni; ma meslayeɣ, nutni ⟨deg⟩ ttriḍ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tifrat"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "meslayeɣ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "deg ttriḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.494090046Z",
+  "model": "glm-5.3"
+}

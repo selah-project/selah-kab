@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Yahwe ixeddem ṣedeq d iccreɛ i yal wid yettwazdaggen.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ixeddem"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "d iccreɛ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "wid yettwazdaggen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:32.278570578Z",
+  "model": "glm-5.3"
+}

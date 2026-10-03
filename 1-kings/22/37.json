@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yemmut ⟨agellid⟩, yewweḍ-d ɣer Comeron, u ḍefnen ⟨את⟩ ⟨agellid⟩ deg Comeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "yewweḍ-d"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ḍefnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "deg Comeron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:25:21.410768926Z",
+  "model": "glm-5.3"
+}

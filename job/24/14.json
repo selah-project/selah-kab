@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "S tafat ad yidir win inen; ad ineɣ ⟨את⟩ aneẓli d ⟨את⟩ umiḍi; deg yiḍ ad yili am uwen.",
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "S tafat"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "win inen"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "ad ineɣ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aneẓli",
+      "marks": "aneẓli"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "d umiḍi",
+      "marks": "umiḍi"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "am uwen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:39:07.905076300Z",
+  "model": "glm-5.3"
+}

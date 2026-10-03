@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Gziɣ lɛahd i win-iw ifernen, ggumeɣ i David aqeddac-iw.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Gziɣ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "i win-iw ifernen"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ggumeɣ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aqeddac-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:24.278085653Z",
+  "model": "glm-5.3"
+}

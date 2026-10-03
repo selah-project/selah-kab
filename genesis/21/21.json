@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yezdeɣ deg unaḥu n Paran, d yemma-s i d-yewwi-d yiwet n tmeṭṭut i s, seg tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg unaḥu"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "i d-yewwi-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i s"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yiwet n tmeṭṭut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:48.306999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim-nwen, win yetteddun deg uẓeṭṭaṭ-nwen, d netta ara yennuɣen yid-wen, akken i yexdem ⟨את⟩ yid-wen deg Miṣrayim, iwazen-nwen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "win yetteddun"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "deg uẓeṭṭaṭ-nwen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "yennuɣen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yid-wen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yid-wen",
+      "marks": "yid-wen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "iwazen-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:52.095311579Z",
+  "model": "glm-5.3"
+}

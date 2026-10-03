@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad yili, mi ara teṭṭfem ⟨את⟩ temdint, ad tt-ḥerqem ⟨את⟩ temdint s tmes; akken i d-yenna Yahwe, ad txedmem. Ẓer, i wen-iḥettmeɣ ⟨את⟩ wen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "mi ara teṭṭfem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "ad tt-ḥerqem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "באש",
+      "gloss": "s tmes"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ad txedmem"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Ẓer"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "i wen-iḥettmeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wen",
+      "marks": "wen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:56.354509258Z",
+  "model": "glm-5.3"
+}

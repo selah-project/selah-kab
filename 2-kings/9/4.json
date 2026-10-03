@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Meṛṛa d agrac, agrac n unavi, yekka-d ɣer Ramot Gilɛad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yekka-d"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "agrac"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "agrac"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "n unavi"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:19.511900776Z",
+  "model": "glm-5.3"
+}

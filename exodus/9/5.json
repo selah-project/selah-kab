@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yessula Yahwe akud, ad yini: Azekka, ad yexdem Yahwe ⟨את⟩ awal-agi di tmurt.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Yessula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Azekka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:07.045035475Z",
+  "model": "glm-5.3"
+}

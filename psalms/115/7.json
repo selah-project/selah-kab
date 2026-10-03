@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Ixfawen-nsen sɛan, maca ur mseḍḍfen ara; iḍarren-nsen sɛan, maca ur zzin ara; ur d-mmeslayen ara s laɛbeṛ-nsen.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "ixfawen-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "mseḍḍfen ara"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "iḍarren-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "zzin ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mmeslayen ara"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "s laɛbeṛ-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:13.686084104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Ad yugwed wemdan akk, ad d-inin axeddim n Elohim, d wayen ixedmen ad t-fhamen s lɛaqel.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ad yugwed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ad d-inin"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "d wayen ixedmen"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ad t-fhamen s lɛaqel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:55.794295990Z",
+  "model": "glm-5.3"
+}

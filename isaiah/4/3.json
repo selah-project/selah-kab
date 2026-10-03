@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad yili, win i d-yegran di Ṣicyun, d win i d-yeqqimen di Yerucalayim, «iqedcen» ad yettusemmi fell-as, akk wid i yuran i ḥyaten di Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "win i d-yegran"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Ṣicyun"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "d win i d-yeqqimen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerucalayim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yettusemmi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "wid i yuran"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "i ḥyaten"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:19:37.685726799Z",
+  "model": "glm-5.3"
+}

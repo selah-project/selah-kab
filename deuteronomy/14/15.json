@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "d ⟨את⟩ yelli n teyamt, d ⟨את⟩ taḥmasut, d ⟨את⟩ ișaḥaf, d ⟨את⟩ ines, i wajan-is",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yelli n teyamt"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "teyamt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taḥmasut"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "taḥmasut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ișaḥaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ișaḥaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ines"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ines"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "i wajan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:08.663401194Z",
+  "model": "glm-5.3"
+}

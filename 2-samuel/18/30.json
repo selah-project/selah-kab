@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yenna ageldun: Ṛuḥ ar tama, bedd da. Yeṛṛuḥ ar tama, yebda yidir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ageldun"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ṛuḥ ar tama"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "bedd"
+    },
+    {
+      "surface": "כה",
+      "gloss": "da"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yeṛṛuḥ ar tama"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "yebda yidir"
+    }
+  ],
+  "timestamp": "2026-10-02T23:04:51.118674658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Kunwi twalimdeg yiwen n Yahwe, Win ixelqen igenwan d tmurt.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "twalimdeg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Win ixelqen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "d tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:53.160403701Z",
+  "model": "glm-5.3"
+}

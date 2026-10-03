@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Ssawḍen wallaɣ deg yiman n Meriba, yerna yella wayen diran i Moce seg wat gensa-nni.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ssawḍen wallaɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yiman"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "yella wayen diran"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "i Moce"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "seg wat gensa-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:05.871529543Z",
+  "model": "glm-5.3"
+}

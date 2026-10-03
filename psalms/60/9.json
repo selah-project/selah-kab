@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Inu Gilɛad, d inu Menaše; Efrayim d taɣult n yixef-iw; Yehuda d win iḥekmen fell-i.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "inu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "d inu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "taɣult"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "n yixef-iw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "win iḥekmen fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:10.400412217Z",
+  "model": "glm-5.3"
+}

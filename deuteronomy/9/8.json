@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Di Ḥoreb, trezzwent-agi tettwagi tuffra: tkeṛḍem ⟨את⟩ Yahwe, iḥemmem Yahwe fell-awen, akken ad k-isseɣti.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Di Ḥoreb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "tkeṛḍem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "iḥemmem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fell-awen"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "akken ad k-isseɣti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kunwi (awen)"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:06.971881884Z",
+  "model": "glm-5.3"
+}

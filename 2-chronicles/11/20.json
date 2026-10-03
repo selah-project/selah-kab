@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "S deffir-is i d-yewwi ⟨את⟩ Maɛaḫa yelli-s n Abcalom; terna-d i yimawlan-is ⟨את⟩ Abiya, ⟨את⟩ d Ɛattay, ⟨את⟩ d Ziza, ⟨את⟩ d Celomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "S deffir-is"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maɛaḫa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maɛaḫa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "n Abcalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "terna-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yimawlan-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abiya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛattay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Ɛattay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Celomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Celomit"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:26.833406700Z",
+  "model": "glm-5.3"
+}

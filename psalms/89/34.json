@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Maca ḥesed-iw ur t-tekkseɣ ara deg-s, ur qqellebɣ ara deg uneḥlu-iw.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "maca ḥesed-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "t-tekkseɣ ara"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "qqellebɣ ara"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "deg uneḥlu-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:21.206338372Z",
+  "model": "glm-5.3"
+}

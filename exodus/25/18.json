@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad teqbeḍ sin kerub s ureɣ; s legwiz (ahedd) ad ten-teggeḍ ⟨אתם⟩, deg sin yiceḍan n Kapporeṭ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad teqbeḍ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "s ureɣ"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "s legwiz"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad ten-teggeḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "deg sin yiceḍan"
+    },
+    {
+      "surface": "משני",
+      "gloss": "deg sin"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "yiceḍan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "n Kapporeṭ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:17.806971752Z",
+  "model": "glm-5.3"
+}

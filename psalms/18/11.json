@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yekker ɣef Kerub, yinig; yerna yettberrir ɣef ijenḥan n ruaḥ.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "yekker"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "Kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "yinig"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "yettberrir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ijenḥan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:46.569869670Z",
+  "model": "glm-5.3"
+}

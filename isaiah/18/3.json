@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "A yimezdaɣ akk n umaḍal, d wid izdeɣen tamurt: mi d-yettwaru ucenṭeɛ deg idurar, ad twalim; mi yettwaqseḍ uceffar, ad tselmed!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "a yimezdaɣ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "n umaḍal"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "d wid izdeɣen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "mi d-yettwaru"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ucenṭeɛ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "deg idurar"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ad twalim"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "d mi yettwaqseḍ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "uceffar"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ad tselmed"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:00.836679650Z",
+  "model": "glm-5.3"
+}

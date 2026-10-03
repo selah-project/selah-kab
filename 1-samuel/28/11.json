@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Tenna-d tmeṭṭut: ⟨את⟩ anwa ad ak-d-sɛelliɣ? Yenna: Sɛelliɣ-d ⟨את⟩ Cemuel.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Tenna-d"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ad ak-d-sɛelliɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "sɛelliɣ-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yi"
+    }
+  ],
+  "timestamp": "2026-10-02T22:50:43.823488861Z",
+  "model": "glm-5.3"
+}

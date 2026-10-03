@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Mmasket i ttiwsi, ad tettwaḥeccem; mmeslayet awal, ur ad yeqqim ⟨d ikkan⟩, axaṭer El ⟨yella⟩ yid-neɣ.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "mmasket i ttiwsi"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ttiwsi"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ad tettwaḥeccem"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mmeslayet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "yid-neɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:01.394262416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Seg tiggi-ik, a Elohim n Yaɛqov, ɣligen wa d rrekba d yiwdan.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "seg tiggi-ik"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ɣligen"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "wa d rrekba"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "d yiwdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:07.627244377Z",
+  "model": "glm-5.3"
+}

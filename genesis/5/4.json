@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Iyyam n Adam deffir melmi id-yewlid ⟨את⟩ Set ḍan-t tam d timrawin n yiseggasen, yewlid arrac d yelli-t.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ḍan-t"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Iyyam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "melmi id-yewlid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Set"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "d timrawin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yewlid"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "d yelli-t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:53.861098294Z",
+  "model": "glm-5.3"
+}

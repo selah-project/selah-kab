@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "D ⟨את⟩ lmaḍbaḥ n werẓa, d ⟨את⟩ zzețt n uḥenna, d ⟨את⟩ ttḥenjanin n yisemgar, d ⟨את⟩ asekber n tetbert n lxayma.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "lmaḍbaḥ n werẓa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lmaḍbaḥ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n werẓa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "zzețt n uḥenna"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzețt"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n uḥenna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ttḥenjanin n yisemgar"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ttḥenjanin"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "n yisemgar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "asekber n tetbert"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "asekber"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "n tetbert"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "n lxayma"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:54.238713482Z",
+  "model": "glm-5.3"
+}

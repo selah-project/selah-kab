@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Iyi ggulen wid ibeṭṭlen ad iyi-ḥerben; ma d ccehdat-ik ad tt-fhemɣ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ggulen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid ibeṭṭlen"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "ad iyi-ḥerben"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ccehdat-ik"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ad tt-fhemɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:24.667340281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Iḥeqqiyen ldan tagenwant-nsen, ẓẓan tikrest-nsen, iwakken ad ṭṭfen ad yeahwi d uẓuran akked win iḥeṛmen, ad ineḥsel wid izelnan deg ubrid.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "tagenwant"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ldan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "iḥeqqiyen"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ẓẓan"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "tikrest-nsen"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ad yeahwi d"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ad yeahwi d uẓuran"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "akked win iḥeṛmen"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "ad ineḥsel"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wid izelnan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "deg ubrid"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:11.974639615Z",
+  "model": "glm-5.3"
+}

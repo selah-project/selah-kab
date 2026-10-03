@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Igenwan n Yahwe ⟨⟨igenwan⟩⟩, ma d tmurt, Yahwe ifka-tt i warrac n medden.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "n Yahwe ⟨igenwan⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ma d tmurt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ifka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n medden"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:53.160549402Z",
+  "model": "glm-5.3"
+}

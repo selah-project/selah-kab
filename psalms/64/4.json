@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Wid izenẓan am ilef ilsan-nsen, issersen tiganin-nsen — awal igurzen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wid"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "izenẓan"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "am ilef"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilsan-nsen"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "issersen"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "tiganin-nsen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "מר",
+      "gloss": "igurzen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:08.866132075Z",
+  "model": "glm-5.3"
+}

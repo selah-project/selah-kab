@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Igellilen ad ččan ad sebbeɛen; wid yettnadin ɣef Yahwe ad t-ceḥḥen; ad nudiren ulawen-nwen i lebda.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "ad ččan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "igellilen"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ad sebbeɛen"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ad t-ceḥḥen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "wid yettnadin ɣef"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ad nudiren"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ulawen-nwen"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:11.248071260Z",
+  "model": "glm-5.3"
+}

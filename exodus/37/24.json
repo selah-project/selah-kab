@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "S yiwen n ṭalent n uṛeɣ iẓeḍan i t-ixleq, ⟨את⟩-nni, akk ⟨את⟩ akk ihilen-is.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ṭalent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n uṛeɣ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "iẓeḍan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i t-ixleq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "itt (asafag)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk ⟨את⟩",
+      "marks": "akk ihilen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ihilen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:55.525479769Z",
+  "model": "glm-5.3"
+}

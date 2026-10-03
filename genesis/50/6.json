@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Yenna Paroh: γeḍ, ḥerres ⟨את⟩ bab-ik, akken i k-issewqen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "γeḍ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ḥerres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bab-ik"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bab-ik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "i k-issewqen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:44.856672675Z",
+  "model": "glm-5.3"
+}

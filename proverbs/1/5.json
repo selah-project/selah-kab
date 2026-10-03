@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad islem ḥakim, ad yernu leqqaḥ; d unefɛem, ad yexdem taḥbult n tiṣeqqifin.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ad islem"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ḥakim"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "leqqaḥ"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "d unefɛem"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "taḥbult n tiṣeqqifin"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "ad yexdem"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:54.454597090Z",
+  "model": "glm-5.3"
+}

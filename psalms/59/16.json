@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Nuteni ad zzizziren iwakken ad ccan; ma ṣṣan acemma ur ssawḍen ara ad ṣṣen, ad rnun deg yiḍ.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "nuteni"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ad zzizziren"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "iwakken ad ccan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ssawḍen ara ad ṣṣen"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ad rnun deg yiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:00.934863027Z",
+  "model": "glm-5.3"
+}

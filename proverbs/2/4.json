@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "ma tettnadiḍ-tent am uceref, tettfarciḍ-tent am yimeṭmunen ifellen;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "tettnadiḍ-tent"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "am uceref"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "am yimeṭmunen ifellen"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "tettfarciḍ-tent"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:35.846624027Z",
+  "model": "glm-5.3"
+}

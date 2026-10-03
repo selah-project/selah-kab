@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Inna-d Avram: Wali, kečč ur yi-d-tunefdeḍ ara tarwa, yerna wali, win ilulen deg wexxam-iw d netta ad yeṭṭef ⟨את⟩ iyi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inna-d"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tunefdeḍ ara"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "yerna wali"
+    },
+    {
+      "surface": "בן",
+      "gloss": "win ilulen"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "deg wexxam-iw"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iyi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:39.879240798Z",
+  "model": "glm-5.3"
+}

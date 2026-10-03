@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Ssel, a y-iɣlan-iw, ad ak-d-ini; a Yisrael, ma tesselḍeḍ iyi;",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ssel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "a y-iɣlan-iw"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ad ak-d-ini"
+    },
+    {
+      "surface": "בך",
+      "gloss": "innek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tesselḍeḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:28.375545840Z",
+  "model": "glm-5.3"
+}

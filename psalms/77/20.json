@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Deg yillel yella ⟨i⟩ ubrid-ik, iberdan-ik deg waman nnumsen; ilmeẓyen-ik (imuren n uḍar-ik) ur nenmi ara.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "deg yillel"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "abrid-ik"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "iberdan-ik"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nnumsen"
+    },
+    {
+      "surface": "ו עקבותיך",
+      "gloss": "imuren n uḍar-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "nenmi ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:10.193901775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ma yebɣa ad iḥekkem yid-s, ur d-yettarra ara yiwen seg ⟨את⟩ igim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "yebɣa"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ad iḥekkem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "d-yettarra"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:39:41.167458554Z",
+  "model": "glm-5.3"
+}

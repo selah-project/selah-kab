@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "A Elohim, erẓ ⟨את⟩ isen-nsen deg ⟨⟨את⟩⟩ imi-nsen; ⟨את⟩ tiẓiwin n yizerfan imeẓyanen kkes-ten, a Yahwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "erẓ"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "isen-nsen"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "deg imi-nsen"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "tiẓiwin"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "n yizerfan imeẓyanen"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "kkes-ten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:36.822994981Z",
+  "model": "glm-5.3"
+}

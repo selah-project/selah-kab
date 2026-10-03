@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yeqqim akka-yagi yettwagi yernu kraḍ n wussan wiyyaḍ, yernu yules aɛraẓ ⟨את⟩ n timersult si tfunast.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "yeqqim yettwagi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yernu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sabɛ n wussan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wiyyaḍ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "yules"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "aɛraẓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timersult"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "n timersult"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tfunast"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:37.388005047Z",
+  "model": "glm-5.3"
+}

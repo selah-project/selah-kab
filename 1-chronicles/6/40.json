@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Rran-asen ⟨iγzer⟩ n Ḥebrun deg tmurt n Yehuda, akked ⟨iγzer⟩-ines i d-yezzin.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Rran-asen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥebrun"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥebrun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tseεet-ines"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tseεet-ines"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "i d-yezzin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:22.135754884Z",
+  "model": "glm-5.3"
+}

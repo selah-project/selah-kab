@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Acku si lbeɛd ara twaliḍe ⟨את⟩ tamurt-a, maca ur tezzired ara deg tmurt-a i nekwen kkan i warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "si lbeɛd"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ara twaliḍe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt-a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt-a"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tezzired"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt-a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekwen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kkan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:02.611204600Z",
+  "model": "glm-5.3"
+}

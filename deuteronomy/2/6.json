@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ačču ad t-teɣtem ⟨את⟩ ɣur-sen s uṛɣ, ad teččem; ula d aman ad t-teɣtem ⟨את⟩ ɣur-sen s uṛɣ, ad tettem.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ačču"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ad t-teɣtem"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ɣur-sen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s uṛɣ"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ad teččem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "ad t-teɣtem"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ɣur-sen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s uṛɣ"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ad tettem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:12.203199995Z",
+  "model": "glm-5.3"
+}

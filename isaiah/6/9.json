@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yenna: ɣer, ini i wegḍud-agi: cuct, cuct, maca ur tfehmem ara; walit, walit, maca ur teẓrem ara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i wegḍud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "cuct"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "cuct"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "tfehmem ara"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "walit"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "walit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "teẓrem ara"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:31.262053398Z",
+  "model": "glm-5.3"
+}

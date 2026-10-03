@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Maca ṭṭes-iw yeḥmel-iten seg twaɣit-nsen, ur giɣ ara ⟨את⟩ ten d taggara deg tneẓri.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "yeḥmel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ṭṭes-iw"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "iten"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "seg twaɣit-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "giɣ ara"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten d taggara"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg tneẓri"
+    }
+  ],
+  "timestamp": "2026-10-03T00:51:50.330274173Z",
+  "model": "glm-5.3"
+}

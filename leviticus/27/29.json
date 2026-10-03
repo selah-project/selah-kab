@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Yal win i yettwaḥermenḥerem seg yimdanen, ur yettwaxleṣ; s lmut ad yemmet.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ḥerem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "yettwaḥrem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yimdanen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "yettwaxleṣ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:24.669851654Z",
+  "model": "glm-5.3"
+}

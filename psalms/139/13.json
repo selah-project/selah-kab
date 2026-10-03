@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Acku kečč i d-yexleq ⟨את⟩ tibawin-iw, tessunɣeḍ-iyi deg uni n yemma-w.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "i d-yexleq"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "tibawin-iw"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "tessunɣeḍ-iyi"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "deg uni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "n yemma-w"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:52.268241259Z",
+  "model": "glm-5.3"
+}

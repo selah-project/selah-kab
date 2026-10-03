@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Deg yiḍ-nni, fkyant-as i ⟨את⟩ baba-sent tayin ad isew; tameqranit tekka-d terra tiṣṭ akked ⟨את⟩ baba-s, ur yezri ula mi ternuḍ ula mi tnekfa.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "fkyant-as ad isew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-sent"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "baba-sent"
+    },
+    {
+      "surface": "יין",
+      "gloss": "tayin"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "tekka-d"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "tameqranit"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "terra tiṣṭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yezri"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "mi ternuḍ"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "mi tnekfa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:36.228151489Z",
+  "model": "glm-5.3"
+}

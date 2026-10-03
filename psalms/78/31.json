@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Tiddin n Elohim tuli-d ɣef-sen, yennaɣ deg yiḥemmen-nsen, yessukfer iẓeżżwan n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "tiddin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tuli-d"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "yennaɣ"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "deg yiḥemmen-nsen"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "iẓeżżwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "yessukfer"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:40.488008499Z",
+  "model": "glm-5.3"
+}

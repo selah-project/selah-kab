@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Maca nekkenti, ad neḥmdem ⟨את⟩ Yah seg tura ar kraḍ n wussan. Seblhemet i Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "maca nekkenti"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "ad neḥmdem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "seg tura"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kraḍ n wussan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "seblhemet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:48.587913031Z",
+  "model": "glm-5.3"
+}

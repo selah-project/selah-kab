@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Ad ṛuḥen am waman, ad ddin ⟨i yiman-nsen⟩; mi ara yedlu ⟨את⟩ tigeṭṭuft-is, ad ṛuḥen am wid yettwakksen.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "ad ṛuḥen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ad ddin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "i yiman-nsen"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "yedlu"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "tigeṭṭuft-is"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ad ṛuḥen am wid yettwakksen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:36.823286033Z",
+  "model": "glm-5.3"
+}

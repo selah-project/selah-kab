@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tura kečč i d-tennaḍ: «duɣ, ini i bab-ik: Atan Eliyahu» — ad iyi-neɣ?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-tennaḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "duɣ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "i bab-ik"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "atan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "ad iyi-neɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:35.202095243Z",
+  "model": "glm-5.3"
+}

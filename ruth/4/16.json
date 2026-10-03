@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Nɛemi tuɣ ⟨את⟩ mectuḥ, teṭṭef-it deg iεddayen-is, tuɣal d teldayi-s n wemic.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "tuɣ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Nɛemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mectuḥ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mectuḥ"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "teṭṭef-it"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "deg iεddayen-is"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tuɣal d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "d teldayi-s"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "teldayi n wemic"
+    }
+  ],
+  "timestamp": "2026-10-03T02:49:52.165420648Z",
+  "model": "glm-5.3"
+}

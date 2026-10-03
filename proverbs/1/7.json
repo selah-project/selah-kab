@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Taggarda n Yahwe d tazwart n tiss_rect; ḥikma d lwessa, ifexxen t-id igellilen n lɛeql.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "taggarda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tazwart"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "n tiss_rect"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ḥikma"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "d lwessa"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "igellilen n lɛeql"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "ifexxen t-id"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:54.455004300Z",
+  "model": "glm-5.3"
+}

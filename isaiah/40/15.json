@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 40:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Wa! Leǧnas am tellit seg wasikel, qqnen-tent am ccṛeḍ deg lmeεqel. Wa! Tigzirin am wayen imeṛṛa i d-yettazlen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "כמר",
+      "gloss": "am tellit"
+    },
+    {
+      "surface": "מדלי",
+      "gloss": "seg wasikel"
+    },
+    {
+      "surface": "וכשחק",
+      "gloss": "am ccṛeḍ"
+    },
+    {
+      "surface": "מאזנים",
+      "gloss": "deg lmeεqel"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "qqnen-tent"
+    },
+    {
+      "surface": "הן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tigzirin"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "am wayen imeṛṛa"
+    },
+    {
+      "surface": "יטול",
+      "gloss": "i d-yettazlen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:40.769053321Z",
+  "model": "glm-5.3"
+}

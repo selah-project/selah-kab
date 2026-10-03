@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ad tkecmeḍ ɣer yikeahnen ileviyen, d ɣer win iḥekmen i yellan deg wussan-nni; ad tsutreḍ, ad ak-d-inin ⟨את⟩ awal n lḥeqq.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ad tkecmeḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "yikeahnen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ileviyen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "win iḥekmen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ad tsutreḍ"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "ad ak-d-inin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "n lḥeqq"
+    }
+  ],
+  "timestamp": "2026-10-02T21:59:48.583476113Z",
+  "model": "glm-5.3"
+}

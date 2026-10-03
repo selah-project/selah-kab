@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 26:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Tura txedmeḍ iluẓen n tekelet ɣef lḥedda n yiwen weɣrum, deg taggara, deg useḥel; akken txedmeḍ daɣen ɣef lḥedda n weɣrum beṛṛani, deg useḥel wis sin.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "tura txedmeḍ"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "iluẓen"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "n tekelet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lḥedda"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "n weɣrum"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "deg taggara"
+    },
+    {
+      "surface": "בחברת",
+      "gloss": "deg useḥel"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txedmeḍ daɣen"
+    },
+    {
+      "surface": "בשפת",
+      "gloss": "ɣef lḥedda"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "n weɣrum"
+    },
+    {
+      "surface": "הקיצונה",
+      "gloss": "beṛṛani"
+    },
+    {
+      "surface": "במחברת",
+      "gloss": "deg useḥel"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wis sin"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:26.879536486Z",
+  "model": "glm-5.3"
+}

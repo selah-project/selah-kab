@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Wtin ad ddun yid-s ma ulac aɛlan, ma ur mmenaɛen ara?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wtin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ma ur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "mmenaɛen ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:20:13.892799450Z",
+  "model": "glm-5.3"
+}

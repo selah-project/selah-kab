@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Akkal agellid ad yeslem, iwakken ad yeslelli ⟨את⟩ tselmict-is seg ufus n wemdan, win ibɣan ad yexṣeṛ ⟨את⟩ yi d ⟨את⟩ mmi yid-s, seg lweṛṛ n Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Akkal"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ad yeslem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "iwakken ad yeslelli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tselmict-is"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "tselmict-is"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "win ibɣan ad yexṣeṛ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "mmi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "seg lweṛṛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:41.107654439Z",
+  "model": "glm-5.3"
+}

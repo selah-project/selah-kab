@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 36:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ur teslamet ara i Ḥizqiya, axaṭer akka i d-yenna ugellid n Accur: Eddmen-iyi ⟨את⟩ tifrat, ffɣet-d ɣur-i, ad teccem yal win tizegwin-is, yal win tinuḥin-is, ad teswem yal win aman n bxelb-is.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur… ara"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "teslamet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Accur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eddmen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ɣur-i",
+      "marks": "tifrat"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "tifrat"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "ffɣet-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ad teccem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "tizegwin-is"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "tinuḥin-is"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ad teswem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aman"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "n bxelb-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:41.135100178Z",
+  "model": "glm-5.3"
+}

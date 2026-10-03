@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ruḥeɣ ad iliɣ am izem gar-asen, am nneɛs ɣef uwenbaḍ n Acur ad ḥemmleɣ.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ruḥeɣ ad iliɣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "izem"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "am nneɛs"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "uwenbaḍ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Acur"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:47.230778731Z",
+  "model": "glm-5.3"
+}

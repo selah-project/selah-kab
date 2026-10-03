@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yeḍfel wegdan n tmurt ⟨את⟩ akk wid iḥezmen ɣef ugellid Amon; wegdan n tmurt sselḥen ⟨את⟩ Yociyahu, mmi-s, deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Yeḍfel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wegdan n"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wid iḥezmen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "wid iḥezmen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "sselḥen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wegdan n"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yociyahu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yociyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:34.802556719Z",
+  "model": "glm-5.3"
+}

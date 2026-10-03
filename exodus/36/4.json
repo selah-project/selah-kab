@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "D-yewwin akk yimusnawen i yexedmen ⟨את⟩ akk leqdic n teqedcit, argaz argaz si leqdic-is i llan xedmen nutni.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "d-yewwin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "yimusnawen"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "i yexedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk leqdic"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "leqdic"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n teqedcit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "si leqdic-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "xedmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:59:45.576181622Z",
+  "model": "glm-5.3"
+}

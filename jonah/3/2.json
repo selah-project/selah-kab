@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Sir, ẓer abrid ɣer Ninwe, ⟨i⟩ tamdint tameqqrant, ad tessawleḍ i nettat ⟨את⟩ tacciwin-agi i nekki ḥkuɣ ɣur-k.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Sir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ẓer abrid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨i⟩ tamdint"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ad tessawleḍ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "i nettat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tacciwin-agi"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "tacciwin-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ḥkuɣ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:47.785644326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad d-rben ɣef-k lǧemɛ, ad k-ẓenẓen ⟨את⟩ s yiẓuran, ad k-ẓerḍen s yisefsen-nsen.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "ad d-rben"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef-k"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lǧemɛ"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ad k-ẓenẓen"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "kekki s yiẓuran"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "s yiẓuran"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "ad k-ẓerḍen"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "s yisefsen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:49:24.291585673Z",
+  "model": "glm-5.3"
+}

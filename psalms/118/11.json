@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Ḥedṛen-d ⟨iyi⟩, xetṛa ḥedṛen-d ⟨iyi⟩ si yal tama; s yisem n Yahwe, ihi ad ten-ḥeddeɣ.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ḥedṛen-d iyi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "xetṛa"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ḥedṛen-d iyi si yal tama"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ad ten-ḥeddeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:10.188304201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ɛawn-iyi Yahwe, axaṭer keççent-iyi tiggint; ṭṣef teẓri-iw s lweǧdeɛ, neffs-iw d keyyett-iw.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ɛawn-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "צר",
+      "gloss": "keççent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iyi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ṭṣef"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "s lweǧdeɛ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "teẓri-iw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neffs-iw"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "d keyyett-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:50.787236761Z",
+  "model": "glm-5.3"
+}

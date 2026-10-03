@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad t-smekteḍ, ad t-smekteḍ, nefsi tzugg ɣef yiɣef-is.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ad t-smekteḍ"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ad t-smekteḍ"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "tzugg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef yiɣef-is"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:51:49.075387887Z",
+  "model": "glm-5.3"
+}

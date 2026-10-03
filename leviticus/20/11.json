@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "D argaz i yezwamen ⟨את⟩ tawtemt n baba-s, tuttra n baba-s yefsa; lmot ad mmuten i sin; idammen-nsen fell-asen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "D argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yezwam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawtemt"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tawtemt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tuttra"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yefsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmot"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ad mmuten"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "idammen-nsen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fell-asen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:04.030600262Z",
+  "model": "glm-5.3"
+}

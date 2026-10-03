@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Leǧnud ṛuḥen ɣer teɣzut i d-egran; deg wasen i teffen, tettwaṭṭef aḍar-nsen.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "ṛuḥen ɣer"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnud"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ɣer teɣzut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i d-egran"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "deg wasen"
+    },
+    {
+      "surface": "זו",
+      "gloss": "i"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "teffen"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "tettwaṭṭef"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "aḍar-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:32.561680065Z",
+  "model": "glm-5.3"
+}

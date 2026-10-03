@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Anwa i meṛṛa amusnaw? Anwa issnen ⟨tafsut⟩ n wawal? Tamusni n wemdan tesseftaẓ ⟨udem⟩-is, tezmert n ⟨udem⟩-is ad tettwabeddel.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "i meṛṛa amusnaw"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "issnen"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "⟨tafsut⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "n wawal"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tamusni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "tesseftaẓ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ad tettwabeddel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:53.350676151Z",
+  "model": "glm-5.3"
+}

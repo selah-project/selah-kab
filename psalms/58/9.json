@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Amzun d tislit n yilef, mi ara tettfuyu, ad teddu; amzun d mmut n tmeṭṭut, ur ẓrin ara ⟨i⟩ tfukt.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "amzun d"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "tislit n yilef"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "tettfuyu"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ad teddu"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "mmut n umhiyu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "n tmeṭṭut"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ẓrin"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "tfukt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:54.474696116Z",
+  "model": "glm-5.3"
+}

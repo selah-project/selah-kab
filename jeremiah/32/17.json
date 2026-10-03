@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 32:17",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Aha, Adonai Yahwe, ha-tt: kecc i d-xedmen ⟨את⟩ igenwan d ⟨את⟩ tmurt, s tezmert-ik imeqqran d s iḍar-ik nṭuyen; ulac awal d awezɣi ɣur-ke.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ha-tt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i d-xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igenwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "s tezmert-ik"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "imeqqran"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "d s iḍar-ik"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "nṭuyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "d awezɣi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ɣur-ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    }
+  ],
+  "timestamp": "2026-10-03T00:31:01.470102608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Deg wass n wayyur amenzu, deg yiwen n wayyur, ad tekkreḍ ⟨את⟩ Mickan n texxamt n umlil.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass n"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "wayyur"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "amenzu"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "deg yiwen"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n wayyur"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ad tekkreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n texxamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlil"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:26.398056488Z",
+  "model": "glm-5.3"
+}

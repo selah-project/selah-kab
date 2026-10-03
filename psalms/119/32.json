@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Deg ubrid n leḥkum-ik ad zzireɣ, axaṭer tzeggweḍ ul-iw.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "leḥkum-ik"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ad zzireɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "tzeggweḍ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:56.089770489Z",
+  "model": "glm-5.3"
+}

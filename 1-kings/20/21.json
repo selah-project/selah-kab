@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yeffeɣ ugellid n Yisrael, iḍreb ⟨את⟩ ijiyen d ⟨את⟩ tiɛrreba, iḍreb deg Aram ⟨את⟩ ḍeccma tameqqrant.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iḍreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijiyen"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ijiyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiɛrreba"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "tiɛrreba"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "iḍreb"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "deg Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ḍeccma"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tameqqrant"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:25.001390005Z",
+  "model": "glm-5.3"
+}

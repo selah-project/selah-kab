@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad yazen ɣur-wen ⟨את⟩ iɣersiwen n uzaɣar, ad k-iggunin tarwa, ad iqecceɛ ⟨את⟩ lmal-nwen, ad k-inqes, ad ṣuḥen iberdan-nwen.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "ad yazen"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ɣur-wen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣersiwen n uzaɣar"
+    },
+    {
+      "surface": "חית",
+      "gloss": "iɣersiwen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n uzaɣar"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ad k-iggunin tarwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את k⟩"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "ad iqecceɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmal-nwen"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "lmal-nwen"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "ad k-inqes"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את k⟩"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "ad ṣuḥen"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "iberdan-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:54.691381414Z",
+  "model": "glm-5.3"
+}

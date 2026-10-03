@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yessuli ⟨את⟩ udmu-s ɣef-s, iṭṭef akka alama yenfel, d wumi n Yahwe yebɣa ad yini: argaz n Elohim yebki.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Yessuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmu-s"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udmu-s"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "iṭṭef akka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alama"
+    },
+    {
+      "surface": "בש",
+      "gloss": "yenfel"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "yebki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:49.418202799Z",
+  "model": "glm-5.3"
+}

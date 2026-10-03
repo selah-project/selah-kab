@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Aḥen ad yessujjen ⟨את⟩ asmekti-ines, seg igerres-ines akked zzit-ines, ɣef lebwan-ines akk; d qorban iḥeqqan i Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ad yessujjen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmekti-ines"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "asmekti-ines"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "seg igerres-ines"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "akked zzit-ines"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "lebwan-ines"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "qorban iḥeqqan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:49.012231947Z",
+  "model": "glm-5.3"
+}

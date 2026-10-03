@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Kečč, ali ⟨את⟩ tḥeṛcim-ik, semziweḍ ⟨את⟩ fusa-k γef yilel, rẓeg-t; ad kecmen warraw n Yisrael deg wlemmay n yilel, deg wakal aɣmayan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tḥeṛcim-ik"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tḥeṛcim-ik"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "semziweḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fusa-k"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "fusa-k"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "rẓeg-t"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ad kecmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg wlemmay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yilel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "deg wakal aɣmayan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:02.000679796Z",
+  "model": "glm-5.3"
+}

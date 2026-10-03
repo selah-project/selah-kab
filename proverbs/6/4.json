@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ur ttakked tirgwa i tiṭ-ik, ur ttakked tagant i tecricin-ik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ttakked"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tirgwa"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "i tiṭ-ik"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ur ttakked tagant"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "i tecricin-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:30.921417658Z",
+  "model": "glm-5.3"
+}

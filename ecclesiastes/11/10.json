@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ekkes ddehf seg ul-ik, ekkes ⟨tira⟩ seg waksum-ik, axaṭer tilemdit d timẓi, d hebel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "ekkes"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ddehf"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "seg ul-ik"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ekkes"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tira"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "seg waksum-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "tilemdit"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "d timẓi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:59:31.835776641Z",
+  "model": "glm-5.3"
+}

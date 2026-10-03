@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Axaṭer imdek-d ⟨את⟩ awal iqedcen-nnes, ⟨את⟩ Avraham ameḍbul-nnes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "imdek-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal iqedcen-nnes"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqedcen-nnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham ameḍbul-nnes"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ameḍbul-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:58.438108238Z",
+  "model": "glm-5.3"
+}

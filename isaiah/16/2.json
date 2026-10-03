@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad yili am yanidir yettnaṛen, am uqejmur yettwaneflen, akken ay llant tullas n Muab deg tizegrin n Uarnun.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "am yanidir"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "yettnaṛen"
+    },
+    {
+      "surface": "קן",
+      "gloss": "aqejmur"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "yettwaneflen"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "llant"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tullas"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "n Muab"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "tizegrin"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "n Uarnun"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:36.040741959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Acku tura ad inin: ur nesɏi ara agellid, acku ur neḥḍu ara ⟨את⟩ Yahwe; d agellid, acu ad aɣ-d-yexdem?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ad inin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur nesɏi ara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "neḥḍu ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad aɣ-d-yexdem"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "neɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:26.957384131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Axateḍ iḥemmel yi, ad t-id-ḥellesģ; ad s-ɛelliyģ, axateḍ yessan isem-iw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axateḍ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ad t-id-ḥellesģ"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ad s-ɛelliyģ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axateḍ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yessan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "isem-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:16.192483613Z",
+  "model": "glm-5.3"
+}

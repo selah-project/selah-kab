@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Kuwc iwlad ⟨את⟩ Nimrod; netta i beddu ad yili d ameqran deg tmurt.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kuwc"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "החל",
+      "gloss": "i beddu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "d ameqran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T03:23:59.617988486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Cuf, a Yahwe, ḥnen-iyi; Yahwe, ili-d amiwen-iw.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Cuf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ḥnen-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ili-d"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "amiwen-iw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:46.002834783Z",
+  "model": "glm-5.3"
+}

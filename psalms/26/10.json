@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Wid deg ifassen-nsen tella ṛṛuḥt, afus-nsen ayfuṛ d errašwa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wid i"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "deg ifassen-nsen"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "tella ṛṛuḥt"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "afus-nsen ayfuṛ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "yeṭṭafar-it"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "errašwa"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:00.541396777Z",
+  "model": "glm-5.3"
+}

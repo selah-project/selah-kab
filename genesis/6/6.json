@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yedmeṛ Yahwe belli ixleq ⟨את⟩ umdan di tmurt, ul-is yeḥmum.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "yedmeṛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umdan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umdan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "yeḥmum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:09.983327237Z",
+  "model": "glm-5.3"
+}

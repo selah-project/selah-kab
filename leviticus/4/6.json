@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad yessukked acoen taḍuct-is deg idammen, ad isexxer seg idammen tikkal n sebaɛ dat Yahwe, ɣef udmawen ⟨את⟩ n Paroqet n iqedcen.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ad yessukked"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "acoen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḍuct-is"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "taḍuct-is"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "deg idammen"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ad isexxer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sebaɛ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tikkal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmawen n Paroqet"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "n Paroqet"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:11.535689019Z",
+  "model": "glm-5.3"
+}

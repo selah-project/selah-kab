@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 123,
+  "translation": "Acennu n tulin. Ɣur-k ssuliɣ ⟨את⟩ tiḍud-inw, a win izdeɣ deg igenwan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "acennu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tulin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ssuliɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiḍud-inw"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiḍud-inw"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "a win izdeɣ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:51.344745321Z",
+  "model": "glm-5.3"
+}

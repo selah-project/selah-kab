@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Aḥseb akk iɣsan-iw; nutni ṛẓen-d, ad walin fell-i.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "aḥseb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "iɣsan-iw"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ṛẓen-d"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:59.286375957Z",
+  "model": "glm-5.3"
+}

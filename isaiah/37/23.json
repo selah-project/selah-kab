@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 37:23",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "⟨את⟩ anwa i t-xemḍeb, ⟨את⟩ anwa i t-ẓeḍmeḍ, ɣef anwa i teɛlayeḍ ⟨את⟩ taɣdi-ik, u tfelli tiṭṭiyen-ik d asawen — ɣef Weqdec n Yisrael!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "t-xemḍeb"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "u t-ẓeḍmeḍ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "הרימותה",
+      "gloss": "teɛlayeḍ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣdi"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "u tfelli"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tiṭṭiyen-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Weqdec"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T04:22:50.887503706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ad ḥemmen si deccen n waxxam-ik; deg wasif n lneɛma-ik ad asen-tessivteḍ.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "ad ḥemmen"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "si deccen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "n waxxam-ik"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "deg wasif"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "n lneɛma-ik"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "ad asen-tessivteḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:19.413300084Z",
+  "model": "glm-5.3"
+}

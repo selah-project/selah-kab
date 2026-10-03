@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ad yili Yahwe d anaẓi, ad iḥkem gar-iw d kečč, ad iwali, ad innaɣ ⟨את⟩ lḥeqq-iw, ad yessellek-i seg ufus-ik.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "d anaẓi"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gar-iw"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "d kečč"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ad innaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeqq-iw"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "lḥeqq-iw"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ad yessellek-i"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "seg ufus-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:14.334496430Z",
+  "model": "glm-5.3"
+}

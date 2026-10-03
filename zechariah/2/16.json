@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe ad yeṭṭef ⟨את⟩ Yehuda d aḥric-is ɣef wakal iqesten, ad yifer tikkelt-nniḍen Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ad yeṭṭef d aḥric"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "d aḥric-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iqesten"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ad yifer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:33:13.962068307Z",
+  "model": "glm-5.3"
+}

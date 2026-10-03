@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Acu n ttnernit i yesɛa win yettxedimen, deg wayen yettɛeḍḍen?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ttnernit"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "win yettxedimen"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "deg wayen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "yettɛeḍḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:56.543301485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Tura, i tin, ad akwen-ined ⟨את⟩ acu ara xedreɣ nekk i tekrurt-iw: ad kkseɣ taska-s, ad tuɣal d lemḥadra; ad rẓeɣ uɣrum-is, ad yuɣal d aseṭṭeb.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ad akwen-ined"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i tin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acu ara xedreɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "acu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "xedreɣ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "i tekrurt-iw"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ad kkseɣ"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "taska-s"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad tuɣal"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "d lemḥadra"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ad rẓeɣ"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "uɣrum-is"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "d aseṭṭeb"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:13.728216624Z",
+  "model": "glm-5.3"
+}

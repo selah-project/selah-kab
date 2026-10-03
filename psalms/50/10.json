@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Axaṭer in-i yakk iɣersiwen n teɣremt, d iɣersiwen deg idurar n igim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "in-i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yakk"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "iɣersiwen"
+    },
+    {
+      "surface": "יער",
+      "gloss": "n teɣremt"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "d iɣersiwen"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "deg idurar"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n igim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:56.757459812Z",
+  "model": "glm-5.3"
+}

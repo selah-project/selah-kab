@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad temmel-d i mmi-k deg wass-nni, ad tiniḍ: acku Yahwe ixdem-iyi-d ayagi, mi ffuɣ-eɣ seg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "ad temmel-d"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "i mmi-k"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-nni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad tiniḍ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "acku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem-iyi-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iyi"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "mi ffuɣ-eɣ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:26.828037110Z",
+  "model": "glm-5.3"
+}

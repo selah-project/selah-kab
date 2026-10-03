@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Ssan-d ⟨את⟩ tiqamicin n tazeft, axeddim n umzag, i Aharon d warrac-is.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ssan-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiqamicin"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "tiqamicin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "n tazeft"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "n umzag"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "d warrac-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:56.641781004Z",
+  "model": "glm-5.3"
+}

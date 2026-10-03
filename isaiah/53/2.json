@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Yuli-d zdat-s am wajeddig meẓẓiyen, am uẓar id-yeffɣen seg wakal iqejjen; ulac talɣi i nesɛa neṭṭef ṣṣbeḥ; mi nettwali-t, ulac tugna-nnes i yeḥwan; ma neḥbes tamuɣli fell-as, ur t-neḥemmel ara.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "am wajeddig meẓẓiyen"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "zdat-s"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "am uẓar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg wakal"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "iqejjen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "talɣi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i nesɛa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neṭṭef"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ṣṣbeḥ"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "mi nettwali-t"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tugna-nnes"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "ur t-neḥemmel ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:36.296895492Z",
+  "model": "glm-5.3"
+}

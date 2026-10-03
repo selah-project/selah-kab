@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "D baba n yilfan d unessuqel n tewtulin, Elohim, deg teɣremt-is taqedcit.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "n yilfan"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "d unessuqel"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "n tewtulin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "deg teɣremt-is"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "taqedcit"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:49.709387138Z",
+  "model": "glm-5.3"
+}

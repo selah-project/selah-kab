@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Yiwen i d-yenna Elohim, snat i yi-slenɣ ⟨agi⟩: acku tezmert n ufus i n-eɣ i Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "snat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "agi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "yi-slenɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tezmert n ufus"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:43.745294328Z",
+  "model": "glm-5.3"
+}

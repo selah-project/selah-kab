@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Qeddcet ⟨את⟩ Yahwe s tugdi; ad tzeggim s lerǧef.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Qeddcet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "s tugdi"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ad tzeggim"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "s lerǧef"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:32.779098467Z",
+  "model": "glm-5.3"
+}

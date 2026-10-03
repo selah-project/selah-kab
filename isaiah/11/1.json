@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad yeffeɣ yiwen n yiḥerrez seg weẓɣa n Yiši, ad yili d taḥcict yeqqimen seg iẓuran-is ara d-yefru.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "yiḥerrez"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "seg weẓɣa"
+    },
+    {
+      "surface": "יִשָׁי",
+      "gloss": "Yiši"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "taḥcict"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "seg iẓuran-is"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "ad yefru"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:27.992130592Z",
+  "model": "glm-5.3"
+}

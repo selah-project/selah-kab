@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Cfektir ⟨את⟩ ayen ixdem Yahwe Elohim-ik i Miryam, deg ubrid, deg usuffeɣ-nwen seg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Cfektir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ixdem Yahwe i Miryam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "i Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "deg usuffeɣ-nwen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:16.066994778Z",
+  "model": "glm-5.3"
+}

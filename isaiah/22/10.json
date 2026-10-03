@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Tḥasebt ⟨את⟩ yixxamen n Yerucalayim, teḥerfkem-d yixxamen iwakken ad tesnekrem tadadert.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yixxamen n Yerucalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "yixxamen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "Tḥasebt"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "teḥerfkem-d"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "yixxamen"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ad tesnekrem"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tadadert"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:37.982656809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "D ⟨את⟩ tacenṭut n tazeft, d ⟨את⟩ icewqen n tequbbat n tazeft, d ⟨את⟩ icaway n tazeft, nnig-sen tazeft yettwazlen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tacenṭut"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tacenṭut"
+    },
+    {
+      "surface": "שש",
+      "gloss": "n tazeft"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "icewqen"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "icewqen"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "n tequbbat"
+    },
+    {
+      "surface": "שש",
+      "gloss": "n tazeft"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "icaway"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "icaway"
+    },
+    {
+      "surface": "הבד",
+      "gloss": ""
+    },
+    {
+      "surface": "שש",
+      "gloss": "n tazeft"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "yettwazlen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:56.641957787Z",
+  "model": "glm-5.3"
+}

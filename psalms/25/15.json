@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Allen-i yezga ɣef Yahwe, acku d netta i d-yesseffɣen idarren-i seg tala.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "allen-i"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yezga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "i d-yesseffɣen"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "seg tala"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "idarren-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:43.437761755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Efk-aɣ-d tallelt seg uḍebsi; d ilmed ⟨d⟩ tallelt n wemdan.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "efk-aɣ-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "tallelt"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "seg uḍebsi"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "d ilmed"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "tallelt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:50.649448842Z",
+  "model": "glm-5.3"
+}

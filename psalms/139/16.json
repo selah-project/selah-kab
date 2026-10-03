@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Ttin ur nwul ara, tewwid-tent allen-ik; deg udlis-ik akk ⟨ur nelli ara⟩ ttwarant, wussan ara ttwafernen — yiwet deg-sen ur nelli ara yakan.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ttin ur nwul ara"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tewwid"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "allen-ik"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "udlis-ik"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ttwarant"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ara ttwafernen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:52.268847466Z",
+  "model": "glm-5.3"
+}

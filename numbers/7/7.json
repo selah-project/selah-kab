@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "⟨את⟩ snat n tɛeggalin akked ⟨את⟩ kuẓ n yifadden yefka i warraw n Gercon, akken tella tixedma-nsen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "snat n tɛeggalin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "n tɛeggalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "kuẓ n yifadden"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "kuẓ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "n yifadden"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw n"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gercon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "akken tella"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "tixedma-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:24:06.527031199Z",
+  "model": "glm-5.3"
+}

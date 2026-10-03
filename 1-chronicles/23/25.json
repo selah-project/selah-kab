@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Axaten, David yenna: Yahwe, Elohim n Yisrael, issufeɣ iman-nnes i lḥif s lmut nnes i uwīiu nnes, yerza deg Yeruċalayim ɣer lalmeɛd, lmut taǧǧet-t deg-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaten"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "issufeɣ iman-nnes i lḥif"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "i lmut nnes"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "yerza deg"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yeruċalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "lalmeɛd"
+    }
+  ],
+  "timestamp": "2026-10-03T03:34:48.683343052Z",
+  "model": "glm-5.3"
+}

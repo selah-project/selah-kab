@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Kan ɣer Elohim tezga ⟨t⟩talwit n yiMAN-iw; segs-iḍ yekka wanelk-iw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "yiMAN-iw"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "segs-iḍ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "anelk-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:45.133097758Z",
+  "model": "glm-5.3"
+}

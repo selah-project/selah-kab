@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "D lxiḓma ⟨tella⟩ d tamemt i lxiḓma akk ad tt-yeg ⟨את⟩, d wugar.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "d lxiḓma"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "דים",
+      "gloss": "d tamemt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i lxiḓma akk"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "lxiḓma"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad tt-yeg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lxiḓma"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "d wugar"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:08.573140222Z",
+  "model": "glm-5.3"
+}

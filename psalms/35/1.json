@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ssγen David. Nnaḥ Yahwe ɣef wid i yettnaḥen yid-i; ḥemmel ⟨את⟩ wid i kreh-n ccifa ⟨את⟩ wid i ḥemmlen ccifa γef-i.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ssγen David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Nnaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid i yettnaḥen yid-i"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "wid i yettnaḥen yid-i"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ḥemmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid i ḥemmlen ccifa γef-i"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "wid i ḥemmlen ccifa γef-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:55.726379433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "David yugad Yahwe deg wass-nni, yenna: melmi ara d-yas ɣur-i tegnut n Yahwe?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yugad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "איך",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ara d-yas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tegnut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:56:58.140643534Z",
+  "model": "glm-5.3"
+}

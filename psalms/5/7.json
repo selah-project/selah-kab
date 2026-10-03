@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad terreḍ ⟨wid⟩ yettmeslayen izra; amdan n idammen d tkerda, Yahwe yuck-it.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "ad terreḍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨wid⟩ yettmeslayen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "izra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "n idammen"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "d tkerda"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "yuck-it"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:04.404786169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Mi d-yuli uṭij, ad rwelen, ɣer yigaren-nsen ad rben.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "uṭij"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ad rwelen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "igaren-nsen"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "ad rben"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:34.356424499Z",
+  "model": "glm-5.3"
+}

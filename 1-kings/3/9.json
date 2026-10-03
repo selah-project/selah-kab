@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ihi, efk i wemdan-ik ul isellen, iwakken ad yeḥkem ⟨את⟩ weɣdud-ik, ad ifhem gar lxir d wadir; axaṭer anwa i izemren ad yeḥkem ⟨את⟩ weɣdud-ik, am wa meqqṛen-agi?",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "efk"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i wemdan-ik"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "isellen"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ad yeḥkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weɣdud-ik"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "weɣdud-ik"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ad ifhem"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "d wadir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "i izemren"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ad yeḥkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weɣdud-ik"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "weɣdud-ik"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "meqqṛen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:56.961155316Z",
+  "model": "glm-5.3"
+}

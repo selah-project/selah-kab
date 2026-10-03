@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ṭṭfen ⟨את⟩-ten d ieḍrum, ieḍrum ieḍrum, d tmurt teḥrec.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "ten (iweṛṛaḍen)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ieḍrum"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ieḍrum"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "teḥrec"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:56.247070478Z",
+  "model": "glm-5.3"
+}

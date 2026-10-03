@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "akk-d seg warrac n Binyamin: Sallu, mmi-s n Mecllam, mmi-s n Hodavja, mmi-s n Hasenua.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "akk-d seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Sallu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Mecllam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenua"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:28.391501327Z",
+  "model": "glm-5.3"
+}

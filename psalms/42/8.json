@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Taɣelmest tesseɛreḍ taɣelmest s yimesli n yisaffan-ik; akk iḍammen-ik d igurtan-ik ɛeddan ɣef-i.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Taɣelmest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "taɣelmest"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "tesseɛreḍ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "s yimesli"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "n yisaffan-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "iḍammen-ik"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "d igurtan-ik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɛeddan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:20.334553454Z",
+  "model": "glm-5.3"
+}

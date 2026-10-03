@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Di yal tama iḥerriyen ad dduzzin, mi ara tettwayelleli ⟨dirit⟩ gar warrac n yimdanen.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "di yal tama"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "iḥerriyen"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "ad dduzzin"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "mi ara tettwayelleli"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "⟨dirit⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "gar warrac n"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:02.168108103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Yahwe yettɛawen i yimceḥḥal, issegri ⟨lt⟩ izerfen ar tmurt.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "yettɛawen"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "i yimceḥḥal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "issegri"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "izerfen"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:49.938041759Z",
+  "model": "glm-5.3"
+}

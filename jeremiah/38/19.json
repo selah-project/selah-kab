@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 38:19",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yenna ugellid Ṣidqiahu i Yirmeya: nekk, xeddeɣ ⟨את⟩ Yihudiyen i d-yekren ar Yekaldiyen, ad ur iyi-mudden ara deg ufus-nsen, ad ur iyi-ḥekmen ara s ddull.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣidqiahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "xeddeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yihudiyen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yihudiyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "d-yekren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Yekaldiyen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "iṭṭfen ara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iyi",
+      "marks": "deg ufus-nsen"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "deg ufus-nsen"
+    },
+    {
+      "surface": "והתעללו",
+      "gloss": "ad iyi-ḥekmen ara s ddull"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-03T00:33:51.149821870Z",
+  "model": "glm-5.3"
+}

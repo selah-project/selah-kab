@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Sin i ssutureɣ si ⟨את⟩-ik; ur ttwaliḍ ara ayyur-iw qbel ad mmteɣ.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Sin"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "i ssutureɣ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "si ⟨את⟩-ik",
+      "marks": "kekkin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ttwaliḍ ara"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ayyur-iw"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ad mmteɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:29:20.951615673Z",
+  "model": "glm-5.3"
+}

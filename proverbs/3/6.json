@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Deg yiberdan-ik ⟨akk⟩, sn-at Yahwe; neppa ad iselhu ⟨tiberdin-ik⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "iberdan-ik"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "sn-at"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "neppa"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "ad iselhu"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "tiberdin-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:54.256027420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yexleq ⟨את⟩ mraw n yiseftisen n nnij: kuz ɛal ama teɣzi n yiwen n usesfti, kuz ɛal ama tehri-ines, tlata ɛal ama d asawen-is.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mraw n yiseftisen"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "n yiseftisen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n nnij"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kuz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ɛal ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "n yiwen n usesfti"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "kuz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ɛal ama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "tehri-ines"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ɛal ama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "d asawen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:14:58.428226494Z",
+  "model": "glm-5.3"
+}

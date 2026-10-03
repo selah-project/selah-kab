@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Ula d ɣer teqsiḥt d ccibet, a Elohim, ur tt-ṣṛuḥ ara yiḍerr, arma ad d-mmeslayeɣ leɛlaw-ik i weddar-agi, tezmert-ik i yal ara d-yasen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "teqsiḥt"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "d ccibet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "yiḍerr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ad d-mmeslayeɣ"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "leɛlaw-ik"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "i weddar-agi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ara d-yasen"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "tezmert-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:34.739288209Z",
+  "model": "glm-5.3"
+}

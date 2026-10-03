@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Agellid yekkes ⟨את⟩ tbext-is (tabzimt n uzuzzur) seg ufus-is, iwet-tt i Haman, mmi-s n Hamedata l-Agagi, aɛdaw n Yihuden.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Agellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tbext-is"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "tbext-is"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ufus-is"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "iwet-tt"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "i Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "n Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "l-Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "aɛdaw"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "n Yihuden"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:07.465822640Z",
+  "model": "glm-5.3"
+}

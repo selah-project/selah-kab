@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 96,
+  "translation": "Acku Yahwe d ameqqwer, yettwaεzeẓ aṭas; ⟨d⟩ win yettwagwaden ugar ɣef akk Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "d ameqqwer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "yettwaεzeẓ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "yettwagwaden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨d⟩ win"
+    },
+    {
+      "surface": "על",
+      "gloss": "ugar ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:53.597050999Z",
+  "model": "glm-5.3"
+}

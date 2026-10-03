@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 17:16",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ɣef ufus-is ula d Ɛamasya, mmi-s n Zekri, win i Yahwe id-yefkan iman-is s lebɣi; yid-s sin n temiḍin n yifed n yigebrayen n tezmert.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ufus-is"
+    },
+    {
+      "surface": "עמסיה",
+      "gloss": "Ɛamasya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "n Zekri"
+    },
+    {
+      "surface": "המתנדב",
+      "gloss": "win id-yefkan iman-is s lebɣi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "sin n temiḍin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yifed"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "igebrayen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "n tezmert"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:23.783866255Z",
+  "model": "glm-5.3"
+}

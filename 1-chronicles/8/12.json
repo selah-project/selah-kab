@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Arraw n Elpaɛel: ɛEber, Miɛam, d Cemed — d netta i ben-yulan ⟨את⟩ Ono d ⟨את⟩ Lud, akked tuddar-is.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "arraw n"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaɛel"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ɛEber"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Miɛam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Cemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ben-yulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Lud"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lud"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "akked tuddar-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:02.081825162Z",
+  "model": "glm-5.3"
+}

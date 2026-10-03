@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Akken i d-yefter-aɣ, akka iḍerr: ⟨את⟩ nekki i d-yerra ɣer wadeg-iw, ⟨את⟩ netta i ṭṭefṭfen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "iḍerr"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "i d-yefter"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iḍerr"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nekki"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "i d-yerra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כני",
+      "gloss": "wadeg-iw"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "netta"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "i ṭṭefṭfen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:05.406550235Z",
+  "model": "glm-5.3"
+}

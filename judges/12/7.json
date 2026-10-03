@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yiftaḥ yeeṭṭef ⟨את⟩ Yisrael ṣdis iseggasen; yemmut Yiftaḥ n Gilɛad, yettwamdel deg yiwen n yimdafen n Gilɛad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yeeṭṭef"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ṣdis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaḥ"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "n Gilɛad"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "yettwamdel"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "deg yiwen n yimdafen"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    }
+  ],
+  "timestamp": "2026-10-02T22:31:15.976648259Z",
+  "model": "glm-5.3"
+}

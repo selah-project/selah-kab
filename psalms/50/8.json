@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Mačči ɣef yizekkwan-ik i k-id-iḥekkuɣ; tiḥriwin-ik ddan zdat-i yakan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mačči"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "yizekkwan-ik"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "i k-id-iḥekkuɣ"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "tiḥriwin-ik"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "zdat-i"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yakan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:00.196896812Z",
+  "model": "glm-5.3"
+}

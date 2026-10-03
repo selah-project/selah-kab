@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yuzen-d seg ufella, yiwi-t-id, ijebbed-iyi-d seg waman numcen.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Yuzen-d"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "yiwi-t-id"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "ijebbed-iyi-d"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "seg waman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "numcen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:26.750470275Z",
+  "model": "glm-5.3"
+}

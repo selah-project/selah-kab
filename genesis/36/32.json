@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Belaɛ mmi-s n Beɛor yebda yeḥkem deg Edom, isem n temdint-is d Dinhaba.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yebda yeḥkem"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "deg Edom"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belaɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beɛor"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "n temdint-is"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinhaba"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:42.962421705Z",
+  "model": "glm-5.3"
+}

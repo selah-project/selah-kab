@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yesseḥkem Avimelex ⟨את⟩ meṛṛa ugdud, ad yenna: Win yettawḍen i umdan-agi neɣ i tislit-is, s lmut ad immut.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yesseḥkem"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa ugdud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "win yettawḍen"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "i umdan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "neɣ i tislit-is"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad immut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:20:52.406469137Z",
+  "model": "glm-5.3"
+}

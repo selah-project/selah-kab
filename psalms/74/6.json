@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "D tura, akk iḍummen-is n uɣrab rẓen-ten yakk s taɣenza d tiqcurin.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "d tura"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "akk iḍummen-is"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yakk"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "s taɣenza"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "d tiqcurin"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "rẓen-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:23.837733115Z",
+  "model": "glm-5.3"
+}

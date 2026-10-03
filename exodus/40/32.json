@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Mi ara d-kecmen ar uxṣam n umɛiwed, neɣ mi ara qerben ar meẓqed, ad ṣṣen, akken i d-yenna Yahwe ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "Mi ara d-kecmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uxṣam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umɛiwed"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "neɣ mi ara qerben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "meẓqed"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ad ṣṣen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:07.812875921Z",
+  "model": "glm-5.3"
+}

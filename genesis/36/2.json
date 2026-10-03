@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ɛicav yewwi ⟨את⟩ tilawin-is seg yelli-s n Kenaan: ⟨את⟩ Ɛadah, yelli-s n Eylon aḥiti, d ⟨את⟩ Oholibamah, yelli-s n Ɛanah, yelli-s n Ṣibon aḥivi.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Ɛicav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilawin-is"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "tilawin-is"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "seg yelli-s"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛadah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ɛadah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "n Eylon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "aḥiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Oholibamah"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "n Ɛanah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "n Ṣibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "aḥivi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:13.432912037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ruḥent iẓegraḍen seg-ik, seg yixxamen-ik, seg yixeddamen-ik d seg ugdud-ik; kan deg wasif ad qqiment.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "ad rwuḥent"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "iẓegraḍen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg-ik"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "seg yixxamen-ik"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "seg yixeddamen-ik"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "seg ugdud-ik"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "deg wasif"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "ad qqiment"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:58.124503474Z",
+  "model": "glm-5.3"
+}

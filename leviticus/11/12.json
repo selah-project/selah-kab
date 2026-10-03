@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Kra ur nesɛi ara iceṭṭiḍen d tqeccin deg yiman — iḥram ⟨d⟩-nni i kunwi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur nesɛi ara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-s"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "iceṭṭiḍen"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "d tqeccin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg yiman"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iḥram"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d-nni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:42.253633062Z",
+  "model": "glm-5.3"
+}

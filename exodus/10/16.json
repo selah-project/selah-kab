@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ihi Firɛun izdeɣ ad isiwel i Moce d Aharon; yenna: Dnebɣ ɣer Yahwe, Elohim-nwen, d kunwi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "izdeɣ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firɛun"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ad isiwel"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "i Moce"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Dnebɣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "d kunwi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:44.023432068Z",
+  "model": "glm-5.3"
+}

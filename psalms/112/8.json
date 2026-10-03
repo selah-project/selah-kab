@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Ul-is yettkelf, ur ad izzel, arma ad iwali iɛdawen-is.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "yettkelf"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ad"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "izzel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "iwali"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "iɛdawen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:21.434679623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Ad yili imi-w aččur s ccukr-ik, akk ass s tigejdit-ik.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ad yili d aččur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi-w"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ccukr-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "tigejdit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:08.104089491Z",
+  "model": "glm-5.3"
+}

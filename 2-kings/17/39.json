@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Maca ⟨את⟩ Yahwe, Elohim-nwen, ⟨⟨i⟩⟩ ttagadet; d netta ara ⟨את⟩ kwen-isellek seg ufus n yimeḍḍen-ikwen akk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ttagadet"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ara kwen-isellek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwen",
+      "marks": "kwen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "yimeḍḍen-ikwen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:11.953753495Z",
+  "model": "glm-5.3"
+}

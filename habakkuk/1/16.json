@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Γef waya iqeddec i ⟨usekka⟩-nnes, iṣubb ⟨yiẓẓi⟩ i ⟨teḥzert⟩-nnes, axaṭer s yisen aḥric-nnes yuɣal d ddehmen, učči-nnes d uberran.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Γef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "iqeddec"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "i usekka-nnes"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "iṣubb yiẓẓi"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "i teḥzert-nnes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "s yisen"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ddehmen"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "aḥric-nnes"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "učči-nnes"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "aberran"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:56.546281786Z",
+  "model": "glm-5.3"
+}

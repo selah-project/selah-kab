@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Deffir n wawalen-agi, mi d-teḥmel tmeẓɣi n ugellid Aḥacweroṭ, yecfu-d ⟨את⟩ Vacṭi, d ⟨את⟩ ayen txeddem, d ⟨את⟩ ayen yettwaḥkem fell-as.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Deffir n"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "mi d-teḥmel"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tmeẓɣi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Aḥacweroṭ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yecfu-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vacṭi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vacṭi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ayen txeddem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "txeddem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ayen yettwaḥkem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "yettwaḥkem"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-03T04:41:33.576927682Z",
+  "model": "glm-5.3"
+}

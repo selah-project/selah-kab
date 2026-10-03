@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Acu ara d-rɣeɣ i Yahwe, ɣef tayawin-is akk ɣur-i?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ara d-rɣeɣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "tayawin-is"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:51.100804682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Wid ikelsen Yahwe ad nigzen ɣur-es, lweqten-nnsen ad yeqqim i lebda.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "wid ikelsen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ad nigzen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɣur-es"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "lweqten-nnsen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:40.496010275Z",
+  "model": "glm-5.3"
+}

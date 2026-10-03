@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 93,
+  "translation": "Yuliy-d yisaffen, a Yahwe; yuliy-d yisaffen iṣṣutawen-nsen; ad yuliy yisaffen tiḥercin-nsen.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "yuliy-d"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "yisaffen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "yuliy-d"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "yisaffen"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "iṣṣutawen-nsen"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ad yuliy"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "yisaffen"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "tiḥercin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:34.017410360Z",
+  "model": "glm-5.3"
+}

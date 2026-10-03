@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Axaṭef tuqqna tezder ⟨את⟩ tlisa n Muab; arma d Eɣlayim tuqqna-nnes, dɣa ɣer Beɛer Elim tuqqna-nnes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭef"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "tezder"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "tuqqna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlisa n Muab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tlisa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eɣlayim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "tuqqna-nnes"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "Beɛer"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "tuqqna-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:34.223874728Z",
+  "model": "glm-5.3"
+}

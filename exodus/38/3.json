@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yexdem ⟨את⟩ akk ifeka n umizbeaḥ: ⟨את⟩ tikurzin, ⟨את⟩ ise​bkuten, ⟨את⟩ imijen, ⟨את⟩ tiqenṣrin, ⟨את⟩ timsedfin; akk ifeka-s yexdem s ⟨את⟩ nnehs.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ifeka n umizbeaḥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ifeka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "n umizbeaḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikurzin"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "tikurzin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ise​bkuten"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "ise​bkuten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imijen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "imijen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiqenṣrin"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "tiqenṣrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "timsedfin"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "timsedfin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ifeka-s"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nnehs"
+    }
+  ],
+  "timestamp": "2026-10-02T20:59:30.023770012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "win i k-iceffeɛen manna deg uneẓruf, ayen ur ẓrin ara yidirawen-inek; iwakken ad k-iseḥḥer, u iwakken ad k-ijerbeḥ, ad ak-yerr ṛṛeẓq deg taggara-inek;",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "win i k-iceffeɛen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uneẓruf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ẓrin ara"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "yidirawen-inek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "ad k-iseḥḥer"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "u iwakken"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "ad k-ijerbeḥ"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "ad ak-yerr ṛṛeẓq"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "deg taggara-inek"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:52.276121497Z",
+  "model": "glm-5.3"
+}

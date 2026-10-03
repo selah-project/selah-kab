@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 141,
+  "translation": "Acku ɣur-k, Yahwe Adonai, tezga tiṭṭ-iw; deg-k i ḥbesɣ ad iddu uqerru-iw; ur txelleṣ ara s nnefs-iw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiṭṭ-iw"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "i ḥbesɣ ad iddu uqerru-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תער",
+      "gloss": "txelleṣ ara s"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:21.671416427Z",
+  "model": "glm-5.3"
+}

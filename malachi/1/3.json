@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ma ⟨את⟩ ɛesav i kreheɣ, ssufɣeɣ-d ⟨את⟩ idurar-is d lonu, d ⟨את⟩ lɛerc-is sɣur sifan n yiẓeḍwan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɛesav",
+      "marks": "ɛesav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kreheɣ"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ssufɣeɣ-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idurar-is"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "idurar-is"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "lonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɛerc-is"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "lɛerc-is"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "sɣur sifan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yiẓeḍwan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:36:46.847479185Z",
+  "model": "glm-5.3"
+}

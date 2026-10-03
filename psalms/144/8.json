@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "Wid iẓran-nsen isawalen awal ilem, ayeffus-nsen d ⟨ayeffus⟩ n tukerta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wid"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "iẓran-nsen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "isawalen"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "awal ilem"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ayeffus-nsen"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ayeffus"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n tukerta"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:22.694718569Z",
+  "model": "glm-5.3"
+}

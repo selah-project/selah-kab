@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "I win izezzeg tamurt ɣef waman, axaṭer ḥesed-is ad yegri i lebda.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "i win izezzeg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:04.062742572Z",
+  "model": "glm-5.3"
+}

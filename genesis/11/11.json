@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Cem yidir, deffir umi iwlad ⟨את⟩ Arpaḵcad, semmus n temyat n yiseggasen, u yewlad arraw d yelli-t.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Cem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir umi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaḵcad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaḵcad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "semmus n"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "temyat"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yewlad"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "d yelli-t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:32.447623046Z",
+  "model": "glm-5.3"
+}

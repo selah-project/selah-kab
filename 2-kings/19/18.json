@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Rran ⟨את⟩ iṛebbiten-nsen deg times; acku mačči d iṛebbiten i llan, maca d ayen d-xedfen ifassen n wemdan, d aẓru d wemḍel, ihi ḥerben-ten.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "rran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg times"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d iṛebbiten"
+    },
+    {
+      "surface": "המה",
+      "gloss": "i llan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ayen d-xedfen"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ifassen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "aẓru"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "d wemḍel"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ihi ḥerben-ten"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:42.502130913Z",
+  "model": "glm-5.3"
+}

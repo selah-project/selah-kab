@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Koḥen akk agdud n tmurt, timdint tesgunfu; Atalyahu ⟨את⟩ nɣan-t s seif, deg uxam n ugellid.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "koḥen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "timdint"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "tesgunfu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "nɣan-t"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "s seif"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg uxam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "n ugellid"
+    }
+  ],
+  "timestamp": "2026-10-03T04:18:33.460988870Z",
+  "model": "glm-5.3"
+}

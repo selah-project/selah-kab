@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tulin-d yelli-s n Paroḥ iwakken ad teṣṣeqreb ɣef wasif, ma d tiḥeddad-ines zzint ɣer yiri n wasif. Tufa tamettant deg tggt taḥeccicin, tuzen tamettant-is, tewwi-tt.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "tulin-d"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroḥ"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "ad teṣṣeqreb"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "tiḥeddad-inis"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "zzint"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer yiri n"
+    },
+    {
+      "surface": "יד",
+      "gloss": "yiri"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "tufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taggt"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "taggt"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "taḥeccicin"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "tuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameddakwelt-is"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "tameddakwelt-is"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "tewwi-tt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:58.936173118Z",
+  "model": "glm-5.3"
+}

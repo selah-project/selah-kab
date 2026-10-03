@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Cfu, a Yahwe, acu i d-yellan fellaɣ; wali, ẓer ⟨את⟩ tiḥercit-nneɣ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cfu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i d-yellan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fellaɣ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "wali"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ẓer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiḥercit-nneɣ"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "tiḥercit-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:24.187001972Z",
+  "model": "glm-5.3"
+}

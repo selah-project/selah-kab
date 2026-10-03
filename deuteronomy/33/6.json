@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ad yidir Ruven, ur immet ara; ad ilin yimdanen-is ⟨s⟩ umḍan.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "immet"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "yimdanen-is"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "s umḍan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:09.690458554Z",
+  "model": "glm-5.3"
+}

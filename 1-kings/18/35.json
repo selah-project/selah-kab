@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Wman ṭṭfen ay ṭṭaf uqerru n lɛqiḍa, yerna ⟨את⟩ terḍeft yerna-t tigemmin.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ay ṭṭaf"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "uqerru n lɛqiḍa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terḍeft"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "terḍeft"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yerna-t tigemmin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d waman"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:43.931531964Z",
+  "model": "glm-5.3"
+}

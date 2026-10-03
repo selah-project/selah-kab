@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Ad asen-d-ḍelqen ɣeccalen; deg tmes ad ten-yerr, deg yiḥrigen, ur d-qelen ara",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "Ad asen-d-ḍelqen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ɣeccalen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "ad ten-yerr"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "deg yiḥrigen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "qelen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:16.352773231Z",
+  "model": "glm-5.3"
+}

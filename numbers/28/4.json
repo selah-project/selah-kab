@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "⟨את⟩ yiwen weṭerg tt-terrɛed deg tifawt, ⟨את⟩ maḍi wis-sin tt-terrɛed gar tin yimalalen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiwen weṭerg"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "weṭerg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tt-terrɛed"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tifawt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maḍi wis-sin"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis-sin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tt-terrɛed"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tin yimalalen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:41:25.255742526Z",
+  "model": "glm-5.3"
+}

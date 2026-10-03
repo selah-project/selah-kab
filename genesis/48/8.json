@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Yisrael yiwala ⟨את⟩ tarwa n Yosef, yenna-d: anwa wiyyiḍ?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yiwala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarwa n Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "n Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wiyyiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:59:54.842034715Z",
+  "model": "glm-5.3"
+}

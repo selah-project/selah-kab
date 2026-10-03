@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Zzi tmurt-ik am wasif, a yelli-t n Tarcic; ulac aqahal ugar.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "zzi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tmurt-ik"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "am wasif"
+    },
+    {
+      "surface": "בת",
+      "gloss": "a yelli-t"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "n Tarcic"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "aqahal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    }
+  ],
+  "timestamp": "2026-10-02T23:50:20.963628341Z",
+  "model": "glm-5.3"
+}

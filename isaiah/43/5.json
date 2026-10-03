@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ur ttaged, axaṭer nekk ⟨את⟩ yiddek lli; seg wasamar ad d-awiɣ zwɛren-ik, seg umalu ad k-lqeḍeɣ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ttaged"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yiddek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "seg wasamar"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ad d-awiɣ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zwɛren-ik"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "seg umalu"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ad k-lqeḍeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:31.855990998Z",
+  "model": "glm-5.3"
+}

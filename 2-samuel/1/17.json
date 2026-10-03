@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "David yegguju ɣef ⟨את⟩ tinuttuft-agi, ɣef Cawl d ɣef Yehonatan mmi-s.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "yegguju"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinuttuft-agi"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "tinuttuft"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    }
+  ],
+  "timestamp": "2026-10-02T22:53:57.468383049Z",
+  "model": "glm-5.3"
+}

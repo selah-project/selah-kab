@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 113,
+  "translation": "Seg uneẓru n tafukt ar unaṭ-ines, yettusinged isem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "seg uneẓru"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "n tafukt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "unaṭ-ines"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "yettusinged"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:31.268497644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Mi yufa Aḥab ⟨את⟩ Eliyahu, yenna-yas Aḥab: D kečči, kečči aqewwac n Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "d kečči"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "aqewwac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:44.931123855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Berek, a nefs-iw, ⟨את⟩ Yahwe, ur tettuṭṭuḍ ara akk tikciwin-is.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Berek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a nefs-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "tettuṭṭuḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "tikciwin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:04.573456182Z",
+  "model": "glm-5.3"
+}

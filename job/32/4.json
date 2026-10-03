@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Elihu iɛeḍḍa ad yeǧǧ ⟨את⟩ Iyub ad yemmeslay s wawalen, axaṭer wid-nni llan d imeqqranen ɣef-s deg wussan.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "iɛeḍḍa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "s wawalen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "imeqqranen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wid-nni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "deg wussan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:42:26.177566883Z",
+  "model": "glm-5.3"
+}

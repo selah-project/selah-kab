@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Iqedcen ad faḥlen s leɛz, ad d-ẓelqun ɣef iṣijjen-nsen.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ad faḥlen"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "Iqedcen"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "s leɛz"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ad d-ẓelqun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "iṣijjen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:20.411463612Z",
+  "model": "glm-5.3"
+}

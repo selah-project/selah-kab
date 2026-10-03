@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Cawul issexdem ⟨את⟩ meṛṛa ugdud i nnegla, ad d-yerres ɣer Qeɛila, ad iḥettem ɣef David d yirgazen-is.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "issexdem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa ugdud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "i nnegla"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ad d-yerres"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ɣer Qeɛila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ad iḥettem ɣef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "yirgazen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:47:52.192625790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad yili, mi akken ad k-walin yimiṣriyen, ad inin: d tameṭṭut-is i d-tili; ad ii-nɣen ⟨את⟩ nekk, ma ⟨את⟩ kečč ad k-ǧǧen d amuddir.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi akken"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ad k-walin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "yimiṣriyen"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ad inin"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tameṭṭut-is"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "i d-tili"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ad ii-nɣen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nekk"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "kečç"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ad k-ǧǧen d amuddir"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:39.173420011Z",
+  "model": "glm-5.3"
+}

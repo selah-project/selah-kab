@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Qqiḍeɣ ⟨את⟩ baba-wen ⟨את⟩ Avraham seg tama nniḍen n wasif; siḍeɣ-⟨את⟩ t meṛṛa tamurt n Kenaɛan; rnuɣ aṭas ⟨את⟩ zerɛ-is, efkiɣ-as ⟨את⟩ Yiṣḥaq.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "qqiḍeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-wen Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba-wen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "seg tama nniḍen n"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "siḍeɣ-t"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ t"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenaɛan"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "rnuɣ aṭas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zerɛ-is"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zerɛ-is"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "efkiɣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:37.223654220Z",
+  "model": "glm-5.3"
+}

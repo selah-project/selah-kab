@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Arpaḥshad yeselder-d ⟨את⟩ Shelach, Shelach yeselder-d ⟨את⟩ Ɛeber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpaḥshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yeselder-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yeselder-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛeber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ɛeber"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:53.603659832Z",
+  "model": "glm-5.3"
+}

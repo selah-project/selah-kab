@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Elohim yettban i Yaɛqov tikkelt-nniḍen, deg umekcam-is seg Paddan Aram, u yebruk-it ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yettban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "deg umekcam-is"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "seg Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yebruk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:05.528267412Z",
+  "model": "glm-5.3"
+}

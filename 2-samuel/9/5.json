@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yuzen-idd David, agellid, iṭṭef-it seg uxxam n Maxir, mmi-s n Ɛammiel, seg Lo-Debar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen-idd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "iṭṭef-it"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg uxxam"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Maxir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ɛammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "seg"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Debar"
+    }
+  ],
+  "timestamp": "2026-10-02T22:58:05.587712992Z",
+  "model": "glm-5.3"
+}

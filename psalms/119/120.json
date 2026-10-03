@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Yeqcammer lḥem-iw seg lxiḍ-ik, seg ccreɛ-ik ḥufiɣ.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "yeqcammer"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "seg lxiḍ-ik"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "lḥem-iw"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "seg ccreɛ-ik"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ḥufiɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.147919144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Ur yeǧǧi ara ad amyeggaruz ad ten-iḥeṣṣeb, yewtet fell-asen i yigelliden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur... ara"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "yeǧǧi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "amyeggaruz"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ad ten-iḥeṣṣeb"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "yewtet"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "i yigelliden"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:52.767552257Z",
+  "model": "glm-5.3"
+}

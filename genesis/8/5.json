@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "I waman nnan ḥeddan turthed-nni almi d aggur wis mraw; deg ugur wis mraw, deg wass wis yeffeɣ seg um aggur, banent ixfawen n idurar.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "I waman"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "turhed"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "ḥeddan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "seg um aggur"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "wis mraw"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "deg ugur wis mraw"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "deg wass wis yeffeɣ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "seg um aggur"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "banent"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ixfawen"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "n idurar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:22.247645441Z",
+  "model": "glm-5.3"
+}

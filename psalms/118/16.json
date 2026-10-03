@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Afus ayefus n Yahwe yuli-d afellay, afus ayefus n Yahwe ixeddem tazmert.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "afus ayefus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "yuli-d afellay"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "afus ayefus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixeddem"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tazmert"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:18.280439119Z",
+  "model": "glm-5.3"
+}

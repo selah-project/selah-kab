@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yenna Yahwe i usellem, yewgel-d ⟨את⟩ Yunus ɣef wakal igurgen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "i usellem"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "yewgel-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunus"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "wakal igurgen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:36.567578603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Iṣunnen-nsen — d lfeḍḍa d ureɣ, xedma n yifassen n yimdanen.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "iṣunnen-nsen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "d ureɣ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "xedma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n yifassen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:43.872308613Z",
+  "model": "glm-5.3"
+}

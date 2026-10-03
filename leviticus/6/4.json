@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad yekkes ⟨את⟩ iṣuṛfa-is, ad yelbes iṣuṛfa nniḍen, ad yessuffeɣ ⟨את⟩ lɛeker beṛṛa i lɛesker, ɣer umkan azeqqaẓ.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "ad yekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣuṛfa-is"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iṣuṛfa-is"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ad yelbes"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "iṣuṛfa"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ad yessuffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛeker"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "lɛeker"
+    },
+    {
+      "surface": "אל",
+      "gloss": "beṛṛa i"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lɛesker"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "umkan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "azeqqaẓ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:16.967333139Z",
+  "model": "glm-5.3"
+}

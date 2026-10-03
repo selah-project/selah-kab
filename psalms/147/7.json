@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Γenet i Yahwe s tuccḍa, γenet i Elohim-nneɣ s kinor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Γenet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "s tuccḍa"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "γenet"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "i Elohim-nneɣ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "s kinor"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:49.938179149Z",
+  "model": "glm-5.3"
+}

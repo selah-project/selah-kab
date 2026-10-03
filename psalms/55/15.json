@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Wid-nni, deg yiwet, nerwa ⟨sod⟩ — tamusni tuffirt — deg wexxam n Elohim neddu d wegraw.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wid-nni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "deg yiwet"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "nerwa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨sod⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "neddu"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "d wegraw"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:04.544830693Z",
+  "model": "glm-5.3"
+}

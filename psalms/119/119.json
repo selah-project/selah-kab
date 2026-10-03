@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Am usrag, tḥebsiḍ-t akk yirden n tmurt; ɣef waya ḥemmleɣ inigan-ik.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "am usrag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "tḥebsiḍ-t"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "yirden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ɣef waya"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ḥemmleɣ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "inigan-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.147760451Z",
+  "model": "glm-5.3"
+}

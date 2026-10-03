@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yessufeɣ-awen-id seg ufus n Miṣrayim, seg ufus n wid kwen-iḍerrun akk; ṭerḍeɣ-ten deg uzwu-nwen, u ḥellseɣ-awen ⟨את⟩ tmurt-nsen.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "yessufeɣ-awen-id"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-awen",
+      "marks": "awen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "wid kwen-iḍerrun"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ṭerḍeɣ-ten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "ten"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "deg uzwu-nwen"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "u ḥellseɣ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-awen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-nsen"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tmurt-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:24:42.852573682Z",
+  "model": "glm-5.3"
+}

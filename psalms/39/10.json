@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Sweɣleɣ, ur ldiɣ ara imi-iw, axaṭer kecc i t-tgeḍ.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Sweɣleɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ldiɣ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tgeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:38.908647168Z",
+  "model": "glm-5.3"
+}

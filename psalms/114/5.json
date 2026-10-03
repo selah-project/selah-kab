@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 114,
+  "translation": "Acu i k-iḍran, a yilel, ma tzellgeḍ? A Yerden, ma tuɣaleḍ d deffir?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i k-iḍran"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a yilel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "tzellgeḍ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Yerden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "tuɣaleḍ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "d deffir"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:14.563085717Z",
+  "model": "glm-5.3"
+}

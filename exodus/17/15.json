@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Moce yebna-n urtan, yecqa isem-is: Yahwe Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "urtan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yecqa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:19.816454471Z",
+  "model": "glm-5.3"
+}

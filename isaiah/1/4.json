@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ay agdud ubeeq! Agdud iwurem iḥemmeṛ asafu, zerɛ n yibuṣṛen, arrac iḥermen! Teṭṭfen Yahwe ⟨את⟩, ṣeḥṣeḥen ⟨את⟩ Loqeds n Yisrael, ruḥen deffir.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ubeeq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Agdud"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "iwurem iḥemmeṛ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "asafu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zerɛ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "n yibuṣṛen"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "iḥermen"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Teṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ṣeḥṣeḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loqeds n Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Loqeds"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ruḥen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "deffir"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:32.159446570Z",
+  "model": "glm-5.3"
+}

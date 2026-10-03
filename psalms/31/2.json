@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Deg kečč, Yahwe, ḥemmelɣ ttrek; ur rriɣ ara ad tnirez i lebda; s ṣedeq-ik, ssellek-iyi.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Deg kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ḥemmelɣ ttrek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ad tnirez"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "s ṣedeq-ik"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ssellek-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:44.316176584Z",
+  "model": "glm-5.3"
+}

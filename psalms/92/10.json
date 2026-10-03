@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Acku wala, a Yahwe, iɛdawen-ik; acku wala, iɛdawen-ik ad neggrent; ad ttferzgen akk wid ixedmen tuccḍa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wala"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iɛdawen-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wala"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iɛdawen-ik"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ad neggrent"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ad ttferzgen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wid ixedmen"
+    },
+    {
+      "surface": "און",
+      "gloss": "tuccḍa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:51.541740493Z",
+  "model": "glm-5.3"
+}

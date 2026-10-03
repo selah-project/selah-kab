@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad d-unγen ad d-inin ṣedeq-is i yegdud ara d-ilulen, acku ikedc-it.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Ad d-unγen"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ad d-inin"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ṣedeq-is"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i yegdud"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ara d-ilulen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ikedc-it"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:36.060815936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Acu kan, amek ara tḥazret ⟨את⟩ udem n yiwen n laḥkam, d aḥemmal n yemdanen imeẓyanen n bab-iw, mi tettḥekkreḍ i yiman-ik ɣef Miṣrayim, i yiɣil d yiferjen?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "Acu kan, amek"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ara tḥazret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "n laḥkam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "n yiwen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "n yemdanen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "n bab-iw"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "imeẓyanen"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "tettḥekkreḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "i yiɣil"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "d yiferjen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:32.358053645Z",
+  "model": "glm-5.3"
+}

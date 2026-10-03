@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Useqqel-nni yettṛuḥ deg unejjer n dir; yerna iwli-d mmi-s, ulac deg ufus-is kra.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "yettṛuḥ"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "useqqel-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "deg unejjer"
+    },
+    {
+      "surface": "רע",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "yerna iwli-d"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "kra"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:29.672244964Z",
+  "model": "glm-5.3"
+}

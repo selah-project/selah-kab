@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Akken ḥemmlen-t deg tiggatin-nsen, iṣṭeḥfen; iṣṭeḥfen, wwin yir-ttarrays i ulawen-nsen — ɣef waya iy-ttun Nekk.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Akken ḥemmlen-t deg tiggatin-nsen"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "iṣṭeḥfen"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "iṣṭeḥfen"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "wwin yir-ttarrays"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "i ulawen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "iy-ttun Nekk"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:47.230654334Z",
+  "model": "glm-5.3"
+}

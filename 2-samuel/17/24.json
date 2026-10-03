@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "David iwwḍed Maḥanayim, Avcalom izrez ⟨את⟩ Yarden, netta akk d yal argaz n Yisrael akk d neṭṭa.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iwwḍed"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Maḥanayim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "izrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d yal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "akk d neṭṭa"
+    }
+  ],
+  "timestamp": "2026-10-03T04:13:26.578975424Z",
+  "model": "glm-5.3"
+}

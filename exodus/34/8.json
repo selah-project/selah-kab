@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Moce yerẓa, yekkes tamurt, yenna-d fell-as ad yezzem.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "yerẓa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yenna-d fell-as ad yezzem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:35.580627839Z",
+  "model": "glm-5.3"
+}

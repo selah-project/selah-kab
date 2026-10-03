@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Akken ad ssenglen deg wass d deg yiḍ, ad sbḍun gar ⟨את⟩ tafat d ⟨את⟩ tillas; Elohim iwala dakken d lqem.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "ad ssenglen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ad sbḍun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "האור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tillas"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Elohim iwala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dakken"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d lqem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:49.912335137Z",
+  "model": "glm-5.3"
+}

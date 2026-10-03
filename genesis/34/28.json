@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ṭṭfen ⟨את⟩ imelḥen-nsen d ⟨את⟩ iqeccen-nsen d ⟨את⟩ iɣyalen-nsen, d ⟨את⟩ wayen akw illan deg temdint d ⟨את⟩ wayen akw illan deg beṛṛa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imelḥen-nsen"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "imelḥen-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iqeccen-nsen"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "iqeccen-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iɣyalen-nsen"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "iɣyalen-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wayen illan deg temdint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen akw illan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wayen illan deg beṛṛa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen akw illan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg beṛṛa"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ṭṭfen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:03.384940288Z",
+  "model": "glm-5.3"
+}

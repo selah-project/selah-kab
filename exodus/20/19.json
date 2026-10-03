@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Nnan i Moce: Ken mmeslay-aɣ-d, netessel; ur d-yemmeslay ara Elohim ɣur-neɣ, netta ad nemmut.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Nnan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mmeslay-aɣ-d"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ken"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ɣur-neɣ"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "netessel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ad yemmeslay"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ɣur-neɣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "netta"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ad nemmut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:19.275549330Z",
+  "model": "glm-5.3"
+}

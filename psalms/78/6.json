@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Iwakken ad yissin leǧil ara d-yezzin, arrac ara d-ilalen; ad kkren, ad ḥkren i warraw-nnsen.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ad yissin"
+    },
+    {
+      "surface": "דור",
+      "gloss": "leǧil"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ara d-yezzin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ara d-ilalen"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ad kkren"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ad ḥkren"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "i warraw-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:51.760893680Z",
+  "model": "glm-5.3"
+}

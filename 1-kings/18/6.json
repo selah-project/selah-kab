@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yebḍun gar-asen ⟨את⟩ tamurt iwakken ad tt-ẓedren; Aḥab yedda deg ubrid yiwen s lexṣus, Ɛubadyahu yedda deg ubrid yiwen s lexṣus.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "Yebḍun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "iwakken ad ẓedren"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tt-"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "s lexṣus"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "Ɛubadyahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "s lexṣus"
+    }
+  ],
+  "timestamp": "2026-10-03T04:15:14.650865075Z",
+  "model": "glm-5.3"
+}

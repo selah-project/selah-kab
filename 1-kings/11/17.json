@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Hedad yerwel — netta akked ⟨את⟩ kra n yirgazen idumiyen seg yixeddamen n baba-s — ad kecmen ɣer Miṣrayim; Hedad d ameẓyan, d amecṭuḥ.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "yerwel"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hedad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "akked kra n yirgazen"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "idumiyen"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "seg yixeddamen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s",
+      "marks": "akked kra n yirgazen idumiyen (yid-s)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ad kecmen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Hedad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "amecṭuḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:09.418668693Z",
+  "model": "glm-5.3"
+}

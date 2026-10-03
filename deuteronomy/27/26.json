@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Yettwaḥeqqer win ur issiḥen ara ⟨את⟩ awalen n Tora-agi iwakken ad ⟨את⟩ ten-ixdem; ad yini ugdud meṛṛa: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "yettwaḥeqqer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "issiḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen n Tora-agi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "n Tora-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iwakken ad ixedmen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "awalen n Tora-agi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:04:05.900490Z",
+  "model": "glm-5.3"
+}

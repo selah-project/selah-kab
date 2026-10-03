@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ihi, Adonai, Yahwe Ṣebaot, ad yuzen lexṣa deg iselman-is imeqranen; daxel n tayri-ines ad yeli uzzal am wid yesnan timest.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ad yuzen"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "deg iselman-is imeqranen"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "lexṣa"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "daxel n"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "tayri-ines"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "ad yeli"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "uzzal"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "am wid yesnan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "timest"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:53.717669065Z",
+  "model": "glm-5.3"
+}

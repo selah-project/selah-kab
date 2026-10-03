@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "S waya ad teḥbes, Yahwe? Ad tessusmeḍ, ad aɣ-tḍeqseḍ alamma d aṭas?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "s waya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waya"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "ad teḥbes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ad tessusmeḍ"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "ad aɣ-tḍeqseḍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alamma"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "d aṭas"
+    }
+  ],
+  "timestamp": "2026-10-03T00:09:33.316492661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ur ttḥerzmet ara ⟨את⟩ isem-iw iqecden; ad qqimeɣ qqedsen deg wammid n warrac Yisrael: nekk d Yahwe, win i wen-iqedcsen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ur ... ara"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ttḥerzmet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-iw iqecden"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "iqecden-iw"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ad qqimeɣ qqedsen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg wammid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "win i wen-iqedcsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:30.984125588Z",
+  "model": "glm-5.3"
+}

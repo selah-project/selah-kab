@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "Ssexsel lɛadba-nnek ɣef yegduten wid ur k-nessin ara, d ɣef tgeldatin wid ur d-ssutren ara yisem-ik.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ssexsel"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "lɛadba-nnek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegduten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "k-nessin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tgeldatin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "d-ssutren"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:20.409549859Z",
+  "model": "glm-5.3"
+}

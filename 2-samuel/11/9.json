@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yiḍes Urya ɣer tebburt n wexxam n ugellid, ⟨את⟩ akk yixeddamen n bab-is; ur yider ara ɣer wexxam-is.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yiḍes"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ɣer tebburt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk yixeddamen n bab-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yixeddamen"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "n bab-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yider"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wexxam-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:01.493670537Z",
+  "model": "glm-5.3"
+}

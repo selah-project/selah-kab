@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Yettwabṛek Yahwe, axaṭer yerra ḥesed-is d ajawi ɣur-i, deg temdint n uẓeṭṭa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yettwabṛek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "yerra d ajawi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "n uẓeṭṭa"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:22.865530915Z",
+  "model": "glm-5.3"
+}

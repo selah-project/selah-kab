@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Maca ma ur tselḥem ara i taγut n Yahwe, treḥbem ⟨את⟩ imi n Yahwe: ad yili ufus n Yahwe fellawen, akken iγ d-yeḍra i yictcen-nwen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "maca ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tselḥem ara"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i taγut n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "treḥbem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imi n Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "fellawen"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "iγ d-yeḍra i yictcen-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:35.989867212Z",
+  "model": "glm-5.3"
+}

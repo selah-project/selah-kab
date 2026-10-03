@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "D ⟨את⟩ imessiɣen d ⟨את⟩ tibanen — ayen yellan d ḍḍeb, ḍḍeb, ayen yellan d lfeḍḍa, lfeḍḍa — yewwi-ten umara n yimseḥtayen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imessiɣen"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "imessiɣen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tibanen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "tibanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen yellan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍḍeb"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍḍeb"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "d ayen yellan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "amara"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "n yimseḥtayen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:29.139810378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "S tidet, nekk sseɣ gemɣ belli akka i ḥekmen-t; maca amdan ameṭṭut, acu-t ad yili d aṣedeq ɣer El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "S tidet"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sseɣ gemɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maca acu-t"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ad yili d aṣedeq"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "amdan ameṭṭut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T04:39:01.466699514Z",
+  "model": "glm-5.3"
+}

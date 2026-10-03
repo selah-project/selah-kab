@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yenna-d Yahwe i Moce: arma melmi ara tuginem ad tṣebrem lamerat-iw d Torat-iw?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "tuginem"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ad tṣebrem"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "lamerat-iw"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "d Torat-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:54.643063615Z",
+  "model": "glm-5.3"
+}

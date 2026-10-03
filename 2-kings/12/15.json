@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "axaṭer i wid yettxeddmen axeddim t-ṭṭfen, s waya ṣeggmen ⟨את⟩ wexxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "i wid yettxeddmen"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "t-ṭṭfen"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ṣeggmen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "s waya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:30.064864953Z",
+  "model": "glm-5.3"
+}

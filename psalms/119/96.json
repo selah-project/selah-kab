@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "I kullec n tyita iwalaɣ taggara; ma d tiludna-k, s tewza-nsent, ugar akk.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "i kullec"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "tyita"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "iwalaɣ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "s tewza"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "tiludna-k"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ugar akk"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:24.667499113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Teɣli-d terrwi, d-tesli-d mmi-s, yessuma ⟨את⟩ isem-is Ɛer.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "teɣli-d terrwi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "d-tesli-d"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yessuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ɛer"
+    }
+  ],
+  "timestamp": "2026-10-02T20:29:42.043669592Z",
+  "model": "glm-5.3"
+}

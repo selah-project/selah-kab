@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Neccini d Yahwe Elohim-ik, win i k-id-yessulin seg tmurt n Miṣrayim; wessiɛ agay-ik, ad t-ḍeġɣ.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Neccini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "win i k-id-yessulin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "wessiɛ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "agay-ik"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ad t-ḍeġɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:28.375964293Z",
+  "model": "glm-5.3"
+}

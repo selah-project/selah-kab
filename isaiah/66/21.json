@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Akken seg-sen ad d-nkeḍ ad ilin d ikohanim d ileviyim, i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "akken"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ad d-nkeḍ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ad ilin d ikohanim"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "d ileviyim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:10:07.236763185Z",
+  "model": "glm-5.3"
+}

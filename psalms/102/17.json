@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Mi yebna Yahwe ⟨את⟩ Ṣiyon, yemma yban deg tezmert-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "yemma yban"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "deg tezmert-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:49.409316395Z",
+  "model": "glm-5.3"
+}

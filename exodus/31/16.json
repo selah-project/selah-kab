@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Wid n Yisrael ad ḥerzen ⟨את⟩ Cabbat, ad ṣeqden ⟨את⟩ Cabbat ɣer tsuta-nsen, d lɛahd n lebda.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ad ḥerzen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad ṣeqden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ɣer tsuta-nsen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:15.687005171Z",
+  "model": "glm-5.3"
+}

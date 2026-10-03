@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Axaṭer neḥwa, d-yenna, yella-v; neḥwa, iḥeṭṭeṣ, yeqqim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neḥwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-v"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neḥwa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iḥeṭṭeṣ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "yeqqim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:00.557112335Z",
+  "model": "glm-5.3"
+}

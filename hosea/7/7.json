@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akk-nsen ḥemmen am tanur, u ččan ⟨את⟩ iḥekkam-nsen; igelliden-nsen akk ḍerren; ulac win isawalen ɣur-i gar-asen.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "akk-nsen"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "ḥemmen"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "am tanur"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "u ččan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥekkam-nsen"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "iḥekkam-nsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "igelliden-nsen"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ḍerren"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "win isawalen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:53.606046916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yella-d lawan, mi d-ffɣen ⟨the⟩ ikohanen seg uqeddes, asigna yečča ⟨את⟩ axxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d lawan"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "mi d-ffɣen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "uqeddes"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "asigna"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yečča"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:15:38.449663811Z",
+  "model": "glm-5.3"
+}

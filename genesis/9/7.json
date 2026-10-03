@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Kunwi, ɣellet-ed ed nnutret; kettat deg tmurt, ed nnutret deg-s.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kunwi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ɣellet-ed"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ed nnutret"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "kettat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ed nnutret"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:56.442796664Z",
+  "model": "glm-5.3"
+}

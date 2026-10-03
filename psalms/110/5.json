@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "translation": "Adonai ɣef teɣmert-ik n yeffus; ad yeqqeɛ igeldan deg wass n tmejgit-is.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "teɣmert-ik n yeffus"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ad yeqqeɛ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "n tmejgit-is"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "igeldan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:08.103385165Z",
+  "model": "glm-5.3"
+}

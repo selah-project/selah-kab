@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Seg Aram, seg Mwab, seg warrac n Ɛamun, seg Plictim, seg Ɛamaleq, d seg wayla n Ḥedadɛezer, mmi n Reḥob, agellid n Ṣoba.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "Seg Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "seg Mwab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "seg warrac"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "seg Plictim"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "seg Ɛamaleq"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "seg wayla"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Ḥedadɛezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Reḥob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ṣoba"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:16.063742617Z",
+  "model": "glm-5.3"
+}

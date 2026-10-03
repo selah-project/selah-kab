@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Deg lexṣer-iw, ceɣɣeɣ Yahwe, ɣer Elohim-iw ssuɣleɣ; Isel-d taɣect-iw seg uṣemmi-is, tuneflit-iw tezzi-d ɣer sdat-is, arma talɣemt-is.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "deg lexṣer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ceɣɣeɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ssuɣleɣ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "isel-d"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "seg uṣemmi-is"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "taɣect-iw"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "tuneflit-iw"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ɣer sdat-is"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tezzi-d"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "arma talɣemt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:49.765761234Z",
+  "model": "glm-5.3"
+}

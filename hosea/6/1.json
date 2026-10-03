@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad d-neddu, ad nules ɣer Yahwe, axaṭer neṭṭef-t-id, ad yessuji-aɣ; iḍef-aɣ, ad yesseḥbes yir timatin-nneɣ.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ad d-neddu"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ad nules"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neṭṭef-t-id"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "iṭṭef akk"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "ad yessuji-aɣ"
+    },
+    {
+      "surface": "יך",
+      "gloss": "iḍef-aɣ"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "ad yesseḥbes yir timatin-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:32.236064042Z",
+  "model": "glm-5.3"
+}

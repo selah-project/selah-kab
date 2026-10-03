@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "translation": "Ur yettzeddi ara deg wexxam-iw win ixeddmen taɣdest; win iqqaṛen idrimen ur yettwabna ara zdat n tiṭin-iw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yettzeddi ara"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg wexxam-iw"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wexxam-iw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixeddmen"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "taɣdest"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "win iqqaṛen"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "idrimen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "yettwabna ara"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n tiṭin-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:25.982099464Z",
+  "model": "glm-5.3"
+}

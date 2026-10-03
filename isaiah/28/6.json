@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Daɣen d ruaḥ n ccreɛ i win izedɣen deg ccudan, d tezmert i wid i d-yettuɣalen imenɣi ar tawwurt.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "daɣen d ruaḥ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "n ccreɛ"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "i win izedɣen"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ccudan"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "daɣen d tezmert"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "i wid i d-yettuɣalen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imenɣi"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ar tawwurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:34.330861161Z",
+  "model": "glm-5.3"
+}

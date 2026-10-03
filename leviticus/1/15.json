@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Kohen ad t-yerr ɣer lmeẓbaḥ, ad iṭṭef ⟨את⟩ ixef-is ad iḥerreq-t ɣef lmeẓbaḥ, idem-is ad yettwassufeɣ ɣef uyedζiṛ n lmeẓbaḥ.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "ad t-yerr"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeẓbaḥ"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ad iṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ixef-is"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ixef-is"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ad iḥerreq"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeẓbaḥ"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ad yettwassufeɣ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idem-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ayedζiṛ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeẓbaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:11.645213791Z",
+  "model": "glm-5.3"
+}

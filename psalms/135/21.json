@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Yettubarek Yahwe si Ṣiyyun, win izedɣen deg Yerucalayim. Snemmrem-aɣ d Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yettubarek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "si Ṣiyyun"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "win izedɣen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Snemmrem-aɣ d"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:56.971044086Z",
+  "model": "glm-5.3"
+}

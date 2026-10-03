@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Yalay, a Elohim, nnig ⟨yigenwan⟩; ad yili lɛezz-ik nnig tmurt akk.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "yalay"
+    },
+    {
+      "surface": "על",
+      "gloss": "nnig"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨yigenwan⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nnig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "lɛezz-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:28.692427324Z",
+  "model": "glm-5.3"
+}

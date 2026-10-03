@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yahwe yesellek {deg wass-nni} ⟨את⟩ Yisrael si ufus n Miṣrayim, Yisrael iwala ⟨את⟩ Miṣrayim yettwaxled deg yifri n yilel.",
+  "tokens": [
+    {
+      "surface": "וַיּ֨וֹשַׁע",
+      "gloss": "yesellek"
+    },
+    {
+      "surface": "יְהוָ֜ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בַּיּ֥וֹם",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הַה֛וּא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מִיַּ֣ד",
+      "gloss": "si ufus"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "וַיַּ֤רְא",
+      "gloss": "yerna yiwala"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֙ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "מֵ֖ת",
+      "gloss": "yettwaxled"
+    },
+    {
+      "surface": "עַ֥ל",
+      "gloss": "deg yifri"
+    },
+    {
+      "surface": "שְׂפַ֥ת",
+      "gloss": "n yifri"
+    },
+    {
+      "surface": "הַיָּֽם",
+      "gloss": "yilel"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:10.486157874Z",
+  "model": "glm-5.3"
+}

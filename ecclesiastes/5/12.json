@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Llan tadrust tin yuḍen twalaɣ ddaw ⟨⟨yiṭij⟩⟩: lexlaṣ yettwaḥerzen i bab-is, i tadrust-is.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "llan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tadrust"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "tin yuḍen"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "twalaɣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lexlaṣ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "yettwaḥerzen"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "i bab-is"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "i tadrust-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:37.477100545Z",
+  "model": "glm-5.3"
+}

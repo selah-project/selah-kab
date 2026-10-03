@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "Mizmor n David. Yahwe, sel tazallit-iw, ɛqed iṭar deg widdeɛen-iw; s lɛahd n tidet-ik ijeb maṛṛa-ttid, s ṣedeq-ik.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sel"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tazallit-iw"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ɛqed iṭar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "widdeɛen-iw"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "s lɛahd n tidet-ik"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ijeb maṛṛa-ttid"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "s ṣedeq-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:12.429874282Z",
+  "model": "glm-5.3"
+}

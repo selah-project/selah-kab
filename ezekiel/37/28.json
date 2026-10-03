@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ad ẓren yegdachen d nekki Yahwe, win i yesselḥayen ⟨את⟩ Yisrael, mi ara yili iqedden-iw gar-asent i lebda.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ad ẓren"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegdachen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "win i yesselḥayen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "mi ara yili"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "iqedden-iw"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "gar-asent"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:04:12.276112907Z",
+  "model": "glm-5.3"
+}

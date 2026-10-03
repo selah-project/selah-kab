@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "D Kečč El-iw, ad k-ċeddeɣ; Elohim-iw, ad k-snesserbeɣ.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "D Kečč"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ad k-ċeddeɣ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ad k-snesserbeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:03.311143827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "A Yahwe, ad yessikel i yimceggaɛ-is fell-ak, ad k-ḥerzen deg yiberdan-ik akk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "i yimceggaɛ-is"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ad yessikel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fell-ak"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "ad k-ḥerzen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "deg yiberdan-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.021593174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Rran ⟨את⟩ sand n Elohim ar Ɛeḳron. Mi iwweḍ sand n Elohim ar Ɛeḳron, ssutren At Ɛeḳron qqimen-d: \"Ṣṣeḥbem-d ⟨את⟩ sand n Elohim n Yisrael ɣur-i, iwakken ad yis-tyen ara d ⟨את⟩ agdud-iw!\"",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Rran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sand n Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ɛeḳron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "iwweḍ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ɛeḳron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ssutren"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "At Ɛeḳron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "qqimen-d"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "ṣṣeḥbem-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sand n Elohim n Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sand"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ad yis-tyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "agdud-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T22:38:54.855661198Z",
+  "model": "glm-5.3"
+}

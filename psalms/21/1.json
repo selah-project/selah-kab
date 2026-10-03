@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "I win yettnernun deg yizlan. Izli n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettnernun deg yizlan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "izli"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:21.164073825Z",
+  "model": "glm-5.3"
+}

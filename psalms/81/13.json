@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Yiwen kan i terri-d deg teqda n ul-nsen, ad unen deg iɣmisen-nsen.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "i terri-d"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "deg teqda"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ul-nsen"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ad unen"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "deg iɣmisen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:40.495585676Z",
+  "model": "glm-5.3"
+}

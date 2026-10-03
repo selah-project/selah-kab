@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "⟨את⟩ ttiri d yitran, akken ad ḥekmen iḍ; axaṭer ḥesed-is iqqim i lebda.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ttiri"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ttiri"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "d yitran"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "akken ad ḥekmen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:09.755164265Z",
+  "model": "glm-5.3"
+}

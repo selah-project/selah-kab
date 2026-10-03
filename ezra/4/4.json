@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Agdud n tmurt yeḥbes ifassen n ugɗud n Yehuda, ḥeṣṣen-itren deg lebni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ifassen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ḥeṣṣen-itren"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "itren"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "deg lebni"
+    }
+  ],
+  "timestamp": "2026-10-03T03:14:05.444298096Z",
+  "model": "glm-5.3"
+}

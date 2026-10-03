@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yessukra Yahwe azal n wussan-nsen deg wawal n tkkawt, ma d yiseggasen-nsen deg lxiyaf.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "yessukra azal n"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "deg wawal n tkkawt"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "wussan-nsen"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "yiseggasen-nsen"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "deg lxiyaf"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:19.175891907Z",
+  "model": "glm-5.3"
+}

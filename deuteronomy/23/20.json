@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur tnessuceḍ i gma-k: anesec n weẓref, anesec n učču, anesec n yal cci ara yenessucen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "tnessuceḍ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "i gma-k"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "anesec"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n weẓref"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "anesec"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "n učču"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "anesec"
+    },
+    {
+      "surface": "כל",
+      "gloss": "n yal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "yenessucen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:47.187362575Z",
+  "model": "glm-5.3"
+}

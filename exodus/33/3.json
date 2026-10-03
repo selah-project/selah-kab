@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ɣer tmurt yettazzalen taḍemt d uman; axaṭer ur qlieɣ ara deg wemḍan-nwen, axaṭer d agdud iẓeɣlen deg yiɣer kunye; ad k-ṣeggmeɣ deg ubrid.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "yettazzalen"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taḍemt"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "d uman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "qlieɣ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "deg wemḍan-nwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "iẓeɣlen"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "deg yiɣer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kunye"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨ad k-ṣeggmeɣ ara⟩"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ad k-ṣeggmeɣ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:47.594855338Z",
+  "model": "glm-5.3"
+}

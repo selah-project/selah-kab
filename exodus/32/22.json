@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yenna Aharon: Ad ur yelli wanṣel n sidi-iw ur yettali; kečči, tessneḍ ⟨את⟩ lɣaci-a, acku d axṣar i la ttxedmen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "yettali"
+    },
+    {
+      "surface": "אף",
+      "gloss": "wanṣel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tessneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɣaci-a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lɣaci-a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "d axṣar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ttxedmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:15.033516750Z",
+  "model": "glm-5.3"
+}

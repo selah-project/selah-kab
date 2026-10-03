@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Novbaḥ yuɣal d yexleq ⟨את⟩ Qenat akked ⟨את⟩ tuddar-is, yessuma-as isem Novbaḥ, s yisem-is.",
+  "tokens": [
+    {
+      "surface": "וונבח",
+      "gloss": "Novbaḥ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Qenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tuddar-is"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "tuddar-is"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yessuma-as isem"
+    },
+    {
+      "surface": "לה",
+      "gloss": "as"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novbaḥ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "s yisem-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:42:24.335472433Z",
+  "model": "glm-5.3"
+}

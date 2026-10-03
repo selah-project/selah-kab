@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad d-iniɣ i Eloha: ur iyi-ḥukkmen ara d ameḥkem; issin-iyi-d acu i k-yeḥwan ma ḥekm-iḍ ɣef-i.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ad d-iniɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "iwyi-ḥukkmen ara d ameḥkem"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "issin-iyi-d"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "ḥekm-iḍ ɣef-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:35:39.064560272Z",
+  "model": "glm-5.3"
+}

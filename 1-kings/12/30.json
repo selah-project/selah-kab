@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yerna lɣaci-agi yuɣal d tuccḍa; yerna ugdud ţedda ɣer zdat yiwen almi d Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yerna yuɣal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lɣaci-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "d tuccḍa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ţedda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:14.429083474Z",
+  "model": "glm-5.3"
+}

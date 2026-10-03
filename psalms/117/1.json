@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 117,
+  "translation": "Cenddeyt ⟨את⟩ Yahwe, yal leǧnas; sbектаrent-t yal iɣlanen.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Cenddeyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "sbектаrent-t"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "iɣlanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:46.343085041Z",
+  "model": "glm-5.3"
+}

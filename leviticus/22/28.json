@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma d azger neɣ yizim, ⟨אתו⟩ yakk d ⟨את⟩ mmi-s, ur ten-ttneggm ara deg yiwet n wass.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ma d azger"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "yizim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "azger neɣ yizim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yakk d ⟨את⟩",
+      "marks": "mmi-s"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "ttneggm ara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg yiwet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "n wass"
+    }
+  ],
+  "timestamp": "2026-10-02T21:15:25.711369043Z",
+  "model": "glm-5.3"
+}

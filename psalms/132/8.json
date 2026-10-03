@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Sir, a Yahwe, ɣer umkan n usgunfu-ik; kečč, d tebwent n tazmert-ik.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ɣer umkan n usgunfu-ik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "d tebwent"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "n tazmert-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:57.203765156Z",
+  "model": "glm-5.3"
+}

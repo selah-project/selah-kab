@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Twalaɣ ⟨את⟩ tiɣawsiwin akk yettwaxdmen ddaw yiṭij; walan, akk d hebel, d teɣmert n ruaḥ.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Twalaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣawsiwin akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "tiɣawsiwin"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "yettwaxdmen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "walan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "d teɣmert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:50.682246832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ay tamurt n ṣelṣel n yijenḍiyen, i yellan ennaṛen n yisaffen n Kuṣ!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ṣelṣel"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "n yijenḍiyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ennaṛen"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "n yisaffen"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuṣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:00.830028047Z",
+  "model": "glm-5.3"
+}

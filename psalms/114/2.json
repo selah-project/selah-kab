@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 114,
+  "translation": "Yeḥla Yehuda d iqedcen-is, Yisrael d tmurt n,lḥukm-is.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Yeḥla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "d iqedcen-is"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "d tmurt n,lḥukm-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:15.960972100Z",
+  "model": "glm-5.3"
+}

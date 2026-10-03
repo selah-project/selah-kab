@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "D akk tiṭṭ n yizerman d yimellaḥ: yal ayen i d-yezrin ddaw n tcebbart, wis mraw ad yili ⟨d⟩ iqedcen i Yahwe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "tiṭṭ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "n yizerman"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "d yimellaḥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "d-yezrin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "n tcebbart"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "wis mraw"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:24.670473293Z",
+  "model": "glm-5.3"
+}

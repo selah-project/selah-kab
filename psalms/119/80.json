@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ad yili wul-iw kmil deg uεezzlen-ik, iwakken ur nnreɣ ara.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wul-iw"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kmil"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "deg uεezzlen-ik"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nnreɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:09.239993083Z",
+  "model": "glm-5.3"
+}

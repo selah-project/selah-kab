@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Wussan n yiseggasen-nneɣ, deg-sen 70 n yiseggasen; ma s tazmert, 80 n yiseggasen; maca tiqber-nsen d aɛkem d tahawt; axaṭer tettwagzem s zreb, ma d nekker neffer.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "wussan n"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "iseggasen-nneɣ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "70"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "s tazmert"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "80"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "tiqber-nsen"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "aɛkem"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "d tahawt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גז",
+      "gloss": "tettwagzem"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "s zreb"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "neffer"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.140758894Z",
+  "model": "glm-5.3"
+}

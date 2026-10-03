@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yewwi-d David ⟨את⟩ asaḥ d ⟨את⟩ taṣfaḥt n waman seg uxem n Ceol, ṭṭfen iman-nsen; ulac win yettwalin, ulac win iẓerran, ulac win id-yettneqqaḍen, axaṭer meṛṛa ṭṭfen iṭṭen, axaṭer torḍemt n Yahwe teɣli fellasen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Yewwi-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asaḥ"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "asaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taṣfaḥt"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "taṣfaḥt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "seg uxem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Ceol"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iman-nsen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "win yettwalin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "win iẓerran"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "win id-yettneqqaḍen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "ṭṭfen iṭṭen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "torḍemt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "teɣli"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fellasen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:13:17.844944808Z",
+  "model": "glm-5.3"
+}

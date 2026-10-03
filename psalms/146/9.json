@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 146,
+  "translation": "Yahwe yettḥerez ⟨את⟩ yemdanen ibeḍden; agujil d tağğalt yeṭṭef-ten-id; ma d abrid n wid n dir, yexleṭ-it.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yettḥerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yemdanen ibeḍden"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "yemdanen ibeḍden"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "agujil"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "d tağğalt"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "yeṭṭef-ten-id"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ma d abrid"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n wid n dir"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "yexleṭ-it"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:43.609379772Z",
+  "model": "glm-5.3"
+}

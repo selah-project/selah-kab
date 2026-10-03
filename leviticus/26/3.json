@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ma teddant iḍarren-nwen deg lɛahd-iw, ⟨את⟩ tmara-iw ad tt-ḥerzdem u ad t-texdem,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "deg lɛahd-iw"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "teddant iḍarren-nwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmara-iw"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "tmara-iw"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ad tt-ḥerzdem"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad t-texdem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "tmara-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:07.225720528Z",
+  "model": "glm-5.3"
+}

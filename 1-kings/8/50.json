@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 8:50",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad tesemmeḥeḍ i weɣlan-ik i k-iḥetmen, d akk iregglen-nsen ideg rreglen ɣur-k; ad ten-tefk i ḥelwa ɣer zdat wid i ten-yuḍnen, ad ḥelwen ɣefsen.",
+  "tokens": [
+    {
+      "surface": "וסלחת",
+      "gloss": "ad tesemmeḥeḍ"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "i weɣlan-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "iḥetmen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "iregglen-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "rreglen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ad ten-tefk"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "i ḥelwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "wid i ten-yuḍnen"
+    },
+    {
+      "surface": "ורחמום",
+      "gloss": "ad ḥelwen ɣefsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:15:08.756128156Z",
+  "model": "glm-5.3"
+}

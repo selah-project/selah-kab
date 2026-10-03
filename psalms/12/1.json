@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "I win yettḥeṣben iḍebsi, ɣef tset tesset, mizmor i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettḥeṣben iḍebsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "tset tesset"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:41.475124767Z",
+  "model": "glm-5.3"
+}

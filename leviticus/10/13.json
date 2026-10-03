@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad tettcem ⟨tt⟩ deg umkan iqeqcen, axaṭer d aɣlan-nnek akked uɣlan n warraw-nnek ⟨d⟩ seg times n Yahwe; axaṭer akka i d-ittunefk i yi.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ad tettcem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tt (taɣawsa i tettcem)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqeqcen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "d aɣlan-nnek"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "akked uɣlan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "n warraw-nnek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨d-netta⟩"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "seg times n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "i d-ittunefk i yi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:07:55.710456910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ma tseddmen zebḥ n tifra i Yahwe, i ṛṛi-nwen a t-tseddmen-t.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "tseddmen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zebḥ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "n tifra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "i ṛṛi-nwen"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "a t-tseddmen-t"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:12.572974963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 131,
+  "translation": "Acḥer n tullunin, n David. Yahwe, ul-iw ur ɛelli ara, ur semmuyen ara tiḍ-iw, ur immal ara deg teɣsi meqqren neɣ deg wayen ijebblen fell-i.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "acḥer"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tullunin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ɛelli"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uγ ur"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "semmuyen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiḍ-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "uγ ur"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "immal ara"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "deg teɣsi meqqren"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "neγ deg wayen ijebblen"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:02.653480974Z",
+  "model": "glm-5.3"
+}

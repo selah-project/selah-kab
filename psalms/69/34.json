@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Axataṛ Yahwe yettessemḍel i yimeẓyanen, mačči yettwan za ⟨את⟩ ijeḥbunen-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axataṛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yettessemḍel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "i yimeẓyanen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijeḥbunen-is"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ijeḥbunen-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "yettwan za"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:43.798934658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Yeḥmel taɛnant, tusa-d fell-as; ur iḥemmel ara tabarkit, tegzif tebɛed fell-as.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Yeḥmel"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "taɛnant"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "tusa-d fell-as"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "tabarkit"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "tebɛed"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:21.912527380Z",
+  "model": "glm-5.3"
+}

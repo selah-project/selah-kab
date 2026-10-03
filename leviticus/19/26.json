@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur teṭṭefm ara ɣef idammen; ur tettinm ara d takmamt, ur txexxm ara d tiferdiyin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "teṭṭefm"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "tettinm ara d takmamt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "txexxm ara d tiferdiyin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:21.694782348Z",
+  "model": "glm-5.3"
+}

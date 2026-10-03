@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad iselless Elohim ⟨את⟩ Yisrael seg weḥric-is akk.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Ad iselless"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg ... akk"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "weḥric-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:14.560126828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 129,
+  "translation": "Acḥḍun n tɣulin. Aṭas i yi-d-ṣuṛḍen seg tmezgida-nnu iɛeddan, ad yini Yisrael, i tettxilim:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "acḥḍun"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tɣulin"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "i yi-d-ṣuṛḍen"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "seg tmezgida-nnu iɛeddan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i tettxilim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:39.311992439Z",
+  "model": "glm-5.3"
+}

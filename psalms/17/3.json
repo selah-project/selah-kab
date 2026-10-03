@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Trecbeḍ ⟨a⟩ ul-iw, twalideḍ-t deg yiḍ; tṣerfeḍ-iyi, ur d-tufiḍ kra; tixmest-iw ur tezdig ara seg imi-iw.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Trecbeḍ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "twalideḍ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "tṣerfeḍ-iyi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "d-tufiḍ"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "tixmest-iw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "tezdig"
+    },
+    {
+      "surface": "פי",
+      "gloss": "seg imi-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:38.932675541Z",
+  "model": "glm-5.3"
+}

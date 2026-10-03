@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 19:19",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "ad txedem-ed i t-id akken iɛiyyel ad ixedem i gma-s; ihi ad tekkseḍ ⟨את⟩ tiddin seg temelta-nnek.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad txedem-ed"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i t-id"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "iɛiyyel"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad ixedem"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "i gma-s"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ad tekkseḍ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "tiddin"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "seg temelta-nnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiddin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:59.549225612Z",
+  "model": "glm-5.3"
+}

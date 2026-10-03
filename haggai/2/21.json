@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ini i Zerubabel, anemhal n Yehuda, ad yini: Nekkini ad ijebdeb ⟨את⟩ igenwan d ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "anemhal"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nekkini"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ad ijebdeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igenwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:30:49.955254320Z",
+  "model": "glm-5.3"
+}

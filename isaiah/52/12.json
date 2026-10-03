@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Acku ur tettaffɣem ara deg urgu, ur tettekklem ara deg unekker ɣer undeḥ; acku Yahwe yetteddu uqbel-awen, d win ara kwen-id-yessen — Elohim n Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ara deg urgu"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "tettaffɣem"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "deg unekker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "tettekklem ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yetteddu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "uqbel-awen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "d win ara kwen-id-yessen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T00:04:51.433083851Z",
+  "model": "glm-5.3"
+}

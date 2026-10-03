@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Azenet iṭij i win yettḥekmen tamurt, seg Sela ar yiɣzer, ar wedrar n yelli Ṣiyun.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Azenet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "iṭij"
+    },
+    {
+      "surface": "משל",
+      "gloss": "yettḥekmen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "yiɣzer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrrar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "n yelli"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyun"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:36.038778070Z",
+  "model": "glm-5.3"
+}

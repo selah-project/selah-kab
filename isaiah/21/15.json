@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Acku seg udem n yifellten fujjen, seg udem n seif yettwadlen, seg udem n yelli i yettusellgen, akken daɣen seg udem n tzizibt n umaṭṭaf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem n"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "yifellten"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "fujjen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem n"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seif"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "yettwadlen"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "akken daɣen seg udem n"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "i yettusellgen"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "akken daɣen seg udem n"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tzizibt"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "n umaṭṭaf"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:21.890646402Z",
+  "model": "glm-5.3"
+}

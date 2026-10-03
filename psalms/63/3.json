@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Akka deg uqeddes twalaɣ-k, iwakken ad waliɣ ⟨את⟩ tazmert-ik d ⟨את⟩ tejmit-ik.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg uqeddes"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "twalaɣ-k"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "iwakken ad waliɣ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tazmert-ik"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "d tejmit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:13.771404980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ula d deg ubrid, mi ara yeddu ubuḥerriq, ul-is yettwanekkes; yerna ad d-yini i yal yiwen: d abuḥerriq neppa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "abuḥerriq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mi ara yeddu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "yettwanekkes"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ad d-yini"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal yiwen"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "d abuḥerriq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neppa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:23.422007519Z",
+  "model": "glm-5.3"
+}

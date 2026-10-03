@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Acku imaddalen-is ad t-ččen, ad cctḥen ⟨את⟩ Yahwe, ijemmaɛen-is ad t-sen deg yiserdan n teqedcit-iw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "imaddalen-is"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ad t-ččen"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ad cctḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ijemmaɛen-is"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "ad t-sen"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "deg yiserdan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "n teqedcit-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T00:08:03.146567710Z",
+  "model": "glm-5.3"
+}

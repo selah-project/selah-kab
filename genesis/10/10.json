@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Tasent n tgelda-s telli-d d Babel, Ereḥ, Akkad d Kalneh, deg tmurt n Cinɛar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "telli-d"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Tasent"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "n tgelda-s"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "Ereḥ"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "Akkad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "n Cinɛar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:23.627001121Z",
+  "model": "glm-5.3"
+}

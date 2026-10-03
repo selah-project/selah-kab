@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Azmul n David, mi yella di taneẓruft n Yehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "azmul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "mi yella"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di taneẓruft"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:13.770934910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 30:25",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad yili ɣef yal adrar aɛlayan, ɣef yal teqbiɛt d tafatayt, isaffagen, iẓra n waman, deg wass n tmezgelt tameqqrant, mi ara d-kren yiqenṣaren.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "aɛlayan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "teqbiɛt"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "d tafatayt"
+    },
+    {
+      "surface": "פלגים",
+      "gloss": "isaffagen"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "tmezgelt"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "mi ara d-kren"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "yiqenṣaren"
+    }
+  ],
+  "timestamp": "2026-10-02T23:54:21.654251849Z",
+  "model": "glm-5.3"
+}

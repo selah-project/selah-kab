@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Nekk, nnan-iyi deg lweɛra-inu: yal amdan d anekbar.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nnan-iyi"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "deg lweɛra-inu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "d anekbar"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:51.100620845Z",
+  "model": "glm-5.3"
+}

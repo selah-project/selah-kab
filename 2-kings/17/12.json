@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Qeqnen i yiman-nnsen gilulim, nna γer which Yahwe inna-asen: ur ttxedmem ara ⟨את⟩ wawal agi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "qeqnen"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "i gilulim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ttxedmem ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:30.602308952Z",
+  "model": "glm-5.3"
+}

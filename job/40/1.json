@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yahwe yerra-d ⟨את⟩ i Yub ⟨i⟩: yenna:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Yub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    }
+  ],
+  "timestamp": "2026-10-03T04:39:35.269500395Z",
+  "model": "glm-5.3"
+}

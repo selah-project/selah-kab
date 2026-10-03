@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Iwakken ad teḥkem ɣef yigujil d ueḥerfi, iwakken ⟨amdan⟩ n tmurt ur yerni ara ad yerẓem.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "iwakken ad teḥkem"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yigujil"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "d ueḥerfi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "yerni ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɛiwed"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ad yerẓem"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:12.816296056Z",
+  "model": "glm-5.3"
+}

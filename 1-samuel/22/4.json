@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yewter-asen ⟨את⟩ s wudem n ugellid n Muab, ṣubben yid-s akk imir n wayen akk i yellan David deg ṣṣur.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "yewter-asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "s wudem n ugellid n Muab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "s wudem n"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "n Muab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ṣubben"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imir n wayen akk"
+    },
+    {
+      "surface": "היות",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "deg ṣṣur"
+    }
+  ],
+  "timestamp": "2026-10-02T22:49:00.190331324Z",
+  "model": "glm-5.3"
+}

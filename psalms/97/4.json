@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 97,
+  "translation": "Imesni-s fessren tabvelt; terra tmurt, twennit.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "fessren"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "imesni-s"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tabvelt"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "terra"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "twennit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:09.656664781Z",
+  "model": "glm-5.3"
+}

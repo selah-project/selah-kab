@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "M'walan txelṣen tuṭṭfa-nsen, nnan-d: Walat, sin n yigeldan ur yezmir ara ad yeqqim deg udvar-is, nekni amek ara nqqim nekkni?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "M'walan txelṣen tuṭṭfa-nsen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "txelṣen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuṭṭfa-nsen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan-d"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Walat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "n yigeldan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "yezmir ara ad yeqqim"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "deg udvar-is"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "amek ara"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "nqqim"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekni"
+    }
+  ],
+  "timestamp": "2026-10-03T04:16:01.571982198Z",
+  "model": "glm-5.3"
+}

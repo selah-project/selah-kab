@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tekker deg tlemmast n yiḍ, tewwi ⟨את⟩ mmi-i seg yiri-iw — lqeddac-ik deg usgunfu-is — terra-t di teccart-is, d ⟨את⟩ mmi-s win yemmuten terra-t di teccart-iw.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "tekker"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg tlemmast"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "n yiḍ"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "tewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mmi-i"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "seg yiri-iw"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "lqeddac-ik"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "deg usgunfu"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "terra-t"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "di teccart-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s win yemmuten"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "המת",
+      "gloss": "win yemmuten"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "terra-t"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "di teccart-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T23:11:34.680920033Z",
+  "model": "glm-5.3"
+}

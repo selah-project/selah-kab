@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Seg twaṭṭfa-inek ad rewlen; seg vus n ṣṣeɛd-inek ad neḥwalen.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "twaṭṭfa-inek"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ad rewlen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "קול",
+      "gloss": "vus"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ṣṣeɛd-inek"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "ad neḥwalen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:06.619636128Z",
+  "model": "glm-5.3"
+}

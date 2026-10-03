@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Tgiḍ tikkest i leǧnuc, tessruḥeḍ ⟨את⟩ wameṛṛan; tekkseḍ-d isem-nsen i lebda d yeḍran.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Tgiḍ tikkest"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "i leǧnuc"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "tessruḥeḍ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨את⟩ wameṛṛan",
+      "marks": "wameṛṛan"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "isem-nsen"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "tekkseḍ-d"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "d yeḍran"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:43.208654877Z",
+  "model": "glm-5.3"
+}

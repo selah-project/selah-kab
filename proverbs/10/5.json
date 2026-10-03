@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Win yettḥeṣṣeden deg unebdu d mmi n tmuqil, ma d win iṭṭesen deg lḥeṣad d mmi yettḥerren.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "yettḥeṣṣed"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "deg unebdu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "n tmuqil"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "iṭṭes"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "deg lḥeṣad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yettḥerren"
+    }
+  ],
+  "timestamp": "2026-10-03T04:38:03.137649690Z",
+  "model": "glm-5.3"
+}

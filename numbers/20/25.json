@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ṭṭef ⟨את⟩ Aharon d ⟨את⟩ Elɛazar mmi-s, ssaɣ-iten d asawen ɣer ugadir Hor:",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Elɛazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elɛazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ssaɣ-iten d asawen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Hor"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "agadir"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:45.730582767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Nekkini d tayemmt, mačči d argaz; d taḥrant n yemdanen, rnu d lɛib deg yeɣlanen.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Nekkini"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "d tayemmt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d argaz"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "d taḥrant"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yemdanen"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "rnu d lɛib deg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yeɣlanen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:50.206332546Z",
+  "model": "glm-5.3"
+}

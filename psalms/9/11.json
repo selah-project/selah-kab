@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Wid issnen isem-ik ad tbeṭṭlen ɣef kečč, axaṭer ur tettuɣal-ara i wid ak i d-nnuɣren kečč, a Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ad tbeṭṭlen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ɣef kečč"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "wid issnen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "tettuɣal-ara"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "wid ak i d-nnuɣren kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:26.640945373Z",
+  "model": "glm-5.3"
+}

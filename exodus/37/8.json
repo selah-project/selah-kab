@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yiwet nikerbut seg yiwen uceḍ-agi, yiwet nikerbut seg yiwen uceḍ-agi; seg Kaporet yexleq ⟨את⟩ yikeruben-nni, seg sin yiceḍen-is.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "nikerbut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet n"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "seg yiwen uceḍ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "yiwet nikerbut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet n"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "seg yiwen uceḍ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yikeruben-nni"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "yikeruben-nni"
+    },
+    {
+      "surface": "משני",
+      "gloss": "seg sin"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "yiceḍen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:49.757461505Z",
+  "model": "glm-5.3"
+}

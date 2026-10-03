@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Tessudduḍ takurt ɣer zdat-i, sdat innaren-iw; treɣmeḍ ixef-iw s zzit; takas-iw ⟨teččur⟩.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "tessudduḍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat-i"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "takurt"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "innaren-iw"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "treɣmeḍ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "s zzit"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ixef-iw"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "takas-iw"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "teččur"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:33.300280016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ma d arrac n Yisrael i izedɣen deg iɣerman n Yehuda, Reḥabɛam yennerna-ten d agellid.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ma d arrac n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "i izedɣen"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "deg iɣerman n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yennerna-ten d agellid"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reḥabɛam"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:03.492636849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad txedmed ⟨את⟩ iqeṛṣen i Mickan: isekla n cittim, yebdan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqeṛṣen"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "iqeṛṣen"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "i Mickan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "isekla"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n cittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "yebdan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:39.591008109Z",
+  "model": "glm-5.3"
+}

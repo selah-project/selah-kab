@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "I win iḥekmen ccna; deg teqbaylit: ɣef umaẓlu n Yahwe, i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win iḥekmen ccna"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ɣef umaẓlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:42.574906089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Avraham yessaweḍ ⟨את⟩ afus-is, yewwi-d ⟨את⟩ lmess, iwakken ad iḥeccem ⟨את⟩ mmi-s.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yessaweḍ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmess"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "lmess"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ad iḥeccem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:01.376113329Z",
+  "model": "glm-5.3"
+}

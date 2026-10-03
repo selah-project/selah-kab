@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Anda yella wawal n ugellid, din yella ṣṣeḥt n uselḥu; anwa ara as-yinin: acu txedmeḍ?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ṣṣeḥt n uselḥu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ara as-yinin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txedmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:53.351214671Z",
+  "model": "glm-5.3"
+}

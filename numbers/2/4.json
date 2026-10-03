@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Serdas-is, d umḍan-nsen: kkuz d sebɛin n yifḍ d sett n tmerd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "serdas-is"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "d umḍan-nsen"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "kkuz"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "d sebɛin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yifḍ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "d sett"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n tmerd"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:41.194831027Z",
+  "model": "glm-5.3"
+}

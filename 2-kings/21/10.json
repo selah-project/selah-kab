@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 21:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yahwe yemmeslay deg ufus n yimeḍbaɛ-is, innaviyen, ad yini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus n"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yimeḍbaɛ-is"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "innaviyen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:51.231173073Z",
+  "model": "glm-5.3"
+}

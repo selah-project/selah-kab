@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ssuffɣen-d ⟨את⟩ Rivqa tit-sen, akk d ⟨את⟩ tayemmas-is, akk d ⟨את⟩ weɛebdi n Avraham, akk d ⟨את⟩ yirgazen-is.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ssuffɣen-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivqa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivqa"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "tit-sen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tayemmas-is"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "tayemmas-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "weɛebdi n Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "weɛebdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "n Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "yirgazen-is"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "yirgazen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:19:41.663101998Z",
+  "model": "glm-5.3"
+}

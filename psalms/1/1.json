@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tufra i wemdan: ur yeddi ara di twaṣyet n yibechchacen, ur ibeddi ara deg ubrid n wid idnebten, ur iqqim ara deg umkan n yimseeḥqaren.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Tufra"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "di twaṣyet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yibechchacen"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wid idnebten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ibeddi"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "yimseeḥqaren"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "iqqim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:47.255812222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Acku akka i d-yenna Adonai Yahwe: Miṣrayim i d-yekcem agdud-iw di tazwara, ad yizdeg diɣ; Assur d agellil i t-iḍeḍfen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "i d-yekcem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "di tazwara"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ad yizdeg diɣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diɣ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "d Assur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "d agellil"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "i t-iḍeḍfen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:10.216285099Z",
+  "model": "glm-5.3"
+}

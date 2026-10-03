@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Ul-iw iḥemmel deg ilalli-w, tugdiwin n tmemt ddrent fell-i.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "deg ilalli-w"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "tugdiwin n"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tmemt"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ddrent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:22.355841496Z",
+  "model": "glm-5.3"
+}

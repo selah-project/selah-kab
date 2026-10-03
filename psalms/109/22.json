@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Axaṭer nekki d amardan d umeḥlus, wul-iw yettwajreḥ deggi-i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "עני",
+      "gloss": "d amardan"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "d umeḥlus"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "wul-iw"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "yettwajreḥ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "deggi-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:54.778481962Z",
+  "model": "glm-5.3"
+}

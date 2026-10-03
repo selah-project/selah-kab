@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Γef waya, meslayet i warraw-nwen; warraw-nwen ad lemlen i warracen-nsen, warraw-nsen i wayeḍ n tusut.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Γef waya"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "i warraw-nwen"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "meslayet"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "warraw-nwen"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "i warracen-nsen"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "warraw-nsen"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "i wayeḍ n tusut"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:31.623218410Z",
+  "model": "glm-5.3"
+}

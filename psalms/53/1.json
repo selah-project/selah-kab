@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "I win yett-id-issenken ɣef Maḥalat, amaɛnen, i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yett-id-issenken"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Maḥalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "amaɛnen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:02.522048295Z",
+  "model": "glm-5.3"
+}

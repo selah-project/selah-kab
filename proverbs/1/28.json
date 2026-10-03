@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ass-nni ad iyi-ṣṣuɣlen, maca ur d-rriɣ ara; ad iyi-nnadin s tmacahṭ, maca ur iyi-ṭṭafen ara.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ass-nni"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "ad iyi-ṣṣuɣlen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur … ara"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "d-rriɣ"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "ad iyi-nnadin s tmacahṭ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur … ara"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "ṭṭafen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:41.761343001Z",
+  "model": "glm-5.3"
+}

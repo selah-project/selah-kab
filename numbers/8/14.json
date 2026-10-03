@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad tebḍuḍ ⟨את⟩ ilawiyen si gar warraw n Yisrael, ad ilin ⟨⟨d⟩ inyi⟩ ilawiyen.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "ad tebḍuḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilawiyen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilawiyen"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "si gar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "d inyi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilawiyen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:06:19.734544720Z",
+  "model": "glm-5.3"
+}

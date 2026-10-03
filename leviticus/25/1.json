@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yahwe yemmeslay ɣer Moce deg wedrar n Sinay, ad yini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "n Sinay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:07.169952634Z",
+  "model": "glm-5.3"
+}

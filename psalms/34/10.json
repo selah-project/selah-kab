@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "ẓellet ⟨את⟩ Yahwe, a iqedcen-is; acku ulac ayen i yettwaxuṣṣen wid t-iẓellten.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ẓellet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "a iqedcen-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ayen i yettwaxuṣṣen"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wid t-iẓellten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:14.980510106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ssemtlen iḍan, ad mmeslayeɣ; ad isel tmurt awalen n yiɣed-iw.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Ssemtlen iḍan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "iḍan"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ad mmeslayeɣ"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ad isel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n yiɣed-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:23.320995697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "ṭit deg umkan n ṭit, idi deg umkan n idi, afus deg umkan n afus, aḍar deg umkan n aḍar.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ṭit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ṭit"
+    },
+    {
+      "surface": "שן",
+      "gloss": "idi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "שן",
+      "gloss": "idi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "aḍar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "aḍar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:38.141768622Z",
+  "model": "glm-5.3"
+}

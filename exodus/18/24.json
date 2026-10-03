@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Moce yesla i taṛut n bab-is n tlawin, yexleq ayen akk i d-yenna.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yesla i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "taṛut n"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "bab-is n tlawin"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "d-yenna"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:00.857280807Z",
+  "model": "glm-5.3"
+}

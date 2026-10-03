@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Akk wid yettusemman s yisem-inu, i teqbiḥt-inu i ten-xleqɣ, i ten-ṣufeɣ, ula i ten-xdemɣ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "wid yettusemman"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "s yisem-inu"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "i teqbiḥt-inu"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "i ten-xleqɣ"
+    },
+    {
+      "surface": "יצצרתיו",
+      "gloss": "i ten-ṣufeɣ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ula"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "i ten-xdemɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:31.859016981Z",
+  "model": "glm-5.3"
+}

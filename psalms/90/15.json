@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Ssḥec-it-aɣ akken tḍellbeḍ-aɣ, akken yiseggwassen i nuẓa tamsalt.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Ssḥec-it-aɣ"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "akken"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "tḍellbeḍ-aɣ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "akken yiseggwassen"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nuẓa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tamsalt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:40.498922631Z",
+  "model": "glm-5.3"
+}

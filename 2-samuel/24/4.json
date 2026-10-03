@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Awal n ugellid iẓɛa ɣef Ywab d yiqerra n yiserdasen; yeffeɣ Ywab d yiqerra n yiserdasen sdat ugellid, ad ḥesben ⟨את⟩ ugdud, ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "iẓɛa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ywab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "yiqerra"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "n yiserdasen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Ywab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "d yiqerra"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "n yiserdasen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "ad ḥesben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:07.943949306Z",
+  "model": "glm-5.3"
+}

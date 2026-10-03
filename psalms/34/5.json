@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ssuqedɣ ⟨את⟩ Yahwe, yiwen-i-d, yessellek-it-id-i seg teɣzi n yal tugdiwin-iw.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ssuqedɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "yiwen-i-d"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "seg yal"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "tugdiwin-iw"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "yessellek-it-id-i"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:52.434141271Z",
+  "model": "glm-5.3"
+}

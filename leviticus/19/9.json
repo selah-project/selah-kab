@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Mi ara tkecṛem ⟨את⟩ kecṛ n tmurt-nnwen, ur tettkel ara iri n urti-k i tkecṛt, ur t-tleqqeḍ ara ayen i d-yeqqimen seg kecṛ-k.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Mi ara tkecṛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecṛ n tmurt-nnwen"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kecṛ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tmurt-nnwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "tettkel ara"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "iri"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "urti-k"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "i tkecṛt"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "d ayen i d-yeqqimen"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "seg kecṛ-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "tleqqeḍ ara"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:41.206286803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 23:27",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ad ḥebbseɣ ttḥerṣit-ik seg-m, ⟨את⟩ tazewwet-ik seg tmurt n Miṣrayim; ur tareḍ ara allanen-ik ɣer-sen, Miṣrayim ur t-ttiddeḍ ara ugar.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Ad ḥebbseɣ"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "ttḥerṣit-ik"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg-m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tazewwet-ik"
+    },
+    {
+      "surface": "זנותך",
+      "gloss": "tazewwet-ik"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשאי",
+      "gloss": "tareḍ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "allanen-ik"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣer-sen"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "t-ttiddeḍ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    }
+  ],
+  "timestamp": "2026-10-03T00:54:44.016473131Z",
+  "model": "glm-5.3"
+}

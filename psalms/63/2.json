@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Elohim, kečč ⟨d⟩ El-iw, zik ad k-nnadi; tessuṭṭuḍ-ak nefs-iw, iṭṭef-ak ucebbub deg waksum-iw, di tmurt ineẓḥen, tawɛeṛt, war aman.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "zik ad k-nnadi"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "tessuṭṭuḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ak"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "aksum-iw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ineẓḥen"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "tawɛeṛt"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "war"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:13.771210805Z",
+  "model": "glm-5.3"
+}

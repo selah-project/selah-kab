@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yiṣḥaq yessawel-d ɣer Yaɛqov, yebrek-it ⟨את⟩, yuḥem-it, yenna-yas: ur ttidreḍ ara tameṭṭut seg yellulan n Kenaɛan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel-d"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yebrek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "yuḥem-it"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ttidreḍ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "seg yellulan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaɛan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:23:50.160919489Z",
+  "model": "glm-5.3"
+}

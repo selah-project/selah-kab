@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Yuçuf yessuffɣ-iten ⟨את⟩ seg tegmar-is, yeknu i umaṭṭaf-is ar lqaɛa.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yessuffɣ-iten"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuçuf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iten (tarwa n Yuçuf)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "tegmar-is"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yeknu"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "i umaṭṭaf-is"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ar lqaɛa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:33:45.582636184Z",
+  "model": "glm-5.3"
+}

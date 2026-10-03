@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Ad yeddeq yils-iw ɣer tayyust n yimi-iw, ma ur k-ctiɣ ara, ma ur ssaliɣ ara ⟨את⟩ Yerucalayim ɣef iqeṛṛu n xemsa-iw.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Ad yeddeq"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "yils-iw"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ɣer tayyust n yimi-iw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "k-ctiɣ ara"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ssaliɣ ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqeṛṛu"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "n xemsa-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:33.384968718Z",
+  "model": "glm-5.3"
+}

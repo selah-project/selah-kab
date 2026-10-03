@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Gilɛad d win-iw, Gilɛad d inu, Menaše d inu; Efrayim d lǧehd n yixf-iw; Yehuda d aneḥkam-iw.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "d inu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "d inu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "lǧehd"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "n yixf-iw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "aneḥkam-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:44.516904273Z",
+  "model": "glm-5.3"
+}

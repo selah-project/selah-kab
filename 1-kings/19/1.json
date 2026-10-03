@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Aḥab yeddel i Izebel ⟨את⟩ akk ayen i xedmen Eliyahu, d ⟨את⟩ akk ayen i yenɣan ⟨את⟩ akk yinavya s lemsel.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yeddel"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "i Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "iyenɣan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk yinavya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "yinavya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "s lemsel"
+    }
+  ],
+  "timestamp": "2026-10-03T04:16:18.952956227Z",
+  "model": "glm-5.3"
+}

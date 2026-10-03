@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Arrac nnuɣen deg tgellust-is; tenna-d: ma yella akka, iɣac i wagi nekki? Teldj iwakken ad d-steqsi ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "nnuɣen"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "deg tgellust-is"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna-d"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "iɣac"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "teldj"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ad d-steqsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:19:37.261278940Z",
+  "model": "glm-5.3"
+}

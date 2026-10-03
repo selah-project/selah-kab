@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yecuɛa yessiwlid ⟨את⟩ Yoyaqim, Yoyaqim yessiwlid ⟨את⟩ Elyacib, Elyacib ⟨את⟩ Yoyadaɛ.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Yecuɛa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessiwlid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyaqim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyaqim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "Yoyaqim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessiwlid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyacib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyacib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "Elyacib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyadaɛ"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyadaɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:21:51.819356430Z",
+  "model": "glm-5.3"
+}

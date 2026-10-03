@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Ur as-ttakked ara cukkuḍ, arma yebnu, arma yexdem ⟨את⟩ Yerucalayim d tilemdest deg tmurt.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ttakked"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "cukkuḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "yebnu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tilemdest"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T00:09:14.774323211Z",
+  "model": "glm-5.3"
+}

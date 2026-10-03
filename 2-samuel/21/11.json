@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Xelḍen i David ⟨את⟩ wayen txeddem Riṣpa, yelli-s n Aya, taɛessiert n Cɛul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xelḍen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen txeddem Riṣpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "txeddem"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Riṣpa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "איה",
+      "gloss": "n Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "taɛessiert"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Cɛul"
+    }
+  ],
+  "timestamp": "2026-10-02T23:06:26.414811606Z",
+  "model": "glm-5.3"
+}

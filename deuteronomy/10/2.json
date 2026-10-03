@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad ruḥeγ ad aruγ ɣef yiferdisen ⟨את⟩ awalen i yellan ɣef yiferdisen imezwura, wid i t-terẓiḍ; tzemreḍ ad ten-terreḍ deg tabut.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ad aruγ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "yiferdisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "yiferdisen"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "imezwura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid i"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "t-terẓiḍ"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "tzemreḍ ad ten-terreḍ"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "deg tabut"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:06.716572934Z",
+  "model": "glm-5.3"
+}

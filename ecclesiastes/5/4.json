@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yelha ma ⟨ur⟩ tnudeḍ ⟨ara⟩ lɛahd, ɣef ma tnudeḍ-t ur t-selmeḍ ⟨ara⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yelha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "tnudeḍ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ɣef ma tnudeḍ-t"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "tselmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:50.777253365Z",
+  "model": "glm-5.3"
+}

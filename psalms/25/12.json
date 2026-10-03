@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Anwa d argaz-nni i yezuggen Yahwe? Ad t-ixelqen deg ubrid ara yefren.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "d"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "argaz-nni"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i yezuggen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ad t-ixelqen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ara yefren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:19.511930252Z",
+  "model": "glm-5.3"
+}

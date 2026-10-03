@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad iwali akohen ⟨את⟩ netta, w tameɣra: ma d tawwukt n wegṭebbib tamellayt tezweɣt i țellan deg teqerṛant-is neɣ deg ugiban-is, am talɣa n ṣaraɛat deg uglim n waksum.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "netta (amdan n usan)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "w tameɣra"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "tawwukt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "n wegṭebbib"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "tamellayt"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "tezweɣt"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "deg teqerṛant-is"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "deg ugiban-is"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "am talɣa n"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ṣaraɛat"
+    },
+    {
+      "surface": "עור",
+      "gloss": "n uglim"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "n waksum"
+    }
+  ],
+  "timestamp": "2026-10-02T21:08:54.421067431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ixf n wawal-ik ⟨d⟩ tidet, i lebda ⟨ad yeqqim⟩ yal aḥkam n ṣedeq-ik.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ixf"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wawal-ik"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tidet"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "aḥkam"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ṣedeq-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:40.085842346Z",
+  "model": "glm-5.3"
+}

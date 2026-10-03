@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 22:11",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Argaz yexdem taqessict ⟨את⟩ tmeṭṭut n umeḥbub-is; argaz iɛekkem ⟨את⟩ tameṭṭut n mmi-s s ttma; argaz yedwez ⟨את⟩ ult-is, yelli-s n baba-s, deg kem.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmeṭṭut n umeḥbub-is"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n umeḥbub-is"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "taqessict"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameṭṭut n mmi-s"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "tameṭṭut n mmi-s"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "iɛekkem"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "s ttma"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ult-is"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ult-is"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "yedwez"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg kem"
+    }
+  ],
+  "timestamp": "2026-10-03T04:27:33.745501849Z",
+  "model": "glm-5.3"
+}

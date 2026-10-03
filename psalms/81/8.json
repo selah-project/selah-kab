@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Deg lwehna tsutreḍ, ḥelseɣ-ak; ssutreɣ-ak deg ussumer n ṛṛeɛd; ḥewwleɣ-ak ɣef yisafen n Meriba. Ṣela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "deg lwehna"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tsutreḍ"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ḥelseɣ-ak"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ssutreɣ-ak"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg ussumer"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ṛṛeɛd"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ḥewwleɣ-ak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yisafen"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Ṣela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:11.080237679Z",
+  "model": "glm-5.3"
+}

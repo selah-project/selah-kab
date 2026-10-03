@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "S lexla ḍebbeɣ ⟨את⟩ arraw-nwen; nnubaṛ ur ṭṭfen ara; timseɛdin-nwen tessuɣ naviyen-nwen, am izem aneggra.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "S lexla"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ḍebbeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-nwen"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "arraw-nwen"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "nnubaṛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "tessuɣ"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "timseɛdin-nwen"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "naviyen-nwen"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "am izem"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "aneggra"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:49.533670849Z",
+  "model": "glm-5.3"
+}

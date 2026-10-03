@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Iḍlen-d agellid amaynut ɣef Miṣrayim, win ur neẓri ara ⟨את⟩ Yusef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Iḍlen-d"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "amaynut"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "neẓri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:32.673248686Z",
+  "model": "glm-5.3"
+}

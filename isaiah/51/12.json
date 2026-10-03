@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Nekk, nekk d Nettat i k-iseḍfen; anwa-ttid kečči, i tettuγgadeḍ amdan ara yemmet, neγ umdan i yettunefken am ttuga?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d Nettat"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "i k-iseḍfen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa-ttid"
+    },
+    {
+      "surface": "את",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "tettuγgadeḍ"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ara yemmet"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "neγ umdan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "am ttuga"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "i yettunefken"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:19.827371786Z",
+  "model": "glm-5.3"
+}

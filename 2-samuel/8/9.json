@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Mi yella Toki, agellid n Ḥamat, yussin belli David yeṭṭef ⟨את⟩ akk iserdas n Ḥedadɛezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yussin"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ḥamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iserdas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "iserdas"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Ḥedadɛezer"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:16.063081584Z",
+  "model": "glm-5.3"
+}

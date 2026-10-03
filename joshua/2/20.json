@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ma d keččini, ma teqqleḍ ⟨את⟩ awal-nneɣ agi, ad nili d wid ur neḥkma ara seg tuɣḍert-ik, ay ijiḍev imir-nneɣ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma d keččini, ma"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "teqqleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal-nneɣ agi"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "awal-nneɣ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ad nili"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "d wid ur neḥkma ara"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "seg tuɣḍert-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ijiḍev imir-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:11:29.502422971Z",
+  "model": "glm-5.3"
+}

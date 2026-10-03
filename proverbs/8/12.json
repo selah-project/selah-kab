@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Nekk, taḥkemt, zdeɣɣ akked tmeḥla, tussna akked tmcuḍa ad ttceggireɣ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "taḥkemt"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "zdeɣɣ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "akked tmeḥla"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "tussna"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "akked tmcuḍa"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ad ttceggireɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:18:39.620117313Z",
+  "model": "glm-5.3"
+}

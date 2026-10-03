@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad ten-tḥecmeḍ, ḥecmen, ⟨את⟩ izedɣen n temdint-nni s tiɣmert n wesileḥ; ad tt-ḥerrmeḍ ⟨את⟩ tamdint-nni akk d ⟨את⟩ ayen akk yellan deg-s, ula ⟨את⟩ lmal-nnes, s tiɣmert n wesileḥ.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Ad tḥecmeḍ"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "ḥecmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izedɣen n temdint-nni"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "izedɣen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s tiɣmert"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n wesileḥ"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ad tt-ḥerrmeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tamdint-nni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lmal-nnes"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "lmal-nnes"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s tiɣmert"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n wesileḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:56:08.082598466Z",
+  "model": "glm-5.3"
+}

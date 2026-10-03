@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Ẓufen, yessider yal yiwen ⟨את⟩ tamdeyt-is ɣer lqaεa; yeldi yal yiwen tamdeyt-is.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ẓufen"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "yessider"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamdeyt-is"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "tamdeyt-is"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ɣer lqaεa"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "tamdeyt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:14.338271906Z",
+  "model": "glm-5.3"
+}

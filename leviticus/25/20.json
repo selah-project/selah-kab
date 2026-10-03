@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ma d-neţţan a d-tiniḍem: Acu ara nectar deg useggas wis sebaɛ? Walayni, ur nesɛu ara ad nezzuɛ, ur nettwali ara ⟨את⟩ lexlaṣ-nneɣ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma d-neţţan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "a d-tiniḍem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ara nectar"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wis sebaɛ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "walayni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "ad nezzuɛ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akk d ur…ara"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "nettwali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lexlaṣ-nneɣ"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "lexlaṣ-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:18:22.410871047Z",
+  "model": "glm-5.3"
+}

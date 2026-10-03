@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ṣedeq n win ilmend ad isseɣ ⟨the⟩ abrid-is; ma d deg tuccḍa-s, araṣiɛ ad yekker.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "n win ilmend"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "ad isseɣ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "abrid-is"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "ma d deg tuccḍa-s"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ad yekker"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "araṣiɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:27.217641760Z",
+  "model": "glm-5.3"
+}

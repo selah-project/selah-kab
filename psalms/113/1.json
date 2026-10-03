@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 113,
+  "translation": "Snat-asen i Yah; snat-asen, a yimdakken n Yahwe; snat-asen ⟨את⟩ isem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "snat-asen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "snat-asen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a yimdakken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "snat-asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem n Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:31.268139469Z",
+  "model": "glm-5.3"
+}

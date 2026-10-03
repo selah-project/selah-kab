@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tenna: Ad tettunefk ⟨את⟩ Avicag tacunit i Adoniyahu, gma-k, d tameṭṭut.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Tenna"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ad tettunefk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avicag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avicag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "tacunit"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "i Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d tameṭṭut"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:17.840218189Z",
+  "model": "glm-5.3"
+}

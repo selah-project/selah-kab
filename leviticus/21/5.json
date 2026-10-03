@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ur ad sɛun ara taberrit deg ixf-nsen, ddan n tamart-nsen ur t-tteɣleccen ara, deg yiɣsan-nsen ur kecrcimen ara tijerṛumin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "ad sɛun"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "taberrit"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "deg ixf-nsen"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ddan n"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "tamart-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "tteɣleccen"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "deg yiɣsan-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "kecrcimen"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "tijerṛumin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:08.359053303Z",
+  "model": "glm-5.3"
+}

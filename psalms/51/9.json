@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Segguji-yi s ijeẓẓan, ad iḥemmel; ssentl-iḍ-iyi, adliɣ d amellal am weccen.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "Segguji-yi"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "s ijeẓẓan"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "ad iḥemmel"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "ssentl-iḍ-iyi"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "am weccen"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "adliɣ d amellal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:19.057030865Z",
+  "model": "glm-5.3"
+}

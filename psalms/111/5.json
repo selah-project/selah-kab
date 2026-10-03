@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Teɣmirt i d-yefka i wid i T-ikellfen; ad yicfu i lebda ɣef lɛahd-Is.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "teɣmirt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i d-yefka"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "i wid i T-ikellfen"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ad yicfu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ɣef lɛahd-Is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:07.356736942Z",
+  "model": "glm-5.3"
+}

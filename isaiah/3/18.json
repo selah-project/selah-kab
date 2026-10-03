@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Deg wass-nni, Adonai ad yekkes ⟨את⟩ ccǯuḥ n yirɣaẓen, d yiqecwalen, d yimyazaren ɣef ubleɣ n yilyum.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ad yekkes"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ccǯuḥ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ccǯuḥ"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "n yirɣaẓen"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "d yiqecwalen"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "d yimyazaren ɣef ubleɣ n yilyum"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:26.643757285Z",
+  "model": "glm-5.3"
+}

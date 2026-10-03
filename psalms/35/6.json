@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad yili unyir-nsen d tikwalit d tqelqalt, amceggeɛ n Yahwe ad ten-yeḍfer.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "unyir-nsen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tikwalit"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "tqelqalt"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "amceggeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ad ten-yeḍfer"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:39.088779948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "⟨את⟩ atawel, d ⟨את⟩ yiɣbaben-is, d ⟨את⟩ akk ifeckalen-is, d ⟨את⟩ aɣrum n udmawen (leḥem hapanim).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atawel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "atawel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yiɣbaben-is"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "yiɣbaben-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk ifeckalen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ifeccalen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aɣrum n udmawen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "n udmawen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:37.463054296Z",
+  "model": "glm-5.3"
+}

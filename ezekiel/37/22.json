@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 37:22",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ad ten-rnuɣ ⟨את⟩ d yiwen n ugdud deg tmurt, deg idurar n Yisrael; yiwen n ugellid ad yili d agellid i ten-id akk; ur d-yettawal ara wawal sin n yigduden, ur ḍḍlen ara d sin n tgeldiwin tikelt-nniḍen.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Ad ten-rnuɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "d ugdud"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "deg idurar n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "i ten-id akk"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "sin n"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "yigduden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "ḍḍlen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "d sin n"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tgeldiwin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:04:00.452262548Z",
+  "model": "glm-5.3"
+}

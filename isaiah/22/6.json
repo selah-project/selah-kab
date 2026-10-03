@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Elam yeṭṭef teqdecut n yisfan, deg irakkben n yimdanen, d yiferriyen; Kir issuffeɣ-d ⟨the⟩ aẓruy.",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "teqdecut n yisfan"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "deg irakkben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yimdanen"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "iferriyen"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "issuffeɣ-d"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "aẓruy"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:55.277407691Z",
+  "model": "glm-5.3"
+}

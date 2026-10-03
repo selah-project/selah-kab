@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ad k-sseģlayeģ aṭas ṭṭaf, ad k-errģ d iģlanen, igelliden seg kečč ad d-kksen.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "ad k-sseģlayeģ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-ik",
+      "marks": "kečč"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ṭṭaf"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ad k-errģ"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "d iģlanen"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg kečč"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ad d-kksen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:16:08.695849474Z",
+  "model": "glm-5.3"
+}

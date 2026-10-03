@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Ṣedeq ad yeddu deg zdat-is, ad yerr iceḍḍaɛ-is d abrid.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ṣedeq"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "deg zdat-is"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "d abrid"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "iceḍḍaɛ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:13.935857112Z",
+  "model": "glm-5.3"
+}

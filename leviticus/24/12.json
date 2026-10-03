@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "ḥebsen-t deg yiḥbsiyen, iwakken ad asen-d-mmlen ayen i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "ḥebsen-t"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "deg yiḥbsiyen"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "ad asen-d-mmlen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:15.773146831Z",
+  "model": "glm-5.3"
+}

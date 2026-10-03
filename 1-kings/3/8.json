@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Aqeddac-ik di tlemmast n uɣdud-ik i tferneḍ: aɣdud meqqren, i ur yettwaḥsab ara, ur yettusiɣel ara seg waṭas.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "aqeddac-ik"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tlemmast n"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uɣdud-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "tferneḍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aɣdud"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "yettwaḥsab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neɣ ur"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "yettusiɣel"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "seg waṭas"
+    }
+  ],
+  "timestamp": "2026-10-02T23:11:08.174050434Z",
+  "model": "glm-5.3"
+}

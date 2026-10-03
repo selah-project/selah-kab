@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Ɣef ugdud-ik iḥekmen tiḥawit, smenyifen ɣef wid i t-teffreḍ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "iḥekmen"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "tiḥawit"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "smenyifen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "wid i t-teffreḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:49.017836133Z",
+  "model": "glm-5.3"
+}

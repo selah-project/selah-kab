@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Acku am lebda tiferkit ad tt-teṭṭef, d am sṣuf tasist ad ten-teṭṭef; maca ṣedeq-iw ad yili i lebda, d tusmart-iw i yimedlen imeḍlen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "am lebda"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ad ten-yeṭṭef"
+    },
+    {
+      "surface": "עש",
+      "gloss": "tiferkit"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "d am sṣuf"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "ad ten-yeṭṭef"
+    },
+    {
+      "surface": "סס",
+      "gloss": "tasist"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ṣedeq-iw"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "d tusmart-iw"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "i yimedlen"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "imeḍlen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:23:26.427597235Z",
+  "model": "glm-5.3"
+}

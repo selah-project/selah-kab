@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Ma yella ⟨הוא⟩ ɣef ⟨the⟩ ferruji, neɣ ɣef ⟨the⟩ lḥeti anida ⟨היא⟩ tetettez deg-s, mi t-id-yerrez ⟨בו⟩, ad yili d araggi almi d tameddalt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma yella"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "ferruji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨הוא⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "lḥeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨היא⟩"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "tetettez"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "mi t-id-yerrez"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨בו⟩"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ad yili d araggi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tameddalt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:03:23.110076648Z",
+  "model": "glm-5.3"
+}

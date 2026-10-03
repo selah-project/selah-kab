@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ad sidren iqeḍṣen n temdint-nni ⟨את⟩ tafunast taleyyalt ɣer wasif iḥerkan i ur yettwaxeḍmen deɣs, urk yettwazreɛ; ad rẓen din ⟨את⟩ tafunast taleyyalt deg wasif.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "Ad sidren"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "iqeḍṣen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafunast taleyyalt"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "tafunast taleyyalt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asif"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "iḥerkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "yettwaxeḍmen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deɣs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "urk"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "yettwazreɛ"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "ad rẓen urɣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafunast taleyyalt"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "tafunast taleyyalt"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "deg wasif"
+    }
+  ],
+  "timestamp": "2026-10-02T22:00:51.537755242Z",
+  "model": "glm-5.3"
+}

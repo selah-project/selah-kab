@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ttarran-tent id tullas i yeckcuren, qqiment-d anect-a: Syaɔul yeḍṛeb igimmen, ma d David, deg yimrawen-is.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "ttarran-tent id"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "tullas"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "i yeckcuren"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "qqiment-d"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "yeḍṛeb"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaɔul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "igimmen"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ma d David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "deg yimrawen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:45:41.473501955Z",
+  "model": "glm-5.3"
+}

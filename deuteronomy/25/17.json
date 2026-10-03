@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Cfu ⟨את⟩ ayen i d-yexleq Amaleq i kečč, deg ubrid, deg umi d-tuffɣem seg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Cfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i d-yexleq Amaleq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-yexleq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "deg umi d-tuffɣem"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:47.004797742Z",
+  "model": "glm-5.3"
+}

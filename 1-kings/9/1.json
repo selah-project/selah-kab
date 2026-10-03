@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yella-d lxiber mi tfuk Cicelonoma lexedma n wexxam n Yahwe, d wexxam n ugellid, d ⟨את⟩ wayen akk i ḥemmel Cicelonoma iwumi yeḥmel ad ixedem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d lxiber"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "mi tfuk"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cicelonoma"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "lexedma n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam n ugellid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wayen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wayen akk"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "i ḥemmel"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cicelonoma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwumi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yeḥmel"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad ixedem"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:40.215360476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ma ulac aɣilif tella deg-s ulac tayemmat, ad ttunefken ⟨את⟩ lɛahd-is i watmaten-is.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma ulac aɣilif"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tayemmat"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ad ttunefken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-is"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "i watmaten-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:40:43.009294756Z",
+  "model": "glm-5.3"
+}

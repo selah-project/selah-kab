@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ad teḥkem ⟨את⟩ axxam n Aḥab, bab-ik; ad d-ṛğeɣ idammen n yimdannen-iw, inavyen, akken daɣen idammen n yal amdakkel n Yahwe, seg ufus n Izebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "ad teḥkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Aḥab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "n Aḥab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bab-ik"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "ad d-ṛğeɣ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "n yimdannen-iw"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "inavyen"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "akken daɣen idammen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "amdakkel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "n Izebel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:08.905989286Z",
+  "model": "glm-5.3"
+}

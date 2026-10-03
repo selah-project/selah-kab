@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Tamurt n yirden d yicerkan, n teẓrawin d yinjer d errumman; tamurt n zzit uzemmur d wesali.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "n yirden"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "d yicerkan"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "n teẓrawin"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "d yinjer"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "d errumman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "זית",
+      "gloss": "n uzemmur"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzit"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "d wesali"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:47.368020303Z",
+  "model": "glm-5.3"
+}

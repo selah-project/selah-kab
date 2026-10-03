@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Ffɣen-as deg-s asefru n teqelet, ad s-rran ɣef teccenfectt afellay, akken i d-yenna Yahwe i ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ffɣen-as"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "asefru"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "n teqelet"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad s-rran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "teccenfectt"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "afellay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:07.240886649Z",
+  "model": "glm-5.3"
+}

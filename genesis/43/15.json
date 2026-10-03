@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Yessan {irgazen} ⟨את⟩ tinucaa-nni tessnaḍt, snat tikkal n ilef ṭṭfen deg ifassen-nsen, d ⟨את⟩ Binjamin; leeren, dderɣen ɣer Miṣrayim, weḍlen qbel Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinucaa-nni"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tinucaa-nni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tessnaḍt"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "snat tikkal"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ilef"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "deg ifassen-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "leeren"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "dderɣen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "weḍlen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:54.281307578Z",
+  "model": "glm-5.3"
+}

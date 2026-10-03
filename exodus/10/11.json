@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mačči akka; ruh-et tura a yirgazen, u ad tkenem i Yahwe ⟨את⟩, axaṭer ⟨את⟩ kunwi i tettnadim; yessuffɣ-iten-id ⟨את⟩ seg zdat n udmawen n Paro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ruh-et"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "a yirgazen"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "u ad tkenem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "tettnadim"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "yessuffɣ-iten-id"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wid-nni (Moce d Aharon)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:38.532262579Z",
+  "model": "glm-5.3"
+}

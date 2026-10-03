@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Moce inna i xettan-is: Acku ugdud ad d-yas ɣur-i ad issteqsi Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "i xettan-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ad d-yas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ad issteqsi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:17.426119582Z",
+  "model": "glm-5.3"
+}

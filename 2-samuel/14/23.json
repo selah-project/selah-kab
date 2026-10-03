@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Inna Yoab, immed, yuɣal ɣer Gechur, d-ewwi-d ⟨את⟩ Abcalom ɣer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "immed"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yuɣal ɣer"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Gechur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "d-ewwi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abcalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abcalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:01:52.466571512Z",
+  "model": "glm-5.3"
+}

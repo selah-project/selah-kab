@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Inna-yi-d lmelk n Elohim deg ulmi: Yaɛqov! Nniɣ: Dagi-a lliɣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inna-yi-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "-yi-d"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "lmelk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "deg ulmi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Dagi-a lliɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:32.483658043Z",
+  "model": "glm-5.3"
+}

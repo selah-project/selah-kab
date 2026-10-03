@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ikker-d meṛṛa weɣres n tzmert, ddan yal iḍ, neṭṭfen ⟨את⟩ tfekka n Caul d ⟨את⟩ tfekka n warraw-is seg yiri n Bet-Sean, ruḥen ɣer Yavec, ḥerqen-ten ⟨אתם⟩ dinna.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Ikker-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "weɣres"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "n tzmert"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ddan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "neṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tfekka n Caul"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "tfekka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Caul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tfekka n warraw-is"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "tfekka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n warraw-is"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "seg yiri n"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Sean"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ruḥen ɣer"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Yavec"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ḥerqen-ten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    }
+  ],
+  "timestamp": "2026-10-02T22:54:19.407250058Z",
+  "model": "glm-5.3"
+}

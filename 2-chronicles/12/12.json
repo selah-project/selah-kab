@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Mi yerzel ⟨iman-is⟩, yerred seg-s tiḥri n Yahwe, iwakken ur yexreɛ ara i lekemmel; daɣen deg Yehuda llan tiɣawsiwin iwatan.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "mi yerzel iman-is"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yerred"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tiḥri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "iwakken ur … ara"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "yexreɛ"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "i lekemmel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yehuda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "llan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "tiɣawsiwin"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "iwatan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:43:49.363676980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ma yekcem s yiman-is, ad yeffeɣ s yiman-is; ma yella bab n tmeṭṭut, tameṭṭut-is ad teffeɣ yid-s.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "s yiman-is"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "s yiman-is"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bab"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "n tmeṭṭut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ad teffeɣ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tameṭṭut-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:03.930695824Z",
+  "model": "glm-5.3"
+}

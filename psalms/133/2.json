@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 133,
+  "translation": "Am tezzit tamelḥant i yettkadayen ɣef yixef, tettarra-d ɣef teḥrart, teḥrart n Aharon, i yettkadayen ɣef yimi n yilmen-is.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Am tezzit"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tamelḥant"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "yixef"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "i yettkadayen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "teḥrart"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "teḥrart"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "i yettkadayen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פי",
+      "gloss": "yimi"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "n yilmen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:57.553658568Z",
+  "model": "glm-5.3"
+}

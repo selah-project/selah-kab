@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur yelli ara win ittezwal neɣ taẓayert di tmurt-ik; ⟨את⟩ amḍan n wussan-ik ad t-cemdeɣ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "win ittezwal"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "taẓayert"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di tmurt-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amḍan n wussan-ik"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "amḍan"
+    },
+    {
+      "surface": "יומיך",
+      "gloss": "n wussan-ik"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ad t-cemdeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:36.054615770Z",
+  "model": "glm-5.3"
+}

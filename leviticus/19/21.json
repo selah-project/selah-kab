@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad yewwi ⟨את⟩ aɛzem-is i Yahwe, ɣer tuqqwa n uxam n timlilit: izir n aɛzem.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ad yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aɛzem-is"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "aɛzem-is"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tuqqwa n"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "timlilit"
+    },
+    {
+      "surface": "איל",
+      "gloss": "izir"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "aɛzem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:42.254878226Z",
+  "model": "glm-5.3"
+}

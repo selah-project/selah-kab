@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yewwi ⟨את⟩ iqedcen n baba-s d ayen iqedcen neḥ, ɣer beit Yahwe — iṛebban d wureɣ d yimengoẓen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "d ayen iqedcen neḥ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iṛebban"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "d wureɣ"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "d yimengoẓen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:21:06.652024181Z",
+  "model": "glm-5.3"
+}

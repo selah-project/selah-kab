@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad yessuq axxam-iw am izem, ad t-iqerɛen, ulac win ara t-iselleken.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ad yessuq"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "am izem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "axxam-iw"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ad t-iqerɛen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "win ara t-iselleken"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:57.890977289Z",
+  "model": "glm-5.3"
+}

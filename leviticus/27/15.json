@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ma win yettqedcen yebɣa ad iḥelleṣ ⟨את⟩ axxam-is, ad yernu tummant n ufes ɣef uzal-ik, ad yili d tidet-is.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "win yettqedcen"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ad iḥelleṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam-is"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "axxam-is"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "tummant"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ufes"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "uzal-ik"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "d tidet-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:32.121668384Z",
+  "model": "glm-5.3"
+}

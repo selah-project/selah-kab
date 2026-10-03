@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Mikal t-id-yesseṣli ⟨את⟩ David seg tagunt; yedda, yerwel, yerna inḥer.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "t-id-yesseṣli"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "tagunt"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "yerwel"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "inḥer"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:28.504815902Z",
+  "model": "glm-5.3"
+}

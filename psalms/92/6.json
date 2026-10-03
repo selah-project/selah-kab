@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Acu meqqren leɛmal-ik, a Yahwe! Meẓẓiyen s waṭas yiḥulfan-ik, ṛuḥen ucker.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "leɛmal-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ṛuḥen ucker"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "yiḥulfan-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:56.966067104Z",
+  "model": "glm-5.3"
+}

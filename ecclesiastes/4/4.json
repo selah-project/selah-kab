@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ẓerɣ nekk ⟨את⟩ akk tikkest d ⟨את⟩ akk taggara n lxedma: axaṭer d tiziri n wemdan ɣef umeḥbun-is; daɣen wagi d taneyt d usterḍi n ruaḥ.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ẓerɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tikkest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "n lxedma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "tiziri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ɣef umeḥbun-is"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "taneyt"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "d usterḍi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:50.750958637Z",
+  "model": "glm-5.3"
+}

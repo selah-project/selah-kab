@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Neqli d Yahwe, neqli i k-i d-yessawlen s ṣedeq, ad d-ṭṭefɣ ⟨את⟩ afus-ik, ad k-ḥarzeɣ, ad k-mudd d lɛahd n wegduḍ, d tafat i leǧnas.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Neqli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "neqli i k-i d-yessawlen"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "s ṣedeq"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "ad d-ṭṭefɣ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "ad k-ḥarzeɣ"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ad k-mudd"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "d lɛahd"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n wegduḍ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "d tafat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "i leǧnas"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:36.249444559Z",
+  "model": "glm-5.3"
+}

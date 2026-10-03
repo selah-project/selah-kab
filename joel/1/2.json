@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Selltet ay imɣaren, deg waya; ɛacent wallen, a yal win izdeɣen deg tmurt. Tagi, tella deg wussan-nwen, neɣ deg wussan n yimawlan-nwen?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Selltet"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "deg waya"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ay imɣaren"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ɛacent wallen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayal win"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "izdeɣen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "tella-t"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "deg wussan-nwen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "n yimawlan-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:31.623063350Z",
+  "model": "glm-5.3"
+}

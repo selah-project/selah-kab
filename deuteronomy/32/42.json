@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ad ssukren tiverratin-iw s idem, yerna seif-iw ad teṭṭeṭ leḥm, s idem n wid yettwanɣen d wid yettwaṭṭfen, si tixerfin n uɛdaw.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "ad ssukren"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "tiverratin-iw"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "s idem"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "seif-iw"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ad teṭṭeṭ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "leḥm"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "s idem"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wid yettwanɣen"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "wid yettwaṭṭfen"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "si tixerfin"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "tixerfin"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n uɛdaw"
+    }
+  ],
+  "timestamp": "2026-10-02T22:07:45.094607495Z",
+  "model": "glm-5.3"
+}

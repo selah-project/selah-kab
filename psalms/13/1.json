@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "I umensay. Mizmor i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i umensay"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:14.626052465Z",
+  "model": "glm-5.3"
+}

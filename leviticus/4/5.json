@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad yeṭṭef acoen win yettwadehnen seg idammen n uzger, ad t-id-igellel ⟨אתו⟩ ɣer Axam n Mued.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "acoen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "win yettwadehnen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "seg idammen"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "n uzger"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ad t-id-igellel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "idammen (t)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Axam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n Mued"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:11.535379806Z",
+  "model": "glm-5.3"
+}

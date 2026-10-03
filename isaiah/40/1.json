@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "ṭṭef tikli, ṭṭef tikli i yiman n ugdud-iw, ad yenna Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "ṭṭef tikli"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "ṭṭef tikli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "i yiman n ugdud-iw"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:44.669476019Z",
+  "model": "glm-5.3"
+}

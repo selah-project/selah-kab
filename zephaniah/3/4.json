@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ineviyen-is d irgazen ur nedhlen, d irgazen n lxeynat; ikohanim-is rẓen iqedcen, ṭṭfen Tora s temsalt.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "ineviyen-is"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "ur nedhlen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen n"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "lxeynat"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "ikohanim-is"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "rẓen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ṭṭfen s temsalt"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    }
+  ],
+  "timestamp": "2026-10-03T01:32:17.101871365Z",
+  "model": "glm-5.3"
+}

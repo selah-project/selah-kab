@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yexṣeṛ ⟨את⟩ imeẓbeḥen d ⟨את⟩ lAcerim, ipesilen yeḥmec-ten d aẓɣar, icammanen akk yeqteɛ deg tmurt akk n Yisrael, yerra-d ɣer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "yexṣeṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeẓbeḥen"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "imeẓbeḥen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "lAcerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "lAcerim"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "ipesilen"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "yeḥmec"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "d aẓɣar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "icammanen"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "yeqteɛ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg tmurt akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ɣer Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:57:09.753699142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Avcalom yenna: Ma yella mačči, war-a ad yedu ⟨את⟩ ɣuḍ-nneɣ Amnun, gma. Ugellid yenna-yas: Acimi i yedu d kečč?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma yella mačči"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ad yedu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "war-a"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ɣuḍ-nneɣ",
+      "marks": "Amnun gma"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnun"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acimi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "i yedu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "d kečč"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:30.313721976Z",
+  "model": "glm-5.3"
+}

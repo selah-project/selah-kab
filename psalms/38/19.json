@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Axaṭer ad d-mlaɣ tucḍa-inu, ad xeddeɣ iman-iw ɣef tuccḍa-inu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "tucḍa-inu"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ad d-mlaɣ"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ad xeddeɣ iman-iw"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ɣef tuccḍa-inu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:41.949496440Z",
+  "model": "glm-5.3"
+}

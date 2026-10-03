@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 48:20",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Akk terumt: semmus d temrin igimmen, s semmus d temrin igimmen — d rerbeɛ ad t-terreɛm ⟨את⟩ terumt n iqedcen, ar tama n tinirt n temdint.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terumt"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "d temrin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igimmen"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "s semmus"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "d temrin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "igimmen"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "rerbeɛ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ad t-terreɛm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumt n iqedcen"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumt"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n iqedcen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar tama n"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "tinirt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    }
+  ],
+  "timestamp": "2026-10-03T04:29:37.140482022Z",
+  "model": "glm-5.3"
+}

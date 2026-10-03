@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Berrket Yahwe, inazen-is, wid iɛedlen tazmert, wid ixedmen awal-is, iwakken ad sllen i ṣut n wawal-is.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Berrket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "inazen-is"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "wid iɛedlen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wid ixedmen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "awal-is"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "iwakken ad sllen"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i ṣut"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "n wawal-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:03.005260377Z",
+  "model": "glm-5.3"
+}

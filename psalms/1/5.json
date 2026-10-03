@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ɣef waya, ur ad qqimen ara yimeẓlan deg ucceɛkran, wid ibekkaven daɣen ur ad llin ara deg temsalt n wid n ṣedeq.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ad qqimen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yimeẓlan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "deg ucceɛkran"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "wid ibekkaven daɣen"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "deg temsalt"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wid n ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:49.094265386Z",
+  "model": "glm-5.3"
+}

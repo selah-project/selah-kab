@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad takseḍ tidet i Yaɛqov, ḥesed i Avraham, amzun i tneggreḍ i yimawlan-nneɣ seg wussan iqbuṛen.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Ad takseḍ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tidet"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "i Yaɛqov"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amzun"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "i tneggreḓ"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "i yimawlan-nneɣ"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "seg wussan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "iqbuṛen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:28:42.356103237Z",
+  "model": "glm-5.3"
+}

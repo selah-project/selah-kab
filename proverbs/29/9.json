@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Amḍan yeffesen ad iḥekkem ⟨את⟩ amḍan ahërri; ad izweɣ neɣ ad iḥtu — ulac ttṛan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "amḍan"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yeffesen"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ad iḥekkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amḍan ahërri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amḍan"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ahërri"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ad izweɣ"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ad iḥtu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ttṛan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:28:25.635576740Z",
+  "model": "glm-5.3"
+}

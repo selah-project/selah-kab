@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Timessit-nsen ⟨tettban⟩ am timessit n yiserɣen, am takant tarregdelt i temdel ⟨⟨את⟩⟩ ammas-is.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "timessit"
+    },
+    {
+      "surface": "למו",
+      "gloss": "-nsen"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "am"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "timessit"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "iserɣ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "takant"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tarregdelt"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "temdel"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ammas-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:36.819182036Z",
+  "model": "glm-5.3"
+}

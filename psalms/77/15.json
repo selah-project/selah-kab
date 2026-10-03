@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Keccini i d ⟨El⟩, win ixedmen leɛǧeb; tessakteḍ-d tezmert-ik ɣer yegduden.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Keccini"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨El⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixedmen"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "leɛǧeb"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "tessakteḍ-d"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ɣer yegduden"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tezmert-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:03.446093658Z",
+  "model": "glm-5.3"
+}

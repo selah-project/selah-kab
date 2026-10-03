@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Nnan: «Yah ur ittwali ara, ur d-iṣeḥḥa ara Elohim n Yaɛqov.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ittwali ara"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "iḥawel ara"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:25.629038085Z",
+  "model": "glm-5.3"
+}

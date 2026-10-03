@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Deg yiwezžen n ⟨את⟩ Tabut ad qiment ibarriyen; ur ttwakkensen ara seg-s.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "deg yiwezžen"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ibarriyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ttwakkensen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:28.735308136Z",
+  "model": "glm-5.3"
+}

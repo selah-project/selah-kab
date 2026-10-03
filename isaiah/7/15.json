@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Isekker d tzzit ad yecc, iwakken ad yissin ad yekkes ⟨dir⟩ akken ad yefren lxiṛ.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "isekker"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "d tzzit"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad yecc"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "iwakken ad yissin"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "ad yekkes"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "ad yefren"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "lxiṛ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:25.996132388Z",
+  "model": "glm-5.3"
+}

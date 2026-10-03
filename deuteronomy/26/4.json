@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad yeṭṭef uxellus ⟨ti⟩ tuni seg ufus-ik, ad t-yerr zdat imeẓla n Yahwe Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "uxellus"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "tuni"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "seg ufus-ik"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "ad t-yerr"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "imeẓla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:20.561925941Z",
+  "model": "glm-5.3"
+}

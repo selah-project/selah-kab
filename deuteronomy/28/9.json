@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yahwe ad k-yesbadu i yiman-is d agdud iqedcen, akken i k-iḥkem, ma teṭṭfeḍ ⟨את⟩ tlura n Yahwe Elohim-ik, ad ttedduḍ deg yiberdan-is.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "ad k-yesbadu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "d agdud"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "iḥkem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i k"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "teṭṭfeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlura"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tlura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ad ttedduḍ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "deg yiberdan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:04:37.688681788Z",
+  "model": "glm-5.3"
+}

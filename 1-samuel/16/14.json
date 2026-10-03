@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ruaḥ Yahwe teffeɣ seg Cawl, yerna ruaḥ n dirit, seg ⟨את⟩ Yahwe, t-iḥettmem.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "Ruaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "teffeɣ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "t-iḥettmem"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "n dirit"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:44:01.981408771Z",
+  "model": "glm-5.3"
+}

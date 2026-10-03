@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Cti, a Yahwe, ɣef warrac n Edom ⟨את⟩ ass n Yerucalayim, wid i d-yennan: rẓen-t, rẓen-t, alamma d leṣṣas-is.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɣef warrac"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "n Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ass"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "wid i d-yennan"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "rẓen-t"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "rẓen-t"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alamma"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "d leṣṣas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:33.385129088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Atalya, yemma-s n Aḥazyahu, mi twala belli yemmut mmi-s, tur tekkseḍ ⟨את⟩ akk zzerɛ n tgelda.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Aḥazyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "mi twala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "tur"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "tekkseḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk zzerɛ n tgelda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zzerɛ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "n tgelda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:32:20.401038394Z",
+  "model": "glm-5.3"
+}

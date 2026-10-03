@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "A Yahwe, i rebbuɣ, ih, nekki d akli-k, nekki d akli-k, mmi-s n taklit-ik; teḥlelt iɣeḍmen-iw.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "A Yahwe, i rebbuɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ih"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "d akli-k"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "d akli-k"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "n taklit-ik"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "teḥlelt"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "iɣeḍmen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:25.768564395Z",
+  "model": "glm-5.3"
+}

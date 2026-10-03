@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad ssxyaren ⟨את⟩ iqedcen n yigerdan n Yisrael, ⟨את⟩ wayen ssumeren i Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ad ssxyaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen n yigerdan n Yisrael"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yigerdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ssumeren i Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ssumeren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:00.636792800Z",
+  "model": "glm-5.3"
+}

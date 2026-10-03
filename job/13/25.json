@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad tettḥewwisleḍ i usekkil yettwaṣedden s waḍu? D ⟨את⟩ ijlal iyuṛen i tettṭafaḍ?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ad"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "asekkil yettwaṣedden"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "tettḥewwisleḍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ijlal iyuṛen"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ijlal"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "iyuṛen"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "tettṭafaḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:35:21.261159122Z",
+  "model": "glm-5.3"
+}

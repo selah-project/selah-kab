@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Elohim yufa ⟨את⟩ leɛqel-nsen, imi ṛuḥen seg ubrid-nsen win yeɣlin; Elohim yeḥmel ɣef lbal-a inu, i d-yenna ad as-yexdem, ur t-ixdim ara.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leɛqel-nsen"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "leɛqel-nsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "seg ubrid-nsen"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "win yeɣlin"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "yeḥmel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "lbal-a inu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ad as-yexdem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "t-ixdim ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:35.292078570Z",
+  "model": "glm-5.3"
+}

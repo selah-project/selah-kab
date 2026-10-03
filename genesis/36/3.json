@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "D ⟨את⟩ Bocemmat, yelli-s n Yicmaɛel, tayetmat n Nebayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Bocemmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bocemmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "n Yicmaɛel"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "tayetmat"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "n Nebayot"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:13.433095665Z",
+  "model": "glm-5.3"
+}

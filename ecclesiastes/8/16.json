@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Mi s-selkeɣ ⟨את⟩ ul-iw ad issen tussna, ad iwali ⟨את⟩ axeddim yettwaneggan deg tmurt — axaṭer maca deg wass akk d deg yiḍ, tanirt deg wallen-is ur tt-iwala ara.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "s-selkeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul-iw"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad issen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tussna"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axeddim"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yettwaneggan"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maca"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "d deg yiḍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tanirt"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "deg wallen-is"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tt-iwala"
+    }
+  ],
+  "timestamp": "2026-10-03T02:59:06.070511955Z",
+  "model": "glm-5.3"
+}

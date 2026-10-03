@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Watmaten-is ttnexdifen fell-as; ma d baba-s, iḥeṛṣes ⟨את⟩ wawal.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ttnexdifen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ma d baba-s"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "iḥeṛṣes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:11.489206878Z",
+  "model": "glm-5.3"
+}

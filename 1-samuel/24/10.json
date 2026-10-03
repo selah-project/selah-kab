@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yenna David i Ccawl: acu i k-iḥeṛṛmen ad tesleḍ ⟨את⟩ awalen n yemdanen ad qqaren: wa David yebɣa dirit-ik?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Ccawl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acu i k-iḥeṛṛmen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ad tesleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen n yemdanen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yemdanen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad qqaren"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "yebɣa"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "dirit-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:27.900742266Z",
+  "model": "glm-5.3"
+}

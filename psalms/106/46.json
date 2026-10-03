@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Yefka ⟨את⟩ ten i treḥma, deg wallen n yal wid ten-yesselḥebben.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Yefka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten i treḥma"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "i treḥma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg wallen n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "wid ten-yesselḥebben"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:02.722540553Z",
+  "model": "glm-5.3"
+}

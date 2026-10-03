@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ungen, keččmen daɣen, nnefs-nsen deg-sen tenger tazmert-is.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Ungen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "keččmen daɣen"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "keččmen"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nnefs-nsen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "tenger tazmert-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:13.012992516Z",
+  "model": "glm-5.3"
+}

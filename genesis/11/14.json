@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Celax yidder settin n yiseggasen, iceyyeɛ ⟨את⟩ Ɛeber.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Celax"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yidder"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "settin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "iceyyeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛeber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ɛeber"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:06.050001504Z",
+  "model": "glm-5.3"
+}

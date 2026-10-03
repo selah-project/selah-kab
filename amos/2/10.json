@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Nekk i kwen-id-issufeɣen seg tmurt n Miṣrayim, u i kwen-yewwin deg ugeffar ar izer n iseggasen, akken ad teṭṭfen ⟨את⟩ tamurt n Imoriyen.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "issufeɣ-awen-id"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awen",
+      "marks": "kwen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "yewwi-wen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awen",
+      "marks": "kwen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg ugeffar"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "izer"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n iseggasen"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ad teṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "n Imoriyen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:19:41.452159256Z",
+  "model": "glm-5.3"
+}

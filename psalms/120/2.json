@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 120,
+  "translation": "Yahwe, ssellek ⟨את⟩ iman-iw seg yif-iyen n ukcim, seg yilsan n treḥma n ukcim!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "ssellek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "iman-iw"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "seg yif-iyen n"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ukcim"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "seg yilsan n"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "n ukcim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:18.257754341Z",
+  "model": "glm-5.3"
+}

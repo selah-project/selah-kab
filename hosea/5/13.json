@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Mi yeffeḍ Efrayim ⟨את⟩ tuṭṭuft-is, ed Yiḥuda ⟨את⟩ taqment-is, Efrayim yedda ɣer Acur, yazen ɣer ugellid Yareb; win-nni ur yezmir ara ad yeṣṣen i wenḍen, ur yekkes ara seg wenḍen ⟨את⟩ taqment.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mi yeffeḍ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuṭṭuft-is"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "tuṭṭuft-is"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ed Yiḥuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqment-is"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "taqment-is"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yazen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "win-nni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yezmir ara"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "ad yeṣṣen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wenḍen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ed ur"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "seg wenḍen"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "taqment"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:14.503992433Z",
+  "model": "glm-5.3"
+}

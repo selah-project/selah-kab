@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Lɛers i Yisrael, aɛebdi-is: axaṭer ɣer lebda i ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "Lɛers"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "aɛebdi-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ɣer lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "i ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:11.503477045Z",
+  "model": "glm-5.3"
+}

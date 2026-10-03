@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 4:6",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yexleq-d mraw n yisawaḍen, yerza semmus seg yeffus akk d semmus seg uzelmaḍ, iwakken ad sseḥsen degsen ⟨את⟩ leqdic n lɛola, ssenften-t degsen; ma d Ilel, d asiḥsan i yikahanen ad sseḥsen degs.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq-d"
+    },
+    {
+      "surface": "כיורים",
+      "gloss": "isawaḍen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yerza"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "seg yeffus"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "akk d semmus"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "seg uzelmaḍ"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "iwakken ad sseḥsen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "degsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leqdic n lɛola"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "leqdic"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "n lɛola"
+    },
+    {
+      "surface": "ידיחו",
+      "gloss": "ssenften-t"
+    },
+    {
+      "surface": "בם",
+      "gloss": "degSEN"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ma d Ilel"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "d asiḥsan"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "i yikahanen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "degs"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:15.605059863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Takerḍa n uewwil tettwassan deg wass; ma d baɣen yeḥben leḥya.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "n uewwil"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tettwassan"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "takerḍa"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ma d ... yeḥben"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "leḥya"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "baɣen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:48.050616167Z",
+  "model": "glm-5.3"
+}

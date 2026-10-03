@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Kečči, Yahwe, d aḥray-iw, d tiṣit-iw, d win yessulin ixef-iw.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kečči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "aḥray"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "i yid-i"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "tiṣit-iw"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "d win yessulin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ixef-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:53.378713611Z",
+  "model": "glm-5.3"
+}

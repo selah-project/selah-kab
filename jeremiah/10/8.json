@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "S yiwet n tɣawsa ḥemḥmen, d irzen: talmut-nsen d lbatel — aseklu kan.",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "s yiwet n tɣawsa"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "ḥemḥmen"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "d irzen"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "talmut"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "lbatel"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "aseklu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:12.826501499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Lavan yelḥa d ⟨את⟩ yergazen-akk n tmurt-nni, yexleq-d iman n tmeεruct.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "yelḥa d"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yergazen-akk n tmurt-nni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yergazen"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "n tmurt-nni"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq-d"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "iman n tmeεruct"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:13.897971923Z",
+  "model": "glm-5.3"
+}

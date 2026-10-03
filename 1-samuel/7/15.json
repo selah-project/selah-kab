@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Cemuel yeḥkem ⟨את⟩ Yisrael akk wussan n tmeddurt-is.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "n tmeddurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:38:14.403263415Z",
+  "model": "glm-5.3"
+}

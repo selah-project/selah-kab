@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Xas ma snenmeqren ⟨את⟩ arraw-nsen, ad ten-ḥekmeɣ ad ilin war imdanen; xas ihi, ayyur ihi i lǧeɛ n lmut, mi ara ruḥeɣ seg-sen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Xas ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "snenmeqren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-nsen"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "arraw-nsen"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ad ten-ḥekmeɣ ad ilin war imdanen"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "war imdanen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xas ihi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ayyur ihi i lǧeɛ n lmut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "mi ara ruḥeɣ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:16:48.208461739Z",
+  "model": "glm-5.3"
+}

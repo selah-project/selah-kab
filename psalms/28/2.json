@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Cleɛ imesli n tukci-inu, deg usirew-inu ɣer kečč, deg uselli-inu n ifassen-iw ɣer debir-iw n iqedcen.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "cleɛ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "imesli"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "n tukci-inu"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "deg usirew-inu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer kečč"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "deg uselli-inu n"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ifassen-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir-iw"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "n iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:33.045798170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yaɛqov yugwed aṭas, yeṭṭef-as wugur; iḥetṭa ⟨את⟩ wegdud yellan ⟨את⟩ yid-es, ⟨את⟩ ikerriyen, ⟨את⟩ izekkar, d ileɣman, ɣer sin iḥerriyen.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "yugwed"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "yeṭṭef-as wugur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "iḥetṭa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wegdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-es"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikerriyen"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ikerriyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izekkar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "izekkar"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "d ileɣman"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ɣer sin"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "iḥerriyen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:15.422291461Z",
+  "model": "glm-5.3"
+}

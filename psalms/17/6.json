@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Nekk, siɣeṛ-ed ɣer-k El, acku aɣ-t-id-terraḍ; rnu aẓeṛ-ik ɣur-i, sel awal-iw.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "siɣeṛ-ed ɣer-k"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "aɣ-t-id-terraḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "rnu"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "aẓeṛ-ik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sel"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "awal-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:02.547058958Z",
+  "model": "glm-5.3"
+}

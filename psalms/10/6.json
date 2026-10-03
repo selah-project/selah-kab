@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yenna deg ul-is: ur kkuleγ ara ad ṣubbeγ; i lgenzat ɣer lgenzat, ⟨ulac⟩ di lbal.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "deg ul-is"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ad ṣubbeγ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i lgenzat"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ɣer lgenzat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "di lbal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:43.641370420Z",
+  "model": "glm-5.3"
+}

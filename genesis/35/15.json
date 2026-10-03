@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Yaɛqov yefka ⟨את⟩ isem i wemkan anda i d-yemmeslay ⟨את⟩ yid-s Elohim din: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yefka isem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "i wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yemmeslay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yid-s (Yaɛqov)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:59.186776984Z",
+  "model": "glm-5.3"
+}

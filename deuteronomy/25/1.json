@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ma yella tiddin gar yimdanen, u ḥeḍren ɣer ⟨uḥkam⟩, ad ḥekmen-ten: ad ṣedqen ⟨את⟩ aṣeddaq, ad ršuɛen ⟨את⟩ arešaɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tiddin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "yimdanen"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "u ḥeḍren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "uḥkam"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ad ḥekmen-ten"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ad ṣedqen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aṣeddaq"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "aṣeddaq"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ad ršuɛen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arešaɛ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "arešaɛ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:08.105894438Z",
+  "model": "glm-5.3"
+}

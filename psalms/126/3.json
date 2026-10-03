@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 126,
+  "translation": "Yahwe yessamɣer ayen yexdem yid-neɣ; nella ferḥen.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "yessamɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ayen yexdem"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "yid-neɣ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nella"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ferḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:18.715376909Z",
+  "model": "glm-5.3"
+}

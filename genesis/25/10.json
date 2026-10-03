@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "⟨את⟩ Ugezdu i d-yexṣeṛ Avraham ⟨את⟩ seg warraw n Ḥet; dinna i yettwamḍel Avraham akked Sarah tameddakel-is.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "Ugezdu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "i d-yexṣeṛ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ seg",
+      "marks": "warraw n Ḥet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "yettwamḍel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "akked Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tameddakel-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:19:50.770401887Z",
+  "model": "glm-5.3"
+}

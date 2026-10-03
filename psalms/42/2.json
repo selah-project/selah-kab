@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Tella d ayul, i tt-yeccuṛ ṣṣuṛ ɣef iɣbula n waman; akken i tella nefsi, tettccuṛeḍ ɣer kecc, a Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "tella d ayul"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "i tt-yeccuṛ ṣṣuṛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "iɣbula n"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "tettccuṛeḍ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer kecc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:05.683687643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yemmut Yusef, akk watmaten-is, akk win n wallaɣ-nni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Yemmut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "win n wallaɣ-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:32.672905806Z",
+  "model": "glm-5.3"
+}

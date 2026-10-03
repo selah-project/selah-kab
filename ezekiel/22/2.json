@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Kečč, a mmi n wemdan, ad taḥkem, ad taḥkem ⟨את⟩ tamurt n idammen? Ad as-tesbegneḍ ⟨את⟩ akk iɛiṛen-is.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ad taḥkem"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ad taḥkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt n idammen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "n idammen"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "ad as-tesbegneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iɛiṛen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "iɛiṛen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:52:26.471810642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ur til-t d amusnak deg tiṭ-ik; ttagad ⟨את⟩ Yahwe, ennes teffeγ si tentalyt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "til-t"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "amusnak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "deg tiṭ-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩ Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ennes teffeγ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "si tentalyt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:54.256375679Z",
+  "model": "glm-5.3"
+}

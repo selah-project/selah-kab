@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yaqcen iglan ⟨את⟩ Ceva d ⟨את⟩ Deḏan; arrac n Deḏan llan d ⟨i⟩ Acurem, Lecucim d Leumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Yaqcen"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iglan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ceva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ceva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Deḏan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Deḏan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "arrac n"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Deḏan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Acurem"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Lecucim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leumim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:20:43.807210892Z",
+  "model": "glm-5.3"
+}

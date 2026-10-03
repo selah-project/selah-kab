@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Wergaz n Elohim yenna i ugellid: Ma tefḍ-d yi ⟨את⟩ azgen n wexxam-ik, ur d-ruḥeɣ ara yid-k, ur ṭṭeɣ ara aɣrum, ur tteɣ ara aman deg wemkan-agi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wergaz"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tefḍ-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azgen"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "azgen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "n wexxam-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "d-ruḥeɣ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ṭṭeɣ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "tteɣ s"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg wemkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:39.893229648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "David ur yelli ara yebɣan ad yewwi ɣer yides ⟨את⟩ tegnut n Yahwe ɣer tmurt n David; David yewwi-t deg uxxam n Ɛubed-Edum Ageti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yelli ara yebɣan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ad yewwi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer yides"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tegnut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tegnut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "yewwi-t"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ɛubed"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edum"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Ageti"
+    }
+  ],
+  "timestamp": "2026-10-02T22:56:58.140897847Z",
+  "model": "glm-5.3"
+}

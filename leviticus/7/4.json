@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "D ⟨את⟩ sin n yiklyot, akked ⟨את⟩ teffin yellan fell-asen, i yellan ɣef ilmeḍren, d ⟨את⟩ tayturth yellan ɣef ⟨את⟩ tasa — ɣef yiklyot ad tt-yekkes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sin n yiklyot"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "n yiklyot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teffin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "teffin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ilmeḍren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tayturth"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tayturth"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "yiklyot"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ad tt-yekkes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:58.316776952Z",
+  "model": "glm-5.3"
+}

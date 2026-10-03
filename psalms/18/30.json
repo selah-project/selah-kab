@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Axaṭer s kečč ad ɣeḍlayeɣ ɣer ṣṣeffa, d Elohim-inu ad zzinɣeɣ ɣef uɣrab.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "בך",
+      "gloss": "s kečč"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ad ɣeḍlayeɣ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ṣṣeffa"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "d Elohim-inu"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ad zzinɣeɣ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "uɣrab"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:35.812672410Z",
+  "model": "glm-5.3"
+}

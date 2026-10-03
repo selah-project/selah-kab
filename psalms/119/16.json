@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Deg yilugan-nnek ad frḥeɣ, ur ttettuɣ ara awal-nnek.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Deg yilugan-nnek"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ad frḥeɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ttettuɣ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "awal-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:22.800593541Z",
+  "model": "glm-5.3"
+}

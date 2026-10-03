@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ad k-sneɣmesɣ d ad k-inij deg ubrid-agi ideg ara tedduḍ; ad k-nzemmeɣ, tiṭṭ-iw ɣuf-ik.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Ad k-sneɣmesɣ"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "d ad k-inij"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "זו",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ideg ara tedduḍ"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ad k-nzemmeɣ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣuf-ik"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiṭṭ-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:32.158024953Z",
+  "model": "glm-5.3"
+}

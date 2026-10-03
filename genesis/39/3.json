@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Bab-is iẓra belli Yahwe yella ⟨אתו⟩ yid-es, akken ula deg wayen ara ixedmen Yahwe yezzag deg ufus-is.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yusuf"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "yezzag"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:33.546434632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Ur yexdim akken i ulacɣi n yegduden, d icreɛ ur ten-nessin ara. Sbuddect i Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexdim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i ulacɣi n"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "yegduden"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "d icreɛ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ur ten-nessin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Sbuddect"
+    },
+    {
+      "surface": "יה",
+      "gloss": "i Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:39.564322750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "axaṭer ⟨את⟩ tamurt akk ara twaliḍ, ad ak-tt-mudd-eɣ, i zerriɛ-ik ɣer lebda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "t"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "twaliḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ad ak"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "tt-mudd-eɣ"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i zerriɛ-ik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:34.969101693Z",
+  "model": "glm-5.3"
+}

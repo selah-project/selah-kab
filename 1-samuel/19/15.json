@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Cawl yuzen daɣen ⟨את⟩ yimazanen ad walin ⟨את⟩ David, s wawal: sfid-it-id deg lɛers ɣur-i, iwakken ad t-mteɣ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen daɣen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimazanen"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "yimazanen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "sfid-it-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "deg lɛers"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "iwakken ad t-mteɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:06.940853904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Rnuɣ, rnuɣ ara ɣef Yahwe, yenna-yi-d, yesla i ttedra-yi.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "rnuɣ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "rnuɣ ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yenna-yi-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨yi-d⟩"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "yesla"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "i ttedra-yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:47.278737476Z",
+  "model": "glm-5.3"
+}

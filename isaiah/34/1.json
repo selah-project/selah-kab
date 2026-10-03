@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Qerben aɣlanen ad slen, i yegduden ṣeḥṣeḥen; ad islem tmurt akk d wayen deg-is, amadal akk d tarwa-s.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "qerben"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "aɣlanen"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ad slen"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i yegduden"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ṣeḥṣeḥen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ad islem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "akk d wayen deg-is"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amadal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "tarwa-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:58:04.117887002Z",
+  "model": "glm-5.3"
+}

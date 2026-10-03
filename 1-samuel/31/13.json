@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Sḍan ⟨את⟩ iṛemmen-nsen, veffen-ten deg wadda n wecran (ha-ecel) deg Yabeca, u cezman seba n wussan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "sḍan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛemmen-nsen"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "iṛemmen-nsen"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "veffen-ten"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg wadda n"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "ecran"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "deg Yabeca"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "cezman"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:53:42.002646392Z",
+  "model": "glm-5.3"
+}

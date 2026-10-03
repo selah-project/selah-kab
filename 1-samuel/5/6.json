@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Tewɣiḍt yefus n Yahwe ɣef yimezdaɣ n Acdod, iḥerres-iten, iḍebbeɛ-iten s teḥmallin, ⟨את⟩ Acdod akk ⟨את⟩ tilisa-s.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "Tewɣiḍt"
+    },
+    {
+      "surface": "יד",
+      "gloss": "yefus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "yimezdaɣ n Acdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "iḥerres-iten"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iḍebbeɛ-iten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yimezdaɣ n Acdod"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "s teḥmallin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Acdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Acdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk ⟨את⟩",
+      "marks": "tilisa-s"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "tilisa-s"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:22.044861146Z",
+  "model": "glm-5.3"
+}

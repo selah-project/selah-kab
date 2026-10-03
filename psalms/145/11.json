@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Taẓeyt-ik n tgelda-ik ad tt-inin, taẓeyt n tazmelt-ik ad tt-mmeslayen.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "taẓeyt-ik"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "tgelda-ik"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ad tt-inin"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "tazmelt-ik"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ad tt-mmeslayen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:07.895632711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 66:14",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Ad tettwaliḍ, ad yiferṛeḥ ulawen-nwen, iɣsan-nwen ad zellun am tuga; tafus n Yahwe ad tettwass i ⟨את⟩ imeḍbaren-is, taɛqba-s i ⟨את⟩ iɛdawen-is.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "ad tettwaliḍ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ad yiferṛeḥ"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "ulawen-nwen"
+    },
+    {
+      "surface": "ועצמותיכם",
+      "gloss": "iɣsan-nwen"
+    },
+    {
+      "surface": "כדשא",
+      "gloss": "am tuga"
+    },
+    {
+      "surface": "תפרחנה",
+      "gloss": "ad zellun"
+    },
+    {
+      "surface": "ונודעה",
+      "gloss": "ad tettwass"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tafus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeḍbaren-is"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imeḍbaren-is"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "taɛqba-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɛdawen-is"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iɛdawen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:21.636491948Z",
+  "model": "glm-5.3"
+}

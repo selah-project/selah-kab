@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Win i-wetten baba-s neɣ yemma-s, ad yemmut s lmut.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "win i-wetten"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "neɣ yemma-s"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:41.426445107Z",
+  "model": "glm-5.3"
+}

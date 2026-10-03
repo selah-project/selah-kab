@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Sebluɣen i Yah! Ad ccnfɛeɣ Yahwe akk uḍer-agi n wul, deg ussegmi n wid izuran, d tremselt.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Sebluɣen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Ad ccnfɛeɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "uḍer-agi n wul"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "deg ussegmi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "n wid izuran"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "d tremselt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:09.187497575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Mačči ⟨את⟩ d-igan-nneɣ iɛiṛḍ Yahwe ⟨את⟩ lɛahd-agi, maca d ⟨את⟩-neɣ, neččini, wid-agi, da, ass-a, nekkwa akk d wid idderen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mačči"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "d-igan-nneɣ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "d-igan-nneɣ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iɛiṛḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-agi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lɛahd-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ d"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "neččini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "da"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "nekkwa akk"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "d wid idderen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:50:37.131303071Z",
+  "model": "glm-5.3"
+}

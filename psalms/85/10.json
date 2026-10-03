@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Ih, ssuḥ-is n taggara yezga yiqqim ɣer wid yettagaden-t; iwakken ad yezdeɣ taduli deg tmurt-nneɣ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yezga yiqqim"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ɣer wid yettagaden-t"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ssuḥ-is n taggara"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "iwakken ad yezdeɣ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "taduli"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "deg tmurt-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:36.721071314Z",
+  "model": "glm-5.3"
+}

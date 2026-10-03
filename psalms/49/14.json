@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Wagi d lwehmen-nsen, neɣ ⟨d⟩ wayen i s-yellan; wid ara d-yafan s yilsawen-nsen ad ḥemmlen awal-nsen. Selah",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Wagi"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "abrid-nsen"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "lwehmen-nsen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "ו אחריהם",
+      "gloss": "wid ara d-yafan"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "s yilsawen-nsen"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ad ḥemmlen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:32.761104209Z",
+  "model": "glm-5.3"
+}

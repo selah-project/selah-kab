@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Tameqweṛant n Yisrael tettmul-ad deg udem-is; ur uɣalen ara ɣer Yahwe, Elohim-nnsen, ur t-nniɣen ara deg wayen akka.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "tettmul-ad"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "tameqweṛant"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "deg udem-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "uɣalen ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-nnsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "t-nniɣen ara"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg wayen akka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "akka"
+    }
+  ],
+  "timestamp": "2026-10-03T04:29:55.569575757Z",
+  "model": "glm-5.3"
+}

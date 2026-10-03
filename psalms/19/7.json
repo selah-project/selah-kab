@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Si yixef n igenwan tuffɣa-s, tinigeft-is ɣef yixfawen-nnsen; ulac ayen yettwaffren seg lḥemmant-is.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "si yixef n"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "tuffɣa-s"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "tinigeft-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "yixfawen-nnsen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ayen yettwaffren"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "seg lḥemmant-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:01.245994899Z",
+  "model": "glm-5.3"
+}

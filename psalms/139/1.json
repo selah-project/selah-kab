@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "I lmeṣbeh. Mizmor n David. Yahwe, tessukkeḍ-iɣi, teẓriḍ-iɣi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i lmeṣbeh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "tessukkeḍ-iɣi"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "teẓriḍ-iɣi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:40.337867854Z",
+  "model": "glm-5.3"
+}

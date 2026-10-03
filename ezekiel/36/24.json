@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ad wen-nuɣeɣ ⟨את⟩ ken seg yegdudisen, ad wen-llemmel ⟨את⟩ ken seg tmura akk, ad k-id-awiɣ ⟨את⟩ ken ɣer wakal-nwen.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Ad wen-nuɣeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ken",
+      "marks": "ken"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegdudisen"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "ad wen-llemmel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ken",
+      "marks": "ken"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tmura akk"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ad k-id-awiɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ken",
+      "marks": "ken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "wakal-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:03:50.883835770Z",
+  "model": "glm-5.3"
+}

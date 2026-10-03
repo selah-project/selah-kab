@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ddu-d fella-s, ḥaduren-i, ad neṭṭes ⟨את⟩ Givɛon, imi tṣṣa lɛahd akked ⟨את⟩ Yeḥyuca d ⟨את⟩ warrac n Yisrael.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Ddu-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fella-s"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "ḥaduren-i"
+    },
+    {
+      "surface": "וונכה",
+      "gloss": "ad neṭṭes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givɛon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givɛon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "tṣṣa lɛahd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeḥyuca"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yeḥyuca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:15:14.780459575Z",
+  "model": "glm-5.3"
+}

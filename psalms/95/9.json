@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "Mi ɛerḍen iyi imeṛwaben-nwen, ṣeḥḍen iyi, ẓran daɣen igiten-iw.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ɛerḍen iyi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "imeṛwaben-nwen"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ṣeḥḍen iyi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "igiten-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:29.847744382Z",
+  "model": "glm-5.3"
+}

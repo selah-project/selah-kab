@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Terra-d ticcḍan-ineɣ dat-ik; ayen neffer, deg tafat n udm-ik.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Terra-d"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ticcḍan-ineɣ"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "dat-ik"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ayen neffer"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "deg tafat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "n udm-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:14.974003257Z",
+  "model": "glm-5.3"
+}

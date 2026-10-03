@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Axir kečč, a Adonai, d ameɣtu teṣṣefeḍ, d aṭas n ḥesed i yal win k-isyen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "teṣṣefeḍ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "d aṭas"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "n ḥesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "win k-isyen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:01.945547352Z",
+  "model": "glm-5.3"
+}

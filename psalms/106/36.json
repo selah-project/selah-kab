@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Qeddiben ⟨את⟩ iṛebbiten-nsen, uɣalen d tamrezt i yiman-nsen.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Qeddiben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "uɣalen d"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i yiman-nsen"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "d tamrezt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:38.914196390Z",
+  "model": "glm-5.3"
+}

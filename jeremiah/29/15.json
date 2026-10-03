@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Acku tennam: Yahwe yessuli-d i-neɣ inaviyen deg Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "tennam"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "yessuli-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i-neɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "inaviyen"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "deg Babel"
+    }
+  ],
+  "timestamp": "2026-10-03T00:28:38.695347309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ihi ad ilin am tziri n tafawt, am tejdit tazwarm-agi tettiddu ɣer zdat, am imɣuz yettusemdey seg uẓeṭṭaṭ, am uxxam i d-yettɣili seg tixxamt.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "am tziri"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "n tafawt"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "am tejdit"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "tazwarm-agi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tettiddu ɣer zdat"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "am imɣuz"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "yettusemdey"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "seg uẓeṭṭaṭ"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "am uxxam"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "seg tixxamt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:25.938941483Z",
+  "model": "glm-5.3"
+}

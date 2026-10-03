@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Ihi ⟨d⟩ Elohim agellid-iw seg zik, iteddu tisellit deg talemmast n tmurt.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Ihi Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agellid-iw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "seg zik"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "iteddu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "tisellit"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg talemmast"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:02.788656541Z",
+  "model": "glm-5.3"
+}

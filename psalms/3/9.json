@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "N Yahwe ⟨the⟩ tallit n usellek; ɣef ugdud-ik tberkt-ik. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "tallit n usellek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ugdud-ik"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "tberkt-ik"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:26.018895025Z",
+  "model": "glm-5.3"
+}

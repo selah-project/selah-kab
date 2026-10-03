@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yella-y-es: 700 n tilawin tageldanin, d 300 n yipilegecim; tilawin-is ṣṭṛent ⟨את⟩ ul-ines.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-y-es"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(asentsel)"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "tageldanin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n tmenḍawin (100)"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "d yipilegecim"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "krad"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n tmenḍawin (300)"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ṣṭṛent"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "tilawin-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul-ines"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-ines"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:08.731352448Z",
+  "model": "glm-5.3"
+}

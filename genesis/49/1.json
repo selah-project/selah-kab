@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Yeqqim Yaɛqov isawel i warraw-is, yenna: Ddmet akka ara awen-d-mmeslayen ayen ara ⟨את⟩ k-d-yyuḍen ⟨את⟩ deg yixef n wussan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "isawel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "ddmet akka"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ara awen-d-mmeslayen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "awen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ara k-d-yyuḍen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ara k-d-yyuḍen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ k"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "deg yixef"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "n wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:30.861421202Z",
+  "model": "glm-5.3"
+}

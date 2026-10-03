@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ma txeddem ccuṛ, kečč kunwi akk d ugellid-nwen, ad tenuḍem akk.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ccuṛ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "txeddem ccuṛ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kečč kunwi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ugellid-nwen"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "ad tenuḍem"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:29.146656707Z",
+  "model": "glm-5.3"
+}

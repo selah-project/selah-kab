@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ṭṭfen ⟨את⟩ akk wayla n Sedom d ƐAmora, akk učči-nsen, unnen-d.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wayla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "ayla"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ƐAmora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk učči-nsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "učči-nsen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "unnen-d"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:21.790564554Z",
+  "model": "glm-5.3"
+}

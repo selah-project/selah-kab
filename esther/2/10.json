@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ur t-id-ini Ester ⟨את⟩ wegdud-is, ṣemma ⟨את⟩ tmurt-is n tuddar; imi Mordexay i s-yeṣṣa ad ur t-id-ini ara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur ... ara"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "t-id-ini"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wegdud-is"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "wegdud-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-is n tuddar"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "tmurt-is n tuddar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordexay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeṣṣa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "-as"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "t-id-ini"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:29.476745207Z",
+  "model": "glm-5.3"
+}

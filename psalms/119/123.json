@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Allen-iw ceffen ɣef usellak-ik d ɣef wawal n ṣedeq-ik.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Allen-iw"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ceffen"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ɣef usellak-ik"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "d ɣef wawal"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "n ṣedeq-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:07.852640831Z",
+  "model": "glm-5.3"
+}

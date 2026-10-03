@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ad t-tseqqdeceḍ, axaṭer d netta i d-yettawin ⟨את⟩ aɣrum n Elohim-im; iqedcan ad yili ɣur-k, axaṭer nekk, Yahwe, win kum-iseqqcen, d iqedcan.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "Ad t-tseqqdeceḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aɣrum n Elohim-im"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "n Elohim-im"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "i d-yettawin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "win kum-iseqqcen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:08.629748711Z",
+  "model": "glm-5.3"
+}

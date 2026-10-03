@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Tiḍriwt n teɣzert n ḥizyon. Acu i k-iḍerran tura, imi akk d-terrbeḍ ɣer yixfawen n yexxamen?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "tiḍriwt"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "taɣzert"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "n ḥizyon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "d-terrbeḍ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ɣer yixfawen n yexxamen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:22:15.752940866Z",
+  "model": "glm-5.3"
+}

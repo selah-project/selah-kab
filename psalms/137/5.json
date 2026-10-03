@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Ma tettuɣ kečč, a Yerucalayim, ad tettu afus-iw ayeffus.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "tettuɣ kečč"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ad tettu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "afus-iw ayeffus"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:33.384718175Z",
+  "model": "glm-5.3"
+}

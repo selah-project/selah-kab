@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Γzeren inubag-nnek, Elohim, inubag n El-iw, agellid-iw, deg wedgen n iqedcen.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Γzeren"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "inubag-nnek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "inubag"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n El-iw"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agellid-iw"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg wedgen n iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:16.564128298Z",
+  "model": "glm-5.3"
+}

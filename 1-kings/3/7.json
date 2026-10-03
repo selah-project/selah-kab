@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tura, Yahwe Elohim-iw, kečč terra-ḍ-d aqeddac-ik ⟨את⟩ deg umkan n David baba; nekki d afrux ameẓẓyan, ur ssineɣ ad iffɣeɣ neɣ ad d-kecmeɣ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečç"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "terra-ḍ-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aqeddac-ik"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "aqeddac-ik"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "נער",
+      "gloss": "afrux"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ameẓẓyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ssineɣ"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ad iffɣeɣ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ad d-kecmeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:11:08.173904733Z",
+  "model": "glm-5.3"
+}

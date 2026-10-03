@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Ibeddel ⟨את⟩ yilel d akal ameɣlal; deg wasif ɛeddin ɣer sdat s iḍarren; din i nella-nettnadi deg-s.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Ibeddel"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "d akal ameɣlal"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "deg wasif"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ɛeddin ɣer sdat"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "s iḍarren"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "i nella-nettnadi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:50.740990205Z",
+  "model": "glm-5.3"
+}

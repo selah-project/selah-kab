@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ffen, rewlen deg tniri, jjigen ⟨את⟩ txelwaten-nsen, d ⟨את⟩ iswan-nsen, d ⟨את⟩ iḥmaryen-nsen — lɛesker akken yella — rewlen iwakken ad sɛedden taneṣṣeft-nsen.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ffen"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "rewlen"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "deg tniri"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "jjigen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "txelwaten-nsen"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "txelwaten-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iswan-nsen"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "iswan-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iḥmaryen-nsen"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "iḥmaryen-nsen"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lɛesker"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken yella"
+    },
+    {
+      "surface": "היא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "rewlen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iwakken ad"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sɛedden taneṣṣeft-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:29:28.538253552Z",
+  "model": "glm-5.3"
+}

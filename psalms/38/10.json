@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Adonai, akk bɣu-iw tella sdat-ik; tissit-iw sɣur-ik ur teffer ara.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sdat-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "bɣu-iw"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "d tissit-iw"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sɣur-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "teffer"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:35.992741529Z",
+  "model": "glm-5.3"
+}

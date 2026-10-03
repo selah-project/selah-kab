@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Sellek ⟨את⟩ agdud-ik, barket ⟨את⟩ lɛerz-ik, waɛessi-ten, waṭṭef-iten ɣer labad.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Sellek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-ik"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "barket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛerz-ik"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "lɛerz-ik"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "waɛessi-ten"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "waṭṭef-iten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "labad"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:14.955744514Z",
+  "model": "glm-5.3"
+}

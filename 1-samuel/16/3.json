@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad tesseɛqed i Ici ɣer useks, ad k-id-mlen ⟨את⟩ ayen ara txedmed; ad tdehnet i iman-iw ⟨את⟩ win ara k-d-iniγ.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "ad tesseɛqed"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "i Ici"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ɣer useks"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ad k-id-mlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ara txedmed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen ara"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txedmed"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ad tdehnet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i iman-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win ara k-d-iniγ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win ara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "k-d-iniγ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-02T22:44:24.770815718Z",
+  "model": "glm-5.3"
+}

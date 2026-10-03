@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "Win i d-ittunefken tilest i yigelliden, win i d-yessukuyen ⟨את⟩ David ameḥbus-is seg teɣres n dir.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Win i d-ittunefken"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "tilest"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "i yigelliden"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "win i d-yessukuyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ameḥbus-is"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "seg teɣres"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "n dir"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:56.502723219Z",
+  "model": "glm-5.3"
+}

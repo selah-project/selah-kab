@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Tufiḍ-t; axaṭar kečči twalaḍ tikkest d lerɣa, iwakken ad tmuddeḍ ⟨leḥsab⟩ s ufus-ik; ɣur-k yeǧǧa win iḍurren ⟨iman-is⟩; agugil — kečči tellid d win i d-itekkfen afus.",
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "Tufiḍ-t"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tikkest"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "d lerɣa"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "twalaḍ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad tmuddeḍ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "s ufus-ik"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "yeǧǧa"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "win iḍurren"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "agugil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tellid"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "d win i d-itekkfen afus"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:11.124220661Z",
+  "model": "glm-5.3"
+}

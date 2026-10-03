@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Kkesaɣ-as taεebba seg uɛqub-is; ifassen-is d-uɛeddent beṛṛa n teqecwalt.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "kkesaɣ-as"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "taεebba"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "uɛqub-is"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ifassen-is"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "seg teqecwalt"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "d-uɛeddent"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:11.080069348Z",
+  "model": "glm-5.3"
+}

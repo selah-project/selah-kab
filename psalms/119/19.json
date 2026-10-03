@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Aɣrib nekk di tmurt; ur txedeḍ ara i lwaṣiyat-inek s γur-i.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Aɣrib"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "txedeḍ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "s γur-i"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "lwaṣiyat-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:46.517913424Z",
+  "model": "glm-5.3"
+}

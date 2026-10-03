@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ma neẓla nekkini d Yahwe, Elohim-ik, si tmurt n Miṣrayim; ur tessineḍ ara ⟨Elohim⟩ ma nekkini, ulac amekkes ma nekkini.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ma neẓla nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ma nekkini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tessineḍ"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "amekkes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ma nekkini"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:25.939097033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 84,
+  "translation": "A Yahwe, Elohim Ṣebaot, essel ⟨i⟩ usuter-iw; ṣut, a Elohim n Yaɛqov. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "essel"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "asuter-iw"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ṣut"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:51.584887277Z",
+  "model": "glm-5.3"
+}

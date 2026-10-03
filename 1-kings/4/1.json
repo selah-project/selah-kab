@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yella-d Celomo, ⟨u⟩gel·lid, d agellid ɣef Yisrael akk.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugel·lid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:41.727754889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "⟨את⟩ tiḥebbin n Mickan, ⟨את⟩ tiḥebbin n wagadir, d ⟨את⟩ iẓrman-nsen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiḥebbin n Mickan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tiḥebbin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "n Mickan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tiḥebbin n wagadir"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tiḥebbin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n wagadir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iẓrman-nsen"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "iẓrman-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:20.910560313Z",
+  "model": "glm-5.3"
+}

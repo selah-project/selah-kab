@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna Elohim: ad yili rakiɛa deg unzar n waman, ad yebḍu gar wamen d wamen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakiɛa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg unzar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ad yebḍu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "למים",
+      "gloss": "d waman"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:05.075034026Z",
+  "model": "glm-5.3"
+}

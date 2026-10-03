@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yettcuf i lebda lɛahd-is, awal i d-yesselḥem i wagim n ifeḍ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Yettcuf"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "lɛahd-is"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yesselḥem"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "n ifeḍ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "i wagim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:56.792181021Z",
+  "model": "glm-5.3"
+}

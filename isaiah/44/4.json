@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Ad lmun gar isebbunen, am teεzibt n wasif n yiman.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ad lmun"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "isebbunen"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "am teεzibt"
+    },
+    {
+      "surface": "על",
+      "gloss": "n"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n yiman"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:42.391685388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Haman yenna-yas i ugellid: I wemdan i ḥemmel ugellid ⟨i⟩ yeqar-is,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "i yeqar-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:46.322609056Z",
+  "model": "glm-5.3"
+}

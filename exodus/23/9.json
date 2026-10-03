@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Iberṛani ur t-tessuɣeḍ ara; kunwi tessnam ⟨את⟩ iman n uberṛani, acku d iberraniyen tellam deg tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "iberṛani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "tessuɣeḍ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tessnam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iman n uberṛani"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "iman"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "n uberṛani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "d iberraniyen"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "tellam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:49.863431896Z",
+  "model": "glm-5.3"
+}

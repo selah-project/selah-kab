@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "D iwakken ad tselmem i Yisrael ⟨את⟩ yal lɛahd i d-yenna Yahwe ɣur-sen s ufus n Moce.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "ad tselmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i wid (arrac)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yal lɛahd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "n Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:55.436983721Z",
+  "model": "glm-5.3"
+}

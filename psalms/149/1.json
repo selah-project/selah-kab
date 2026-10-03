@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Snemred-aɣ i Yah! Znuznu i Yahwe aclah amaynut, tasnifelt-is deg lǧemɣa n yiḥsiden.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Snemred-aɣ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Znuznu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "aclah"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "amaynut"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tasnifelt-is"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "deg lǧemɣa"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "n yiḥsiden"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:46.691807047Z",
+  "model": "glm-5.3"
+}

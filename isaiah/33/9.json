@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Tamurt teggwaẓ, tuɣal d tiglest: Lubnan yusmeɣ, yemḥu; Har Ccaron yuɣal am teɣzut n lexla; Bacaŋ d Karmel kecmen ifelsen.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "teggwaẓ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "tuɣal d tiglest"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "yusmeɣ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnan"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "yemḥu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Har Ccaron"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "am teɣzut n lexla"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bacaŋ"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "d Karmel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:53.626035068Z",
+  "model": "glm-5.3"
+}

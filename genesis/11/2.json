@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mi rrwan seg lqaṣṛa (mi ṭṭfen abrid seg wegmuḍ), wwḍen ɣer temnaɛt deg tmurt n Cineɛar, u ẓedɣen din.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mi rrwan"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "mi ṭṭfen abrid"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "seg wegmuḍ"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "wwḍen ɣer"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "temnaɛt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Cineɛar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ẓedɣen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:45.576604026Z",
+  "model": "glm-5.3"
+}

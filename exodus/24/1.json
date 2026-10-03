@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "I d-yenna ɣer Moce: Ɛli ɣer Yahwe, kecc, d Aharon, Nadab d Abihu, d sebɛin seg iqeḍḍafen n Yisrael; ad tennzem seg teɣzi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɛli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "d Abihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "d sebɛin"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "seg iqeḍḍafen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "ad tennzem"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "seg teɣzi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:39.969482917Z",
+  "model": "glm-5.3"
+}

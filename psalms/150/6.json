@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 150,
+  "translation": "Kra n yesɛan allen n tneslemt, ad isellek i Yah; sebbuħet i Yah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kra n"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "yesɛan allen n tneslemt"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "ad isellek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "sebbuħet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:46.976210773Z",
+  "model": "glm-5.3"
+}

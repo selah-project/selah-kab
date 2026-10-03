@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yenna-d David i Abicay: ur t-ṣubbet ara, axaṭer anwa i d-yeḥuz afus-is ɣef Maciaḥ Yahwe, ad yili d abrid?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abicay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "t-ṣubbet ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "i d-yeḥuz"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "ɣef Maciaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ad yili d abrid"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:03.556304214Z",
+  "model": "glm-5.3"
+}

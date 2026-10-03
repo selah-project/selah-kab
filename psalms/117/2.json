@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 117,
+  "translation": "Akknef ḥesed-is iɣiulnen fellaγ-neγ, tidet n Yahwe tekka i lebda. Cenddeyt ⟨את⟩ Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akknef"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "iɣiulnen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fellaγ-neγ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "d tidet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Cenddeyt"
+    },
+    {
+      "surface": "יה",
+      "gloss": "⟨את⟩ Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:46.343385104Z",
+  "model": "glm-5.3"
+}

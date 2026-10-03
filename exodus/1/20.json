@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yeḥsan Elohim i tijebbarin, agdud neḥma, iḥemmen deg tezmert aṭas.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yeḥsan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "i tijebbarin"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "neḥma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "iḥemmen deg tezmert"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:17.898827840Z",
+  "model": "glm-5.3"
+}

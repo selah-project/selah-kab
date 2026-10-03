@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yesuffeɣ-d agdud-nnes s leḥḥu, s tuccfa ⟨את⟩ wid yettwafernen-nnes.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yesuffeɣ-d"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-nnes"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "s leḥḥu"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "s tuccfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid yettwafernen-nnes"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "wid yettwafernen-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:58.438284322Z",
+  "model": "glm-5.3"
+}

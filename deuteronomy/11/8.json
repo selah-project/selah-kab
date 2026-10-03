@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad ṭṭef-d aḥrez ⟨את⟩ tladna akk ara kwen-ḥeṛṣeɣ ass-a, iwakken ad teǧhedem, ad kecmem ad tesselḥem ⟨את⟩ tmurt ara tkecmem ɣer-s.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad ṭṭef-d aḥrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tladna akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "tladna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "iɣ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kwen-ḥeṛṣeɣ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "ad teǧhedem"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ad kecmem"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ad tesselḥem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tkecmem"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ad tesselḥem-t"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:32.236954856Z",
+  "model": "glm-5.3"
+}

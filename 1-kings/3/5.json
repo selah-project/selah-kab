@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Di Givɛon, Yahwe iban i Shelomo di lḥelm n yid; Elohim inna: Ssut, acen ara d-mmeɣ i kečč.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "di Givɛon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "iban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "di lḥelm"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "n yid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ssut"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acen"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ara d-mmeɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečç"
+    }
+  ],
+  "timestamp": "2026-10-02T23:11:08.173415245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Mi ara Yahwe, Elohim-ik, yeqqeẓ ⟨את⟩ yegduden ara yefken Yahwe, Elohim-ik, i kečč, ⟨את⟩ tmurt-nsen, ad ten-tesɛebdeḍ, ad tzedɣeḍ deg yiberdan-nsen d yexxamen-nsen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "yeqqeẓ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yegduden"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegduden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefken"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-nsen"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tmurt-nsen"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ad ten-tesɛebdeḍ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ad tzedɣeḍ"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "deg yiberdan-nsen"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "d yexxamen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:59:04.473450297Z",
+  "model": "glm-5.3"
+}

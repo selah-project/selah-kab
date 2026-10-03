@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Arraw n Gomer: Ackenaz, Rifat akked Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Arraw n"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ackenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "akked Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "akked Togarma"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:01.888766052Z",
+  "model": "glm-5.3"
+}

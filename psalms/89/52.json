@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "S wayen xeḍren icengliten-ik, a Yahwe; s wayen xeḍren iḍammen n Maciaḥ-ik.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "S wayen"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "xeḍren"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "icengliten-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s wayen"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "xeḍren"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "iḍammen"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "n Maciaḥ-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:36.665263363Z",
+  "model": "glm-5.3"
+}

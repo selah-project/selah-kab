@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 141,
+  "translation": "Ad kecmen ⟨dgir⟩ yidmet ibeṭṭlen deg texṣibin-nsen; nekkini, alama ad ɛeddeɣ.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Ad kecmen"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "deg texṣibin-nsen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ibeṭṭlen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yidmet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alama"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ad ɛeddeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:16.258707744Z",
+  "model": "glm-5.3"
+}

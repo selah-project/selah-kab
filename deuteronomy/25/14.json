@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ur yili ara ɣur-k deg wexxam-ik ⟨efa d efa⟩, ameqran d amecṭuḥ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yili ara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "deg wexxam-ik"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "d efa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ameqran"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "d amecṭuḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:14.703930526Z",
+  "model": "glm-5.3"
+}

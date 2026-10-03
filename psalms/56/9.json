@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Tinubga-iw i t-tesiwreḍ; err ⟨tiṛrin-iw⟩ deg usawen-ik; mačči din deg wedlis-ik?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "tinubga-iw"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "tesiwreḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "err"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "tiṛrin-iw"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "deg usawen-ik"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mačči... ?"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "deg wedlis-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:45.062733347Z",
+  "model": "glm-5.3"
+}

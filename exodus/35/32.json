@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad iḥekku tiḥekkiwin i wakken ad yexdem s ureɣ, s wargan, d s nneḥas.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "Ad iḥekku"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "tiḥekkiwin"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "i wakken ad yexdem"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "s ureɣ"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "s wargan"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "d s nneḥas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:56.700640377Z",
+  "model": "glm-5.3"
+}

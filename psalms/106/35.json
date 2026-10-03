@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "ṭṭfen tiɣit deg yegduden, lemden leqdic-nsen.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "ṭṭfen tiɣit"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "deg yegduden"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "lemden"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "leqdic-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:38.914058233Z",
+  "model": "glm-5.3"
+}

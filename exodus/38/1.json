@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yexdem ⟨את⟩ mizbeaḥ n lɛetib seg wemma n ccṭa: semmus n yimmaten teɣzi-s, semmus n yimmaten tehri-s — rubeɛ; tlata n yimmaten taɛlayt-is.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeaḥ n lɛetib"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaḥ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "n lɛetib"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "seg wemma"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ccṭa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "yimmaten"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-s"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "yimmaten"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "tehri-s"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "rubeɛ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "yimmaten"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "taɛlayt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:59:30.022903420Z",
+  "model": "glm-5.3"
+}

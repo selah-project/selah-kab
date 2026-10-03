@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yehochua yeḥkem ⟨את⟩ imḍebren n ugdud, ad yinin:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imḍebren"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "imḍebren"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yinin"
+    }
+  ],
+  "timestamp": "2026-10-02T22:10:42.124046197Z",
+  "model": "glm-5.3"
+}

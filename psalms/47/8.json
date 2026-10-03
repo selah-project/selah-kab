@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Acku agellid n tmurt akk ⟨⟨d⟩⟩ Elohim — zemrem s leẓẓeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zemrem"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "s leẓẓeh"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:18.922540557Z",
+  "model": "glm-5.3"
+}

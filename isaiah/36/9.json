@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Amek ara twenḍeleḍ ⟨את⟩ udem n yiwen n lpera, yiwen seg yixeddamen imeẓyanen n bab-iw, kečč i yiman-ik tettḥemmleḍ ɣef Miṣrayim, i yirecbiben d yiserdasen n wergaz?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "amek ara"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "twenḍeleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem n"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "lpera"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "seg yixeddamen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "n bab-iw"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "imeẓyanen"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "tettḥemmleḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "i yirecbiben"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "ed yiserdasen n wergaz"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:52.630571839Z",
+  "model": "glm-5.3"
+}

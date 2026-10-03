@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Amezwar n yiḥessasen yeffeɣ-d Yusef ad yili ɣur-sen ⟨את⟩, yeqdec i ⟨את⟩ ten; uẓen deg lḥebs yal-ass.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "yeffeɣ-d"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Amezwar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "n yiḥessasen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɣur-sen"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "yeqdec i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "uẓen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yal-ass"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "deg lḥebs"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:42.576460232Z",
+  "model": "glm-5.3"
+}

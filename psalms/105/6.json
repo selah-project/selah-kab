@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "A tarwa n Avraham, aqeddac-is; a yigerdan n Yaɛqov, wid yettwafren.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "A tarwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "n Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "aqeddac-is"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a yigerdan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "wid yettwafren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:56.791901354Z",
+  "model": "glm-5.3"
+}

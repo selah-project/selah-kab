@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad cceḥḥeɣ Yahwe akken i ṣedeq-is, ad zzazreɣ i yisem n Yahwe Aɛlay.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ad cceḥḥeɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "akken i ṣedeq-is"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ad zzazreɣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Aɛlay"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:48.532112853Z",
+  "model": "glm-5.3"
+}

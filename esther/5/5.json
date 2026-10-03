@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yenna-yi ugellid: Zerbet ⟨את⟩ Haman iwakken ad yexdem ⟨את⟩ awal n Ester. Yusa-d ugellid d Haman ɣer uṭṭfen-agi n tceεṭṭabt i d-ixedmen ⟨את⟩ Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "zerbet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal n Ester"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yusa-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "d Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ṭṭfen n tceεṭṭabt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "i d-ixedmen"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:24.974143570Z",
+  "model": "glm-5.3"
+}

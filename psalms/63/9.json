@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Teddew yimmet-iw ɣef ideg-k, tiḍri-nnek tḍebbet fell-i.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "teddew"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "yimmet-iw"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ɣef ideg-k"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "tḍebbet"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tiḍri-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:56.354668219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Deg Elohim tkelleɣ; ur ad tgadiɣ acu i d-izemren ad yexdem ⟨umdin⟩ i yid-i.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tkelleɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ad tgadiɣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umdin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yid-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:45.063330678Z",
+  "model": "glm-5.3"
+}

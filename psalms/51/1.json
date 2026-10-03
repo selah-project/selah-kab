@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "I umaran. Mizmor i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i umaran"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:35.750002831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Tura, a Yahwe, ddu-d ⟨את⟩ nefs-iw seg-i, axaṭer lmut-iw tugar lḥyant-iw.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ddu-d"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefs-iw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "seg-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tugar"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "lmut-iw"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "lḥyant-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:51.148641768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "⟨את⟩ ccreɛ-iw ad t-geεem, ⟨את⟩ tilawiyin-iw ad tent-teεεem, ad ttedduεem deg-sen: nekki d Yahwe, Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ccreɛ-iw"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ccreɛ-iw"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ad t-geεem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "tilawiyin-iw"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ad tent-teεεem"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad ttedduεem"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:45.243976896Z",
+  "model": "glm-5.3"
+}

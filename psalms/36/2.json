@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Awal n tuccḍa i ubekkax: deg wul-iw ulac ⟨⟨taggt⟩⟩ n Elohim ar zdat wallen-is.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "awal"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "i ubekkax"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg wul"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "iw"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "taggt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ar zdat"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "wallen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:42.575382165Z",
+  "model": "glm-5.3"
+}

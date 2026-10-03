@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ifilistin ḍfen-d deffir Caul akk d warraw-is; ifilistin ṭṭen ⟨את⟩ Yonatan, ⟨את⟩ Avinadav akk d ⟨את⟩ Malkicua, arraw n Caul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ḍfen-d"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ifilistin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "akk d deffir"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ṭṭen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ifilistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkicua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "cua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Caul"
+    }
+  ],
+  "timestamp": "2026-10-03T03:29:30.995934977Z",
+  "model": "glm-5.3"
+}

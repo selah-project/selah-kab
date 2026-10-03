@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ḥananya unavi yewwi ⟨את⟩ tayuga seg yiri n Yirmeya unavi, yerẓa-tt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Ḥananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "unavi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayuga"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "tayuga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "yiri"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "unavi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "yerẓa-tt"
+    }
+  ],
+  "timestamp": "2026-10-03T00:27:32.068521933Z",
+  "model": "glm-5.3"
+}

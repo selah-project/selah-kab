@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Nnan walan-d seg ugdud ɣer ugdud, seg tgelda ɣer yegduden-nniḍen.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Nnan walan-d"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "seg ugdud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "seg tgelda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yegduden"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:30:31.467149236Z",
+  "model": "glm-5.3"
+}

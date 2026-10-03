@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yella-yas ⟨⟨i⟩⟩ wakud: tamurt akk tella seg yiwen n yiɣem n tmeslayt, d yiwet n tmeslayt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-yas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "iɣem n tmeslayt"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "d yiwet n tmeslayt"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "yiwet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:45.576306897Z",
+  "model": "glm-5.3"
+}

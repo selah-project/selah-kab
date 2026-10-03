@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Akk d ⟨את⟩ wid d-yuẓen seg deffir n Yahwe, akked wid ur nnin ara ⟨את⟩ Yahwe, akk ur t-id-ssuɣɣen ara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid d-yuẓen"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "wid d-yuẓen"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "seg deffir n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "akked wid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nnin ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akk ur"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "t-id-ssuɣɣen ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:31:53.809578361Z",
+  "model": "glm-5.3"
+}

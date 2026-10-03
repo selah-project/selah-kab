@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Iḥkem i ⟨את⟩ winenzwaru: ma yewwi-d yid-k Esav gma, ad yesteqsyak: anwi i telliḍ, anida i tettedduḍ, d anwi wayeṭ llan qbel-ik?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "iḥkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "winenzwaru"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "winenzwaru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "yewwi-d yid-k"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "ad yesteqsyak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "למי",
+      "gloss": "anwi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "anida"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tetedduḍ"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "d anwi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wayeṭ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qbel-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:25:17.952890033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yeqreb-d Aharon ɣer meṛṛad, yexṣeṛ ⟨את⟩ iεeǧǧi n taḥwayt i yellan i yiman-is.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Yeqreb-d"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "meṛṛad"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "yexṣeṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iεeǧǧi n taḥwayt"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "iεeǧǧi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "n taḥwayt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:16.718851511Z",
+  "model": "glm-5.3"
+}

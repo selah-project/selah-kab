@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yenna-d Ebyatar i David belli Caul yinɣ ⟨את⟩ iqedcen n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "yinɣ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen n Yahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:47:47.391952976Z",
+  "model": "glm-5.3"
+}

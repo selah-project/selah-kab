@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Is taggi tiqersiwet nnuba ɣef win tt-yesseɣlin? Is itteqqim tigesdurrit temqeq ɣef win tt-yessuffuɣen? Am tacerḍa ibeddilen ⟨את⟩ wid t-ireyyiven, am teccurt tessuffuɣ-d win ur nelli ara d aẓru!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "is taggi nnuba"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "tiqersiwet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "win tt-yesseɣlin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tt-"
+    },
+    {
+      "surface": "אם",
+      "gloss": "is"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "itteqqim temqeq"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "tigesdurrit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "win tt-yessuffuɣen"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "am tacerḍa ibeddilen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tacerḍa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid t-ireyyiven"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "wid t-ireyyiven"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "am teccurt tessuffuɣ-d"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "teccurt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "aẓru"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:53.716668017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Isuffeɣ-d agdud-is am yiḍqi, yerna inha-ten am ileggu deg tilawin.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "isuffeɣ-d"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "am yiḍqi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "inha-ten"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "am ileggu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg tilawin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:00.585758150Z",
+  "model": "glm-5.3"
+}

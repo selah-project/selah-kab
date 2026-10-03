@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Si taɣult n Binjamin: ⟨את⟩ Gibɛun d migrašen-is, ⟨את⟩ Geba d migrašen-is.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "si taɣult n"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibɛun"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibɛon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "migrašen-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migrašen-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "migrašen-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migrašen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:45.212335772Z",
+  "model": "glm-5.3"
+}

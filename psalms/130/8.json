@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "D netta ara iselken ⟨את⟩ Yisrael seg yal tuccḍa-nsen.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ara iselken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg yal"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "tuccḍa-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:03.483578613Z",
+  "model": "glm-5.3"
+}

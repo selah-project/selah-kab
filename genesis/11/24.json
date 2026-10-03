@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Naḥor yidder tẓa d ɛecrin n yiseggasen, yessili-d ⟨את⟩ Teraḥ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidder"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naḥor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tẓa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "d ɛecrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yessili-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teraḥ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:03.040631658Z",
+  "model": "glm-5.3"
+}

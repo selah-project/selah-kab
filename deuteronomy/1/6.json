@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahwe Elohim-nneɣ yettmeslay ɣur-neɣ deg Ḥoreb, ad yini: Iḥeq iwen tqeddecem deg wedrar-agi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yettmeslay"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣur-neɣ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "deg Ḥoreb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "רב",
+      "gloss": "iḥeq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iwen"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tqeddecem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:49.996737613Z",
+  "model": "glm-5.3"
+}

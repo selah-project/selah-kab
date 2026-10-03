@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Iḥbelen n tmettant ḍeṛṛen-d ɣef-i; isalan n Beliɛal kkessen-iyi-d.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ḍeṛṛen-d ɣef-i"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "iḥbelen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "n tmettant"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "isalan n"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliɛal"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "kkessen-iyi-d"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:49.765379591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad yili, mi ad d-yessuter mmi-k s zdat, ad yini: Acu-tt? Kečč ad tniv-as: S ufus fell-ay, Yahwe yessuffeɣ-aya seg Miṣrayim, seg wexxam n yemdanen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "ad d-yessuter"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mmi-k"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "s zdat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tt"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ad tniv"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "s ufus fell-ay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "yessuffeɣ-aya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n yemdanen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:13.160322418Z",
+  "model": "glm-5.3"
+}

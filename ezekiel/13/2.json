@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "A mden, mmeslay d navi ɣer yinavien n Yisrael i yettmeslayen d navi, ad tinid i winavien wid yettmeslayen seg ul-nsen: C tellud awal n Yahwe.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "a mden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mden"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "mmeslay d navi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "yinavien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "i yettmeslayen d navi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ad tinid"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "i winavien"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "seg ul-nsen"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "c tellud"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:47:06.426507299Z",
+  "model": "glm-5.3"
+}

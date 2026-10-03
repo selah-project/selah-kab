@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Moce, aqeddac n Yahwe, immuten din, deg tmurt n Moab, akken i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "immuten"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aqeddac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "akken"
+    },
+    {
+      "surface": "פי",
+      "gloss": "awal n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:51.514171604Z",
+  "model": "glm-5.3"
+}

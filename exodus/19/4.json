@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Kunwi i twalim ayen xeddeɣ i Miṣrayim, teṭṭfeɣ kunwi ⟨את⟩ ɣef igennawen n yiẓraḍ, iwwey-ttin-d ⟨את⟩ kunwi ɣer iki.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Kunwi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "i twalim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "xeddeɣ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "i Miṣrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "teṭṭfeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "igennawen n"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "yiẓraḍ"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "iwwey-ttin-d"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣer iki"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:15.015808052Z",
+  "model": "glm-5.3"
+}

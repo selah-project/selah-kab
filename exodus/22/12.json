@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma yella yettwafreḍ, ad t-id-yawi d anagi; ayen yettwafreḍ, ur a t-yexles ara.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yettwafreḍ"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "yettwafreḍ"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "ad t-id-yawi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "d anagi"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ayen yettwafreḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yexles ara"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:47.763158338Z",
+  "model": "glm-5.3"
+}

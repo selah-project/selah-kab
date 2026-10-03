@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yahwe yuzen-d awen ⟨את⟩ yindabalen-is meṛṛa, inaviyen, yekker zik yuzen — maca ur teslimeḍ ara, ur tewwiɛem ara ⟨את⟩ imeẓẓuɣen-nwen iwakken ad tselmeḍ.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "yuzen-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "awen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yindabalen-is meṛṛa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yindabalen-is"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "inaviyen"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "yekker zik"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur ... ara"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "teslimeḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "tewwiɛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeẓẓuɣen-nwen"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "imeẓẓuɣen-nwen"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "iwakken ad tselmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:25:05.874580253Z",
+  "model": "glm-5.3"
+}

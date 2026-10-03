@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Diɣen ⟨את⟩ mmi-s n takennatt, ad t-id-errɣ d agdud, axaṭer zerɛ-ik i d-nella.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "diɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s n takennatt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "takennatt"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "d agdud"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ad t-id-errɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zerɛ-ik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-nella"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:52.272139150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Qerben wussan n David iwakken ad yemmut; iḥkem i ⟨את⟩ Cilelomo, mmi-s, ad yenna:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Qerben"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "iwakken ad yemmut"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "iḥkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Cilelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cilelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    }
+  ],
+  "timestamp": "2026-10-03T04:14:56.304849914Z",
+  "model": "glm-5.3"
+}

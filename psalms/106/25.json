@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "nuɣen deg txamwin-nsen, ur nesla ara i teɣect n Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "nuɣen"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "deg txamwin-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nesla ara"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i teɣect"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:14.344039501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ticki Adonai issun ⟨את⟩ tamsukt n tisuti n Ṣicyun, id yessuffuɣen ⟨את⟩ idammen n Yerucalayim seg talemmast-is, s ruaḥ n ccreɛ, s ruaḥ n lḥeṛq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ticki"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "issun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamsukt n tisuti n Ṣicyun"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "tamsukt"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tisuti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣicyun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idammen n Yerucalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "ad yessuffeɣ"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "seg talemmast-is"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "s ruaḥ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "n ccreɛ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "s ruaḥ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "n lḥeṛq"
+    }
+  ],
+  "timestamp": "2026-10-03T04:19:37.686071145Z",
+  "model": "glm-5.3"
+}

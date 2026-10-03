@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ayen id-yeǧǧa deggmeg ay yeṭṭef ugummu; ayen id-yeǧǧa ugummu ay yeṭṭef aqummum; ayen id-yeǧǧa aqummum ay yeṭṭef lḥaẓil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "ayen id-yeǧǧa"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "deggmeg"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ugummu"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ayen id-yeǧǧa"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ugummu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "aqummum"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ayen id-yeǧǧa"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "aqummum"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "lḥaẓil"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:31.623369629Z",
+  "model": "glm-5.3"
+}

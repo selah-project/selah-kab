@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ur neɛreḍ ara tid yettwafrrant ɣur-s? I nezzu-aɣ-t, i ṭṭef-akk d lewɛam ⟨את⟩ leɛwamis-nneɣ.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ur... ara"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "tid yettwafrrant"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "neɛreḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "כי",
+      "gloss": "I"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "nezzu-aɣ-t"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "i ṭṭef"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "lewɛam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leɛwamis-nneɣ"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "leɛwamis-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:43.183249927Z",
+  "model": "glm-5.3"
+}

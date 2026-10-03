@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Nniɣ i Yahwe: Adonai, kečç ⟨i⟩-t; ⟨mačči⟩ s yis-k ⟨yiwen n⟩ lxir-iw.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "lxir-iw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "s yis-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:55.682732787Z",
+  "model": "glm-5.3"
+}

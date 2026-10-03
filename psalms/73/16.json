@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Ttḥekkimeɣ ad ẓreɣ taɣawsa-agi, d tawa deg tiṭṭawen-iw.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "Ttḥekkimeɣ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad ẓreɣ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "taɣawsa-agi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d-tut"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭṭawen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:26.082663770Z",
+  "model": "glm-5.3"
+}

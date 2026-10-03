@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Errant-asent, nnant: Yella, atan deg zdat-ik; zreb tura, axaṭer ass-a i d-ikecmen ɣer tmert, axaṭer ass-a yella ⟨w⟩ asfel i wgdan deg babma.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "errant"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "asent"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "nnant"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "atan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "deg zdat-ik"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "zreb"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ikecmen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ɣer tmert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "asfel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i wgdan"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "deg babma"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:03.063094402Z",
+  "model": "glm-5.3"
+}

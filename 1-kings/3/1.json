@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Solimun iḥemmel s lɛahd n tmeṭṭut akked Ferɛun, agellid n Miṣrayim, yerna yeṭṭef ⟨את⟩ yelli-s n Ferɛun, iwett-d tikelt-is ɣer temdint n David, armi ifukk ad yebnu ⟨את⟩ axxam-is, ⟨את⟩ axxam n Yahwe, d ⟨את⟩ ṣṭuḥ n Yerucalayim s ayen yeḍran.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "iḥemmel s lɛahd n tmeṭṭut"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solimun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ferɛun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelli-s"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Ferɛun"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "iwett-d tikelt-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ifukk"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ad yebnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam-is"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "axxam-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ṣṭuḥ n Yerucalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ṣṭuḥ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s ayen yeḍran"
+    }
+  ],
+  "timestamp": "2026-10-03T04:14:39.905218519Z",
+  "model": "glm-5.3"
+}

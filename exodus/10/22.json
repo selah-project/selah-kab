@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Moce yemmed ⟨את⟩ afus-is ɣef igenwan, yella tawda tiberkant di tmurt akk n Miṣrayim, kraḍ n wussan.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "yemmed"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tawda"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "tiberkant"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:51.982643786Z",
+  "model": "glm-5.3"
+}

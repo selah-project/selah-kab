@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Sɣur waya, argaz ad yeḥbes ad yeqqim ɣer baba-s d yemma-s ⟨את⟩ baba-s, ⟨את⟩ yemma-s — ad yeddfeṛ ɣer tawtmat-is, ad llan d aksum yiwen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sɣur"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ad yeḥbes ad yeqqim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yemma-s"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ad yeddfeṛ ɣer"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "tawtmat-is"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad llan"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "d aksum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:36.067346534Z",
+  "model": "glm-5.3"
+}

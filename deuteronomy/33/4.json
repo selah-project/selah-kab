@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Tora i yi-nessi Moce; d ayla n temsalt n Yaɛqov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i yi-nessi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "yi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "temsalt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:26.166687113Z",
+  "model": "glm-5.3"
+}

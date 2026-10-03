@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "I yumeṛ n tmeẓla. Mizmor n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i yumeṛ n tmeẓla"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:47.278495316Z",
+  "model": "glm-5.3"
+}

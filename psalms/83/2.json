@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "A Elohim, ur qqim ara d taṣeḥlit deg-s; ayyur ad teḥrecreḍ, ur ttṛeǧǧib ara, a El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "A Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "taṣeḥlit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayyur"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ad teḥrecreḍ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ttṛeǧǧib ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a El"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:49.017381988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 2:34",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Neṭṭef ⟨את⟩ meṛṛa tiɣremmac-is deg wakud-nni, u neḥrem ⟨את⟩ yal tiɣremt: irgazen, tilawin, iẓekwan — ur neǧǧi ara yiwen win iqqimen.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "neṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa tiɣremmac-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "tiɣremmac-is"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ונחרם",
+      "gloss": "neḥrem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yal tiɣremt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tiɣremt"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "iẓekwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "השארנו",
+      "gloss": "neǧǧi ara"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "win iqqimen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:00.355929529Z",
+  "model": "glm-5.3"
+}

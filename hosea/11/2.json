@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ssawlen-asen, maca ṛuḥen si ɣer zdat-nsen: i yibaɛalim qqimen ssadqen, i tuɣac n yeẓra qqimen lḥeqqab.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "ssawlen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "maca"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "si ɣer zdat-nsen"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "i yibaɛalim"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ssadqen"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "i tuɣac n yeẓra"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "lḥeqqab"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:24.862737810Z",
+  "model": "glm-5.3"
+}

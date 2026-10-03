@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yenna-yas: Ɛeddi, ssuter i yiman-ik ⟨את⟩ yideggen seg beṛṛa, ɣer ⟨את⟩ yimezdaɣ-ik akk — yideggen ilmawen, ur sen-ttwenniz ara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ɛeddi"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "ssuter"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "yideggen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "yimezdaɣ-ik akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "yimezdaɣ-ik"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "yideggen"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ilmawen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "ttwenniz"
+    }
+  ],
+  "timestamp": "2026-10-03T04:16:52.544444232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Mmeslay-d i warraw n Yisrael, ad asen-tennid: Tikkelt mi tettazal ⟨את⟩ Yarden, ɣer tmurt n Kenɛan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mmeslay-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ad asen-tennid"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tikkelt mi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tettazal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenɛan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:45:44.684290430Z",
+  "model": "glm-5.3"
+}

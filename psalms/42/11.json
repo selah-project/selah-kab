@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "S teɣsert deg iɣsan-iw ctuɣen-iyi iɛdawen-iw, mi nnan-as-iḍ akk-ass: anda i yella Elohim-ik?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "s teɣsert"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "deg iɣsan-iw"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ctuɣen-iyi"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "mi nnan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "-as-iḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "-ass"
+    },
+    {
+      "surface": "איה",
+      "gloss": "anda i yella"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:25.755537862Z",
+  "model": "glm-5.3"
+}

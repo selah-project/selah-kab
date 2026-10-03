@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad zduɣev, teɣreḍ, iwakken ad waliɣ ⟨את⟩ tmelt ⟨i⟩ txeṛpt, i d-yezgan nnig n Yarden, adrar-agi ifaten, d Lubnan.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ad zduɣev"
+    },
+    {
+      "surface": "נא",
+      "gloss": "teɣreḍ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ad waliɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmelt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmelt"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "txeṛpt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yezgan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "nnig n"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ifaten"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "d Lubnan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:40.529959184Z",
+  "model": "glm-5.3"
+}

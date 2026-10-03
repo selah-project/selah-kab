@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Acku iḥermen-iw iẓriɣ nekk, d tugna-nni kan i d-yettban deg-wenɣid-iw, war aḥbas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "iḥermen-iw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "iẓriɣ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "tugna-nni kan"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "deg-wenɣid-iw"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "war aḥbas"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:24.943074879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "D ⟨את⟩ Dedan, ⟨את⟩ Tema, ⟨את⟩ Buz, akken ⟨את⟩ yal win iqeccḍen tixxamin-is nnig wallen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akken ⟨את⟩",
+      "marks": "yal win iqeccḍen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "iqeccḍen"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "tixxamin nnig wallen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:23:42.993304778Z",
+  "model": "glm-5.3"
+}

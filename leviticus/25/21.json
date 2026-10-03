@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad ḥeddeɣ ⟨את⟩ tabarkt-iw iwen deg usseggwas wis-sedḍis, ad d-texleq ⟨את⟩ taylaɣi i kraḍ n yiseggwasen.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ad ḥeddeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabarkt-iw"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "tabarkt-iw"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iwen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg usseggwas"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "wis-sedḍis"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ad d-texleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taylaɣi"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "taylaɣi"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "i kraḍ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "n yiseggwasen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:08.666404981Z",
+  "model": "glm-5.3"
+}

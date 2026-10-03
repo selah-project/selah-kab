@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "translation": "Ad iḥekem gar yalayen; ad yečč⟨t⟩ tamurt s yimslen; ad yeqqeɛ aqerruy ⟨the⟩ ɣef tmurt tameqqrant.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ad iḥekem"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gar yalayen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ad yečč tamurt"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "s yimslen"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ad yeqqeɛ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "aqerruy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "tameqqrant"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:08.103696193Z",
+  "model": "glm-5.3"
+}

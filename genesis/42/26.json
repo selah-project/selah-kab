@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ḥemmen-d ⟨את⟩ tawaṭṭfa-nnsen ɣef yiferḍayen-nsen, u ffɣen-d seg din.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ḥemmen-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawaṭṭfa-nnsen"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "tawaṭṭfa-nnsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "yiferḍayen-nsen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u ffɣen-d"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:41.552426169Z",
+  "model": "glm-5.3"
+}

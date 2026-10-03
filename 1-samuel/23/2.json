@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "David yesteqsa Yahwe, yenna: Ad ddueɣ, ad ḥenzeɣ Felistim-agi? Yahwe yenna i David: Ddu, ḥenzeɣ ⟨את⟩ Felistim, u selkɛed ⟨את⟩ Qeɛila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "yesteqsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Ad ddueɣ"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ad ḥenzeɣ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Felistim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ddu"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ḥenzeɣ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Felistim"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "u selkɛed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeɛila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeɛila"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:55.070382607Z",
+  "model": "glm-5.3"
+}

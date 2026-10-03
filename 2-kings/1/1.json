@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Moab yefser mgal Yisrael deffir lmut n Aḥab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "yefser"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "mgal Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmut"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "n Aḥab"
+    }
+  ],
+  "timestamp": "2026-10-02T23:26:51.453031587Z",
+  "model": "glm-5.3"
+}

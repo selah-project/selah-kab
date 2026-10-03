@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Acku agdud-is ad yuɣal ɣer da, d waman n tukkit ttwaṣuffen-iten.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ɣer da"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "d waman"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "n tukkit"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ttwaṣuffen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "iten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:31.508304304Z",
+  "model": "glm-5.3"
+}

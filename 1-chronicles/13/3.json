@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad nerr-d ⟨את⟩ taqbuct n Elohim-nneɣ ɣer-neɣ, axaṭer ur nesṭeqqel ara deg wussan n Cawel.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ad nerr-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqbuct n Elohim-nneɣ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "taqbuct"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "n Elohim-nneɣ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "nesṭeqqel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Cawel"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:45.074062747Z",
+  "model": "glm-5.3"
+}

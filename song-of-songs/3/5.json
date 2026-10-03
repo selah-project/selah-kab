@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ciḥeddeɣ-kent, tifeḥliwin n Yerucalayim, s ṣebɛan n lexla neɣ s tzerẓafin n lexla: ur kkrent, ur seggmet ara ⟨את⟩ taḥbubt, alamma tḥemmel.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ciḥeddeɣ-kent"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ -kent",
+      "marks": "tifeḥliwin n Yerucalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tifeḥliwin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "s ṣebɛan"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "s tzerẓafin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n lexla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kkrent"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "seggmet ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥbubt"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "taḥbubt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alamma"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "tḥemmel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:55.863143476Z",
+  "model": "glm-5.3"
+}

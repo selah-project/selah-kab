@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ayen yerzin ur izmir ara ad yewdel, ayen iweṣṭen ur izmir ara ad yetsiḍen.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "yerzin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "izmir ara"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ad yewdel"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ayen iweṣṭen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "izmir ara"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ad yetsiḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:50.682397213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Tudert yessuter Γur-ek, tsawel-ed teccdeḍ-as-t-id; teƔzi n wussan, Γer zik i nezzeh, Γer lebda.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Tudert"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "yessuter"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Γur-ek"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "teccdeḍ-as-t-id"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "teƔzi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Γer zik i nezzeh"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "Γer lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:11.890409479Z",
+  "model": "glm-5.3"
+}

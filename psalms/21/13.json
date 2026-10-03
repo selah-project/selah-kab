@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ack ad tent-terraḍ ⟨את⟩ ḍeffir, s yizraben-ik ad tḥejjiḍ ɣef udem-nsen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ack"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ad tent-terraḍ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ḍeffir"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "s yizraben-ik"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "ad tḥejjiḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "udem-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:04.574376044Z",
+  "model": "glm-5.3"
+}

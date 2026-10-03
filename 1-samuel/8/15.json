@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Tafert-nwen d tebniwin-nwen ad yesɛur, ad ten-yefk i yiḥeṛjan-is d yemdakwal-is.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "tafert-nwen"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "tebniwin-nwen"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ad yesɛur"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ad-yefk"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "i yiḥeṛjan-is"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "i yemdakwal-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:34.509303999Z",
+  "model": "glm-5.3"
+}

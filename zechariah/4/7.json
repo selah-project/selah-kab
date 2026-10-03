@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 4:7",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Anwa-tt kečč, adrar ameqqran, ɣer Zerubabel? Ad tuɣaleḍ d aẓrar imdanen! Ad d-yessuffeɣ ⟨את⟩ taṣleḍt tamenḍirt; isdaduyen ad ilin: Leɛfu, leɛfu i wayagi!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa-tt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "למישר",
+      "gloss": "ad tuɣaleḍ d aẓrar imdanen"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ad d-yessuffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣleḍt tamenḍirt"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "taṣleḍt"
+    },
+    {
+      "surface": "הראשה",
+      "gloss": "tamenḍirt"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "isdaduyen"
+    },
+    {
+      "surface": "חן",
+      "gloss": "leɛfu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "leɛfu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i wayagi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:34:13.636207124Z",
+  "model": "glm-5.3"
+}

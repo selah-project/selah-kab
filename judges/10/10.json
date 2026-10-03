@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Wid n Yisrael ɛawen-d ɣer Yahwe nnan: Nekni akwḥem deg-nek i tikkelt-nni, neḥla ɣef ⟨את⟩ Elohim-nneɣ u nessevdeḥ ⟨את⟩ lbaɛlayim.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ɛawen-d"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "akwḥem deg-nek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i tikkelt-nni"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i Neḥla ɣef"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "neḥla ɣef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim-nneɣ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "u nessevdeḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lbaɛlayim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "lbaɛlayim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:26:52.357476758Z",
+  "model": "glm-5.3"
+}

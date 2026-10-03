@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 67,
+  "translation": "Iɣlanen ad feṛḥen ad ruḥen s ccna, axaṭer kečč i teḥkem iɣlanen s lḥeqq, i ten-ihda di tmurt. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ad feṛḥen"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "ad ruḥen s ccna"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "i teḥkem"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "s lḥeqq"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "i ten-ihda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ad ten-ihdu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:31.762644196Z",
+  "model": "glm-5.3"
+}

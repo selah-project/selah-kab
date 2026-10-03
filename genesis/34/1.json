@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Dina, tellit n Lea, i tt-d-yulden i Yaɛqov, teffeɣ akken ad twali tullas n tmurt.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "teffeɣ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tellit"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tt-d-yulden"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "i Yaɛqov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad twali"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "tullas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:06.809521062Z",
+  "model": "glm-5.3"
+}

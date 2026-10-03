@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Tugniwin n yegdulen d lfḍḍa d ureɣ, lxelq n ifassen n wemdan.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "tugniwin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "n yegdulen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfḍḍa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "d ureɣ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lxelq"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n ifassen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:33.574397129Z",
+  "model": "glm-5.3"
+}

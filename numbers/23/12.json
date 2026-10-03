@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yerreh-d yenna: Mačči ⟨הלא⟩ d ⟨את⟩ ayen Yahwe ad yexdem deg imi-w, ihi-t iri ad t-id-mmeslayeɣ?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Yerreh-d"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Mačči ⟨הלא⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen Yahwe ad yexdem deg imi-w"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "deg imi-w"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ad t-id-mmeslayeɣ"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "iri ad t-id-mmeslayeɣ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ad d-mmeslayeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:38:33.066230302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ad t-ǧǧen ad yali deg uɣrum n ugdud, ad t-qadren deg diɣi n yimɣaren.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "ad t-ǧǧen ad yali"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "deg uɣrum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "deg diɣi"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "n yimɣaren"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ad t-qadren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:37.145570262Z",
+  "model": "glm-5.3"
+}

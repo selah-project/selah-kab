@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 129,
+  "translation": "Wid yezrin ur nnan ara: Taberkant n Yahwe teg ⟨i⟩-kwen; neḥkemmat ⟨i⟩-kwen s yisem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "wid yezrin"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "taberkant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teg ⟨i⟩-kwen"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "neḥkemmat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨i⟩-kwen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:07.449877191Z",
+  "model": "glm-5.3"
+}

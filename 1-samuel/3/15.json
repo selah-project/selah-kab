@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Cemuɛel yeɣli armi d taṣebḥit, yeldi ⟨את⟩ tibbura n wexxam n Yahwe; Cemuɛel yugad ad d-yini i Eli ⟨את⟩ timeẓri.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yeɣli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuɛel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi d"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "taṣebḥit"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibbura"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "tibbura"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Cemuɛel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yugad"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "ad d-yini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timeẓri"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "timeẓri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:55.104488249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Inehhom-iten s tagmart ass, yal iḍ s tafat n tmes.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "inehhom-iten"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "s tagmart"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ass"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "s tafat"
+    },
+    {
+      "surface": "אש",
+      "gloss": "n tmes"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:31.610500717Z",
+  "model": "glm-5.3"
+}

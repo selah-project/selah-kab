@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Aṭas n lmeḥna i wagraḥlan; maḍi win yetteklen di Yahwe, ⟨ḥesed⟩ ad t-iḥezz.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Aṭas n"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "lmeḥna"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "i wagraḥlan"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "maḍi win yetteklen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ad t-iḥezz"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:45.026967549Z",
+  "model": "glm-5.3"
+}

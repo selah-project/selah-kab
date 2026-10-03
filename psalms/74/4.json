@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Ṛṛezben i d-yellan ivehhi-ik deg telas-iw n umḍfaṛ-ik; rnan tibertiyin-nsen d tibertiyin.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Ṛṛezben"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "i d-yellan ivehhi-ik"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg telas-iw"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "n umḍfaṛ-ik"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "rnan"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "tibertiyin-nsen"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "d tibertiyin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:23.989059146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Benn, a nefs-iw, ⟨את⟩ Yahwe. A Yahwe, Elohim-iw, tcubḥeḍ aṭas; taẓmert d lḥerma tcebbeḍ.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Benn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a nefs-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "tcubḥeḍ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "taẓmert"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "d lḥerma"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "tcebbeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:35.837208823Z",
+  "model": "glm-5.3"
+}

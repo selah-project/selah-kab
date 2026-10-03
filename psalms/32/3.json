@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Mi ssewḥel, iɣsan-iw ḥermit, mi zuzreɣ ass akk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ssewḥel"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ḥermit"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "iɣsan-iw"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "mi zuzreɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:59.625466457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yeḥlef Yahwe Ṣebaot, ad yini: s tideεt, akken i d-ḥeṣbiɣ, akka i yella-d; akken i d-ḥekmeɣ, d nettat ad tili.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Yeḥlef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "či"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "i d-ḥeṣbiɣ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i yella-d"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "akked akken"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "i d-ḥekmeɣ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ad tili"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:47.326686600Z",
+  "model": "glm-5.3"
+}

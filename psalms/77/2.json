@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Taɣect-iw ɣer Elohim, ad lijdeɛ; taɣect-iw ɣer Elohim, ad d-isel fell-i.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "taɣect-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ad lijdeɛ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "taɣect-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ad d-isel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:27.416162099Z",
+  "model": "glm-5.3"
+}

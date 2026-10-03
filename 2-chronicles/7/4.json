@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Agellid akk d wegdud, qebben iqebbḥen zdat Yahwe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qebben"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "iqebbḥen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T03:39:48.382657995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tenna i yirgazen: Ẓriɣ belli Yahwe yefka-yawen ⟨את⟩ tmurt, belli tugdi-nwen tuɣal-d ɣefneɣ, belli kkaten akk imezdaɣ n tmurt deg udem-nwen.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Tenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "yirgazen"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ẓriɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-yawen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "tuɣal-d"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "tugdi-nwen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ɣefneɣ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "kkaten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "deg udem-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:11:40.433384783Z",
+  "model": "glm-5.3"
+}

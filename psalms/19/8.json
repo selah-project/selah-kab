@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Tora n Yahwe ⟨d⟩ takmilt, d tin i d-terrannen tanefsa; timawin n Yahwe ⟨d⟩ tumment, d tin yessnubbigen win ur nessin ara.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "takmilt"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "d tin i d-terrannen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tanefsa"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "timawin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "tumment"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "d tin yessnubbigen"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "win ur nessin ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:01.246121252Z",
+  "model": "glm-5.3"
+}

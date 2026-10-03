@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Moce d Aharon xedmen akken i d-yeṣṣefra Yahwe ⟨את⟩-sen, akken i xedmen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeṣṣefra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-sen",
+      "marks": "Moce d Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:19.707515981Z",
+  "model": "glm-5.3"
+}

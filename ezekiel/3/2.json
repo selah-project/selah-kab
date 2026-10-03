@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yeftiɣ i ⟨את⟩ yimi-w, yerra-yi ad ččeɣ ⟨את⟩ tameɣlut-agi.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "yeftiɣ i yimi-w"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimi-w"
+    },
+    {
+      "surface": "פי",
+      "gloss": "yimi-w"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "yerra-yi ad ččeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameɣlut-agi"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "tameɣlut"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-03T00:44:06.421737007Z",
+  "model": "glm-5.3"
+}

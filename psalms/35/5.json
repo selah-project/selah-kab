@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad ilin d iqenciren uqbel n ruaḥ, ad ten-iḥeḍḍu amceggeɛ n Yahwe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "d iqenciren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "uqbel n"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "amceggeɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ad ten-iḥeḍḍu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:39.088551968Z",
+  "model": "glm-5.3"
+}

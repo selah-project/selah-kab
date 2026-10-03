@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad isseṣṣ ⟨את⟩ tmeṭṭut ⟨את⟩ waman iqquren, wid inemmalen talɛant; ad kecmen deg-s waman inemmalen talɛant, iwakken ad uɣalen iqquren.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "ad isseṣṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmeṭṭut"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waman iqquren"
+    },
+    {
+      "surface": "מי",
+      "gloss": "waman"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "iqquren"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "inemmalen talɛant"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ad kecmen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "inemmalen talɛant"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "ad uɣalen iqquren"
+    }
+  ],
+  "timestamp": "2026-10-02T21:25:11.493101356Z",
+  "model": "glm-5.3"
+}

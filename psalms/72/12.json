@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Acku ad isellek ⟨את⟩ ugellil yettɣiwilen, ⟨את⟩ wabaḍ ur nesɛi ara win t-id-yettallen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ad isellek"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ugellil"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "yettɣiwilen"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "d wabaḍ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ur nesɛi ara"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "win t-id-yettallen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:11.088062693Z",
+  "model": "glm-5.3"
+}

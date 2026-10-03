@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Iɛdawen-iw qqaren: dir iwi — melmi ara yemmut, ad yenuɣ isem-is?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "qqaren"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iwi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ad yenuɣ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:13.283344031Z",
+  "model": "glm-5.3"
+}

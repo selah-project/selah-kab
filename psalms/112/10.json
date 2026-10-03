@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Win n ccer ad iẓer ad yexleḍ; tiẓmewin-is ad iḥeqqec, ad yemṭi; lebɣi n wid n ccer ad yemmet.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Win n ccer"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ad iẓer"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ad yexleḍ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tiẓmewin-is"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "ad iḥeqqec"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ad yemṭi"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "lebɣi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n wid n ccer"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:50.904395363Z",
+  "model": "glm-5.3"
+}

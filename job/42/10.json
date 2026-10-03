@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yahwe irren ⟨את⟩ tikkelt n Iyub mi yella yettallal i yimdukkal-is; Yahwe yerna-yas ⟨את⟩ akk wayen ilaq-i Iyub d sin n tikkal.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "irren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikkelt n Iyub"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "tikkelt"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "n Iyub"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "mi yella yettallal"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "i"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yimdukkal-is"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "yerna-yas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wayen ilaq-i Iyub"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ilaq-i Iyub"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "d sin n tikkal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:35.659510113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Ihi, deg wul, taḥma tettekkit deg tmurt; taḥrawt n yifassen-nwen a t-teksim.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "deg wul"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "taḥma"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "tettekkit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "taḥrawt"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "n yifassen-nwen"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "a t-teksim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:30.397533641Z",
+  "model": "glm-5.3"
+}

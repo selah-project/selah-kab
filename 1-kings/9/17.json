@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Celomo yebna ⟨את⟩ Gezer, akked ⟨את⟩ Bet-Ḥoron n wadda.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Bet-Ḥoron n wadda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Ḥoron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "n wadda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:25.555814202Z",
+  "model": "glm-5.3"
+}

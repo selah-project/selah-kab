@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yahwe yuzen ⟨את⟩ Netan ɣer David; yewweḍ-d ɣer-s, yenna-yas: llan sin n yirgazen deg yiwet n temdint, yiwen yesɛan aṭas, wayeḍ ur yesɛi ara.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Netan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yewweḍ-d"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "n yirgazen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "yesɛan aṭas"
+    },
+    {
+      "surface": "ויחד",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ur yesɛi ara"
+    }
+  ],
+  "timestamp": "2026-10-02T23:01:23.825675129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ma yunef ubeki, ur yelmid ara ⟨את⟩ ṣedeq; deg tmurt n lwiddeɛ ad iḥekm d taggaraẓit, ur izedmir ara ⟨את⟩ tametbest n Yahwe.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "ma yunef ubeki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ubeki"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "למד",
+      "gloss": "yelmid ara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "n lwiddeɛ"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "ad iḥekm d taggaraẓit"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "izedmir ara"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "tametbest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:01.980368058Z",
+  "model": "glm-5.3"
+}

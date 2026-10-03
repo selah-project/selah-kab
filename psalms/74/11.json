@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Acimi i terriḍ afus-ik, ay ṛebε-ik? Ssuffeγ-it seg ideṛṛ-ik, ṣemmet-ten!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "acimi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "terriḍ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ay ṛebε-ik"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "seg"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "ideṛṛ-ik"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ṣemmet-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:02.788428351Z",
+  "model": "glm-5.3"
+}

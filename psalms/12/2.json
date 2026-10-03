@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Sellek a Yahwe, axaṭer iḥesden ṛuḥen; axaṭer wid yestehmin ṛuḥen seg warrac n wemdan.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Sellek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "iḥesden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "wid yestehmin"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "seg warrac n"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:41.475426715Z",
+  "model": "glm-5.3"
+}

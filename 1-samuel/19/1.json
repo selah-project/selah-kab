@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yenna-d Shaul i Yonatan mmi-s, d akk idammen-is, iwakken ad yenɣen ⟨את⟩ David. Yonatan, mmi n Shaul, iḥemmel David aṭas.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "idammen-is"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ad yenɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:33.442165693Z",
+  "model": "glm-5.3"
+}

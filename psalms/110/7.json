@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "translation": "Seg wasif deg ubbrid ad isew; ɣef waya ad issuli aqerruy.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "seg wasif"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubbrid"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ad isew"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ad issuli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "aqerruy"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:08.103850206Z",
+  "model": "glm-5.3"
+}

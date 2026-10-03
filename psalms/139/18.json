@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Ma ḥsebɣ-ten, ugar n yilel i llan; mi nekkredɣ, mazal nekk yid-k.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "Ma ḥsebɣ-ten"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ugar n yilel"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "i llan"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "mi nekkredɣ"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "mazal nekk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.474554394Z",
+  "model": "glm-5.3"
+}

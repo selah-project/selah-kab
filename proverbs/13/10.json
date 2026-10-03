@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "S zbu kan i d-yettarra iḥeqqiqen; ma d wid yettwaεeṭṭfen, i d-lla teqbayt ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "s zbu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "i d-yettarra"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "iḥeqqiqen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid yettwaεeṭṭfen"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "wid yettwaεeṭṭfen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "teqbayt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:13.731316466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Yettebrik Yahwe Elohim, Elohim n Yisrael, win ixedmen ⟨leɛǧayeb⟩ yiwen kan.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yettebrik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixedmen"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "leɛǧayeb"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yiwen kan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.543923897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yahwe Elohim yessawel i umdan, yenna-yas: Anida telliḍ?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umdan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Anida telliḍ?"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:29.924904069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ihi, ssensed iman-ik, zeddeɣ iman-ik, soldek taqbuct-ik fell-ak, ddu ɣer ddaw ɣer tiḥri n uɣrum; ur tettwassed ara i wemdan, arma yekfa tict d tissit.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "ssensed iman-ik"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "zeddeɣ iman-ik"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "soldek"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "taqbuct-ik"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fell-ak"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "ddu ɣer ddaw"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "tiḥri n uɣrum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "tettwassed"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "yekfa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "tict"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "d tissit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:51:23.748311887Z",
+  "model": "glm-5.3"
+}

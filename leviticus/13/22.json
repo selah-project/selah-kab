@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ma teččur beṭṭel deg usgel, akohen ad yessilen ⟨את⟩ negɛa: ad t-iḥkem d ireqdi — negɛa d neṭṭa-tt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "beṭṭel"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "deg usgel"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ad t-iḥkem d ireqdi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "negɛa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "negɛa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d neṭṭa-tt"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:44.874358047Z",
+  "model": "glm-5.3"
+}

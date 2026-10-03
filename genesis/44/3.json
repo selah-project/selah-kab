@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Mi yella ṣṣbaḥ yebḍa, irgazen ɛeddlen-d, nutni d yifer-nsen.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "ṣṣbaḥ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yebḍa"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ɛeddlen-d"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "d yifer-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:54.496712699Z",
+  "model": "glm-5.3"
+}

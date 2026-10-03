@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "D argaz i yezennan ⟨את⟩ tawtemt n wemdan-nniḍen, i yezennan ⟨את⟩ tawtemt n ɛeddis-is, lmot ad mmuten: win izennan d tesnit-is izennan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "D argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "yezenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawtemt"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tawtemt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan-nniḍen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "yezenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawtemt"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tawtemt"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n ɛeddis-is"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmot"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad mmuten"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "win izennan"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "d tesnit-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:04.030449322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yahwe d-yessed deg wejnu, yeddekkel yid-s din, issem-d i Yisem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "d-yessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "deg wejnu"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "yeddekkel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "issem-d"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "i Yisem n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:35.573391476Z",
+  "model": "glm-5.3"
+}

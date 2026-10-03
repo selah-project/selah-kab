@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ulac lxiṛ i wemeḥbus, ur yeẓẓin ara yimdanen-is am tillas; axaṭer netta ur yelli ara d ajerḥeb zdat Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ulac lxiṛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yili ara"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "i wemeḥbus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "yeẓẓin ara"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yimdanen-is"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "am tillas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ur yelli ara"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "d ajerḥeb"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:59:06.069734768Z",
+  "model": "glm-5.3"
+}

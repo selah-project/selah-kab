@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Walan, widagi d ibeeḥṣiyen, d wid yettuskin i lebda; smignen-d lexlaṣ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Walan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "widagi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ibeeḥṣiyen"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "d wid yettuskin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "smignen-d"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "lexlaṣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:31.508626578Z",
+  "model": "glm-5.3"
+}

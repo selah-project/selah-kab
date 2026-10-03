@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Axaṭer tgeḍ-d ccreɛ-iw d lɛahd-iw; teṭṭfeḍ ⟨i⟩ teɣsert, ad iḥkem s ṣedeq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tgeḍ-d"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ccreɛ-iw"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "d lɛahd-iw"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "teṭṭfeḍ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨i⟩ teɣsert"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "s ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:43.208430180Z",
+  "model": "glm-5.3"
+}

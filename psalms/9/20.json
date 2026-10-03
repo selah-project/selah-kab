@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ihuder a Yahwe; ad yezdig ara wemdan ad yɛezzeɛ; ad ttwaḥkmen yegduden deg wudmawen-ik.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ihuder a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad yezdig ara"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ad yɛezzeɛ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ad ttwaḥkmen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "yegduden"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wudmawen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:42.518328507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Kelub, gma n Cuxa, iwlad ⟨את⟩ Meḥir; neppa d baba n Ecṭun.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "n Cuxa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meḥir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Meḥir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neppa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "d baba"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "n Ecṭun"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:05.609501193Z",
+  "model": "glm-5.3"
+}

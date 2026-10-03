@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 134,
+  "translation": "Tagi n tulliyin. Walayt, berrḥet ⟨את⟩ Yahwe, yal ixeddamen n Yahwe, wid yezgan deg wexxam n Yahwe deg yiḍan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Tagi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tulliyin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Walayt"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berrḥet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ixeddamen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "wid yezgan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "deg yiḍan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:35.137214358Z",
+  "model": "glm-5.3"
+}

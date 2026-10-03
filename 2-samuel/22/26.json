@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "I win icessen, Tettekḥesdec s ḥesed; i win n tnegmart, ad tiliḍ d ameṭṭuf.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "i"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "win icessen"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "Tettekḥesdec s ḥesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "i"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "win n tnegmart"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ameṭṭuf"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ad tiliḍ d ameṭṭuf"
+    }
+  ],
+  "timestamp": "2026-10-02T23:07:56.639351342Z",
+  "model": "glm-5.3"
+}

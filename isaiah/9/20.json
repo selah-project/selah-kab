@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Menace ⟨את⟩ Efrayim, Efrayim ⟨את⟩ Menace; nitni yakk mgal Yehuda. Deg waya akk, tmerẓi-s ur tuɣal ara, afus-is mazal yuli.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menace"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menace"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menace"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yakk"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nitni"
+    },
+    {
+      "surface": "על",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waya akk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tuɣal ara"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tmerẓi-s"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "yuli"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:27.381161249Z",
+  "model": "glm-5.3"
+}

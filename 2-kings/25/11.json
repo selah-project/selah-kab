@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "D ⟨את⟩ wayen i d-yeqqimen seg ugdud deg temdint, d ⟨את⟩ wid iṛuḥen ɣer ugellid n Babil, d ⟨את⟩ wayen i d-yeqqimen seg wegdud, iselḥeb-iten Nebuzaradan, unemhal n yiṭabbaḥen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "D ⟨את⟩",
+      "marks": "wayen i d-yeqqimen seg ugdud"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "wayen i d-yeqqimen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "seg ugdud"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "i d-yeqqimen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wid iṛuḥen"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "wid iṛuḥen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wayen i d-yeqqimen seg wegdud"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "wayen i d-yeqqimen"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "seg wegdud"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "iselḥeb"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "unemhal"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "n yiṭabbaḥen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:02.597794475Z",
+  "model": "glm-5.3"
+}

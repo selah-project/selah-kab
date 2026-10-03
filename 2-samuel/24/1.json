@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yerna tigrit n Yahwe ad yuli deg Yisrael, iḥewwel ⟨את⟩ David ɣur-sen, ad yini: Ẓer, eḥseb ⟨את⟩ Yisrael akked ⟨את⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tigrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "iḥewwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ẓer"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "eḥseb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:07.943296865Z",
+  "model": "glm-5.3"
+}

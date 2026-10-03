@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "S teḥermict-ik s tussna-ik, txelqed adrim; txelqed ṣṣeḥ d lfeḍḍa deg ikufan-ik.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "S teḥermict-ik"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "s tussna-ik"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txelqed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "adrim"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "adrim"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "txelqed"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ṣṣeḥ"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "d lfeḍḍa"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "deg ikufan-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:57:20.938216582Z",
+  "model": "glm-5.3"
+}

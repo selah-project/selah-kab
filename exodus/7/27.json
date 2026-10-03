@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ma tugiḍ ad ten-teǧǧeḍ ad rḥen, wali, nekk ad d-rruɣ ⟨את⟩ akk tillist-ik s yiqersiḥen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "tugiḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ad ten-teǧǧeḍ ad rḥen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ad d-rruɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tillist-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tillist-ik"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "s yiqersiḥen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:23.951294052Z",
+  "model": "glm-5.3"
+}

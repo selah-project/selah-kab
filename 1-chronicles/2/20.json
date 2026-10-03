@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ḥur iwelld-d ⟨את⟩ Uri; Uri iwelld-d ⟨את⟩ Beṣalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ḥur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelld-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelld-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beṣalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Beṣalel"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:45.950655869Z",
+  "model": "glm-5.3"
+}

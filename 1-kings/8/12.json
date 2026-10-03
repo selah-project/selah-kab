@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ass-nni, i d-yenna Celiman: Yahwe i d-yenna ad yezdeg deg teεebbut.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ass-nni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celiman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ad yezdeg"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "deg teεebbut"
+    }
+  ],
+  "timestamp": "2026-10-03T04:15:02.321452302Z",
+  "model": "glm-5.3"
+}

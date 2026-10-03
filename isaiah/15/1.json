@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Taseddart n Muab: axaṭer deg yiḍ, teṛṛez ɛar n Muab, teṭṭef ⟨tasusmi⟩; axaṭer deg yiḍ, teṛṛez Qir n Muab, teṭṭef ⟨tasusmi⟩.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "taseddart"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "teṛṛez"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ɛar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "n Muab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "teṭṭef ⟨tasusmi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "teṛṛez"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Qir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "n Muab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "teṭṭef ⟨tasusmi⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:23.622459644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Akkal, awal-agi aqrib ɣur-k aṭas: deg imi-k d deg wul-ik, iwakken ad t-texdeḍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkal"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "aqrib"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal-agi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "deg imi-k"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "d deg wul-ik"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "iwakken ad t-texdeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:18.893969381Z",
+  "model": "glm-5.3"
+}

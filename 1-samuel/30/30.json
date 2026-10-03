@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "D wid yellan deg Ḥerma, d wid yellan deg Bor-Acan, d wid yellan deg Ɛataq.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "d wid yellan"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "deg Ḥerma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "d wid yellan"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "deg Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Acan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "d wid yellan"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "deg Ɛataq"
+    }
+  ],
+  "timestamp": "2026-10-03T04:13:13.745280263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Nekki d Yahwe, Elohim-ik, win i k-id-yefɣen seg tmurt n Miṣrayim, seg wexxam n yemdanen iḍeqqen:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nekki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "i k-id-yefɣen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n yemdanen iḍeqqen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:49.559443088Z",
+  "model": "glm-5.3"
+}

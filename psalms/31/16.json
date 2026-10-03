@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Di ufus-ik llan akuden-iw; selk-ed iyi seg ufus n yiɛdawen-iw, seg wid iyi-yeṭṭafaren.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Di ufus-ik"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "akuden-iw"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "selk-ed iyi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "n yiɛdawen-iw"
+    },
+    {
+      "surface": "ו מרדפי",
+      "gloss": "seg wid iyi-yeṭṭafaren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:05.259218870Z",
+  "model": "glm-5.3"
+}

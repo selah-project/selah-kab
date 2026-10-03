@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 22:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ali-d ɣer Ḥelqiya kohen ameqqran, ad isemmeḍ ⟨את⟩ skewed ivudden deg beit Yahwe, ay d-lḥeṣḍen iḥerziyen n usbeggen ⟨את⟩ seg wegdud.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Ali-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Ḥelqiya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "ויתם",
+      "gloss": "ad isemmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skewed"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "skewed"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "ivudden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "d-lḥeṣḍen"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "iḥerziyen"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "n usbeggen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ seg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    }
+  ],
+  "timestamp": "2026-10-02T23:38:49.531281818Z",
+  "model": "glm-5.3"
+}

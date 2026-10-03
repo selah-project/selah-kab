@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Yuzen iznan d tmahzalin deg beṛṛa-inek, a Miṣrayim, ɣef Ferɛun akk d yimeddasen-is.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "iznan"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "d tmahzalin"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "deg beṛṛa-inek"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Miṣrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ɣef Ferɛun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yimeddasen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:31.866122582Z",
+  "model": "glm-5.3"
+}

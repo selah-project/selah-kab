@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Maḍi ayen n yimeṛṛa n tmurt, ijerriḥ-it unemhal n yiṭabbaḥen ad yidir izeggwan d wakal.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "maḍi ayen n yimeṛṛa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ijerriḥ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "unemhal"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "n yiṭabbaḥen"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ad yidir izeggwan"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "d wakal"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:02.597947021Z",
+  "model": "glm-5.3"
+}

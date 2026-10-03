@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Axater nefset-nneɣ tenḥerbez ɣer yeẓẓa, iṭes-nneɣ yeḥleḍ ɣer tmurt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axater"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "tenḥerbez"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ɣer yeẓẓa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefset-nneɣ"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "yeḥleḍ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "iṭes-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:34.629398456Z",
+  "model": "glm-5.3"
+}

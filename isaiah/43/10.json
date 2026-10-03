@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Kunwi d inagan-iw, i d-yenna Yahwe, akked waxeddam-iw i ṭṭfeɣ; iwakken ad tessnem, ad tettmenem i yi, ad teffermem d nekk i d Ne kk: uqbel-i ur yettwaxleq El, s deffir-i ur illi ara wayeḍ.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "inagan-iw"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "akked waxeddam-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ṭṭfeɣ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ad tessnem"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "ad tettmenem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yi"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "ad teffermem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ne kk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "uqbel-i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "yettwaxleq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "s deffir-i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili ara"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:31.328951861Z",
+  "model": "glm-5.3"
+}

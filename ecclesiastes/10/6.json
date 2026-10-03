@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Abalaḍ tettwatt deg yimukan iɛlayen, ma d wid icerkken ẓẓan deg umkan n wadda.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "tettwatt"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "abalaḍ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "deg yimukan iɛlayen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "iɛlayen"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ma d wid icerkken"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "deg umkan n wadda"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ẓẓan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:19.952611522Z",
+  "model": "glm-5.3"
+}

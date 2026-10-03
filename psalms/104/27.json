@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Akkw ten ɣur-k i ttaggen, iwakken ad asen tmudded učči deg lweqt-is.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "akkw ten"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "i ttaggen"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iwakken ad tmudded"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "učči"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "deg lweqt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:30.188444707Z",
+  "model": "glm-5.3"
+}

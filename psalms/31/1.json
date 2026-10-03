@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "I umarad. Mizmor i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "I umarad"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:44.315848652Z",
+  "model": "glm-5.3"
+}

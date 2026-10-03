@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Seg din unebben ɣer Gudgada, seg Gudgada ɣer Yotbata, tamurt n yisaffen n waman.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "unebben"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ɣer Gudgada"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudgada"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "ɣer Yotbata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "n yisaffen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n waman"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:26.450622627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Yefka ⟨את⟩ wid n dirit qebṛ-is, d ⟨את⟩ wameqran di lmut-is; axaṭer ur ixdim ara ṭaḥriḍt, ula d tcuḍt telli deg imi-s.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid n dirit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n dirit"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "qebṛ-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wameqran"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "wameqran"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "di lmut-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ṭaḥriḍt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ula"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tcuḍt"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "deg imi-s"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:46.240856356Z",
+  "model": "glm-5.3"
+}

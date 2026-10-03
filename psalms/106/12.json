@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Awentin nnan lawal-is, ceɛḍben taḥmilt-is.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Awentin nnan"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "lawal-is"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ceɛḍben"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "taḥmilt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:28.223446084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Qqaren: Amek i d-yessin El? Ma tella tussna ɣer Uɛellyen?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Qqaren"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Amek"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "i d-yessin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "Ma tella"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tussna"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "ɣer Uɛellyen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:31.508466768Z",
+  "model": "glm-5.3"
+}

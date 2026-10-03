@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe, Elohim-ik, ad t-tẓerveḍ, ⟨את⟩-i neṭṭa ad tqeddeḍ, d s yisem-is ad t-igglem.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ad t-tẓerveḍ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-i neṭṭa",
+      "marks": "ad tqeddeḍ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ad tqeddeḍ"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "d s yisem-is"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ad t-igglem"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:36.929977548Z",
+  "model": "glm-5.3"
+}

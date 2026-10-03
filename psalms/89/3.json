@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Acku qqareɣ: i lebda ad yebnu ḥesed; igenwan, ad teḥerbeḍ tidet-ik degsen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "qqareɣ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ad yebnu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ad teḥerbeḍ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tidet-ik"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "degsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:24.277939672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Slen akk at Yabec-Gilɛad ⟨את⟩ akk ayen xedmen Yiplictiyen i Cawil.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Slen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "at Yabec"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Yiplictiyen"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Cawil"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:16.139202177Z",
+  "model": "glm-5.3"
+}

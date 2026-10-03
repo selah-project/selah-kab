@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Win deg ufus-is ṭṭfen ⟨tt⟩ nefes n yal win iredden, d ruaḥ n yal leḥem n wemdan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "חי",
+      "gloss": "win iredden"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "d ruaḥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "leḥem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:34:23.778684053Z",
+  "model": "glm-5.3"
+}

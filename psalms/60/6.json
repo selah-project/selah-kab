@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Tefkeḍ i widak k-irennun asebrek, iwakken ad yuli ɣef qošeṭ. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Tefkeḍ"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "i widak k-irennun"
+    },
+    {
+      "surface": "נס",
+      "gloss": "asebrek"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "iwakken ad yuli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "qošeṭ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:48.372125666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Awalen n Qohelet, mmi-s n David, agellid deg Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Awalen"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:02.825692832Z",
+  "model": "glm-5.3"
+}

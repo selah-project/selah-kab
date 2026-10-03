@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ulac iqedcan am Yahwe, axaṭ ulac ⟨win niḍen⟩ bla ma d kečč, ulac iẓra am Elohim-nneɣ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcan"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "am Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "bla ma d kečč"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "צור",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "am Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:36:52.119059250Z",
+  "model": "glm-5.3"
+}

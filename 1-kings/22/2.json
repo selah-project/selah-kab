@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yella-d deg useggas wis-kraḍ, Yehocafat, agellid n Yeḥuda, yuder-d ɣer ugellid n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "wis-kraḍ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "yuder-d"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeḥuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:25:52.518981522Z",
+  "model": "glm-5.3"
+}

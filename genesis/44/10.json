@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Yenna: akka mačči kan tura, akken i d-nenna wawal-nwen: win ara yettwafen ⟨את⟩ deg-s, ad yili d amkkan-iw; ma d kunwi, ad tiliḍ d wid ur nebni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mačči kan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "akken i d-nenna wawal-nwen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨d akka⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win ara"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yettwafen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ deg-s",
+      "marks": "win ara yettwafen deg-s"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לי",
+      "gloss": "d amkkan-iw"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "amkkan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ma d kunwi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "d wid ur nebni"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:14.338053424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Tameṭṭut ad tt-terreḍ, argaz niḍen ad tt-yexdem; axxam ad tbennuḍ, ur tzedɣeḍ ara deg-s; tiri ad tessujjiḍ, ur tt-tekkiseḍ ara seg-s.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "ad tt-terreḍ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "niḍen"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "ad tt-yexdem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ad tbennuḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tzedɣeḍ ara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ad tessujjiḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "ur tt-tekkiseḍ ara seg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T22:06:50.758220890Z",
+  "model": "glm-5.3"
+}

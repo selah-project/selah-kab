@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Acku am tuga, ardekkal ad ttwaɣzen, am imɣi azegzaw ad iqewwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "am tuga"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ardekkal"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ad ttwaɣzen"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "am imɣi azegzaw"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "azegzaw"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ad iqewwen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:28.181897332Z",
+  "model": "glm-5.3"
+}

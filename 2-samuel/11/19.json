@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yeḥettem ⟨את⟩ umsaɣ, ad yini: mi ara tfukkeḍ ⟨את⟩ akk awalen n ṭṭraḍ, ad ten-id-tiniḍ i ugellid —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yeḥettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsaɣ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umsaɣ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "mi ara tfukkeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen n ṭṭraḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen n"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ṭṭraḍ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ad ten-id-tiniḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:47.057571872Z",
+  "model": "glm-5.3"
+}

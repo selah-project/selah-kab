@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "A mmi, ur teddu ara deg ubrid ⟨את⟩ nsen; ḥbes aḍar-i-k seg usbrid-nsen.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "teddu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nsen"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "ḥbes"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "aḍar-i-k"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "seg usbrid-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:06.759086600Z",
+  "model": "glm-5.3"
+}

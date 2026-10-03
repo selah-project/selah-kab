@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yubel ihi-t, useggas wis semmus-temrawin ad yili i yid-kwen; ur tezzuṛkem ara, ur tneḥṣarem ara ⟨את⟩ wayen d-imɣur s yiman-is, ur tbezzuṛem ara ⟨את⟩ tiṛemmin-is ur nettwaḥezziben.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "Yubel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ihi-t"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "useggas"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "wis semmus-temrawin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aseggas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i yid-kwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "tezzuṛkem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "tneḥṣarem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen d-imɣur s yiman-is"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "wayen d-imɣur s yiman-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "tbezzuṛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiṛemmin-is ur nettwaḥezziben"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "tiṛemmin-is ur nettwaḥezziben"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:05.579320432Z",
+  "model": "glm-5.3"
+}

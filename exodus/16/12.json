@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Slaɣ ⟨את⟩ teṭṭura n yiderdan n Yisrael. Ini-asen: Gar tameddirt akked tuccḍa, a t-teṭṭef istum; tameddit ad tsebdet aɣrum; ad teẓrem belli nek d Yahwe Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "slaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teṭṭura n yiderdan n Yisrael"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "teṭṭura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yiderdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ini-asen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad t-iniḍ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tameddirt akked tuccḍa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "a t-teṭṭef"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "istum"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "tameddit"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ad tsebdet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ad teẓrem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:03.819485040Z",
+  "model": "glm-5.3"
+}

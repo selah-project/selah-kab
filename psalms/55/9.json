@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Ad ḥezmeɣ ad rewleɣ i iman-iw, seg ruaḥ yettacan, seg taseɛdit.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ad ḥezmeɣ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "ad rewleɣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i iman-iw"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "seg ruaḥ"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "yettacan"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "seg taseɛdit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:42.060659659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Timura akk n wemda, akk Gilɛad, akk Bačan, arma d Selḥa d Ɛedreɣi, timura n tgelda n Ɛug deg Bačan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timura"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "n wemda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bačan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Selḥa"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "Ɛedreɣi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timura"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "n tgelda"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ɛug"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "deg Bačan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:15.687393117Z",
+  "model": "glm-5.3"
+}

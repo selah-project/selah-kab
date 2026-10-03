@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Ad d-yerr am ugeffur ɣef usemlal, am yiḍan iṣubbun ɣef wakal.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "ad d-yerr"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "am ugeffur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גז",
+      "gloss": "usemlal"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "am yiḍan"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "iṣubbun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wakal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:14.565664723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Avraham iɣza ⟨את⟩ Yiṣḥaq mmi-s, mi yesɛa semman wussan, akken i d-yeṣṣefa Elohim ⟨את⟩-s.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "iɣza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mi yesɛa"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "semman"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yeṣṣefa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-s",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:01.916962660Z",
+  "model": "glm-5.3"
+}

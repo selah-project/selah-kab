@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "ad yali wul-inek, ad tettuḍ ⟨את⟩ Yahwe Elohim-inek, win i k-id-yessuffɣen si tmurt n Miṣrayim, si wexxam n lɛabad;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wul-inek"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ad tettuḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim-inek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-inek"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "win i k-id-yessuffɣen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "si wexxam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n lɛabad"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:52.275793775Z",
+  "model": "glm-5.3"
+}

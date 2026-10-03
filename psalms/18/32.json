@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Axaṭer anwa i d Elohim, war Yahwe? Anwa i d ṣṣuṛ, war Elohim-nneɣ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "war"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ṣṣuṛ"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "war"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:35.812934335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Snetmef-asen seg umenzu n usse n deffir ⟨את⟩ Cabbat, seg wass ideg tewwiḍem ⟨את⟩ ɛomer n tnufa: sa n Cabbatin timellitin ttilint.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "snetmef"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-asen"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "seg umenzu n usse"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "n deffir Cabbat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "seg wass"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "ideg tewwiḍem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛomer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ɛomer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "n tnufa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "n Cabbatin"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "timellitin"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ttilint"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:46.574125388Z",
+  "model": "glm-5.3"
+}

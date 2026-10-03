@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ma twalaḍ aɣyul n win i k-ikerḥen, irbbeɛ ddaw uṣeɛfen-is, ad tḥeṣdeḍ akken ad t-tzeggleḍ: ad t-zeggel, zeggel yid-es.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "twalaḍ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "aɣyul"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "n win i k-ikerḥen"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "irbbeɛ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "uṣeɛfen-is"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "ad tḥeṣdeḍ"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "akken ad t-tzeggleḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "t"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ad t-zeggel"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "zeggel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-es"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:39.281489930Z",
+  "model": "glm-5.3"
+}

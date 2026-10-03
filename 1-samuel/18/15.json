@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yufa Sawl meṛṛa d win yettḥeṣṣen s waṭas, yugi-t, iggerwed fell-as.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "win yettḥeṣṣen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "yugi-t, iggerwed"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T22:45:37.740747797Z",
+  "model": "glm-5.3"
+}

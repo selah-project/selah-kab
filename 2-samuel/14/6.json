@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "I taqedmit-ik, sin n warrac, nnaden gar-asen di lexla, ur illi win iḥebbsen gar-asen; iḥderb yiwen ⟨את⟩ wayeḍ, yemmut.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "i taqedmit-ik"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "nnaden"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wan mddan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di lexla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ur illi"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "win iḥebbsen"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yeḥderb"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiwen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:37.401422528Z",
+  "model": "glm-5.3"
+}

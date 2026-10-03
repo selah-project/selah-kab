@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 26:36",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Wid id-yegran seg-wen, ad d-errɣ deg ulawen-nsen taẓɣaɣt deg tmura n yimeḍwan-nsen; aẓru n usebgen yettwazuzven ad ten-iḍfer ⟨את⟩, ad rewlen am win irewwlen seg tɣmert, ad ḍlen ma ulac win iḍfaren.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "wid id-yegran"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "seg-wen"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ad d-errɣ"
+    },
+    {
+      "surface": "מרך",
+      "gloss": "taẓɣaɣt"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "deg ulawen-nsen"
+    },
+    {
+      "surface": "בארצת",
+      "gloss": "deg tmura"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "n yimeḍwan-nsen"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "ad ten-iḍfer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (wid id-yegran)"
+    },
+    {
+      "surface": "קול",
+      "gloss": "aẓru"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "usebgen"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "yettwazuzven"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "ad rewlen"
+    },
+    {
+      "surface": "מנוסת",
+      "gloss": "am win irewwlen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "seg tɣmert"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ad ḍlen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ma ulac"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "win iḍfaren"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:04.526554497Z",
+  "model": "glm-5.3"
+}

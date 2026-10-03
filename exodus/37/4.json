@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yexdem ilugan (n) yiẓan n ccitim, yessuɣ ⟨את⟩ ten s ḍhebb.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ilugan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yiẓan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ccitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "yessuɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (ilugan)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍhebb"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:59.088859843Z",
+  "model": "glm-5.3"
+}

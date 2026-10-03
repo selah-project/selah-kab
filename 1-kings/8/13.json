@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Deg ubennu bennuɣ axxam n tezdegt i kečč, amkan usbiḍ i tetteddeḍ i leɣlam.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "deg ubennu"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "bennuɣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "n tezdegt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "amkan usbiḍ"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "i tetteddeḍ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "i leɣlam"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:25.003444392Z",
+  "model": "glm-5.3"
+}

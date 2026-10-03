@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Peleg yidder, deffir mi yur-d ⟨את⟩ Reɛu, 9 d 200 n yiseggasen, yur-d arrac d yelli-tin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidder"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "mi yur-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reɛu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reɛu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "9"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "d 200"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yur-d"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "d yelli-tin"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:19.023843422Z",
+  "model": "glm-5.3"
+}

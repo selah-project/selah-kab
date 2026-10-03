@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "⟨את⟩ isem n Aharon ad t-aruḍ ɣef ticcirt n Lewi, axaṭer yiwet kan n ticcirt i uxef n wexxam n yibabaten-nsen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "ad t-aruḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ticcirt"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ticcert"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "i uxef"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "n yibabaten-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:35:48.003244129Z",
+  "model": "glm-5.3"
+}

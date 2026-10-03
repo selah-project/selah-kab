@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yenna aɛmmi n Caul: ini-yi-d ttxil-k, acu i d-yennan Cemwel i kunwi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "aɛmmi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Caul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ini-yi-d"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ttxil-k"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i-yi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemwel"
+    }
+  ],
+  "timestamp": "2026-10-02T22:41:38.385299486Z",
+  "model": "glm-5.3"
+}

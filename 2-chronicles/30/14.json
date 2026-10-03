@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Qqlen kecmen ⟨את⟩ lmetbat i yellan deg Yerucalayim, ⟨את⟩ akk lmetbat n ubexxur kecmen-tent, ṭṭfen-tent deg wasif n Qidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "qqlen"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmetbat"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "lmetbat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk lmetbat n ubexxur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "lmetbat n ubexxur"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "kecmen-tent"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ṭṭfen-tent"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "deg wasif"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Qidron"
+    }
+  ],
+  "timestamp": "2026-10-03T03:54:28.097373536Z",
+  "model": "glm-5.3"
+}

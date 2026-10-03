@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Nneqql, nekk Kohelet, llireγ d agellid ɣef Yisrael, deg Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "llireγ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:20.983934030Z",
+  "model": "glm-5.3"
+}

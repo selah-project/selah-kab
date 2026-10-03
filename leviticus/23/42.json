@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Di texxamin ad teqqimem ṣebɛa n wussan; akk wid ilulen di Yisrael ad qqimen di texxamin.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "di texxamin"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ad teqqimem"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ṣebɛa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "wid ilulen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ad qqimen"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "di texxamin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:23.720618136Z",
+  "model": "glm-5.3"
+}

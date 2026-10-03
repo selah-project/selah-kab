@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad k-kecmeγ ar tmurt n wayesfuγ afus-iw ad tt-muγen i Avraham, i Yiṣḥaq d Yaεqov; ad tt-muγen i kwen-tagiγ tamurt-a, Nekki d Yahwe.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "ad k-kecmeγ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "yesfuγ afus-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-iw"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad tt-muγen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ tt"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "i Yiṣḥaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "i Yaεqov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad tt-muγen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ tt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kwen"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "taγamsa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nekki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:57.639930964Z",
+  "model": "glm-5.3"
+}

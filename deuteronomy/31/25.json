@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Moce yeḥkem ⟨את⟩ yilwiyen, wid yettawin tabbara n lɛahd n Yahwe, ad yemmeslayen:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilwiyen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "yilwiyen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wid yettawin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabbara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yemmeslayen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:09:15.607483144Z",
+  "model": "glm-5.3"
+}

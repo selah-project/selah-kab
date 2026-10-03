@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Moce d Aharon unagen, udmesten ⟨את⟩ akk iqeqqiten n warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "unagen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "udmesten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iqeqqiten"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "iqeqqiten"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:02.018930613Z",
+  "model": "glm-5.3"
+}

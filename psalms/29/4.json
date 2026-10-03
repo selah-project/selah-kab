@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Taɣect n Yahwe ⟨s⟩ tezmert; taɣect n Yahwe ⟨s⟩ lɛezz.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Taɣect"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "⟨s⟩ tezmert"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "⟨s⟩ lɛezz"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:11.681146172Z",
+  "model": "glm-5.3"
+}

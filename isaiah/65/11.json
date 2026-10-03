@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Kunwi, wid iḥerben Yahwe, wid ittawin ⟨את⟩ idurar-iw iqedcen, wid ijemɛen taɣrest i Gad, wid iččaren taḥest i Meni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kunwi"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "wid iḥerben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "wid ittawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idurar-iw iqedcen"
+    },
+    {
+      "surface": "הר",
+      "gloss": "idurar-iw"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "wid ijemɛen"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "i Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "taɣrest"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "wid iččaren"
+    },
+    {
+      "surface": "למני",
+      "gloss": "i Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "taḥest"
+    }
+  ],
+  "timestamp": "2026-10-03T00:09:47.827040077Z",
+  "model": "glm-5.3"
+}

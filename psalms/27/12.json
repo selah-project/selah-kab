@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ur ttunef ara iyi i lwelha n yimenɣiyen-iw, imi kkren ɣef yiwen-iw inagan n tikkest, ad d-negnen uneḥlin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "ttunef"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "i lwelha"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "yimenɣiyen-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kkren"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ɣef yiwen-iw"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "inagan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n tikkest"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ad d-negnen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "uneḥlin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:53.239701789Z",
+  "model": "glm-5.3"
+}

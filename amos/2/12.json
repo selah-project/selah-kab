@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tessqem ⟨את⟩ winnezren lvin, i iḥekmem ɣef inaviyen s wawal: ur ttmeslayen ara d inaviyen.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "tessqem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "winnezren"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "winnezren"
+    },
+    {
+      "surface": "יין",
+      "gloss": "lvin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i iḥekmem ɣef"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "inaviyen"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "ttmeslayen ara d inaviyen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:19:41.452512193Z",
+  "model": "glm-5.3"
+}

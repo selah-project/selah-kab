@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yebna ⟨את⟩ Bet-Ḥoron n ufella, d ⟨את⟩ Bet-Ḥoron n wadda — timdinin timeẓẓyanin s ijdiden, s tibura d iḥziben.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Ḥoron n ufella"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Ḥoron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "n ufella"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Bet-Ḥoron n wadda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Ḥoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "n wadda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "timeẓẓyanin"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "s ijdiden"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "s tibura"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "d iḥziben"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:58.471886421Z",
+  "model": "glm-5.3"
+}

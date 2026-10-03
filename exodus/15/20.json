@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Miryam, tanevyut, talt-is n Aharon, tuɣ ⟨את⟩ allun deg ufus-is; ffɣen-d akk tilawin ḍeffir-s, s yiluna d yiḥudasen.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "tuɣ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "tanevyut"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "talt-is"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allun"
+    },
+    {
+      "surface": "התף",
+      "gloss": "allun"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "ffɣen-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ḍeffir-s"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "s yiluna"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "d yiḥudasen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:05.658123291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad k-steqsien ɣef tifrat, ad ak-mudden snat n leqcicen n uɣrum, tettaf-tent seg ifassen-nsen.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ad k-steqsien"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ɣef tifrat"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ad ak-mudden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ak"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "n uɣrum"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "tettaf"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "seg ifassen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:45.707045968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Maca yal argaz, ur yennaɣ ara d wayeḍ, ur iṣeḥḥi ara yiwen; axaṭer agdud-ik, am wid yettnaɣen d ukohen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Maca"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "yennaɣ ara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "iṣeḥḥi ara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "am wid yettnaɣen"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "d ukohen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:16:44.758961533Z",
+  "model": "glm-5.3"
+}

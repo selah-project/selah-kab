@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ldi,du ɣer Ninwe, ⟨i⟩ temdint tameqqrant, neɣ ihi s ddaw-as, axaṭer tenger-d lexṣas-nsen ɣer zdat-iw.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ldi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "neɣ ihi s ddaw-as"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "s ddaw-as"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "tenger-d"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "lexṣas-nsen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:10.776354346Z",
+  "model": "glm-5.3"
+}

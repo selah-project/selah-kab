@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yeffeɣ yiwet n tfellaḥt seg uxxam n Levi, tuɣal d tameṭṭut. Yella yiwen n wemdan n uxxam n Levi, yewwi-d ⟨את⟩ yelli-s n Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yeffeɣ yiwen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wuxxam"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelli-s n Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:47.160315941Z",
+  "model": "glm-5.3"
+}

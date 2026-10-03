@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 96,
+  "translation": "Ad feṛḥen igenwan, ad tcuh tmurt; ad izewwɛ ilel, d akk wayen deg-s.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Ad feṛḥen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ad tcuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ad izewwɛ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "d akk wayen deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:57.687387198Z",
+  "model": "glm-5.3"
+}

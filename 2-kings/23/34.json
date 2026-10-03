@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yessikel Parɛo Nekoh ⟨את⟩ Eliyaqim, mmi-s n Yocciyahu, d agellid deg umkan n Yocciyahu baba-s; ibeddel ⟨את⟩ isem-is ɣer Yehuyaqim; ⟨את⟩ Yeḥuwaḥaz yeṭṭef-t, yekcem Miṣrayim, yemmut dinna.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yessikel d agellid"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parɛo"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyaqim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliyaqim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yocciyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yocciyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ibeddel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehuyaqim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yeḥuwaḥaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeḥuwaḥaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:14.187477868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "D ⟨את⟩ weẓẓaḍ n lɛadaya d ⟨את⟩ ayen akk n yimaynen-is, d ⟨את⟩ taḥbula d ⟨את⟩ aṭṭan-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "weẓẓaḍ n lɛadaya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "weẓẓaḍ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "n lɛadaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ayen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "n yimaynen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taḥbula"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "taḥbula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aṭṭan-is"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "aṭṭan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:31.494337965Z",
+  "model": "glm-5.3"
+}

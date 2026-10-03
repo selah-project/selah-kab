@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Acku tulawin-iw ččurent s teẓẓikt; ula d taṣeḥḥit deg lgisem-iw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "tulawin-iw"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ččurent"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "s teẓẓikt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "taṣeḥḥit"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "deg lgisem-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:25.046661239Z",
+  "model": "glm-5.3"
+}

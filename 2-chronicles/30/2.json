@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Agellid, iqeddacen-is akk d lweɛr imetten di Yerucalayim, ad ḥedmen ⟨i⟩ Pesaḥ deg wayyur wis sin.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "imetten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "iqeddacen-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lweɛr"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerucalayim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad ḥedmen"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "deg wayyur"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:54:42.981530481Z",
+  "model": "glm-5.3"
+}

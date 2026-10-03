@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yunag ugellid David, yeqqim zdat Yahwe, yenna: Mačči d ani ay lliɣ, a Yahwe Elohim, mačči d ani axxam-iw, imi d-terziɣ-iyi-d armi dagi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Yunag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Mačči d ani ay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "lliɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mačči d ani"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "axxam-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "d-terziɣ-iyi-d"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "dagi"
+    }
+  ],
+  "timestamp": "2026-10-03T03:32:43.465808842Z",
+  "model": "glm-5.3"
+}

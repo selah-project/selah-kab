@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Yeqqim zik Yiḥezqiya ugellid, yeggra ⟨את⟩ yimeqqranen n temdint, yuli ɣer beit Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yeqqim zik"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yiḥezqiya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "yeggra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimeqqranen n temdint"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "yimeqqranen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yuli ɣer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:48:19.087432878Z",
+  "model": "glm-5.3"
+}

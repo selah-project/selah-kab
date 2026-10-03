@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Abrid n tidet ifren-tt yiwen, ccreɛ-ik rniɣ-tent deg zdat-iw.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tidet"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ifren-tt yiwen"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ccreɛ-ik"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "rniɣ-tent"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:56.089486631Z",
+  "model": "glm-5.3"
+}

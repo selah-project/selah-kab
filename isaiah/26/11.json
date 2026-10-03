@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yahwe, afus-ik yuli, maca ur ẓerrin ara; ad ẓren tiḥerci n ugdud i kečč, ad ngergen; daɣen, times n iɛdawen-ik ad ten-tečč.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "ẓerrin"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ad ẓren"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ad ngergen"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "tiḥerci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "אף",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "n iɛdawen-ik"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "ad ten-tečč"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:53.915211845Z",
+  "model": "glm-5.3"
+}

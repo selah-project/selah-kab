@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ur tzeggled ara iman-ik ma twalaḍ ⟨את⟩ azger n gma-k neɣ ⟨את⟩ teyyi-s yettwanefden: tuɣal-d s lqeḍ, ad ten-tuɣaleḍ i gma-k.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ma twalaḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azger n gma-k"
+    },
+    {
+      "surface": "שור",
+      "gloss": "azger"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "n gma-k"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teyyi-s"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "teyyi-s"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "yettwanefden"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ur tzeggled ara iman-ik"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "השב",
+      "gloss": "tuɣal-d s lqeḍ"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "ad ten-tuɣaleḍ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "i gma-k"
+    }
+  ],
+  "timestamp": "2026-10-02T22:00:31.897582148Z",
+  "model": "glm-5.3"
+}

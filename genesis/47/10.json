@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Yifki Yaɛqov ⟨את⟩ Ferɛun, yeffeɣ-d seg zdat n Ferɛun.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "yifki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ferɛun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ-d"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "seg zdat n"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    }
+  ],
+  "timestamp": "2026-10-02T20:33:31.066485231Z",
+  "model": "glm-5.3"
+}

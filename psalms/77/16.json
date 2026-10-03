@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Tewwi-d s tezmert-ik ⟨את⟩ agdud-ik, d arraw n Yaɛqov akked Yusef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Tewwi-d"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "s tezmert-ik"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "d arraw n"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "akked Yusef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:03.446311371Z",
+  "model": "glm-5.3"
+}

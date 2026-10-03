@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 17:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "ma ur t-id-yewwi ara ɣer tebburt n teḥexxamt n temlilit, iwakken ad iqebbel asfel i Yahwe, zdat Mickan n Yahwe: idammen ad ḥasbent i wergaz-nni; idammen iḥelleḍ; argaz-nni ad yettwakkes seg lmehna n yegdud-is.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tebburt n"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teḥexxamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ma ur ... ara"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "t-id-yewwi"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "iwakken ad iqebbel"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "asfel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ad ḥasbent"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wergaz"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-nni"
+    },
+    {
+      "surface": "דם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "iḥelleḍ"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-nni"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "seg lmehna n"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yegdud-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:40.107621595Z",
+  "model": "glm-5.3"
+}

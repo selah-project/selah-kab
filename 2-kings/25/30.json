@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Takect-ines, takect tamṣit, tettunefk-as-d ⟨את⟩ seg ugellid, tayet n wass deg wass-nnes, akk assan n tmeddurt-is.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "takect-ines"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "takect"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tamṣit"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "tettunefk-as-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "agellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tayet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wass"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "deg wass-nnes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "assan"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "n tmeddurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:39:43.165628428Z",
+  "model": "glm-5.3"
+}

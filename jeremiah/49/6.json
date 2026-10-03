@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Deg wayen ara d-yeffɣen, ad rriɣ ⟨את⟩ tikli n tarwa n Ɛamun, i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "deg wayen ara d-yeffɣen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ara d-yeffɣen"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ad rriɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikli n tarwa n Ɛamun"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "tikli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa n"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:38:01.242617317Z",
+  "model": "glm-5.3"
+}

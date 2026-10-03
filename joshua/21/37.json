@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "⟨את⟩ Qedemot akk d ⟨את⟩ tigezmi-nnes, ⟨את⟩ Meyfaat akk d ⟨את⟩ tigezmi-nnes; timdinin, kbant.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tigezmi-nnes"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tigezmi-nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "Meyfaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meyfaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tigezmi-nnes"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tigezmi-nnes"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kbant"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:43.118032993Z",
+  "model": "glm-5.3"
+}

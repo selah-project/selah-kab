@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Yif ad yettḥebbes ɣer Yahwe, maḍi ad yestehel deg yizerfan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yif"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ad yettḥebbes"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "maḍi ad yestehel"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "deg yizerfan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:10.187929681Z",
+  "model": "glm-5.3"
+}

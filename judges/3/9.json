@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 3:9",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Qecren warrac n Yisrael ɣer Yahwe, yebna-d Yahwe i warrac n Yisrael amesellek, yessellek-itent-id: ⟨את⟩ Otniel, mmi-s n Qenaz, gma-s n Kalev, ameẓyan sɣur ⟨i⟩.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "qecren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yebna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "amesellek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "yessellek-itent-id"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Otniel"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Otniel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Qenaz"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma-s n"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sɣur ⟨i⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:35.158594489Z",
+  "model": "glm-5.3"
+}

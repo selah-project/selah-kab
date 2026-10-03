@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "Iḍarren-nneɣ bedden deg yiberdan-ik, a Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "bedden"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨llan⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Iḍarren-nneɣ"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "deg yiberdan-ik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:09.131859129Z",
+  "model": "glm-5.3"
+}

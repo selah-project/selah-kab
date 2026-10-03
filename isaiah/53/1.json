@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Anwa i yumin tinellin-nneɣ? D ɣef anwa i d-iban teεṛeḍt n Yahwe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "yumin"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "tinellin-nneɣ"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "d teεṛeḍt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "d-iban"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:36.296552822Z",
+  "model": "glm-5.3"
+}

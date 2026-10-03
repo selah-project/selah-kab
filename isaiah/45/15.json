@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "S tideɛt, kecc d El yettfferren, Elohim n Yisrael, Win yesselliqen.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "S tideɛt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "yettfferren"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Win yesselliqen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:22.575963128Z",
+  "model": "glm-5.3"
+}

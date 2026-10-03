@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Agerdas-is ad yili ⟨d⟩ ameqqran deg tmurt; lǧil n wid izerfen ad yettwabnek.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "agerdas-is"
+    },
+    {
+      "surface": "דור",
+      "gloss": "lǧil"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wid izerfen"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ad yettwabnek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:41.851033306Z",
+  "model": "glm-5.3"
+}

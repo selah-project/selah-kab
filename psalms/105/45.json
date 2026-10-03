@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Iwakken ad ḥerzen iqedcen-is, ad iḥerzen Tora-s. Sbuccuɣet Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Iwakken"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ad ḥerzen"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ad iḥerzen Tora-s"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ad iḥerzen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Sbuccuɣet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:45.608924340Z",
+  "model": "glm-5.3"
+}

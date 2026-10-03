@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "I sin, i sin, kecmen ɣer Noaḥ, ɣer ⟨i⟩ tabut, izikreg d tmeṭṭut, akken i ḥekm-ed Elohim ⟨את⟩ Noaḥ.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "izikreg"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "d tmeṭṭut"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i ḥekm-ed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noaḥ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:49.123016803Z",
+  "model": "glm-5.3"
+}

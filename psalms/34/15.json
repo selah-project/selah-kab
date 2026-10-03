@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Beddel abrid ⟨seg⟩ dir, xeddem lxir; nadi talwit yerna ḍfer-itt.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Beddel abrid"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "seg dir"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "xeddem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "nadi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ḍfer-itt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:31.500945449Z",
+  "model": "glm-5.3"
+}

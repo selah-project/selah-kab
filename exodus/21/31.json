@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ma iqerreh mmi-s, neɣ ma iqerreh yelli-s, am ccreɛ-agi i d-ittilin ad yettwag i bab asɣar.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "iqerreh"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ ma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "iqerreh"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "am ccreɛ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad yettwag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i bab asɣar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:51.823442906Z",
+  "model": "glm-5.3"
+}

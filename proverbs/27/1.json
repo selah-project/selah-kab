@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ur tezeggwireḍ ara iman-ik deg wass n uzekka, acku ur tessineḍ ara acu ad d-ilal ⟨ass⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "tezeggwireḍ ara iman-ik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "n uzekka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tessineḍ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ad d-ilal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T02:29:16.239564508Z",
+  "model": "glm-5.3"
+}

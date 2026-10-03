@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-d ugellid i yimenyufen, issnen timag — axaṭer akken i illa awal n ugellid ger yal win issnen taɣert d uḥkam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "i yimenyufen"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "issnen"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "timag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ger"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "win issnen"
+    },
+    {
+      "surface": "דת",
+      "gloss": "taɣert"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "d uḥkam"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:33.193764227Z",
+  "model": "glm-5.3"
+}

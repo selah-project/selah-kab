@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Am leɛmel n tmurt n Miṣrayim, ideg tzegdeεm deg-s, ur t-tgeεm ara; am leɛmel n tmurt n Kenɛan, ideg nekki ad kwen-id-awdeγ ⟨את⟩ dinna, ur t-tgeεm ara; di tilawiyin-nsen ur ttedduεem ara.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "am leɛmel n"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt n"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "tzegdeεm"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "t-tgeεm ara"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "am leɛmel n"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt n"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenɛan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ad kwen-id-awdeγ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwen",
+      "marks": "kwen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "t-tgeεm ara"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "di tilawiyin-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ttedduεem ara"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:45.243787052Z",
+  "model": "glm-5.3"
+}

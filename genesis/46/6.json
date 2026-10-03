@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "ṭṭfen ⟨את⟩ lmal-nsen akked ⟨את⟩ wayen kksen deg tmurt n Kenaɛan, kecmen ɣer Miṣrayim — Yaɛqov akked zerɛ-is ⟨את⟩ yid-es.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmal-nsen"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "lmal-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "wayen kksen"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ayen kksen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ksen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenaɛan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kecmen ɣer"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zerɛ-is"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-es"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:28.138042281Z",
+  "model": "glm-5.3"
+}

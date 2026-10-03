@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "I ⟨את⟩ wurtan-nwen d ⟨את⟩ tebniwin-nwen d yizerwan-nwen ifazen ad yewṭṭef, ad ten-yefk i yemdakwal-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wurtan-nwen"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "wurtan-nwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tebniwin-nwen"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "tebniwin-nwen"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "yizerwan-nwen"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ifazen"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad yewṭṭef"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ad-yefk"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "i yemdakwal-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:34.509132315Z",
+  "model": "glm-5.3"
+}

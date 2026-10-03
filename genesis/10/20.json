@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Wid-agi d arraw n Ḥam, s tiɣlifin-nsen, s tutlayin-nsen, deg tmura-nsen, deg yegdan-nsen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Wid-agi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw n"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ḥam"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tiɣlifin-nsen"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "s tutlayin-nsen"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "deg tmura-nsen"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "deg yegdan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:57.026688160Z",
+  "model": "glm-5.3"
+}

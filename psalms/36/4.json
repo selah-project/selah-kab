@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Awalen n yimi-s d tḥerfit d ukellex; yeǧǧa ad isnefked, ad yexdem lxiṛ.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "n yimi-s"
+    },
+    {
+      "surface": "און",
+      "gloss": "tḥerfit"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "d ukellex"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "yeǧǧa"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ad isnefked"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ad yexdem lxiṛ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:42.575688653Z",
+  "model": "glm-5.3"
+}

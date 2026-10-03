@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ternan-d terrwi-nniḍen, d-tesli-d mmi-s; tessuma ⟨את⟩ isem-is Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ternan-d terrwi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "d-tesli-d"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "tessuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:29:42.044922718Z",
+  "model": "glm-5.3"
+}

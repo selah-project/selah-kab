@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Smeɣseɣ ⟨את⟩ taɣect n Adonai i tenna: ⟨את⟩ anwa ad azzeneɣ, d anwa ara yeddu ɣer-neɣ? Nniɣ: Ha-tt-iw, azzey-i.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Smeɣseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i tenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ad azzeneɣ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "d anwa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ara yeddu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ha-tt-iw"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "azzey-i"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:15.533257032Z",
+  "model": "glm-5.3"
+}

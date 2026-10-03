@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Mačči i neɣ, Yahwe, mačči i neɣ, i yisem-ik efk tajmilt, ɣef ḥesed-ik, ɣef teɣdirt-ik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "i yisem-ik"
+    },
+    {
+      "surface": "תן",
+      "gloss": "efk"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tajmilt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "teɣdirt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:43.871683272Z",
+  "model": "glm-5.3"
+}

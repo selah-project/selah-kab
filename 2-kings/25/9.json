@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yegga deg tmes ⟨את⟩ axxam n Yahwe, d ⟨את⟩ axxam n ⟨ugellid⟩, akked ⟨את⟩ akk yixxamen n Yerucalayim; ⟨את⟩ yal axxam ameqqran yegga-t deg tmes.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "yegga deg tmes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "axxam n ⟨ugellid⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ⟨ugellid⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akk yixxamen n Yerucalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "yixxamen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yal ⟨את⟩",
+      "marks": "axxam ameqqran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yegga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:02.597124362Z",
+  "model": "glm-5.3"
+}

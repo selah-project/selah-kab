@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 17:14",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Deg tikkelt n tmeddit, atan d tugda; uqbel n tufat ur d-yelli ara. Wagi d aḥric n wid i d-aɣ-yuzen, d ṭṭab n wid i d-aɣ-yesseḥlelen.",
+  "tokens": [
+    {
+      "surface": "לעת",
+      "gloss": "deg tikkelt"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "n tmeddit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "atan d"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "tugda"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "uqbel n"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tufat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ur d-yelli ara"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "aḥric"
+    },
+    {
+      "surface": "שוסינו",
+      "gloss": "n wid i d-aɣ-yuzen"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ṭṭab"
+    },
+    {
+      "surface": "לבזזינו",
+      "gloss": "n wid i d-aɣ-yesseḥlelen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:50.361346804Z",
+  "model": "glm-5.3"
+}

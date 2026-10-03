@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "I iqedcen i d-yellan deg tmurt: nutni ⟨i⟩ yufraren, akk wayen i ḥemmelɣ ⟨yella⟩ di-sen.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "i iqedcen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "yufraren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "wayen i ḥemmelɣ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:55.682853412Z",
+  "model": "glm-5.3"
+}

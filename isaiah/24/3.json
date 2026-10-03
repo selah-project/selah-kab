@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ad tettwarbeɛ tettwarbeɛ tamurt, ad tettwaferres tettwaferres, axaṭer Yahwe yenna ⟨את⟩ wawal-agi.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Ad tettwarbeɛ"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "tettwarbeɛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ad tettwaferres"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "tettwaferres"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:07.380578057Z",
+  "model": "glm-5.3"
+}

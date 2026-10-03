@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Seɣlin ɣef-sen ddwaṛ-nsen, ḥermen ⟨את⟩ ttifawin n tmurt, arma ay ula d ɣer ɛeza; ur ɛeǧǧen ara acemma n ttiddin deg Yisrael — laɛǧi neɣ azger neɣ aserdun.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "seɣlin ddwaṛ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "ḥermen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ttifawin n tmurt"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "ttifawin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma ay ula d"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "tiked-m deg"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ɛeza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "ɛeǧǧen"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "ttiddin"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "laɛǧi"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "azger"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "aserdun"
+    }
+  ],
+  "timestamp": "2026-10-02T22:25:27.831762749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 8:3",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Deg yif-awen i d-yefka Elohim ⟨את⟩ imḍebbṛen n Midyan, ⟨את⟩ Ɛoreb d ⟨את⟩ Zeeb; d acu i ṣṣeɣ ad xedmeɣ am ken? Azzin daɣen, ruaḥ-nsen twenna ɣef-s, mi yemmeslay-d awal-agi.",
+  "tokens": [
+    {
+      "surface": "בידכם",
+      "gloss": "deg yif-awen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i d-yefka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imḍebbṛen n Midyan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "imḍebbṛen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "n Midyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛoreb"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Ɛoreb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Zeeb"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Zeeb"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "d acu"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "i ṣṣeɣ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ad xedmeɣ"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "am ken"
+    },
+    {
+      "surface": "אז",
+      "gloss": "azzin daɣen"
+    },
+    {
+      "surface": "רפתה",
+      "gloss": "twenna"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ruaḥ-nsen"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "mi yemmeslay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:11:12.227688704Z",
+  "model": "glm-5.3"
+}

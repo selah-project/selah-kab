@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tenḥedbed-asen ⟨את⟩ iqedcen-agi d ⟨את⟩ Tora, tessneḍ-asen ⟨את⟩ abrid ara ddun deg-s, d ⟨את⟩ leqdic ara xedmen.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "tenḥedbed-asen"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "asen (nitenti)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen-agi"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iqedcen-agi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "tessneḍ-asen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abrid"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ara ddun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "leqdic"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "leqdic"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ara xedmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:29.047073925Z",
+  "model": "glm-5.3"
+}

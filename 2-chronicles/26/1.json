@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yeṭṭef wegdud akk n Yehuda ⟨את⟩ Ɛuzzyahu, yella d mmi-s n ṣa d mraw n yiseggasen, ṭṭfen-t d agellid deg umkan n baba-s Ɛamaṣyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛuzzyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Ɛuzzyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ṣa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ṭṭfen-t d agellid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "-t (Ɛuzzyahu)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Ɛamaṣyahu"
+    }
+  ],
+  "timestamp": "2026-10-03T03:52:39.580656230Z",
+  "model": "glm-5.3"
+}

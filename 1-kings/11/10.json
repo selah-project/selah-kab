@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yerna i d-issan ɣef lɣeṣṣa-agi: ad ur yeddu ara ar deffir iṛebbiten-nniḍen; maca ur iḥrez ara ⟨את⟩ ayen i d-issan Yahwe.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "yerna i d-issan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lɣeṣṣa-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "yeddu ara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ar deffir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "iḥrez ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i d-issan Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-issan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:09.311018946Z",
+  "model": "glm-5.3"
+}

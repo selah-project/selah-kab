@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Nuten ḍlen tuccar-nsen, ɣlan-d; ma d nekni, nekker, naqim imir.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Nuten"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ḍlen tuccar-nsen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ɣlan-d"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ma d nekni"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "nekker"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "naqim imir"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:59.306821719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Tamdint tella, teḍelli ⟨את⟩ Datam, teḥett abrid ɣef terbaɛt n Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "tella"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "teḍelli"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "⟨את⟩ Datam"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "teḥett"
+    },
+    {
+      "surface": "על",
+      "gloss": "abrid ɣef"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "terbaɛt"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "n Aviram"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:46.736428260Z",
+  "model": "glm-5.3"
+}

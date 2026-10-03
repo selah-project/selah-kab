@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Ad nwaden yal leǧdud ⟨את⟩ yisem n Yahwe, yal igelliden n tmurt ⟨את⟩ yiseq-ik.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Ad nwaden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "yal leǧdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem n Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiseq-ik"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "yiseq-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:28.885003747Z",
+  "model": "glm-5.3"
+}

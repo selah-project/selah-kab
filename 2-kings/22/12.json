@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Iḥkem ugellid ⟨את⟩ Helqiya aqejjih, ⟨את⟩ Aḥiqam mmi-s n Cafan, ⟨את⟩ Ɛakbor mmi-s n Miḥaya, ⟨את⟩ Cafan amaru, d ⟨את⟩ Ɛacaya aqeddac n ugellid, yenna-d:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "iḥkem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helqiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Helqiya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqejjih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥiqam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Aḥiqam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "n Cafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛakbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Ɛakbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "n Miḥaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cafan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Cafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "amaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛacaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Ɛacaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aqeddac"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yenna-d"
+    }
+  ],
+  "timestamp": "2026-10-02T23:38:21.291965921Z",
+  "model": "glm-5.3"
+}

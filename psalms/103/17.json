@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Ma d ḥesed n Yahwe, seg iḍellaṭ arma d iḍellaṭ, ɣef wid t-iggarren; ma d ṣedeq-is, i warrac n warrac.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "ma d ḥesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "seg iḍellaṭ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iḍellaṭ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wid t-iggarren"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ma d ṣedeq-is"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "n warrac"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:03.004754825Z",
+  "model": "glm-5.3"
+}

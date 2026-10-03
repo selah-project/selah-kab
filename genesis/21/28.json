@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Avraham yessers ⟨את⟩ sa n yifunasen n ubelleḥ, weḥdent-agi kan.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa n yifunasen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "n yifunasen"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "n ubelleḥ"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "weḥdent-agi kan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:14.201223750Z",
+  "model": "glm-5.3"
+}

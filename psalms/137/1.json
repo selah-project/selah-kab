@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Ɣef yibenkan n Babel, sinna nseɛljed, neṭṭef taghyit mi ncek'nen ⟨את⟩ Siyun.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "yibenkan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nseɛljed"
+    },
+    {
+      "surface": "גם",
+      "gloss": "neṭṭef taghyit"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "neṭṭef taghyit"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "mi ncek'nen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:29.392459152Z",
+  "model": "glm-5.3"
+}

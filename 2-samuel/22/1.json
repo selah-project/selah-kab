@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "David yemmeslay i Yahwe ⟨את⟩ awalen n tenniṛust-agi, ass ideg Yahwe yeslek-it ⟨אתו⟩ seg ufus n yimenkiven-is akk, id seg ufus n Caɛul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "tenniṛust"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ass ideg"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "yeslek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "it"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "yimenkiven-is"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "id seg ufus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caɛul"
+    }
+  ],
+  "timestamp": "2026-10-02T23:06:34.117644088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Tura, beddlet, ad ḥekmeɣ ⟨את⟩ wannect-agi wen din n Yahwe: ⟨את⟩ ttewṣedqin meṛṛa n Yahwe, i yesɛan yeḥdmen ⟨את⟩ wannect-agi wen d ⟨את⟩ icebbab-ikwen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "beddlet"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ad ḥekmeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wannect-agi wen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "din n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ttewṣedqin meṛṛa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ttewṣedqin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i ... yeḥdmen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yeḥdmen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wannect-agi wen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "icebbab-ikwen"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "icebbab-ikwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:41:35.813321693Z",
+  "model": "glm-5.3"
+}

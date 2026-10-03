@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Acku tgerẓiḍ deg wallen-iw, tettwamgeṛd, nekkini iḥemmel-ɣ-k; Ad nefk imdanen deg umek-ik, iɣlanen deg umek n yiḍes-ik.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "tgerẓiḍ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg wallen-iw"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "tettwamgeṛd"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "iḥemmel-ɣ-k"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "Ad nefk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "imdanen"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "deg umek-ik"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umek"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "yiḍes-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:05.121769934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 138,
+  "translation": "Yahwe ad isemmelt ayen yellan fell-i; Yahwe, ḥesed-ik i laẓ; ixeddimen n yifassan-ik, ur ten-ttazlay ara.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "ad isemmelt"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i laẓ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ixeddimen n"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "yifassan-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "ten-ttazlay ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.212826288Z",
+  "model": "glm-5.3"
+}

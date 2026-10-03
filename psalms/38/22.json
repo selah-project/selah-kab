@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ur iyi-teǧǧiḍ ara, a Yahwe, Elohim-inu; ur tebɛed ara sɣur-i.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "iyi-teǧǧiḍ ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-inu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tebɛed ara"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:11.001411382Z",
+  "model": "glm-5.3"
+}

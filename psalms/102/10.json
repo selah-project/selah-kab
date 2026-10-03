@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Axaṭer iṭṭef idkel am aɣrum, isurifen-iw s walluy iẓezzgel-ten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "idkel"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "am aɣrum"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "isurifen-iw"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "s walluy"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "iẓezzgel-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:08.855582488Z",
+  "model": "glm-5.3"
+}

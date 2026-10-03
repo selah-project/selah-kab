@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad t-inid ⟨את⟩ i wawalen ad ten-terreḍ deg imi-s; nek, nekkini, ad lliɣ d amekkas ɣer imi-k d imi-s, ad kkneɣ ⟨את⟩ ⟨את⟩ ayen ara txedmem.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ad t-inid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ad ten-terreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i wawalen"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "i wawalen"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "deg imi-s"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nek, nekkini"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ad lliɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d amekkas ɣer"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imi-k"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "d"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "imi-s"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ad kkneɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "knenti-k"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ara txedmem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ara txedmem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:06.258809683Z",
+  "model": "glm-5.3"
+}

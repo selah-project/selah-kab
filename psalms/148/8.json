@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Timeẓri d wegris, adfel d ukes, ruaḥ n teɣmert, ixeddem ⟨את⟩ awal-is.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Timeẓri"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "d wegris"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "adfel"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "d ukes"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "n teɣmert"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixeddem"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "awal-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:50.759643929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Acku ul-iw iḥemmel, d taẓdit-iw tekcem deg leḥḥala, ulaḥdi tanefsit-iw ad tizeddeg deg laman.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "tekcem deg leḥḥala"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "taẓdit-iw"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ulaḥdi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tanefsit-iw"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ad tizeddeg"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "deg laman"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:07.210563866Z",
+  "model": "glm-5.3"
+}

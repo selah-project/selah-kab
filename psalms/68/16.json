@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Adrar n Elohim, adrar n Bacan; adrar n yiwenzaren, adrar n Bacan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "adrar n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar n"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bacan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar n"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "yiwenzaren"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar n"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bacan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:00.739748163Z",
+  "model": "glm-5.3"
+}

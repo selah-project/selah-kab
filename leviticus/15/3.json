@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "D tagi i d tuccḍa-s deg zav-is: mi ttufeɣ-d seg yisem-is ⟨את⟩ zav-is, neɣ mi yettwafren yisem-is seg zav-is — d tuccḍa-s i d-tagi.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "d tagi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "i d"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "tuccḍa-s"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "deg zav-is"
+    },
+    {
+      "surface": "רר",
+      "gloss": "mi ttufeɣ-d"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zav-is"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "zav-is"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "mi yettwafren"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "seg zav-is"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "tuccḍa-s"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-tagi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:42.994389594Z",
+  "model": "glm-5.3"
+}

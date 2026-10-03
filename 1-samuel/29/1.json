@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Pelictim tessents-d ⟨את⟩ akk imenḍab-nsen ɣer Afeq; ma d Yisrael zeṛṛben ɣer tiṭ n waman i yellan deg Yizreɛel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "tessents-d"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelictim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk imenḍab-nsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "imenḍab-nsen"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeq"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ma d Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "zeṛṛben"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ɣer tiṭ n waman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizreɛel"
+    }
+  ],
+  "timestamp": "2026-10-02T22:51:34.085955517Z",
+  "model": "glm-5.3"
+}

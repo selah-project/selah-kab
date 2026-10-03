@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 35:11",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Nɣan ⟨את⟩ Pesaḥ; ikahanen semsen idammen seg ufus-nsen, yerna ileviyen ɣeẓẓen-ten.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "Nɣan"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨את⟩ Pesaḥ",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "semsen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikahanen"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "seg ufus-nsen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ileviyen"
+    },
+    {
+      "surface": "מפשיטים",
+      "gloss": "ɣeẓẓen-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T03:56:32.712572315Z",
+  "model": "glm-5.3"
+}

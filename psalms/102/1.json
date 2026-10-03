@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Taẓallit n lɛani, mi yettkukru, deg zdat Yahwe ad yesseffeḍ ⟨awal⟩-ines.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Taẓallit"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "n lɛani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "yettkukru"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ad yesseffeḍ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "⟨awal⟩-ines"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:02.371421147Z",
+  "model": "glm-5.3"
+}

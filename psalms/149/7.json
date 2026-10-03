@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Iwakken ad gen tanqmit di ygduden, d tisektilin deg ygduden.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ad gen"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "tanqmit"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di ygduden"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tisektilin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ygduden"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:20.411786586Z",
+  "model": "glm-5.3"
+}

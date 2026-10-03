@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Taxxamt warra d win yebɣan ad yidir, ssaɛten; arraw-ur-nlilin, qqlen.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "taxxamt warra"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "d win yebɣan ad yidir"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ssaɛten"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "arraw-ur-nlilin"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "qqelen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:25.628898461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Sellen iṛebbiten n yegduden, yal yiwen ⟨את⟩ tamurt-is, seg ufus n ugellid n Acur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "ad sellen"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "sellen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "n yegduden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt-is"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tamurt-is"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Acur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:34.739043417Z",
+  "model": "glm-5.3"
+}

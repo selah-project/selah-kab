@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ad d-iḥerreb tiḥerribin, ad yeḥdem s lwerɣ, s lifḍi, akked nneḥas.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "ad d-iḥerreb"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "tiḥerribin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yeḥdem"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "s lwerɣ"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "s lifḍi"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "akked nneḥas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:16.071594387Z",
+  "model": "glm-5.3"
+}

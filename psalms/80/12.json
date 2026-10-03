@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Tuzen tigezza-nneɣ ɣer yilel, d isemmaden-is ɣer wasif.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "tuzen"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "tigezza-nneɣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "isemmaden-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:25.338170833Z",
+  "model": "glm-5.3"
+}

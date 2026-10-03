@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Ih, tiḥri n wemdan ad k-tesbuɣ; lbaqi n tiḥri ad t-tceggreg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tiḥri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ad k-tesbuɣ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "lbaqi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tiḥri"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "ad t-tceggreg"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:15.700798119Z",
+  "model": "glm-5.3"
+}

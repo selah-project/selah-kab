@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Win inulfan akk ulawen-nnsen s yiwet n talɣa, win ifehmen ɣer akk tiqdicin-nnsen.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Win inulfan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "s yiwet n talɣa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ulawen-nnsen"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "win ifehmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "tiqdicin-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:02.005870453Z",
+  "model": "glm-5.3"
+}

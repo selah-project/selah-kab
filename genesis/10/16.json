@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "akked ⟨את⟩ Yebuṣiyen, ⟨את⟩ Imoriyen, akked ⟨את⟩ Girgaṣiyen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Yebuṣiyen"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebuṣiyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Imoriyen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Imoriyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Girgaṣiyen"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaṣiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:57.299661389Z",
+  "model": "glm-5.3"
+}

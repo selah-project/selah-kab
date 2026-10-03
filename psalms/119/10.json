@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "S wul-iw meṛṛa i k-id-nnadiɣ; ur iyi-ttazzal ara seg lɛahdi-k.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "s wul-iw"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "i k-id-nnadiɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ttazzal ara"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "seg lɛahdi-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:00.438367682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Iḥerrem wemdan-nni i d-yemmeslayen ɣer ⟨את⟩ baba-w, ad yenna-yas: Ttwalid-ed d aqcir; ad t-ixelleq wa ṛṛaḥ!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "iḥerrem"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "i d-yemmeslayen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-w"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba-w"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna-yas"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ttwalid-ed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "(i kečč)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "aqcir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "aqcir"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ad t-ixelleq wa"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "ṛṛaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:21:56.290759315Z",
+  "model": "glm-5.3"
+}

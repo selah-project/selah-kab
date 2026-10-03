@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Axataṭ s din, iḥekmen-aneḍ wid i ɛiwwlen deg nnfa, awalen n uẓawan; wid i ɣ-id-yesseḥsren ssutren-aɣ-d tuccfa: ẓewwqet-aɣ-d si lqaṣida n Siyun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axataṭ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "s din"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "iḥekmen-aneḍ"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "wid i ɛiwwlen deg nnfa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "n uẓawan"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "wid i ɣ-id-yesseḥsren"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "tuccfa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ẓewwqet-aɣ-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ-d"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "si lqaṣida"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:29.392858610Z",
+  "model": "glm-5.3"
+}

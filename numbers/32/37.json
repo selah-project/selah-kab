@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "At Reuven bnun ⟨את⟩ Hecebun akked ⟨את⟩ Elɛale, akked ⟨את⟩ Qiryatayim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "At"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bnun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hecebun"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hecebun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Elɛale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elɛale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Qiryatayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Qiryatayim"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:19.937000668Z",
+  "model": "glm-5.3"
+}

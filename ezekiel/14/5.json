@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Iwakken ad yeṭṭef Yahwe ⟨את⟩ axxam n Yisrael deg wul-nsen, iɣer ṛuḥen seg idis-iw s yigellulen-nsen, akkten.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "deg wul-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iɣer"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "seg idis-iw"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "s yigellulen-nsen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "akkten"
+    }
+  ],
+  "timestamp": "2026-10-03T00:49:57.889109494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yeggwar Yahwe ⟨את⟩ ikuciyen zdat n Asa d zdat n Yehuda, yerna ikuciyen ḥerben.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "yeggwar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikuciyen"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ikuciyen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "d zdat n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ḥerben"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ikuciyen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:46:08.530446197Z",
+  "model": "glm-5.3"
+}

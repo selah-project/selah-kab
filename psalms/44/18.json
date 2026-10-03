@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Akkw ayagi i d-nessa, maca ur k-nettu, ur nettkel tabaɣi deg lɛahd-ik.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akkw"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "i d-nessa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "k-nettu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "nettkel tabaɣi"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "deg lɛahd-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:41.156773129Z",
+  "model": "glm-5.3"
+}

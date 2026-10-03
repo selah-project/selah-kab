@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad yili d asseknil ɣef ufus-ik, d tcutciwin gar wallen-ik; s ufus fell-ay, Yahwe yessuffeɣ-aya seg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "d asseknil"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "ufus-ik"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "d tcutciwin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "wallen-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "s"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "s ufus fell-ay"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "yessuffeɣ-aya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:13.165061121Z",
+  "model": "glm-5.3"
+}

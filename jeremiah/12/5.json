@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Acku ⟨את⟩ yir argaz ɣef uḍar tḍeḍḍfeḍ, ṣsuḥen-k; kayi ad t-nnaḍen ⟨את⟩ yimuddir? Ma tluleḍdeg tmurt n tifrat, acu ara txedmeḍ deg teqbaylit n Uyarden?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yir argaz ɣef uḍar"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "yir argaz ɣef uḍar"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "tḍeḍḍfeḍ"
+    },
+    {
+      "surface": "וילאוך",
+      "gloss": "ṣsuḥen-k"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kayi"
+    },
+    {
+      "surface": "תתחרה",
+      "gloss": "ad t-nnaḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimuddir"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "yimuddir"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "n tifrat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "tluleḍ"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "acu ara"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "deg teqbaylit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "n Uyarden"
+    }
+  ],
+  "timestamp": "2026-10-03T00:20:53.515935040Z",
+  "model": "glm-5.3"
+}

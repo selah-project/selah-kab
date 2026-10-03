@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Nnan-as meṛṛa iqbuṛen akk d wegdud: ur tessel ara, ur tqiḍeḍ ara.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan-as"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "iqbuṛen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tessel"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "tqiḍeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:38.006148634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Cfu ɣer tmucuḥa-is ayen i d-yexleq, isekkilen-is d icreɛ n yimawen-is.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Cfu ɣer"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "tmucuḥa-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-yexleq"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "isekkilen-is"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "d icreɛ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "n yimawen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:56.791681894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Caul yewweḍ ɣer temdint n Ɛamaleq, yessersen ⟨את⟩ imrigen deg wasif.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yewweḍ ɣer"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Ɛamaleq"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "yessersen imrigen"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "deg wasif"
+    }
+  ],
+  "timestamp": "2026-10-02T22:43:36.540395419Z",
+  "model": "glm-5.3"
+}

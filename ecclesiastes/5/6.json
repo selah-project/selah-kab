@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Axaṭer deg leṭṭut meṛṛa, d ilem d wawalen aṭas; d acu kan: ḥader ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deg ... meṛṛa"
+    },
+    {
+      "surface": "חלומות",
+      "gloss": "leṭṭut"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "d ilem"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "d wawalen"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d acu kan:"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ḥader"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:33.982512593Z",
+  "model": "glm-5.3"
+}

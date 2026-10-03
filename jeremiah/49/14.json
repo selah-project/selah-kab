@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Xber isiɣ-d seg ⟨את⟩ Yahwe, d amazan i d-yettwaznen deg leǧnuf: mlilimet, ddu-t ɣer-s, qqimmet ɣer lḥerb.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "Xber"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "isiɣ-d"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "d amazan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "deg leǧnuf"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "yettwaznen"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "mlilimet"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ddu-t"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "qqimmet"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ɣer lḥerb"
+    }
+  ],
+  "timestamp": "2026-10-03T00:38:53.679324716Z",
+  "model": "glm-5.3"
+}

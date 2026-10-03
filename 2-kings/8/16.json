@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 8:16",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Deg useggas wis semmus i Yehoram, mmi-s n Aḥab, agellid n Yisrael — Yehocafat agellid n Yeḥuda — Yehoram mmi-s n Yehocafat yuli d agellid n Yeḥuda.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "wis semmus"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "i Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "n Aḥab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehocafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yeḥuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yuli d agellid"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "n Yehocafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yeḥuda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:29.792513625Z",
+  "model": "glm-5.3"
+}

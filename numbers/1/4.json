@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Deg ⟨את⟩-nnwen ad ilin argaz i teqbilt, argaz d ixf i wexxam n yibanen-is; netta.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩-nnwen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "i teqbilt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "d ixf"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i wexxam"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "n yibanen-is"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:48.397733042Z",
+  "model": "glm-5.3"
+}

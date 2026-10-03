@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yiwet n temdint tamecṭuḥt, yimdanen drus deg-s; d-yusa-d ɣur-s ugellid ameqqran, iḥerbes ⟨את⟩-s, yebna ɣef-s isaditen imeqqranen.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "tamecṭuḥt"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "yimdanen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "drus"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "d-yusa-d"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "iḥerbes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "temdint"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "isaditen"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "imeqqranen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:45.250522511Z",
+  "model": "glm-5.3"
+}

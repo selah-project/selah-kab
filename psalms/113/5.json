@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 113,
+  "translation": "Anwa i yemcaben Yahwe Elohim-nneɣ, Win yuli d ameqqran iwakken ad yessifer?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "am Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "Win yuli d ameqqran"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "iwakken ad yessifer"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:38.265026845Z",
+  "model": "glm-5.3"
+}

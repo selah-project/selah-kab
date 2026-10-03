@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Moce yella yettnadi ⟨את⟩ tideft n Yitro, bab n tmeṭṭut-is, aqessis n Midiyan; iḥemmel ⟨את⟩ tideft ar deffir n taneẓruft, iwweḍ-d ɣer wedrar n Elohim, ɣer Ḥorev.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yettnadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tideft"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tideft"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "bab n tmeṭṭut-is"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "aqessis"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tideft"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tideft"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ar deffir"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "taneẓruft"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "iwweḍ-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Ḥorev"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:01.010334967Z",
+  "model": "glm-5.3"
+}

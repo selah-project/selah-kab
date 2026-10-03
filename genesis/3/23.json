@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Iẓeg Yahwe Elohim amdan seg ureggew n Ɛeden, ad yexdem ⟨את⟩ akal i t-ittwakken seg-s.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "iẓeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "seg ureggew"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "n Ɛeden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akal"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "akal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ittwakken"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:57.428426624Z",
+  "model": "glm-5.3"
+}

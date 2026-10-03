@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Win i-gteren yiwen n wemdan u t-inɣen s lbeẓẓa, ma yella yettwaf deg ufus-is, ad yemmut s lmut.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "win i-gteren"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen n wemdan"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "u t-inɣen"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ma yella yettwaf"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:41.427684054Z",
+  "model": "glm-5.3"
+}

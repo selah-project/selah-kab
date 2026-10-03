@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Yahwe d ameqqran, iqquad ad yettumennir ⟨s⟩wayes meqqren; tezmert-is ulac win izemren ad t-iḥekker.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "iqquad ad yettumennir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨s⟩wayes meqqren"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "tezmert-is"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac win izemren"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ad t-iḥekker"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:39.288614735Z",
+  "model": "glm-5.3"
+}

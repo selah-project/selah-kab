@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yal argaz ad yallez i ⟨את⟩ ɛedden-is, ad yini i gma-s: kcem iḥder!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Yal argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛedden-is"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ɛedden-is"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ad yallez"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "i gma-s"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kcem iḥder"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:12.450141136Z",
+  "model": "glm-5.3"
+}

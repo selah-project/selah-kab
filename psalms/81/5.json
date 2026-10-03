@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Axaṭer d aḥeqqur i Yisrael ⟨ayersi⟩, d ccreɛ i Elohim n Yaɛqov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חק",
+      "gloss": "aḥeqqur"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d ⟨ayersi⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:11.079660673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "Wemdan yegda ⟨i⟩ win yezrin d abeḥri; wussan-is am tili yettazalen.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Wemdan"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "⟨i⟩ abeḥri"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "yegda"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "wussan-is"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "am tili"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "yettazalen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:55.875814423Z",
+  "model": "glm-5.3"
+}

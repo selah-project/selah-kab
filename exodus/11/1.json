@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yenna Yahwe i Moce: Ad d-awiɣ yiwet n tneglu ɣef Ferɛun d Miṣrayim. Seld waya, ad yuzen ⟨את⟩ kunwi seg da; mi k-id-yuzen, ad k-id-iseggres akken tummεt seg da.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tneglu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ad d-awiɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "seld"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ad yuzen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "seg da"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "mi k-id-yuzen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "akken tummεt"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ad iseggres"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "ad k-id-iseggres"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "seg da"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:21.265378025Z",
+  "model": "glm-5.3"
+}

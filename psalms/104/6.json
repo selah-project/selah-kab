@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Tettwam-t s tehom am ulem; ɣef yidurar ttbeddlen aman.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "am ulem"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "tettwam-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yidurar"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ttbeddlen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:06.619491684Z",
+  "model": "glm-5.3"
+}

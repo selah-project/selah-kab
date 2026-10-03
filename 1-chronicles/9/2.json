@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Wid izdeɣen imezwura, deg wayla-nsen deg tiɣremt-nsen: Yisrael, ikohanim, ilivim, d innatinim.",
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "Wid izdeɣen"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "imezwura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "deg wayla-nsen"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "deg tiɣremt-nsen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilivim"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "d innatinim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:29:06.458675259Z",
+  "model": "glm-5.3"
+}

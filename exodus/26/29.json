@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 26:29",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad tuɣmeḍ ⟨את⟩ tiɣrasi s ḍeḥbi, ⟨את⟩ tiɣfawin-nnsent ad tent-terraḍ s ḍeḥbi d tixxamin i yiḥercimen, ad tuɣmeḍ ⟨את⟩ yiḥercimen s ḍeḥbi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣrasi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tiɣrasi"
+    },
+    {
+      "surface": "תצפה",
+      "gloss": "ad tuɣmeḍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍeḥbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣfawin-nnsent"
+    },
+    {
+      "surface": "טבעתיהם",
+      "gloss": "tiɣfawin-nnsent"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad tent-terraḍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍeḥbi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "tixxamin"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "i yiḥercimen"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ad tuɣmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiḥercimen"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "yiḥercimen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍeḥbi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:47.283940703Z",
+  "model": "glm-5.3"
+}

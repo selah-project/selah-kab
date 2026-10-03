@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yahwe, iḍfi-yeɣ deg ṣedeq-ik, imi llan iɛdawen-iw; seḥseg-d abrid-ik uqbel ugdil-iw.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "iḍfi-yeɣ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "deg ṣedeq-ik"
+    },
+    {
+      "surface": "למען",
+      "gloss": "imi"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "seḥseg-d"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "uqbel"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "abrid-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:55.541403480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 125,
+  "translation": "Err-d lxir, a Yahwe, i wid n lxir, akken i wid ibanen deg wulawen-nsen.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Err-d lxir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "i wid n lxir"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "akken i wid ibanen"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "deg wulawen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:39.614924299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 129,
+  "translation": "Ɣef iɣerda-yi kecmen, yiketcen ɣef uɛrur-im iwexxeṛen, ssexleḍ cciyya-nsen ɣer teɣzi:",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "iɣerda-yi \/ uɛrur-im"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "kecmen, yiketcen"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "yiketcen ɣef uɛrur-im iwexxeṛen"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ssexleḍ ... ɣer teɣzi"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "cciyya-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:39.312421719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 126,
+  "translation": "Taɣenna n tulliyin. Mi yerra-d Yahwe ⟨את⟩ tuɣalin n Ṣiyyun, nella am wid yurgen.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "taɣenna"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tulliyin"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "mi yerra-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuɣalin n Ṣiyyun"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "tuɣalin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyyun"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nella"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "am wid yurgen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:18.714959151Z",
+  "model": "glm-5.3"
+}

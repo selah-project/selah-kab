@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Deg zrera-ik ur tefkiḍ ara win ara yɛedden i Molek, ur txelleṣ ara ⟨את⟩ Isem n Elohim-ik; nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "seg zrera-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tefkiḍ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ad yɛedd"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i Molek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "txelleṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isem n Elohim-ik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Isem"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "n Elohim-ik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:35.413603214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Ur yessukkem ara s yils-is, ur ixeddem ara diri i umddakkel-is, ur id-yettallal ara zzher ɣef uqrib-is.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "yessukkem ara"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "yils-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixeddem ara"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "i umddakkel-is"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "zzher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "id-yettallal ara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "uqrib-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:18.222826162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "I umḥadd n ccna. Madyan n David. Deg Yahwe ḥeṣṣit-imman-iw; acu i d-ttinim i nefc-iw: ffɣ, agḍiḍ, ɣer wedrar-ikwen?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i umḥadd n ccna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "madyan n David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ḥeṣṣit-imman-iw"
+    },
+    {
+      "surface": "איך",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "i d-ttinim"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "i nefc-iw"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "ffɣ"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ɣer wedrar-ikwen"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "agḍiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:42.133426844Z",
+  "model": "glm-5.3"
+}

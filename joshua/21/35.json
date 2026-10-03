@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna akked ⟨את⟩ iḥricen-is, ⟨את⟩ Naḥalal akked ⟨את⟩ iḥricen-is; kkuz n timdinin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "iḥricen-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iḥricen-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naḥalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Naḥalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "iḥricen-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iḥricen-is"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "n timdinin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kkuz"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:40.245754820Z",
+  "model": "glm-5.3"
+}

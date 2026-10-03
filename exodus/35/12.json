@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "⟨את⟩ taɛkubt d ⟨את⟩ tiberṭiqin-is, ⟨את⟩ takaporet, d ⟨את⟩ lḥijab n ummasak:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɛkubt"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "taɛkubt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tiberṭiqin-is"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tiberṭiqin-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takaporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "lḥijab"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "lḥijab"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "n ummasak"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:52.585324142Z",
+  "model": "glm-5.3"
+}

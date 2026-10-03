@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ad yidir mazal i lebda, ur iwala ara ⟨lqbur⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "iwala ara"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "lqbur"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:22.216411428Z",
+  "model": "glm-5.3"
+}

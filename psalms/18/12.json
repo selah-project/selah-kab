@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yerra iberkanen d tuḥbit-ines, axxam-ines icebɛen-t: iberkanen n waman, tiẓuggiwin tikukrinin n igenwan.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iberkanen"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "tuḥbit-ines"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "icebɛen-t"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "axxam-ines"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "iberkanen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "tiẓuggiwin tikukrinin"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "n igenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:46.570009643Z",
+  "model": "glm-5.3"
+}

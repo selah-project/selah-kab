@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Ttan-d ⟨את⟩ taqedcit-ik s tmes; i wakal rẓen ⟨את⟩ Mickan n Yisem-ik.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Ttan-d"
+    },
+    {
+      "surface": "באש",
+      "gloss": "s tmes"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "taqedcit-ik"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "i wakal"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "rẓen"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "n Yisem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:23.837922400Z",
+  "model": "glm-5.3"
+}

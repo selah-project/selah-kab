@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Weldin n Yisrael kecmen ad cčen deg widdan illan d ikcicmen, acku lɣiɣi yella deg tmurt n Kenɛan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "weldin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ad cčen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "widdan illan d ikcicmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "lɣiɣi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenɛan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:50.799864310Z",
+  "model": "glm-5.3"
+}

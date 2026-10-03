@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Tifrat tusligt i wid iḥemmlen Tora-ik, Yahwe; ula d yiwen usengel ur nsaa-n.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "tifrat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tusligt"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "i wid iḥemmlen"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-ik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ula d yiwen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ur nsaa-n"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "asengel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:17.795071880Z",
+  "model": "glm-5.3"
+}

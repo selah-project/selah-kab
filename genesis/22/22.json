@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "D ⟨את⟩ Keced, d ⟨את⟩ Ḥazo, d ⟨את⟩ Pilda, d ⟨את⟩ Yidlaf, d ⟨את⟩ Betuel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Keced"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Keced"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ḥazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Ḥazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Pilda"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pilda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yidlaf"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Betuel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:24.228839375Z",
+  "model": "glm-5.3"
+}

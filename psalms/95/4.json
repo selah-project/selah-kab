@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "Win deg ufus-is ay d-yezgan iṭeddiwen n tmurt, dɣa iṭeddiwen n yidurar nneɣ-t.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Win"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "iṭeddiwen n"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "dɣa iṭeddiwen n"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yidurar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nneɣ-t"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:19.092607966Z",
+  "model": "glm-5.3"
+}

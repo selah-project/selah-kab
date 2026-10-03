@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Tcerrem-ten-id am asif; llan d tangilt; s uzal, am tuga, ad tezri.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Tcerrem-ten-id"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tangilt"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "s uzal"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "am tuga"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ad tezri"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:14.973569088Z",
+  "model": "glm-5.3"
+}

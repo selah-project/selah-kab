@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Nekkini, nekkini d-yennan; daɣen necreɣ-t-id, nudan-t-id, yewjid abrid-is.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "d-yennan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "necreɣ-t-id"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "nudan-t-id"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "yewjid"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "abrid-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:55.459968126Z",
+  "model": "glm-5.3"
+}

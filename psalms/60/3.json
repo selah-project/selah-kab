@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Elohim, tessuffuɣ-aɣ, terẓaɣ-aɣ, tkecmeḍ deg werẓi; tuɣal-d ɣer-neɣ!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "tessuffuɣ-aɣ"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "terẓaɣ-aɣ"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "tkecmeḍ deg werẓi"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "tuɣal-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ɣer-neɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:26.649652634Z",
+  "model": "glm-5.3"
+}

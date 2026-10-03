@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "A win i ttwaqeɛcen, a warraw n w-aɣrad-iw: ayen i slicdeɣ ⟨את⟩ Yahwe Ṣebaot, Elohim n Yisrael, awen-t-id-mliy.",
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "A win i ttwaqeɛcen"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "d"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "warraw n w-aɣrad-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "slicdeɣ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Ṣebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "awen-t-id-mliy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "awen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:25.160809184Z",
+  "model": "glm-5.3"
+}

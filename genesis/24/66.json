@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yiwet-d imeḥbus i Yiṣḥaq ⟨i d-yesbeggnen ⟨את⟩⟩ akk tiḥerciwin i iḥekmen.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "Yiwet-d"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "imeḥbus"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "i Yiṣḥaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tiḥerciwin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tiḥerciwin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iḥekmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:19:21.552312833Z",
+  "model": "glm-5.3"
+}

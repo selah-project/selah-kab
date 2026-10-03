@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yenna yiwen seg-sen: Eɛzel a ttwali, ḍdu d ⟨את⟩ imceḍlen-ik. Yenna: Neḥkem, ad ruḥeɣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen seg-sen"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "eɛzel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a ttwali"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ḍdu d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imceḍlen-ik"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imceḍlen-ik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "neḥkem"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ad ruḥeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:28:37.539781963Z",
+  "model": "glm-5.3"
+}

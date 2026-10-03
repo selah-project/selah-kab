@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ur ikeççem ɣer yal nnfs n win immuten; i baba-s i yemma-s ur yettwages.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nnfs"
+    },
+    {
+      "surface": "מת",
+      "gloss": "n win immuten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ikeççem"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "i baba-s"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "i yemma-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "yettwages"
+    }
+  ],
+  "timestamp": "2026-10-02T21:15:36.830450620Z",
+  "model": "glm-5.3"
+}

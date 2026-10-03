@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Moce yesla-as-d, yelha deg yiẓri-s.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yesla-as-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "yelha"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "deg yiẓri-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:08:15.859842560Z",
+  "model": "glm-5.3"
+}

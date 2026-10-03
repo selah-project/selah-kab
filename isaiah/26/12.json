@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yahwe, Kečč i d-tessefrud talemt i neḥ, axaṭer akk iḥeddiyen-nneɣ Kečč i ten-txedmeḍ i neḥ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "tessefrud"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talemt"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "i neḥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "iḥeddiyen-nneɣ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "i ten-txedmeḍ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:53.915515260Z",
+  "model": "glm-5.3"
+}

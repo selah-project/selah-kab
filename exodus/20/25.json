@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ma txedmeḍ-d yis-s lmeṣbed n yijfan, ur tt-bennuḍ ara s yijfan iṛummen: axaṭer taselkit-ik tessenviḍ-t deg-s, tessefsax-t.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lmeṣbed"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "n yijfan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txedmeḍ-d yis-s"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yis-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tt-bennuḍ ara"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "yijfan iṛummen"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "s yijfan iṛummen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "taselkit-ik"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "tessenviḍ-t"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "tessefsax-t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:18.459264786Z",
+  "model": "glm-5.3"
+}

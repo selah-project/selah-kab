@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Izerman d yizgar, akk-ten, ula d iɣersiwen n uzeṭṭa.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Izerman"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "d yizgar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "akk-ten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "iɣersiwen"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "n uzeṭṭa"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:18.805396824Z",
+  "model": "glm-5.3"
+}

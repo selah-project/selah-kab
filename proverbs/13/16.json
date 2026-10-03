@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yal akluc yettxedem s tmussni; ma d aḥmaqi yesselɣa-d taḥmaqit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Yal"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "akluc"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yettxedem"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "s tmussni"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ma d aḥmaqi"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "yesselɣa-d"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "taḥmaqit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:14.171211354Z",
+  "model": "glm-5.3"
+}

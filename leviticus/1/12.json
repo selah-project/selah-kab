@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad t-iqṣec ɣef tneẓlin-is, akked ⟨את⟩ ixef-is akked ⟨את⟩ taḍut-is; acohen ad ten-yessikel ⟨את⟩ ɣef yiẓraɣen i yellan ɣef tmes i yellan ɣef uɣrad.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "ad t-iqṣec"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ɣef tneẓlin-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "ixef-is"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ixef-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "taḍut-is"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "taḍut-is"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "ad yessikel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "acohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yiẓraɣen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "uɣrad"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:15.723180536Z",
+  "model": "glm-5.3"
+}

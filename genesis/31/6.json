@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Kunţenti tessnamemt belli s tazmert-iw meṛṛa xedmeɣ ⟨את⟩ i baba-wen.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "kunţenti"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "tessnamemt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s ... meṛṛa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tazmert-iw"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "xedmeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-wen"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "baba-wen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:37.413350742Z",
+  "model": "glm-5.3"
+}

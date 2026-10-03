@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Lɛahd-iw yellan d lḥeyat d tifrat, lɛahd-iw yella ⟨את⟩ yides; xfkaɣ-tent-as d lexfa, iḥetm-iyi-d, u seg uqbel n yisem-iw iḥewwes netta.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yides",
+      "marks": "lɛahd-iw yellan d lḥeyat d tifrat"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "lḥeyat"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "d tifrat"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "xfkaɣ-tent-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "lexfa"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "iḥetm-iyi-d"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "seg uqbel n"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "yisem-iw"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "iḥewwes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:33.444538198Z",
+  "model": "glm-5.3"
+}

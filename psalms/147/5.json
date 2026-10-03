@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Adonai-nneɣ d ameqqran, tezmert-is d teɣzi; i teqqiss-is ulac umḍin.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai-nneɣ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "d teɣzi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "tezmert-is"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "i teqqiss-is"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umḍin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:49.937807142Z",
+  "model": "glm-5.3"
+}

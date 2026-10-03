@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Nekk, ẓwalɣeɣ i Efrayim ad yekcem, ṭṭfeɣ-ten s yiẓarawen-is, ur ẓrin ara belli nekki i ten-iḥesben.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "iẓwalɣeɣ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "i Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ṭṭfeɣ-ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "yiẓarawen-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ẓrin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "i ten-iḥesben"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:24.862899576Z",
+  "model": "glm-5.3"
+}

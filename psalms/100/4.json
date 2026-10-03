@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 100,
+  "translation": "Kcumet tewwura-is s tanemmirt, iḥawwa-is s tejmilt; efket-as tajmilt, berket isem-is.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Kcumet"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "tewwura-is"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "s tanemmirt"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "iḥawwa-is"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "s tejmilt"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "efket-as tajmilt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bereket"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:39.032001350Z",
+  "model": "glm-5.3"
+}

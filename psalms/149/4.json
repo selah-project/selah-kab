@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Axaṭer Yahwe iḥemmel ⟨את⟩ agdud-is; ad issemlil iɛessasen s tselmest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "⟨את⟩ agdud-is",
+      "marks": "agdud-is"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ad issemlil"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "iɛessasen"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "s tselmest"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:07.853896172Z",
+  "model": "glm-5.3"
+}

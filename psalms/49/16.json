@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Xas akka, Elohim ad iyi-d-yesselḥes nnefs-iw seg ufus n Ceol; ihi ad iyi-yawi. Selah",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Xas akka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ad d-yesselḥes"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ad iyi-yawi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:32.761430604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Eǧǧ taɛraḍt, ekkes tiḥri: ur tḥewwezeḙ, ayagi ad yeglu kan ɣer twaɣit.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Eǧǧ"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "taɛraḍt"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ekkes"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "tiḥri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tḥewwezeḙ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ɣer twaɣit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:19.227499875Z",
+  "model": "glm-5.3"
+}

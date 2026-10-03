@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 48:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Qerben ɣur-i, seldet-agi: ur d-yenni ara si tazwara, deg usseller; seg wasmi tella, din nekkini llan; tura Adonai Yahwe izuzer-iyi, akked ruaḥ-is.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "qerben"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "seldet"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "si tazwara"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg usseller"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "d-yenni ara"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "seg wasmi"
+    },
+    {
+      "surface": "היותה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini llan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "izuzer-iyi"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "akked ruaḥ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:55.460122628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Teraḥ yidder sebɛin n yiseggasen, iwelded ⟨את⟩ Avram, ⟨את⟩ Naḥor d ⟨את⟩ Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidder"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebɛin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "iwelded"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naḥor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naḥor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:00.134304764Z",
+  "model": "glm-5.3"
+}

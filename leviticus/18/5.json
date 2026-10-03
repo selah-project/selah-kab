@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ad teḥerzem ⟨את⟩ ilugan-iw d ⟨את⟩ iccreɛ-iw, ara yexdem amdan ⟨את⟩sent, ad yidir fell-asen; nekkini d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad teḥerzem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilugan-iw"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ilugan-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iccreɛ-iw"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "iccreɛ-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amdan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:31.843004307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ad d-yessuffeɣ ⟨⟨am tafat⟩⟩ ṣedeq-ik, ccreɛ-ik ⟨am tniri⟩ n wass.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Ad d-yessuffeɣ"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "am tafat"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ṣedeq-ik"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ccreɛ-ik"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "am tniri n wass"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:19.227165798Z",
+  "model": "glm-5.3"
+}

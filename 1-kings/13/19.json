@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Iṣub-d ⟨את⟩ yid-s, yecce aɣrum deg wexxam-is yerna isew ⟨את⟩ waman.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "iṣub-d"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s",
+      "marks": "yid-s"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yecce"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "deg wexxam-is"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "isew"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    }
+  ],
+  "timestamp": "2026-10-03T04:15:43.090495569Z",
+  "model": "glm-5.3"
+}

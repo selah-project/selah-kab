@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 99,
+  "translation": "Moce d Aharon deg yikohanim-is, d Cemmuwel deg wid i d-yessawḍen isem-is; ssawḍen-d ɣer Yahwe, mačči akka i d-yettarraḥen.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "deg yikohanim-is"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "d Cemmuwel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "deg wid i d-yessawḍen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ssawḍen-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mačči akka"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "i d-yettarraḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:19.597524706Z",
+  "model": "glm-5.3"
+}

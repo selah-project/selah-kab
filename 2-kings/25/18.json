@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Anemhal n yimessuḍen yewwi-d ⟨את⟩ Seraya akohen amezwaru, ⟨את⟩ Ṣefanya akohen wis sin, akk d ⟨את⟩ kraḍ n yiḥerriyen n tewwurt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anemhal"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "n yimessuḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "amezwaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣefanya"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Ṣefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kraḍ n yiḥerriyen n tewwurt"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "n yiḥerriyen"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "n tewwurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:58.420545372Z",
+  "model": "glm-5.3"
+}

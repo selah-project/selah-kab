@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 25:22",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "I imezdaɣ i d-yeqqimen deg tmurt n Yehuda, wid i yeǧǧa Nebukadneṣar agellid n Babel, yebded fell-asen ⟨את⟩ Gedalyahu, mmi-s n Aḥiqam, mmi-s n Cafan.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "i d-yeqqimen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid i"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "yeǧǧa"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadneṣar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babel"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "yebded"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Aḥiqam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Cafan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:48.789406688Z",
+  "model": "glm-5.3"
+}

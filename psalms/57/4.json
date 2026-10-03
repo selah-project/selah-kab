@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Ad yazen seg igenwan, ad isellek-iyi; ad iqelleḍ win iḥemmen fell-i. Selah. Ad yazen Elohim ḥesed-is d tidet-is.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ad yazen"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "seg igenwan"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ad isellek-iyi"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ad iqelleḍ"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "win iḥemmen fell-i"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Ad yazen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "d tidet-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:06.806776623Z",
+  "model": "glm-5.3"
+}

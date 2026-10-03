@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 138,
+  "translation": "Sselsfoy n David. Ad k-ccedɣeɣ akken illa ul-iw; nnig iqedcen n Elohim ad k-zemreɣ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sselsfoy n David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ad k-ccedɣeɣ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akken illa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "nnig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iqedcen n Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ad k-zemreɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:43.588398140Z",
+  "model": "glm-5.3"
+}

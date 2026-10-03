@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yahwe yessuli-d ⟨את⟩ iɛdawen n Reṣin ɣef Yisrael, ⟨את⟩ iɛdawen-is yessdukkel.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "yessuli-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɛdawen"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "iɛdawen"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "n Reṣin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iɛdawen-is"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iɛdawen-is"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "yessdukkel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:17.247015774Z",
+  "model": "glm-5.3"
+}

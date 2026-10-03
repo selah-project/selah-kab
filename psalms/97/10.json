@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 97,
+  "translation": "Wid iḥemmlen Yahwe, kkrent tayebbit; Win yettḥarzen iḍmiren n yiḥessaden-is, seg ufus n yirzal ad ten-yelles.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "wid iḥemmlen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "kkrent"
+    },
+    {
+      "surface": "רע",
+      "gloss": "tayebbit"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "win yettḥarzen"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "iḍmiren"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "yiḥessaden-is"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yirzal"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ad ten-yelles"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:17.987709008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad zzdeɣ gar at Yisrael, ur ad ccix ara ⟨את⟩ agdud-iw Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ad zzdeɣ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "ad ccix ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:46.080453934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad teṭṭfeḍ ⟨את⟩ izimer n usseggem, ad tɛeǧǧen ⟨את⟩ taḥawsa-s deg wemkan iqedsan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izimer n usseggem"
+    },
+    {
+      "surface": "איל",
+      "gloss": "izimer"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "n usseggem"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ad tɛeǧǧen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥawsa-s"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "taḥawsa-s"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "deg wemkan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedsan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:56.704482035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Imaṣṣen ad tettwaɣen ⟨את⟩ sebɛa n wussan; ur ad d-yettwali kečč aḥmiḍ, ur ad d-yettwali kečč ccaɛur deg yal tilisa-nnek.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "imaṣṣen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad tettwaɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebɛa n wussan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebɛa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ad"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "d-yettwali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "aḥmiḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ad"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "d-yettwali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ccaɛur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "tilisa-nnek"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:26.827851387Z",
+  "model": "glm-5.3"
+}

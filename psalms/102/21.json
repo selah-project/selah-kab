@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Iwakken ad isel tiɣrit n usir, ad yeldi arraw n tmettant.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "iwakken ad isel"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "tiɣrit"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "usir"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ad yeldi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw n"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "tmettant"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:02.401437534Z",
+  "model": "glm-5.3"
+}

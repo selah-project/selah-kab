@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "I n David. Mabruk Yahwe, ṣur-iw, win isselmaden ifassen-iw i ṭṭraḍ, iḍud-iw i nnnem.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I n David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Mabruk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ṣur-iw"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "win isselmaden"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ifassen-iw"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "i ṭṭraḍ"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "iḍud-iw"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "i nnnem"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:55.875167496Z",
+  "model": "glm-5.3"
+}

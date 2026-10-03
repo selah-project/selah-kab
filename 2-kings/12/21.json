@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yekkren iɛebdan-is, ṣebben takerḍa, ɣlen ⟨את⟩ Yowac deg Uxxam n Millo, deg ubrid i d-yekkaṛen ɣer Sela.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "yeqqim d yekkren"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iɛebdan-is"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ṣebben"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "takerḍa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɣlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowac"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowac"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Uxxam"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "win d-yekkaṛen"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-02T23:32:47.341879884Z",
+  "model": "glm-5.3"
+}

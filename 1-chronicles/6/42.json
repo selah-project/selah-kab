@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "I warraw n Aharon unan ⟨את⟩ timdinin n usettel, ⟨את⟩ Ḥebron akked ⟨את⟩ Livna akked ⟨את⟩ ttwaṛen-is, ⟨את⟩ Yatir, ⟨את⟩ Ecetmoa akked ⟨את⟩ ttwaṛen-is.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "unan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timdinin n usettel"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "n usettel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttwaṛen-is (n Livna)"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ttwaṛen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ecetmoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Ecetmoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttwaṛen-is (n Ecetmoa)"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ttwaṛen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:28.366917636Z",
+  "model": "glm-5.3"
+}

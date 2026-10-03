@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ɣur-k, a Yahwe, ad cceɣ; i Adonai ad ssutreɣ ⟨aḥnannu⟩.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Ɣur-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad cceɣ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ad ssutreɣ ⟨aḥnannu⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:46.002498959Z",
+  "model": "glm-5.3"
+}

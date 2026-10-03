@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Moce i d-yewweḍ, iɣles i uɣlan ⟨את⟩ akk awalen n Yahwe d ⟨את⟩ akk iḥukman; aɣlan akk yedda s yiwen n yimesli, nnan-d: akk awalen i d-yemmeslay Yahwe, ad ten-nexdem.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "i d-yewweḍ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "iɣles"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i uɣlan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk iḥukman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "iḥukman"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aɣlan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "s yimesli"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yemmeslay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ad ten-nexdem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:39.972571553Z",
+  "model": "glm-5.3"
+}

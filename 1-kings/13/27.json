@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yenna-d i warraw-is: Seddu-yi ⟨את⟩ aserdun; sedden-t.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "qedcen"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "seddu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aserdun"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "aserdun"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "sedden-t"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:11.241472872Z",
+  "model": "glm-5.3"
+}

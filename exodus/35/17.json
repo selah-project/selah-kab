@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "⟨את⟩ tizeggin n wagadir, ⟨את⟩ tixemcin-is akked ⟨את⟩ isula-nnes, d ⟨את⟩ asgnu n twwurt n wagadir.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tizeggin n wagadir"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "tizeggin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n wagadir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tixemcin-is"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "tixemcin-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "isula-nnes"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "isula-nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "asgnu n twwurt n wagadir"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "asgnu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "n twwurt"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n wagadir"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:20.909260459Z",
+  "model": "glm-5.3"
+}

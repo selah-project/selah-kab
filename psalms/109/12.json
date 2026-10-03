@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ad yili wid yerzan ḥesed i nesɛa; ula d win inellin igujilen-is.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ula d win"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i nesɛa"
+    },
+    {
+      "surface": "משך",
+      "gloss": "yerzan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ula d win"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "inellin"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "igujilen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:46.336449570Z",
+  "model": "glm-5.3"
+}

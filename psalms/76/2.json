@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Yettwassnen Elohim di Yeḥuda; di Yisrael isem-is ⟨iṣṣeḥ⟩ meqqren.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "yettwassnen"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "di Yeḥuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:54.789167169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Mi ara yeldi ugdud aseḥru, ad d-yas ɣur-i; neḥkmeγ gar yiwen d ɛeddib-is, ad ḥerbeɣ ⟨את⟩ iḥekman n Elohim d ⟨את⟩ Tora-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aseḥru"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ad d-yas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "neḥkmeγ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ɛeddib-is"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "ad ḥerbeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥekman n Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "iḥekman"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tora-s"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tora-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:17.427468398Z",
+  "model": "glm-5.3"
+}

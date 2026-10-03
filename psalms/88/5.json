@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Ttwaseḥsbeɣ akked wid yettaddin ɣer lbir; lliɣ am urgaz ⟨ur⟩ ɣur-s ⟨ara⟩ tazmara.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "ttwaseḥsbeɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "wid yettaddin"
+    },
+    {
+      "surface": "בור",
+      "gloss": "lbir"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "lliɣ"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "am urgaz"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "איל",
+      "gloss": "tazmara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:23.380818547Z",
+  "model": "glm-5.3"
+}

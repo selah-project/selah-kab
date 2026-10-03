@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "S navi, Yahwe id-ysuli ⟨את⟩ Yisrael si Miṣrayim, s navi yettwaḥrez.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "S navi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "id-ysuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "si Miṣrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "s navi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "yettwaḥrez"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:27.605559280Z",
+  "model": "glm-5.3"
+}

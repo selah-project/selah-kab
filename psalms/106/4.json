@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Cfu-iyi, a Yahwe, deg rrḍa-ik γer ugdud-ik; ḍfaṛ-iyi deg tesellit-ik.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Cfu-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "deg rrḍa-ik"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "γer ugdud-ik"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "ḍfaṛ-iyi"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "deg tesellit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:58.889862937Z",
+  "model": "glm-5.3"
+}

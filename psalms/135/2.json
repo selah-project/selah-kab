@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "⟨Wid⟩ yettbeddilen deg ⟨u⟩xam n Yahwe, deg yiɣrumen n ⟨u⟩xam n Elohim-nneɣ.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "yettbeddilen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "deg yiɣrumen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uxam"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:42.389583714Z",
+  "model": "glm-5.3"
+}

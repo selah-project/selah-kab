@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Agellid Celomoh yuzen s ufus n Benayah, mmi-s n Yehoyada; yewwet-t ed, immut.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "yewwet-t ed"
+    },
+    {
+      "surface": "בו",
+      "gloss": "t"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "immut"
+    }
+  ],
+  "timestamp": "2026-10-02T23:11:04.848685785Z",
+  "model": "glm-5.3"
+}

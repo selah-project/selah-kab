@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ruḥen seg Refidim, wwḍen ɣer uḥeccal n Sinayi, ṭṭfen tamnaḍt deg uḥeccal; Yisrael iḥemmmel din-nni, sdat adrar.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ruḥen"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "seg Refidim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wwḍen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ɣer uḥeccal n"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinayi"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ṭṭfen tamnaḍt"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uḥeccal"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "iḥemmmel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din-nni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:15.013511062Z",
+  "model": "glm-5.3"
+}

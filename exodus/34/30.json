@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Aharon d warraw akk n Yisrael ẓran ⟨את⟩ Moce, ha-t aɣri n wudem-is iḍeɛṛen, ḥufen-iten ad qerben ɣer-s.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ha-t"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "iḍeɛṛen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aɣri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wudem-is"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ḥufen-iten"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ad qerben"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:00.504503849Z",
+  "model": "glm-5.3"
+}

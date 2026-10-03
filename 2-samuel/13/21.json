@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "David, agellid, issel ⟨את⟩ akk wawalen-agi, iḥmum-it-id aṭas.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "issel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wawalen-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "iḥmum-it-id"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-id"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    }
+  ],
+  "timestamp": "2026-10-02T22:58:53.330323224Z",
+  "model": "glm-5.3"
+}

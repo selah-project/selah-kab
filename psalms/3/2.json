@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yahwe, acḥal ḍḍan iɛdawen-iw! Aṭas i d-yettwaliyen fell-i!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acḥal"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ḍḍan"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "d-yettwaliyen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:53.378418369Z",
+  "model": "glm-5.3"
+}

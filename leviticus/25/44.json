@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Iqeddacen-ik d yiqeddaciyen-ik ara yesɛen ɣur-k, seg ⟨את⟩ yegrawen i kwen-yezzin, seg-sen tezrem aqeddac d taqeddacit.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "iqeddacen-ik"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "d yiqeddaciyen-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ara ilin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "yegrawen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegrawen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "kwen-yezzin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "tezrem"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aqeddac"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "d taqeddacit"
+    }
+  ],
+  "timestamp": "2026-10-02T21:18:21.430010413Z",
+  "model": "glm-5.3"
+}

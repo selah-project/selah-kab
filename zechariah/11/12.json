@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Nniɣ-asen: ma yelha deg wallen-nwen, efk-ed ⟨את⟩ taskert-iw; ma ur yelhi ara, ḥeḍlen. Ẓlan ⟨את⟩ taskert-iw: ṛtin n leff.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yelha"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "deg wallen-nwen"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "efk-ed"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "taskert-iw"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ḥeḍlen"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "Ẓlan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taskert-iw"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "taskert-iw"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ṛtin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n leff"
+    }
+  ],
+  "timestamp": "2026-10-03T01:35:34.570094206Z",
+  "model": "glm-5.3"
+}

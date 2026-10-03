@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Init i watmaten-nwen: Ammi; i yestmatin-nwen: Ruḥama.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Init"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "i watmaten-nwen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "i yestmatin-nwen"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruḥama"
+    }
+  ],
+  "timestamp": "2026-10-03T01:16:05.834067937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yahwe iḥettem seg Yisrael allen d aqejmur, tinidin-t n tejlut d wemdan n yimsi, deg yiwen n wass.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "iḥettem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "seg Yisrael"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "allen"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "d aqejmur"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "tinidin-t n tejlut"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "d wemdan n yimsi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:41.473305410Z",
+  "model": "glm-5.3"
+}

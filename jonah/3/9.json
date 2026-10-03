@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Anwa i d-yessen? Ad yuɣal, ad yeḥmel Elohim, ad yekkes seg tiddi n yiḍar-i-s, ur nettnyir ara.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "i d-yessen"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ad yeḥmel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ad yekkes"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "seg tiddi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "n yiḍar-i-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "nettnyir ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:35.291708869Z",
+  "model": "glm-5.3"
+}

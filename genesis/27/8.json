@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Tura a mmi, cmeɛ i taɣect-iw, ɣef wayen i k-iḥekmeɣ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "cmeɛ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "i taɣect-iw"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ɣef wayen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "k-iḥekmeɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    }
+  ],
+  "timestamp": "2026-10-02T20:21:11.914093781Z",
+  "model": "glm-5.3"
+}

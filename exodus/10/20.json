@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yahwe iẓeggmen ⟨את⟩ ul n Paroh, ur izenz ara ⟨את⟩ warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "iẓeggmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul n Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "izenz ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warraw n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:07.172272961Z",
+  "model": "glm-5.3"
+}

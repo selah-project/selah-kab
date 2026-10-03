@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Izuzer-d awal-is, Iṣeggem-iten, Isellek-iten seg twaɣit-nnsen.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Izuzer-d"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "awal-is"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "Iṣeggem-iten"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "Isellek-iten"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "seg twaɣit-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:07.375039978Z",
+  "model": "glm-5.3"
+}

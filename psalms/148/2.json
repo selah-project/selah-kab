@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Snenmret-t akk ineggura-nneɛ win yettwaznen; snenmret-t akk iɛsekkiyen-is.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Snenmret-t"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ineggura-nneɛ win yettwaznen"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "snenmret-t"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "iɛsekkiyen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.049960948Z",
+  "model": "glm-5.3"
+}

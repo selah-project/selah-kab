@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Am cocenat gar teyliwin, am akka tameddakelt-iw gar teqcicin.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "Am cocenat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "teyliwin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "am akka"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "tameddakelt-iw"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "teqcicin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:43.050096743Z",
+  "model": "glm-5.3"
+}

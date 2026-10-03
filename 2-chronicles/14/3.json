@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yenna i Yehuda ad nadi ⟨את⟩ Yahwe, Elohim n yidaden-nsen, ad xedmen Tora d lamr.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna i"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "i Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ad nadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "yidaden-nsen"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "d lamr"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:48.070308264Z",
+  "model": "glm-5.3"
+}

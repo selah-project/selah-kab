@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Yahwe yesla ɣef Yeḥizqiya, yefsa ⟨את⟩ weg dud.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yesla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yeḥizqiya"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "yefsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weg dud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weg dud"
+    }
+  ],
+  "timestamp": "2026-10-03T03:55:01.313002701Z",
+  "model": "glm-5.3"
+}

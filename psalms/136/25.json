@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "I d-ittak ayet i yal idem, acku i lebda ⟨⟨i⟩⟩ ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "I d-ittak"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ayet"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "idem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:59.096980883Z",
+  "model": "glm-5.3"
+}

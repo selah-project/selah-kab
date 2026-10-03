@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Wid yettẓeddiɣen deg tebburt layen fell-i, d ccna i gelten wid issuten lxemra.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "layen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wid yettẓeddiɣen"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tebburt"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "d ccna"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "wid issuten"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lxemra"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:20.997353549Z",
+  "model": "glm-5.3"
+}

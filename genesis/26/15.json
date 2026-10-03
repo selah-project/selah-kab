@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Tibirin meṛṛa i ḥerben yimegguten n baba-s deg wussan n Avraham baba-s, Ifilistin ffren-tent, ḥeṛcen-tent s wakuf.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "tibirin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ḥerben"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yimegguten"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "n Avraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "סתמומ",
+      "gloss": "ffren-tent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ifilistin"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "ḥeṛcen-tent"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "s wakuf"
+    }
+  ],
+  "timestamp": "2026-10-02T20:21:01.453770416Z",
+  "model": "glm-5.3"
+}

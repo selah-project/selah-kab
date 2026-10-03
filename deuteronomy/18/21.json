@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ma tenniḍ deg wul-ik: Amek ad nẓer ⟨את⟩ wawal i ur d-yenna ara Yahwe?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tenniḍ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "deg wul-ik"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Amek"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ad nẓer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:19.521129902Z",
+  "model": "glm-5.3"
+}

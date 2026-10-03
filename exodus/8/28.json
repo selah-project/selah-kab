@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yessuɣ leɛqel-is Fɛaun ⟨את⟩ ul-is iqeddacen ula deg tikkelt-agi, ur yazenz ara ⟨את⟩ agdud.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "yessuɣ leɛqel-is"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fɛaun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul-is"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "deg tikkelt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yazenz ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:59.200489124Z",
+  "model": "glm-5.3"
+}

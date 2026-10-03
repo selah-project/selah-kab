@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ur d-tḥeṣṣet ara ⟨את⟩ Yahwe, Elohim-nwen, akken tḥeṣṣet deg Maṣṣa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "tḥeṣṣet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "tḥeṣṣet"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "deg Maṣṣa"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:50.318830304Z",
+  "model": "glm-5.3"
+}

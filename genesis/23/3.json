@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Avraham inna-d seg zdat n lmut-is, yemmeslay-d i tarwa n Ḥet, inna:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "inna-d"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg zdat n"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udenf-is"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "n lmut-is"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yemmesteb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa n"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "inna"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:12.791392822Z",
+  "model": "glm-5.3"
+}

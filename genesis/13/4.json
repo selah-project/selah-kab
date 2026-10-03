@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ɣer wemkan n lmeṣbeḥ i yexleq din deg tazwara; din Avram issem-yelles s yisem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ɣer wemkan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "n lmeṣbeḥ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "deg tazwara"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "issem-yelles"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:53.893435004Z",
+  "model": "glm-5.3"
+}

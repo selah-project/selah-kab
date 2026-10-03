@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Terna-d tikkelt-nniḍen, tlufa-d mmi-s, teccar isem-is Cella; Yehuda yella di Kezib mi t-id-teslufa.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Terna-d"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tlufa-d"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "teccar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Cella"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "di Kezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "mi t-id-teslufa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t-id (Cella)"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:37.086162514Z",
+  "model": "glm-5.3"
+}

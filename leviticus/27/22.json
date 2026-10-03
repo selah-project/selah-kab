@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ma yeqdeṣ ⟨את⟩ wiger n tiɣin-is — win ur nelli seg yigran n aṭṭuf-is — i Yahwe,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiger n tiɣin-is"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "iger"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "n tiɣin-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "seg yigran"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "n aṭṭuf-is"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "yeqdeṣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:46.049968528Z",
+  "model": "glm-5.3"
+}

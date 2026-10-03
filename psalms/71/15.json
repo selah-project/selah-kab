@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Imi-w ad yessiwel ⟨ɣef⟩ ṣedeq-inek, yal ass ⟨ɣef⟩ taḥellist-inek; axaṭer ur ẓriɣ izwiren-is.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "imi-w"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ad yessiwel ⟨ɣef⟩"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ṣedeq-inek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "⟨ɣef⟩ taḥellist-inek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ẓriɣ"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "izwiren-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:21.171123063Z",
+  "model": "glm-5.3"
+}

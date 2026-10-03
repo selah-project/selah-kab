@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Nekk d Yahwe, Elohim-ik, i k-id-yeffγen si tmurt n Miṣrayim, si wexxam n yimdanen-ikwerken.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "k-id-yeffγen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "si wexxam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n yimdanen-ikwerken"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:17.903487717Z",
+  "model": "glm-5.3"
+}

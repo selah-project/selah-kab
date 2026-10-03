@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Beth-El yuzen Sareṣer d Regem-Melec d yirgazen-is iwakken ad slellen ⟨את⟩ udmawen n Yahwe Ṣebaot.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beth-El"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Sareṣer"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Sareṣer"
+    },
+    {
+      "surface": "ורגם",
+      "gloss": "d Regem-Melec"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Regem-Melec"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "d yirgazen-is"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "iwakken ad slellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmawen n Yahwe Ṣebaot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe Ṣebaot"
+    }
+  ],
+  "timestamp": "2026-10-03T01:34:40.529143352Z",
+  "model": "glm-5.3"
+}

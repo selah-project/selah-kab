@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Timurt ur tezmir ara ad ten-teṭṭef ad zedɣen yakk, axaṭer laɛsara-nsen tella d tameqqrant, ur zmirin ara ad zedɣen yakk.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tezmir ara ad teṭṭef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten-",
+      "marks": "timurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "timurt"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ad zedɣen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yakk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "laɛsara-nsen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "d tameqqrant"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "zmirin ara"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ad zedɣen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yakk"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:26.274540551Z",
+  "model": "glm-5.3"
+}

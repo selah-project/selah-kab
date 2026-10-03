@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad tekksem iqedcen-iw, udi-ten ⟨את⟩ — nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ad tekksem"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "iqedcen-iw"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "udi-ten"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen-iw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:30.983859820Z",
+  "model": "glm-5.3"
+}

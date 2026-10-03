@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Egglem deg Yahwe, xeddeg lxir; zedg deg tmurt, iḥles tamant.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Egglem"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "xeddeg"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "zedg"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "iḥles"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tamant"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:28.182043941Z",
+  "model": "glm-5.3"
+}

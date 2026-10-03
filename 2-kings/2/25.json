@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yeffeɣ seg din, ẓer ed ad yeddu ɣer udrar n Caramel, seg din yuɣal ɣer Comron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ẓer"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Caramel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:24:58.934255823Z",
+  "model": "glm-5.3"
+}

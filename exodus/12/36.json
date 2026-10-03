@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yahwe yefka ⟨את⟩ lɛezz i ugdud deg tiṭ n Miṣrayim, dgi ssutren; inɣeliben ⟨את⟩ Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛezz"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lɛezz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "i ugdud"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "dgi ssutren"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "inɣeliben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:34.910686572Z",
+  "model": "glm-5.3"
+}

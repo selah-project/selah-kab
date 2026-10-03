@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad t-id-tewweḍ taneɣlut ma ur yettiẓri ara; asseɣ-nni i yeffren ad t-yeṭṭef; deg taneɣlut-nni ad yali deg-s.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ad t-id-tewweḍ"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "taneɣlut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yettiẓri ara"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "asseɣ-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "yeffren"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "ad t-yeṭṭef"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "deg taneɣlut-nni"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:39.089074283Z",
+  "model": "glm-5.3"
+}

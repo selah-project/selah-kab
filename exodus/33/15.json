@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yenna-yas: ma yella udmawen-ik ur ddukklen ara, ur aɣ-ttidfi seg dagi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udmawen-ik"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ddukklen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "aɣ-ttidfi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "seg dagi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:27.742544004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Selmed-aɣ ad neḥsab wussan-nneɣ akken iwata, iwakken ad nawi d wul n tḥekma.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ad neḥsab"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "wussan-nneɣ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken iwata"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "selmed-aɣ"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "ad nawi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "n tḥekma"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.141025849Z",
+  "model": "glm-5.3"
+}

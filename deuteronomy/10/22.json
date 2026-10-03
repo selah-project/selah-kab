@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 10:22",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "S sebɛin n yimdanen (nefc) ṭfen-d jdud-ik ɣer Miṣrayim; d tura, Yahwe Elohim-ik yerra-k am yitran n igenwan, s aṭas.",
+  "tokens": [
+    {
+      "surface": "בשבעים",
+      "gloss": "s sebɛin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "n yimdanen (nefc)"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ṭfen-d"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "jdud-ik"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ɣer Miṣrayim"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "d tura"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yerra-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "am yitran"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenwan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "s aṭas"
+    }
+  ],
+  "timestamp": "2026-10-02T21:51:49.657261368Z",
+  "model": "glm-5.3"
+}

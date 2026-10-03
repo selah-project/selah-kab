@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Qeddcen ⟨את⟩ Qedec deg Galil, deg udrar n Naftali, d ⟨את⟩ Cekem deg udrar n Efrayim, d ⟨את⟩ Qiryat Arba — d nettat Ḥebron — deg udrar n Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Qeddcen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedec"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedec"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "deg Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Cekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Qiryat Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:56.231347323Z",
+  "model": "glm-5.3"
+}

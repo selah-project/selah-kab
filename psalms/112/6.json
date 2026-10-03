@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Axur: i lebda ur ad ittuḥewwel; wemdan aḥeqqani ad yeqqim deg usmekti i lebda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axur"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ad ittuḥewwel"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "deg usmekti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wemdan aḥeqqani"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:21.434333880Z",
+  "model": "glm-5.3"
+}

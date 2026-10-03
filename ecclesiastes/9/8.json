@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Deg yal akud, iles-ik ad ilin imellalen; d uẓemmum ɣef yiẓri-ik, ula d wa ur yesriyen.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Deg yal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "iles-ik"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "imellalen"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "d uẓemmum"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "yiẓri-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ula d wa"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ur yesriyen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:40:27.285306761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Am argaz neɣ tameṭṭut, ma yella deg-sen win yettmeslayen d yimettanen neɣ win issnen, lmut ad ttwaɣlin; s iẓuran ad ten-ẓẓen; idammen-nnsen degsen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "am argaz"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "win yettmeslayen d yimettanen"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "win issnen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmut"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ad ttwaɣlin"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "s iẓuran"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "ad ten-ẓẓen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "idammen-nnsen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "degsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:49.397145188Z",
+  "model": "glm-5.3"
+}

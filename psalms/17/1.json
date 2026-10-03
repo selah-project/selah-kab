@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Tafilla i David. Ssel-a, Yahwe, ⟨i⟩ ṣedeq; ḥder i treznict-iw; sen-t i tfella-iw, war ifenwan n treeẓqit.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tafilla"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Ssel-a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ḥder"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "i treznict-iw"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sen-t"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "i tfella-iw"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "war"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ifenwan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "n treeẓqit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:38.932350125Z",
+  "model": "glm-5.3"
+}

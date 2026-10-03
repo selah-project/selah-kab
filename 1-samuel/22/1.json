@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "David yuɣal ɣer sdat seg din, yefri ɣer tzeqqa n Ɛedullam. Mi slan ⟨את⟩ watmaten-is akk d yal axxam n baba-s, dduxen ɣer-s din.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yuɣal ɣer sdat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "yefri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "tzeqqa n"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Ɛedullam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "mi slan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d yal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "dduxen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-02T22:49:00.189678324Z",
+  "model": "glm-5.3"
+}

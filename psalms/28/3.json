@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ur ttawin-iyi akked yiberḥeniyen, akked yixeddaɛen n tkerẓa, wid yettmeslayen s tinemt akked yimdukkal-nnsen, maḍi n yir axemṣem deg ulawen-nnsen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ttawin-iyi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yiberḥeniyen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "yixeddaɛen n"
+    },
+    {
+      "surface": "און",
+      "gloss": "tkerẓa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wid yettmeslayen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "s tinemt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "yimdukkal-nnsen"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "n yir axemṣem"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "deg ulawen-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:33.045979982Z",
+  "model": "glm-5.3"
+}

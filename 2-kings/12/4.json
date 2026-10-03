@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Macca lɣuran nniḍen ur nekkis ara; aɣlanu mazal yeqebbeḥ it yessuneɣ deg lɣuran-nni.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Macca"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "lɣuran nniḍen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nekkis ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aɣlanu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "yeqebbeḥ"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "it yessuneɣ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "deg lɣuran-nni"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:46.467248565Z",
+  "model": "glm-5.3"
+}

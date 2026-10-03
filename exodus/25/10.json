@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad xedmen tasaert n uẓeẓ n ctim: sin n yiɣilen d uzgen teɣzi-ines, yiɣil d uzgen tehri-ines, yiɣil d uzgen tattayt-ines.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tasaert"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "n uẓeẓ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n ctim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "sin n yiɣilen"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-ines"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yiɣil"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "tehri-ines"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yiɣil"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tattayt-ines"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:45.740497615Z",
+  "model": "glm-5.3"
+}

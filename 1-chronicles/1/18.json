@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Arfaḫcad iwlad ⟨את⟩ Calaḥ, d Calaḥ iwlad ⟨את⟩ ɛEber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arfaḫcad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Calaḥ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Calaḥ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "d Calaḥ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛEber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ɛEber"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:07.815699636Z",
+  "model": "glm-5.3"
+}

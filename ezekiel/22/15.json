@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad frureɣ ⟨את⟩ kečč gar yegduden, ad k-zeggāɣ tmura, uɣ ad kseɣ lmaḥna-inek seg kečč.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "Ad frureɣ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gar yegduden"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "ad k-zeggāɣ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "tmura"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "ad kseɣ"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "lmaḥna-inek"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg kečç"
+    }
+  ],
+  "timestamp": "2026-10-03T00:53:41.753315828Z",
+  "model": "glm-5.3"
+}

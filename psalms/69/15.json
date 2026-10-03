@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Ṣeggem-iyi-d seg lmerdja, ur ttaweḍ ara ad ḥummeɣ; ṣeggem-iyi-d seg wid i yi-krekren, seg iẓeḍwan n yisafan.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ṣeggem-iyi-d"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "seg lmerdja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ad ḥummeɣ"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ṣeggem-iyi-d"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "seg wid i yi-krekren"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "seg iẓeḍwan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n yisafan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:20.997926363Z",
+  "model": "glm-5.3"
+}

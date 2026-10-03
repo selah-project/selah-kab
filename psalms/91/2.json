@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Ad d-iniɣ i Yahwe: d asleɣ-iw d taɣremt-iw; Elohim-iw, deg-s ad kkfuɣ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ad d-iniɣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "asleɣ-iw"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "d taɣremt-iw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ad kkfuɣ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:42.902897137Z",
+  "model": "glm-5.3"
+}

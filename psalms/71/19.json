@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "A d-nini ṣedeq-ik, a Elohim, armi ɣer ufella; kecc i d-ixleq imeqranen; a Elohim, anwa i k-icban?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "A d-nini ṣedeq-ik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ɣer ufella"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kecc i"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i d-ixleq"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "imeqranen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "i k-icban"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:34.739469951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 11:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ass-nni Adonai ad yernu tikkelt-nniḍen afus-nnes ad iṭṭef ⟨את⟩ wayen i d-yeqqimen seg ugdud-nnes, wid i d-yegran seg Acur, seg Miṣrayim, seg Patros, seg Kuc, seg Ɛelam, seg Cinɛar, seg Ḥamat d tegzirin n yilel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ass-nni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-nnes"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "ad iṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen i d-yeqqimen"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "wayen i d-yeqqimen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "seg ugdud-nnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "i d-yegran"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "seg Acur"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "ומפתרוס",
+      "gloss": "seg Patros"
+    },
+    {
+      "surface": "ומכוש",
+      "gloss": "seg Kuc"
+    },
+    {
+      "surface": "ומעילם",
+      "gloss": "seg Ɛelam"
+    },
+    {
+      "surface": "ומשנער",
+      "gloss": "seg Cinɛar"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "seg Ḥamat"
+    },
+    {
+      "surface": "ומאיי",
+      "gloss": "seg tegzirin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yilel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:32.032445018Z",
+  "model": "glm-5.3"
+}

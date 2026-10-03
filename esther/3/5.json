@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Mi iẓra Haman akken Mordexay ur yettkuker ara, ur isnizem ara i yiwes, Haman yeččur d tangersa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordexay"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "yettḥawi"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "isnizem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiwes"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "yeččur"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "tangersa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:01:50.401262983Z",
+  "model": "glm-5.3"
+}

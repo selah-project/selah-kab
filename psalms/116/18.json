@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Ilan-iw i Yahwe ad sselɣeɣ, zdat akk ɣeftudir-is, i tikkelt-nni.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ilan-iw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ad sselɣeɣ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i tikkelt-nni"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akk ɣef"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tudir-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:49.646106842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ha, nekkini ad d-terwbeɣ fell-asen ⟨את⟩ Meden, i wid ur nessin ara azref i lfeḍḍa, d lḍahab ur t-yemmelen ara.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ha, nekkini"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ad d-terwbeɣ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maden"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i wid"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "nessin ara azref i"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "d lḍahab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "t-yemmelen ara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "t"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:18.544688878Z",
+  "model": "glm-5.3"
+}

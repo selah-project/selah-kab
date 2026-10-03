@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Izen-idd Ḥiram ɣer Celomo, inna: Slaγ ɣer ⟨את⟩ wayen i t-izen-ed γer-i; ad xedmeγ ⟨את⟩ akk tayri-k, s yiγsan n yidrar n lerz d yiγsan n yiberucim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "izen-idd"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ḥiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "slaγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "t-izen-ed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "γer-i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad xedmeγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tayri-k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "tayri-k"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "s yiγsan n"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "lerz"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "d yiγsan n"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "yiberucim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:12:56.164325793Z",
+  "model": "glm-5.3"
+}

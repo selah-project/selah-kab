@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ismeɛ Yaɛqov awalen n yigerdan n Laban, mi nnan: Yeṭṭef Yaɛqov ⟨את⟩ akk ay yellan i baba-nneɣ, seg wayen yellan i baba-nneɣ yexleq ⟨את⟩ ayla-agi akk.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ismeɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen n yigerdan n Laban"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yigerdan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mi nnan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "Yeṭṭef"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ay yellan i baba-nneɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay yellan"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "i baba-nneɣ"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "seg wayen"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "i baba-nneɣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayla-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ayla"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:50.918609306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Ur as-mudd ara, Yahwe, ilebɣi n uneccab; ur d-ssefɣ ara tabɣist-is, akken ur ɛellin. Sela",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Ur as-mudd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "ilebɣi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "uneccab"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "tabɣist-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "ur d-ssefɣ"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "akken ur ɛellin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:16.352386695Z",
+  "model": "glm-5.3"
+}

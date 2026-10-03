@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "A win iḥekmen igan n Yisrael, sell iṛiyen-nneɣ; a win id-iceffɛen Yosef am tgelta n yimdanen, a win iẓeṛṛen ger yikeruben, d-iban!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "a win iḥekmen igan n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sell iṛiyen-nneɣ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "a win id-iceffɛen"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "am tgelta n yimdanen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "a win iẓeṛṛen"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ger yikeruben"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "d-iban"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:10.053401310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yahwe ⟨d⟩ tezmert-iw ⟨d⟩ lḥimaya-yiw; deg-s yebna wul-iw, iwḥel-iyi-d; wul-iw yufrur-d, s uzawan-iw ad ceɛɛleɣ fell-as.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "tezmert-iw"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "lḥimaya-yiw"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wul-iw"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "iwḥel-iyi-d"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "yufrur-d"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wul-iw"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "azawan-iw"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ad ceɛɛleɣ fell-as"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:31.429131168Z",
+  "model": "glm-5.3"
+}

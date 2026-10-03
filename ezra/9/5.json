@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 9:5",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Deg tminḥa n tmeddit, nekleḍ si ttewɛifs-iw; mi ijerdeɣ begged-iw d lmeɛyel-iw, knanɣ ɣef iẓur-iyi, semneɣ afusen-iw ɣer Yahwe Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "ובמנחת",
+      "gloss": "Deg tminḥa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "n tmeddit"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "nekleḍ"
+    },
+    {
+      "surface": "מתעניתי",
+      "gloss": "si ttewɛifs-iw"
+    },
+    {
+      "surface": "ובקרעי",
+      "gloss": "mi ijerdeɣ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "begged-iw"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "d lmeɛyel-iw"
+    },
+    {
+      "surface": "ואכרעה",
+      "gloss": "knanɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "iẓur-iyi"
+    },
+    {
+      "surface": "ואפרשה",
+      "gloss": "semneɣ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "afusen-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T03:17:18.339673741Z",
+  "model": "glm-5.3"
+}

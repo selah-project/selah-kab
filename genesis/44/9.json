@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Win ara yettwafen deg-s ⟨את⟩, seg yimekkanen-ik, ad yemmet; ma d nekkini, ad nuɣal d yimekkanen i sidi-nneɣ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "win ara"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yettwafen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ deg-s",
+      "marks": "win ara yettwafen deg-s"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "seg yimekkanen-ik"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ad yemmet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ma d"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ad nuɣal"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "i sidi-nneɣ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "d yimekkanen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:14.337766981Z",
+  "model": "glm-5.3"
+}

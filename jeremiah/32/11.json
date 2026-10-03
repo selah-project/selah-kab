@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "And I took ⟨את⟩ the book of the purchase, ⟨את⟩ the sealed copy — ⟨containing⟩ the commandment and the statutes — and ⟨את⟩ the open copy.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ṭṭfeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adlis"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "adlis"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "n tlalsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win yettwaḥetmen"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "win yettwaḥetmen"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "talut"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "d yilugan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "win yeldin"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "win yeldin"
+    }
+  ],
+  "timestamp": "2026-10-03T00:29:50.350112743Z",
+  "model": "glm-5.3"
+}

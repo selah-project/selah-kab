@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Ass d iḍ ad zzin-as ⟨i⟩ yir isiɣnen-is; tuccḍa d lerẓa deg wexas-is.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "d iḍ"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ad zzin-as"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "yir isiɣnen-is"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "d lerẓa"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "deg wexas-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:42.061070429Z",
+  "model": "glm-5.3"
+}

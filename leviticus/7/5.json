@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad tent-yerr akkahen s tmes ɣef lmeḍḍab, d tikci iqedcen i Yahwe; taɛṭṭeft⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ad tent-yerr s tmes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tent (tiqsiḥin n wemdakkal)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akkahen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeḍḍab"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "d tikci iqedcen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "taɛṭṭeft"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:20.109671472Z",
+  "model": "glm-5.3"
+}

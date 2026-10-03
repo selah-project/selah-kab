@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yerna yezgel ⟨את⟩ ulan n tebburt seg wexxam: yiwet n qane.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "yezgel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulan n tebburt"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "n tebburt"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    }
+  ],
+  "timestamp": "2026-10-03T01:11:58.071195185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Kraḍ tikkal deg useggas, akk irgazen-ik ad d-banen qabel ⟨udem⟩ n Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Kraḍ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tikkal"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ad d-banen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "irgazen-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qabel"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨udem⟩"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:26.949603320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Temmut ed taneṣṣirt-iw i tkelles-ik ⟨d⟩ lḥif; deg wawal-ik ṣbeṛɣ.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "temmut-ed"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "i tkelles-ik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "taneṣṣirt-iw"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "deg wawal-ik"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ṣbeṛɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:39.371627204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Zikwanen ddan deg uzwir, inuɣen n yisental deffir, deg tlemmast, tickli timeɛlamin ara yesnugmenten ibendayraten.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "ddan deg uzwir"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "zikwanen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "inuɣen n yisental"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg tlemmast"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "timeɛlamin"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ara yesnugmenten ibendayraten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:16.564393996Z",
+  "model": "glm-5.3"
+}

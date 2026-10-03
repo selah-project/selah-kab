@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yeggul ugellid, yenna: Yahwe, win id-yellan, i d-yessukkan ⟨את⟩ nnefs-iw seg yal tikuct [tickuf].",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "yeggul"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "חי",
+      "gloss": "win id-yellan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "i d-yessukkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nnefs-iw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg yal"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tickuf"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:41.155015873Z",
+  "model": "glm-5.3"
+}

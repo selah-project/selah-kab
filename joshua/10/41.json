@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yehochua i ten-iḍreb seg Qadech-Barnea arma ɣer Aza, d ⟨את⟩ akk tmurt n Gocen, arma ɣer Givon.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "i ten-iḍreb"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehochua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "seg Qadech"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma ɣer"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk tmurt n Gocen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "n Gocen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma ɣer"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    }
+  ],
+  "timestamp": "2026-10-02T22:15:45.708502548Z",
+  "model": "glm-5.3"
+}

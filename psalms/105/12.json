@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Mi llan d imdanen s amḍan amaṭṭuḥ, drus kan, d inigen deg-s.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Mi llan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "d imdanen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "s amḍan amaṭṭuḥ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "drus kan"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "d inigen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:03.753948852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yella adan i yexṣṛen Elohim? Maca keččini txeṣṛem ⟨את⟩-i, tennam: s acu nxεṣṛa-k? S lmaεšṛ d teruma.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "yella win yexṣṛen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "keččini"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "txeṣṛem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "-i (nek)"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "tennam"
+    },
+    {
+      "surface": "במה",
+      "gloss": "s acu"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "nxεṣṛa-k"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "lmaεšṛ"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "d teruma"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:35.541994922Z",
+  "model": "glm-5.3"
+}

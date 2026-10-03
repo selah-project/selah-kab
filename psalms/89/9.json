@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Yahwe, Elohim Ṣebaot, anwa am keçç, a Yah, d win ɛezznen? Tidedt-ik teḍra-dd ɣef tamiwin-ik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "am keçç"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "d win ɛezznen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "tidedt-ik"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "ɣef tamiwin-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:07.999248673Z",
+  "model": "glm-5.3"
+}

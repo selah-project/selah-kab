@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "⟨את⟩ akk wɛorev, s wanaw-is.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wɛorev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wɛorev"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "s wanaw-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:55.273584048Z",
+  "model": "glm-5.3"
+}

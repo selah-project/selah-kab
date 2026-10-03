@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Seg ⟨את⟩ Yahwe i d-terri waya; ⟨hi⟩ d ajemmel deg tiṭṭin-nneɣ.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Seg ⟨את⟩",
+      "marks": "waya (ayen i d-terri)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i d-terri"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨hi⟩ d"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ajemmel"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "deg tiṭṭin-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:00.962098116Z",
+  "model": "glm-5.3"
+}

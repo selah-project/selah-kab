@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Ssawden-d ⟨את⟩ Mickan ɣer Moce: ⟨את⟩ taxelt, akk d ⟨את⟩ ifecklen-is meṛṛa — isekkilen-is n useḍfen, tiwsiyin-is, isura-s, tigejda-nnes akk d isekiren-is.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ssawden-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxelt"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "taxelt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk ifecklen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk … meṛṛa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ifecklen-is"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "isekkilen-is n useḍfen"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "tiwsiyin-is"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "isura-s"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "tigejda-nnes"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "isekiren-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:10.625232908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yaqtan iwlad ⟨את⟩ Almodad, d ⟨את⟩ Calef, d ⟨את⟩ Ḥaṣarmavet, d ⟨את⟩ Yaraḥ.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yaqtan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iwlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Calef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Calef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ḥaṣarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Ḥaṣarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yaraḥ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yaraḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:07.819883601Z",
+  "model": "glm-5.3"
+}

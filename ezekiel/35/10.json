@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Acku tennaḍ: ⟨את⟩ sin yegdulen d ⟨את⟩ snat tmura ad ilint d tanofi-iw, ad tent-neṭṭef d lɛahd — ma d Yahwe, din yella.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "tennaḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin yegdulen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegdulen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "snat tmura"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tmura"
+    },
+    {
+      "surface": "לי",
+      "gloss": "d tanofi-iw"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "ad tent-neṭṭef d lɛahd"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    }
+  ],
+  "timestamp": "2026-10-03T01:02:26.820300297Z",
+  "model": "glm-5.3"
+}

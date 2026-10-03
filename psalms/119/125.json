@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Nekkid d ameddaq-ik ⟨אני⟩; im-iyi-d tifawt, iwakken ad ẓreɣ tilɣa-inek.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "ameddaq-ik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkid"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "im-iyi-d tifawt"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "iwakken ad ẓreɣ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tilɣa-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:19.171310275Z",
+  "model": "glm-5.3"
+}

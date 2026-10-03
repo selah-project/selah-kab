@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Maca ma tugiḍ keččin ad tazneḍ ⟨את⟩ agdud-iw, walan, ad d-awiɣ azekka aneẓẓad deg tilisa-ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "tugiḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keččin"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ad tazneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "walan"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ad d-awiɣ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "azekka"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "aneẓẓad"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "deg tilisa-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:54.850573151Z",
+  "model": "glm-5.3"
+}

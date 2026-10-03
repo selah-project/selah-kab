@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Acku ⟨את⟩ imeṣbaḥen-nsen ad tent-terẓem, ⟨את⟩ isekkilen-nsen ad tent-ṭṭfenṭeṛem, ⟨את⟩ tiẓgiwin-is ad tent-tgẓem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeṣbaḥen-nsen"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "imeṣbaḥen-nsen"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "ad tent-terẓem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isekkilen-nsen"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "isekkilen-nsen"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "ad tent-ṭṭfenṭeṛem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiẓgiwin-is"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "tiẓgiwin-is"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "ad tent-tgẓem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:30.858976393Z",
+  "model": "glm-5.3"
+}

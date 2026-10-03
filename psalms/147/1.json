@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Sbudden i Yah, acku d lqim ad n-zeṛṛeb iɣerbaben i Elohim-nneɣ, acku d amelḥu, taqbayt teṣeddi i teḥmilt.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Sbudden"
+    },
+    {
+      "surface": "יה",
+      "gloss": "i Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d lqim"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ad n-zeṛṛeb iɣerbaben"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "i Elohim-nneɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "d amelḥu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "teṣeddi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "taḥmilt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:33.517278227Z",
+  "model": "glm-5.3"
+}

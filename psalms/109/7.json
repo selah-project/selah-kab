@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Mi ara yettwḥekm, ad yeffeɣ d ibeddlen, tazallit-is ad tili ⟨d⟩ ddnub.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Mi ara yettwḥekm"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "d ibeddlen"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "tazallit-is"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "⟨d⟩ ddnub"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:59.449666012Z",
+  "model": "glm-5.3"
+}

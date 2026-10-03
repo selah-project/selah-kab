@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "⟨Llan⟩ ma bɣun-t s urezzu, yerna s urezzu amellal aṭas; izgar d tammint, d wayen i d-yeqqim deg usal n tammint.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "ma bɣun-t"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "s urezzu"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "s urezzu amellal"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "izgar"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "d tammint"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "d wayen i d-yeqqim"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "deg usal n tammint"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:48.044031733Z",
+  "model": "glm-5.3"
+}

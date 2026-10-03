@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Tura ddu, aru-t ɣef tfelwit ⟨אתם⟩, d jerred-t ɣef adlis; ad yili i wass aneggaru, i lebda, ɣer lebda n leɛlam.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ddu"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "aru-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tfelwit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "tfelwit"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "adlis"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "jerred"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "i wass"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "aneggaru"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "leɛlam"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:17.330153898Z",
+  "model": "glm-5.3"
+}

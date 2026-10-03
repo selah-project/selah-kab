@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yeḥbes tafrawt n yibenun, yeḥbes ccwa n wid yuran, yeḥbes tafrawt n tkennurt.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "tafrawt"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "yibenun"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ccwa"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "wid yuran"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "tafrawt"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "tkennurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:50:42.394480325Z",
+  "model": "glm-5.3"
+}

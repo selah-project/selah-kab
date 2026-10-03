@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ad ttwaḥerren lweḥc-nnsen, axaṭer d aeǧǧiḍ; tirṭit-nnsen, axaṭer d takezzert: ad ten-ferḍeɣ deg Yaɛqov, ad ten-ṣeḥḥeḍeɣ deg Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ad ttwaḥerren"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "lweḥc-nnsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עז",
+      "gloss": "d aeǧǧiḍ"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "tirṭit-nnsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "d takezzert"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "ad ten-ferḍeɣ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "deg Yaɛqov"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "ad ten-ṣeḥḥeḍeɣ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:28.617014461Z",
+  "model": "glm-5.3"
+}

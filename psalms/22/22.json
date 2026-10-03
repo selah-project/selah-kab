@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Sellek-i-d si imi n izgar; d si yisegren n tfunast tilellit iɣi-yyefrem.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "sellek-i-d"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "si imi"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "n izgar"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "d si yisegren"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "n tfunast tilellit"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "iɣi-yyefrem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:58.346406464Z",
+  "model": "glm-5.3"
+}

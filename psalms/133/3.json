@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 133,
+  "translation": "Am unebdu n Ḥermon, i d-ittun ɣef idurar n Ṣiyyon; axaṭer din Yahwe iḥettem ⟨את⟩ tbarkit: ⟨d⟩ tudert, arma d lɛalam.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Am unebdu"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "n Ḥermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "i d-ittun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "n Ṣiyyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iḥettem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tbarkit"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "tbarkit"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tudert"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "lɛalam"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:57.553837517Z",
+  "model": "glm-5.3"
+}

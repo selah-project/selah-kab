@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yeffɣeɣ-d llan, mi ttun ⟨את⟩ Merav yelli-s n Ca-ul i David, tettwattun d tameṭṭut i Adriel ameḥulati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yeffɣeɣ-d llan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ttun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav yelli-s n Ca-ul"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Ca-ul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "tettwattun"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "tettwattun"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "i Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "ameḥulati"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d tameṭṭut"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:55.343135490Z",
+  "model": "glm-5.3"
+}

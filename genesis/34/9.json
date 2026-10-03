@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ad neg taɛdicit yid-nneɣ: ⟨את⟩ i-neɣ efket illi-nwen, d ⟨את⟩ illi-nneɣ ṭṭafem i-wen.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "ad neg taɛdicit yid-nneɣ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ i-neɣ",
+      "marks": "illi-nwen"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "illi-nwen"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "efket"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i-neɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "illi-nneɣ"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "illi-nneɣ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ṭṭafem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i-wen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:22.734036693Z",
+  "model": "glm-5.3"
+}

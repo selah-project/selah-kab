@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ur ad nerwel deg usrag n dir, deg wussan n lɣala ad ceɛḍen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ad nerwel"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "deg usrag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "deg wussan n"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "lɣala"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ad ceɛḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:06.582648929Z",
+  "model": "glm-5.3"
+}

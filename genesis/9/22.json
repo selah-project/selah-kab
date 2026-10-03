@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ḥam, baba n Kenaɛan, iwala ⟨את⟩ taṭṭumt n baba-s, immel-as i sin watma-s ara deg beṛṛa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ḥam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba n"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaɛan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṭṭumt"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "taṭṭumt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "immel-as"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watma-s"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ara deg beṛṛa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:03.812694786Z",
+  "model": "glm-5.3"
+}

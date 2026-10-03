@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Elohim-iw, ssiɣeɣ iman-iw seg ufus n ubeḥri, seg ifassen n unneflus d win iqesscen.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ssiɣeɣ iman-iw"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "n ubeḥri"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "seg ifassen"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "n unneflus"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "win iqesscen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:32.896631362Z",
+  "model": "glm-5.3"
+}

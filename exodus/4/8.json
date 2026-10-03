@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad yili, ma ⟨ur⟩ amnen ara i kečč, ur slan ara i weswes ⟨n⟩ uzmul amezwaru, ad amnen i weswes n uzmul aneggaru.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "amnen ara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "slan ara"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "i weswes"
+    },
+    {
+      "surface": "האות",
+      "gloss": "n uzmul"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "amezwaru"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "ad amnen"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "i weswes"
+    },
+    {
+      "surface": "האות",
+      "gloss": "n uzmul"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "aneggaru"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:09.336414065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ssuffeɣ-d ḥesed-ik i wid ak-k-issnen, ṣedeq-ik i wid izerben wul.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "ssuffeɣ-d"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "i wid ak-k-issnen"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ṣedeq-ik"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "i wid izerben"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wul"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:19.413675580Z",
+  "model": "glm-5.3"
+}

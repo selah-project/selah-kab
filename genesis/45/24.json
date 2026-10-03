@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Izenza-d ⟨את⟩ watmaten-is, ṛuḥen; inna-yasen: ur ttella tecḍa deg ubrid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Izenza-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watmaten-is"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "-yasen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "ttella tecḍa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    }
+  ],
+  "timestamp": "2026-10-02T20:33:15.869615461Z",
+  "model": "glm-5.3"
+}

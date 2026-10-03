@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ad d-ruḥeɣ send ⟨את⟩ malɛax ɣer zdat-ik, ad ṣuffɣeɣ ⟨את⟩ akinani, ⟨את⟩ aemori, ⟨את⟩ aḥiti, ⟨את⟩ aperizi, ⟨את⟩ aḥivi akked ⟨את⟩ ayevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ad d-ruḥeɣ send"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ɣer zdat-ik"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malɛax"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ad ṣuffɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akinani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "akinani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "aemori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "aḥiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "aperizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "aḥivi"
+    },
+    {
+      "surface": "ויבוסי",
+      "gloss": "ayevusi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:47.594402380Z",
+  "model": "glm-5.3"
+}

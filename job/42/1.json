@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Iyyub yerra ⟨את⟩ i Yahwe, yenna:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    }
+  ],
+  "timestamp": "2026-10-03T02:46:42.779003068Z",
+  "model": "glm-5.3"
+}

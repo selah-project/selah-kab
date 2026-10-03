@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Iṛmel ⟨את⟩ udem-is ɣer uɣeṛṣi n tẓegwa, iẓalla i Yahwe, yenna-d:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "iṛmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem-is"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "uɣeṛṣi n tẓegwa"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "iẓalla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yenna-d"
+    }
+  ],
+  "timestamp": "2026-10-02T23:38:23.758093035Z",
+  "model": "glm-5.3"
+}

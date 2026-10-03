@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Acimi tettḥebbem udem-ik, tettuḍ lɛeẓa-nneɣ d ttuzzalt-nneɣ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Acimi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "tettḥebbem"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tettuḍ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "lɛeẓa-nneɣ"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "d ttuzzalt-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:34.629060467Z",
+  "model": "glm-5.3"
+}

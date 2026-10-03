@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ruḥ ad ilin d iḥram i kunwi; seg waklan-nsen ur teṭṭfem ara deg wučči, d ⟨את⟩ ikufan-nsen i teqqimem tweḥḥrem.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "d iḥram"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "seg waklan-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "teṭṭfem ara deg wučči"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ikufan-nsen"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ikufan-nsen"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "teqqimem tweḥḥrem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:42.253525916Z",
+  "model": "glm-5.3"
+}

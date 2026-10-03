@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yenna Semuel: Seddusen ⟨את⟩ akkw at Yisrael ar lmiṣpa, ad mduɛuɣ ɣef wen ɣer Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "seddusen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akkw at Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akkw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "at Yisrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "ar lmiṣpa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ad mduɛuɣ"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "ɣef wen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:38:42.525368928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad cceɣ, i tudert-iw, i ḥbib-iw, tajmilt i ḥbib-iw ɣef teεemmit-is: taεemmit iḥeccan tella i ḥbib-iw, deg teẓgi tamqurt, deg yiri n tzemurt taberkant.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ad cceɣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i tudert-iw"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "i ḥbib-iw"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "tajmilt"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "i ḥbib-iw"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "ɣef teεemmit-is"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "taεemmit iḥeccan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "i ḥbib-iw"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "deg teẓgi tamqurt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "deg yiri"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "n tzemurt taberkant"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:56.897544169Z",
+  "model": "glm-5.3"
+}

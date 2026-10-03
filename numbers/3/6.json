@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Qerreb ⟨את⟩ tqeçcit n Levi, ṭfen-it-id deg wudem n Aharon akohen, iwakken ad ḥedmen ⟨את⟩ fell-as.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Qerreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tqeçcit n Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tqeçcit"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "ṭfen-it-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg wudem n"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ad ḥedmen fell-as"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:59.065279351Z",
+  "model": "glm-5.3"
+}

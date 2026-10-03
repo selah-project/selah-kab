@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad ur ttwarḥen ara seg tiṭin-ik, eḥfeḍ-ten deg ul-ik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ad ur... ara"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "ad ur ttwarḥen ara"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "seg tiṭin-ik"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "eḥfeḍ-ten"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ul-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:35.961983679Z",
+  "model": "glm-5.3"
+}

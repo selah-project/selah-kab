@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Moce yemmeslay akken i warraw n Yisrael, maca ur nessemɛed ara i Moce, seg trewla n ruaḥ d seg umahil aquran.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nessemɛed ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "seg trewla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "d seg umahil"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "aquran"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:25.842866459Z",
+  "model": "glm-5.3"
+}

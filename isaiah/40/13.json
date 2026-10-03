@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Anwa i d-yewten deg usenqeḍ n ⟨את⟩ ruaḥ Yahwe? Anwa d argaz n lɛahd-is i s-d-yeqqren?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "i d-yewten deg usenqeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "d argaz"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "n lɛahd-is"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "i s-d-yeqqren"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:40.767823524Z",
+  "model": "glm-5.3"
+}

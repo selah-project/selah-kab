@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yahwe iǧehhel ⟨את⟩ ul n Ferɛun, ugellid n Miṣrayim; iḍfer arrac n Yisrael, arrac n Yisrael akka-ttnefɣen s ufus afellay.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "iǧehhel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul n Ferɛun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "iḍfer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "arrac n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "akka-ttnefɣen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "afellay"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:10.471577321Z",
+  "model": "glm-5.3"
+}

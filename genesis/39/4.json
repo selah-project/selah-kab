@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Yusuf yufa taḥbult deg wallen-is; yexdem fell-as ⟨אתו⟩; t-id-yessefk ɣef wexxam-is, akk wayen ɣur-s ifka-t deg ufus-is.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "חן",
+      "gloss": "taḥbult"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "deg wallen-is"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "yexdem fell-as"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "t- (Potifar)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "t-id-yessefk"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wexxam-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk wayen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "לו",
+      "gloss": "is"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ifka-t"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:33.548487227Z",
+  "model": "glm-5.3"
+}

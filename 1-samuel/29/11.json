@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "David yekker zik, neppa d yergazen-is, ad ddun deg tufat, ad uɣlen ɣer tmurt n Filistiyin; yerna Filistiyin ulen ɣer Yizreɛel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yekker zik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neppa"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "d yergazen-is"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tufat"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ad uɣlen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n Filistiyin"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "yerna Filistiyin"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ulen"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ɣer Yizreɛel"
+    }
+  ],
+  "timestamp": "2026-10-02T22:50:44.505434249Z",
+  "model": "glm-5.3"
+}

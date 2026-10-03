@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "I yal cci akud ⟨ilqa⟩, d akud i yal irad ddaw ⟨igi⟩ igenwan.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "i yal cci"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "akud"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "irad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:16.595099063Z",
+  "model": "glm-5.3"
+}

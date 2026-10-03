@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "ifed i yal tiẓdi, ifed i yal tiẓdi, i yal tiẓdiwin n Yisrael, ad tent-aznet i lɛesker.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "ifed"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "i yal tiẓdi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ifed"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "i yal tiẓdi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "tiẓdiwin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ad tent-aznet"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "i lɛesker"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:59.873107807Z",
+  "model": "glm-5.3"
+}

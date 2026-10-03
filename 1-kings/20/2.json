@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Izenz imazanen ɣer Aḥab, agellid n Yisrael, ɣer ⟨tamdint⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Izenz"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "imazanen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ɣer tamdint"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:52.659623858Z",
+  "model": "glm-5.3"
+}

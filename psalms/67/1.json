@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 67,
+  "translation": "I win yettḍafar imeggiwen. Deg yibenkan. Mezmer, cciḥ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettḍafar imeggiwen"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "deg yibenkan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mezmer"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cciḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:14.091982833Z",
+  "model": "glm-5.3"
+}

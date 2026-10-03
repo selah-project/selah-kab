@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Acku ur d-yettas ara ⟨usawen⟩ seg usamar neɣ seg umalu, ulac daɣen seg uneẓruf.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "seg usamar"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "neɣ seg umalu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ulac daɣen"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "seg uneẓruf"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "usawen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:19.579005405Z",
+  "model": "glm-5.3"
+}

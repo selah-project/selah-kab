@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ula i wawalen akk i d-yennan, ur ten-rzu ara wul-ik, akken ur tesselḥuḍeḍ ara ⟨את⟩ amiḍan-ik illaɛnet-ik.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ula"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i wawalen akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "d-yennan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "rzu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tsesselḥuḍeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amiḍan-ik"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "amiḍan-ik"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "illaɛnet-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:39.979548433Z",
+  "model": "glm-5.3"
+}

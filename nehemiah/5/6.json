@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yuli-yi yiwen n tmess akk maḍi, mi slanɣ i ⟨את⟩ tsawin-nsen d ⟨את⟩ wawalen-agi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "yuli-yi yiwen n tmess"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "akk maḍi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "slanɣ i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsawin-nsen"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "tsawin-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "u ⟨את⟩",
+      "marks": "wawalen-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-03T03:19:23.746993495Z",
+  "model": "glm-5.3"
+}

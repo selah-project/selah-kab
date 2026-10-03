@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "I win umenzah, taγult n usselmad, i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win umenzah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "taγult n usselmad"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:16.752508560Z",
+  "model": "glm-5.3"
+}

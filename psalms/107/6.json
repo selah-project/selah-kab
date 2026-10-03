@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ssuturen-d ɣer Yahwe deg ccer-nsen; seg yimeḥzen-nsen i ten-id-yessellek.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Ssuturen-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "deg ccer-nsen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nsen"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "seg yimeḥzen-nsen"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "i ten-id-yessellek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:13.013221335Z",
+  "model": "glm-5.3"
+}

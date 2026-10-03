@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Yessemti idurar s waman seg tgezzumin-is ifellayen; seg watay n lɛamal-inek tmurt tettwaqdeɛ ⟨d⟩ tettwakfa.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "yessemti s waman"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "seg tgezzumin-is ifellayen"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "seg watay"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "n lɛamal-inek"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tettwaqdeɛ tettwakfa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:02.485151523Z",
+  "model": "glm-5.3"
+}

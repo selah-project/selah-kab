@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ssenɣen ⟨את⟩ izgar, wwin-d ⟨את⟩ meẓẓi ɣer Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "Ssenɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izgar"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "izgar"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "wwin-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meẓẓi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "meẓẓi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:11.077772400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 97,
+  "translation": "Ad ngeṛen akk wid iḥekmen i tidyanin, wid yimmanen deg iṛebbiten n werẓaq; ad kksen azru ijeǧǧigen i yal iṛebbiten.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ad ngeṛen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wid iḥekmen i"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "tidyanin"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "wid yimmanen deg"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "iṛebbiten n werẓaq"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ad kksen azru ijeǧǧigen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iṛebbiten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:25.272318354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Mraw n temda (iqmḍen) teɣzi n ⟨the⟩ tabarda, yiwet n temda d uzgen-is ⟨the⟩ tehri n ⟨the⟩ tabarda tasint.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "temda (tiseḍḍa)"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "tabarda"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "d yiwet n temda"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen-is"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "temda"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "tehri"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "tabarda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tasint"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:53.784002459Z",
+  "model": "glm-5.3"
+}

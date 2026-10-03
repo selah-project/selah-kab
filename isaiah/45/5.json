@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Nekkini d Yahwe, ulac wayen-nniḍen; wara-iw ulac Elohim; ceḍḍeɣ ⟨i⟩-k, maca kečč ur ɛiḍev-iḍ ara.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wayen-nniḍen"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "wara-iw"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ceḍḍeɣ-k"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca... ara"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ur ɛiḍev-iḍ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:43.171436082Z",
+  "model": "glm-5.3"
+}

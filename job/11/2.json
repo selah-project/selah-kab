@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ma d aṭas n wawalen, ad ur nettwarra ara tiririt? Ma d amdan n ṣefatayim, ad yettṣeddiq?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "aṭas n wawalen"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ad ur nettwarra ara tiririt"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma d"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "n ṣefatayim"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ad yettṣeddiq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:35:26.151068934Z",
+  "model": "glm-5.3"
+}

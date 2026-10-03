@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Armec d akken iwweḍ ⟨d⟩ wawal-is; awal n Yahwe i t-iṣerref.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Armec"
+    },
+    {
+      "surface": "עת",
+      "gloss": "d akken"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iwweḓ ⟨d⟩"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wawal-is"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "i t-iṣerref"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:15.967891668Z",
+  "model": "glm-5.3"
+}

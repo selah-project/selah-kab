@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "At lmaten akk n ugerẓan t-ikren; mliḥ aṭas ma — imeddukal-is beḍden seg-s! Yezga yettnadi s wawalen — maca ur llan ara.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "at lmaten"
+    },
+    {
+      "surface": "רש",
+      "gloss": "n ugerẓan"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "t-ikren"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mliḥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aṭas ma"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "imeddukal-is"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "beḍden"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "yezga yettnadi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "s wawalen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "המה",
+      "gloss": "llan ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:24:50.521285287Z",
+  "model": "glm-5.3"
+}

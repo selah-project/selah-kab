@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yenna ɣer yelli-sent: ani-t? Acuγer teǧǧamt ⟨את⟩ argaz? Snat-as ad iɣ leḥm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "yelli-sent"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ani-t"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acuγer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "teǧǧamt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argaz"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "snat-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ad iɣ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leḥm"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:43.701228973Z",
+  "model": "glm-5.3"
+}

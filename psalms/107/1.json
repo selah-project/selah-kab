@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Sḥut i Yahwe, acku ⟨ihi⟩ d ameɣtu, acku ḥesed-is ad yili daɣen i lebda.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "sḥut i"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:02.624008388Z",
+  "model": "glm-5.3"
+}

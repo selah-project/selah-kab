@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Aharon ad iqebbel ⟨את⟩ tayaxt iwumi yuli ugoral i Yahwe, ad tt-yexleḥ d qurban n aḍebb.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ad iqebbel"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayaxt"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "tayaxt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iwumi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ugoral"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ad tt-yexleḥ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "qurban n aḍebb"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:24.917581793Z",
+  "model": "glm-5.3"
+}

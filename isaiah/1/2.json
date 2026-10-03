@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Slenet, igenni, ṣsefdet, a tmurt, axaṭer Yahwe yemmaḍal: mnerɣ arrac, skerreɣ-ten, keṛḥen fell-i.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slenet"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenni"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "ṣsefdet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a tmurt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yemmaḍal"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mnerɣ"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "skerreɣ-ten"
+    },
+    {
+      "surface": "והם",
+      "gloss": "keṛḥen"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ttnullifen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:32.159106485Z",
+  "model": "glm-5.3"
+}

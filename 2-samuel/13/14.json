@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Maca ur yebɣi ara ad yestel i taɣect-is; yugar-tt di tezmert, yesseḥleḍ ⟨את⟩ iḍan-is, yeṭṭef ⟨את⟩ yidis.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "yebɣi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ad yestel"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "i taɣect-is"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yugar-tt di tezmert"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "syis"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "yesseḥleḍ iḍan-is"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "yeṭṭef yidis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iḍan-is \/ Tamar"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:09.148209428Z",
+  "model": "glm-5.3"
+}

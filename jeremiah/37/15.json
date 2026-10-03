@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Imḍebren qeṣṥen ɣef Yirmeyah, ḍeṛben-t ⟨אתו⟩, ṭṭfen-t ⟨אתו⟩ deg wemkan n tɣest, deg wxxam n Yehonatan, win isnan — axetu rran-t d axxam n lḥebs.",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "qeṣṥen"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "imḍebren"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "ḍeṛben-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yirmeyah (iḍeṛben)"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ṭṭfen-t"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yirmeyah (iṭṭfen)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wxxam"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "n tɣest"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wxxam"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "n Yehonatan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "win isnan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axetu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "axxam-nni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "rran-t"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "n lḥebs"
+    }
+  ],
+  "timestamp": "2026-10-03T00:32:46.091962647Z",
+  "model": "glm-5.3"
+}

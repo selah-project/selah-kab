@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Akk wayen yerwan lḥamiṛ ur t-teṭṭfenḍ ara; deg meṛṛa tanezduɣin-nwen a t-teṭṭfenḍ lmaṣot.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk wayen"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "yerwan lḥamiṛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "t-teṭṭfenḍ ara"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg meṛṛa"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tanezduɣin-nwen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "a t-teṭṭfenḍ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "lmaṣot"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:56.141171596Z",
+  "model": "glm-5.3"
+}

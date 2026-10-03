@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Si taɣri n uɛdaw, si tuzzma n umḥarreb: acku d-ṣubbun ɣef iyyi dirit, deg lḥeqd kren-iyi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Si taɣri"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n uɛdaw"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "si"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "tuzzma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "n umḥarreb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "d-ṣubbun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef iyyi"
+    },
+    {
+      "surface": "און",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "deg lḥeqd"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "kren-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:48.815017959Z",
+  "model": "glm-5.3"
+}

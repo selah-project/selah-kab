@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Uqbil-d wemdan akk n Yisrael ɣer ugellid Cilemo, deg wayyur n Etanim, deg usfuggel — d wayyur wis sebɛa.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "uqbil-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cilemo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "deg wayyur"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "deg usfuggel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "wayyur"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis sebɛa"
+    }
+  ],
+  "timestamp": "2026-10-02T23:15:54.517082752Z",
+  "model": "glm-5.3"
+}

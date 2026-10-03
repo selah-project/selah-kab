@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Aṭeqqim di tetbert n tuddar, di tdefrin inenɣ wid n ṣedeq; tiṭṭawen-is, ɣef wid yettḥeṛṛen, yettrus.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "aṭeqqim"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "di tetbert"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "n tuddar"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "di tdefrin"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "inenɣ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wid n ṣedeq"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "tiṭṭawen-is"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "ɣef wid yettḥeṛṛen"
+    },
+    {
+      "surface": "יצצפנו",
+      "gloss": "yettrus"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:43.641638003Z",
+  "model": "glm-5.3"
+}

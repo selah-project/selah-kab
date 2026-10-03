@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Kuwec iweld-as ⟨את⟩ Nimrod; netta i beddu ad yili d ameqqran deg tmurt.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kuwec"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iweld-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "החל",
+      "gloss": "i beddu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:47.680935522Z",
+  "model": "glm-5.3"
+}

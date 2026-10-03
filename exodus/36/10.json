@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yexleḍ ⟨את⟩ ṣemman n tjerriṭin, yiwet ɣer tayeṭ; d ṣemman-nniḍen n tjerriṭin, yexleḍ-ten-t yiwet ɣer tayeṭ.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "yexleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṣemman n tjerriṭin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ṣemman"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "n tjerriṭin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tayeṭ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "d ṣemman-nniḍen"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "n tjerriṭin"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "yexleḍ-ten-t"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tayeṭ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:43.929351516Z",
+  "model": "glm-5.3"
+}

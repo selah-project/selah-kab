@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Keččin ula d keččin ad tessukreḍ, ad tettwattfel; keččin ula d keččin ad tnadiḍ asaεεa seg uεeddi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "את",
+      "gloss": "keččin"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "ad tessukreḍ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "tettwattfel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "את",
+      "gloss": "keččin"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "ad tnadiḍ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "asaεεa"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "seg uεeddi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:28:01.386427592Z",
+  "model": "glm-5.3"
+}

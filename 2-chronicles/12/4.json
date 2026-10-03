@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yeṭṭef ⟨את⟩ yimdigen iḥerment n Yiḥuda, iḥedṛa ɣer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimdigen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "yimdigen"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "iḥerment"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "n Yiḥuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "iḥedṛa ɣer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "(ɣer)"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:54.195988020Z",
+  "model": "glm-5.3"
+}

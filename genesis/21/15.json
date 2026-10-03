@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Fukkent waman seg tikelt, terra-d ⟨את⟩ aḥri ddaw yiwen n wseklu.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "fukkent"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "tikelt"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "terra-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḥri"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "aḥri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "n wseklu"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:52.272959713Z",
+  "model": "glm-5.3"
+}

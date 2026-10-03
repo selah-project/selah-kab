@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Akken Acur yedda d nutni, llan d tezmert ⟨i⟩ warraw n Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Akken"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "yedda d"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "warraw n"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:31.752077962Z",
+  "model": "glm-5.3"
+}

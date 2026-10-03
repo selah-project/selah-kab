@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ma lqerban-is seg tṭaṭin, seg yimlalal neɣ seg yileɣmatten, i lɛedya, ad t-id-iqreb d amalay war ucṭuḥ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tṭaṭin"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lqerban-is"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "yimlalal"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "yileɣmatten"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "i lɛedya"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amalay"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "war ucṭuḥ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ad t-id-iqreb"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:15.722847366Z",
+  "model": "glm-5.3"
+}

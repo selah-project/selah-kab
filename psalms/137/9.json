@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Axat-t-iccefk i yeṭṭfen u ad yexṣer ⟨את⟩ meẓẓi-ik ɣef ṣṣedra.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "axat-t-iccefk"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "i yeṭṭfen"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "u ad yexṣer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meẓẓi-ik"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "meẓẓi-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ṣṣedra"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:58.261992412Z",
+  "model": "glm-5.3"
+}

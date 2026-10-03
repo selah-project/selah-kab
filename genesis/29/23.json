@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Deg tmeddit, yexṣer ⟨את⟩ Lea, yelli-s, yewwi-tt-id ⟨أנ → אתה⟩ ɣur-es, yekcem ɣur-sent.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Deg tmeddit"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "deg tmeddit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yexṣer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yewwi-tt-id"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tt (Lea)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-es"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɣur-sent"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:13.898244466Z",
+  "model": "glm-5.3"
+}

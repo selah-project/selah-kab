@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ruaḥ icebḥen seg wayen-a ad d-yewweḍ ɣer-i; tura, ula d nekkin, ad mmseɣlayeɣ ⟨את⟩ ccreɛ fell-asen.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "icebḥen"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "seg wayen-a"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ad d-yewweḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣer-i"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkin"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ad mmseɣlayeɣ"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "fell-asen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:12:32.159119031Z",
+  "model": "glm-5.3"
+}

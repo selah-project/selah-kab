@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad yiḥsab ⟨את⟩ iseggasen n uznez-is, ad yerr ⟨את⟩ wawrir i umdan i yuzen-as, ad yuɣal ɣer wayla-s.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "Ad yiḥsab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iseggasen n uznez-is"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "n uznez-is"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawrir"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "wawrir"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i umdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "ɣer wayla-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:16.448169266Z",
+  "model": "glm-5.3"
+}

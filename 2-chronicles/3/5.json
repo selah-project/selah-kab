@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Uxxam ameqqran iṣekfel-t s iɣsan n yiberucc, iṣekfel-t s ḍeheb igerrzen, yerna yessali ɣef-s timmarin d ⟨את⟩ isura.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "axxam ameqqran"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "iṣekfel"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "iɣsan"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "yiberucc"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "iṣekfel-t"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍeheb"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "igerrzen"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yessali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "timmarin"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "isura"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:53.092145397Z",
+  "model": "glm-5.3"
+}

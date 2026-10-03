@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Agellid Yehuram yeffeɣ deg wass-nni si Cemrun, iḥseb-ed ⟨את⟩ akk Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehuram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Cemrun"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "iḥseb-ed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:07.463304045Z",
+  "model": "glm-5.3"
+}

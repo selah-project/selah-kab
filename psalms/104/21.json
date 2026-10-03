@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Ikefkiyen ttẓeǧǧin i tlufa-nsen, ad nnadin seg El aṭṭan-nsen.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "Ikefkiyen"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "ttẓeǧǧin"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "i tlufa-nsen"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "ad nnadin"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "aṭṭan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:34.356159290Z",
+  "model": "glm-5.3"
+}

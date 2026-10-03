@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Akken ixeddem i tmeṭṭut-is ti tiberkanin, i yessunɣen lubban uqbel d i zubgen ⟨i⟩ yinelmayan? i yessunɣen lubban d i zubgen i yinelfa? lxiḥ... — akken ixeddem i tmeṭṭut-is ti tiberkanin, i yessunɣen lubban d i zubgen i yalḥ-nsent.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixeddem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i ti...akk"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "tmeṭṭut-is ti"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "tiberkanin"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "i yessunɣen lubban"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "d i zubgen"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "i yalḥ-nsent"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:28.144677509Z",
+  "model": "glm-5.3"
+}

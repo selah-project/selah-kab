@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yahwe ad yili d riḥa i win iḍeṛlen, d riḥa deg talliyin n lmutara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "d riḥa"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "i win iḍeṛlen"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "d riḥa"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "deg talliyin"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "n lmutara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:26.640793526Z",
+  "model": "glm-5.3"
+}

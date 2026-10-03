@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Deg uggur amenzu, deg ukkuz n mṛaw (deg ukkuz mṛaw) n waggur, gar tinmarin, ⟨yella⟩ Pesaḥ i Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Deg uggur"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "amenzu"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "deg ukkuz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mṛaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n waggur"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tinmarin"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:38.057018666Z",
+  "model": "glm-5.3"
+}

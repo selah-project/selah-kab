@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ur tekciḍ ara ula deg uxam n useṭṭeɛ, iwakken ad tiliḍ ⟨את⟩ gar-asen, ad teccəḍ d ad tettet.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ula deg uxam"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "n useṭṭeɛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tekciḍ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "gar-asen, ad teccəḍ d ad tettet"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ad teccəḍ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "d ad tettet"
+    }
+  ],
+  "timestamp": "2026-10-03T00:19:51.643276994Z",
+  "model": "glm-5.3"
+}

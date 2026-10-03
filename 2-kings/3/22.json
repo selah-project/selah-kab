@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Nnuḥen zik deg tufat, tfuk tafukt ɣef yiman, Moab iwala deg beṛṛa ⟨את⟩ yiman d izewwugen am idem.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "Nnuḥen zik"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tufat"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "tafukt"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "tfuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המים",
+      "gloss": "yiman"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "deg beṛṛa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "yiman"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "d izewwugen"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "am idem"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:20.795548514Z",
+  "model": "glm-5.3"
+}

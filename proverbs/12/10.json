@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Win izelɣen iẓer nefes n lmal-is; tayri n yirgerdan d tikerri.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "iẓer"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "win izelɣen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "n lmal-is"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "tayri n"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yirgerdan"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "d tikerri"
+    }
+  ],
+  "timestamp": "2026-10-03T02:19:59.962601978Z",
+  "model": "glm-5.3"
+}

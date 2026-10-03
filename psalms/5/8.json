@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Nekki, s waṭas n ḥesed-ik, ad d-keččmeɣ ɣer wexxam-ik; ad snubmeɣ ar ḥaykel n taqedcit-ik, s tugdi-k.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "n ḥesed-ik"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ad d-keččmeɣ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ɣer wexxam-ik"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ad snubmeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ḥaykel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "n taqedcit-ik"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "s tugdi-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:04.404911754Z",
+  "model": "glm-5.3"
+}

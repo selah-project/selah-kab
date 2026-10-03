@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Eyyret-d seg ubrid, effeɣet-d seg webrid, egget ad iḥbes Qeddus n Yisrael seg zdat-neɣ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Eyyret-d"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ubrid"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "effeɣet-d"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "webrid"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "egget ad iḥbes"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "seg zdat-neɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeddus n Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Qeddus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:01.813882261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ad ḍefreɣ iɛdawen-iw, ad ten-ṭṭefɣ, ur d-rriɣ ara arma d qelɛen.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Ad ḍefreɣ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ad ten-ṭṭefɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "d-rriɣ ara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "qelɛen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:02.691348002Z",
+  "model": "glm-5.3"
+}

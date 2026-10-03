@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad ccekkɛeŋ Yahwe ⟨את⟩, i yi-iɛawnen s yimawen; deg yidɣaren, ikliwen-iw sselmden yi.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ad ccekkɛeŋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "yi-iɛawnen s yimawen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "deg yidɣaren"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "sselmden yi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ikliwen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:07.303340601Z",
+  "model": "glm-5.3"
+}

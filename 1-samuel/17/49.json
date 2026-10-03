@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-samuel 17:49",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yuzen David ⟨את⟩ afus-is ɣer taqecwalt, yewwi-d seg-s taṣrit, yefreɣ-tt, yeẓẓ ⟨את⟩ afulayi ɣer uxerruy-is; taṣrit teɣleḍ deg uxerruy-is, iḍer ɣef udmaw-is ar lqaɛa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "taqecwalt"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "taṣrit"
+    },
+    {
+      "surface": "ויקלע",
+      "gloss": "yefreɣ-tt"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yeẓẓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afulayi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "afulayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מצחו",
+      "gloss": "uxerruy-is"
+    },
+    {
+      "surface": "ותטבע",
+      "gloss": "teɣleḍ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "taṣrit"
+    },
+    {
+      "surface": "במצחו",
+      "gloss": "deg uxerruy-is"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "iḍer"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udmaw-is"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ar lqaɛa"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:21.011691083Z",
+  "model": "glm-5.3"
+}

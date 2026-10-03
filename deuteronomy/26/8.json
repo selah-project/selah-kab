@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yahwe yefɣen-aɣ-id seg Miṣrayim, s ufus uzmert, s iḍer n vezzug, s tugget n tugdi, s isekkilen d tmucḍa.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "yefɣen-aɣ-id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "uzmert"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "s iḍer"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "n vezzug"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "s tugget"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "n tugdi"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "s isekkilen"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "d tmucḍa"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:00.341146752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Moce yemmed ⟨את⟩ tacacit-is ɣer igenwan, Yahwe yefka iṣekkiren d tmeddaqt, tmes teḍḍa-d ɣer tmurt, Yahwe yessuffɣ-d tameddaqt ɣef tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "yemmed"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tacacit-is"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tacacit-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "iṣekkiren"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "d tameddaqt"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "teḍḍa-d"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "yessuffɣ-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "tameddaqt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:07.095629177Z",
+  "model": "glm-5.3"
+}

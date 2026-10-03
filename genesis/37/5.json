@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yusuf yeḥlem aḥelmu, yenna-yas i watmaten-is, rnu-tt ad t-ikren ⟨את⟩ ugar.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "yeḥlem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "aḥelmu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "i watmaten-is"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "rnu-tt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ad t-ikren"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (Yusuf)"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:36.508287103Z",
+  "model": "glm-5.3"
+}

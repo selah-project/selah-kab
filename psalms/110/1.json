@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "translation": "Azgel n David. I d-yenna Yahwe i sidi-w: qqim ɣer yidis-iw ayeffus, alamma ad rriɣ ⟨את⟩ wid k-iḍewllen d assaḍan ɣer iḍarren-ik.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "azgel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "awal n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "i sidi-w"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qqim"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ɣer yidis-iw ayeffus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alamma"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ad rriɣ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "⟨את⟩ wid k-iḍewllen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "d assaḍan"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ɣer iḍarren-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:34.602329549Z",
+  "model": "glm-5.3"
+}

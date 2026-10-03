@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yenna-d ugellid Aḥacwerosc, yenna-d i Ester tagellidt: Anwa yiwen-agi? Anda yiwen-agi, win i yeččuren ul-is akken ad yexdem akka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Aḥacwerosc"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "i Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "tagellidt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yiwen⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "Anda"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yiwen-agi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yiwen⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win i"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "i yeččuren"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    }
+  ],
+  "timestamp": "2026-10-03T04:40:35.256353472Z",
+  "model": "glm-5.3"
+}

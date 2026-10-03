@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ur telli ara tidet? Ma txedmeḍ yir lexḍas, ad d-yili ufella; maca ma ur txedmeḍ ara yir lexḍas, taḥecceṭt teqqeḍ ɣer tewwurt, d ɣer kečč tebɣa tamment-is, kečč ini ad tḥkem fell-as.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ur telli ara tidet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "txedmeḍ yir lexḍas"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ad d-yili ufella"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maca ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "txedmeḍ yir lexḍas"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ɣer tewwurt"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "taḥecceṭt"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "teqqeḍ"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "d ɣer kečč"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "tamment-is"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "ad tḥkem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:28.331099393Z",
+  "model": "glm-5.3"
+}

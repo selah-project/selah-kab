@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Eg imeqqranen-nnsen am Ɛoreb u am Zeɛb, u am Zebaḥ u am Ṣalmunna, akk igeldanen-nnsen.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Eg"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "imeqqranen-nnsen"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "am Ɛoreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "u am Zeɛb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "u am Zebaḥ"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "u am Ṣalmunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "igeldanen-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:31.752798014Z",
+  "model": "glm-5.3"
+}

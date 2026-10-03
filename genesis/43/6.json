@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Yisrael inna: acu i wen-yuwen akken a txedmen lxert-a i neɣ, a d-tinnem i wemdan-nni ma yella ɣur-kwen wayeḍ n gma-kwen?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acu i wen-yuwen"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "a txedmen lxert-a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i neɣ"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "a d-tinnem"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wemdan-nni"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ɣur-kwen"
+    },
+    {
+      "surface": "אח",
+      "gloss": "n gma-kwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:46.388679979Z",
+  "model": "glm-5.3"
+}

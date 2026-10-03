@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ibekku n Yisrael ad iḥerraz wudmawen-is; Yisrael d Efrayim ad ṭṭefren deg tuccḍa-nsen; iḥbes ula d Yehuda yidsen.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ad iḥerraz"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "Ibekku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "wudmawen-is"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "d Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ad ṭṭefren"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "deg tuccḍa-nsen"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "iḥbes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "yidsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:46.464341174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Deg tazwara, Elohim yexleq ⟨את⟩ igenwan d ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Deg tazwara"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igenwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:32.707616052Z",
+  "model": "glm-5.3"
+}

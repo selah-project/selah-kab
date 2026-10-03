@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yahwe d netta kan i t-inehhun; ulac ⟨yella⟩ El aneṭḍi d araw-is.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "d netta kan"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "i t-inehhun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "d araw-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "aneṭḍi"
+    }
+  ],
+  "timestamp": "2026-10-02T22:07:28.722143464Z",
+  "model": "glm-5.3"
+}

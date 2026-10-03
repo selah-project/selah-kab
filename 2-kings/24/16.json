@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "D ⟨את⟩ akk irgazen n tezmert — sa n yimrawen — d iḥerrazen d iḥerrazen n wuzzal, agim; akk-agi d igezdanen, wid yettemennuɣen; yewwi-ten ugellid n Babil d ussenfu ɣer Babil.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk (irgazen n tezmert)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "n tezmert"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n yimrawen"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "d iḥerrazen"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "d iḥerrazen n wuzzal"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "agim"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk-agi"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "igezdanen"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wid yettemennuɣen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "(tameḥbas)"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "yewwi-ten"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babil"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "d ussenfu"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ɣer Babil"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:19.593032196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yenna Yahwe i Moce: ṭṭef ⟨את⟩ akk inebbura n ugadud, ssnqel-itent ⟨i⟩ Yahwe zdat yiṭij, akken ad yuɣal ccuɛ n wammu n Yahwe ɣef Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk inebbura n ugadud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "inebbura"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugadud"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "ssnqel"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "itent (inebbura)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ccuɛ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "n wammu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ɣef Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:39:06.345970671Z",
+  "model": "glm-5.3"
+}

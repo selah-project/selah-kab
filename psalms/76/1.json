@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "I win yessiwḥalen, s yibenkan; mizmor i Asaf, d acennu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yessiwḥalen"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "s yibenkan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "acennu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:54.788960701Z",
+  "model": "glm-5.3"
+}

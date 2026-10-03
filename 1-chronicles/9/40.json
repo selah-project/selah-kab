@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Mmi-s n Yehonatan ⟨is⟩ Meriv-Baɛal; Meriv-Baɛal iwelid ⟨את⟩ Miqa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baɛal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baɛal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miqa"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miqa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:41.577393182Z",
+  "model": "glm-5.3"
+}

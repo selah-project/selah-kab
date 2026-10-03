@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ṭṭfen ⟨את⟩ uẓmiḍ n yiɣir, ṣbeḍen qbel Ferɛun; yezdeg ⟨את⟩ Moce sersum, yuɣal d tiẓekrin s tfekkal yettfejjren ɣef wemdan akk d ɣef lmal.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uẓmiḍ n yiɣir"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "uẓmiḍ"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "n yiɣir"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ṣbeḍen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "yezdeg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (uẓmiḍ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "sersum"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "tiẓekrin"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "s tfekkal"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "yettfejjren"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ɣef wemdan"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "akk d ɣef lmal"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:48.927869347Z",
+  "model": "glm-5.3"
+}

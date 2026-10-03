@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Welleh ɣur-i, eṛḥem-iyi, acku d yiwen kan, d ameḥbus iyyud.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Welleh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "eṛḥem-iyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "d yiwen kan"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "d ameḥbus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "iyyud"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:43.437891041Z",
+  "model": "glm-5.3"
+}

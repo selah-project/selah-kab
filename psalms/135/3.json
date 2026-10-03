@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Sebbḥet Yah, axaṭer Yahwe ilax; cnuwet i yisem-is, axaṭer d ifazen.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "sebbḥet"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilax"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "cnuwet"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "i yisem-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "d ifazen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:42.389708602Z",
+  "model": "glm-5.3"
+}

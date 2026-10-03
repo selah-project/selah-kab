@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "Rran ⟨את⟩ iṭarren n yimedlan-ik d učči i yijeddar n igenni, iṭarren n wid iḥemmlen ⟨את⟩-ik i yugaren n wakal.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Rran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṭarren"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "iṭarren"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "n yimedlan-ik"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "d učči"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "i yijeddar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "iṭarren"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "n wid iḥemmlen ⟨את⟩-ik"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "i yugaren"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n wakal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:20.054365965Z",
+  "model": "glm-5.3"
+}

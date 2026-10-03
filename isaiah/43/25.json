@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Nekk, nekk, d Nekk i yesefseden tiyugwin-ik i yiman-iw; d tinḥuraf-ik ur tt-id-icfuɣ ara.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d Nekk i"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "yesefseden"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "tiyugwin-ik"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "i yiman-iw"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "d tinḥuraf-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "tt-id-icfuɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:19.832281403Z",
+  "model": "glm-5.3"
+}

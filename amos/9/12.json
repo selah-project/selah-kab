@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Iwakken ad kestcen ⟨את⟩ wayyid n Edom, akk d yegduten-agi akk i yettusemma yisem-iw ɣef-sen, i d-yenna Yahwe, win ixedmen ⟨את⟩ wayagi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ad kestcen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayyid n Edom"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "wayyid"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d ... akk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegduten-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "i yettusemma"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "yisem-iw"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixedmen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wayagi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:22:31.277963312Z",
+  "model": "glm-5.3"
+}

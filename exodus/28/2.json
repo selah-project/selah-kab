@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad tegreḍ ilebsen iqedcen i Aharon gma-k, i teɣdemt d lɛice.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ad tegreḍ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilebsen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "i teɣdemt"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "d lɛice"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:11.885785231Z",
+  "model": "glm-5.3"
+}

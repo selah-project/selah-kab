@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Avraham yemɣer, yekcem deg wussan; Yahwe yberrek ⟨את⟩ Avraham deg wayen akk.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yemɣer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "yberrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg wayen akk"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:59.758139010Z",
+  "model": "glm-5.3"
+}

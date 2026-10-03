@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akud iwakken ad trezdeḍ, d akud iwakken ad thezdeḍ; akud iwakken ad tessusmeḍ, d akud iwakken ad tmeslayeḍ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "ad trezdeḍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "ad thezdeḍ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "ad tessusmeḍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ad tmeslayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:35.813628763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahwe yesla ⟨את⟩ taɣect n wawalen-nwen, yeḥmeḍ, yegguf, ad d-yenna:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yesla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect n wawalen-nwen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "n wawalen-nwen"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "yeḥmeḍ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "yegguf"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-yenna"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:41.719944380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "I win yettḍafaren taẓuri: ɣef Yonat-elem-reḥoqim; d tezmert n David; Miktem; mi yeṭṭef ⟨את⟩ Pelichtim ⟨i⟩ David deg Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettḍafaren taẓuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonat"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "reḥoqim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktem"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "mi yeṭṭef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Pelichtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelichtim"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "deg Gat"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:10.878998386Z",
+  "model": "glm-5.3"
+}

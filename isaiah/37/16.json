@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yahwe Ṣebaot, Elohim n Yisrael, win izedɣen gar yikeruben, kečč ⟨d⟩ Elohim, kečč kan, i tegeldiwin akk n tmurt; kečč i d-xelqen ⟨את⟩ igenwan d ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "win izedɣen"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "gar yikeruben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kečč kan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i ... akk"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tegeldiwin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i d-xelqen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igenwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:18.660385941Z",
+  "model": "glm-5.3"
+}

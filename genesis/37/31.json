@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ṭṭfen ⟨את⟩ taqennect n Yusef, neẓgen ibeggisen n yiẓeṛ d tɣult, ṣebbḍen ⟨את⟩ taqennect deg yiẓi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqennect n Yusef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "taqennect"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "n Yusef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "neẓgen"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ibeggisen n yiẓeṛ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "d tɣult"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ṣebbḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqennect"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "taqennect"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "deg yiẓi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:40.444730684Z",
+  "model": "glm-5.3"
+}

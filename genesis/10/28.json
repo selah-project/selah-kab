@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "⟨את⟩ Ɛuval, ⟨את⟩ Avimael, ⟨את⟩ Ceva,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛuval"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ɛuval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ceva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Ceva"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:56.215647845Z",
+  "model": "glm-5.3"
+}

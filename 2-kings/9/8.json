@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ad yexṣer ⟨את⟩ wemdan meṛṛa n wemdan n Aḥab; ad qqimeɣ weḥd-iw iɣ d-waliɣ win yettazin i lǧeḍḍaḍen, iḥekmen akken daɣen i yeffren, di Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ad yexṣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "n Aḥab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ad qqimeɣ weḥd-iw iɣ d-waliɣ"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "i Aḥab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "win yettazin i lǧeḍḍaḍen"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "lǧeḍḍaḍen"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "iḥekmen"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "akken daɣen i yeffren"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:08.906126047Z",
+  "model": "glm-5.3"
+}

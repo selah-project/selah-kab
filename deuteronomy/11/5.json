@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Acu i d-yexleq i wen deg uzeṛru, arma d kecmun-d arma d ⟨את⟩ tamurt-agi.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "acu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-yexleq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uzeṛru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "kecmun-d"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:32.236284325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "I argaz i yettṣubb ⟨את⟩ wergaz, mi ara yettṣubben ⟨את⟩ tmeṭṭut — tuccḍa i xedmen i sin; s lmut ad mwenten; idammen-nsen fellasen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "I argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yettṣubb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "argaz"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "mi ṣubba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i xedmen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "i sin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ad mwenten"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "idammen-nsen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fellasen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:17.721413732Z",
+  "model": "glm-5.3"
+}

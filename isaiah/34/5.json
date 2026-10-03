@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Axaṭer taγersa-w deg igenwan tesswa d taεebbit; wali, ad d-teγli ɣef Edom, ɣef ugdud i γ-d-yettunefken i ḥerm-iw, i lḥekm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "tesswa d taεebbit"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "taγersa-w"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ad d-teγli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i ɣef"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "ḥerm-iw"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "i lḥekm"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:10.459719348Z",
+  "model": "glm-5.3"
+}

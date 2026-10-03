@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Imeẓlangen akk n temdint-nni i iqeṛben ɣer win yettwanɣan ad ssemsiven ⟨את⟩ ifassen-nsen ɣef teɣmert yettwarun uqerru-is deg waɣbaw.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "imeẓlangen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "i iqeṛben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "win yettwanɣan"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ad ssemsiven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ifassen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "teɣmert"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "yettwarun uqerru-is"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "deg waɣbaw"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:57.206486585Z",
+  "model": "glm-5.3"
+}

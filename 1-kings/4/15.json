@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Aḥimaɛeṣ, di Neftali; netta daɣen yeṭṭef ⟨את⟩ Basmat, yelli-s n Celomo, d tagemt.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Aḥimaɛeṣ"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "di Neftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d tagemt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:14.164853153Z",
+  "model": "glm-5.3"
+}

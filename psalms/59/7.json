@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Ad uɣalen deg tmeddit, ad ḥemmen am yiɣardan, ad zzin ɣef temdint.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ad uɣalen"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "deg tmeddit"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ad ḥemmen"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "am yiɣardan"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ad zzin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ɣef temdint"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:02.423275647Z",
+  "model": "glm-5.3"
+}

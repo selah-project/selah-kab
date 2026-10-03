@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yella-d ungaru nniḍen gar Pilictim ⟨את⟩ Yisrael; yuder-ed David akked yimeddanen-is yid-s, ḥemmen ⟨את⟩ Pilictim, yerna David yeddaɛ.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ungaru"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "n Pilictim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "yuder-ed"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "akked yimeddanen-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ḥemmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pilictim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilictim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "yeddaɛ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T23:05:49.277302785Z",
+  "model": "glm-5.3"
+}

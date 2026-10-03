@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Frḥen acku ṭṭfen talwit, yewwid-iten ɣer temnaɛt n lebɣi-nsen.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "frḥen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ṭṭfen talwit"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "yewwid-iten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "temnaɛt"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "n lebɣi-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:37.145291433Z",
+  "model": "glm-5.3"
+}

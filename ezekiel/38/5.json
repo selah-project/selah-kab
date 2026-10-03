@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Paras, Kuc d Put ⟨את⟩-sen; akk warisen d tgucmin:",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuc"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "d Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-sen",
+      "marks": "akken ad ilin yid-sen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "warisen"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "d tgucmin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:02:48.928951133Z",
+  "model": "glm-5.3"
+}

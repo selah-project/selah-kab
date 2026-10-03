@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ma d ⟨את⟩ yizer, akked ⟨את⟩ gil-is, akked ⟨את⟩ ifelfen-is, akked ⟨את⟩ ileḥyen-is, i yeḥraq deg tmes, beṛṛa n lɛesker, akken i d-yenna Yahwe i ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ma d ⟨את⟩",
+      "marks": "yizer"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yizer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "gil-is"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "gil-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "ifelfen-is"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ifelfen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "ileḥyen-is"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ileḥyen-is"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "i yeḥraq"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "n lɛesker"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:18.471858303Z",
+  "model": "glm-5.3"
+}

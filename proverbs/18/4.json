@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "I wawalen n yimi n wemdan: aman imellan; asif yettazzalen, d tiɣbula n tussna.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "imellan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "i wawalen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n yimi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asif yettazzalen"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "yettazzalen"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "tiɣbula"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "n tussna"
+    }
+  ],
+  "timestamp": "2026-10-03T02:23:30.083408571Z",
+  "model": "glm-5.3"
+}

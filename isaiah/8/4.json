@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Akkat send ad yissin meṛṛa ad isawel 'baba' d 'yemma', ad yawi ⟨את⟩ tazmert n Dimecq akked ⟨את⟩ ṣṣela n Ccumeron, ger yifassen n ugellid n Acur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akkat"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "send"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ad yissin"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ad isawel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "yemma"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ad yawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazmert n Dimecq"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dimecq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "ṣṣela n Ccumeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ṣṣela"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Ccumeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ger yifassen n"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:26.898207218Z",
+  "model": "glm-5.3"
+}

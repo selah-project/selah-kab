@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ruaḥ n Miṣrayim ad yeffeɣ deg txebbaṛ-is, imenji-is ad tt-leqmeɣ; ad d-sutren ɣer ⟨iṛebbiten⟩ d wid imectuḥen d wid yettarran iḥekmen d lǧnun d yissnen.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruaḥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "deg txebbaṛ-is"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "imenji-is"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ad tt-leqmeɣ"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ad d-sutren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "wid imectuḥen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "wid yettarran iḥekmen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "yissnen lǧnun"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:05.974063047Z",
+  "model": "glm-5.3"
+}

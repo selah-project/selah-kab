@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Terra tuḥem ɣer sdat Elohim, terra tččur d taḥrest.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "tuḥem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer sdat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "tččur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terra"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "taḥrest"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:55.870953259Z",
+  "model": "glm-5.3"
+}

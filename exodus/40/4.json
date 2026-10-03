@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad tidiv-d ⟨את⟩ taɣrest, ad teṣeggmeḍ ⟨את⟩ iɣi-ines; ad tidiv-d ⟨את⟩ ttawest, ad terreḍ afella ⟨את⟩ yisɣalen-is.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ad tidiv-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣrest"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "taɣrest"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "ad teṣeggmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣi-ines"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "iɣi-ines"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ad tidiv-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ttawest"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ttawest"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ad terreḍ afella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisɣalen-is"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "yisɣalen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:26.398557570Z",
+  "model": "glm-5.3"
+}

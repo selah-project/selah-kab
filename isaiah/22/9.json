@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Twalim ⟨את⟩ yerriden n temdint n David, acku ugren; tseggren-d ⟨את⟩ awan n lbiṛa n wadda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yerriden n temdint n David"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "yerriden"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "Twalim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ugren"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "tseggren-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awan n lbiṛa n wadda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "awan"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "lbiṛa"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "n wadda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:37.980102713Z",
+  "model": "glm-5.3"
+}

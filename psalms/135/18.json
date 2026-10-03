@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Am wosen ad ilin wid ten-yexlan; akk wid yewwen deg-sen ⟨ad ilin am wosen⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Am wosen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "wid ten-yexlan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yewwen deg-sen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "am wosen ⟨ad ilin am wosen⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:36.663770723Z",
+  "model": "glm-5.3"
+}

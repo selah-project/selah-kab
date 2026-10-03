@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad teḥerzem ⟨את⟩ liḥkam-iw, ad ten-texsedem; nekk d Yahwe, win i kwen-yettqecciren.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad teḥerzem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liḥkam-iw"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "liḥkam-iw"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad ten-texsedem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "win i kwen-yettqecciren"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:37.504382821Z",
+  "model": "glm-5.3"
+}

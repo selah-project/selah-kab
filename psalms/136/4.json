@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "I win, s yiman-is, ixedmen tigejdanin timeqranin, axaṭer i lebda ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "I win ixedmen"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "tigejdanin"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "timeqranin"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "s yiman-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:14.406379870Z",
+  "model": "glm-5.3"
+}

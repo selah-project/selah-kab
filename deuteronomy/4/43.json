@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "⟨את⟩ Beṣer deg ugenwa, deg tmurt n temzibt, i Reɣubeniyen; ⟨את⟩ d Raamot deg Gilɛad, i Gadiyen; ⟨את⟩ d Golan deg BaCan, i MenaCCiyen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beṣer"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Beṣer"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg ugenwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "n temzibt"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "i Reɣubeniyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ d",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "deg Gilɛad"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "i Gadiyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ d",
+      "marks": "Golan"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "deg BaCan"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "i MenaCCiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:31.902576494Z",
+  "model": "glm-5.3"
+}

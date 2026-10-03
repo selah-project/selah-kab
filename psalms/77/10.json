@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Yeṭṭef El ad iḥazen? Ma yella yeṛḥel s tidet deg yir ḥir, iṛḥem-is? Cela.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "ad iḥazen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "yeṛḥel s tidet"
+    },
+    {
+      "surface": "באף",
+      "gloss": "deg yir ḥir"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "iṛḥem-is"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:40.766489018Z",
+  "model": "glm-5.3"
+}

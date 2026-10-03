@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Cetket ⟨את⟩ awal i d-yenna Yahwe ɣef wen, a xxam n Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Cetket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ɣef wen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a xxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T00:17:17.511746920Z",
+  "model": "glm-5.3"
+}

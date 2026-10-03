@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mačči am ifeqyi i t-ittbazin felli, mačči am tigirt i t-ittṣabbaḥen felli?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mačči"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "am ifeqyi"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "i t-ittbazin felli"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "am tigirt"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "i t-ittṣabbaḥen felli"
+    }
+  ],
+  "timestamp": "2026-10-03T02:34:16.859977467Z",
+  "model": "glm-5.3"
+}

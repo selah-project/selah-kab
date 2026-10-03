@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ur izzel birra ara, ur ittazzel ara, almi yessers ccreɛ deg tmurt; tagzirin ad ssugent Tora-s.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "izzel birra ara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ittazzel ara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "Tora-s"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tagzirin"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "ad ssugent"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:45.761970226Z",
+  "model": "glm-5.3"
+}

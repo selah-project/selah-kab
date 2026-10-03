@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma if-ukir ad iwkekir baba-s ad tt-yefk-as, ad yessefk ⟨את⟩ ceqel, am mhar n teberkanin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "if-ukir"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "ad iwkekir"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "ad tt-yefk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ceqel"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "ad yessefk"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "am mhar"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "n teberkanin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:05.713571733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Am ulmis ad iffer, ur t-nafen ara; ad yettwazdeɣ am wumeny n yiḍ.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "am ulmis"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ad iffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "t-nafen"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "ad yettwazdeɣ"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "am wumeny"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n yiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:38:16.792835216Z",
+  "model": "glm-5.3"
+}

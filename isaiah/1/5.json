@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Acu i kwen-yettɣan ad tettwaḍebben ugar? Ad ternum tigri. Yal icef illa d leḥli, yal ul d aḥlaf.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "ad tettwaḍebben"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "ad ternum"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "tigri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "icef"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "d leḥli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d yal"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "d aḥlaf"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:42.623988671Z",
+  "model": "glm-5.3"
+}

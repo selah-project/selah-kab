@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Nṛec a neṭṭef, d lyut; ad bnex fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "nṛec"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "a neṭṭef"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "d lyut"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ad bnex"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:48.718653138Z",
+  "model": "glm-5.3"
+}

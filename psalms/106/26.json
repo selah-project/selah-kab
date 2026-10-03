@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Yefna Yahwe ayen yugad, iwakken ad ten-iḍeṛṛen ⟨את⟩ deg beṛṛa.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "yefna ayen yugad"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "iwakken ad ten-iḍeṛṛen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg beṛṣa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:14.344317701Z",
+  "model": "glm-5.3"
+}

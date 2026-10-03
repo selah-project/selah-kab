@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Wid n Yehuda zzuzren-d tajert; mi zzuzren wid n Yehuda tajert, Elohim i ḍerben ⟨את⟩ Yeravɛam akked Yisrael akk, zdat n Avya d Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "zzuzren-d tajert"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "zzuzren"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "i ḍerben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeravɛam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeravɛam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael akk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avya"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "d Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:52.659070991Z",
+  "model": "glm-5.3"
+}

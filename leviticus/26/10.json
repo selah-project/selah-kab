@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad teččem ayen aqbur aṭas iɛummren, ma d aqbur s lweḥ n umaynut ad t-feṛǧem.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ad tečçem"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "aqbur"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "aṭas iɛummren"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "aqbur"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "s lweḥ n"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "amaynut"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ad t-feṛǧem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:09.245197824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yahwe yefka ⟨את⟩ lεfya i ugdud deg tiṭ n yimezdaγ n Miṣrayim; ula d amdan Moce, meqqṛeṭ aṭas deg tmurt n Miṣrayim, deg tiṭ n yimedlan n Ferɛun d deg tiṭ n ugdud.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lεfya"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lεfya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "i ugdud"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n yimezdaγ n Miṣrayim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqṛeṭ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "n yimedlan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "d deg tiṭ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugdud"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:21.266175049Z",
+  "model": "glm-5.3"
+}

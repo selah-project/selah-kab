@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "I ⟨את⟩ Yehu mmi-s n Nimsi ad t-adeḥeḍ d agellid ɣef Yisrael; i ⟨את⟩ Elicea mmi-s n Cepaṭ, seg Abel-Meḥula, ad t-adeḥeḍ d navi deffir-ik.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "n Nimsi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ad t-adeḥeḍ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elicea"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elicea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Cepaṭ"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Abel-Meḥula"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ad t-adeḥeḍ"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "d navi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "deffir-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:35.479662702Z",
+  "model": "glm-5.3"
+}

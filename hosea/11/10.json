@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad ddun deffir Yahwe; ad ijeḥḥer am iziger; axaṭer d nekk i yettjeḥḥiren, warraw ad ḥewwlen-d seg yilel.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "am iziger"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ad ijeḥḥer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d nekk"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "yettjeḥḥiren"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ad ḥewwlen-d"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "seg yilel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:16:47.351122176Z",
+  "model": "glm-5.3"
+}

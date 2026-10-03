@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ayy-ak, a tmurt, mi agellid-ik d aqeṛṛan, d yimḍebren-ik ttetten iṛebbaɛ!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Ayy-ak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i-k"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a tmurt"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "agellid-ik"
+    },
+    {
+      "surface": "נער",
+      "gloss": "aqeṛṛan"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "d yimḍebren-ik"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "iṛebbaɛ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ttetten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:32.283138411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Yahwe, Adonai, tezmert n usellek-iw; txebbeḍ aqarruy-iw deg wass n lebɛed.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "n usellek-iw"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "txebbeḍ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "aqarruy-iw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "n lebɛed"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:03.971790398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yaɛqov yerwel ɣer tigir n Aram, Yisrael yexdem i tmeṭṭut, i tmeṭṭut iḥerbes ⟨את⟩ tixsi.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "yerwel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tigir"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "i tmeṭṭut"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "i tmeṭṭut"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "iḥerbes"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:27.605274933Z",
+  "model": "glm-5.3"
+}

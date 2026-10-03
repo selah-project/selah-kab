@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "And I wrote in the book, and I sealed it, and I called witnesses, and I weighed the silver on the scales.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "aruɣ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deffir wadlis"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "ṣeggneɣ-t"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "ɛeddeɣ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "inagan"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "ṣeggneɣ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lefet"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "s tmezdin"
+    }
+  ],
+  "timestamp": "2026-10-03T00:29:50.349913051Z",
+  "model": "glm-5.3"
+}

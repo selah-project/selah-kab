@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Yahwe yella-d yid-i; ur nekkuɣ ara — acu i d-ixedmen yid-i yimdanen?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yella-d yid-i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nekkuɣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "i d-ixedmen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:00.652436105Z",
+  "model": "glm-5.3"
+}

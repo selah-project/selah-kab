@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Wid seg Yisrael ṭṭfen ⟨את⟩ akk lexla d ⟨את⟩ akk wayen d-yuḥen, gar yemdanen d yiɣersiwen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk lexla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "lexla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk wayen d-yuḥen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "wayen d-yuḥen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "gar yemdanen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "d yiɣersiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:43.146220979Z",
+  "model": "glm-5.3"
+}

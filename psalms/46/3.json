@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Ɣef lxaṭer-a ur nettagad, akken tiṛemdi tbeddel, idurar d-ttḥerren ɣer ul n yilel.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lxaṭer-a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "nettagad"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "tbeddel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tiṛemdi"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "d-ttḥerren"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ɣer ul n"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yilel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:06.305086969Z",
+  "model": "glm-5.3"
+}

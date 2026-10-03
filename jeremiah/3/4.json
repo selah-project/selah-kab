@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Mačči seg yimir-a tsawaleḍ-iɣ: A baba, kečči d alewwaḥ n teẓriw?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "mačči…?"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "seg yimir-a"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tsawaleḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iɣ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "a baba"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "alewwaḥ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "n teẓriw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči d"
+    }
+  ],
+  "timestamp": "2026-10-03T00:12:36.935030539Z",
+  "model": "glm-5.3"
+}

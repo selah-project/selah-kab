@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Sinat yifassen degwen, akk wid iffɣen deg Cabbat, ad ɣsen ⟨את⟩ aḥraz n uxxam n Yahwe ɣef ugellid.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "sinat"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "yifassen"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "degwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "wid iffɣen"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ad ɣsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḥraz"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "aḥraz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uxxam n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-02T23:31:20.252703204Z",
+  "model": "glm-5.3"
+}

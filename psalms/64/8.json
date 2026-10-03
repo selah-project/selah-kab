@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Maca Elohim ad yersen tigejdit fell-asen; deg tikelt ad ilin imectḥen-nnsen.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ad yersen fell-asen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "tigejdit"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "deg tikelt"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "imectḥen-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:21.495278503Z",
+  "model": "glm-5.3"
+}

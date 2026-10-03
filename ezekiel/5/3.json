@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad teṭṭfeḍ si-sen drus s wuṭṭun, ad ⟨את⟩ ten-teḍleḍ deg iyfufen-ik.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "si-sen"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "drus"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "s wuṭṭun"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ad ten-teḍleḍ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "deg iyfufen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:45:17.760513913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Ma teqtel, a Eloha, wid ibren — wid yuran idammen, ṭṭfet abrid, ḥerret yid-i!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "teqtel"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "a Eloha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wid ibren"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "wid yuran"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ṭṭfet abrid, ḥerret yid-i"
+    },
+    {
+      "surface": "מני",
+      "gloss": "yid-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.474715183Z",
+  "model": "glm-5.3"
+}

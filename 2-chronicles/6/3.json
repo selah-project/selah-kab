@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yexlef agellid ⟨את⟩ udem-is, yerna yebrek ⟨את⟩ meṛṛa tgelta n Yisrael; tgelta n Yisrael akk tella d tadellest.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "yexlef"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem-is"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yebrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa tgelta n Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "tgelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tgelta n Yisrael akk"
+    },
+    {
+      "surface": "קהל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": ""
+    },
+    {
+      "surface": "עומד",
+      "gloss": "tella d tadellest"
+    }
+  ],
+  "timestamp": "2026-10-03T03:39:17.717829587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Acku ɣur-k aɣbalu n tmeddurt; deg tafat-ink ad nwali tafat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "aɣbalu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "n tmeddurt"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "deg tafat-ink"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ad nwali"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tafat"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:19.413542383Z",
+  "model": "glm-5.3"
+}

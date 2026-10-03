@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Axaṭer ḥemmen ⟨את⟩ ruaḥ-is, ihi yemmeslay s lɛejla s teccarin-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ḥemmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ-is"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaḥ-is"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "yemmeslay s lɛejla"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "s teccarin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:38.913671420Z",
+  "model": "glm-5.3"
+}

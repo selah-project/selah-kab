@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 29:20",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Yahwe ad t-iḥeṛṛem ad yili d dirit seg teqbiyin akk n Yisrael, akken i tella icceṭṭen n lɛahd yettwarun deg uselmed n Tora-agi.",
+  "tokens": [
+    {
+      "surface": "והבדילו",
+      "gloss": "ad t-iḥeṛṛem ad yili d dirit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "d dirit"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg teqbiyin akk"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "teqbiyin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken i tella"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "icceṭṭen"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "n lɛahd"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "yettwarun"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deg uselmed"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "n Tora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T22:06:20.438036153Z",
+  "model": "glm-5.3"
+}

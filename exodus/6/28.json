@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yella-d yiwen wass, deg-s Yahwe yenna-yelmed i Moce deg tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "yiwen wass, deg-s"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yenna-yelmed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:09.730930112Z",
+  "model": "glm-5.3"
+}

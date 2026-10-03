@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yerna akohen ad yeqreb ⟨tt⟩, ad as-yeqqim sdat Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ad yeqreb"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tmeṭṭut"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "ad as-yeqqim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:25:19.228225372Z",
+  "model": "glm-5.3"
+}

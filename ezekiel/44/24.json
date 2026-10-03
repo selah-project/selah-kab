@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 44:24",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Di ccreɛ, nttni ad beddlen i uḥkam, s ccreɛ-iw ad t-ḥekmen; ⟨את⟩ Tora-iw d ⟨את⟩ ilugan-iw deg wakk timlilitin-iw ad ḥerzen, ⟨את⟩ Icabbaten-iw ad qqaden d iqedcen.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "di"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nttni"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ad beddlen"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "i uḥkam"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "s ccreɛ-iw"
+    },
+    {
+      "surface": "ושפטהו",
+      "gloss": "ad t-ḥekmen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tora-iw"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ilugan-iw"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ilugan-iw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg wakk"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "timlilitin-iw"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ad ḥerzen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Icabbaten-iw"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Icabbaten-iw"
+    },
+    {
+      "surface": "יקדשו",
+      "gloss": "ad qqaden d iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:13:31.772407544Z",
+  "model": "glm-5.3"
+}

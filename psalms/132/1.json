@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Acenṭan n tɛalin. Zikru, a Yahwe, i David ⟨את⟩ akk iḍesi-s.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Acenṭan"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tɛalin"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Zikru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iḍesi-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "iḍesi-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:11.117388757Z",
+  "model": "glm-5.3"
+}

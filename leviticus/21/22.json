@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Aɣrum n Elohim-is, seg wayen iqedcen gar iqedcen, akken seg wayen iqedcen, ad t-icceṭ.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "n Elohim-is"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "seg wayen iqedcen"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "akked seg"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "wayen iqedcen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad t-icceṭ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:58.613730756Z",
+  "model": "glm-5.3"
+}

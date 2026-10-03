@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "S umejjuy, s yinagan-nnegu, ɣef tisset temzin-t, d lmizmor i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "s umejjuy"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "s yinagan-nnegu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "tesset temzin-t"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "lmizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:51.658079077Z",
+  "model": "glm-5.3"
+}

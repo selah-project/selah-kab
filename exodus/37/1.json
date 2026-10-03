@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yexdem Betsalel ⟨את⟩ ṭabut s yiẓan n ccitim: sin n yiseddaren d uzgen teɣzi-ines, yis n useddar d uzgen tehri-ines, yis n useddar d uzgen tiddi-ines.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṭabut"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ṭabut"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yiẓan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ccitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "sin n yiseddaren"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-ines"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yis n useddar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "tehri-ines"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yis n useddar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d uzgen"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tiddi-ines"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:59.085236877Z",
+  "model": "glm-5.3"
+}

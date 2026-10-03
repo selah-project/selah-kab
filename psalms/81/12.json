@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Maca iɣlan-iw ur ssellen ara i taɣect-iw, Yisrael ur iri ara iyi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ssellen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "iɣlan-iw"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "i taɣect-iw"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "iri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:28.376116Z",
+  "model": "glm-5.3"
+}

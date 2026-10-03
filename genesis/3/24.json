@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Iḥeṛṛeb ⟨את⟩ amdan, yezdeɣ deg usamar n ureggew n Ɛeden ⟨את⟩ yikerubiyen, akked ⟨את⟩ lesḥa n tesleḥt yettwarẓan, ad ḥareḍ ⟨את⟩ abrid n useklu n tmeddurt.",
+  "tokens": [
+    {
+      "surface": "ויגרשׁ",
+      "gloss": "iḥeṛṛeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amdan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "וישׁכן",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "deg usamar"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "n ureggew"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "n Ɛeden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yikerubiyen"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "yikerubiyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "lesḥa n tesleḥt"
+    },
+    {
+      "surface": "להט",
+      "gloss": "lesḥa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "n tesleḥt"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "yettwarẓan"
+    },
+    {
+      "surface": "לשׁמר",
+      "gloss": "ad ḥareḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abrid"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "n useklu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "n tmeddurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:57.430905775Z",
+  "model": "glm-5.3"
+}

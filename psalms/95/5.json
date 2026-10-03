@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "Ilel d ines, d netta i t-ixelqen; ⟨את⟩ wemerdil ifassen-is i t-iṣubben.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "i d-illan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "d ines"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "i t-ixelqen"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "⟨את⟩ wemerdil"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ifassen-is"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "i t-iṣubben"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:56.716451817Z",
+  "model": "glm-5.3"
+}

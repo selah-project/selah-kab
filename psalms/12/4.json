@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad iqteɛ Yahwe akk imawen iṣeḥḥan ad sfeḍmen, iles yettmeslayen tiɣawsiwin timeqranin.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Ad iqteɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "imawen"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "iṣeḥḥan ad sfeḍmen"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "iles"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "yettmeslayen"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tiɣawsiwin timeqranin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:41.475701841Z",
+  "model": "glm-5.3"
+}

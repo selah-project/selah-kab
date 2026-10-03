@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur yekkcem ara win yermeẓen, win yettwagezmen deg iḥricen-is n tidet, deg lǧemɛa n Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yekkcem"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "win yermeẓen"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "win yettwagezmen"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "yettwakksen"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "iḥricen-is n tidet"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "deg lǧemɛa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:47.696553765Z",
+  "model": "glm-5.3"
+}

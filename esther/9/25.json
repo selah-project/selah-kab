@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Mi tuɣal ɣer zdat ugellid, yenna-d ɣer ufeggag n tira: ad yuɣal lebɛi-ines yellan ɣef Ihudiyen ɣef ixef-is. Ṣlen-t kan i ḥemmen ula d arraw-is ɣef useklu.",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "mi tuɣal ɣer zdat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "afeggag n tira"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "lebɛi-ines"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ihudiyen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ixef-is"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "ṣlen-t kan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ula d ⟨את⟩",
+      "marks": "arraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "arraw-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "aseklu"
+    }
+  ],
+  "timestamp": "2026-10-03T03:03:21.603755132Z",
+  "model": "glm-5.3"
+}

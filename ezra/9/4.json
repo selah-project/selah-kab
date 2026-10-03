@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 9:4",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Γur-i dduan-d akk wid yeḥwan deg wawalen n Elohim n Yisrael ɣef maḍi n yinubbula n lɣerba; ma d nekkin, ṭṭef-deggiri mbeɛd almi d minḥa n tmeddit.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Γur-i"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "dduan-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "wid yeḥwan"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "deg wawalen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "n yinubbula n lɣerba"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma d nekkin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ṭṭef-deggiri"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "mbeɛd"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi d"
+    },
+    {
+      "surface": "למנחת",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "n tmeddit"
+    }
+  ],
+  "timestamp": "2026-10-03T03:17:17.405157385Z",
+  "model": "glm-5.3"
+}

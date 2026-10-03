@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Moce yefren irgazen n tmezgeft seg Yisrael akk, yefka-ten d iqeṛṛa ɣef ugdud: inebbaren n yifed, inebbaren n temrawin, inebbaren n semmusin d yinebbaren n mraw.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "yefren"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "n tmezgeft"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "d iqeṛṛa"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "d iqeṛṛa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inebbaren"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n yifed"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inebbaren"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temrawin"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inebbaren"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "n semmusin"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "d yinebbaren"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "n mraw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:57.407688875Z",
+  "model": "glm-5.3"
+}

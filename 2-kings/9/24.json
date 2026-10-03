@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yeḥu imla afus-is s teɣeṭṭaft, iḥuz ⟨את⟩ Yehoram ger yiɣallen-is; taleɣt teffeɣ seg ul-is, yukkes deg wakerkab-is.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Yeḥu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "imla"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "s teɣeṭṭaft"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iḥuz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ger"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "yiɣallen-is"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "teffeɣ"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "taleɣt"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "seg ul-is"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "yukkes"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "deg wakerkab-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:42.710624348Z",
+  "model": "glm-5.3"
+}

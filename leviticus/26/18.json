@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ma εeddan γef waya ur tetslim ara γer Yiḥ, ad rnuγ ad k-isejjεeb ⟨את⟩ wen d sebεa n tikkal, γef wallen i d-texdem.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "γef"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tetslim ara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "γer Yiḥ"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "ad rnuγ"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "ad k-isejjεeb"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "wen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "d sebεa n tikkal"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "wallen i d-texdem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:54.858622255Z",
+  "model": "glm-5.3"
+}

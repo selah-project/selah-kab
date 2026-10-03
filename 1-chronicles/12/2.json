@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Llan d imseqdacen n teqeccumt, s ufus n yefus akked ufus n yessel, s yijmeḍen d yineccab, s teqeccumt; seg watmaten n Caul, seg Binyamin.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "d imseqdacen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "n teqeccumt"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "s ufus n yefus"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "akked ufus n yessel"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "s yijmeḍen"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "d yineccab"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "s teqeccumt"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "seg watmaten"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Caul"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "seg Binyamin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:29:25.013593728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "Ma yella teḥrezeḍ ijerman, a Yah, a Adonai, anwa ara yezgizzgen?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma yella"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ijerman"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "teḥrezeḍ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yezgizzgen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.378140936Z",
+  "model": "glm-5.3"
+}

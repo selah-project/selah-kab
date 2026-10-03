@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad ineɣ ⟨את⟩ tferḥt-agi yiwet deg yiwen n uṭṭun n teɣest, ɣef waman iḥerran.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ad ineɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tferḥt-agi yiwet"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "tferḥt-agi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "n uṭṭun"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "n teɣest"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iḥerran"
+    }
+  ],
+  "timestamp": "2026-10-02T21:08:46.600135632Z",
+  "model": "glm-5.3"
+}

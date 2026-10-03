@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Nnan-t ⟨את⟩ meṛṛa tilist n yAmoriyen, seg Arnon arma d Yabboq, d seg uceṭṭaḥ arma d Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Nnan-t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa tilist"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilist"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "n yAmoriyen"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "seg Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "d seg"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "uceṭṭaḥ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-10-02T22:29:49.209561196Z",
+  "model": "glm-5.3"
+}

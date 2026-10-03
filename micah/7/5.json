@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur tuminet ara ɣer umeddakwel, ur ttetehnenet ara ɣer ulmed; mi akka i yettnaḥyab deg teṭṭfawen-ik, ḥrez isura n yimi-ik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "tuminet"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ɣer umeddakwel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ttetehnenet"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "ɣer ulmed"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "yettnaḥyab"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "deg teṭṭfawen-ik"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "isura"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "n yimi-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:28:52.444482019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad tiḥemmeleḍ ⟨את⟩ Yahwe Elohim-nnek, ad teḥarzeḍ tamuɣli-s, iḥuqqan-is, iccreɛ-is d yilugan-is, yal ass.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ad tiḥemmeleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nnek"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ad teḥarzeḍ"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "tamuɣli-s"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "iḥuqqan-is"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "iccreɛ-is"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ilugan-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-02T21:54:25.032142476Z",
+  "model": "glm-5.3"
+}

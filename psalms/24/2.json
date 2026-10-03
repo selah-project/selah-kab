@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Axaṭer d Neṭṭa i tt-yessekfa ɣef yillan, d Neṭṭa i tt-yessbded ɣef isaffen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d Neṭṭa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yillan"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "yessekfa-tt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "isaffen"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "yessbded-tt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:23.754792566Z",
+  "model": "glm-5.3"
+}

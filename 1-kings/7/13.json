@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "I d-uzen ⟨aɣellaḍ? mačči d Isem⟩ ugellid Celomo, i d-yewwi ⟨את⟩ Ḥiram seg Ṣur.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i d-uzen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ḥiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "seg Ṣur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:55.413931502Z",
+  "model": "glm-5.3"
+}

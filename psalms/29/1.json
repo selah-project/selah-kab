@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Taṣelyaṭt i David. Muddet i Yahwe, a yigerdan n Elohim; muddet i Yahwe tajmilt d tezmert.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Taṣelyaṭt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Muddet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a yigerdan"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "muddet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tajmilt"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "d tezmert"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:11.680598643Z",
+  "model": "glm-5.3"
+}

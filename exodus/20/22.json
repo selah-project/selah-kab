@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yenna-d Yahwe ɣer Moce: Akka i tqeddeceḍ i yigerdan n Yisrael: Kunwi twalam belli seg igenwan i d-mmelay akken yid-wen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "i tqeddeceḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "twalam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "i d-mmelay"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "akken yid-wen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:55.389740352Z",
+  "model": "glm-5.3"
+}

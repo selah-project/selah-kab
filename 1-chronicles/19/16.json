@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Aram yuẓ belli ttwaḥermen ɣer zdat Yisrael; rran-d imcegɣalen, sfayden-d ⟨את⟩ Aram i yellan ennis n wasif, Cofaḥ, anemhal n yiserdasen n Hadadɛezer, deg zdat-nnsen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yuẓ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "ttwaḥermen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "rran-d imcegɣalen"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "imcegɣalen"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "sfayden-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ennis"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "n wasif"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "Cofaḥ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "anemhal"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "n yiserdasen"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "n Hadadɛezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "deg zdat-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:17.332069015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ṣedeq-nnek ur t-id-ḥeddeɣ ara deg ul-iw; tmukrist-nnek d lallment-nnek, mmeslayeɣ-ten-id; ur ṣḥeddeɣ ara ḥesed-nnek akked ṭṭerfa-nnek ɣef ljamεa tameqqrant.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Ṣedeq-nnek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "t-id-ḥeddeɣ ara"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tmukrist-nnek"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "d lallment-nnek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mmeslayeɣ-ten-id"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "ṣḥeddeɣ ara"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-nnek"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ṭṭerfa-nnek"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "ɣef ljamεa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tameqqrant"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:40.162787251Z",
+  "model": "glm-5.3"
+}

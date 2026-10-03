@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "David ur yeḥbit ara ⟨את⟩ tisdit ɣer s i ɣer tamdint n David, maca yerra-t ɣer uxxam n Ɛebd-Edum_agiti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yeḥbit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tisdit"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "tisdit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "yerra-t"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uxxam"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ɛebd"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edum"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "agiti"
+    }
+  ],
+  "timestamp": "2026-10-03T03:29:50.304104321Z",
+  "model": "glm-5.3"
+}

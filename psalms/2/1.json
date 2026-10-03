@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Acuɣer iɣerwen igra n yalakal, ed yegdud kan d ilem i wumi mmeslayen?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Acuɣer"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "iɣerwen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "igra n yalakal"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ed yegdud"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "meslayen"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "d ilem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:53.107683936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-d Kalev: Win ad yedres ⟨את⟩ Qiryat Cefer u ad t-yeṭṭef, ad akken-ḍeɣ mudduɣ-as ⟨את⟩ ɛeqcimaḥ? — ⟨את⟩ Axa, yelli-w, d tameṭṭut.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ad yedres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat Cefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Cefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ad t-yeṭṭef"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad mudduɣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Axa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "yelli-w"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d tameṭṭut"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:56.709464865Z",
+  "model": "glm-5.3"
+}

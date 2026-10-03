@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Anida illa ugellid-ik, a tura? Anida illa win ara k-iseleḥen deg yal tamdint-ik? D iḥekkanen-ik wid i deg tennaḍ: Efk-iyi-d agellid d yimḍebren.",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "anida"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "ugellid-ik"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "a tura"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "ad k-iseleḥen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tamdint-ik"
+    },
+    {
+      "surface": "וושפטיך",
+      "gloss": "iḥekkanen-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid i deg"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "tennaḍ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "efk-iyi-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "d yimḍebren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:23.513883618Z",
+  "model": "glm-5.3"
+}

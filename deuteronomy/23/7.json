@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur tnadiḍ ara talwit-nsen ddaw lxiṛ-nsen, akk wussan-ik, i lebda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "tnadiḍ ara"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "talwit-nsen"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ddaw lxiṛ-nsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "wussan-ik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:50.970371022Z",
+  "model": "glm-5.3"
+}

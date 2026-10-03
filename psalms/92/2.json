@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Yelha ad neḥmed ⟨ל⟩ Yahwe, ad necnu i yisem-ik, a Ɛelyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Yelha"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ad neḥmed"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "ad necnu"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "i yisem-ik"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɛelyon"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:07.281377422Z",
+  "model": "glm-5.3"
+}

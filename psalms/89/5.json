@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ar i lebda ad ssbeɣ idammen-ik, ad sbennuɣ taht-ik i taswitt s taswitt. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ar i"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ad ssbeɣ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "idammen-ik"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ad sbennuɣ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i taswitt"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "s taswitt"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "taht-ik"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:26.484868731Z",
+  "model": "glm-5.3"
+}

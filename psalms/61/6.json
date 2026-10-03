@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 61,
+  "translation": "Acku kečč, a Elohim, tsefldeḍ i lɛahd-iw; tmuddeḍ ⟨lireṭ⟩ i wid icedḥen isem-ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tsefldeḍ"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "i lɛahd-iw"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "tmuddeḍ"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "lireṭ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "i wid icedḥen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:04.293915713Z",
+  "model": "glm-5.3"
+}

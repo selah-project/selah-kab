@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "A Adonai, sel i ṣut-iw; ad llint imeẓẓuɣen-ik imselsen i ṣut n tayyit-inw.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "A Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "sel"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "i ṣut-iw"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ad llint"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "imeẓẓuɣen-ik"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "imselsen"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "i ṣut"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "n tayyit-inw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.377946829Z",
+  "model": "glm-5.3"
+}

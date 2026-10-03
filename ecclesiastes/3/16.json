@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yerna twalaɣ ddaw tfukt: amkan n ccɛa, dinna takriḥt; amkan n ṣedeq, dinna takriḥt.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Yerna"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "twalaɣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tfukt"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "n ccɛa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "takriḥt"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "n ṣedeq"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "takriḥt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:16.462838744Z",
+  "model": "glm-5.3"
+}

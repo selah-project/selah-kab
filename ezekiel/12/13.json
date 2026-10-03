@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad seffeɣɣeɣ tiẓremtin-iw ɣef-s, ad yettwaṭṭef deg tsedditin-iw; ad t-id-rɣeɣ γer Babel, tamurt n yixedyaniyen; ⟨את⟩ mačči ara iẓerr, dinna ara yemmet.",
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "ad seffeɣɣeɣ tiẓremtin-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiẓremtin-iw"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "tiẓremtin-iw"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "ad yettwaṭṭef"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "deg tsedditin-iw"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ad t-id-rɣeɣ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t",
+      "marks": "Babel"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "n yixedyaniyen"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩ ⟨tamt⟩",
+      "marks": "mačči ara iẓerr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči ara"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "iẓerr"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "yemmet"
+    }
+  ],
+  "timestamp": "2026-10-03T00:46:48.175377967Z",
+  "model": "glm-5.3"
+}

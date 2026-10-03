@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yewwet ⟨אתם⟩ agellid n Babel, yenɣa-ten deg Ribla, deg tmurt n Ḥamat; Yehuda yettwanǧa seg wakal-is.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yewwet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wid i d-yewwet (ijerriḍen)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "yenɣa-ten"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "deg Ribla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ḥamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "yettwanǧa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "wakal-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:48.789116055Z",
+  "model": "glm-5.3"
+}

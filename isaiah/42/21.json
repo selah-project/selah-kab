@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yahwe yebɣa, i lḥeṣṣan n ṣedeq-is, ad isemɣer Tora, ad tt-iderrec.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yebɣa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "i lḥeṣṣan n"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ṣedeq-is"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "ad isemɣer"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "ad tt-iderrec"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:11.749264901Z",
+  "model": "glm-5.3"
+}

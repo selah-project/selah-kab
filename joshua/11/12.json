@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yehucya yeṭṭef ⟨את⟩ timura-agi akk n yigelliden, akk d ⟨את⟩ yigelliden-nsen akk, iḥeddem-iten s imi n tesellart, yesḥerrem ⟨את⟩-ten, akken i yenna-d Moce, aqeddac n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "timura akk n yigelliden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "timura"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "n yigelliden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igelliden-nsen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "igelliden-nsen"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehucya"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "iḥeddem-iten"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s imi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n tesellart"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "yesḥerrem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "timura akk d igelliden-nsen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i yenna-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aqeddac"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:10:05.140766354Z",
+  "model": "glm-5.3"
+}

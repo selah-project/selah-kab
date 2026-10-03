@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Tettwafrem s ḥesed-ik ⟨את⟩ weggi-a i tzerbeḥt; tettwafrem s tezmert-ik ar taiqedcit n texxamt-ik iqedcen.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Tettwafrem"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "s ḥesed-ik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "weggi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "a"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "i tzerbeḥt"
+    },
+    {
+      "surface": "נהלת",
+      "gloss": "tettwafrem"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "s tezmert-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "texxamt"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "taiqedcit n ... iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:26.297341968Z",
+  "model": "glm-5.3"
+}

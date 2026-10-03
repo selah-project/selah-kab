@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yiwet i d-yenna yid-i, ur d-erruɣ ara; snat, ur rnuɣ ara.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "i d-yenna yid-i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "d-erruɣ ara"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "snat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "rnuɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:44:36.646693567Z",
+  "model": "glm-5.3"
+}

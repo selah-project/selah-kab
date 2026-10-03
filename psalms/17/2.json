@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Seg ughur-ik ad d-yeffeɣ ccreɛ-iw; tiḍ-ik ad ẓerent ⟨i⟩ taɣdi.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Seg ughur-ik"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ccreɛ-iw"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ad d-yeffeɣ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tiḍ-ik"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ad ẓerent"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "taɣdi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:38.932548629Z",
+  "model": "glm-5.3"
+}

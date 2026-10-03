@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ḥanun yexdeṣ ⟨את⟩ imeḍbasen n David, iḥeflen-ten, yerna yenɣa ⟨את⟩ iḥerken-nsen ɣef tlemmast, alama d asallun, syin yuzen-ten.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yexdeṣ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Ḥanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeḍbasen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "imeḍbasen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "iḥeflen-ten"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "yenɣa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥerken-nsen"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "iḥerken-nsen"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ɣef tlemmast"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alama d"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "asallun"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "yuzen-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T03:32:51.594482418Z",
+  "model": "glm-5.3"
+}

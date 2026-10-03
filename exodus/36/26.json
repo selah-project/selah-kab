@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "D nnaben-nsen d lfeḍḍa: xin (idnen) seddaw yiwen yiɣṛi, d xin idnen seddaw wayeḍ yiɣṛi.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ṛebɛin"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "idnen-nsen (nnaben-nsen)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "xin"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "idnen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "seddaw"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "yiɣṛi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "d xin"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "idnen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "seddaw"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "yiɣṛi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen (wayeḍ)"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:25.472329973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yella win ibɣan ad d-yebin d acebḥan, ulac ɣur-s; win ibɣan ad d-yebin d igellel, ɣur-s lekci meqqren.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "win ibɣan ad d-yebin d acebḥan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "win ibɣan ad d-yebin d igellel"
+    },
+    {
+      "surface": "והון",
+      "gloss": "lekci"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meqqren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:23.435345068Z",
+  "model": "glm-5.3"
+}

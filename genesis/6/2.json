@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Arrac n Elohim ẓran ⟨את⟩ tullas n yimdanen, acku zzint; ṭṭfen i yiman-nsen tlawin seg wayen akk i fren.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tullas n yimdanen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tullas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "n yimdanen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "zzint"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "llant"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i yiman-nsen"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "tlawin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg wayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "fren"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:38.574469605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tiḥanin n werɣ, ṭlatin; tiḥanin n lfeḍḍa tis snatin, rebɛa miya d mraw; ican-nniḍen, ifed.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "tiḥanin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n werɣ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ṭlatin"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "tiḥanin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfeḍḍa"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "tis snatin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "rebɛa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "miya"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ican"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "-nniḍen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ifed"
+    }
+  ],
+  "timestamp": "2026-10-03T03:11:41.764533716Z",
+  "model": "glm-5.3"
+}

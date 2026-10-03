@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Wagi d axeddim n wid-iwumi sguguyen ɣef-i, seg ufus n Yahwe ⟨את⟩, i wid-nni yemmeslayen dirit ɣef nefsiw.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Wagi"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "wid-iwumi sguguyen ɣef-i"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "i wid-nni yemmeslayen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsiw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:21.913144269Z",
+  "model": "glm-5.3"
+}

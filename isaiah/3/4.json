@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad rneɣ arrac d yinedbayen-nsen, imerwiben ad ḥekmen deg-sen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad rneɣ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "d yinedbayen-nsen"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "imerwiben"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ad ḥekmen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:55.444765112Z",
+  "model": "glm-5.3"
+}

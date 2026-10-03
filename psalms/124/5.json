@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 124,
+  "translation": "Ass-ni, iɛeddan ɣef nefsu-nneɣ waman ideggɛen.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Ass-ni"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "iɛeddan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefsu-nneɣ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ideggɛen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:31.096113415Z",
+  "model": "glm-5.3"
+}

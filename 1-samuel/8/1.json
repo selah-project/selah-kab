@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yella-d lxir, mi yemmaqqar Cemuel, yessefka i yigerdan-is ⟨את⟩ inaddalen i Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d lxir"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yemmaqqar"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yessefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i yigerdan-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "i yigerdan-is"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "inaddalen"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:38:16.567373282Z",
+  "model": "glm-5.3"
+}

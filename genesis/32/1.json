@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Lavan yekker zik deg tfaz, yessun iji-s d lelli-s, yiberk-iten ⟨אתהם⟩. Yedda, yuɣal Lavan ɣer lḥan-is.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "yekker zik"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tfaz"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "yessun"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "iji-s"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "d lelli-s"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yiberk"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨אתהם⟩",
+      "marks": "iji-s d lelli-s"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ɣer lḥan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:25:16.500597552Z",
+  "model": "glm-5.3"
+}

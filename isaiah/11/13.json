@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad yeffeɣ ttirgagt n Efrayim, d iḥeqqaren n Yehuda ad ttwareẓen; Efrayim ur ittirgag ara ⟨את⟩ Yehuda, Yehuda ur it-iḥeqqar ara ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ttirgagt"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "n Efrayim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "d iḥeqqaren"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ad ttwareẓen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ittirgag ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "d Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "it-iḥeqqar ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:36.556400303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Imi ɣef kecc i ṭṭfeɣ takerkust; lḥerba tessudd udem-iw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef kecc"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "i ṭṭfeɣ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "takerkust"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "tessudd"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "lḥerba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:44.835447495Z",
+  "model": "glm-5.3"
+}

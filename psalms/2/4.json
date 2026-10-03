@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Win yezdeg deg igenwan ad iḥzef, Adonai ad ten-iddel.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Win yezdeg"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "ייחק",
+      "gloss": "ad iḥzef"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ad ten-iddel"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:53.108143947Z",
+  "model": "glm-5.3"
+}

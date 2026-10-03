@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ɣef kečči i ttunefkeɣ iman-iw si tebrek; si wuṛḥem n yemma-w — kečči i d El-iw.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ɣef kečči"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ttunefkeɣ iman-iw"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "si tebrek"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "si wuṛḥem"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "n yemma-w"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:31.436173322Z",
+  "model": "glm-5.3"
+}

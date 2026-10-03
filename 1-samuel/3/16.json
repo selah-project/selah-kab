@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Eli is-sen ⟨את⟩ Cemuɛel, yenna: Cemuɛel, a mmi. Yenna: ha-tt-lliɣ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "is-sen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemuɛel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuɛel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuɛel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ha-tt-lliɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:55.104627524Z",
+  "model": "glm-5.3"
+}

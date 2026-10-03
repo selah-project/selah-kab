@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yenna: Ur zmireɣ ad tuɣal ⟨את⟩ yid-k, neɣ ad ruɣ ⟨את⟩ yid-k; ur eččeɣ ara aɣrum, ur seffeɣ ara ⟨את⟩ aman yid-k deg umkan-agi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zmireɣ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ad tuɣal"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ad ruɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neɣ ur ... ara"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eččeɣ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "seffeɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:37.954297518Z",
+  "model": "glm-5.3"
+}

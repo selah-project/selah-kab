@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ur llin ara ad amnen igelliden n tmurt, ula d imezdaɣ n umaḍal akk, belli ad d-ikerḍ uneffeɛ d aεdaw deg tewwura n Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "llin ara ad amnen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ula d ... akk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "n umaḍal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ad d-ikerḍ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "uneffeɛ"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "d aεdaw"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "deg tewwura"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:52:23.724697414Z",
+  "model": "glm-5.3"
+}

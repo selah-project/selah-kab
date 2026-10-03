@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Yerna ad knun-as yigelliden akk; laɛrac akk ad t-xedmen.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "yerna ad knun-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "yigelliden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "laɛrac"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "ad t-xedmen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:11.087952195Z",
+  "model": "glm-5.3"
+}

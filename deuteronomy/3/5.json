@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akk timdinin-agi d tiḥermin: iɣrem d aɛlayan, tibura d useqqi; bla timdinin n tuddar, war iɣrem, aṭas aṭas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "d tiḥermin"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "iɣrem"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "aɛlayan"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "tibura"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "d useqqi"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bla"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "timdinin n tuddar"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "war iɣrem"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:38.481671176Z",
+  "model": "glm-5.3"
+}

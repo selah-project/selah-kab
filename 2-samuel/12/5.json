@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Teɣli tazzwit n David ɣef wemdan-nni s waṭas; yenna i Natan: Yahwe yettidir, axaṭer d aqcic n tmettant i d-igella wemdan-agi, win i d-yexedmen taɣawsa-agi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "teɣli tazzwit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tazzwit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ɣef wemdan-nni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yettidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "aqcic"
+    },
+    {
+      "surface": "מות",
+      "gloss": "n tmettant"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan-agi"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "win i d-yexedmen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "taɣawsa-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:22.295134563Z",
+  "model": "glm-5.3"
+}

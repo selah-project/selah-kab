@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 13:23",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ihi, ur twalim ara d tikkest, ur tqensem ara d akken-nni tneggura; ad d-ḥellesteɣ ⟨את⟩ agdud-iw seg ifassen-nwen, ad teẓrnen belli d nekk Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tikkest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "twalim ara"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ur tqensem ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקסמנה",
+      "gloss": "tqensem ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "d akken-nni"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "ad d-ḥellesteɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "מידכן",
+      "gloss": "seg ifassen-nwen"
+    },
+    {
+      "surface": "וידעתן",
+      "gloss": "ad teẓrnen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:45:50.167784766Z",
+  "model": "glm-5.3"
+}

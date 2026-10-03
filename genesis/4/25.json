@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Adam issen ⟨את⟩ tikelt-nniḍen ⟨את⟩ tameṭṭut-is, tewwi-d mmi-s, tebder ⟨את⟩ isem-is Set: acku — tenna — Elohim yessebded-iyi zerɛ nniḍen deg umkan n Hebel, imi Qayen inɣa-t.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "issen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameṭṭut-is"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tameṭṭut-is"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tewwi-d"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "tebder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "שת",
+      "gloss": "yessebded"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zerɛ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "inɣa-t"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:33.740607482Z",
+  "model": "glm-5.3"
+}

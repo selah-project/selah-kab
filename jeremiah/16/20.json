@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yessawal-d wemdan iεerbbayen i yiman-is? Widak ur llin ara d iεerbbayen!",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "yessawal-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iεerbbayen"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "widak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d iεerbbayen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:19:59.574401366Z",
+  "model": "glm-5.3"
+}

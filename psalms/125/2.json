@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 125,
+  "translation": "Yerucalayim — idurarren tt-ḥeṛṛen seg yal tama; Yahwe yettḥeṛṛa ɣef ugdud-is, seg tura alama d lebda.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurarren"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tt-ḥeṛṛen seg yal tama"
+    },
+    {
+      "surface": "לה",
+      "gloss": "t telli"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "yettḥeṛṛa"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ɣef ugdud-is"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "seg tura"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "alama d"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:39.614670962Z",
+  "model": "glm-5.3"
+}

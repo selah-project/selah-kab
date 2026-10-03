@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yahwe yees deg yimes n Yisrael, yefka ⟨את⟩ ukenenyi; ḥermen-ten akked ⟨את⟩ timdinin-nsen, semman isem n umkan-nni Ḥerma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "deg yimes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukenenyi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ukenenyi"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ḥermen-ten"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "timdinin-nsen"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "timdinin-nsen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "semman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "n umkan-nni"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Ḥerma"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:32.366040226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Akka i d-yenna Yahwe: ma tergmem ⟨את⟩ lɛahd-iw n wass akked ⟨את⟩ lɛahd-iw n yid, akken ur ilin ara ass d id deg lakud-nsen:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "tergmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw n wass"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "היום",
+      "gloss": "n wass"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw n yid"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "n yid"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "akken ur"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ilin"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "d id"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "deg lakud-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:12.632153770Z",
+  "model": "glm-5.3"
+}

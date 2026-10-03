@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Imeḍran-nneɣ deg Miṣrayim ur fehmen ara tiɛeǧǧabin-ik, ur smektayen ara ⟨את⟩ ataṣ n ḥesed-ik, nyan ɣef yilel, deg yilel n Suph.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Imeḍran-nneɣ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "fehmen ara"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tiɛeǧǧabin-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "smektayen ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ataṣ n ḥesed-ik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ataṣ n"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "nyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "בים",
+      "gloss": "deg yilel n"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:53.455849791Z",
+  "model": "glm-5.3"
+}

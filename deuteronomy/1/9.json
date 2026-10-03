@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Nniɣ deg wakud-nni ɣur-wen, neddeq: ur żżinɣ ara ad ssefraxeɣ ⟨את⟩ kunwi i yiman-iw weḥd-s.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ɣur-wen"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "neddeq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "żżinɣ ara"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "i yiman-iw weḥd-s"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ad ssefraxeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:26.628844291Z",
+  "model": "glm-5.3"
+}

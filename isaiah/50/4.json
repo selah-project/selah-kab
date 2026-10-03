@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Adonai Yahwe ifka-yi iles n yinelmaden, ad ẓreɣ ad d-rreɣ ⟨את⟩ win yużen s wawal; deg utlay, deg utlay, ad d-yessiḥen iḍec-iw ad isel, am yinelmaden.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ifka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "iles"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "n yinelmaden"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad ẓreɣ"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "ad d-rreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win yużen"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "win yużen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ad d-yessiḥen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg utlay"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg utlay"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ad d-yessiḥen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "iḍec-iw"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ad isel"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "am yinelmaden"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:38.071851610Z",
+  "model": "glm-5.3"
+}

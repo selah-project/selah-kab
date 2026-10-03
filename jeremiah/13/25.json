@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Wagi d aqeṛṛan-ik, d amenṭa n teɣzi-ik sɣur-i, i d-yenna Yahwe, acku tettuḍ ⟨את⟩-i d tettnekkalḍ s lketru.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "aqeṛṛan-ik"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "amenṭa"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "n teɣzi-ik"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "sɣur ⟨את⟩-i",
+      "marks": "i (Yahwe)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "acku"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "tettuḍ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩-i",
+      "marks": "i (Yahwe)"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "d tettnekkalḍ"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "s lketru"
+    }
+  ],
+  "timestamp": "2026-10-03T00:19:04.771358853Z",
+  "model": "glm-5.3"
+}

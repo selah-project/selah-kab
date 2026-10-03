@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Akka i d-yenna Yahwe, win t-ixelqen ⟨את⟩, Yahwe win t-iceffen akken ad t-iheggu, Yahwe d isem-is:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win t-ixelqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "win t-iceffen"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "win t-ixelqen (t"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "akken ad t-iheggu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:31:06.053241247Z",
+  "model": "glm-5.3"
+}

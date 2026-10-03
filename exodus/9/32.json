@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Temẓin ed kkuzmnet ur ttwanḍen ara, axaṭer nitenti ttwaḥerrent yakan (ur kkrent ara).",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "temẓin"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ed kkuzmnet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ttwanḍen ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ttwaḥerrent yakan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nitenti"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:21.612148033Z",
+  "model": "glm-5.3"
+}

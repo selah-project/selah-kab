@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Sedd, taẓayt-iw; sedd, a nevel d ukinnur — ad sseddeɣ tafawt.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Sedd"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "taẓayt-iw"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "sedd"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "a nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "d ukinnur"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ad sseddeɣ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tafawt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:38.637227385Z",
+  "model": "glm-5.3"
+}

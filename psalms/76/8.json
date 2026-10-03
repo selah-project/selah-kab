@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Kecc, kecc i ilan tugdi; anwa i izemren ad yeqqim ɣer zdat-ik, segmi tkecmeḍ deg tirewt-ik?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "i ilan tugdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "i izemren ad yeqqim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ɣer zdat-ik"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "segmi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tirewt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:07.627405654Z",
+  "model": "glm-5.3"
+}

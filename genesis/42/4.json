@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ma d ⟨את⟩ Binyamin, gma n Yosef, Yaɛqov ur t-izeddix ara d watmaten-is, axaṭer yenna: iwakken ur t-id-yawi ara waxṣar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "gma"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "n Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "t-izeddix"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ d"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "atmaten-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "פן",
+      "gloss": "iwakken ur"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "t-id-yawi ara"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "axṣar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:58.043399397Z",
+  "model": "glm-5.3"
+}

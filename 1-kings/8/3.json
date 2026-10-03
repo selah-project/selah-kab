@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Kkan-d akk igujilen n Yisrael, iḥeṭṭen ikohanim ⟨את⟩ taḥrant.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kkan-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "igujilen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "iḥeṭṭen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥrant"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "taḥrant"
+    }
+  ],
+  "timestamp": "2026-10-02T23:15:54.517255623Z",
+  "model": "glm-5.3"
+}

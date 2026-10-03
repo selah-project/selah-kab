@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "S teɣert: acu i d-ixedemen i tegellidt Vacti, imi ur texdim ara ⟨את⟩ lamer n ugellid Aḥacweroc s ufus n yiɛeddamen?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "s teɣert"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "i d-ixedemen"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "i tegellidt"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vacti"
+    },
+    {
+      "surface": "על",
+      "gloss": "imi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "texdim ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamer"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "lamer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Aḥacweroc"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "n yiɛeddamen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:33.194562229Z",
+  "model": "glm-5.3"
+}

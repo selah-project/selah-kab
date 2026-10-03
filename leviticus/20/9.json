@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Axaṭer yal argaz, argaz ara yeḥqren ⟨את⟩ baba-s d ⟨את⟩ yemma-s, lmot ad yemmut; baba-s akked yemma-s yeḥqer-it; idammen-is fell-as.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "yeḥqer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yemma-s"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmot"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "akked yemma-s"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "yeḥqer"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "idammen-is"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:04.030168328Z",
+  "model": "glm-5.3"
+}

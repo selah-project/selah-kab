@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad tserreḍ ⟨את⟩ meṣbaḥ n lqṛṛan nnig tubbert n Mickan, axxam n umlil.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ad tserreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṣbaḥ n lqṛṛan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meṣbaḥ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "n lqṛṛan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "nnig"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tubbert"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "n Mickan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlil"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:13.239610771Z",
+  "model": "glm-5.3"
+}

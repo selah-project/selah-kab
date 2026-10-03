@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mačči am Karkemic i telli Kalno? Mačči am Arfad i telli Ḥamat? Mačči am Dimecq i telli Comeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "am Karkemic"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "am Arfad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ḥamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "am Dimecq"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comeron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:42.983709575Z",
+  "model": "glm-5.3"
+}

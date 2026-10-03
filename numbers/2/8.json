@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "D leɛeskṛa-s, akk wid yettwafellḍen deg-s: sa d semmus n tlufa, d ukraḍ n timḍin.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "D leɛeskṛa-s"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "akk wid yettwafellḍen deg-s"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "d semmus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n tlufa"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "d ukraḍ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n timḍin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:54.218206197Z",
+  "model": "glm-5.3"
+}

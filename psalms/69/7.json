@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Wid i k-ijemmilen, Adonai Yahwe Ṣebaot, ur ad ngirun s yisem-iw; wid i k-nnaden, Elohim n Yisrael, ur ad ngirun s yisem-iw.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ad ngirun"
+    },
+    {
+      "surface": "בי",
+      "gloss": "s yisem-iw"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wid i k-ijemmilen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "ad ngirun"
+    },
+    {
+      "surface": "בי",
+      "gloss": "s yisem-iw"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wid i k-nnaden"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:44.835331200Z",
+  "model": "glm-5.3"
+}

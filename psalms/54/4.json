@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 54,
+  "translation": "Elohim, sel i tẓallit-iw; semsɛeḍ i wawalen n yimi-w.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sel"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "i tẓallit-iw"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "semsɛeḍ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "i wawalen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n yimi-w"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:49.687781499Z",
+  "model": "glm-5.3"
+}

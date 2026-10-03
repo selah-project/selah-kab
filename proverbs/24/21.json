@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "A mmi, ad tgaggeḍ ⟨את⟩ Yahwe d ⟨את⟩ ugellid; akked wid yettbeddilen, ur ttbirrid ara.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ad tgaggeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "d ⟨את⟩ ugellid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "wid yettbeddilen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ara ttbirrid"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:02.419504032Z",
+  "model": "glm-5.3"
+}

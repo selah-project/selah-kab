@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Yal win imaṛawen deg ul deg wenqit, ad d-asen ad xedmen ⟨את⟩ akk ayen i d-iḥekm Yahwe:",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Yal"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "imaṛawen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "deg ul"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "deg wenqit"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ad d-asen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-iḥekm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:52.581844432Z",
+  "model": "glm-5.3"
+}

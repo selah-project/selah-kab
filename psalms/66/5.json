@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Ddut, wali-t leqdic n Elohim, d awezɣi deg wayen ixdem ɣef warraw n wemdan.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ddut"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "wali-t"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "leqdic"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "d awezɣi"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "deg wayen ixdem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n warraw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:50.740751958Z",
+  "model": "glm-5.3"
+}

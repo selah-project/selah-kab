@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ul n Para yuɣal d uẓayan, ur iznez ara ⟨את⟩ warraw n Yisrael, akken i d-yenna Yahwe s ufus n Moce.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yuɣal d uẓayan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Para"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "iznez ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warraw n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "n Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:50.062911648Z",
+  "model": "glm-5.3"
+}

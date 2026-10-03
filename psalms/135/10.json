@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Ineḥ yal tikbbaniyin, inɣ igelliden iẓuranen.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Ineḥ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tikbbaniyin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yal...tugt"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "inɣ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "iẓuranen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:31.866448072Z",
+  "model": "glm-5.3"
+}

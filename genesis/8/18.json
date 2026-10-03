@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yeffeɣ Nuaḥ, d iwarraw-is, d tislit-is, d tislitin n iwarraw-is, ⟨את⟩-is.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuaḥ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "d iwarraw-is"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "d tislit-is"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "d tislitin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n iwarraw-is"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:03.764955671Z",
+  "model": "glm-5.3"
+}

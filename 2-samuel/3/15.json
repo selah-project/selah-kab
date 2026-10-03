@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Is-Bocet yuzen ad yawi-tt ⟨את⟩ tugdi-nnes seg zdat n wemdan — seg zdat n Paltiel, mmi-s n Layic.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Is-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bocet"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ad yawi-tt"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg zdat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg zdat"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Layic"
+    }
+  ],
+  "timestamp": "2026-10-02T22:55:17.882338608Z",
+  "model": "glm-5.3"
+}

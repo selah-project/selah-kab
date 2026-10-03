@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Tizeddwit-ik tezga deg tlemmast n tkerkas; s tkerkas-agi ggumen ad ssinen ⟨את⟩ iyi — i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "tizeddwit-ik"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg tlemmast n"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tkerkas"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "s tkerkas-agi"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ggumen"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ad ssinen"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ iyi",
+      "marks": "iyi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:24.875781401Z",
+  "model": "glm-5.3"
+}

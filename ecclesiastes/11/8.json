@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Axer ma yidir wemdan aṭas n iseggwasen, ad yifreḥ deg-sen akk; ad icfu ɣef wussan n ttama, axer aṭas ad ilin; akk ay d-yettawin d hebel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iseggwasen"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yidir"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "deg-sen akk"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ad yifreḥ"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ad icfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wussan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ussan"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "n ttama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axer"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ay d-yettawin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-10-03T04:40:19.301320536Z",
+  "model": "glm-5.3"
+}

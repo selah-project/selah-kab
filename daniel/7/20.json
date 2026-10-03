@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 7:20",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "D ɣef yilqrun, mraw, i yellan deg yixef-is, d ɣef win-nniḍen i d-yeffɣen, ɣer zdat-is i yekkren tlata; d lqern-nni yesɛan tiḍnayin, d imi yettmeslayen isefra imeqranen, win udm-is meqqer ɣef yimdukkal-is.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "D ɣef"
+    },
+    {
+      "surface": "קרניא",
+      "gloss": "yilqrun"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "די",
+      "gloss": "i"
+    },
+    {
+      "surface": "בראשה",
+      "gloss": "deg yixef-is"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "d ɣef win-nniḍen"
+    },
+    {
+      "surface": "די",
+      "gloss": "i"
+    },
+    {
+      "surface": "סלקת",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "i yekkren"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "קדמיה",
+      "gloss": "ɣer zdat-is"
+    },
+    {
+      "surface": "תלת",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "d lqern-nni"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "winna"
+    },
+    {
+      "surface": "ועינין",
+      "gloss": "yesɛan tiḍnayin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i-s"
+    },
+    {
+      "surface": "ופם",
+      "gloss": "d imi"
+    },
+    {
+      "surface": "ממלל",
+      "gloss": "yettmeslayen"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "isefra imeqranen"
+    },
+    {
+      "surface": "וחזוה",
+      "gloss": "win udm-is"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meqqer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "חברתה",
+      "gloss": "yimdukkal-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:08:56.856889743Z",
+  "model": "glm-5.3"
+}

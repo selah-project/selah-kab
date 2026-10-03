@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "Ad telled telwit deg yirgazen-ik n lxir, tizɣi deg txamat-ik.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ad telle"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "telwit"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "deg yirgazen-ik"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "tizɣi"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "deg txamat-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.506359819Z",
+  "model": "glm-5.3"
+}

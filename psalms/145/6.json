@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Daɣen tazmert n wayen iḍahen-ik i d-tettwaggad ad tt-inin ⟨wid⟩, d tameqrant-ik ad tt-ḥeqqeqeɣ.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "Daɣen tazmert"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "n wayen iṣahen-ik i d-tettwaggad"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ad tt-inin ⟨wid⟩"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "d tameqrant-ik"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ad tt-ḥeqqeqeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.574417153Z",
+  "model": "glm-5.3"
+}

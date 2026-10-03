@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Akkagi akk i ṭṭfeɣ deg ul-iw, iwakken ad snekkreɣ ⟨את⟩ akkagi: iqedcen, imussnawen, d yixeddaɛen-nsen, deg yif-is n Elohim llan; sfeɛ taḥbult, sfeɛ tkerra — amdan ur issin ara; akk ⟨yella⟩ zdat-nsen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akkagi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ṭṭfeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "iwakken ad snekkreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akkagi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "d win"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "iqedcen n ṣedeq"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "d yimussnawen"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "d yixeddaɛen-nsen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg yif-is"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sfeɛ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "taḥbult"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sfeɛ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "tkerra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "issin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "zdat-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:41:27.706795818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ur neslem ara, ur ẓlin iγilen-is ara, cceɣlen deg yiqer-nsen i wakken ur sslen ara, d ur d-ṭṭfen ara taḥkemt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "neslem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ẓlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iγilen-is"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "iγilen-is"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "cceɣlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qer-nsen"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "qer-nsen"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "i wakken ur"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "sslen"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "d ur"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "taḥkemt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:24:59.212615973Z",
+  "model": "glm-5.3"
+}

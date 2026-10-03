@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Adeffir n waya, ad tett aggen-ted ⟨את⟩ tvaffa n tveffut-nwen, d tvaffa n tfevdut-nwen ad t-tveffam.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "amezwaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvaffa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "tveffut-nwen"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "d tvaffa"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "tfevdut-nwen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ad tveffam"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:53.621767825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Yukcem ɣer baba-s, yenna: A baba! Yenna: Lli-d; anwa i telliḍ, a mmi?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Yukcem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "A baba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lli-d"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:16.425167171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "A Yahwe, i ttxil-k, ṣeggem-aɣ; a Yahwe, i ttxil-k, rbeḥ-aɣ!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "a, i ttxil-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ṣeggem-aɣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i ttxil-k"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "a, i ttxil-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "rbeḥ-aɣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i ttxil-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:03.310593992Z",
+  "model": "glm-5.3"
+}

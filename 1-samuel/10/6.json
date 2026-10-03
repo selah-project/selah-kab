@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad tewṣeḥ fell-ak ruaḥ Yahwe, ad tmeslayeḍ d inavien yid-sen, ad tettwabdel d argaz nniḍen.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "ad tewṣeḥ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fell-ak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "ad tmeslayeḍ d navi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "yid-sen"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "ad tettwabdel"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "d argaz"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:48.291913885Z",
+  "model": "glm-5.3"
+}

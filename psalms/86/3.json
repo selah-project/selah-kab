@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Ṛḥem-i, a Adonai, axaṭer ɣef kečč i la kkireɣ yal ass.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ṛḥem-i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣef kečč"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "la kkireɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:00.489645572Z",
+  "model": "glm-5.3"
+}

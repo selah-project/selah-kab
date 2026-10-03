@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ma yella yal akli n wemdan, i yettwazen s wurez, ṣnegm-it, imir-nni itetted deg-s.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ma yella yal"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "akli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "i yettwazen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "s wurez"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ṣnegm-it"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "akli"
+    },
+    {
+      "surface": "אז",
+      "gloss": "imir-nni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ittett"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:18.577392321Z",
+  "model": "glm-5.3"
+}

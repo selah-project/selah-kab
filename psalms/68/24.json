@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Iwakken aḍar-ik ad yemuḥ deg-idam; iles n yiqen-ik, seg yiɛdawen — seg widak.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Iwakken"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "ad yemuḥ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "aḍar-ik"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "deg-idam"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "iles"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "n yiqen-ik"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "seg yiɛdawen"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "seg widak"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:52.376140631Z",
+  "model": "glm-5.3"
+}

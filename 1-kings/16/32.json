@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yebna lɛesqi i Baɛal deg wexxam n Baɛal, win yebna deg Cemron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yebna-yedder"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "lɛesqi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "i Baɛal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "n Baɛal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "deg Cemron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:21:52.578613794Z",
+  "model": "glm-5.3"
+}

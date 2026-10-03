@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ma ceffeɣ ara i win yettwaɣen deg wass? Tanefst-iw tewgem i umella.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ara"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "ceffeɣ"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "i win yettwaɣen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "tewgem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tanefst-iw"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "i umella"
+    }
+  ],
+  "timestamp": "2026-10-03T04:39:50.108045570Z",
+  "model": "glm-5.3"
+}

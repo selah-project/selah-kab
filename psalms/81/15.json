@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Iḥacen kan ad ddukkel lɛeddayen-nsen, ad rriɣ ⟨afus-iw⟩ ɣef wid i ten-iḥeṛṛen.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "iḥacen kan"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "lɛeddayen-nsen"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ad ddukkel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "wid i ten-iḥeṛṛen"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ad rriɣ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:40.495902432Z",
+  "model": "glm-5.3"
+}

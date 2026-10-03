@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Sellek-iyi seg wid ixedmen tukksa, seg yimdanen n idammen sellek-iyi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Sellek-iyi"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "seg wid ixedmen"
+    },
+    {
+      "surface": "און",
+      "gloss": "tukksa"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "seg yimdanen n"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sellek-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:34.504917430Z",
+  "model": "glm-5.3"
+}

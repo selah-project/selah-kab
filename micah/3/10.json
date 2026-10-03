@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad bnun ⟨את⟩ Ṣiyyun s idemmnen, Yerucalayim s lbaṭel.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Ad bnun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyyun"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "s idemmnen"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "s lbaṭel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:30.178893151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Yahwe ad yefk-iten γer zdat-ikwen, ttaket ad ttxedmim asen akk i d-yeḥkem lamer i ⟨את⟩ wen-ḥekkemeγ.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ad yefk-iten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "γer zdat-ikwen"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad ttxedmim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "lamer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "i wen-ḥekkemeγ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:09:13.826766944Z",
+  "model": "glm-5.3"
+}

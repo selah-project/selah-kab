@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Deg kečč, a Yahwe, εtamdeɣ tura; ur ad tlleɣ i lebda.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "deg kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "εtamdeɣ tura"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ad tlleɣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:32.895877853Z",
+  "model": "glm-5.3"
+}

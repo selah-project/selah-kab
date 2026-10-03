@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Qeblen ikohanen ad ur d-ṭṭfen ara lefḍ sɣur ⟨את⟩ ugdud, daɣen ad ur ṣeggmen ara ⟨את⟩ tiqerẓin n wexxam.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "Qeblen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanen"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ad ur…ara"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lefḍ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sɣur ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "daɣen ad ur…ara"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ṣeggmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiqerẓin"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "tiqerẓin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n wexxam"
+    }
+  ],
+  "timestamp": "2026-10-02T23:34:43.121840121Z",
+  "model": "glm-5.3"
+}

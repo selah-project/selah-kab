@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ma tettcem, ma tettsem, dayella d kedčči kan i tettcem, d kedčči kan i tettsem?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tettcem"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "tettsem"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "dayella"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kedčči kan"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "i tettcem"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kedčči kan"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "i tettsem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:33:30.468157141Z",
+  "model": "glm-5.3"
+}

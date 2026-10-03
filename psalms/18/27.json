@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "D win yettwazdeg, ad tettbanḍeḍ d uzeggew; ma d win yuẓen, ad t-tesnust s teẓẓi.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "d win"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "yettwazdeg"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ad tettbanḍeḍ d uzeggew"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ma d win"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "yuẓen"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ad t-tesnust s teẓẓi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:54.080588371Z",
+  "model": "glm-5.3"
+}

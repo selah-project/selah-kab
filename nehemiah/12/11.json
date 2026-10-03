@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yoyadaɛ yessiwlid ⟨את⟩ Yonatan, Yonatan yessiwlid ⟨את⟩ Yaduɛ.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Yoyadaɛ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessiwlid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessiwlid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaduɛ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaduɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:21:51.819556541Z",
+  "model": "glm-5.3"
+}

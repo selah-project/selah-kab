@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Nnan-d: ad nessawel i tafruxt, ad nessutur ⟨את⟩ imawen-is.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Nnan-d"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ad nessawel"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "i tafruxt"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "ad nessutur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imawen-is"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "imawen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:19:41.662760166Z",
+  "model": "glm-5.3"
+}

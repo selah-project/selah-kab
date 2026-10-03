@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Tikli-k, tuffɣa-k, tukcimt-k, akk tt-ssneɣ; ⟨את⟩ tirgazt-ik deg-i.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Tikli-k"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "tuffɣa-k"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "tukcimt-k"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "akk tt-ssneɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tirgazt-ik"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tirgazt-ik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "deg-i"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:28.929059516Z",
+  "model": "glm-5.3"
+}

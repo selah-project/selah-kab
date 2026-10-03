@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ur tqenneɛ ara i yergazen n dir, ur teḥmileḍ ara ad tiliḍ ⟨את⟩ gar-asen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "tqenneɛ"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "i yergazen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "teḥmileḍ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "gar-asen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:05.889059738Z",
+  "model": "glm-5.3"
+}

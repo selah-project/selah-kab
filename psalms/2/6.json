@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ma d nekk, ssaweḍeɣ agellid-iw ɣef Ṣihyun, adrar-iw iqedcen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma d nekk"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ssaweḍeɣ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agellid-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣihyun"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:37.220418021Z",
+  "model": "glm-5.3"
+}

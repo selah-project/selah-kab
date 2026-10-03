@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad yeḥleq, maca ⟨את⟩ anetek ur t-yeḥleq ara; akohen ad yeḥbes ⟨את⟩ anetek sebaɛ n wussan, tikkelt-nniḍen.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ad yeḥleq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anetek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "anetek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "yeḥleq"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ad yeḥbes"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anetek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "anetek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebaɛ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "tikkelt-nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:01.668158104Z",
+  "model": "glm-5.3"
+}

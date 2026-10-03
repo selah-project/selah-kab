@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Kkan-d yiceggɛen, ṭṭfen-ten-id; Moce yukker, isellek-itent-id, issewqel ⟨את⟩ lmal nnsen.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kkan-d"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "yiceggɛen"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ṭṭfen-ten-id"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yukker"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "isellek-itent-id"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "issewqel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmal nnsen"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "lmal nnsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:43.700619907Z",
+  "model": "glm-5.3"
+}

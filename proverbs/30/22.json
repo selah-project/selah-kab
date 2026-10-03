@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "s unmaḥlu(tl) mi ara yili d agellid, s abeḥri(tl) mi ara yecbeɛ uɣrum —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "s unmaḥlu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "anmaḥlu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "yili d agellid"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "s abeḥri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "yecbeɛ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "uɣrum"
+    }
+  ],
+  "timestamp": "2026-10-03T04:38:13.674092579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 125,
+  "translation": "Ma d wid i d-yettuẓen ɣer tiberkanin-nsen, Yahwe ad ten-id-yerr d ⟨את⟩ yimceggɛen n tḥeqrit. Tifrat ɣef Yisrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Ma d wid i d-yettuẓen"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "tiberkanin-nsen"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "ad ten-id-yerr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimceggɛen n tḥeqrit"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "yimceggɛen"
+    },
+    {
+      "surface": "האון",
+      "gloss": "n tḥeqrit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Tifrat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:23.876129234Z",
+  "model": "glm-5.3"
+}

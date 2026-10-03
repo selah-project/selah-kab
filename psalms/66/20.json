@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Yettwamelleḥ Elohim, i ur yekkes ara tẓallit-iw, yerna ḥesed-is, ⟨את⟩-s seg-i.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yettwamelleḥ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tẓallit-iw"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "yerna ḥesed-is"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ seg-i",
+      "marks": "yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:33.889696911Z",
+  "model": "glm-5.3"
+}

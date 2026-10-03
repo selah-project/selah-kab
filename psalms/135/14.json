@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Axṭer Yahwe ad iḥkem agdud-is, ad inuḥ ɣef yimceggen-is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axṭer"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yimceggen-is"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ad inuḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:33.574266863Z",
+  "model": "glm-5.3"
+}

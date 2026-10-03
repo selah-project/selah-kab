@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Imeḍranen ṭṭfen-d taḍsa-iyi war sebba, ma d wul-iw tettag lɛezz i wawalen-ik.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "imeḍranen"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ṭṭfen-d taḍsa-iyi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "war sebba"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ma d wawalen-ik"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tettag lɛezz"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wul-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:33.587375745Z",
+  "model": "glm-5.3"
+}

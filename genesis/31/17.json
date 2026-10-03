@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Yaɛqov irekmed, isawel ⟨את⟩ arraw-is yakk d ⟨את⟩ tlawin-is ɣef yilemman.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "irekmed"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "isawel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "arraw-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "yakk d ⟨את⟩",
+      "marks": "tlawin-is"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "tlawin-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "yilemman"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:40.987895689Z",
+  "model": "glm-5.3"
+}

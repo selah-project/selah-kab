@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Walan, agellid ad yeḥkem s ṣedeq, d yimḍebren s ccreɛ ad ḥekmen.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Walan"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "s ṣedeq"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ad yeḥkem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "d yimḍebren"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "s ccreɛ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ad ḥekmen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:22.253306932Z",
+  "model": "glm-5.3"
+}

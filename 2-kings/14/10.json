@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Rnu, ttfeḍ ⟨את⟩ Edom, wul-ik i k-isulin. Semɣret, qqim deg wexxam-ik. Acuɣer ad tezgleḍ abrid n dir, ad teggliḍ kecc, Yehuda yid-ik?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Rnu"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ttfeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "i k-isulin"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "Semɣret"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "qqim"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "deg wexxam-ik"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Acuɣer"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ad tezgleḍ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "abrid n dir"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ad teggliḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:09.076909071Z",
+  "model": "glm-5.3"
+}

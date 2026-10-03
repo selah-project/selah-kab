@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Axaṭer anwa deg igenni i yugaren Yahwe? Anwa i yettemcabin i Yahwe ger warrac n yimuksnawen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "deg igenni"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "i yugaren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "yettemcabin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ger warrac"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "n yimuksnawen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:26.485330070Z",
+  "model": "glm-5.3"
+}

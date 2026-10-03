@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yuf Balaq, mmi-s n Ṣippur, ⟨את⟩ akk ayen i xedmen Yisrael i Limuriyen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Yuf"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Ṣippur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i xedmen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "i Limuriyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:37:31.641885682Z",
+  "model": "glm-5.3"
+}

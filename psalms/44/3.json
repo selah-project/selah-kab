@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Kečč, s ufus-ik tewḥeḍ iɣlanen, tessefraḍ-iten; tesseṛɣeḍ iɣlanen, tuzen-iten.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "s ufus-ik"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "tewḥeḍ"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "tessefraḍ-iten"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "tesseṛɣeḍ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "וותשלחם",
+      "gloss": "tuzen-iten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:18.086306460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tuɣal ɣer yexxatem-is; tenna-yas: Kečči-t, yelli-w? Tenna-yas ⟨את⟩ akk ayen i xedmen wemdan i yexxatem-is.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "tuɣal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "yexxatem-is"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna-yas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "yelli-w"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "tenna-yas"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i xedmen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:17.960007219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Mi d-ezgan ɣuri iεeḍḍanen iwakken ad eeṭṭen ⟨את⟩ iṣan-iw — inemrawen-iw d iεdawen-iw — kecmen-d kan, ṭṭfen deg wakal.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "mi d-ezgan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣuri"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "iεeḍḍanen"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "iwakken ad eeṭṭen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣan-iw"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "iṣan-iw"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "inemrawen-iw"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "d iεdawen-iw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "—"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kecmen-d kan"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "deg wakal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:44.413737711Z",
+  "model": "glm-5.3"
+}

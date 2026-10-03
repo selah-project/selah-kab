@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yenna-dasen: akka ad yili Yahwe gid-kwen, akken ad ruzeg ⟨את⟩ kunwi akked ⟨את⟩ tarwa-kwen timeẓyanin; waleḍ, axaṭer ⟨tella⟩ tadirant zdat n udmawen-kwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-dasen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "gid-kwen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ad ruzeg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tarwa-kwen timeẓyanin"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "tarwa-kwen timeẓyanin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "waleḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tadirant"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "udmawen-kwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:38.532028312Z",
+  "model": "glm-5.3"
+}

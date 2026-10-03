@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Ar mi kecmeɣ ɣer iqedcen n El, fehmeɣ taggara-nnsen.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mi kecmeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "fehmeɣ"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "taggara-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:24.205005182Z",
+  "model": "glm-5.3"
+}

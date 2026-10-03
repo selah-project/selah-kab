@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yewwet-itt-id ɣer ⟨את⟩ uneckum n teɣcert; walaɣ, d acu kan: yiwet n tewt deg uɣrab.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yewwet-itt-id ɣer"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "yi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "uneckum"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n teɣcert"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "walaɣ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d acu kan"
+    },
+    {
+      "surface": "חר",
+      "gloss": "tewt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "deg uɣrab"
+    }
+  ],
+  "timestamp": "2026-10-03T00:44:12.384467946Z",
+  "model": "glm-5.3"
+}

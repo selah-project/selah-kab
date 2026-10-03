@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Maca ma yella unnex, ad tefkeḍ tamettant ⟨deg umkan⟩ n tamettant.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Maca ma"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "unnex"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ad tefkeḍ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tamettant"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨deg umkan⟩ n"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tamettant"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:38.140041794Z",
+  "model": "glm-5.3"
+}

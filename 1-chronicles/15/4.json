@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "David ijmeɛ ⟨את⟩ warrac n Aharon, d ⟨את⟩ ImLevyan.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ijmeɛ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warrac n Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ImLevyan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ImLevyan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:09.701909582Z",
+  "model": "glm-5.3"
+}

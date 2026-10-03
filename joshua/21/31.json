@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ḥelqat akked ⟨את⟩ akal-ns, ⟨את⟩ Reḥov akked ⟨את⟩ akal-ns; kuẓ n tiɣremtin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥelqat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Ḥelqat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akal-ns"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akal-ns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Reḥov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Reḥov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akal-ns"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akal-ns"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tiɣremtin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kuẓ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:14.954937922Z",
+  "model": "glm-5.3"
+}

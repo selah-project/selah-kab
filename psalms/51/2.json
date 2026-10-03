@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Mi i d-yusa ɣer-s Natan anavi, mi yuneg ɣer Bat-Ceva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "mi i d-yusa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "anavi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yuneg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ceva"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:35.750286200Z",
+  "model": "glm-5.3"
+}

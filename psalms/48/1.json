@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Acuḥal, mizmor i waraw n Qoraḥ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Acuḥal"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i waraw n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:32.993478077Z",
+  "model": "glm-5.3"
+}

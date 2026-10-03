@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Win yetteddun s tezdeggin, win ixedhmen ṣedeq, win yettmeslayen tidekt deg wul-is.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "win yetteddun"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "s tezdeggin"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "win ixedhmen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "win yettmeslayen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tidekt"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "deg wul-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:18.222682138Z",
+  "model": "glm-5.3"
+}

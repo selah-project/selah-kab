@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ad ldiɣ s umesbay yiwen-iw, ad d-ssefɣegh tucḍfin seg zik.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ad ldiɣ"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "s umesbay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "yiwen-iw"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ad d-ssefɣegh"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "tucḍfin"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "zik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:27.293762053Z",
+  "model": "glm-5.3"
+}

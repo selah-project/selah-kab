@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "S wallal n mraw n yiṭen, s unebel; s uhigayon, s ukinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "s"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "wallal n mraw n yiṭen"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "s"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "unebel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "s"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "uhigayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "s ukinnor"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:07.281623912Z",
+  "model": "glm-5.3"
+}

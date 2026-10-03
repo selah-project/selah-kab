@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yewhel ⟨את⟩ iji i d-xelqen, iɛiṭṭef-it deg times, iyerreẓ ɣer ttuɣalin ma d taglayt, izuzzr-it ɣef udmaw n waman, iswa ⟨את⟩ warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewhel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iji"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "iji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "d-xelqen"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "iɛiṭṭef-it"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg times"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "iyerreẓ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma d"
+    },
+    {
+      "surface": "דק",
+      "gloss": "taglayt"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "izuzzr-it"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmaw n"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "iswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warraw n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:19.886013741Z",
+  "model": "glm-5.3"
+}

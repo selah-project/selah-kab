@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Moce yefres ⟨את⟩ meṛṛa taxxamt n yiderfan n Yisrael, yenna-yasen: Wigi d wawalen i yeḥkem Yahwe ad ttwarem ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "yefres"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa taxxamt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "taxxamt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yiderfan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yasen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yasen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wigi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ad ttwarem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:57.035131603Z",
+  "model": "glm-5.3"
+}

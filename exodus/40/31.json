@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ṣṣen seg-s Moce, Aharon d warraw-is ⟨את⟩ ifassen-nsen akked ⟨את⟩ iḍarren-nsen.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Ṣṣen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "d warraw-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ifassen-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "iḍarren-nsen"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "iḍarren-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:07.812621677Z",
+  "model": "glm-5.3"
+}

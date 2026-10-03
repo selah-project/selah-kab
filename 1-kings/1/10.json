@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Maca ⟨את⟩ Natan, navi, d Benyahu, d ⟨את⟩ yiguebrayen, d ⟨את⟩ Celomo gma-s, Adoniyahu ur ten-iɛejjej ara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "d Benyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yiguebrayen"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "yiguebrayen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Celomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "iɛejjej"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:15.178250948Z",
+  "model": "glm-5.3"
+}

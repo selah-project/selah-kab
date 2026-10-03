@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Taɣessa-s s lɛezz ad tt-berkeɣ; igerfan-is ad ten-sseɣmen s uɣrum.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Taɣessa-s"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "s lɛezz"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ad tt-berkeɣ"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "igerfan-is"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ad ten-sseɣmen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "s uɣrum"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:17.920492285Z",
+  "model": "glm-5.3"
+}

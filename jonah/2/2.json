@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yuna iṣalli-d ɣer Yahwe, Elohim-is, seg umɣi n waggur.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "iṣalli-d"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-is"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "seg umɣi"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "n waggur"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:38.954648250Z",
+  "model": "glm-5.3"
+}

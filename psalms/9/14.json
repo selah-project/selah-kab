@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ɛetf-aɣ-d, a Yahwe; wali aḥawji-iw seg wid-iw ikerhen; d Kečč i d-yessulin-iyi seg tebbura n tmettant.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Ɛetf-aɣ-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "aḥawji-iw"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "seg wid-iw ikerhen"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "i d-yessulin-iyi"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "seg tebbura"
+    },
+    {
+      "surface": "מות",
+      "gloss": "n tmettant"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:32.561290599Z",
+  "model": "glm-5.3"
+}

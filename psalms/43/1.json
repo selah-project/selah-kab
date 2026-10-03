@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ḥekkem-iyi, a Elohim, ddu-i-d deg lɛahd-iw ɣef ugdud ur nelli d iqedcen, ḥelli-yi seg umdan n uzref akked tewttra.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ḥekkem-iyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ddu-i-d"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "deg lɛahd-iw"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ɣef ugdud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "seg umdan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "n uzref"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "akked tewttra"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ḥelli-yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:01.081788485Z",
+  "model": "glm-5.3"
+}

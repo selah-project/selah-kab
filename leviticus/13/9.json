@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ma tella tewtirt n ṣaraɛat deg umdan, ad d-yettwager ɣer uḥekum n XKohen.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "tewtirt"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ṣaraɛat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "deg umdan"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ad d-yettwager"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "uḥekum n XKohen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:08:39.967625837Z",
+  "model": "glm-5.3"
+}

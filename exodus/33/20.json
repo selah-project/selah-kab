@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yenna: Ur tezmiriḍ ara ad twaliḍ ⟨את⟩ udmu-iw, axaṭer amdan ur izmir ara ad iẓer Yiḍ ad yidir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tezmiriḍ ara"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ad twaliḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmu-iw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmu-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ad iẓer Yiḍ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ad yidir"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:09.757003899Z",
+  "model": "glm-5.3"
+}

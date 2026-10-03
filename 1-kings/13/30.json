@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yessers ⟨את⟩ tkerkust-is deg uqbur-is, ttẓekkan fell-as: Ihi, a gma i!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tkerkust-is"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "tkerkust-is"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "deg uqbur-is"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ttẓekkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ihi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "a gma i"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:38.833158536Z",
+  "model": "glm-5.3"
+}

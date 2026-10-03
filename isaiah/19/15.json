@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur yelli ara wemahil i Miṣrayim, ara t-xedmen aqarruy neɣ tiɣert, acekkul n tpalmat neɣ agunid.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yelli ara"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "i Miṣrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "amahil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "aqarruy"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "neɣ tiɣert"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "acekkul n tpalmat"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "neɣ agunid"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:31.378941244Z",
+  "model": "glm-5.3"
+}

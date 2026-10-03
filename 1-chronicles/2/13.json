@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ickc iyella Icay ⟨את⟩ mackud-is amezwaru ⟨את⟩ Eliab, d Abinadab wis sin, d Cimea wis kraḍ.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Ickc iyella Icay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "mackud-is amezwaru -- yessikel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mackud-is amezwaru"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mackud-is amezwaru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "d Abinadab"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "d Cimea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis kraḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:29.587603667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Awalen-ik ldan ⟨i⟩ win yettṣuḍen, tiqemmin yettkerrisen terkid-tent.",
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "win yettṣuḍen"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "ldan ⟨i⟩"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "awalen-ik"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "tiqemmin"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "yettkerrisen"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "terkid-tent"
+    }
+  ],
+  "timestamp": "2026-10-03T02:31:23.178938819Z",
+  "model": "glm-5.3"
+}

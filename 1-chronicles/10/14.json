@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ur issuter ara assireɣ deg Yahwe; Yahwe ineɣ-t, yerna yewwi ⟨את⟩ tgelda i David, mmi-s n Yici.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "issuter assireɣ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ineɣ-t"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tgelda"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "tgelda"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "n Yici"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:20.475043338Z",
+  "model": "glm-5.3"
+}

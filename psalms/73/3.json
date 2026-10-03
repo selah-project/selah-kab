@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Axer ṛṛent lɛin deg wid iɛeṭṭlen, mi walaɣ tifrat n yimceẓyen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axer"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ṛṛent lɛin"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "deg wid iɛeṭṭlen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tifrat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yimceẓyen"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mi walaɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.727425756Z",
+  "model": "glm-5.3"
+}

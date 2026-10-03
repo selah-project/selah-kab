@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Cimaɛ mmi-s, Ḥaggiya mmi-s, Ɛasaya mmi-s.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Cimaɛ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Ḥaggiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Ɛasaya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:15.526442541Z",
+  "model": "glm-5.3"
+}

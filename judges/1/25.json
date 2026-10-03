@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yuri-ten ⟨את⟩ unekcum n tmurt, wwen ⟨את⟩ tamdint s lmeṣl, ma d ⟨את⟩ wergaz d ⟨את⟩ akk tawacult-is ṭṭfen-asen ad ruḥen.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "yuri-ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unekcum n tmurt"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "unekcum"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lmeṣl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wergaz"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wergaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk tawacult-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "tawacult-is"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ṭṭfen-asen ad ruḥen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:23:29.471511324Z",
+  "model": "glm-5.3"
+}

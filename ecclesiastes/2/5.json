@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Xelqeɣ-d iyyi-iw iǧdanen d iferdasen, u tebniɣ deg-sen isiɣ n yal teftart.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Xelqeɣ-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyyi-iw"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "iǧdanen"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "d iferdasen"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "u tebniɣ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "isiɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "teftart"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:12.637851779Z",
+  "model": "glm-5.3"
+}

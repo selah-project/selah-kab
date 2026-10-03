@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "David yufa belli Šaʾul iffeɣ-d ad inadi ⟨את⟩ nefs-is; David ⟨yella⟩ deg uzaɣar n Zif, deg tajna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iffeɣ-d"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaʾul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ad inadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefs-is"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefs-is"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uzaɣar"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "deg tajna"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:03.948087258Z",
+  "model": "glm-5.3"
+}

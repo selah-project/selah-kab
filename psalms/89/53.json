@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Yettwabarek Yahwe i lebda. Amin, d Amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yettwabarek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "d Amin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:10.323040297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "D-erran, nnan i Nebukadneṣṣar agellid: A agellid, ttidder i lebda!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "d-erran"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "i Nebukadneṣṣar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "a agellid"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ttidder"
+    }
+  ],
+  "timestamp": "2026-10-03T03:04:56.117993297Z",
+  "model": "glm-5.3"
+}

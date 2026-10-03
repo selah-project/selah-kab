@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Kecc ini, ad tḥekmeḍ ⟨את⟩ iqeccenḥen, wid yessawalen taɣzut n lɛahd: Mi ara twemmdeḍ ar yixef n waman n Yarden, deg Yarden a t-qqimeḍ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kecc ini"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ad tḥekmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqeccenḥen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iqeccenḥen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wid yessawalen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "taɣzut"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "n lɛahd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i tat"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "mi ara twemmdeḍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "yixef"
+    },
+    {
+      "surface": "מי",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "n Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "deg Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "a t-qqimeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:10:53.301136864Z",
+  "model": "glm-5.3"
+}

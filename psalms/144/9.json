@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "Elohim, cciṛ amaynut ad ccireɣ i kečč; s nnabla n ṣa n yizan, ad zemmreɣ i kečč.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cciṛ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "amaynut"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ad ccireɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "s nnabla"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "n ṣa n yizan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ad zemmreɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:56.502457450Z",
+  "model": "glm-5.3"
+}

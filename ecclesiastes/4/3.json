@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yifen sin-agi ⟨את⟩ win ur nekkni ara yakan — win ur iwala ara ⟨את⟩ lxedma n tarewt i yetteddun ddaw yiṭij.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "yifen"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "sin-agi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nekkni ara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "iwala ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lxedma"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "lxedma"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "n tarewt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yetedun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:50.750794427Z",
+  "model": "glm-5.3"
+}

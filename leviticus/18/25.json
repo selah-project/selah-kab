@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tettwaḥmes tmurt, iḥseb Yiḥ ɛuyub-is ɣef-s, tmurt terra ⟨את⟩ imezdaɣ-is.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "tettwaḥmes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "iḥseb"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ɛuyub-is"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "terra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imezdaɣ-is"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "imezdaɣ-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:28.112198226Z",
+  "model": "glm-5.3"
+}

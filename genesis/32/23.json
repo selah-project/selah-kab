@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yeddi deg yileɣli-nni, yexleṣ ⟨את⟩ snat n tlawin-is, ⟨את⟩ snat n yemḍebren-is, ⟨את⟩ yiwen d mraw i wmedden-is, yerna yezzri ⟨את⟩ unezzu n Yabboq.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "deg yileɣli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yexleṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "snat n tlawin-is"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "n tlawin-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "snat n yemḍebren-is"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "n yemḍebren-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yiwen d mraw i wmedden-is"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "i wmedden-is"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "yezzri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unezzu n Yabboq"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "unezzu"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:16.946728995Z",
+  "model": "glm-5.3"
+}

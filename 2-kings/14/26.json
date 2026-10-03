@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Acku Yahwe iwala ⟨את⟩ tuccḍa n Yisrael — d taṛeẓwi meṛṛa; ulac iwumi d-yettwaḥbes, ulac iwumi d-yettwakk, ula win iḥeccden Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuccḍa n Yisrael"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "taṛeẓwi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "iwumi d-yettwaḥbes"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "iwumi d-yettwakk"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ula"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "win iḥeccden"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:38.715632765Z",
+  "model": "glm-5.3"
+}

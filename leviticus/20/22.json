@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 20:22",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad teffṛem ⟨את⟩ akk ilugan-iw d ⟨את⟩ akk iccraɛ-iw, ad ⟨את⟩ ten-tseddmed, akken ur k-id-taḥwalet ara tmurt, i nekk k-id-awdeɣ ɣer-s, iwakken ad tzeddeɣ deg-s.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad teffṛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ilugan-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ilugan-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk iccraɛ-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "iccraɛ-iw"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad ten-tseddmed"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "taḥwalet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "k-id-awdeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "iwakken ad tzeddeɣ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:42.677968607Z",
+  "model": "glm-5.3"
+}

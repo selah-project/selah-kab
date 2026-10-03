@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Imiren yexli Moce ɣer Yahwe, ad d-yin: Acu ad xedmeɣ i ugdud-agi? Rnu-d kra kan, ad iyi-seddeḥben s iẓeǧǧan.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "yexli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-yin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad xedmeɣ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i ugdud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "rnu-d"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kra kan"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ad iyi-seddeḥben s iẓeǧǧan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:33.873140927Z",
+  "model": "glm-5.3"
+}

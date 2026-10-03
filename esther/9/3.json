@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Akk inebbaren n timnaḍin, iḥacdarpnen, ileḥyaḥ d yixeddamen n lxedma n ugellid, sɛan tallalt i ⟨את⟩ Ihudiyen, axaṭer teɣli-d tugdi n Mordeḵay fell-asen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inebbaren"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "n timnaḍin"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "iḥacdarpnen"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "ileḥyaḥ"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "ixeddamen"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "n lxedma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "sɛan tallalt i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ihudiyen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Ihudiyen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "teɣli-d"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tugdi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "n Mordeḵay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fell-asen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:44.605979908Z",
+  "model": "glm-5.3"
+}

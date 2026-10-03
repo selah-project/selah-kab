@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad zzin-ɣeɣ ⟨את⟩ afus-iw, ad ḍeɣreɣ ⟨את⟩ Miṣrayim s timaheltin-iw akk ara xeldeɣ deg laṣel-is; ticki, ad k-icegger ⟨את⟩ ken.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ad zzin-ɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-iw"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ad ḍeɣreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s...akk"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "timaheltin-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "xeldeɣ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "deg laṣel-is"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ticki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "deffir n waya"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ad k-icegger"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ken"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:36.920165363Z",
+  "model": "glm-5.3"
+}

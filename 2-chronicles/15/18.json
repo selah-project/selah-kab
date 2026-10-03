@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yedduḥ ⟨את⟩ iqedcen n baba-s, ɣer wexxam n Elohim: iṛeɣmen, d ureɣ, d yimendil, d iqedcen-is.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yedduḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen n baba-s"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "d iqedcen-is"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɣer wexxam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iṛeɣmen"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "d ureɣ"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "d yimendil"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:08.736102950Z",
+  "model": "glm-5.3"
+}

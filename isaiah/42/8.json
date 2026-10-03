@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Neqli d Yahwe, wagi d isem-iw; lfeḫṛ-iw ur t-akkag ara i wayeḍ, d tajmilt-iw ur tt-akkag ara i tẓekwanin.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Neqli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "isem-iw"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "lfeḫṛ-iw"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "i wayeḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "akkag"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "tajmilt-iw"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "i tẓekwanin"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:36.252570983Z",
+  "model": "glm-5.3"
+}

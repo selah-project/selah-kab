@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Eliça yazen-as di imaren, ad yini: Ddu, sseḥtseb ṭaccc ula d tikelt — ḥeddeɣ fell-ak: Ddu, ṣeddeq i yiman-k ṭam (tikkal) deg Urdun, ad d-yuɣal weglim-ik ɣer-k, ad tṣeḥdeg.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yazen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliça"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "amar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Ddu"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "sṭenqeḍ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tikkal"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "deg Urdun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ad d-yuɣal"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "waglim-ik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣer-k"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ad tṣeḥdeg"
+    }
+  ],
+  "timestamp": "2026-10-03T04:16:37.542419862Z",
+  "model": "glm-5.3"
+}

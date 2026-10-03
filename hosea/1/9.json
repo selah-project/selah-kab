@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna: \"Issenqed isem-is: Lo-Ammi (Mačči d agdud-iw), axaṭer kunwi ur tenttilliam ara d agdud-iw, neɣ ur lliɣ ara d nnig-kun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Issenqed"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mačči"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "d agdud-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "d agdud-iw"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "lliɣ ara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nnig-kun"
+    }
+  ],
+  "timestamp": "2026-10-03T01:14:27.324233316Z",
+  "model": "glm-5.3"
+}

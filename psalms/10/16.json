@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yahwe ⟨d⟩ agellid i lebda, akk d ijeṛṛan; ruḥen igezdanen seg tmurt-is.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "akk d ijeṛṛan"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ruḥen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "igezdanen"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "seg tmurt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:11.124476859Z",
+  "model": "glm-5.3"
+}

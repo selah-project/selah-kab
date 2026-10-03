@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Tlalit-iw tella seg ⟨את⟩-ik, deg uẓeṭṭa ameqqran; ad ceggbeɣ iḥerḍan-iw zdat wid yettagaden Yahwe.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "seg ⟨את⟩-ik",
+      "marks": "tlalit-iw"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "tlalit-iw"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "deg uẓeṭṭa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "iḥerḍan-iw"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ad ceggbeɣ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wid yettagaden Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:11.247812406Z",
+  "model": "glm-5.3"
+}

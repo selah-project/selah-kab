@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ablan yettɛaṣṣa i weḥeqqan, yessaram ad t-inɣ.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "yettɛaṣṣa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ablan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "i weḥeqqan"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "yessaram"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ad t-inɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:54.354847450Z",
+  "model": "glm-5.3"
+}

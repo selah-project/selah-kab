@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "⟨את⟩ akk i walaɣ deg wussan n hebel-iw: yella win iṣedden yettmettal di ṣedeq-is, yella win n dir yettawi aṭas deg dir-is.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "i walaɣ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "deg wussan"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "n hebel-iw"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "win iṣedden"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yettmettal"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "di ṣedeq-is"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "win n dir"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "yettawi aṭas"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "deg dir-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:33.244540335Z",
+  "model": "glm-5.3"
+}

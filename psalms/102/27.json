@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Wid-nni ad rẓen, kecc aql-ak ad yeqqim; akk-agi am llebs ad ḥerjen, am ilebsi ad tettbeddileḍ-ten, ad beddlen.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Wid-nni"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ad rẓen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kecc aql-ak"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "akk-agi"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "am llebs"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ad ḥerjen"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "am ilebsi"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ad tettbeddileḍ-ten"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ad beddlen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:45.960410405Z",
+  "model": "glm-5.3"
+}

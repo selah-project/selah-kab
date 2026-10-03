@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Yeɣles Yahwe ⟨i⟩ tmurt-ik, tuɣaleḍ-d lɣurba n Yaɛqov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "yeɣles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tmurt-ik"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tuɣaleḍ-d"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "lɣurba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:27.858701491Z",
+  "model": "glm-5.3"
+}

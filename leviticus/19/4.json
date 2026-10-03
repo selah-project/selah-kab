@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur tzeggem ara ɣer yineyyam, ur d-teggim iṛebbiten n uẓeṭṭu i yiman-nwen; nekk Yahwe Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "tzeggem ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "yineyyam"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "iṛebbiten n"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "uẓeṭṭu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "t-eggim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i yiman-nwen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:28.079306811Z",
+  "model": "glm-5.3"
+}

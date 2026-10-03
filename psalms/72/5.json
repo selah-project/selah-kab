@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Ad ak-ɛezzen akked yiṭij, uqbel uyeyyur, lqern n lqrun.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ad ak-ɛezzen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "uqbel"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "uyeyyur"
+    },
+    {
+      "surface": "דור",
+      "gloss": "lqern"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "lqrun"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:14.565389456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Zdat Efrayim, d Benyamin, d MenaCCe, smenyeḍ ⟨את⟩ tazmert-ik, d-asi-d ad aɣ-tellkeḍ!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "d Benyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "d MenaCCe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "smenyeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazmert-ik"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "tazmert-ik"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "d-asi-d"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "ad aɣ-tellkeḍ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:10.053572366Z",
+  "model": "glm-5.3"
+}

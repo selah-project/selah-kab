@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ssawenɣ i ⟨את⟩ Barux deg wawen-nsen, s wawal:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ssawenɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barux"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barux"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "deg wawen-nsen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:33.291748909Z",
+  "model": "glm-5.3"
+}

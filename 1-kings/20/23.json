@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Iqeddacen n ugellid n Aram nnan-as: iṛebbiten n idurar ⟨iṛebbiten⟩-nsen, ayagi i asen-iḍlen; degmi ma nenna ⟨את⟩ tama deg tiḥri, neḥla ad ten-neḍlen.",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "iqeddacen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "n idurar"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "i"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "asen-iḍlen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɣef-neɣ"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "degmi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ad nenna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "deg tiḥri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "neḥla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "ad ten-neḍlen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ɛellin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:23:25.001867689Z",
+  "model": "glm-5.3"
+}

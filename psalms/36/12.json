@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ur ad iyi-d-yas ara aḍar n tikkest, ur ad iyi-id-nider ara afus n wid n dir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "ad iyi-d-yas"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "aḍar"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "n tikkest"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n wid n dir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "ad iyi-id-nider"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:19.413840699Z",
+  "model": "glm-5.3"
+}

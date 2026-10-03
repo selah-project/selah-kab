@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "d ⟨את⟩ tikukut, d ⟨את⟩ acalc, d ⟨את⟩ taynccuf",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tikukut"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "tikukut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "acalc"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "acalc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taynccuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "taynccuf"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:40.875449764Z",
+  "model": "glm-5.3"
+}

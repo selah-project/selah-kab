@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 11:12",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad tessnem belli nekk d Yahwe, imi ur teddum ara deg ilugan-iw, ur txedmem ara iḥkamen-iw, maca txeddem akken i ḥkamen yegdudcen i ḥerẓen di tqeddact-nwen.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ad tessnem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imi"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "deg ilugan-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "teddum"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "iḥkamen-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "txedmem"
+    },
+    {
+      "surface": "וכמשפטי",
+      "gloss": "akken i ḥkamen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegdudcen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ḥerẓen di tqeddact-nwen"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "txeddem"
+    }
+  ],
+  "timestamp": "2026-10-03T00:46:24.205815859Z",
+  "model": "glm-5.3"
+}

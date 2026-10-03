@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 25:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Din ad k-mlilɣ, ad d-mmeslayeɣ yid-k ⟨את⟩ seg ufella n tkppert, gar sin yikerubim i d-yellan ɣef tsanduqt n inagi: ⟨את⟩ ayen akk i k-iḥekmen ad t-id-mmeslayeɣ ɣer yatma n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ונועדתי",
+      "gloss": "ad k-mlilɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "ad d-mmeslayeɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-k"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tkppert"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "yikerubim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "tsanduqt"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "inagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "i k-iḥekmen"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ɣer yatma n Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yatma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:48.400646422Z",
+  "model": "glm-5.3"
+}

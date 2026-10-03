@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Ar melmi ara tkecmeḍ ɣef yiwen wergaz, ad t-tenɣem akk kunwi? Am wallaḍ yuznen, am tɣellest id yessenṭel.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "tkecmeḍ ɣef"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen wergaz"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "ad t-tenɣem"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "akk kunwi"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "am wallaḍ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "yuznen"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "tɣellest"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "id yessenṭel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:45.133426597Z",
+  "model": "glm-5.3"
+}

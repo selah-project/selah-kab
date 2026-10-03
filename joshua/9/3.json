@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Wid izdeɣen di Givɛon slan ⟨את⟩ ayen ixdem Yehocua i Yeriḥu d i l-Ɛay.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "wid izdeɣen"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givɛon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ixdem Yehocua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "i Yeriḥu"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "d i l-Ɛay"
+    }
+  ],
+  "timestamp": "2026-10-02T22:14:31.822012219Z",
+  "model": "glm-5.3"
+}

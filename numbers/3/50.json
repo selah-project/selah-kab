@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Seg ⟨את⟩ yimezwura n yigerdan n Yisrael, yeṭṭef ⟨את⟩ ddrim: semmus d sityin d tlata n temdin, d igim, s ceqel n iqedcen.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "yimezwura"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yigerdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ddrim"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ddrim"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "d sityin"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "d tlata"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temdin"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "d igim"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "s ceqel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:00.482464245Z",
+  "model": "glm-5.3"
+}

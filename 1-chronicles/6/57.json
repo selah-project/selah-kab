@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Si teṭṭaft n Yiṣaṣkṛar: ⟨את⟩ Qedec akked ⟨את⟩ uzgaren-is, ⟨את⟩ Dabrat akked ⟨את⟩ uzgaren-is.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "si teṭṭaft"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yiṣaṣkṛar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedec"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "uzgaren-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uzgaren-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabrat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabrat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "uzgaren-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uzgaren-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:19.812500097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Mi yekfa David seg ussedar n taqerbt n usekker d tifrat, yifrek ⟨את⟩ wegdud s Yisem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Mi yekfa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "seg ussedar n"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "taqerbt n usekker"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "d tifrat"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yifrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wegdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s Yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:56.678088989Z",
+  "model": "glm-5.3"
+}

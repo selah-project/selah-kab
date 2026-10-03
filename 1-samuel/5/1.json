@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ifilistiyen ṭṭfen ⟨את⟩ taṣabit n Elohim, wwin-tt id seg Eben-Ɛezer ɣer Acdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ifilistiyen"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣabit n Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "taṣabit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wwin-tt id"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "seg Eben-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ɛezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ɣer Acdod"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:04.467720619Z",
+  "model": "glm-5.3"
+}

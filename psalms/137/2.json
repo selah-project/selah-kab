@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Ɣef weɣrab deg tugett-is, njebbd kenurar-nneɣ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "weɣrab"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "deg tugett-is"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "njebbd"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kenurar-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:29.392693071Z",
+  "model": "glm-5.3"
+}

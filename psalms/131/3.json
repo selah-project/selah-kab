@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 131,
+  "translation": "Ad yettṛaǧu Yisrael Yahwe, seg tura ɣer iḍulen.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ad yettṛaǧu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "seg tura"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iḍulen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:02.654085365Z",
+  "model": "glm-5.3"
+}

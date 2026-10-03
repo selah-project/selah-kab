@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Tiḍummin-iw reḥnen, εebben, ɣef taḥmaqwt-iw.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "reḥnen"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "εebben"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "tiḍummin-iw"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "taḥmaqwt-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:25.046349792Z",
+  "model": "glm-5.3"
+}

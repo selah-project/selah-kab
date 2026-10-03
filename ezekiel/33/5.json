@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Iεeddel ⟨את⟩ ssut n ccbaɛ, ur iwqi ara — idammen-is fell-as ⟨i⟩. Win yeqqimen, tak-nni-s isellek.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ssut n ccbaɛ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ssut"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "n ccbaɛ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "iεeddel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "iwqi ara"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idammen-is"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "win"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tak-nni-s"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "isellek"
+    }
+  ],
+  "timestamp": "2026-10-03T00:58:43.859029110Z",
+  "model": "glm-5.3"
+}

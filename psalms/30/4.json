@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "A Yahwe, tessuffiɣ-ed tanefs-iw seg Ceol, teyid-iyi deg wid yeddin ar lxuf.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "tessuffiɣ-ed"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tanefs-iw"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "teyid-iyi"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "deg wid yeddin"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ar lxuf"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:24.227291502Z",
+  "model": "glm-5.3"
+}

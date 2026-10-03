@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Igduden meṛṛa, ssenṭeqet s ⟨את⟩ ufus, ṣeḍdit i Elohim s teɣri n uzhu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "igduden"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ssenṭeqet"
+    },
+    {
+      "surface": "כף",
+      "gloss": "afus"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ṣeḍdit"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "s teɣri"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "n uzhu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:46.963929329Z",
+  "model": "glm-5.3"
+}

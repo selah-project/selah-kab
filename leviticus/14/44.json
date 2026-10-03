@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad yuneg ukohen, ad iwali; wa yerna, tumant tessuzzeg deg uxxam — ṣaṛɛat tameṛṛurt ⟨tell-a⟩ deg uxxam; d arcati.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ad yuneg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ukohen"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wa yerna"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "tessuzzeg"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tumant"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ṣaṛɛat"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "tameṛṛurt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨tell-a⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "arcati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨d-tell-a⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:57.069176566Z",
+  "model": "glm-5.3"
+}

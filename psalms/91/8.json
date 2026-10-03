@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "S tiḍin-ik kan ad tessaneḍ, d tekfa n yir imdanen ad tettwaliḍ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "s tiḍin-ik"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ad tessaneḍ"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "d tekfa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n yir imdanen"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ad tettwaliḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:17.998899878Z",
+  "model": "glm-5.3"
+}

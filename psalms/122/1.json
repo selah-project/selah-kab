@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "Ascen n tiberwit, n David. Lḥeṣbeɣ mi nnan-asen-i: ɣer uxxam n Yahwe ad nunet.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ascen"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tiberwit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Lḥeṣbeɣ"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "mi nnan-asen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ad nunet"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:09.131666280Z",
+  "model": "glm-5.3"
+}

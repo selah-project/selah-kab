@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Rri, a Yahwe, ammuf-ik, d steɛmel; lli, a Yahwe, tiṭriwin-ik, d wali; steɛmel ⟨את⟩ awalen n Saneḥrib, wid igan isalen-is ara iẓen iḥaqer ɣef Elohim amuddir.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "rri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ammuf-ik"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "steɛmel"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "lli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tiṭriwin-ik"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "steɛmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Saneḥrib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "iẓen"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "iḥaqer ɣef"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "amuddir"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:44.702294881Z",
+  "model": "glm-5.3"
+}

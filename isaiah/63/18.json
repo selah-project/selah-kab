@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Kra kan n tmenḍert, agdud-ik iqedcen yessaɣ ⟨taɣult⟩; iɛdawen-nneɣ beṣṣen deg uqeddus-ik.",
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "kra kan n tmenḍert"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "yessaɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "iɛdawen-nneɣ"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "beṣṣen deg"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "uqeddus-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:23:01.966781939Z",
+  "model": "glm-5.3"
+}

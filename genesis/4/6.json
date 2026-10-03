@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yenna Yahwe ɣer Qajin: Acuɣer i tremmeḍ, acuɣer i wellan wuhdum-ik?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acuɣer"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "tremmeḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "acuɣer"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "wellan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wuhdum-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:28.329250054Z",
+  "model": "glm-5.3"
+}

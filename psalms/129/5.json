@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 129,
+  "translation": "Ad ngen tiṛṛif, ad uɣlen ɣer deffir, akk wid ikeṛhen Ṣiyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ad ngen tiṛṛif"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ad uɣlen ɣer deffir"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ɣer deffir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wid ikeṛhen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyon"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:07.449408514Z",
+  "model": "glm-5.3"
+}

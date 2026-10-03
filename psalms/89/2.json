@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "I ḥesed n Yahwe ad cceɣleɣ i lebda; i tayt d tayt ad d-mlen tidet-ik s iymi.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "I ḥesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ad cceɣleɣ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i tayt"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "d tayt"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ad d-mlen"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tidet-ik"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "s iymi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:24.277776440Z",
+  "model": "glm-5.3"
+}

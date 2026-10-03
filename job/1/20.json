@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Iyub ibidd, iṭṭef ⟨את]] tikelt-is, irza ⟨את]] iri-s, yexṣeṛ ɣef wakal, inṭṭef deg umennuγ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ibidd"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikelt-is"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "tikelt-is"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "irza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iri-s"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iri-s"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yexṣeṛ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ɣef wakal"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "inṭṭef deg umennuγ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:31:30.537704516Z",
+  "model": "glm-5.3"
+}

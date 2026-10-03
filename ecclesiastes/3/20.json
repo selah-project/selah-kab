@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akk tteddun ɣer yiwet n tmurt; akk llan seg lɣber, akk uɣalen ɣer lɣber.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "tteddun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "yiwet n tmurt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היה",
+      "gloss": "llan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "lɣber"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שב",
+      "gloss": "uɣalen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "lɣber"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:10.935104432Z",
+  "model": "glm-5.3"
+}

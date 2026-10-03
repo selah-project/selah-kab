@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ameṛṛan yekfa i lebda d tiggura-nni; d tigra tessdirteḍ-tent, iruḥ usmekti-nsen — nettni.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Ameṛṛan"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "yekfa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "tiggura-nni"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "d tigra"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "tessdirteḍ-tent"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "iruḥ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "usmekti-nsen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nettni"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:43.208817620Z",
+  "model": "glm-5.3"
+}

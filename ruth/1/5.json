@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Remmesen-ten-id daɣen sin-nniḍen, Maḥlon d Kilyon; tewḥed ⟨the⟩ tameṭṭut seg waylalawen-is sin n lerẓel-is, ula seg wergaz-is.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "Remmesen-ten-id"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sin-nniḍen"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maḥlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "d Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "tewḥed"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "משני",
+      "gloss": "seg waylalawen-is sin"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "n lerẓel-is"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ula seg wergaz-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:30.745678050Z",
+  "model": "glm-5.3"
+}

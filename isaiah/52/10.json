@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Yeffren Yahwe ⟨את⟩ afus-is taqedcit ɣer tiḍ n yal leǧnas, akk igmamen n tmurt ad walin ⟨את⟩ ttbaḍ n Elohim-nneɣ.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "yeffren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is taqedcit"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "taqedcit"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ɣer tiḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "igmamen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ttbaḍ n Elohim-nneɣ"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ttbaḍ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:04:51.432610427Z",
+  "model": "glm-5.3"
+}

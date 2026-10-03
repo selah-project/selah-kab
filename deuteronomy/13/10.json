@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Xaṭi ad t-tneɣ: afus-ik ad yili ⟨deg⟩ wayenz amenzu iwakken ad t-teġġ, ma d afus n ⟨⟨weɣdan⟩⟩ akk deg umenzu-nniḍen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "xaṭi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ad t-tneɣ"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ad t-tneɣ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨deg⟩"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "deg wayenz amenzu"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "iwakken ad t-teġġ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ma d afus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n weɣdan"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "deg umenzu-nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:20.542421386Z",
+  "model": "glm-5.3"
+}

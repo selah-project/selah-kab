@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad tḥarzeḍ ⟨את⟩ walugan-agi deg lwagt-is, seg wussan ɣer wussan.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ad tḥarzeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walugan-agi"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "alugan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "deg lwagt-is"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "seg wussan"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ɣer wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:55.624293874Z",
+  "model": "glm-5.3"
+}

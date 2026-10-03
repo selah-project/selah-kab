@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 25:5",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Amatsya yejmaɛ ⟨את⟩ Yehuda, yerna-yen-d sleb n yibabaten, i yiserdan n yifdan d yiserdan n tmezza, i Yehuda akk d Binyamin; iḥseb-itent seg wemdan n 20 n yiseggasen d afella, yufa-tent tlata n yimelyan n yiferḥen ara yeffɣen ɣer ṣṣerda, icebbel rrummen d ṭṭarṣest.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "yejmaɛ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויעמידם",
+      "gloss": "yerna-yen-d"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "s leb n"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "yibabaten"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "i yiserdan n"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "yifdan"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "d i yiserdan n"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "tmezza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i akk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "d Binyamin"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "iḥseb-itent"
+    },
+    {
+      "surface": "למבן",
+      "gloss": "seg wemdan n"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "20"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yiseggasen"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "d afella"
+    },
+    {
+      "surface": "וימצאם",
+      "gloss": "yufa-tent"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "tmezza n"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "imelyan"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "iferḥen"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ara yeffɣen"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ɣer ṣṣerda"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "icebbel"
+    },
+    {
+      "surface": "רמח",
+      "gloss": "rummen"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ṭṭarṣest"
+    }
+  ],
+  "timestamp": "2026-10-03T03:51:24.135993158Z",
+  "model": "glm-5.3"
+}

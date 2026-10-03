@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 5:15",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad ruḥeɣ, ad tuɣaleɣ ɣer umkan-iw, alama mi ad walin ddneb-nsen, ad nadien udm-iw; deg lmuḍ-nsen ad iyi-d-nadin zik.",
+  "tokens": [
+    {
+      "surface": "אלך",
+      "gloss": "ad ruḥeɣ"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "ad tuɣaleɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "umkan-iw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ad walin ddneb-nsen"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ad nadien"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udm-iw"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "deg lmuḍ-nsen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-nsen"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "ad iyi-d-nadin zik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:14.504679938Z",
+  "model": "glm-5.3"
+}

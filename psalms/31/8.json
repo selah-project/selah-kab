@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ad lḥuɣ ad ccehḥeɣ deg ḥesed-ik, imi twalaḍ ⟨את⟩ tikas-agi iw; teẓriḍ di tkerwin n nefes-iw.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Ad lḥuɣ"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ad ccehḥeɣ"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "deg ḥesed-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "twalaḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikas-agi iw"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "tikas-agi iw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "teẓriḍ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "di tkerwin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:40.816267069Z",
+  "model": "glm-5.3"
+}

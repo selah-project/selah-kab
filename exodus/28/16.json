@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Amkuẓ ad yili, iṭwakkel s snat; zeret teɣzi-s, d zeret tehri-s.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "amkuẓ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "iṭwakkel s snat"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "zeret"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-s"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "zeret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "tehri-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:36.395354489Z",
+  "model": "glm-5.3"
+}

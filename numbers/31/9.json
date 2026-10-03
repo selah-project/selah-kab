@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Wid seg Yisrael ṭṭfen-d ⟨את⟩ tikwalin n Midiyan d ⟨את⟩ igerdan-nnsent, ⟨את⟩ akk iɣersiwen-nnsen, ⟨את⟩ akk lmal-nnsen, ⟨את⟩ akk wayla-nnsen, ṭṭfen-d akk ayen illan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ṭṭfen-d tikwalin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikwalin n Midiyan"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "tikwalin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "igerdan-nnsen"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "igerdan-nnsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk iɣersiwen-nnsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "iɣersiwen-nnsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk lmal-nnsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "lmal-nnsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk wayla-nnsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "wayla-nnsen"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ṭṭfen-d akk ayen illan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:43.145849114Z",
+  "model": "glm-5.3"
+}

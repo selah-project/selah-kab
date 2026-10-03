@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yal taẓilt ad tettwattuy, yal adrar d tebqirt ad tt-ssimḥelen; ayen yettẓeṭṭḍen ad yuɣal d taẓeṭṭaft, iẓeẓwa ad uɣen d taẓilt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "taẓilt"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ad tettwattuy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d yal"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "d tebqirt"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ad tt-ssimḥelen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ayen yettẓeṭṭḍen"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "d taẓeṭṭaft"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "d iẓeẓwa"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "taẓilt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:53.552251063Z",
+  "model": "glm-5.3"
+}

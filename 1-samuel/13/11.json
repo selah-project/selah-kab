@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 13:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yenna Camuel: Acu i txedmeḍ? Yenna Cawl: Iẓriɣ belli wehmeḍ felli aɣdud, kečč ur d-kecmeḍ deg wakud ibanen n wussan, yerna Ifilistiyen rekben-d deg Mixmac.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Camuel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i txedmeḍ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "iẓriɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "wehmeḍ felli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aɣdud"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "seg-i-iḍ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "באת",
+      "gloss": "d-kecmeḍ"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "deg wakud ibanen"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "yerna Ifilistiyen"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "rekben-d"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "deg Mixmac"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:12.577949510Z",
+  "model": "glm-5.3"
+}

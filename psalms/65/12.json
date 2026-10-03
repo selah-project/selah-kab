@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Tessuddeḍ aseggas s lxiṛ-ik, d yiberdan-ik ad nnin d lxir deg-sen.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "tessuddeḍ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "aseggas"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "s lxiṛ-ik"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "d yiberdan-ik"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ad nnin d lxir"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:40.697595278Z",
+  "model": "glm-5.3"
+}

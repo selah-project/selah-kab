@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Maca lberkan ur ttwakksen ara; aṭas n lweqt agdud mazal-it iqebbel ttḥeggumt iṣeggimen deg lberkan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "maca"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "lberkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ttwakksen ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aṭas n lweqt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "iqebbel ttḥeggumt"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "iṣeggimen"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "deg lberkan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:27.770530550Z",
+  "model": "glm-5.3"
+}

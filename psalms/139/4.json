@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Acku ulac awal deg yils-agi inu, atan, a Yahwe, kečč tessneḍ-t akk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "awal"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "deg yils-agi inu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "atan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kečč tessneḍ-t"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "akk"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:40.338350221Z",
+  "model": "glm-5.3"
+}

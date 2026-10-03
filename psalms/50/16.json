@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "I win ixerḍen, yenna Elohim: Acu ɣur-k ad tesselmeḍ iqedcen-iw, ad terrbeḍ lɛahd-iw ɣef imi-k?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "I win ixerḍen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ad tesselmeḍ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "iqedcen-iw"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ad terrbeḍ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imi-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:52.446068253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "I win iḥeccem igelliden imeqranen, axaṭer ḥesed-is yettidir i lebda.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "i win iḥeccem"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "imeqranen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:24.441235992Z",
+  "model": "glm-5.3"
+}

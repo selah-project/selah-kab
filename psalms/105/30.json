@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Tiṛṛeẓgi ṣeḥḥrent tmurt-nsen, deg yiɣerbuyen n yigeldan-nsen.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "ṣeḥḥrent"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tmurt-nsen"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "tiṛṛeẓgi"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "deg yiɣerbuyen"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "n yigeldan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:41.291325039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Sloyi-sent ad yezdeɣ uyyon n yigenwan; seg yiṭṭan ad ssiḍlen taɣrit.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "sloyi-sent"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "uyyon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n yigenwan"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "ad yezdeɣ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "seg"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "yiṭṭan"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ad ssiḍlen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣrit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:18.255109657Z",
+  "model": "glm-5.3"
+}

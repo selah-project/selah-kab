@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Kajin yexdem ⟨את⟩ tamṭut-is, tensa, tedna ⟨את⟩ Ḥanok; yella ibennu tamdint, yefka isem i temdint akken d isem n mmi-s Ḥanok.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamṭut-is"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tamṭut-is"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "tensa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tedna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ḥanok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ibennu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yefka isem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "i temdint"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "akken d isem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ḥanok"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:09.108167242Z",
+  "model": "glm-5.3"
+}

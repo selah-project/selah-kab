@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Udem ɣef udem, yemeslal Yahwe yid-wen deg udrar, seg wxem n tmes.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Udem"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "ɣef udem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yemeslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "yid-wen"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg udrar"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg wxem n"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tmes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:50:37.131458970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ad teẓrem belli nekk d Yahwe, mi ara ldiɣ ⟨את⟩ iẓekwan-nwen, u mi ara k-id-sliɣ seg ⟨את⟩ iẓekwan-nwen, a y-iɣlan-iw.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ad teẓrem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "mi ara ldiɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iẓekwan-nwen"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "iẓekwan-nwen"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "u mi ara k-id-sliɣ seg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "iẓekwan-nwen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "a y-iɣlan-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:03:48.647667942Z",
+  "model": "glm-5.3"
+}

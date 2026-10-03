@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yenna: Adonai, ma nufa-ɣ lfeḍḍel ger wallen-ik, ma ulac a k-iḥellu, ur teddu ara zzat seg uɛebdi-k.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nufa-ɣ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lfeḍḍel"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ger wallen-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a k-iḥellu"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "teddu zzat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "uɛebdi-k"
+    }
+  ],
+  "timestamp": "2026-10-02T20:16:35.575074341Z",
+  "model": "glm-5.3"
+}

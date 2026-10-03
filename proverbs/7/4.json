@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ini i tussna: 'D weltma-iw ⟨את⟩ kečč'; ad tsawleḍ i leɛqel d aqrib-ik.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "i tussna"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "weltma-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kečč",
+      "marks": "aqrib (leɛqel)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "aqrib"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "leɛqel"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ad tsawleḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:19:26.172561632Z",
+  "model": "glm-5.3"
+}

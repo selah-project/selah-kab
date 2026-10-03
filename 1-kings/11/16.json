@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Axaṭer sḍis n wayyuren Yuab yezdeɣ din, d Yisrael akk, arma iqteɛ akk irgazen deg Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sḍis"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "n wayyuren"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yuab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "iqteɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "deg Edom"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:19.242340066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yerna Yahwe ⟨את⟩ agdud-is s waṭas, yeǧǧa-t ad yili yugar iman-nni-nsen n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Yerna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "ולעצמהו",
+      "gloss": "yeǧǧa-t ad yili yugar"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "iman-nni-nsen n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:54.438011809Z",
+  "model": "glm-5.3"
+}

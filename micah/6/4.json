@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Xaṭer ssufɣeɣ-ik-d seg tmurt n Miṣrayim, seg wexxam n yemdanen i fiḥlen ḥleṣeɣ-ak; ihi, rziɣ qbel-ik ⟨את⟩ Moce, ⟨את⟩ Aharon, ⟨את⟩ Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Xaṭer"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ssufɣeɣ-ik-d"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n yemdanen i fiḥlen"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ḥleṣeɣ-ak"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "rziɣ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qbel-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "Miryam"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:21.045075674Z",
+  "model": "glm-5.3"
+}

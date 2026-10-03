@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Seg yal abrid inekren, sseḥsebɣeɣ iḍarren-iw, iwakken ad ḥerzeɣ awal-ik.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Seg yal"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "רע",
+      "gloss": "inekren"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "sseḥsebɣeɣ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iḍarren-iw"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ad ḥerzeɣ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "awal-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:06.211730515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ma yewwet wemdan ⟨את⟩ akli-s neɣ ⟨את⟩ taklit-is s takerda, immut seddaw ufus-is, ad yettwaseqdaɛ, s tidet ad yettwaseqdaɛ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "yewwet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akli-s"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "akli-s"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taklit-is"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "taklit-is"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "s takerda"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "immut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "seddaw"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ufus-is"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ad yettwaseqdaɛ"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "s tidet ad yettwaseqdaɛ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:29.803343556Z",
+  "model": "glm-5.3"
+}

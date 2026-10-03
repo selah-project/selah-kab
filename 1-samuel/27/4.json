@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Xeber-in i Caul belli irewel David ɣer Gat; ihi ur yerni ara ad t-illev tikkelt-nniḍen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Xeber-in"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Caul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "irewel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ɣer Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ad t-illev"
+    }
+  ],
+  "timestamp": "2026-10-02T22:51:58.568982020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Mi tessuḥ tageldit deg ufus-is, yeḍreb ⟨את⟩ yimeḍfen-nnes, wid ineḍben ⟨את⟩ ugellid baba-s.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "tessuḥ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "tageldit"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yeḍreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimeḍfen-nnes"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yimeḍfen-nnes"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "wid ineḓben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:46.571625607Z",
+  "model": "glm-5.3"
+}

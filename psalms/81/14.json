@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "A ma! Lɣaci-iw islan ɣur-i, Yisrael deg yiberdan-iw ad yun!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "a ma"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lɣaci-iw"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "islan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "deg yiberdan-iw"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ad yun"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:40.495782295Z",
+  "model": "glm-5.3"
+}

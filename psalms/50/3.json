@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ad d-yas Elohim-nneɣ, ur yenṭeḥ ara: time tessawen tettčč deg zdat-is, ţaẓelt-in teqwa áas maḍi deg lxiḍ-is.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Ad d-yas"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "yenṭeḥ ara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "time"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "deg zdat-is"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tettčč"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "deg lxiḍ-is"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "taẓelt-in teqwa áas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "maḍi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:53.689426932Z",
+  "model": "glm-5.3"
+}

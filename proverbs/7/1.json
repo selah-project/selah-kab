@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "A mmi, ḥrez awalen-iw, ilugan-iw teffreḍ ⟨את⟩ ɣef yideg-ik.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "awalen-iw"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ilugan-iw"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "teffreḍ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ɣef yideg-ik",
+      "marks": "teffreḍ (ilugan-iw)"
+    }
+  ],
+  "timestamp": "2026-10-03T02:19:26.172082829Z",
+  "model": "glm-5.3"
+}

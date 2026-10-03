@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ṭṭfen-t, remden ⟨את⟩-i ɣer lbaluṭ; lbaluṭ-n d ilem, ulac waman deg-s.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ṭṭfen-t"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "remden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɣer lbaluṭ"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ɣer lbaluṭ"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "lbaluṭ-n"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ilem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    }
+  ],
+  "timestamp": "2026-10-02T20:29:03.203962314Z",
+  "model": "glm-5.3"
+}

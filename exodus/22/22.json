@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma teḍḍfeḍ ⟨את⟩ iḥeqqan, acku ma iqellec iqellec ɣur-i, ad slenɣ slenɣ tiqellec-is.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "teḍḍfeḍ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tḍeḍḍfen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iten — taxessabt d ugujil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "iqellec"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "iqellec"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ad slenɣ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "slenɣ"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "tiqellec-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:32.080648687Z",
+  "model": "glm-5.3"
+}

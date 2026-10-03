@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Deg ṣeddast n yiseggwasen tzeraɛ ⟨את⟩ akal-ik, u tger-d ⟨את⟩ imɣan-is.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "deg ṣeddast"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggwasen"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "tzeraɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akal-ik"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "akal-ik"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "u tger-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imɣan-is"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "imɣan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:49.865663718Z",
+  "model": "glm-5.3"
+}

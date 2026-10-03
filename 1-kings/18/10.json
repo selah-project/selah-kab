@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tidet, Yahwe Elohim-ik d amuddir: ulac agdud neɣ tagelda ara yermed bab-iw dinna ad ak-iddir yermez, nnan-as: ulac-it; imenẓa-as ⟨את⟩ tageldin-ni d ⟨את⟩ ugdud-ni s wayes ur k-ufin.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Tidet… d amuddir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "neɣ tagelda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yermez"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "ad ak-iddir yermez"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan-as"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac-it"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "imenẓa-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tageldin-ni"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "tageldin-ni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud-ni"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ugdud-ni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "s wayes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "k-ufin"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:02.524431971Z",
+  "model": "glm-5.3"
+}

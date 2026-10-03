@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yehocuaɛ mmi-s n Nun, win izedɣen γer zdat-ik, d netta ara d-ikecmen deg-s; ⟨את⟩ neṭṭef-it s tazmert, axaṭer d netta ara yenṣub Yisrael deg-s.",
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocuaɛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נון",
+      "gloss": "n Nun"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "win izedɣen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "γer zdat-ik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ara d-ikecmen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "netta (Yehocuaɛ)"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "neṭṭef-it s tazmert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "ara yenṣub deg-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:47:07.742336499Z",
+  "model": "glm-5.3"
+}

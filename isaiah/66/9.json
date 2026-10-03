@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Ma d nekk, ad t-qqeɣ, ur ad d-ssuluɣ ara? i d-yenna Yahwe. Ma d nekk, nekk i d-yessulun, ḥebbɣeɣ-t? i d-yenna Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "ma d nekk"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "ad t-qqeɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "ad d-ssuluɣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "nekk i d-yessulun"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "ḥebbɣeɣ-t"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:10:37.023524860Z",
+  "model": "glm-5.3"
+}

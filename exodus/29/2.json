@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "D aɣrum maṣot, d ileqṭan n uɣrum maṣot yettwajnen deg uzeḍḍan, d ileɣrifat n uɣrum maṣot yettwadehnen s uzeḍḍan; s irden yettmeḥqen ad ten-txeḍmeḍ ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "D aɣrum"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maṣot"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "d ileqṭan"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "maṣot"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "yettwajnen"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "deg uzeḍḍan"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "d ileɣrifat"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maṣot"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "yettwadehnen"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "s uzeḍḍan"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "irden yettmeḥqen"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "irden"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad ten-txeḍmeḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ihin (uɣrum)"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:35.397432449Z",
+  "model": "glm-5.3"
+}

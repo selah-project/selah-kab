@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Tura, wali, ggiɣ-d ⟨את⟩ tazwara n yiɣi n wakal i tettefked i yi, Yahwe; a t-teḥerr deg zdat Yahwe Elohim-ik, ad tgenkadeḍ deg zdat Yahwe Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ggiɣ-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazwara n yiɣi n wakal"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tazwara"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "yiɣi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tettefked"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "a t-teḥerr"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ad tgenkadeḍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:03:04.884507045Z",
+  "model": "glm-5.3"
+}

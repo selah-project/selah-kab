@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Diri ad yenɣ ⟨d⟩ wemdan ibeḥṣen, ma d wid yettkerrhen amḥeqqi ad nuttun.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "ad yenɣ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wemdan ibeḥṣen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ma d wid yettkerrhen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "amḥeqqi"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ad nuttun"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:49.910359325Z",
+  "model": "glm-5.3"
+}

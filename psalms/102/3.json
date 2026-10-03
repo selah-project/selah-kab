@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Ur teffer ara udem-ik seg-i deg wass n lmeḥna-iw; qleḍ amas-ik ɣer-i; deg wass mi ara ssuteɣ, zzerbeẓ, err-i.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur... ara"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "teffer"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "seg-i"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "צר",
+      "gloss": "n lmeḥna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iw"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "qleḍ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣer-i"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "amas-ik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi ara ssuteɣ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "zzerbeẓ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "err-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:02.371818227Z",
+  "model": "glm-5.3"
+}

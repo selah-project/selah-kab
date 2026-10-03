@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yahwe ad yeḥkem i lebda, i lebda d i dayen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ad yeḥkem"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "d i dayen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:05.653474551Z",
+  "model": "glm-5.3"
+}

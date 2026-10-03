@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "⟨את⟩ wayla yeṭṭef, ad t-id-yeqciɛ; seg tfekka-s El ad t-id-yerr.",
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "wayla"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "ad t-id-yeqciɛ"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "seg tfekka-s"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "ad t-id-yerr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T02:38:25.932608066Z",
+  "model": "glm-5.3"
+}

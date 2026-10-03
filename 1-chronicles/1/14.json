@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "D ⟨את⟩ Yebusi, d ⟨את⟩ Emori, d ⟨את⟩ Girgaci,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Girgaci"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgaci"
+    }
+  ],
+  "timestamp": "2026-10-03T03:23:58.796654592Z",
+  "model": "glm-5.3"
+}

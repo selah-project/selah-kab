@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ad d-iniɣ i ugafa: Efket; i unẓul: ur ttḥebbeset. Ssufuɣ-ed iben-inu seg beṛṛa, yist-inu seg yixfawen n tmurt.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ad d-iniɣ"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "i ugafa"
+    },
+    {
+      "surface": "תני",
+      "gloss": "efket"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "i unẓul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "ttḥebbeset"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "ssufuɣ-ed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iben-inu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "seg beṛṛa"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "yist-inu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "seg yixfawen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:31.857706092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Mačči keččini ara yuɣalen ad tessidreḍ-aɣ, akken iɣdan-ik ad feḥmen fellak?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Mačči"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keččini"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ara yuɣalen"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ad tessidreḍ-aɣ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "akken iɣdan-ik"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ad feḥmen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fellak"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:33.705820335Z",
+  "model": "glm-5.3"
+}

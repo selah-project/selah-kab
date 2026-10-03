@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe Elohim yewhi-d i wemdan, ad yini: Seg yal useklu n ugemmaḍ, a t-teṭṭfeḍ teṭṭeḍ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yewhi-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Seg yal"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "useklu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "n ugemmaḍ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "teṭṭfeḍ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "teṭṭeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:51.185868805Z",
+  "model": "glm-5.3"
+}

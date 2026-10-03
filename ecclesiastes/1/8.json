@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Awalen akk weḥlen; amdan ur yezmir ad yemmeslay; ṭṭeṣ-agi ur yettqennaɛ ara s umnni, ameslug ur yeččur ara s uselaw.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "weḥlen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yezmir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ad yemmeslay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "yettqennaɛ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ṭṭeṣ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad iẓer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "yeččur"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ameslug"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "s uselaw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:40.205269192Z",
+  "model": "glm-5.3"
+}

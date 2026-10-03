@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Wwin-t-id ⟨את⟩ ɣef yiyawen, yettwadebbel deg Yerucalayim akked ybabaten-is, deg temdint n David.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Wwin-t-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "netta (Amatsyahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "yiyawen"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "yettwadebbel"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ybabaten-is"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:49.972248614Z",
+  "model": "glm-5.3"
+}

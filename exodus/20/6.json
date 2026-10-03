@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yettexdem ḥesed ɣef lfelafan i wid t-yeḥmlen d i wid yeḥerzen lwaṣiyin-is.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "yettexdem"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ɣef lfelafan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "i wid t-yeḥmlen"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "d i wid yeḥerzen"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "lwaṣiyin-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:16.965632587Z",
+  "model": "glm-5.3"
+}

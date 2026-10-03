@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ssuteɣ ⟨את⟩ iḥekkiyen nnwen di lawan-nni s wawal: Sslet i yeddan gar wayetma-ennwen, ḥekmet ṣedeq gar wemdan d gma-s, d warumi-nni yellan yid-s.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ssuteɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥekkiyen nnwen"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "iḥekkiyen nnwen"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "di lawan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sslet"
+    },
+    {
+      "surface": "בין",
+      "gloss": "i yeddan gar"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ayetma-ennwen"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "ḥekmet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "warumi-nni yellan yid-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:46.235721964Z",
+  "model": "glm-5.3"
+}

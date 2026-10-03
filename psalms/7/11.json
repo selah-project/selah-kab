@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Tasaḥit-iw ⟨teffaɣ⟩ ɣef Elohim, win yettessuduksen wid iremsen deg wul.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "tasaḥit-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "win yettessuduksen"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wid iremsen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "deg wul"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:50.426403013Z",
+  "model": "glm-5.3"
+}

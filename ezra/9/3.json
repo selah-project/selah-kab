@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Mi slen i ⟨את⟩ wawal-agi, cqeɣ ⟨את⟩ taqendurt-iw d ⟨את⟩ temheṛemt-iw, sudden iheṛkem seg ueqruy-iw d teqbayelt-iw, qqimeɣ huẓẓaɣ mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd, ṭṭef-deggiri mbeɛd.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Mi slen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "cqeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqendurt-iw d temheṛemt-iw"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "taqendurt-iw"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "d temheṛemt-iw"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "sudden iheṛkem"
+    },
+    {
+      "surface": "משער",
+      "gloss": "seg ueqruy-iw"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ueqruy-iw"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "d teqbayelt-iw"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ṭṭef-deggiri"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "ḥuzbeɣ \/ mbeɛd"
+    }
+  ],
+  "timestamp": "2026-10-03T03:17:17.404991359Z",
+  "model": "glm-5.3"
+}

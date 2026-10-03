@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 82,
+  "translation": "Ihder, a Elohim, ḥkem ⟨⟨tamurt⟩⟩; axaṭer kecc ad teṭṭfeḍ akk leǧnas.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ihder"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ḥkem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leǧnas"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:55.948580989Z",
+  "model": "glm-5.3"
+}

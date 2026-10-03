@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Txeṣṛ-it drus kan seg ⟨Elohim⟩, s tcuct d wadur t-tceṭṭɛeḍ-t.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Txeṣṛ-it"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "drus kan"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "seg ⟨Elohim⟩"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "s tcuct"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "d wadur"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "t-tceṭṭɛeḍ-t"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:18.804891692Z",
+  "model": "glm-5.3"
+}

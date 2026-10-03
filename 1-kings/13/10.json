@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yerra-d iman-is, yuneg abrid-nniḍen, ur yeffeɣ ara seg ubrid i deg ikecmen ɣer Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yuneg"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yeffeɣ ara"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "seg ubrid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i deg"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ikecmen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:20.715950953Z",
+  "model": "glm-5.3"
+}

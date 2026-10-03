@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ttwal-d akka: akk iɣsan i d-yeffɣen seg yiṭṭarjen n Yaɛqov, ḍemmren ad tiliɛec n iɣsan; ma d Yusef, yella-yagi deg Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ttwal-d akka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "iɣsan"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "seg yiṭṭarjen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ɛec"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "n iɣsan"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ma d Yusef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella-yagi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:32.672683902Z",
+  "model": "glm-5.3"
+}

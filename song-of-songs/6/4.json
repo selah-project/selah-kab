@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ta ifawt keččin, a timelda-w, am Tersa; tuzzelt am Yerucalayim; tettaggad am yiserdasen yesɛan aruten.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Ta ifawt"
+    },
+    {
+      "surface": "את",
+      "gloss": "keččin",
+      "marks": "a timelda-w"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "timelda-w"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "am Tersa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "tuzzelt"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "am Yerucalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "tettaggad"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "am yiserdasen yesɛan aruten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:42.215492957Z",
+  "model": "glm-5.3"
+}

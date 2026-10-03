@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad t-swenvem aman s zemṣa deg tebbura n tekkra.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "ad t-swenvem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "s zemṣa"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "deg tebbura"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "n tekkra"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:32.843363874Z",
+  "model": "glm-5.3"
+}

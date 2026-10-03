@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Abimelex yezdeɣ di Aruma, Zebul inefdeɣ ⟨את⟩ Gaɛel akked ⟨את⟩ watmaten-is, ad ur zedɣen ara di Cecem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelex"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "di Aruma"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "inefdeɣ"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaɛel"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaɛel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "watmaten-is"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "ad ur zedɣen ara"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Cecem"
+    }
+  ],
+  "timestamp": "2026-10-02T22:27:14.390403907Z",
+  "model": "glm-5.3"
+}

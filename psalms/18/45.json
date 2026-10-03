@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Deg uselmed n tmeslewt, ad sɛlen fell-i; arraw n yiberraniyen ad zgel fell-i.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "i uselmed"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tmeslewt"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ad sɛlen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "n yiberraniyen"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ad zgel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:20.086746281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Wwin-d ⟨את⟩ ikufen, d ⟨את⟩ imjaden, d ⟨את⟩ imsefraken, d ⟨את⟩ tiganin, d ⟨את⟩ akk ifeggagen n nnḥas imaḥlen iqedcen deg-sen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikufen"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "ikufen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imjaden"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "imjaden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imsefraken"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "imsefraken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiganin"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "tiganin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk ifeggagen n nnḥas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ifeggagen"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "n nnḥas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imaḥlen"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wwin-d"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:29.139622140Z",
+  "model": "glm-5.3"
+}

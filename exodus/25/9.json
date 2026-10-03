@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Akken i d-tidirem: akken i k-d-mlil ⟨את⟩ ayen akk — ⟨את⟩ talɣa n Mickan akked ⟨את⟩ talɣa n yal aɣbalu-is — akka ara txedmem.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "akken i d-tidirem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "i k-d-mlil"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talɣa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "talɣa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "n Mickan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "talɣa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "talɣa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "aɣbalu-is"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ara txedmem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:45.738642827Z",
+  "model": "glm-5.3"
+}

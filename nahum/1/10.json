@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Xas akken meḥzumen am isuka ijellummen, u messen am wayen i ssufen taɣmirt-nsen, ad kwmen am izerfan iweččen, d aččur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Xas akken"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "isuka"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "ijellummen"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "am taɣmirt-nsen"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "wayen i ssufen"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ad kwmen"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "am izerfan"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "iweččen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "d aččur"
+    }
+  ],
+  "timestamp": "2026-10-03T04:30:51.235859032Z",
+  "model": "glm-5.3"
+}

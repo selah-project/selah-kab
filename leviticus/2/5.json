@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ma minḥa-ik d tin ara yettwaxeḍlen ɣef umaḥbaṭ, ṣoleṭ yettwaxelḍen deg zzeyt, maṣṣa ad tili.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "umaḥbaṭ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "minḥa-ik"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ṣoleṭ"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "yettwaxelḍen"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "deg zzeyt"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "maṣṣa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:40.629687912Z",
+  "model": "glm-5.3"
+}

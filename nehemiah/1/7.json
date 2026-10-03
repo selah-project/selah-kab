@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Nexzeb s waṭas ɣur-k, ur neḥrez ara ⟨את⟩ inudan, ⟨wanag ⟨את⟩⟩ yilugan d ⟨את⟩ iḥukman i txedmeḍ i Moce, aɛebbad-ik.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "nexzeb s waṭas"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "nexzeb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "neḥrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inudan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "inudan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "wanag ⟨את⟩",
+      "marks": "yilugan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "yilugan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iḥukman"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "iḥukman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "aɛebbad-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:44:25.262135638Z",
+  "model": "glm-5.3"
+}

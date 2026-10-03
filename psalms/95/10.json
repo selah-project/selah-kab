@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "Arbeɛ n yiseggasen txeṛṛeɣ deg ugdud-agi, d-nnigh: d agdud yettẓeyyin wul — nitenti ur ẓrin ara iberdan-iw.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "arbeɛ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "txeṛṛeɣ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "deg ugdud-agi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "d-nnigh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "yettẓeyyin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nitenti"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nitenti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ẓrin ara"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iberdan-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:29.848064560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Yellan-d γer afella Yosef ad yesḥerres ⟨את⟩ bab-as; yellan-d γer afella yid-s ⟨את⟩ akk yimeẓlay n Paroh, iqaddarnen n wexxam-is, d akk iqaddarnen n tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yellan-d γer afella"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ad yesḥerres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bab-as"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bab-as"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "yellan-d γer afella"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yimeẓlay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Paroh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "iqaddarnen"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n wexxam-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "iqaddarnen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:44.856897862Z",
+  "model": "glm-5.3"
+}

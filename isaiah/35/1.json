@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad tferreḥ tneẓruft d wakal yuzzan, ad yalhez wegraw n tɣerɣert, ad tefruḥ am teẓẓuni.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "ad tferreḥ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tneẓruft"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "d wakal yuzzan"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ad yalhez"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "wgraw n tɣerɣert"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ad tefruḥ"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "am teẓẓuni"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:45.405725612Z",
+  "model": "glm-5.3"
+}

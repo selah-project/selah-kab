@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Acku talwad ɣef talwad, talwad ɣef talwad, izirig ɣef uzirig, izirig ɣef uzirig, cik dagi, cik din.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "צו",
+      "gloss": "talwad"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ɣef talwad"
+    },
+    {
+      "surface": "צו",
+      "gloss": "talwad"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ɣef talwad"
+    },
+    {
+      "surface": "קו",
+      "gloss": "izirig"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ɣef uzirig"
+    },
+    {
+      "surface": "קו",
+      "gloss": "izirig"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ɣef uzirig"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "cik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dagi"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "cik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:00.662708896Z",
+  "model": "glm-5.3"
+}

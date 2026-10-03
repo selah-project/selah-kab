@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mmeslay tura di imeẓẓuɣen n ugdud, ad ssutren yal argaz ⟨את⟩ γer umeddakel-is, yal tameṭṭut ⟨את⟩ γer temeddakelt-is: ifeqqan n lfeṭṭa d ifeqqan n werγ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mmeslay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di imeẓẓuɣen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ad ssutren"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ γer",
+      "marks": "umeddakel-is"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umeddakel-is"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "yal tameṭṭut"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ γer",
+      "marks": "temeddakelt-is"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "temeddakelt-is"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ifeqqan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfeṭṭa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "d ifeqqan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n werγ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:21.265863532Z",
+  "model": "glm-5.3"
+}

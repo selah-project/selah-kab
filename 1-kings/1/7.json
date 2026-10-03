@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Iberdan-is llan d Yoav mmi-s n Ṣeruyah, d Ebeyataṛ aqecṛani; kecmen akk d Adonia, uɛawen-t.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "Iberdan-is"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "n Ṣeruyah"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebeyataṛ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqecṛani"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "kecmen d"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonia"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:02.168082883Z",
+  "model": "glm-5.3"
+}

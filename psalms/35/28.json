@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Iles-iw ad iḥekku ṣedeq-ik, akk ass d taεzimt-ik.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "iles-iw"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ad iḥekku"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ṣedeq-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "d taεzimt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:05.511458215Z",
+  "model": "glm-5.3"
+}

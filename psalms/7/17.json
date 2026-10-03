@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad yuɣal leɛdeb-is ɣef yixef-is, u takerḍa-s ad d-tesli ɣef acudar-is.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "leɛdeb-is"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ɣef yixef-is"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u ɣef"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "acudar-is"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "takerḍa-s"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ad d-tesli"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:48.531663737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Akken ⟨את⟩ akk n Naftali, ⟨את⟩ tmurt n Efrayim d Menače, ⟨את⟩ akk tmurt n Yehuda, arma d ilel n deffir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk n Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk n"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt n Efrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt n"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "d Menače"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk tmurt n Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel n"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "deffir"
+    }
+  ],
+  "timestamp": "2026-10-02T22:09:13.960850797Z",
+  "model": "glm-5.3"
+}

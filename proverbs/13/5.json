@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Awal n ukuzut, win izelɣen t-ikreh; maca win ibeɛden — ad d-yeglu d leɛtab d lḥerma.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n ukuzut"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ad yizelɣ t-ikreh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "win izelɣen"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "maca win ibeɛden"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ad d-yeglu d leɛtab"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "d lḥerma"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:23.434914110Z",
+  "model": "glm-5.3"
+}

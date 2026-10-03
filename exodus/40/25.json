@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yessali tiqeṛṛalin ger yifassen n Yahwe, akken i d-yeṣra Yahwe ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yessali"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "tiqeṛṛalin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ger yifassen n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yeṣra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:26.943716182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "D ⟨את⟩ iḥuriyen deg idurar-nneɣ n Seɛir, arma d El-Paraan, i d-yezgan ɣef lɣerba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iḥuriyen"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "iḥuriyen"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "deg idurar-nneɣ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seɛir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paraan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yezgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lɣerba"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:44.667848405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Ad uɣalen di tmeddit, ad ḥemḥemen am wuccen, ad zzin ɣef temdint.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ad uɣalen"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "di tmeddit"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ad ḥemḥemen"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "am wuccen"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ad zzin ɣef"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "temdint"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:00.934720260Z",
+  "model": "glm-5.3"
+}

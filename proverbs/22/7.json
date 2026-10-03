@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ameṛṛaḥ yeḥkem ⟨את⟩ yigellilen; win issuguten d akli n win it-id-ittunefken.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ameṛṛaḥ"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "yigellilen"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "d akli"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "win issuguten"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "n win"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "it-id-ittunefken"
+    }
+  ],
+  "timestamp": "2026-10-03T02:25:56.330587258Z",
+  "model": "glm-5.3"
+}

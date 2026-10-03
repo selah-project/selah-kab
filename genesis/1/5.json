@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Elohim yessawel i tafat «ass», i ṭṭmedmeṛt yessawel «iḍ». Yella-d taɣmart, yella-d siba: yiwen wass.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "i tafat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "i ṭṭmedmeṛt"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "taɣmart"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "siba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:05.074429081Z",
+  "model": "glm-5.3"
+}

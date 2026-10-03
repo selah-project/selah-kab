@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Atmaten-is walan dakkenn baba-sen iḥemmel-t ugar n atmaten-is meṛṛa, ḥeṣṣen-t, ur ζmiren ara ad d-inin awal n tifrat.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "walan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "Atmaten-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dakkenn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (Yusef)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baba-sen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ugar n"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "atmaten-is meṛṛa"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "ḥeṣṣen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ζmiren ara"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ad d-inin awal"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "n tifrat"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:22.723128477Z",
+  "model": "glm-5.3"
+}

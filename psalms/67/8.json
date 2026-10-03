@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 67,
+  "translation": "Ad yelḥet fell-aɣ Elohim, iɣlanen akk, ig ḍeffiren n tmurt, ad t-ẓafen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "ad yelḥet fell-aɣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ad t-ẓafen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iɣlanen akk ig ḍeffiren n tmurt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ig ḍeffiren"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:31.763266253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Wid yennan: s yils-nneɣ ad nernu tazmert, iṣeffan-nneɣ ⟨את⟩ d neɣ; anwa bab i neɣ?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yennan"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "s yils-nneɣ"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "ad nernu tazmert"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "iṣeffan-nneɣ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "d neɣ — iṣeffan-nneɣ d tagi-nneɣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "bab"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:27.688878879Z",
+  "model": "glm-5.3"
+}

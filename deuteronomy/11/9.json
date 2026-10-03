@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 11:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Iwakken ad teḍḍfen wussan-nwen ɣef ⟨ti⟩ tmurt i Yahwe yeggul i lejdud-nwen ad tt-yefk i yella-nwen d irenni-nsen, tamurt yettazzalen s iḍ d umellay.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Iwakken"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "ad teḍḍfen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan-nwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yeggul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "i lejdud-nwen"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i yella-nwen"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "d irenni-nsen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "yettazzalen s"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "d umellay"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:48.467013493Z",
+  "model": "glm-5.3"
+}

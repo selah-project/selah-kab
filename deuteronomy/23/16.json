@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur ttεazbin ara amɣi ɣer bab-is, win yekksen iman-is ɣer kečč seg bab-is.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "ur ttεazbin ara"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "amɣi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "yekksen iman-is"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer kečč"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "seg"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bab-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:49.654426692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Elohim, kecc tessneḍ leεwayen-iw; tugdiwin-iw ɣur-ek ur ttwaffrent ara.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tessneḍ"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "leεwayen-iw"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "tugdiwin-iw"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ɣur-ek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ttwaffrent ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:44.835163637Z",
+  "model": "glm-5.3"
+}

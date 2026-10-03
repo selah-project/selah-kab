@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Axaṭer s waṭas n tamiccict yella waṭas n leḥzen; win yernan tamusni, yerna timmeḥra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s waṭas n"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tamiccict"
+    },
+    {
+      "surface": "רב",
+      "gloss": "waṭas"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "leḥzen"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "win yernan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tamusni"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "timmeḥra"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:37.361150344Z",
+  "model": "glm-5.3"
+}

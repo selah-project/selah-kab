@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad ẓenqen Aharon akked warrac-is seg-s ⟨את⟩ ifassen-nsen d ⟨את⟩ iḍarren-nsen.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Ad ẓenqen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "akked warrac-is"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ifassen-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iḍarren-nsen"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "iḍarren-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:34.934886293Z",
+  "model": "glm-5.3"
+}

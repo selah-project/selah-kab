@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Ur ttreɣ ara, ad iddu yid-i tameddint, ad d-lɣuɣ igiten n Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ttreɣ ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ad iddu yid-i tameddint"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ad iddu yid-i tameddint"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ad d-lɣuɣ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "igiten n"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:03.431705456Z",
+  "model": "glm-5.3"
+}

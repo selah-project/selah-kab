@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "R-rjal xedmen akka; ṭṭlen snat tfunasin yettheḥlen, ḥeṣlen-tent ɣer ttareyyast, ⟨את⟩ iɛaǧen-nsent ḥebsen-tent deg uxxam.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "r-rjal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭlen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "tfunasin"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "yettheḥlen"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ḥeṣlen-tent"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ɣer ttareyyast"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iɛaǧen-nsent"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "iɛaǧen-nsent"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ḥebsen-tent"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxxam"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:40.773257535Z",
+  "model": "glm-5.3"
+}

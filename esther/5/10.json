@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Maḍmi, Haman yewsir iman-is, yekcem ɣer wexxam-is; yazen ad d-yawed ⟨את⟩ yemdudden-is d ⟨את⟩ Zerec, tameṭṭut-is.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "yewsir iman-is"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wexxam-is"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yazen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ad d-yawed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yemdudden-is"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "yemdudden-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerec"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zerec"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tameṭṭut-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:59.363857726Z",
+  "model": "glm-5.3"
+}

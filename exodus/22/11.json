@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma yella yettwakel segsit-i s, ad yexles i bab-is.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "yettwakel"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "yettwakel"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "segsit-i s"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ad yexles"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "i bab-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:47.762030378Z",
+  "model": "glm-5.3"
+}

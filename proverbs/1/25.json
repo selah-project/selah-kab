@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ttuḥeḍḍifen akk tidect-inw, tuccḍa-inw ur tt-ssentem ara.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "Ttuḥeḍḍifen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "tidect-inw"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "tuccḍa-inw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "tt-ssentem"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:41.760795049Z",
+  "model": "glm-5.3"
+}

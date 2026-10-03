@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Meṛṛa lexdeɛ-ik ad k-cekkɛen, a Yahwe, wid iḥemmlen-ik ad k-ibarken.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ad k-cekkɛen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "lexdeɛ-ik"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "wid iḥemmlen-ik"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ad k-ibarken"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:07.895489035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Deg yal ass ad k-rẓeɣ, ad cennɣ yisem-ik i lebda, armi d lɛiqb.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Deg yal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ad k-rẓeɣ"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ad cennɣ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "armi d lɛiqb"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:39.288432364Z",
+  "model": "glm-5.3"
+}

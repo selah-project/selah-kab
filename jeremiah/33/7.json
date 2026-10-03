@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ad d-rriɣ ⟨את⟩ lɛesr n Yeḥuda d ⟨את⟩ lɛesr n Yisrael, ad ten-bnuɣ akken tella tazwara.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Ad d-rriɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛesr n Yeḥuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "lɛesr"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yeḥuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "lɛesr n Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "lɛesr"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ad ten-bnuɣ"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "akken tella tazwara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:46.563911683Z",
+  "model": "glm-5.3"
+}

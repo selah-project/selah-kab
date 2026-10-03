@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "S tkerra i kfa, awi-ten d iɛdawen; iɛdawen ɣur-i ḥeṣlen.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "i kfa"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "tkerra"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "awi-ten d tkerra"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "iɛdawen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ḥeṣlen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.997509816Z",
+  "model": "glm-5.3"
+}

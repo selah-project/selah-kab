@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 14:10",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad qabelen ⟨את⟩ tuccḍa-nsen: am tuccḍa n win i d-iqewwen, am tuccḍa n navi akka-t talɣa ad tili.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "ad qabelen ⟨את⟩"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "tuccḍa-nsen"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "am tuccḍa"
+    },
+    {
+      "surface": "הדרש",
+      "gloss": "n win i d-iqewwen"
+    },
+    {
+      "surface": "כעון",
+      "gloss": "am tuccḍa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "n navi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akka-t talɣa ad tili"
+    }
+  ],
+  "timestamp": "2026-10-03T00:48:27.635965039Z",
+  "model": "glm-5.3"
+}

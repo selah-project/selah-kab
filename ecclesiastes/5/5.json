@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ur ttakked ⟨את⟩ imi-k akken ad txeṣeḍ ⟨את⟩ id-is-k; ur t-inid zdat lmelak: «d ṭuccḍa-tt», acuɣer ad yeczah Elohim ɣef wawal-ik, ad yexṣer ⟨את⟩ ɣeway n yifassen-ik?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ttakked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imi-k"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imi-k"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "akken ad txeṣeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-is-k"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "id-is-k"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "t-inid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "lmelak"
+    },
+    {
+      "surface": "כי",
+      "gloss": ": d"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "ṭuccḍa-tt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "-tt"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acuɣer"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "ad yeczah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "wawal-ik"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ad yexṣer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɣeway n yifassen-ik"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ɣeway"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "n yifassen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:33.982177816Z",
+  "model": "glm-5.3"
+}

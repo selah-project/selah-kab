@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Nekk, s leḥeqq, ad mwelleɣ ⟨i⟩ wudem-ik; ad ḥemmeɣ, mi ad nruḥeɣ d asirem, s tmuɣli-ik.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "s leḥeqq"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ad mwelleɣ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wudem-ik"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ad ḥemmeɣ"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "mi ad nruḥeɣ d asirem"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "s tmuɣli-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:22.434879999Z",
+  "model": "glm-5.3"
+}

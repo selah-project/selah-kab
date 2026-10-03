@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Yussef yeggugel ⟨את⟩ i warraw n Yisrael, ad yini: Ad d-iḥadre Elohim ⟨את⟩ fellawen kunwi, apan d ⟨את⟩ iḍarren-iw seg wasm-a.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "yeggugel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yussef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i warraw n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ad d-iḥadre"
+    },
+    {
+      "surface": "יפפקד",
+      "gloss": "iḥadre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ fellawen kunwi"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "apan d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḍarren-iw"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "iḍarren-iw"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "seg wasm-a"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:07.226659243Z",
+  "model": "glm-5.3"
+}

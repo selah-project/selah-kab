@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Ljidur i ljidur ad yesbuɣel leqdic-ik, ad d-mmalen tezmar-ik.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Ljidur"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "i ljidur"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ad yesbuɣel"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "leqdic-ik"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "tezmar-ik"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ad d-mmalen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:39.288756386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ẓriɣ belli ulac lxir i ilan deg-sen, siwa ad frureḥen d wakken ad xedcen lxir deg tudert-nsen.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ẓriɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siwa ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "siwa"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ad frureḥen"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "d wakken ad xedcen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "deg tudert-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:56.544016439Z",
+  "model": "glm-5.3"
+}

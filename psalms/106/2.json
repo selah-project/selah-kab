@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Anwa izemren ad d-yemmeslay ɣef tezmranin n Yahwe, ad isefrurḍ akk taḥmilt-is?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ad d-yemmeslay"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "tezmranin n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ad isefrurḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "taḥmilt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:58.889570488Z",
+  "model": "glm-5.3"
+}

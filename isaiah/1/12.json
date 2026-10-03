@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Mi ara tasedem ad d-tbanem i uɣem-iw, anwa kwen-yessutren aya seg ufus-nwen, ad treḍem iḥedran-iw?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi ara"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "tasedem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad d-tbanem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "i uɣem-iw"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "kwen-yessutren"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "aya"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "seg ufus-nwen"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "ad treḍem"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "iḥedran-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:47.434413619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Tura kečč tetteddud tamired: du, inna-as i bab-ik: Atan, Eliyahu illa da.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "tetteddud tamired"
+    },
+    {
+      "surface": "לך",
+      "gloss": "du"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inna-as"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "i bab-ik"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Atan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:02.524588429Z",
+  "model": "glm-5.3"
+}

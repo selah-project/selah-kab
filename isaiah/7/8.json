@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Acku ixef n Aram d Damesq, ixef n Damesq d Reṣin; deg wayen i ḍran settin d semmus n yiseggasen, Ifrayim ad yenger, ur ad yili d agdud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ixef"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesq"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ixef"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesq"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Reṣin"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "deg wayen i ḍran"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "settin"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ad yenger"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ifrayim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "d agdud"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:46.482557181Z",
+  "model": "glm-5.3"
+}

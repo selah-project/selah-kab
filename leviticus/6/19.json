@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Akohen win yettwakksen seg-s ⟨את⟩, ad tt-yecc deg umkan iqedcen; deg uɣrum n Taxejlant n Tlitt ad tt-ecc.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Akohen"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "win yettwakksen seg-s"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "akked (taḥetmunt)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "ad tt-yecc"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ad tt-ecc"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "deg uɣrum"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n Taxejlant"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n Tlitt"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:22.862615871Z",
+  "model": "glm-5.3"
+}

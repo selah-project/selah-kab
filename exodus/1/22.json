@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Paroh iḥekkem i meṛṛa yegdud-is, ad yini: yal mmi-s yettwalqen, ɣer wasif s-ɣellifet-t; yal yelli-s, ḥelletet-t ad tteddun.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "iḥekkem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i meṛṛa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yegdud-is"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "yettwalqen"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "ɣer wasif"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "s-ɣellifet-t"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "ḥelletet-t ad tteddun"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:13.936057298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Inna-as win yettawen ifeckwan-is: Xdem akk ayen yellan deg wul-ik, ruḥ ɛad atan-a, yid-k weɛla, akken yella wul-ik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inna-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "win yettawen"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ifeccwan-is"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Xdem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "yellan deg wul-ik"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ruḥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɛad"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "atan-a"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k weɛla"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "akken yella wul-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:41:57.061850639Z",
+  "model": "glm-5.3"
+}

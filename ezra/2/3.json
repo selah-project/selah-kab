@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Arraw n Paraɛ: sin n yimelyan, miya, sebaɛ d mraw, sin d mraw.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Arraw"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "n Paraɛ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sin n yimelyan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "miya"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebaɛ d mraw"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "sin d mraw"
+    }
+  ],
+  "timestamp": "2026-10-03T03:12:13.661286858Z",
+  "model": "glm-5.3"
+}

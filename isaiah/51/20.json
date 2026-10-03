@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Arrac-ik ḍlen, ṣṣen deg teɣmert n yal iɣrem, am yizim deg teṛẓa; cwan-ten tiṭ n tmeṛṛawt n Yahwe, tamukrist n Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "arrac-ik"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "ḍlen"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "ṣṣen"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "deg teɣmert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "iɣrem"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "am yizim"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "deg teṛẓa"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "cwan-ten"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tiṭ n tmeṛṛawt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "tamukrist"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "n Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:52.639856550Z",
+  "model": "glm-5.3"
+}

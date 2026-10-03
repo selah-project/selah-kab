@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yerna wayen nniḍen, Kohelet yella d amusnaw; isselmad daɣen tussna i ⟨את⟩ ugdud, yeslem, yenneqqed, yesselḥeḍ d tinfusin ugten.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "yerna wayen nniḍen"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "amusnaw"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "למד",
+      "gloss": "isselmad"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tussna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "yeslem"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "yenneqqed"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "yesselḥeḍ"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "tinfusin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ugten"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:37.614055214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Moce yura ⟨את⟩ tuffɣin-nsen ɣef inegzumen-nsen, imi d-yenna Yahwe; d wid-agi inegzumen-nsen akken tuffɣin-nsen.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuffɣin-nsen"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "tuffɣin-nsen"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ɣef inegzumen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "imi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "d wid-agi"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "inegzumen-nsen"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "akken tuffɣin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:45:29.762589465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "I win yettḍebber; Mizmor n David; acennu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettḍebber"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "acennu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:19.939329579Z",
+  "model": "glm-5.3"
+}

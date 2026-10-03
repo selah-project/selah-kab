@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 14:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Acu-t imi Yahwe yewwid-aɣ ⟨את⟩-neɣ ar tmurt-agi, akken ad neggru s tẓeṛbat? Ad ilint tilawin-nneɣ d ijerḥan-nneɣ d lmetṭel. Mačči yif-it-nneɣ ad nquil-d ɣer Miṣrayim?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "acu-t imi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "yewwid"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-neɣ",
+      "marks": "neɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ad neggru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "s tẓeṛbat"
+    },
+    {
+      "surface": "נשינו",
+      "gloss": "tilawin-nneɣ"
+    },
+    {
+      "surface": "וטפנו",
+      "gloss": "ijerḥan-nneɣ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "d lmetṭel"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yif-it"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-nneɣ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ad nquil-d"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ɣer Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T21:31:45.257796509Z",
+  "model": "glm-5.3"
+}

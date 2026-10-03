@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Ad ccnuɣ i Yahwe deg tudert-iw, ad zzemreɣ i Elohim-iw ma yella lwakt-nni deg yid-i.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ad ccnuɣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "deg tudert-iw"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ad zzemreɣ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "i Elohim-iw"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ma yella lwakt-nni deg yid-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:15.392809451Z",
+  "model": "glm-5.3"
+}

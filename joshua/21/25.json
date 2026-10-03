@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Seg wezgen n ṭabu n Menacci: ⟨את⟩ Taɛnak akked ⟨את⟩ teɣmert-is, d ⟨את⟩ Gat Rimmon akked ⟨את⟩ teɣmert-is; snat n yimdanen — snat n tiɣiwanin.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "seg wezgen"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ṭabu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menacci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taɛnak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taɛnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "teɣmert-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teɣmert-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Gat Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "teɣmert-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teɣmert-is"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tiɣiwanin"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "snat"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:06.940420020Z",
+  "model": "glm-5.3"
+}

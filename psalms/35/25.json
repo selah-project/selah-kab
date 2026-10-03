@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad ur nnin deg wulawen-nsen: «Ah-a, ayen yerwin nefes-nneɣ»; ad ur nnin: «Nεes-t-id ⟨i⟩.»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nnin"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "deg wulawen-nsen"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ah-a"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefes-nneɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nnin"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "nεes-t-id"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:05.510926261Z",
+  "model": "glm-5.3"
+}

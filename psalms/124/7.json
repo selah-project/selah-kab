@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 124,
+  "translation": "Nefsu-nneɣ, am tzizwet, ternu seg tfeggagt n yimselɣa; tfeggagt ttesbeṛ, ar nekni nernan.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefsu-nneɣ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "am tzizwet"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "ternu"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "seg tfeggagt"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "n yimselɣa"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "tfeggagt"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ttesbeṛ"
+    },
+    {
+      "surface": "ו אנחנו",
+      "gloss": "ar nekni"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "nernan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:31.096440511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "S taɣwav-ik rbeḥ, tinigeḍ ɣef awal n tidet d tawezla n ṣedeq; ifus-ik ayeffus ad ak-isselmed ⟨tiḥawciwin icuḍḍen⟩.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "d taɣwav-ik"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "rbeḥ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "tinigeḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tidet"
+    },
+    {
+      "surface": "וְענוה",
+      "gloss": "tawezla"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "aselmed"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "tiḥawciwin icuḍḍen"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ifus-ik ayeffus"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:59.966002640Z",
+  "model": "glm-5.3"
+}

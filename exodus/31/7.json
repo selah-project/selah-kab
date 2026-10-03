@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "⟨את⟩ Taɣemt n temlilit, ⟨את⟩ lṣunduq n lɛedut, ⟨את⟩ takessut i d-yezgan fell-as, akked ⟨את⟩ akk iɣeḍḍaḍen n teɣemt.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣemt n temlilit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taɣemt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lṣunduq n lɛedut"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "lṣunduq"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "n lɛedut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "takessut"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takessut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yezgan fell-as"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk iɣeḍḍaḍen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "iɣeḍḍaḍen"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "n teɣemt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:01.416507829Z",
+  "model": "glm-5.3"
+}

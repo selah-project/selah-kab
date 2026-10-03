@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ur ṣḍan ara i timawin-inu, iḥeqren akk tanekda-w.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ṣḍan ara"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "i timawin-inu"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "iḥeqren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "tanekda-w"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:24.275948056Z",
+  "model": "glm-5.3"
+}

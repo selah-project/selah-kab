@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Llan ger-asen sin iwriranen ⟨⟨ara⟩⟩, adan d tmeṭṭut-is, ur ɛeḍlen ara.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sin ger-asen"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "iwriranen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "d tmeṭṭut-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "ɛeḍlen ara"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:13.213810687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "El-iw, El-iw, ɣermi t-terrbeḍ? Teḥrec ɣef tuccḍa-nniw, d awal n leyɛi-nniw.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El-iw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iw"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ɣermi"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "t-terrbeḍ"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "teḥrec"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ɣef tuccḍa-nniw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "d awal"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "n leyɛi-nniw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:10.474213258Z",
+  "model": "glm-5.3"
+}

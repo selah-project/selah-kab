@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ur teddun ara deffir yiṛebbiten-nniḍen, seg yiṛebbiten n yigensan i d-yezgan twenza-wwen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur... ara"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "teddun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yiṛebbiten"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "seg yiṛebbiten n"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yigensan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yezgan"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "twenza-wwen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:36.930249462Z",
+  "model": "glm-5.3"
+}

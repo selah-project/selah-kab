@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yaɛqov yesseḍef i baba-s d yemma-s, iṭṭef ɣer Paddan Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yesseḍef"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d i"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:06.708566533Z",
+  "model": "glm-5.3"
+}

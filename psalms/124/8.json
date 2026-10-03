@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 124,
+  "translation": "Tallalt-nneɣ deg Yisem n Yahwe, Win ixelqen ⟨את⟩ igenwan d ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Tallalt-nneɣ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "deg Yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Win ixelqen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨את⟩ igenwan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "d ⟨את⟩ tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:31.096560439Z",
+  "model": "glm-5.3"
+}

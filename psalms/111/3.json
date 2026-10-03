@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Tazmert d teqsiɛt i d lelxel-is, maḍi-ines n ṣedeq yezga i lebda.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Tazmert"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "d teqsiɛt"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "i d lelxel-is"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "maḍi-ines n ṣedeq"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "yezga"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:09.187871117Z",
+  "model": "glm-5.3"
+}

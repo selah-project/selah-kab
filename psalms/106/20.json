@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Beddlen ⟨את⟩ tezmert-nsen s tnila n yizi yettcekkilen imɣi.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Beddlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tezmert-nsen"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "tezmert-nsen"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "s tnila n"
+    },
+    {
+      "surface": "שור",
+      "gloss": "yizi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yettcekkilen"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "imɣi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:46.737120513Z",
+  "model": "glm-5.3"
+}

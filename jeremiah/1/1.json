@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Awalen n Yirmeyahu, mmi-s n Ḥilqiyyahu, seg yiqeccaben i llan deg Ɛanatot, deg tmurt n Binyamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Awalen"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "n Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "n Ḥilqiyyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "yiqeccaben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i llan"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "deg Ɛanatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "n Binyamin"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:41.965066459Z",
+  "model": "glm-5.3"
+}

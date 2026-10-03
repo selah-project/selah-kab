@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad nren, ad rγen wid ara nufa γef yiman-inu; ad uγalen deffir, ad nren wid yettcebbiren tikkest-inu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ad rγen wid ara"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ad rγen"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "wid ara nufa γef"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "yiman-inu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ad uγalen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ad nren"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "wid yettcebbiren"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "tikkest-inu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:55.726802217Z",
+  "model": "glm-5.3"
+}

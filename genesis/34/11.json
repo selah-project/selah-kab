@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 34:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yenna Cekeṃ i bab-is d i atmaten-is: ad kifeɣ lɛezz deg wallen-ikwen; acu i d-teṭṭramem fell-i, ad akwen-ifkeɣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Cekeṃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d i"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "atmaten-is"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ad kifeɣ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "lɛezz"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "deg wallen-ikwen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "d acu i"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "teṭṭramem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad akwen-ifkeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:22.734568019Z",
+  "model": "glm-5.3"
+}

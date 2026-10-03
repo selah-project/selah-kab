@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Acimi i t-teqseṛeḍ ⟨את⟩ tilisa-nnes, dinna akk wid izzin deg ubrid ṭṭfen-d asentel-is?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Acimi"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "i t-teqseṛeḍ"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "tilisa-nnes"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ṭṭfen-d asentel-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wid izzin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "deg ubrid"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:01.401107252Z",
+  "model": "glm-5.3"
+}

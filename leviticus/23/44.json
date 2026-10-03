@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Imir Moce yemmel ⟨את⟩ ikudan iqeḍcen n Yahwe i warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikudan iqeḍcen n Yahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "ikudan iqeḍcen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:23.720936849Z",
+  "model": "glm-5.3"
+}

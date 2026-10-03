@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Iberdan-ik, a Yahwe, issin-iyi-ten; iberdan-ik iɛedlan ssenqed-iyi-ten.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "iberdan-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "issin-iyi-ten"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "iberdan-ik iɛedlan"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ssenqed-iyi-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:43.778647566Z",
+  "model": "glm-5.3"
+}

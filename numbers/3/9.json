@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad tefkeḍ ⟨את⟩ ileviyen i Aharon d ⟨את⟩ warraw-is; nutni ttunefken-ttunefken i s, ⟨את⟩ seg warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ad tefkeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ileviyen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ileviyen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "d warraw-is"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "ttunefken"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "ttunefken"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i s"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:19.377051973Z",
+  "model": "glm-5.3"
+}

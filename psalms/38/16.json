@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Axaṭer ɣur-k i ṛuḥeɣ ad rnu, a Yahwe; kecc i d-tettarra-d tuqqna, a Adonai, a Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "i ṛuḥeɣ ad rnu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "i d-tettarra-d tuqqna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:34.078059568Z",
+  "model": "glm-5.3"
+}

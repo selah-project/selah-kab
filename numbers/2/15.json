@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "D lɛecc-is, d wid-nnes yettwabeṭṭen: xemsa d rebɛin n yifed, ṣedda temrawin d xamsin.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "d lɛecc-is"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "d wid-nnes yettwabeṭṭen"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "xemsa"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "d rebɛin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yifed"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ṣedda"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "temrawin"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "d xamsin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:45.379046195Z",
+  "model": "glm-5.3"
+}

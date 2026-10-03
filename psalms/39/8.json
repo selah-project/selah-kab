@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Tura, Adonai, acu i ṭṛaɣ? Arra-w deg-k i tella.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "i ṭṛaɣ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Arra-w"
+    },
+    {
+      "surface": "לך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "היא",
+      "gloss": "i tella"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:09.236947112Z",
+  "model": "glm-5.3"
+}

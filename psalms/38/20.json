@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Iɛdawen-inu d imiren, d imeqranen, d aṭas wid t-ikerhen s ubeki.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "iɛdawen-inu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "d imiren"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "d imeqranen"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "d aṭas"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wid t-ikerhen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "s ubeki"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:41.949643328Z",
+  "model": "glm-5.3"
+}

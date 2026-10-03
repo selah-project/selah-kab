@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ass-nni ad yefres ubekkaṛ am wezger, iles n ubuṣṣi ad icceḥ; axaṭer deg yiɣzer fɣen-d waman, d isaffagen deg wakal aɣmayan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ass-nni"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "ad yefres"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "am wezger"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ubekkaṛ"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ad icceḥ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "iles"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ubuṣṣi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "fɣen-d"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg yiɣzer"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "d isaffagen"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "deg wakal aɣmayan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:34.959420177Z",
+  "model": "glm-5.3"
+}

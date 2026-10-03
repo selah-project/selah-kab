@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Eɛfen-iyi, a Elohim, axaṭer amdan yezga ad iyi-yess; akk ass yennaḥen yekkez-iyi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "eɛfen-iyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ad iyi-yess"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yennaḥen"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "yekkez-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:10.879212048Z",
+  "model": "glm-5.3"
+}

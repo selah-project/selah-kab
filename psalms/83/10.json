@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Eg ⟨i⟩ wosen am Madyan, am Sisera, am Yabin, deg wasif n Qicon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Eg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "am Madyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "am Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "am Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "deg wasif n"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Qicon"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:31.752427197Z",
+  "model": "glm-5.3"
+}

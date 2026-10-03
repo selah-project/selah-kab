@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yerna, deg ubrid n yilugan-ik, a Yahwe, nettnaḥ ar-ik; i yisem-ik akked usmekti-ik, illa lebɣi n tinfusin.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ubrid"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "n yilugan-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "nettnaḥ ar-ik"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "i yisem-ik"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "akked usmekti-ik"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "lebɣi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "n tinfusin"
+    }
+  ],
+  "timestamp": "2026-10-02T23:50:18.399560317Z",
+  "model": "glm-5.3"
+}

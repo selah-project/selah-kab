@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Seg David, mi ibeddel tiddi-is ɣer zdat n Abimelex, mi t-iḥeṛṛes d lweḥc, yunag. Icudd deg ⟨את⟩ tiddi-is ɣer zdat n Abimelex, i t-iḥeṛṛes, yunag d lweḥc.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "seg David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "mi ibeddel tiddi-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiddi-is"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "tiddi-is"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat n"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelex"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "i t-iḥeṛṛes"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yunag"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:40.302823995Z",
+  "model": "glm-5.3"
+}

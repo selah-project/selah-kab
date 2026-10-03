@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Aḥaz yensi ɣer yidanten n baba-s, yettwamdel d yidanten n baba-s deg temdint n David; Ḥizqiya, mmi-s, yerna tagelda deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yensi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɣer yidanten n"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "yettwamdel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d yidanten n"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yerna tagelda"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:28.718086109Z",
+  "model": "glm-5.3"
+}

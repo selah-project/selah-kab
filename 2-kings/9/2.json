@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Tusaḍ din, wali din Yehu msi Yihocafat, msi Nemci; tusaḍ, ad t-id-tennuḍeḍ seg tlalit n watmaten-is, ad t-id-tewḍeḍ ⟨את⟩ deg texxamt txatert deg texxamt.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "tusaḍ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "msi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yihocafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "msi"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nemci"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "tusaḍ"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "ad t-id-tennuḍeḍ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg tlalit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n watmaten-is"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "ad t-id-tewḍeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu (deg texxamt)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "texxamt"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "deg texxamt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:19.511625159Z",
+  "model": "glm-5.3"
+}

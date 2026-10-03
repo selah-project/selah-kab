@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Armi melmi, Yahwe, wid n tḍemdt, armi melmi ad ceṛḥen wid n tḍemdt?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n tḍemdt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n tḍemdt"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ad ceṛḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:13.385374891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Arraw-is, d arraw n warraw-is ⟨אתו⟩, tullas-is d tullas n warraw-is, d akk zzerɛ-is; d-wwi-id ⟨אתו⟩ ɣer Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "Arraw-is"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "d arraw n"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "d warraw-is"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "tullas-is"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "d tullas n"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zzerɛ-is"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "d-wwi-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "akk zzerɛ-is"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ɣer Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:59:39.903246264Z",
+  "model": "glm-5.3"
+}

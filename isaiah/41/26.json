@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 41:26",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Anwa i d-yennan seg tazwara akken ad neẓ, seg zik akken ad nini: d ameẓwaran? Ulac win i d-yennan, ulac win i d-yessmalen, ulac win yeslen awalen-ikwen.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "seg tazwara"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "akken ad neẓ"
+    },
+    {
+      "surface": "ומלפנים",
+      "gloss": "seg zik"
+    },
+    {
+      "surface": "ונאמר",
+      "gloss": "akken ad nini"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "d ameẓwaran"
+    },
+    {
+      "surface": "אף",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "win i d-yennan"
+    },
+    {
+      "surface": "אף",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "win i d-yessmalen"
+    },
+    {
+      "surface": "אף",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "win yeslen"
+    },
+    {
+      "surface": "אמריכם",
+      "gloss": "awalen-ikwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:31.297616132Z",
+  "model": "glm-5.3"
+}

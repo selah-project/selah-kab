@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "⟨את⟩ iṭij akken ad yeḥkem deg uzal, axaṭer ḥesed-is ad yegri i lebda.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṭij"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "iṭij"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "akken ad yeḥkem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg uzal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:04.063062683Z",
+  "model": "glm-5.3"
+}

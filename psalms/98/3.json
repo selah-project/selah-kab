@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "translation": "Yameḥ i ḥesed-is akk d liman-is i wexxam n Yisrael; akk igmamen n tmurt ẓran ⟨את⟩ usellek n Elohim-nneɣ.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Yameḥ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "i ḥesed-is"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "akk d liman-is"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i wexxam n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "igmamen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usellek"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "usellek"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "n Elohim-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:01.405701462Z",
+  "model": "glm-5.3"
+}

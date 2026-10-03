@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "D Besalel, mmi-s n Uri, mmi-s n Ḥur, seg tewsit n Yehuda, ixdem ⟨את⟩ akk ayen i d-yesselḥa Yahwe ⟨את⟩ Moce.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "D Besalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Ḥur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "seg tewsit n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yesselḥa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T20:59:21.348373970Z",
+  "model": "glm-5.3"
+}

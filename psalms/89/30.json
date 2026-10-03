@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ad rɣu zzerɛ-is i lɛedda, d taxsert-is am wussan n igenwan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ad rɣu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lɛedda"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zzerɛ-is"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "d taxsert-is"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "am wussan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "n igenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:39.152210192Z",
+  "model": "glm-5.3"
+}

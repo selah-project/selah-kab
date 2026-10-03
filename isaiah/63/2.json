@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Acimi iḥemmel lbas-ik, yilmen-ik am win iteddun deg taṣessabt n tyirtin?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Acimi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "lbas-ik"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "yilmen-ik"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "am win iteddun"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "taṣessabt n tyirtin"
+    }
+  ],
+  "timestamp": "2026-10-03T00:07:54.324027149Z",
+  "model": "glm-5.3"
+}

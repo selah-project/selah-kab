@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Elohim yella d ⟨את⟩ lmeɛlan, yameq; yezdeɣ deg uẓar, yuɣal d win yettḥennun s yizzan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmeɛlan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "lmeɛlan"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "yameq"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uẓar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "win yettḥennun"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "s yizzan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:03.467804223Z",
+  "model": "glm-5.3"
+}

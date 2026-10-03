@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Tazwara n tmusni: tugẓi n Yahwe; ssukkel izeg i kkull wid t-ixedmen; tajmilt-is teqqim i lebda.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "tazwara"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "n tmusni"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "tugẓi n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ssukkel izeg"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "izeg"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i kkull"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "wid t-ixedmen"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tajmilt-is"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "teqqim"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:32.718915511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Nṭṭef ⟨את⟩ akal-nsen, nefka-t d lwaṛit i Ruvbeniyen, i Gadiyen, d wazgen n weɛers n MenaC.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "nṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akal-nsen"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "akal-nsen"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "nefka-t"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "d lwaṛit"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "i Ruvbeniyen"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "i Gadiyen"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "d wazgen"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "weɛers"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "n MenaC"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:25.908911813Z",
+  "model": "glm-5.3"
+}

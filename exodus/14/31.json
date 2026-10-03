@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yisrael iwala ⟨את⟩ ufus ameqqran i d-yexleq Yahwe deg Miṣrayim, wagdud ǧǧlen Yahwe, yexdem liman s Yahwe d Moce anmeẓla-nnes.",
+  "tokens": [
+    {
+      "surface": "וַיַּ֨רְא",
+      "gloss": "yerna yiwala"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֤ל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אֶת֨",
+      "gloss": "⟨את⟩",
+      "marks": "afus"
+    },
+    {
+      "surface": "הַיָּ֣ד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "הַגְּדֹלָ֗ה",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר֨",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "עָשָָׂה֙",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בְּמִצְרַ֖יִם",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "וַיִּֽירְא֥וּ",
+      "gloss": "yerna ǧǧlen"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "wagdud"
+    },
+    {
+      "surface": "אֶת֨",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וַיַּאֲמִ֥ינוּ",
+      "gloss": "yexdeḍ liman s"
+    },
+    {
+      "surface": "בַּיהוָ֔ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וּבְמֹשֶׁ֖ה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עַבְדּֽוֹ",
+      "gloss": "anmeẓla-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:10.488490905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Akk tmurt ssutren ⟨את⟩ udmawen n Celomo, ad slen ⟨את⟩ tussna-nnes, i d-ifka Elohim deg wul-is.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ssutren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmawen n Celomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "n Celomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ad slen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tussna-nnes"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "tussna-nnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i d-ifka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "deg wul-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:15:49.940434271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yefka Elohim lbaraka i ⟨את⟩ wass wis sebaɛ, yerr-it d iqedcen, axaṭer deg-s yesgunfu seg tickci-nnes akk i d-yexleq Elohim iwakken ad yexdem.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Yefka lbaraka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wass wis sebaɛ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis sebaɛ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "yerr-it d iqedcen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-it",
+      "marks": "ass wis sebaɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yesgunfu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "tickci-nnes akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "d-yexleq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "iwakken ad yexdem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:10.416087884Z",
+  "model": "glm-5.3"
+}

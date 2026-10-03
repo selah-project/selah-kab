@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Imir-nni nnan-d: atan, kkani-d, war izenzuren; deg tmennaṛt n wedlis ay d-yuran fell-i.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Imir-nni"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nnan-d"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "atan"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kkani-d"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "deg tmennaṛt n"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "adlis"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "ay d-yuran"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:15.600673855Z",
+  "model": "glm-5.3"
+}

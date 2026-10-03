@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Moce yura ⟨את⟩ akk awalen n Yahwe. Yemmader zik n ṣṣbeḥ, yebna meṛbeḥ ddaw udrar, d snat n tmer d mraw n yiseɣdan i snat n tmer d mraw n yiɛeccen n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "yemmader zik"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "n ṣṣbeḥ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meṛbeḥ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "udrar"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "d snat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "n tmer d mraw"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "n yiseɣdan"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "i snat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "n tmer d mraw"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "n yiɛeccen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:39.974115452Z",
+  "model": "glm-5.3"
+}

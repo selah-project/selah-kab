@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "I win yewṭen Miṣrayim di bekkur-nnsen; axaṭer ḥesed-is iqqim i lebda.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "I win yewṭen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "di bekkur-nnsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:09.755423888Z",
+  "model": "glm-5.3"
+}

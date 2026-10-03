@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Agellid yenna-yas i Acpnaz, ameqqran n yiṣarisin-is, ad d-yewwi seg warraw n Yisrael, seg zerru n tgelda akked wid seg hapartemiyen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Agellid"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "i Acpnaz"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "n yiṣarisin-is"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ad d-yewwi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "seg warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "seg zerru"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "n tgelda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "akked seg"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "hapartemiyen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:51.952076177Z",
+  "model": "glm-5.3"
+}

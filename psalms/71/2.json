@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "S ṣedeq-inek nuddeɣ d-teleɣ tura; sselles tadsa-inek ɣur-i, ḥrez-im.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "S ṣedeq-inek"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "nuddeɣ"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "d-teleɣ tura"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "sselles"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tadsa-inek"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ḥrez-im"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:32.896136007Z",
+  "model": "glm-5.3"
+}

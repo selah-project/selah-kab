@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "mmi-s n Callum, mmi-s n Ṣadoq, mmi-s n Aḥitub.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Callum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ṣadoq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Aḥitub"
+    }
+  ],
+  "timestamp": "2026-10-03T03:14:32.079789228Z",
+  "model": "glm-5.3"
+}

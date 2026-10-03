@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Wwiɣ ⟨את⟩ kunwi ɣer tmurt n Akarmel, iwakken ad teččem ifiren-is d lxir-is; tkecmem, tḥerjjem ⟨את⟩ tmurt-iw, twella-iw terra-m-tt d takerḍit.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Wwiɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "n Akarmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "iwakken ad teččem"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ifiren-is"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "d lxir-is"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "tkecmem"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "tḥerjjem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-iw"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tmurt-iw"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "twella-iw"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "terra-m-tt"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "d takerḍit"
+    }
+  ],
+  "timestamp": "2026-10-03T00:12:37.698521589Z",
+  "model": "glm-5.3"
+}

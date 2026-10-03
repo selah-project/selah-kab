@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Assen n lbuq d tṣerbiḥt ɣef yidebbazen iḥermezen d yidebbazen n tiqerḥatin timqqranin.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "assen"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lbuq"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "tṣerbiḥt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "idebbazen"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "iḥermezen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "tiqerḥatin"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "timqqranin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:31:27.510183387Z",
+  "model": "glm-5.3"
+}

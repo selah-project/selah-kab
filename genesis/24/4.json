@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "akken ad tduḍ ɣer tmurt-iw d i wanda twuleɣ, ad tawiḍ tağğalt i mmi-i, i Yiṣḥaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "akken ad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tmurt-iw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "i wanda twuleɣ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ad tduḍ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ad tawiḍ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tağğalt"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i mmi-i"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "i Yiṣḥaq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:59.758863394Z",
+  "model": "glm-5.3"
+}

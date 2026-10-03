@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "D ⟨את⟩ widagi tettekferem-ten deg yiẓeṛban; ur ttwattan ara: ceqeṣ ṣint: ⟨את⟩ hancer, d ⟨את⟩ haperes, d ⟨את⟩ haɛaznaya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "widagi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "widagi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "tettekferem-ten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "deg"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "yiẓeṛban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ttwattan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ceqeṣ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ṣint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hancer"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "hancer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haperes"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "haperes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haɛaznaya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "haɛaznaya"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:55.273001104Z",
+  "model": "glm-5.3"
+}

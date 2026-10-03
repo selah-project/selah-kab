@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ad t-teṭṭfeḍ ⟨את⟩ azger n ddnub, ad t-yeɣleḍ deg wemkan yettwamḍan n uxxam, beṛṛa n ⟨teqedcit⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ad t-teṭṭfeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azger"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "azger"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "n ddnub"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ad t-yeɣleḍ"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "deg wemkan yettwamḍan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "n teqedcit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:12:45.360167065Z",
+  "model": "glm-5.3"
+}

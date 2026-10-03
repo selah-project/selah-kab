@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Samwel yemmeslay i ⟨את⟩ ugdud ccreɛ n tgelda, yura-t deg wedlis, yerra-t din sdat n Yahwe. Samwel ineḍf ⟨את⟩ ugdud akk, yal argaz ɣer wexxam-is.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ccreɛ n tgelda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "n tgelda"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "yura-t"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deg wedlis"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "yerra-t din"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ineḍf"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ɣer wexxam-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:47.854002091Z",
+  "model": "glm-5.3"
+}

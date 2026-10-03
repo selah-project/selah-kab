@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yeṭṭef David i iḥervumen-is, yeẓẓa-ten; akken daɣen akk irgazen i yellan yid-s ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "i iḥervumen-is"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "yeẓẓa-ten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akken daɣen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s",
+      "marks": "irgazen i yellan yid-s"
+    }
+  ],
+  "timestamp": "2026-10-02T22:56:07.801358045Z",
+  "model": "glm-5.3"
+}

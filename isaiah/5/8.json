@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ayi i wid izemren axxam ɣer wxxam, taẓeṭṭaṭ ɣer teẓeṭṭaṭ, armi ulac amkan, ad tekketem kan kunwi deg tlemmast n tmurt!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "wid izemren"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ɣer wxxam"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "taẓeṭṭaṭ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ɣer teẓeṭṭaṭ"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ad qerben"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "ad tekketem"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "kan kunwi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg tlemmast"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:13.730354851Z",
+  "model": "glm-5.3"
+}

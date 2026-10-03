@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Niḥen, nxedmen tucḍiwin, nxedmen dirit, nurun ɣef-ik, nduz seg tseddaṛin-ik yerna seg ccreɛ-ik.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Niḥen"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "nxedmen tucḍiwin"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "nxedmen dirit"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "nurun ɣef-ik"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "nduz"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "seg tseddaṛin-ik"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "yerna seg ccreɛ-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T03:08:17.289272049Z",
+  "model": "glm-5.3"
+}

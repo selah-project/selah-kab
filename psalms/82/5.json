@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 82,
+  "translation": "Ur ẓran ara, ur fahmen ara; deg tẓi ad ddun; akk iẓuran n tmurt ad ḥettemen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fahmen"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "deg tẓi"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ad ḥettemen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "iẓuran"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:55.948051759Z",
+  "model": "glm-5.3"
+}

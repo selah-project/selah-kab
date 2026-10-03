@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yirmeyahu yettkel-d yeffeɣ ger weɣdud, ɣur-sen ur sqedden ara ⟨את⟩-i deg axxam n tebsert.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yettkel-d"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ger"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weɣdud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sqedden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-i",
+      "marks": "axxam n tebsert"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg axxam"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "n tebsert"
+    }
+  ],
+  "timestamp": "2026-10-03T00:33:49.016206477Z",
+  "model": "glm-5.3"
+}

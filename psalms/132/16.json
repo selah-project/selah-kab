@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Ideryen-is ad ten-lbeɣ s leḥqeq, iqedcen-is ad cecnun d lefrḥ.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "Ideryen-is"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ad ten-lbeɣ"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "s leḥqeq"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "ad cecnun"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "d lefrḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:17.920710420Z",
+  "model": "glm-5.3"
+}

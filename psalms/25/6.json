@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Cfu ɣef tireḥmin-ik, a Yahwe, d ḥesed-ik, axaṭer seg zik i llan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cfu ɣef"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tireḥmin-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "d ḥesed-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "seg zik"
+    },
+    {
+      "surface": "המה",
+      "gloss": "i llan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:50.644687156Z",
+  "model": "glm-5.3"
+}

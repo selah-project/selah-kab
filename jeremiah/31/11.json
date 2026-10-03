@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Axaṭer Yahwe i ḥella ⟨את⟩ Yaɛqov, i t-id-yefren seg ufus n wayeṭ i t-yugaren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "i ḥella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "i t-id-yefren"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "n wayeṭ i t-yugaren"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T00:29:32.762080226Z",
+  "model": "glm-5.3"
+}

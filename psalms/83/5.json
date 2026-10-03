@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Nnan: Ayted, ad ten-nekkes akken ur ilin ara d agdud, dɣa ⟨את⟩ isem n Yisrael ur yettwakat ara diɣen.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Nnan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Ayted"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ad ten-nekkes"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "d agdud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "yettwakat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "diɣen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:51.440339529Z",
+  "model": "glm-5.3"
+}

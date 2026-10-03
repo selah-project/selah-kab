@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yahwe, deg tezmert-ik yecfeḥ ugellid, deg wesellak-ik ikker deg wallaɣ s waṭas!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "deg tezmert-ik"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yecfeḥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "deg wesellak-ik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "s waṭas (mhā)"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ikker deg wallaɣ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:21.164367181Z",
+  "model": "glm-5.3"
+}

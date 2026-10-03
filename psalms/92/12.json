@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Wallen-inu ẓran-d ⟨את⟩ wid iɣummnen ɣuri; imeẓẓuɣen-inu slen-d ⟨את⟩ wid ibeddun mgal-i, wid ixedmen ccuḍ.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "ẓran-d"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "wallen-inu"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "wid iɣummnen ɣuri"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "wid ibeddun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mgal-i"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wid ixedmen ccuḍ"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "slen-d"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "imeẓẓuɣen-inu"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:51.542038460Z",
+  "model": "glm-5.3"
+}

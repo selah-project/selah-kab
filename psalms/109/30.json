@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ad ceddeq Yahwe s waṭas s imi-w, deg talwit n waṭas ad t-cebbiḥeɣ.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ad ceddeq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "s imi-w"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "deg talwit n"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "waṭas n yemdanen"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ad t-cebbiḥeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:29.333045911Z",
+  "model": "glm-5.3"
+}

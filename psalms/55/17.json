@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Nekk, ad ssutureɣ ɣer Elohim, ad yelḥu-yi Yahwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad ssutureɣ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ad yelḥu-yi Yahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ad isellek-yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:58.627039989Z",
+  "model": "glm-5.3"
+}

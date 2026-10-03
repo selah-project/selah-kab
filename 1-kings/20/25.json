@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Keččini, ssejjel i yek leɛesker am leɛesker win i d-yegrin ⟨את⟩ seg kečč, d aɛudi s wemkan n uɛudi, taɛrekt s wemkan n taɛrekt; ad nwren mgal-asen ⟨את⟩ di uzɣar, ma nezmer ad nugar-asen. Yessesla i wawal-nsen, yexdem akka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Keččini"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "ssejjel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "leɛesker"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "am leɛesker"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "win i d-yegrin"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ seg kečč",
+      "marks": "aɛudi"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "d aɛudi"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "s wemkan n uɛudi"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "taɛrekt"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "s wemkan n taɛrekt"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ad nwren"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mgal-asen",
+      "marks": "di uzɣar"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "di uzɣar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "nezmer"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ad nugar-asen"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "yessesla"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "i wawal-nsen"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    }
+  ],
+  "timestamp": "2026-10-02T23:24:29.756016923Z",
+  "model": "glm-5.3"
+}

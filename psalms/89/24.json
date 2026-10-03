@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ad rẓeɣ iɛdawen-is qbel wallen-is, wid t-ikerhen ad ten-nessun.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Ad rẓeɣ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "qbel wallen-is"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "iɛdawen-is"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "wid t-ikerhen"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ad ten-nessun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:44.616654747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ad lbeṣ igenni s tiberkanit, ad s-ruɣ asakken d usettif-nnes.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "ad lbeṣ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenni"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "s tiberkanit"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "asakken"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ad s-ruɣ"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "d usettif-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:38.071683698Z",
+  "model": "glm-5.3"
+}

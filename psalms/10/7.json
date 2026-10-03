@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Imi-s yeččur tiqessḍin, d zzub d lḥeryel; dda n yils-is: tasaḍ d lbaṭel.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "tiqessḍin"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "imi-s"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yeččur"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "d zzub"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "d lḥeryel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dda"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "n yils-is"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tasaḍ"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "d lbaṭel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:43.641502920Z",
+  "model": "glm-5.3"
+}

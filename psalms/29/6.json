@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad ten-yerr ad nenzeh am ilef; Lebnan akked Siryon am maw n yireɛmen.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "ad ten-yerr ad nenzeh"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ilef"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebnan"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "Siryon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "maw n"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "yireɛmen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:53.957355654Z",
+  "model": "glm-5.3"
+}

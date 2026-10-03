@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Maca Yisellkiten i yisem-is, iwakken ad d-yesseḥ ⟨את⟩ tazmert-is.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Maca Yisellkiten"
+    },
+    {
+      "surface": "למען",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "iwakken ad d-yesseḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazmert-is"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "tazmert-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:53.455995143Z",
+  "model": "glm-5.3"
+}

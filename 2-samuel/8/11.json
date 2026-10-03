@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Tigi ⟨אתם⟩ ula d nitenti, agellid David yeqedcen i Yahwe, akked lfeṭṭa d ddheb i yeqedcen seg wakk iɣlanen i yeṭṭef.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula d nitenti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "tigi"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "yeqedcen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lfeṭṭa"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ddheb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "yeqedcen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg wakk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "yeṭṭef"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:16.063609139Z",
+  "model": "glm-5.3"
+}

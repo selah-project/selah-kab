@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ɣur-k zzɛun, rnu melliten; deg kečči ttkalen, rnu ur triḥen ara.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Ɣur-k"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "zzɛun"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "rnu melliten"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg kečči"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ttkalen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "rnu ur… ara"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "triḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:50.206136835Z",
+  "model": "glm-5.3"
+}

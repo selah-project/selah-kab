@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Acku ussan-iw fakken am ddexxan, iɣsan-iw ṛɣen am iṣekkur n tmes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "fakken"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "am ddexxan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ussan-iw"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "iɣsan-iw"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "קד",
+      "gloss": "iṣekkur n tmes"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ṛɣen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:02.371973776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Tadduled ɣer ugellid, tameslayeḍ yides akken i d-yenna wawal-a; Yuab yerra ⟨את⟩ wawalen deg imi-is.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "tadduled"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "tameslayeḍ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yides"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken i d-yenna wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yuab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "deg imi-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:01:13.239538809Z",
+  "model": "glm-5.3"
+}

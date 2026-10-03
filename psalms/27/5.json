@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Acku ad iyi-yeffer deg uxvam, deg wass n dir; ad iyi-yifer deg wemseggiw n texxamt-is; ɣef uẓru ad iyi-yernu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "ad iyi-yeffer"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "deg uxvam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ad iyi-yifer"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg wemseggiw"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "n texxamt-is"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ɣef uẓru"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ad iyi-yernu"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:20.464824194Z",
+  "model": "glm-5.3"
+}

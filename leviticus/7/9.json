@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akk d minḥa ara yettwafxen deg ufurnu, akk d wayen yettwaxedmen di temreḥest neɣ deg umeḥbat, ad tili i weḥeccal win yettaznen ⟨את⟩-s, i iman-is.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "yettwafex"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "deg ufurnu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yettwaxedmen"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "di temreḥest"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "neɣ deg"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "umeḥbat"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "i weḥeccal"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "win yettaznen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minḥa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i iman-is"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:10.941668992Z",
+  "model": "glm-5.3"
+}

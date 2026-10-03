@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Kečč ad tekkreḍ, ad teḥmemeḍ Ẓiyyun; axaṭer yewweḍ akud iwakken ad tt-neḥmel, yewweḍ lakud yettwasbadun.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ad tekkreḍ"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ad teḥmemeḍ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ẓiyyun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "iwakken ad tt-neḥmel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yewweḍ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lakud yettwasbadun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:28.884665548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yessuk-d akk imezzwura deg Miṣrayim, tamenzut n tezmert-nsen, deg txamin n Ḥam.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yessuk-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "imezzwura"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tamenzut"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "n tezmert-nsen"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "deg txamin"
+    },
+    {
+      "surface": "חם",
+      "gloss": "n Ḥam"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:00.585613707Z",
+  "model": "glm-5.3"
+}

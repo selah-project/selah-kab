@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ẓwan deg wayyur amenzu, deg wass wis 14 n wayyur, gar tnarin, deg udeffar n Sina; akken i d-yeḥku Yahwe i Moce, akka i xedmen tarwa n Yisrael ⟨את⟩ tifsit.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ẓwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tifsit"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "tifsit"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "amenzu"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ṛebɛa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "10"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n wayyur"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tnarin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg udeffar"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeḥku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:30.610014623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Nnefteɣ ⟨את⟩ axxam-iw, ijjaɣ ⟨את⟩ lɛahd-iw; fkiɣ ⟨את⟩ taɣ-iy-i deg ufus n yiɛdawen-is.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Nnefteɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam-iw"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "axxam-iw"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "ijjaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "fkiɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣ-iy-i"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "taɣ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "-iy-i"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "n yiɛdawen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:20:53.522805333Z",
+  "model": "glm-5.3"
+}

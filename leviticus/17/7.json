@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ur yazbɣen ara yakan ⟨את⟩ izekkwan-nnsen i yiɣelmiwen-nnsen, ɣef deffir-sen ara tzunin. Tagi d ccreɛ i lebda, ad tili asen i yileẓran-nnsen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "yazbɣen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izekkwan-nnsen"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "izekkwan-nnsen"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "i yiɣelmiwen-nnsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɣef deffir-sen"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "tzunin"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "deffir-sen"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "i yileẓran-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:19.715182124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Agellid n Yisrael akked Yehocafaṭ agellid n Yehuda qqimen, yal ⟨yiwen⟩ ɣef taxsert-is, wensen ⟨iɣmisen⟩, deg tanewt, ɣef tebburt n teγzirt n Comeron; yal inavaten ttmeslayen d navi quddat-sen.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehocafaṭ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "qqimen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "taxsert-is"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "wensen"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "iɣmisen"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "deg tanewt"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ɣef tebburt"
+    },
+    {
+      "surface": "שער",
+      "gloss": "n teγzirt"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comeron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "inavaten"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "ttmeslayen d navi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "quddat-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:25:46.116864945Z",
+  "model": "glm-5.3"
+}

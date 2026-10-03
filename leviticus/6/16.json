@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D yal minḥa n ukohen, ad tili ⟨d⟩ tameṛṛaqt akk; ur tettwettet ara.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "d yal"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minḥa n"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ukohen"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tettwettet ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:03:53.130956006Z",
+  "model": "glm-5.3"
+}

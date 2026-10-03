@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 27:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad teggueḍ tiḥunac-is i tekkast n lɣubra-s, iselfa-nnes, isiffa-nnes, tiẓdam-nnes d tiɣmestin-nnes; akk iḥlan-is ad ten-teggueḍ s nneɣus.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad teggueḍ"
+    },
+    {
+      "surface": "סירתיו",
+      "gloss": "tiḥunac-is"
+    },
+    {
+      "surface": "לדשנו",
+      "gloss": "i tekkast n lɣubra-s"
+    },
+    {
+      "surface": "ויעיו",
+      "gloss": "iselfa-nnes"
+    },
+    {
+      "surface": "ומזרקתיו",
+      "gloss": "isiffa-nnes"
+    },
+    {
+      "surface": "ומזלגותיו",
+      "gloss": "tiẓdam-nnes"
+    },
+    {
+      "surface": "ומחתתיו",
+      "gloss": "tiɣmestin-nnes"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iḥlan-is"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad ten-teggueḍ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "s nneɣus"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:09.579399481Z",
+  "model": "glm-5.3"
+}

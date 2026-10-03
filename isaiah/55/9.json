@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Axaṭer ddaw n yigenwan i d-ullin seg ⟨tmurt⟩, akken i llan iberdan-iw ddaw n yiberdan-nwen, d ttikwalin-iw ddaw n ttikwalin-nwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "i d-ullin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg ⟨tmurt⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken i llan"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "i d-ullin"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iberdan-iw"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "ddaw n yiberdan-nwen"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "d ttikwalin-iw"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "ddaw n ttikwalin-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:22.069008395Z",
+  "model": "glm-5.3"
+}

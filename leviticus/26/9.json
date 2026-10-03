@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad tuɣaleɣ ɣer-wen, ad k-ɛeddnen ⟨את⟩ ken, ad k-ssumaɣ ⟨את⟩ ken, ad beddleɣ ⟨את⟩ lɛahd-iw ⟨את⟩ garawen.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ad tuɣaleɣ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ɣer-wen"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ad k-ɛeddnen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ken",
+      "marks": "ad k-ɛeddnen"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ad k-ssumaɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ken",
+      "marks": "ad k-ssumaɣ"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ad beddleɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ garawen",
+      "marks": "lɛahd-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:09.244947282Z",
+  "model": "glm-5.3"
+}

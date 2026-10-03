@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 142,
+  "translation": "Maskil i David, mi yella deg ⟨את⟩ wemkan n ifri — tazallit.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "mi yella"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "deg ifri"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "tazallit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.050428151Z",
+  "model": "glm-5.3"
+}

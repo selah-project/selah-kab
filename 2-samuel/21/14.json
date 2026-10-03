@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 21:14",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Kebbren ⟨את⟩ iḍarren n Cawl akked Yehonatan mmi-s di tmurt n Bunyamin, di Ṣeɫaɛ, di lḥuṭṭan n Qiš baba-s; xedmen akk ayen i d-yeḥkem ugellid, yerna Elohim yessufeɣ-d i tmurt deffir n wayen-nni.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "kebbren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḍarren"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "iḍarren"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "akked Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bunyamin"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "di Ṣeɫaɛ"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di lḥuṭṭan"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Qiš"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yeḥkem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "yessufeɣ-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "i tmurt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "n wayen-nni"
+    }
+  ],
+  "timestamp": "2026-10-02T23:05:49.277112592Z",
+  "model": "glm-5.3"
+}

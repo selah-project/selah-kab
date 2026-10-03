@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 8:12",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Seg warrac n Ɛazgad: Yoḥanan mmi-s n Haqṭan, yid-s ṭam d ṭam (ṭam d ṭam) d ṭam izerben.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Seg warrac n"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Ɛazgad"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yoḥanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "Haqṭan"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ṭam d ṭam"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "d ṭam"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "izerben"
+    }
+  ],
+  "timestamp": "2026-10-03T03:15:33.337083459Z",
+  "model": "glm-5.3"
+}

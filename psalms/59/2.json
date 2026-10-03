@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Seg iɛdawen-iw sellek-iyi, a Elohim iw; si wid yebren ɣef-i sselɛu-iyi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "sellek-iyi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "Seg iɛdawen-iw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "a Elohim iw"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "si wid yebren ɣef-i"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "sselɛu-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:34.504770961Z",
+  "model": "glm-5.3"
+}

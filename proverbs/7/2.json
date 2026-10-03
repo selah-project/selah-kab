@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ḥrez ilugan-iw, ad tidded; Tora-inu am tfawt n tiṭ-ik.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ilugan-iw"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ad tidded"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "Tora-inu"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "am tfawt"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "n tiṭ-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:19:26.172308017Z",
+  "model": "glm-5.3"
+}

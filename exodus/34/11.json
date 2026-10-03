@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Eḥfeḍ i iman-ik ⟨את⟩ ayen i k-initeɣ nekk ass-a; ha-t-an, nekk ad ssuffuɣeɣ si zdat-ik ⟨את⟩ Imuṛiyen, d Kenaɛniyen, d Iḥitiyen, d Iferiziyen, d Iḥiwiyen, d Iyebusiyen.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "eḥfeḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i iman-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i k-initeɣ ass-a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "i k-initeɣ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ha-t-an"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ad ssuffuɣeɣ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "si zdat-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Imuṛiyen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Imuṛiyen"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "d Kenaɛniyen"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "d Iḥitiyen"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "d Iferiziyen"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "d Iḥiwiyen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "d Iyebusiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:56.753633649Z",
+  "model": "glm-5.3"
+}

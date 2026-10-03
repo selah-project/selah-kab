@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Xleḍ iman-ik snat n tiqbayalin n lfḍaḍ, ttwaheggant s ukruḍ ad ⟨את⟩ tent-txleḍ, ad ilint ɣur-ik i wesfar n temmekt (lɛamra), d usenker n ⟨את⟩ ilqbayen.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Xleḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iman-ik"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "tiqbayalin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfḍaḍ"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "s ukruḍ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad txleḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tent"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-ik"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "i wesfar"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "n temmekt"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "d usenker"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilqbayen"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ilqbayen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:13.279805963Z",
+  "model": "glm-5.3"
+}

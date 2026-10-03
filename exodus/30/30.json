@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "⟨את⟩ Aharon d ⟨את⟩ warraw-is ad ten-tdehneḍ, ad ten-tesqedceḍ d iqedcen akken ad llin d leqweṛṣat-iw.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ad ten-tdehneḍ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ad ten-tesqedceḍ d iqedcen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon d warraw-is"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "akken ad llin d leqweṛṣat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:01.975917369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Anwa ixeddem da, i xedmen, issawel i tewsa seg tazwara? Nekki, Yahwe, d amezwaru, d ⟨את⟩ wid ineggura, nekkini d netta.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ixeddem"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "i xedmen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "issawel"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "i tewsa"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "seg tazwara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "d amezwaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wid ineggura"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "wid ineggura"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:41.488622557Z",
+  "model": "glm-5.3"
+}

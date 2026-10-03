@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ad tnaḍem ⟨את⟩ Yahwe, Elohim-nwen, ad iḥebber ⟨את⟩ taffurt-ik d ⟨את⟩ waman-ik; ad kkseɣ lmeṛḍ seg texxamt-ik.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ad tnaḍem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ad iḥebber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taffurt-ik"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "taffurt-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "waman-ik"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "waman-ik"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ad kkseɣ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "lmeṛḍ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "seg texxamt-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:36.052510929Z",
+  "model": "glm-5.3"
+}

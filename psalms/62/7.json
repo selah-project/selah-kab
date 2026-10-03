@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Kan Neṭṭa i d-sruḥ-iw d uselki-iw, d ssuɛd-iw; ur ppiliɣ ara.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Neṭṭa"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sruḥ-iw"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "d uselki-iw"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ssuɛd-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ppiliɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:45.270395411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yahwe Adonai-nneɣ, meqqer maḍdi S-ik deg tmurt akk!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai-nneɣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "meqqer maḍdi"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "meqqer"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "S-ik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg…akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:58.626467565Z",
+  "model": "glm-5.3"
+}

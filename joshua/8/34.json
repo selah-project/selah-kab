@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Syin akin, Yehochua iɣeṛ ⟨את⟩ akk awalen n Tora, tabarakt d lɛetba, akken akk i yuran deg wedlis n Tora.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "syin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "iɣeṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen n Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "n Tora"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "tabarakt"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "d lɛetba"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken akk"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "i yuran"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deg wedlis"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "n Tora"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:30.813733419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ur telli ara deg igenwan, akken ad tiniḍ: Anwa i d-ittali ɣer igenwan ɣer-neɣ, ad tt-yawi ɣer-neɣ, ad aɣ-t-islen ⟨את⟩, ad tt-nexdem?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "telli ara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "akken ad tiniḍ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "i d-ittali"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ɣer igenwan"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ad tt-yawi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ad aɣ-t-islen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "itt — taladna"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ad tt-nexdem"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:30.685988602Z",
+  "model": "glm-5.3"
+}

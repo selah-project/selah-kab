@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Rriɣeɣ abrid, ddegg-iɣ seg wedrar, ssersɣ ⟨את⟩ tfelwiyin deg teṣanduqt i ṣfenɣ, qqment din, akken i yi-d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "rriɣeɣ abrid"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ddegg-iɣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "wedrar"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ssersɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tfelwiyin"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tfelwiyin"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "deg teṣanduqt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ṣfenɣ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "qqment"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "i yi-d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:26.450167853Z",
+  "model": "glm-5.3"
+}

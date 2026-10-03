@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Win icubben iceɛlen-nnek s lxir; ad tettujeddeb temẓit-ik am unṣar.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "win icubben"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "s lxir"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "iceɛlen-nnek"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "ad tettujeddeb"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "am unṣar"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "temẓit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:32.278299921Z",
+  "model": "glm-5.3"
+}

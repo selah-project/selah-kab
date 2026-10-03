@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Wali, ur it-isekleḍ ara ur it-ittargu ara Win iṭṭfen Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "it-isekleḍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "it-ittargu"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Win iṭṭfen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:24.574317583Z",
+  "model": "glm-5.3"
+}

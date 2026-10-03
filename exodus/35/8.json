@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "D zzit i tafat, d ttεemmin i zzit n usmdeḥ d i lbeḥur n ttεemmin.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "d zzit"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "i tafat"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "d ttεemmin"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "i zzit"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n usmdeḥ"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "d i lbeḥur"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "n ttεemmin"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:26.368480358Z",
+  "model": "glm-5.3"
+}

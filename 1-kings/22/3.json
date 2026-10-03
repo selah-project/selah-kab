@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yenna-d ugellid n Yisrael i yimeddanen-is: ma teẓram belli Ramot Gilɛad nneɣ-t, nekkni neṭṭef awal neḥbes deg uṭṭef ⟨את⟩ seg ufus n ugellid n Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imeddanen-is"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ma teẓram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nneɣ-t"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nekkni"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "neṭṭef awal neḥbes"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "deg uṭṭef"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot Gilɛad"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T23:25:52.519155442Z",
+  "model": "glm-5.3"
+}

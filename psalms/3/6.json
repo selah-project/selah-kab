@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Nniɣ: ttiddeɣ, ttiddeɣ, ssuḥenɣ, axaṭer Yahwe iṭṭef-iyi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nniɣ"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ttiddeɣ"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ttiddeɣ"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ssuḥenɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "iṭṭef-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:45.434545177Z",
+  "model": "glm-5.3"
+}

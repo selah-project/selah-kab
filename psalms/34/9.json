@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ṭamu, walit, belli Yahwe d axir umi: ifelk ⟨i⟩ wemdan yettḥesten deg-s.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ṭamu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "walit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d axir umi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ifelk"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨i⟩ wemdan"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "yettḥesten"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:14.980094726Z",
+  "model": "glm-5.3"
+}

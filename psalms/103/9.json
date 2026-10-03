@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Ur yennaɣ ara i lebda, ur yeḥrez ara lɣadab i lebda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ad yennaɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ad yeḥrez lɣadab"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:25.543488568Z",
+  "model": "glm-5.3"
+}

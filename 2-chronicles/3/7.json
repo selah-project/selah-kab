@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Iḍebbeṛ ⟨את⟩ uxxam — iɣlan-is, tiɛeddin-is, iẓuran-is d tebbuḥin-is — s ḍeheb, yerna yuran ikerubin ɣef yiẓuran.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "iḍebbeṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "iɣlan"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "tiɛeddin"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "iẓuran-is"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "tebbuḥin-is"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ḍebeb"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "yuran"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ikerubin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "yiẓuran"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:53.092596539Z",
+  "model": "glm-5.3"
+}

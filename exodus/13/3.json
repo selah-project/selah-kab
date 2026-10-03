@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yenna-d Moce ɣer wegdud: Cfu ɣef wass-a, ass ideg teffɣem seg Miṣrayim, seg wexxam n yimdanen iğelliben, acku s ufus n tazmert Yahwe yessuffɣ-akken-id seg dagi; ur ittetheṛ ara wayen iğummen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "cfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wass-a"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "teffɣem"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n yimdanen iğelliben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "s tazmert"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ufus"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yessuffɣ-id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ -akken-id",
+      "marks": "-akken-id"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "seg dagi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ittetheṛ ara"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ayen iğummen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:29.413669267Z",
+  "model": "glm-5.3"
+}

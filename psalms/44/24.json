@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Ssegt! Iɣac tetted, a Adonai? Kur ddu! Ur aɣ-tḥettet ara i lebda!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ssegt"
+    },
+    {
+      "surface": "למה",
+      "gloss": "iɣac"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "teted"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "kur ddu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "tḥettet"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:37.459408591Z",
+  "model": "glm-5.3"
+}

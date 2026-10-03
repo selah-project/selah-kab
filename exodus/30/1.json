@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad txelqed meẓla n teqtert; seg yisɣaṛen n acacia ara t-txeḍmeḍ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txelqed"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meẓla"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "n uktar"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "teqtert"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "seg yisɣaṛen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n acacia"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ara t-txeḍmeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (meẓla)"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:49.304712239Z",
+  "model": "glm-5.3"
+}

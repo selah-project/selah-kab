@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad tesleḍ i taɣect n Yahwe Elohim-ik, ad txedmeḍ ⟨את⟩ lwelhayen-is akked ⟨את⟩ lɛahden-is ara k-iḥekmen deg ass-a.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ad tesleḍ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i taɣect"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lwelhayen-is"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "lwelhayen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahden-is"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "lɛahden-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "k-iḥekmen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "deg ass-a"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:34.411275185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Seggem amas-ik a Yahwe, s taẓallit-iw, ẓer i ṣṣut n isutar-eniw.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Seggem amas-ak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "s taẓallit-iw"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ẓer i"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ṣṣut n"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "isutar-eniw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:01.945771631Z",
+  "model": "glm-5.3"
+}

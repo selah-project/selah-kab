@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Tuɣ-tent-ini neṭṭef tseddaṛin-ik i lebda, axaṭer d leḥya n wul-iw ⟨ihi⟩ ⟨d⟩.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "tuɣ-tent-ini neṭṭef"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "tseddaṛin-ik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "leḥya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "n wul-iw"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ihi⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:42.007555594Z",
+  "model": "glm-5.3"
+}

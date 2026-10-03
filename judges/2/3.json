@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "U nekkini yennaɣ: Ur nessiḥen ara ⟨את⟩-nsen seg udem-awen; ad llan d iɛdawen-awen, iṛebbiten-nsen ad ilin d taɣerfant awen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "u nekkini"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "yennaɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "nessiḥen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-nsen",
+      "marks": "nutenti (imezdaɣ n tmurt)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "seg udem-awen"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad llan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "d iɛdawen"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "iṛebbiten-nsen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "d taɣerfant"
+    }
+  ],
+  "timestamp": "2026-10-02T22:23:29.419972724Z",
+  "model": "glm-5.3"
+}

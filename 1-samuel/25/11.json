@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad qqimeɣ ad d-rruɣ ⟨את⟩ aɣrum-iw, ⟨את⟩ aman-iw, ⟨את⟩ lɣem-iw i iḥekkmen i yizenzaren-iw, ad ttunefɣ i yimdanen i ur nessin ara, anida-tt llan?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ad d-rruɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aɣrum-iw"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "aɣrum-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aman-iw"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "aman-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɣem-iw"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "lɣem-iw i iḥekkmen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "i iḥekkmen"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "i yizenzaren-iw"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad ttunefɣ"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "i yimdanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nessin ara"
+    },
+    {
+      "surface": "אי",
+      "gloss": "anida-tt"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "anida"
+    },
+    {
+      "surface": "המה",
+      "gloss": "llan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:20.956164510Z",
+  "model": "glm-5.3"
+}

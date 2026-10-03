@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yenna-yas: Ddu yid-i ⟨את⟩, wali ⟨את⟩ tirẓiwin-iw i Yahwe. Seǧǧan-t ad yernu ⟨את⟩ deg terjust-is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ddu yid-i"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yid-i"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "tirẓiwin-iw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "seǧǧan-t ad yernu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (Yehonadav)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "deg terjust-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:31:39.150960208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Kenɛan iwelid ⟨את⟩ Ṣidun, mis-amezwaru-nnes, akked ⟨את⟩ Ḥet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenɛan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iwelid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣidun"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Ṣidun"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mis-amezwaru-nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Ḥet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:57.299488308Z",
+  "model": "glm-5.3"
+}

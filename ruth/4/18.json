@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Wid-agi d le dic n tiɣmar n Peroṣ: Peroṣ yewwi-d ⟨את⟩ Ḥeṣron.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "tiɣmar"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peroṣ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peroṣ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥeṣron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Ḥeṣron"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:35.530691233Z",
+  "model": "glm-5.3"
+}

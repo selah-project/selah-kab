@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad yettḥekmem, s tidet ad yettḥekmem ⟨את⟩ kunwi, ma tessaram ⟨את⟩ udmawen deg usser.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ad yettḥekmem"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "s tidet ad yettḥekmem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg usser"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "tessaram"
+    }
+  ],
+  "timestamp": "2026-10-03T02:34:45.649816725Z",
+  "model": "glm-5.3"
+}

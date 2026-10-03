@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Igdan n yizerfan iweṛḍen, igdan n teḥac, d iǧeṛḍan n useklu n acacia.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "igdan n"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "yizerfan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "iweṛḍen"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "igdan n"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "teḥac"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "iǧeṛḍan n"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "useklu n acacia"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:30.007443771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Ad waliɣ lxiṛ n wid i tensefḍ, ad ḥellen di lḥanya n wagdag-ik, ad uzneɣ akked lɛers-ik.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "Ad waliɣ"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "lxiṛ n"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "wid i tensefḍ"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "ad ḥellen"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "di lḥanya n"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "wagdag-ik"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "ad uzneɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "lɛers-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:53.455472269Z",
+  "model": "glm-5.3"
+}

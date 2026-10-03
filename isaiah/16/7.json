@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ihi Moab ad yeḍwewwet, i Moab akk ad yeḍwewwet; i tibellasin n Qir-Ḥerec ad tsmuḥen, ḥmaḍen nxesen.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ihi"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ad yeḍwewwet"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "i Moab"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ad yeḍwewwet"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "i tibellasin"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "n Qir"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "Ḥerec"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "ad tsmuḥen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ḥmaḍen"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "nxesen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:06.713776024Z",
+  "model": "glm-5.3"
+}

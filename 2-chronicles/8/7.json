@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Akk aɣdud i d-yeqqimen seg yiḥitiyen, imoriyen, iperiziyen, iḥiwen akk d iyebusiyen — wid maḥci ara seg Yisrael llan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aɣdud"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "i d-yeqqimen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "yiḥitiyen"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "imoriyen"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "iperiziyen"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "iḥiwen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "iyebusiyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maḥci ara"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "seg Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "llan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:58.472506662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akken ad tafeḍ leḥnna d uuqil ilhan, deg wallen n Elohim d wemdan.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ad tafeḍ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "leḥnna"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "d uuqil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilhan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg wallen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "d wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:27.233097330Z",
+  "model": "glm-5.3"
+}

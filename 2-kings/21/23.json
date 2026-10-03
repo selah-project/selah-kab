@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yeḥzem waklan n Amon ɣef-s, wwan ⟨את⟩ ugellid deg wexxam-is.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "Yeḥzem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "waklan n"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "wwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "deg wexxam-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:34.802396909Z",
+  "model": "glm-5.3"
+}

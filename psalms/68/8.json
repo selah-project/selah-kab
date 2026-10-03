@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Elohim, mi d-teffeɣ sdat ugdud-ik, mi tceggruḍ deg taneẓruft — Cella.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "mi d-teffeɣ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ugdud-ik"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "mi tceggruḍ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "deg taneẓruft"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cella"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:04.648486365Z",
+  "model": "glm-5.3"
+}

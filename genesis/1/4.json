@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yufa Elohim ⟨את⟩ ṣeɛɛ mi yella d ameɣtu, iḥeccem Elohim gar ṣeɛɛ d uzekka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Yufa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṣeɛɛ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ṣeɛɛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "iḥeccem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ṣeɛɛ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "azekka"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:32.708291473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Tessexserem tiddin n lqelle, axaṭer Yahwe d tanekda-nnes.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "tiddin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "n lqelle"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "Tessexserem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "d tanekda-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:01.071059758Z",
+  "model": "glm-5.3"
+}

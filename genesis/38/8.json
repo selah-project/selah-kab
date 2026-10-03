@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yehuda yenna-d i Onan: Ɛeddu ɣer tameṭṭut n gma-k, ad teweddebeḍ ⟨את⟩ yid-s, ad d-teffeɣ tmurt n walith i gma-k.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "i Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ɛeddu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tameṭṭut n"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "ad teweddebeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yid-s (tameṭṭut n gma-k)"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ad d-teffeɣ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tmurt n walith"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "i gma-k"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:37.087246680Z",
+  "model": "glm-5.3"
+}

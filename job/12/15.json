@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Wali, ma iḥbes aman ad wexsen; ma ten-id-yezzu ad beddlen ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ma iḥbes"
+    },
+    {
+      "surface": "במים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ad wexsen"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ma ten-id-yezzu"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "ad beddlen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩ tmurt",
+      "marks": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:34:46.549172485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad txedmeḍ-t d acejjij n tuccḍa n iqedcen, d asegmu n usegmu, axeddim n umseggem; acejjij n tuccḍa n iqedcen ad yili.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "acejjij"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "acejjij"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "n tuccḍa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "asegmu"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "n usegmu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "umseggem"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "acejjij"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "n tuccḍa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:31.489693207Z",
+  "model": "glm-5.3"
+}

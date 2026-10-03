@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ma tselemd aṭas i taɣect-is, txedmeḍ akk ayen ad d-iniɣ, ad iliɣ d aɛdaw i ⟨את⟩ iɛdawen-nwen, ad qqimeɣ d aɛdaw i ⟨את⟩ wid i k-nuḥren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tselemd aṭas"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "i taɣect-is"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "taɣect-is"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ad d-iniɣ"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ad iliɣ d aɛdaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɛdawen-nwen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iɛdawen-nwen"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ad qqimeɣ d aɛdaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid i k-nuḥren"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "wid i k-nuḥren"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:59.263182364Z",
+  "model": "glm-5.3"
+}

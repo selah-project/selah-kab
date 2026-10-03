@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad ⟨את⟩ ten-tselmedem i ⟨את⟩ warrac-nwen, ad tmeslayem fell-asen mi ara tettbɛeḍ deg uxxam-ik, mi ara tettaḍruḍ deg ubrid, mi ara tettgellileḍ d mi ara tdemmreḍ.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "ad ten-tselmedem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warrac-nwen"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "warrac-nwen"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "iwakken ad tmeslayem"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "mi ara tettbɛeḍ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "deg uxxam-ik"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "mi ara tettaḍruḍ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "mi ara tettgellileḍ"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "d mi ara tdemmreḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:54:02.930500220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Lea tenna: Tula! Terra ⟨את⟩ isem-is Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Tula"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-10-02T20:21:56.272460694Z",
+  "model": "glm-5.3"
+}

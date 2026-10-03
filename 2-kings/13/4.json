@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yeḥwaaḥaz inna-yas i Yahwe ad t-iṣebber, Yahwe immeslay-as s usselmed, imi i wala ⟨את⟩ tin i Yisrael, imi agellid n Aram iṣeḥḥ-it ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "inna-yas ad t-iṣebber"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeḥwaaḥaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "immeslay-as s usselmed"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "i wala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tin"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "iṣeḥḥ-it"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iten"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "n Aram"
+    }
+  ],
+  "timestamp": "2026-10-02T23:34:18.191419427Z",
+  "model": "glm-5.3"
+}

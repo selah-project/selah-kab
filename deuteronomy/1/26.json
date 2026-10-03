@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Macakin kečč-ini ur bɣit ara ad d-εalin, txedmem tamuḥdi deg ⟨את⟩ imi n Yahwe Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "macakin ur"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ur bɣit ara"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ad d-εalin"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "txedmem tamuḥdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imi n Yahwe Elohim-nwen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:49.092940357Z",
+  "model": "glm-5.3"
+}

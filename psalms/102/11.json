@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Seg teqseh-ik d lḥeṛs-ik, axaṭer tεelleḍ-iḍ tulli-t-id.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "teqseh-ik"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "lḥeṛs-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "tεelleḍ-iḍ"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "tulli-t-id"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:08.855760737Z",
+  "model": "glm-5.3"
+}

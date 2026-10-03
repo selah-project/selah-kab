@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Moce yuzen ⟨את⟩ wedis n yelli-s; win-nni yuɣal ɣer tmurt-is.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adis n yelli-s"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "adis n yelli-s"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "s lḥeqq-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tmurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:57.412133801Z",
+  "model": "glm-5.3"
+}

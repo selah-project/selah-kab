@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Talit i wid yeṭṭfen ccreɛ, ixedmen ṣedeq deg yal akud.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Talit i"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "wid yeṭṭfen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:58.889723034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad kecmen ɣer-s, ad kkṣen ⟨את⟩ akk tiyṛumiyin-is akked ⟨את⟩ akk tiyṛifin-is segs.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "ad kecmen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "ad kkṣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tiyṛumiyin-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "tiyṛumiyin-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "tiyṛifin-is"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "segs"
+    }
+  ],
+  "timestamp": "2026-10-03T00:46:52.924750923Z",
+  "model": "glm-5.3"
+}

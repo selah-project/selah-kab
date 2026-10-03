@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "translation": "Ad ḥekmeɣ deg ubrid ummid. Melmi ara d-tas-ed ɣur-i? Ad riḥleɣ s leqdic deg wul-iw, deg tlisa n wexxam-iw.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "Ad ḥekmeɣ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ummid"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Melmi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ara d-tas-ed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "Ad riḥleɣ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "s leqdic"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "deg wul-iw"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg tlisa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "n wexxam-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:41.519618093Z",
+  "model": "glm-5.3"
+}

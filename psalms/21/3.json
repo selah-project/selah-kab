@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Taxeṣṣit n ul-is tewwi-d i Yus-s; ssut n yimer-is ur t-tewḥeḍ ara. ⟨סלה⟩",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "taxeṣṣit"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "n ul-is"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tewwi-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i Yus-s"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ssut"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "n yimer-is"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "tewḥeḍ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨סלה⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:21.164535372Z",
+  "model": "glm-5.3"
+}

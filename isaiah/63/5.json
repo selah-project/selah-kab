@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Γeẓreɣ, ulac win yettawannen; ḍelqen-iẓri, ulac win icudden; ihi iri-iw i yerbeḥ i yiman-iw, d nettat i ḥemmel lxeṛb-iw deg-i.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "Γeẓreɣ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "win yettawannen"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "ḍelqen-iẓri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "win icudden"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "yerbeḥ i yiman-is"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yiman-iw"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "iri-iw"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "lxeṛb-iw"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "i ḥemmen deg-i"
+    }
+  ],
+  "timestamp": "2026-10-03T00:09:19.051903589Z",
+  "model": "glm-5.3"
+}

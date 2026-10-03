@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Adonai, acḥal tikelt ara tettwaliḍ? Err-d nefs-iw seg twaɣit-nnsen, seg yizimen, taɛbart-iw.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "acḥal tikett"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ara tettwaliḍ"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "err-d"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "seg twaɣit-nnsen"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "seg yizimen"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "taɛbart-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:12.898965810Z",
+  "model": "glm-5.3"
+}

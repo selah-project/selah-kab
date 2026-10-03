@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yahwe yuzen-id ɣef-s ⟨את⟩ igeddan n u-Kacdim d ⟨את⟩ igeddan n Aram d ⟨את⟩ igeddan n Muab d ⟨את⟩ igeddan n yimawlan n Ɛamun; yuzen-iten deg Yeḥuda iwakken ad t-iḥeqq, akken i d-yenna Yahwe s ufus n yiqeddac-is, inaviten.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen-id"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igeddan n u-Kacdim"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "igeddan n"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "u-Kacdim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "igeddan n Aram"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "igeddan n"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "igeddan n Muab"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "igeddan n"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Muab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "igeddan n yimawlan n Ɛamun"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "igeddan n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yimawlan n"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "yuzen-iten"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yeḥuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "iwakken ad t-iḥeqq"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "n yiqeddac-is"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "inaviten"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:52.865626768Z",
+  "model": "glm-5.3"
+}

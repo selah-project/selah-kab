@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahwe, Elohim-k, ad t-tugdeḍ; ⟨את⟩ netta ad t-xedmeḍ; yid-s ad teṭṭfeḍ; yisem-is ad tegguǧǧeḍ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-k"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ad t-tugdeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "netta"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ad t-xedmeḍ"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "ad teṭṭfeḍ"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ad tegguǧǧeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:53:09.615871030Z",
+  "model": "glm-5.3"
+}

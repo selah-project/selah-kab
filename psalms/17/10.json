@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Taɛḍint-nsen ğğlen-t; s yimawen-nsen ttmeslayen s ttqebbart.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "taɛḍint-nsen"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ğğlen-t"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "s yimawen-nsen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ttmeslayen"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "s ttqebbart"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:39.294898788Z",
+  "model": "glm-5.3"
+}

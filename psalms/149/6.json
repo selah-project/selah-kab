@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Tirrifin n El deg iri-nsen, d sel s snat n tmeẓdin deg ifassen-nsen.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "Tirrifin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "deg iri-nsen"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "d sel"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "s snat n tmeẓdin"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "deg ifassen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:20.411666379Z",
+  "model": "glm-5.3"
+}

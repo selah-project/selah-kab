@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "I win yettnadi ɣef wayen n uẓawan: mizmor n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettnadi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:16.950938558Z",
+  "model": "glm-5.3"
+}

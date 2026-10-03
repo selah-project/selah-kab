@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tazwengt nekk, d ⟨maca⟩ taɣwalt, a tullas n Yerucalayim, am iḥerman n Qedat, am twsiwin n Culman.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "tazwengt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "d taɣwalt"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "a tullas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "am iḥerman n"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedat"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "am twsiwin n"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Culman"
+    }
+  ],
+  "timestamp": "2026-10-03T02:48:58.937787334Z",
+  "model": "glm-5.3"
+}

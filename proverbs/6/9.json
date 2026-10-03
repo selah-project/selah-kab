@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ar melmi, a iɛeẓẓel, ad teṣṣuḍeḍ? Ar melmi ad tukkeḍ seg usgennu-ik?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "a iɛeẓẓel"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ad teṣṣuḍeḍ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Ar melmi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ad tukkeḍ"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "seg usgennu-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:57.378772235Z",
+  "model": "glm-5.3"
+}

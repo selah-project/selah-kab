@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 143,
+  "translation": "Zreb ad yi-t-terraḍ, Yahwe, ruaḥ-iw tfuk; ad t-yeffer ara ur d-yerr i xemm-ik ɣef-i, neɣ ad iliɣ am wid yettawen ar lɣar.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Zreb"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ad yi-t-terraḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tfuk"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaḥ-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ad ... ara ur"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ad t-yeffer ara"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "i xemm-ik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "neɣ ad iliɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "am"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "wid yettawen ar"
+    },
+    {
+      "surface": "בור",
+      "gloss": "lɣar"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:37.073141201Z",
+  "model": "glm-5.3"
+}

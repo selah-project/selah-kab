@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Wali, ad neṛbeḥ, ad ṛuḥeɣ, ad qqimeɣ deg uneẓruf. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ad neṛbeḥ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ad ṛuḥeɣ"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ad qqimeɣ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uneẓruf"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:22.356365976Z",
+  "model": "glm-5.3"
+}

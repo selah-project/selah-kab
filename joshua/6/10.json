@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yesteh Yehocua ⟨את⟩ ugdud s wawal: ur tnejraɛem ara, ur tesselhiḍem ara ⟨את⟩ taṣut-nwen, ur iteffuɣ ara wawal seg imawen-nwen, arma d ass ideg ara awen-d-iniɣ: nejraɛem, ad tnejraɛem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yesteh"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "tnejraɛem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "tesselhiḍem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣut-nwen"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "taṣut-nwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iteffuɣ"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "seg imawen-nwen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ideg ara awen-d-iniɣ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "awen"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "nejraɛem"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "ad tnejraɛem"
+    }
+  ],
+  "timestamp": "2026-10-02T22:11:44.684165119Z",
+  "model": "glm-5.3"
+}

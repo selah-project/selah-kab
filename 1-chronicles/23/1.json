@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "David yemmaqqar, ihebbeḍ issen, yerran ⟨את⟩ Celomo mmi-s d agellid ɣef Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yemmaqqar"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ihebbeḍ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "issen"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yerran d agellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Celomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T03:34:42.752949350Z",
+  "model": "glm-5.3"
+}

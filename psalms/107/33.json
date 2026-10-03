@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Yahwe yerẓa ibargen ɣer lḥara, tiɣbula n waman ɣer umaqqwan.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "yerẓa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ibargen"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ɣer lḥara"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "d tiɣbula"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ɣer umaqqwan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:16.047739295Z",
+  "model": "glm-5.3"
+}

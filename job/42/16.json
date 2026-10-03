@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ayyub yidireg deffir waya 100 (miya) d 40 (rebɛin) n yiseggasen, yufa ⟨את⟩ warraw-is d ⟨את⟩ warrav n warraw-is, rebɛa n yilmeẓyen.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidireg"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyub"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "waya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "100 (miya)"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "d 40 (rebɛin)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "warrav n warraw-is"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrav n"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "rebɛa"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "n yilmeẓyen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:01.465657155Z",
+  "model": "glm-5.3"
+}

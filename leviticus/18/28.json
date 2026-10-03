@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Akken tmurt ur d-tettarra ⟨את⟩ kunwi mi ara t-tḥermdem ⟨את⟩-s, akken terra ⟨את⟩ ugdud i llan uqbel awen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "tettarra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "mi ara t-tḥermdem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sax (tmurt)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "terra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "llan uqbel awen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:28.112745198Z",
+  "model": "glm-5.3"
+}

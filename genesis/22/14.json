@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Avraham yefka i wemḍiq-nni isem: Yahwe Yirʾe; ɣef wayen yettwanwan ass-a: deg wedrar n Yahwe, ad d-iban.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yefka i... isem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemḍiq-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Yirʾe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɣef wayen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yettwanwan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ad d-iban"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:42.366284184Z",
+  "model": "glm-5.3"
+}

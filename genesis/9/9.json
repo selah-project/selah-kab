@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "D nekk, wali, ad s-bedreɣ lɛahd-iw ⟨את⟩ yidwen, d ⟨את⟩ warrac-nwen deffir-nwen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "d nekk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "wali"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ad s-bedreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yidwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "arrac-nwen"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "deffir-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:11.106633426Z",
+  "model": "glm-5.3"
+}

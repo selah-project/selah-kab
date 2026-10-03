@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ta qcict-nni tewger aṭas deg udem, d taɛeḍṛant, argaz ur tt-yessin ara; tuzzer-d ɣer tala, teččuṛ takurt-is, tuli d.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ta qcict-nni"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "tewger"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "deg udem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "taɛeḍṛant"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "yessin ara"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "tuzzer-d"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "ɣer tala"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "teččuṛ"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "takurt-is"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "tuli d"
+    }
+  ],
+  "timestamp": "2026-10-02T20:19:32.233053080Z",
+  "model": "glm-5.3"
+}

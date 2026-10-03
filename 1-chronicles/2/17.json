@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Abigail d-tluled ⟨את⟩ Amasa; bab n Amasa d Yeter, ayeḥerbi yiεmeḍen.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Abigail"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "d-tluled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "bab n"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ayeḥerbi yiεmeḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:45.944712811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Moce yura ⟨את⟩ taǧennayt-agi deg wass-nni, yesselmad-as-t i ⟨את⟩ yigerdan n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yura"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taǧennayt-agi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "taǧennayt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "yesselmad-as-t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yigerdan n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:08:59.067443029Z",
+  "model": "glm-5.3"
+}

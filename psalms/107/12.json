@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Yedewsel ul-nsen s leɛmer; kkẓen-ten iḍarren, ⟨ula d⟩ win ara ten-id-yesseknen.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Yedewsel"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "s leɛmer"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ul-nsen"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "kkẓen-ten iḍarren"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "win ara ten-id-yesseknen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:32.871842159Z",
+  "model": "glm-5.3"
+}

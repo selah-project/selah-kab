@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "Ur yili ara deg-ik El abeṛṛani, ur tnudeḍ ara ɣer El aneṛṛif.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yili"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "abeṛṛani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "tnudeḍ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ɣer El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "aneṛṛif"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:28.375791142Z",
+  "model": "glm-5.3"
+}

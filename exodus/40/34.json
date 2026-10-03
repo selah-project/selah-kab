@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yessiḥeb usigna ⟨את⟩ taxxamt n timlilit, tilɣa n Yahwe teččur ⟨את⟩ Mickan.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "yessiḥeb"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "usigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxxamt n timlilit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taxxamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n timlilit"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "tilɣa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mickan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:14.485794181Z",
+  "model": "glm-5.3"
+}

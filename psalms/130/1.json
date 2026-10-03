@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 130,
+  "translation": "Acenḥa n tulin. Seg teẓẓiyin i d-lɣuɣ ɣur-k, a Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Acenḥa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "n tulin"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Seg teẓẓiyin"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "i d-lɣuɣ ɣur-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.377566718Z",
+  "model": "glm-5.3"
+}

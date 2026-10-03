@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Reu yidder, deffir limi yewlid ⟨את⟩ Serug, ṭesa d miya sen n yiseggasen, yessili-d arraw d yelli-t.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidder"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir limi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "yewlid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ṭesa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "d miya sen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yessili-d"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "d yelli-t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:03.040155651Z",
+  "model": "glm-5.3"
+}

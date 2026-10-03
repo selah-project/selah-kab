@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 61,
+  "translation": "Ad ternuḍ wussan ɣef wussan n ugellid; iseggwasen-is am ⟨tasuta⟩ d ⟨tasuta⟩.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan n"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ad ternuḍ"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "iseggwasen-is"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "דר",
+      "gloss": "tasuta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "d tasuta"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:04.294131190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ur ttḥellilɣ ara lɛahd-iw, ayen yerẓen seg cefḥ-iw ur t-ttbeddilɣ ara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "ttḥellilɣ ara"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "d ayen yerẓen"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "seg cefḥ-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "ttbeddilɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:21.206454248Z",
+  "model": "glm-5.3"
+}

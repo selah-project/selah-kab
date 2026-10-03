@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Maca ⟨את⟩ axxam n Yeḥuda ad t-ṛeḥmeɣ, ad ten-ḥellseɣ s Yahwe Elohim-nnsen, ur ten-yelli ara s tigezza, ula s sseɛf, ula s nnfaq, ula s yisfan, ula s yiferzaten.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "axxam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeḥuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ad t-ṛeḥmeɣ"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ad ten-ḥellseɣ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "s Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-nnsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ten-yelli ara"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "s tigezza"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ula s sseɛf"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ula s nnfaq"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ula s yisfan"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ula s yiferzaten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:44.846429717Z",
+  "model": "glm-5.3"
+}

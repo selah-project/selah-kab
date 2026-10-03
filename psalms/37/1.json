@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "I David. Ur ttqelleq ara ɣef yibeṛṛzen, ur tḥeqdeḍ ara i wid ixedmen tagnut.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ur ttqelleq ara"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ɣef yibeṛṛzen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ur tḥeqdeḍ ara"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "i wid ixedmen"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tagnut"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:28.181637502Z",
+  "model": "glm-5.3"
+}

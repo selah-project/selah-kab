@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Maca ⟨את⟩ idem-nwen, i ⟨ti⟩ nefc-nwen, ad t-id-ssutreɣ; seg ufus n yal lḥaywan ad t-id-ssutreɣ; seg ufus n wemdan — seg ufus n yal argaz gma-s — ad ssutreɣ ⟨את⟩ nefc n wemdan.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Maca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idem-nwen"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "idem-nwen"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "i nefc-nwen"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ad ssutreɣ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lḥaywan"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ad t-id-ssutreɣ"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "i seg ufus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ad ssutreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefc"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefc"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:56.442397488Z",
+  "model": "glm-5.3"
+}

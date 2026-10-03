@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 18:29",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Seg akk tidyawin-nwen, ad tarim ⟨את⟩ akk terumat Yahwe: seg wayen ifazen akk maḍi, ⟨את⟩ iqedcen-is seg-s.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "seg akk"
+    },
+    {
+      "surface": "מתנתיכם",
+      "gloss": "tidyawin-nwen"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ad tarim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk (terumat Yahwe)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg akk"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "wayen ifazen deg-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen-is"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:22.307916723Z",
+  "model": "glm-5.3"
+}

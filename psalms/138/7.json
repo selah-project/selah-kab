@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 138,
+  "translation": "Ma nneddeɣ deg umenɣi, ad lmend-iḥsaven; ɛlayen deg lḥeqq n yiḍnanen-iw, ad tazneḍ ⟨i⟩ afus-ik, yerna tayefus-inek ad issekreε-iyi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nneddeɣ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "umenɣi"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ad lmend-iḥsaven"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "אף",
+      "gloss": "lḥeqq"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "n yiḍnanen-iw"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ad tazneḍ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ad issekreε-iyi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tayefus-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.212670179Z",
+  "model": "glm-5.3"
+}

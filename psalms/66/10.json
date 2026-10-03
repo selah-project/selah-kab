@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Axateṛ terraḍ-aɣ d aḥeqqani, a Elohim; tṣerfeḍ-aɣ am tṣerfit n lfeḍḍa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axateṛ"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "terraḍ-aɣ d aḥeqqani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "tṣerfeḍ-aɣ"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "am tṣerfit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfeḍḍa"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:00.078236668Z",
+  "model": "glm-5.3"
+}

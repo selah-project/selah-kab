@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 67,
+  "translation": "Iwakken ad tettwassnint deg tmurt tiberdan-ik, deg meṛṛa leǧnas tallalt-ik.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "iwakken ad tettwassnint"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tiberdan-ik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg meṛṛa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tallalt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:40.115892455Z",
+  "model": "glm-5.3"
+}

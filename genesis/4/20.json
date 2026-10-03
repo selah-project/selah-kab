@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Adah ur tettwarra ara: Adah d-twalid ⟨את⟩ Yabal; nettan, d baba n wid izdeɣen di txxamin d umaṛ n lmal.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "d-twalid"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nettan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "d-illa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "izdeɣen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "txxamin"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "d umaṛ n lmal"
+    }
+  ],
+  "timestamp": "2026-10-03T03:58:47.870162809Z",
+  "model": "glm-5.3"
+}

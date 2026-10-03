@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yikahen ad ten-yernu ⟨אתם⟩ — akked aɣrum n ibekkuren, d tnuffa sdat Yahwe — ɣef sin n yikerrawen; iqedcen ad ilin i Yahwe, i yikahen.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ad ten-yernu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "yikahen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "yikerrawen d lɣrum n ibekkuren"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "n ibekkuren"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "d tnuffa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin n"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "yikerrawen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "i yikahen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:18:14.189366132Z",
+  "model": "glm-5.3"
+}

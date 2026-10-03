@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yahwe yexdem akken i d-yenna ⟨את⟩ Moce, dɣa mmanten iweṛṛaḍen seg yexxamen, seg teḥricin d seg wurtan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken i d-yenna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "dɣa mmanten"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "iweṛṛaḍen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "yexxamen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "teḥricin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "d seg"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "wurtan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:56.246731790Z",
+  "model": "glm-5.3"
+}

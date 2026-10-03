@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Mi yemmwal Filictin, iwala ⟨את⟩ David, iẓẓay-it; axaṭer ⟨yella⟩ d ameẓyan, iẓggaɣen, d win n wudem izzaɣen.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "yemmwal"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filictin"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "iẓẓay-it"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "נער",
+      "gloss": "d ameẓyan"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "iẓggaɣen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "izzaɣen"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "n wudem"
+    }
+  ],
+  "timestamp": "2026-10-02T22:45:15.087940731Z",
+  "model": "glm-5.3"
+}

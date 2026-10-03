@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Kečč, a Yahwe, ad tḍeḥkeḍ-asen; ad tzeggelḍ i yal leǧnas.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ad tḍeḥkeḍ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "-asen"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ad tzeggelḍ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnas"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:00.914767294Z",
+  "model": "glm-5.3"
+}

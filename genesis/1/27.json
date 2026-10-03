@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Elohim yexleq ⟨את⟩ wemdan s tugna-is; s tugna n Elohim yexleq-t; d argaz d tmeṭṭut yexleq-ten ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wemdan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "s tugna-is"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "s tugna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "-t"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "d tmeṭṭut"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "-ten"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:51.071768117Z",
+  "model": "glm-5.3"
+}

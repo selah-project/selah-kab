@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Ur d-yuɣal ara win yettwarzen, yettwarɣen; umeḥḥuḍ akked ulaǧǧ ad sbekkren isem-ik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "דך",
+      "gloss": "win yettwarzen"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "yettwarɣen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "umeḥḥuḍ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "akked ulaǧǧ"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ad sbekkren"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:41.472901902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Paroh yessawel i Moce d Aharon, yenna: duwet, zzewhet i Elohim-nwen deg ⟨i⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "duwet"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "zzewhet"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "i Elohim-nwen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:10.964912098Z",
+  "model": "glm-5.3"
+}

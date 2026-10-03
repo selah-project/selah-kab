@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "D ⟨את⟩ menora n tafawt, d ⟨את⟩ ifeckalen-is, d ⟨את⟩ tisas-is, d ⟨את⟩ zzenẓar n tafawt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "menora n tafawt"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "menora"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "n tafawt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ifeccalen-is"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ifeccalen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tisas-is"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "tisas-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "zzenẓar n tafawt"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzenẓar"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "n tafawt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:37.465557683Z",
+  "model": "glm-5.3"
+}

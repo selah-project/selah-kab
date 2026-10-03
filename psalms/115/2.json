@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Acuɣer ad yinin yigduden: Ana, i tettru, Elohim-nsen?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "acuɣer"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ad yinin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yigduden"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i tettru"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:43.872028526Z",
+  "model": "glm-5.3"
+}

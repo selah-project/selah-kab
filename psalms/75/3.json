@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Mi ṭṭefed lexṣuma, nekk iLMAN ad ḥekmeɣ s lḥeqq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ṭṭefed"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lexṣuma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk iLMAN"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "s lḥeqq"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ad ḥekmeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:17.024221969Z",
+  "model": "glm-5.3"
+}

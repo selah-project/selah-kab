@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad ten-tesqedceḍ d iqedcen, ad llun d iqedsen n yiqedsen; win ara ten-iṭṭfen ad yeqqim d ameqduf.",
+  "tokens": [
+    {
+      "surface": "וקקדשת",
+      "gloss": "ad ten-tesqedceḍ d iqedcen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (ilemḍen)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad llun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedsen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "win ara"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ten-iṭṭfen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ad yeqqim d ameqduf"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:01.973580357Z",
+  "model": "glm-5.3"
+}

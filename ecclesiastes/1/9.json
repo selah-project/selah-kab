@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ayen akk i yella, d ayen ara yili; ayen akk i yettwaxleq, d ayen ara yettwaxleq; ulac ayen amaynut seddaw yiṭij.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "i yella"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ayen ara yili"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "i yettwaxleq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ayen ara yettwaxleq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "amaynut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "seddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:20.983410807Z",
+  "model": "glm-5.3"
+}

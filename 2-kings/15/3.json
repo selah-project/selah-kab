@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 15:3",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yexdem ⟨את⟩ ayen ilawen ɣef tiḥci n Yahwe, akken ixdem Ɛamceyahu baba-s, akk.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨את⟩ ayen ilawen",
+      "marks": "ayen ilawen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ɣef tiḥci n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken… akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Ɛamceyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:33:51.260250804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Iserdasen n Yehuda slan ⟨את⟩ awalen-agi, nnuɣen-d seg wexxam n ugellid ar wexxam n Yahwe, ṭṭfen deg ugdil n beṛṛa n Yahwe, win amaynut.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "slan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Iserdasen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nnuɣen-d"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ar wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "deg ugdil"
+    },
+    {
+      "surface": "שער",
+      "gloss": "n beṛṛa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "win amaynut"
+    }
+  ],
+  "timestamp": "2026-10-03T00:25:26.308538266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ve id-yewwi ⟨את⟩ iqeṭṭanen d ⟨את⟩ yilevyim, ijmeɛ-iten ɣer lḥeṛc n usamar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ve id-yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqeṭṭanen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iqeṭṭanen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ve ⟨את⟩",
+      "marks": "yilevyim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "yilevyim"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ve ijmeɛ-iten"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "ɣer lḥeṛc"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "n usamar"
+    }
+  ],
+  "timestamp": "2026-10-03T04:48:14.254088242Z",
+  "model": "glm-5.3"
+}

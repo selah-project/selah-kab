@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ma yella uzbeḥ n tikci-s d ttaj neɣ tikci s lebɣi, deg wass i d-yewwi ⟨את⟩ uzbeḥ-is ad ittett; ma d deg umahil, wayen i d-yeggran seg-s daɣen ad ittett.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma yella"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ttaj"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "tikci s lebɣi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uzbeḥ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "n tikci-s"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azbeḥ-is"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "uzbeḥ-is"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad ittett"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ma d deg umahil"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "wayen i d-yeggran"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "daɣen ad ittett"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:25.371100930Z",
+  "model": "glm-5.3"
+}

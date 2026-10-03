@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "I win n umazal, ɣef yiniten. Asekyed n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win n umazal"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ɣef yiniten"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "asekyed"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:34.201272725Z",
+  "model": "glm-5.3"
+}

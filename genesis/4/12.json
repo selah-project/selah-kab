@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Mi ara ttered ⟨את⟩ tmurt, ur tettyifk ara tazmert-is i keččin; ajerrab, win yettnuḥun, ad tiliḍ deg tmurt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi ara"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ttered"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "tettyifk ara"
+    },
+    {
+      "surface": "תת",
+      "gloss": "tefk"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "tazmert-is"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i keččin"
+    },
+    {
+      "surface": "נע",
+      "gloss": "ajerrab"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "win yettnuḥun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:16.854861407Z",
+  "model": "glm-5.3"
+}

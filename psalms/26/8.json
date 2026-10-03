@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Yahwe, ḥemmelɣ taddart n wexxam-ik, d amkan n Mickan tizmert-ik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ḥemmelɣ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "taddart"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "n wexxam-ik"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "d amkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tizmert-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:10.706850941Z",
+  "model": "glm-5.3"
+}

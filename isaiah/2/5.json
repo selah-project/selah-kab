@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "A yal n tawwult n Yaɛqov, iyya-t, ad nuɣal deg tafat n Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "a tawwult"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "iyya-t"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ad nuɣal"
+    },
+    {
+      "surface": "באור",
+      "gloss": "deg tafat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:29.857615276Z",
+  "model": "glm-5.3"
+}

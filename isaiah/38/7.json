@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Wagi d-assekḥlu i-ik, ⟨את⟩ sɣur Yahwe, Yahwe ad yexdem ⟨את⟩ awal-agi i d-yenna.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Wagi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i-ik"
+    },
+    {
+      "surface": "האות",
+      "gloss": "assekḥlu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ sɣur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "d-yenna"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:53.201968685Z",
+  "model": "glm-5.3"
+}

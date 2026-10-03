@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe yewheḍ-d aggur ameqran iwakken ad iṭṭef ⟨את⟩ Yuna; Yuna yella deg umɣi n waggur kraḍ n wussan d kraḍ n yid.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "yewheḍ-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "aggur"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqran"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "iwakken ad iṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuna"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "deg umɣi"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "n waggur"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "d kraḍ"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "n yid"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:38.954435077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Celmoh yedda-as ⟨את⟩ akk awalen-is; ur yelli awal ifren seg ugdud, i wumi ur d-yenna ara ugellid.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "yedda-as"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-as"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celmoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "awalen-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ifren"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i wumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yenni-yas ara"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:44.810293217Z",
+  "model": "glm-5.3"
+}

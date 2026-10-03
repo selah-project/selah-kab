@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Yexdem ⟨את⟩ ubernus n wefod, d axeddim n umḍellel, akken ma d tekelet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubernus"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ubernus"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "wefod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "n umḍellel"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "akken ma d"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    }
+  ],
+  "timestamp": "2026-10-02T21:00:57.048079341Z",
+  "model": "glm-5.3"
+}

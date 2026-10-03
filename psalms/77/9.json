@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "D-yekkṣed d akken ladɣa ḥesed-is? Yekfa uezzru ⟨i⟩ tseddarin d tseddarin?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "d-yekkṣed d akken ladɣa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "d akken ladɣa"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yekfa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uezzru"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i tseddarin"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "d tseddarin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:40.766283458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ma yella argaz yensi ⟨את⟩ xalt-is, timembabt n ɛamm-is i d-yeẓẓa; tuccḍa-nsen ad tt-ddflen; ad mmten war arraw.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalt-is"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "xalt-is"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "timembabt"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "n ɛamm-is"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "i d-yeẓẓa"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "tuccḍa-nsen"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ad tt-ddflen"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "war arraw"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ad mmten"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:12.322126134Z",
+  "model": "glm-5.3"
+}

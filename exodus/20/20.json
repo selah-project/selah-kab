@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yenna-d Moce i wemdaḍ: Ur ttaggam ara, axaṭer iwakken ad d-ijerreb ⟨את⟩ kunye Elohim i d-yusan, d iwakken ad tili ttagga-nsen ɣer wudem-nwen, iwakken ur txeṭṭem ara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wemdaḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ttaggam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "ad d-ijerreb"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunye",
+      "marks": "kunye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-yusan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "d iwakken"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ttagga-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "wudem-nwen"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "iwakken ur"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "txeṭṭem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:19.277891022Z",
+  "model": "glm-5.3"
+}

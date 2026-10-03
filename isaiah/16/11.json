@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Deg wayen, iṛγan-iw γef Muγab ad d-ḥemmlen am ukinnar, d ul-iw γef Qir-Ḥerec.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "deg wayen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "iṛγan-iw"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "γef Muγab"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "am ukinnar"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ad d-ḥemmlen"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "d ul-iw"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "γef Qir"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Ḥerec"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:15.076581385Z",
+  "model": "glm-5.3"
+}

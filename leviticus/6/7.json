@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D Tora n tminḥa-agi ayi: ad tt-id-mudden yigerdan n Aharon ⟨את⟩-s qabel Yahwe, ɣer zdat n umizbeaḥ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "D ... ayi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora n"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tminḥa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ad tt-id-mudden"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tminḥa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan n"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qabel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "umizbeaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:58.273667919Z",
+  "model": "glm-5.3"
+}

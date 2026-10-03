@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yal argaz ara yeḥewwlen ⟨את⟩ imi-ik, ur issel ara ⟨את⟩ awalen-ik, deg wayen akk ara t-ḥettem fell-as, ad yemmut; kan kker, ɣur-k tamert!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "yeḥewwlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imi-ik"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imi-ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "issel ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen-ik"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "awalen-ik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "deg wayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "ara t-ḥettem fell-as"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmut"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kker"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ɣur-k tamert"
+    }
+  ],
+  "timestamp": "2026-10-02T22:10:05.565725463Z",
+  "model": "glm-5.3"
+}

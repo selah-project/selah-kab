@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ṣeffan yid-s, raw n Yisrael ḥedmen, akken i yesseḥkua Yahwe ⟨את⟩ Moce d ⟨את⟩ Aharon — akka ḥedmen.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ṣeffan yid-s"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ḥedmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "raw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ysseḥkua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ḥedmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:17.483137944Z",
+  "model": "glm-5.3"
+}

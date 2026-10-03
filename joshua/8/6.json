@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad d-ffɣen deffir-nneɣ arma ad ten-nessuffeɣ ⟨את⟩ seg temdint, axaṭer ad inin: Serwelen sdat-nneɣ akken deg tazwara; ad nserwel sdat-sen.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ad d-ffɣen"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "deffir-nneɣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "ad ten-nessuffeɣ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "seg temdint"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ad inin"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "serwelen"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "sdat-nneɣ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "deg tazwara"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "ad nserwel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sdat-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:56.354170360Z",
+  "model": "glm-5.3"
+}

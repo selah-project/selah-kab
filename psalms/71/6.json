@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Ɣef-k i ḍefreɣ seg ul, seg tasa n yemma-w kečč i yi-d-yesfeɣ; deg-k ccukr-iw, di lɛibir.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ɣef-k"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "i ḍefreɣ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "seg ul"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "seg tasa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yemma-w"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "i yi-d-yesfeɣ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ccukr-iw"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "di lɛibir"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:08.103829520Z",
+  "model": "glm-5.3"
+}

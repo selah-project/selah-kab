@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Ad bnen ixxamen, ad zedɣen deg-sen; ad ssenɣen tiberwin, ad ččen ifuta-nsen.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ad bnen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ixxamen"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ad zedɣen deg-sen"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ad ssenɣen"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "tiberwin"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ad ččen"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ifuta-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:10:00.464616902Z",
+  "model": "glm-5.3"
+}

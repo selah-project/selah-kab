@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 23:19",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Terna ⟨את⟩ tazmurt-is n taẓeddwit, ad tesmekti ⟨את⟩ wussan n tmeẓrit-is, mi tesselḥut deg tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ותרבה",
+      "gloss": "Terna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tazmurt-is n taẓeddwit"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "tazmurt-is n taẓeddwit"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ad tesmekti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wussan n tmeẓrit-is"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "n tmeẓrit-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "tesselḥut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T00:54:25.396795773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "D ad ten-teḥkem, D ad teḥkem, a mmi n wemdan? Err-iten ad ẓran ⟨את⟩ tikwalin n yidura-nsen.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "D ad ten-teḥkem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "D ad teḥkem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikwalin n yidura-nsen"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tikwalin"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "n yidura-nsen"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Err-iten ad ẓran"
+    }
+  ],
+  "timestamp": "2026-10-03T00:51:40.225328742Z",
+  "model": "glm-5.3"
+}

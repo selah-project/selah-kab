@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Acu i ad yesizdegeg ilemzi ⟨את⟩ abrid-is, iwakken ad iḥrez akken id-yenna wawal-ik?",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "יזזכה",
+      "gloss": "ad yesizdegeg"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ilemzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abrid-is"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "abrid-is"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "iwakken ad iḥrez"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akken id-yenna wawal-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:00.438116652Z",
+  "model": "glm-5.3"
+}

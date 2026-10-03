@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Taakwemt-ik, a Yahwe, tessuli tamurt; isselmed-iyi iḥeṛṣen-ik.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Taakwemt-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tessuli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "iḥeṛṣen-ik"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "isselmed-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:20.769124625Z",
+  "model": "glm-5.3"
+}

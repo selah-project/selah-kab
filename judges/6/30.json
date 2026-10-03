@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Nnan-d irgazen n temdint i Yoac: Ssuffeɣ ⟨את⟩ mmi-k ad yemmut, axaṭer yeḥbes ⟨את⟩ mizbeaḥ n Baɛal, d axaṭer gereẓ taacira i yellan fell-as.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan-d"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoac"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "Ssuffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-k"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mmi-k"
+    },
+    {
+      "surface": "וימות",
+      "gloss": "ad yemmut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeaḥ n Baɛal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaḥ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "n Baɛal"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "d axaṭer"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gereẓ"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "taacira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T22:25:54.072029832Z",
+  "model": "glm-5.3"
+}

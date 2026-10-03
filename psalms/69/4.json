@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Yeṭṭef-yi lɛeṣ s ttin n ccna; ineqqeṣ meqqṛen-iw, ṣewwṛen wallen-iw, ad ɛeṛḍen i Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Yeṭṭef-yi lɛeṣ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "s ttin n ccna"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ineqqeṣ"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "meqqṛen-iw"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ṣewwṛen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "wallen-iw"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "ad ɛeṛḍen"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "i Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:40.896159232Z",
+  "model": "glm-5.3"
+}

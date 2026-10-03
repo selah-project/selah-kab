@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Qum, Yahwe, qaddem ⟨i⟩ wudem-is, sersen-t idda, ssired nefsi-i seg ubekkav, s teɣennayt-ik.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "qum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "qaddem"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wudem-is"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "sersen-t idda"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "ssired"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi-i"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "seg ubekkav"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "s teɣennayt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:22.434376544Z",
+  "model": "glm-5.3"
+}

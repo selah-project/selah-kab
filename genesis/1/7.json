@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Elohim yexleq ⟨את⟩ rakiɛa, yebḍa gar waman yellan ddaw n rakiɛa d waman yellan s ufella n rakiɛa; akka i ḍran.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakiɛa"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakiɛa"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "yebḍa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "n rakiɛa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d gar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "s ufella"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "n rakiɛa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "i ḍran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:05.075643371Z",
+  "model": "glm-5.3"
+}

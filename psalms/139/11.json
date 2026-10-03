@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Ma nnent-ɣ: tijri kan ad iyi-teṭṭef, iḍ ad yili d tafat ɣef-i.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ma nnent-ɣ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tijri"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ad iyi-teṭṭef"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "iḍ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "d tafat"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "ɣef-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:19.176432104Z",
+  "model": "glm-5.3"
+}

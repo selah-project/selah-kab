@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ssi-d-iyi deg tidet-ik, yesselmad-iyi, axaṭer Kečči i d Elohim n usellek-iw; ⟨את⟩ Kečči i ṛuḥeɣ deg-s akk ass.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Ssi-d-iyi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "deg tidet-ik"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "yesselmad-iyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kečči"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "n usellek-iw"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Kečči"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "i ṛuḥeɣ deg-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:50.644482924Z",
+  "model": "glm-5.3"
+}

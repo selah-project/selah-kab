@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Aharon d warraw-is ad čččen ⟨את⟩ taḥawsa n izimer d ⟨את⟩ aɣrum i yellan deg takurt, s tuget n teḥemt n temlilit.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ad čččen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "d warraw-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥawsa n izimer"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "taḥawsa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "n izimer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aɣrum deg takurt"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "deg takurt"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "s tuget"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teḥemt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "temlilit"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:56.705815415Z",
+  "model": "glm-5.3"
+}

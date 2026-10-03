@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Tuccḍa n yiẓ-nsen, awal n cefat-nsen — ad ttwazdeg deg teqejrit-nsen; i ttinject akked tikerkas ara d-ḥekkun.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "n yiẓ-nsen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "n cefat-nsen"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ad ttwazdeg"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "deg teqejrit-nsen"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "i ttinject"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "akked tikerkas"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ara d-ḥekkun"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:00.934169517Z",
+  "model": "glm-5.3"
+}

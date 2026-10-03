@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "A t-qted ⟨את⟩ wzger ɣdat Yahwe, ar tewwurt n teḥent n temlilit.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "A t-qted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wzger"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wzger"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ar tewwurt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n teḥent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:16.144948728Z",
+  "model": "glm-5.3"
+}

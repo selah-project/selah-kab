@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "⟨את⟩ Cabbat-iw ad tḍefren, ad tzemren i ḥeṛs-agiw n Yisem; d Yahwe ay nekk.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabbat-iw"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Cabbat-iw"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ad tḍefren"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ḥeṛs-agiw n Yisem"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ad tzemren"
+    },
+    {
+      "surface": "אני",
+      "gloss": "d nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:15.990327709Z",
+  "model": "glm-5.3"
+}

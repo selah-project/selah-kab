@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yebḍa Yahwe ⟨את⟩-iten seg dinna γef wudem akk n tmurt, ḥeṣlen ad bnen tamdint.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Yebḍa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-iten",
+      "marks": "iten"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg dinna"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ḥeṣlen"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ad bnen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:56.686313801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Win izerben tiqifiyin-is deg waman; win yewwin iɣuren d aceffar-is; win yeddduchen ɣef idan n ruaḥ.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Win izerben"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "tiqifiyin-is"
+    },
+    {
+      "surface": "השם",
+      "gloss": "win yewwin"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "iɣuren"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "d aceffar-is"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "win yeddduchen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "idan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "n ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:35.837620501Z",
+  "model": "glm-5.3"
+}

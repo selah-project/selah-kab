@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Ur ṭṭesaɣ ara, lliɣ am yig weḥdi-s ɣef usfel n uxxam.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ur ṭṭesaɣ ara"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "lliɣ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "am yig"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "weḥdi-s"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גג",
+      "gloss": "usfel n uxxam"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:23.280096275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Seg wennif n tifawt i d-ibanen zdat-ines, isigna-nnes ɛeddan: azgel d lǧamer n tmes.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Seg wennif n tifawt"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "zdat-ines"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "isigna-nnes"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɛeddan"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "azgel"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "d lǧamer"
+    },
+    {
+      "surface": "אש",
+      "gloss": "n tmes"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:51.669963670Z",
+  "model": "glm-5.3"
+}

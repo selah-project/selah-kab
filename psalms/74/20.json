@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Wali lɛahd, axaṭer tibḥuḍin n tmurt ččaṛen-t isuan n teẓreft.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ččaṛen-t"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "tibḥuḍin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "isuan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "n teẓreft"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:16.473352939Z",
+  "model": "glm-5.3"
+}

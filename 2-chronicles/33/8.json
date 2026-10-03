@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 33:8",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ur nzid ara ad kkseɣ ⟨את⟩ aḍaṛ n Yisrael seg wakal i ţekkdeɣ i lejdud-nwen; kan ma ḥerzen ad xedmen ⟨את⟩ meṛṛa ayen i ten-iḥkemɣ — i meṛṛa Tora, d isuḍaf d yicreɛ — s ufus n Moce.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nzid ara"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ad kkseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḍaṛ n Yisrael"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "aḍaṛ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "העמדתי",
+      "gloss": "i ţekkdeɣ"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "i lejdud-nwen"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ma ḥerzen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "i ten-iḥkemɣ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i meṛṛa"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "d isuḍaf"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "d yicreɛ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-03T03:57:10.610079461Z",
+  "model": "glm-5.3"
+}

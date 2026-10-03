@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Yezdi Yusuf ⟨את⟩ akal n Miṣrayim akk i Ferɛun, axaṭer Imeṣriyen zzin-d yal argaz akal-is, axaṭer ṭuḥ fell-asen uẓeẓ; akkin akal yuɣal i Ferɛun.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "yezdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akal n Miṣrayim akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "akal n"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "i Ferɛun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "zzin-d"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Imeṣriyen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "akal-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ṭuḥ"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "uẓeẓ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "akal"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "i Ferɛun"
+    }
+  ],
+  "timestamp": "2026-10-02T20:35:13.613229039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Avram yella d aǧehhil meqqren s lmal, s lfeḍḍa d werɣan.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "d aǧehhil meqqren"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "s lmal"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s lfeḍḍa"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "d werɣan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:53.893003769Z",
+  "model": "glm-5.3"
+}

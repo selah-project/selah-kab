@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Deg teẓrarin n wexxam n Yahwe, deg lmehna-ik, a Yerucalayim. Sbeggel-et Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Deg teẓrarin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "deg lmehna-ik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerucalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Sbeggel-et"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:49.646305836Z",
+  "model": "glm-5.3"
+}

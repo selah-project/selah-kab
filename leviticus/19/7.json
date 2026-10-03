@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ma yella yettwačč deg wass wis kraḍ, d lkerh ⟨⟨d⟩⟩, ur yettwaqbel ara.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma yella"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "yettwačč"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yettwačč"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis kraḍ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "d lkerh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d neṭṭat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "yettwaqbel ara"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:12.573398166Z",
+  "model": "glm-5.3"
+}

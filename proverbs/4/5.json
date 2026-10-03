@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Aɣ taḥekma, aɣ lefhama; ur ttettu ara, ur ttwali ara seg wawalen n yimi-w.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Aɣ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "taḥekma"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "lefhama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tettu ara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ttwali ara"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "seg wawalen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "n yimi-w"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:04.662458948Z",
+  "model": "glm-5.3"
+}

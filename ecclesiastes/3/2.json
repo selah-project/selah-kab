@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akud iwakken ad d-yilal wemdan, akud iwakken ad yemmet; akud iwakken ad issegnu, akud iwakken ad yekkes aẓar i wayen yettwasegnewen.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "iwakken ad d-yilal"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "למות",
+      "gloss": "iwakken ad yemmet"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "iwakken ad issegnu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "iwakken ad yekkes aẓar"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "i wayen yettwasegnewen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:16.595348556Z",
+  "model": "glm-5.3"
+}

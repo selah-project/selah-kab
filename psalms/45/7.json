@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Asensu-ik, a Elohim, ⟨d⟩ azal akk d lecwal; aselmas n tzerfet d aselmas n tgelda-ik.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "asensu-ik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "azal akk"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "d lecwal"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aselmas"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "tzerfet"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "aselmas"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "n tgelda-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:59.966398253Z",
+  "model": "glm-5.3"
+}

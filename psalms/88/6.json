@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "D ilelli gar lmeggtin, am wid yettwanɣen ireyyen deg lqebber, wid i ur tessindeḍ ara ⟨ugar⟩; nitenti ttwaḥerḥen seg ufus-ik.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "gar lmeggtin"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "d ilelli"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "wid yettwanɣen"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "ireyyen"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lqebber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "tessindeḍ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "nitenti"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "seg ufus-ik"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "ttwaḥerḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:23.381130763Z",
+  "model": "glm-5.3"
+}

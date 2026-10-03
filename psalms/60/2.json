@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Mi yenna yeɣra d ⟨את⟩ Aram-Naharayim d ⟨את⟩ Aram-Ṣoba, Yuɛab yuɣal-d, yeḍṛeb ⟨את⟩ Edum deg teɣzert n temelt — sin d mraw n yifed.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "mi yenna yeɣra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "d-isaffen (Naharayim)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Aram-Ṣoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ṣoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yuɣal-d"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yuɛab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yeḍṛeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edum"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edum"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "deg teɣzert"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "n temelt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yifed"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:26.649511613Z",
+  "model": "glm-5.3"
+}

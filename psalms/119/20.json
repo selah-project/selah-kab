@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Yettwaqettɛ iman-iw s lḥemla ɣer ccreɛ-inek di lawan ⟨akk⟩.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Yettwaqettɛ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "iman-iw"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "s lḥemla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ccreɛ-inek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di ... akk"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lawan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:46.518086156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Yenna Yusef i watmaten-is: ḍfut ɣur-i, a wid i ḥemmelɣ. Ḍfern; yenna: nekk d Yusef, gma-wen, wi t-izdecen ⟨את⟩ ɣer Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ḍfut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a wid i ḥemmelɣ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ḍfern"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "d Yusef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "gma-wen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wi"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "t-izdecen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "wi t-izdecen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ɣer Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:34:51.154133056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Talmanit, d tagerruzt, d tin iɣersen, d tabzinut — ⟨את⟩ wid-agi ur ten-yawi ara; maca kan tabtulit seg ugdud-is ad yawi d tamṭṭut.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "talmanit"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "d tagerruzt"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "d tin iɣersen"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "tabzinut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid-agi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yawi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca kan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maca kan"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "tabtulit"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "seg ugdud-is"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad yawi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tamṭṭut"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:25.414532272Z",
+  "model": "glm-5.3"
+}

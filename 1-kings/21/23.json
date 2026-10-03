@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "I Yahwe, ula ɣef Izebel, yenna-d ad yini: Iyalen ad cčen ⟨את⟩ Izebel deg ḥel n Yizreɛel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ɣef Izebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "iyalen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ad cčen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "deg ḥel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreɛel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:53.520128661Z",
+  "model": "glm-5.3"
+}

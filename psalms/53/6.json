@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Din ṛẓen ⟨את⟩ tugdi, anda yella ⟨⟨ulac⟩⟩ tugdi; axaṭer Elohim iferreq iɣsan n win i d-iceffel ɣure-k; treẓbeḍ ⟨את⟩-ten, axaṭer Elohim ten-iḥeqren.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ṛẓen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tugdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tugdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "iferreq"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "iɣsan"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "win i d-iceffel ɣure-k"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "treẓbeḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "ten-iḥeqren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:50.532881898Z",
+  "model": "glm-5.3"
+}

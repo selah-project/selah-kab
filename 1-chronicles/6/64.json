@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D ⟨את⟩ Qedemot akked ⟨את⟩ tiḥerci-nnes, ⟨את⟩ Mifɛat akked ⟨את⟩ tiḥerci-nnes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tiḥerci-nnes"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tiḥerci-nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Mifɛat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mifɛat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tiḥerci-nnes"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tiḥerci-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:53.339475351Z",
+  "model": "glm-5.3"
+}

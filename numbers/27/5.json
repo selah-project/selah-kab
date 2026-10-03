@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Moce yesseḥwa ⟨את⟩ ccreɛ-nsent ar zdat n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yesseḥwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ccreɛ-nsent"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ccreɛ-nsent"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ar zdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:41:05.966158762Z",
+  "model": "glm-5.3"
+}

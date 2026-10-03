@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "⟨d⟩ widak n YEminim, zik, zedɣen deg-s: d agdud meqqren, d aṭas, d ɛlayen, am Yinakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "widak n YEminim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "zik"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d agdud"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "d aṭas"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "d ɛlayen"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "am Yinakim"
+    }
+  ],
+  "timestamp": "2026-10-02T21:46:48.537502905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Tuccḍeḍ yis-s ⟨את⟩ taxxamt n umlil d ⟨את⟩ taṣtift n ciggent.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "tuccḍeḍ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yis-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxxamt n umlil"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taxxamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taṣtift n ciggent"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "taṣtift"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "n ciggent"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:31.491076387Z",
+  "model": "glm-5.3"
+}

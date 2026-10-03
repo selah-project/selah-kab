@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Tura ssneɣ belli Yahwe yessellek ⟨i⟩ Maciaḥ-is; ad t-id-yerr seg yigenwan-is iqedcen, s tẓermert n ufus-is ayeffus i d-yessefruyen.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ssneɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "yessellek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Maciaḥ-is"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "ad t-id-yerr"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "seg yigenwan-is"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "s tẓermert"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "n usefru"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "n ufus-is ayeffus"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:00.679980006Z",
+  "model": "glm-5.3"
+}

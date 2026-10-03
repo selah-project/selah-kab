@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yeṭṭef ⟨את⟩ akk addehn i yellan ɣef yimerdacen, ⟨את⟩ aḥric n tasa, ⟨את⟩ snat n tkelitin akked waddehn-nsent; Moce yeḥreq-it ɣef lqerbun.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk addehn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "addehn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "imerdacen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aḥric n tasa"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "aḥric"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "n tasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "snat n tkelitin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "tkelitin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "addehn-nsent"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "addehn-nsent"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yeḥreq-it"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lqerbun"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:41.237592029Z",
+  "model": "glm-5.3"
+}

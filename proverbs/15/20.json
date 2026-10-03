@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Mmi-s ameggaz ad iḥemmel baba-s; maca amdan axuṣṣar ad iwexxeṛ yemma-s.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ameggaz"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ad iḥemmel"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "maca amdan axuṣṣar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "ad iwexxeṛ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:22:31.790317439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Elohim yella yettmeslay-ed deg teqedcit-is; ad ruḥleɣ, ad beṭṭuɣ ⟨את⟩ Sechem, ad mder taɣult n Sukut.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yella yettmeslay-ed"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "deg teqedcit-is"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ad ruḥleɣ"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ad beṭṭuɣ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sechem",
+      "marks": "Sechem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "taɣult n"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukut"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ad mder"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:40.868142082Z",
+  "model": "glm-5.3"
+}

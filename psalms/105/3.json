@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Codeḥ s yisem-iwqedcen, ad yecfeḥ ul n wid yettnadi Yahwe.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Codeḥ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iwqedcen"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ad yecfeḥ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "n wid yettnadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:13.037993721Z",
+  "model": "glm-5.3"
+}

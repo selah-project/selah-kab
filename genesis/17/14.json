@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Abeṭṭa, d argaz, win ur neḥsris ara ⟨את⟩ wasrem n ubeṭṭa-s, ad yettwakkes nef-agi seg ugdud-is; ⟨את⟩ lɛahd-iw i yerẓa.",
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "abeṭṭa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "d argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "neḥsris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasrem"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "wasrem"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "n ubeṭṭa-s"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nef-agi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "agi"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "seg ugdud-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "i yerẓa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:15:38.478232446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Akka i txedmeḍ i Aharon d warraw-is, akken akk i k-id-iniɣ ⟨את⟩-ik: di sebɛa n wussan ad tɛemmed ifassen-nnsen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ akka"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "d warraw-is"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akken akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "i k-id-iniɣ"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩-ik",
+      "marks": "keččini"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebɛa n"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ad tɛemmed"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ifassen-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:27.624037604Z",
+  "model": "glm-5.3"
+}

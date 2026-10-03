@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Yahwe d win ara k-iḥerren; Yahwe d tili-ik, ɣef afus-nni n yefus.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "d win ara k-iḥerren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "d tili-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "nni n yefus"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:43.712959594Z",
+  "model": "glm-5.3"
+}

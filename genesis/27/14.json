@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Yeddu, yewwi, iwet-d i yemma-s; yemma-s texleq iṭummin, akken iḥemmel baba-s.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yeddu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "iwet-d"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "i yemma-s"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "texleq"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "iṭummin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:16.341738658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yahwe ad t-iḥrez u ⟨ad⟩ t-iḥyu, ad yifu deg tmurt; ur as-ttunefkeḍ ara i nefes n yiɛdawen-is.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ad t-iḥrez"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "u ⟨ad⟩ t-iḥyu"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "ad yifu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "as-ttunefkeḍ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "i nefes"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "n yiɛdawen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:16.951383971Z",
+  "model": "glm-5.3"
+}

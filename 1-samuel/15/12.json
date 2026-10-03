@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 15:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Deg tefsut, Samuel innezzi zik i wakken ad imlil d Cawul; yennuɣ-d wayen i Samuel, s yenna: Cawul yewweḍ ɣer Karmel, wa d ṛṛay: isbedd-ed i yiman-is tamusni; yuɣal, yezri, yuder-d ɣer Gilgal.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "innezzi zik"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "i wakken ad imlil d"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawul"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tefsut"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "yennuɣ-d"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "i Samuel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s yenna"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yewweḍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawul"
+    },
+    {
+      "surface": "הכרמלה",
+      "gloss": "ɣer Karmel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wa d ṛṛay"
+    },
+    {
+      "surface": "מציב",
+      "gloss": "isbedd-ed"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tamusni"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "yezri"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "yuder-d"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ɣer Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-03T04:11:55.055367347Z",
+  "model": "glm-5.3"
+}

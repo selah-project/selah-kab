@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad sḥebben ⟨את⟩-is d ⟨את⟩ akk iẓuran-is deg ugelzum n gelgum n taḥac, ad sḥebben-t ɣef weɣyam.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ad sḥebben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-is",
+      "marks": "akk iẓuran-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk iẓuran-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "iẓuran-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ugelzum"
+    },
+    {
+      "surface": "עור",
+      "gloss": "n gelgum"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "n taḥac"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ad sḥebben-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "weɣyam"
+    }
+  ],
+  "timestamp": "2026-10-02T21:23:10.465669457Z",
+  "model": "glm-5.3"
+}

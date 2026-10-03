@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Axaṭer ccreɛ-is akk yella zdat-i; ilugan-is ur nsuɣ ara sseg-i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ccreɛ-is"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "zdat-i"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ilugan-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "nsuɣ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sseg-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:02.813532541Z",
+  "model": "glm-5.3"
+}

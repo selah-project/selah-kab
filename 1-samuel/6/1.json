@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Tella teṣṣaḥt n Yahwe deg wakal n ifilistiyen d seven n wagguren, d ṛebɛa d yiwen n wagur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tella"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "teṣṣaḥt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg wakal"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n ifilistiyen"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ṛebɛa d yiwen"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "n wagguren"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:03.680001431Z",
+  "model": "glm-5.3"
+}

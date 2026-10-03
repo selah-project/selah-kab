@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yahwe Elohim-nneɣ iɛiṛḍen lɛahd d-neɣ, deg Ḥorev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iɛiṛḍen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "d-neɣ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "deg Ḥorev"
+    }
+  ],
+  "timestamp": "2026-10-02T21:50:37.131091156Z",
+  "model": "glm-5.3"
+}

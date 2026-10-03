@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Nnig yimɣaren ẓriɣ lxir, imi lɛahd-ik ṛṛanet iyi t-id-ḥarzeɣ.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "nnig yimɣaren"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ẓriɣ lxir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "lɛahd-ik"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "t-id-ḥarzeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:35.833874877Z",
+  "model": "glm-5.3"
+}

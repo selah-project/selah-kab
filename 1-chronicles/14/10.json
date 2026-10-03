@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "David yesteqsi ɣer Elohim, ad d-yini: ad ɛliɣ ɣef ⟨את⟩ Ifeliṣṭiyen, ad ten-terreḍ deg yis-iw? Yahwe inna-as: ɛli, ad ten-rreɣ deg yis-ik.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "yesteqsi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ɣer Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad d-yini"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "ad ɛliɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "Ifeliṣṭiyen"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ad ten-terreḍ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "deg yis-iw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɛli"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ad ten-rreɣ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg yis-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:46:26.957432336Z",
+  "model": "glm-5.3"
+}

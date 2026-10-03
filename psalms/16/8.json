@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Err-eɣ Yahwe din nobbir-i yal tikkelt; axaṭer din yeffus-iw, ur ttmuttugeɣ ara.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Err-eɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "din nobbir-i"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yal tikkelt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "din yeffus-iw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ttmuttugeɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:07.303456057Z",
+  "model": "glm-5.3"
+}

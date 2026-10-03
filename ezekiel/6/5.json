@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad ssekreɣ ⟨את⟩ ifgaren n warraw n Yisrael ɣer zdat n yigilulen-nsen, ad zerrɣeɣ ⟨את⟩ iɣdmawen-nwen tama n yiẓuran-nwen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad ssekreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifgaren n warraw n Yisrael"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "ifgaren"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat n"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "yigilulen-nsen"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ad zerrɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣdmawen-nwen"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "iɣdmawen-nwen"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "tama n"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "yiẓuran-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:43:19.437540407Z",
+  "model": "glm-5.3"
+}

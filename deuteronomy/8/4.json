@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Tlebsa-ik ur teqruḍ ara ɣuf-ek, aḍar-ik ur iḥmum ara, agi-agi arbaɛin n yiseggassen.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Tlebsa-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "teqruḍ ara"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ɣuf-ek"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "aḍar-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "iḥmum ara"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi-agi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arbaɛin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggassen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:54:55.107557524Z",
+  "model": "glm-5.3"
+}

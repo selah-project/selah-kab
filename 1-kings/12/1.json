@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yunag Reḥabeɛam ɣer Cequem, axaṭer akk Yisrael i d-yusan ɣer Cequem akken ad ṭṭfen ⟨את⟩-t d agellid.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yunag"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reḥabeɛam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ɣer Cequem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ɣer Cequem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-yusan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "akken ad ṭṭfen-t d agellid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "Reḥabeɛam (ad ṭṭfen-t d agellid)"
+    }
+  ],
+  "timestamp": "2026-10-03T04:15:09.718666303Z",
+  "model": "glm-5.3"
+}

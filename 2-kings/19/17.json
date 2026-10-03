@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "S tideṣ, Yahwe, igelliden n Accur ḥerben ⟨את⟩ yeɣlanen akked ⟨את⟩ tmurt-nsen.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "s tideṣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ḥerben"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Accur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeɣlanen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yeɣlanen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tmurt-nsen"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tmurt-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:42.501869196Z",
+  "model": "glm-5.3"
+}

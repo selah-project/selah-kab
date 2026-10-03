@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "A wid iẓerẓen Yahwe, ɛudet ɣef Yahwe: d neppa i d-Ɛeḍḍel-nnsen d lɛeskar-nnsen.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "wid iẓerẓen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ɛudet"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ɣef Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "Ɛeḍḍel-nnsen"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "d lɛeskar-nnsen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d neppa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:55.350156436Z",
+  "model": "glm-5.3"
+}

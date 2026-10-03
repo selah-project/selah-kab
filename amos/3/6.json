@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ma yuwɛer abuq deg temdint, ma agdud ur ixelleq ara? Ma tedra dirit deg temdint, ma Yahwe ur tt-igrid ara?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "yuwɛer"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "abuq"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "ixelleq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tedra"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "igrid"
+    }
+  ],
+  "timestamp": "2026-10-03T01:20:46.585319280Z",
+  "model": "glm-5.3"
+}

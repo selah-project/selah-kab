@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ad tiniḍ-asen: mi ara tarim ⟨את⟩ aḥebbu-s seg-s, ad iḥasib i yileviten, am tbuɛt n wugren d tbuɛt n teṣeftit n winxin.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ad tiniḍ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "-asen"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "mi ara tarim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḥebbu-s"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "aḥebbu-s"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "ad iḥasib"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "i yileviten"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "am tbuɛt"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "n wugren"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "d tbuɛt"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "n teṣeftit n winxin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:22.308131573Z",
+  "model": "glm-5.3"
+}

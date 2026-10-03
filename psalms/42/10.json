@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ad iniɣ i El, ssuḍ-iw: Ɣur-k ay iṭṭef-t-id tezdeɣ aṭas? Ɣur-k ay qqimuɣ deg tawrirt, di tggerzent n uɛdaw?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ad iniɣ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "i El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ssuḍ-iw"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ɣur-k ay"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "iṭṭef-t-id tezdeɣ aṭas"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ɣur-k ay"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "qqimuɣ deg tawrirt"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tedduɣ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "di tggerzent"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n uɛdaw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:25.755356120Z",
+  "model": "glm-5.3"
+}

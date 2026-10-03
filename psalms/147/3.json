@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Ad iṣejjiṛ ⟨i⟩ wid yeṛẓen ul, ad yessiwel iḥercuten-nsen.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Ad iṣejjiṛ"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "⟨i⟩ wid yeṛẓen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ad yessiwel iḥercuten-nsen"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:33.517627743Z",
+  "model": "glm-5.3"
+}

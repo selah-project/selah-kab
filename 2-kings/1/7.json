@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-yasen: Acu d talɣa n wemdan-nni i d-yulin ar sdat-wen, i kwen-d-imslayen ⟨את⟩ awalen-agi?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "-yasen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "talɣa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "n wemdan-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "d-yulin"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "ar sdat-wen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "imslayen"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kwen-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:26:59.491437461Z",
+  "model": "glm-5.3"
+}

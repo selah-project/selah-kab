@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Tḥemmeleḍ dirit ugar n lxiṛ, d lqedb ugar n umeslay s ṣedeq. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Tḥemmeleḍ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ugar n lxiṛ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lqedb"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ugar n umeslay"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:20.323150535Z",
+  "model": "glm-5.3"
+}

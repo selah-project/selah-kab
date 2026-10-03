@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Deg wakud-nni, yeṭṭef Aviya, mmi-s n Yeroveɛam, tuccḍa.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud-nni"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "yeṭṭef tuccḍa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "n Yeroveɛam"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:43.110000845Z",
+  "model": "glm-5.3"
+}

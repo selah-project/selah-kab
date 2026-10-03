@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yebrek afeqqi n teṭṭeṛt-ik d afeqqi n wakal-ik d afeqqi n lmal-ik, iǧehḥalen n yibegsen-ik d imeẓyanen n tizerzin-ik.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yebrek"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "afeqqi"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "n teṭṭeṛt-ik"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "d afeqqi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "n wakal-ik"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "d afeqqi"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "n lmal-ik"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "iǧehḥalen"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "n yibegsen-ik"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "d imeẓyanen"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "n tizerzin-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:32.593696549Z",
+  "model": "glm-5.3"
+}

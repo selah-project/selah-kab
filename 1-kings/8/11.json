@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ur ţwaǧǧin ara yikahenen ad qqimen ad qedcen, imenččaε n wagdu: imi tečča tezmert n Yahwe ⟨את⟩ axxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ţwaǧǧin ara"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ţwaǧǧin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "yikahenen"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ad qqimen"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ad qedcen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "imenččaε n"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wagdu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tečča"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:15:02.321207558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ur ili ara ɣur-k iṛebbiten niḍen ɣef ugdil-iw.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ili ara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "niḍen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ugdil-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:49.560610651Z",
+  "model": "glm-5.3"
+}

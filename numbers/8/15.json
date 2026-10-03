@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "S deffir n waya, ad kecmen yillviyen ad qqedsen ⟨את⟩ taḥemt n temlilit; ad ten-ṭehreḍ, ad ten-terḥeb d tnufa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "s deffir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "n waya"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ad kecmen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "yillviyen"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ad qqedsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taḥemt n temlilit"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taḥemt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ad ten-ṭehreḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yillviyen"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "ad ten-terḥeb"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yillviyen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "d tnufa"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:00.607849526Z",
+  "model": "glm-5.3"
+}

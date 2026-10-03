@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "ilmezyen akk d teqlin, imɣaren akked ilmeẓyanen.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ilmezyen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "teqlin"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "imɣaren"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ilmeẓyanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:56.366875099Z",
+  "model": "glm-5.3"
+}

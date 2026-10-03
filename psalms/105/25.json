@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yebddel ulawen-nsen ad kkren ⟨i⟩ ugdud-is, ad nukten ɣef yimarayen-is.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "yebddel"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ulawen-nsen"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ad kkren (ad ikreh)"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ugdud-is"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "ad nukten"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "ɣef yimarayen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:43.125835858Z",
+  "model": "glm-5.3"
+}

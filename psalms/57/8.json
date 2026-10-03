@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Yettwajjed ul-iw, a Elohim, yettwajjed ul-iw; ad cnuɣ, ad cnuɣ s ccna.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "yettwajjed"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yettwajjed"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ad cnuɣ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ad cnuɣ s ccna"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:28.692747922Z",
+  "model": "glm-5.3"
+}

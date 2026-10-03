@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Tuvvif taqcilt n Miṣrayim; tettunefk deg ufus n ugdud n ugafa.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "tuvvif"
+    },
+    {
+      "surface": "בת",
+      "gloss": "taqcilt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "tettunefk"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "n ugafa"
+    }
+  ],
+  "timestamp": "2026-10-03T00:35:27.341539431Z",
+  "model": "glm-5.3"
+}

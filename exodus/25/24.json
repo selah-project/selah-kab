@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad t-teslebdeḍ ⟨את⟩ s werɣ iẓlen, ad txelqem-as azrir n werɣ yakw.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ad t-teslebdeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s werɣ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "werɣ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "iẓlen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txelqem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "זר",
+      "gloss": "azrir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "werɣ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "yakw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:48.404814614Z",
+  "model": "glm-5.3"
+}

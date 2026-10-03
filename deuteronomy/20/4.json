@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Axaṭer Yahwe Elohim-nwen d Win ideg yella yid-wen, ad yennuḥ yid-kwen mgal iḥekmen-nwen, iwakken ad kwen-isseḥbes ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "Win ideg yella"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "yid-wen"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ad yennuḥ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yid-kwen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "iḥekmen-nwen"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "iwakken ad ... isseḥbes"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kunwi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:59:29.546503429Z",
+  "model": "glm-5.3"
+}

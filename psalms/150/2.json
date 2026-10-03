@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 150,
+  "translation": "Sebbḥet-t di lɛezz-is, sebbḥet-t akken i meqqer wa.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Sebbḥet-t"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "di lɛezz-is"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "sebbḥet-t"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "meqqer wa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:16.514537587Z",
+  "model": "glm-5.3"
+}

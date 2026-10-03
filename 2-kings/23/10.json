@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yerna yeḥmes ⟨את⟩ Tofet i yellan deg teẓrut n warrac n Ḥinom, akken ur yizmir ara yiwen ad iḥeṛṛem mmi-s neɣ yelli-s ⟨את⟩ s tmes i Molex.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "yeḥmes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "deg teẓrut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Ḥinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "akken ur"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ad iḥeṛṛem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "neɣ ⟨את⟩",
+      "marks": "yelli-s"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "באש",
+      "gloss": "s tmes"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molex"
+    }
+  ],
+  "timestamp": "2026-10-02T23:38:59.175971675Z",
+  "model": "glm-5.3"
+}

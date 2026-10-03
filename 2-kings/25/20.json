@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Nebuzaradan, anemhal n yimessuḍen, yewwi-d ⟨את⟩ ten, yerna yerra-ten ⟨את⟩ id ɣer ugellid n Babel, ɣer Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten — wid i d-yettwaṭṭfen n beṛṛa"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "anemhal"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "n yimessuḍen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yerra-ten id"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten — wid i d-yettwaṭṭfen n beṛṛa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:58.421026129Z",
+  "model": "glm-5.3"
+}

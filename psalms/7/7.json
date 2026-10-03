@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Sur, a Yahwe, deg lɣeḍḍeb-ik, qqim d asawen deg teqsaḥt n yiṣeḍḍa-yi, u irid fell-i ɣef ⟨l⟩ccreɛ i t-sefreḍ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "deg lɣeḍḍeb-ik"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "qqim d asawen"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "deg teqsaḥt n"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "yiṣeḍḍa-yi"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "u irid fell-i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "i t-sefreḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:33.434570882Z",
+  "model": "glm-5.3"
+}

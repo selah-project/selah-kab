@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Uriw-iw fkaɣ-t i wid yettazen, d ticcert-iw i wid issetṭafen; ur ffreɣ ara udem-iw seg lḥerma d tiḥrirt.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "uriw-iw"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "fkaɣ-t"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "i wid yettazen"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "d ticcert-iw"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "i wid issetṭafen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ffreɣ"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "seg lḥerma"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "d tiḥrirt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:22:46.768266115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Iɣriwen n tlisa nnan-d ɣur-i deg yimukan iɣur leḥya; ula d tagiḍṭ-iw twweḍ-d s ttfailt ɣef yi.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "iɣriwen n tlisa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nnan-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "deg yimukan iɣur leḥya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "tagiḍṭ-iw"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "twweḍ-d s ttfailt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:07.303148243Z",
+  "model": "glm-5.3"
+}

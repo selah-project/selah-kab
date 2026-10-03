@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 84,
+  "translation": "Ad unen seg tazmert ɣer tazmert; ad d-bren ɣer Elohim deg Ṣyun.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Ad unen"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "seg tazmert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ad d-bren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "deg Ṣyun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:28.855772649Z",
+  "model": "glm-5.3"
+}

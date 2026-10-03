@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Iḥemmel-t, axaṭer isella Yahwe ⟨את⟩ taɣect-iw, asuter-iw.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Iḥemmel-t"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "isella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect-iw"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "taɣect-iw"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "asuter-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:28.185006387Z",
+  "model": "glm-5.3"
+}

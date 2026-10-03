@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Tuznet fell-i taḥma-ik, s yimdanen-ik akk i tḥeqleɣ-d iyi. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "tuznet"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "taḥma-ik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "yimdanen-ik"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "tḥeqleɣ-d"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:23.381408545Z",
+  "model": "glm-5.3"
+}

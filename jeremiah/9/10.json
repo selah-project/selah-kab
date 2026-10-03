@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ad γiγ ⟨את⟩ Yerucalayim d tγerfa, d axxam n wecen; ⟨את⟩ tiγendwalin n Yeḥuda ad γiγ-tent d talwit, war win izdigen.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad γiγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "d tγerfa"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "n wecen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiγendwalin n Yeḥuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tiγendwalin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yeḥuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad γiγ-tent"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "d talwit"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "war"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "win izdigen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:54.066449244Z",
+  "model": "glm-5.3"
+}

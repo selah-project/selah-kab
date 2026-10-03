@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "d ⟨את⟩ Ṣorɛa, d ⟨את⟩ Ajalon, d ⟨את⟩ Ḥebron, i yellan deg Yeḥuda d deg Benyamin — tidɣarin n tseddiwin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ṣorɛa"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Ṣorɛa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ḥebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yeḥuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "d deg Benyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tidɣarin"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "n tseddiwin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:41:18.379471665Z",
+  "model": "glm-5.3"
+}

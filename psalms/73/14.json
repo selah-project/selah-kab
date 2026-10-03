@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Lliɣ ttwaḍen yal ass, timawel-iw tettas-d yal taṣebḥit.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "lliɣ"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ttwaḍen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "timawel-iw tettas-d"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "yal taṣebḥit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:26.082327527Z",
+  "model": "glm-5.3"
+}

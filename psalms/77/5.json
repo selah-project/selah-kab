@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Teṭṭfeḍ-d tilawin n ⟨את⟩ tiṭṭiw-inu; teḥmumeɣ, ur zzenneɣ ara.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "teṭṭfeḍ-d"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "tilawin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiṭṭiw-inu"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "teḥmumeɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "zzenneɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:38.372835700Z",
+  "model": "glm-5.3"
+}

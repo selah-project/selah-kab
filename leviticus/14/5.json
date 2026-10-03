@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Akohen ad isseḥ, ad yeneɣ ⟨את⟩ tiğet ta yiwet, di teḥnact n wakal, ɣef waman iḥeddan.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ad isseḥ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ad yeneɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiğet"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "tiğet"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ta yiwet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "teḥnact"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "n wakal"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "iḥeddan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:25.216576667Z",
+  "model": "glm-5.3"
+}

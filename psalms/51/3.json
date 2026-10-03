@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Ɛetṭef-iyi, a Elohim, akken i d-lla ⟨i⟩ ḥesed-ik, akken i d-lla ⟨i⟩ waṭas n teṛḥma-inek, ḥettu tiggirdin-iw.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ɛetṭef-iyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "akken i d-lla ḥesed-ik"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "akken i d-lla waṭas"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "teṛḥma-inek"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ḥettu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "tiggirdin-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:35.750466405Z",
+  "model": "glm-5.3"
+}

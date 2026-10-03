@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Wan yefren tikelt-nniḍen ⟨את⟩ tikelt-nniḍen i ḥḍan-t, tt-ireẓẓen deg-s daɣen; isem-is isemma Sitna.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ḥḍan-t"
+    },
+    {
+      "surface": "באר",
+      "gloss": "tikelt"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "tt-ireẓẓen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "isemma"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "Sitna"
+    }
+  ],
+  "timestamp": "2026-10-03T03:59:08.312741097Z",
+  "model": "glm-5.3"
+}

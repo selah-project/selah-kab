@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "d ⟨את⟩ Adorajim, d ⟨את⟩ Lakic d ⟨את⟩ Ɛazeqa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Adorajim"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Lakic"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakic"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ɛazeqa"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Ɛazeqa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:41:18.378992864Z",
+  "model": "glm-5.3"
+}

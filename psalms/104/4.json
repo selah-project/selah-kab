@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Iexdem imcegɣen-is d iruḥen, iqeddacen-is d tmes yettfeɣɣen.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Iexdem"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "imcegɣen-is"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "d iruḥen"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "iqeddacen-is"
+    },
+    {
+      "surface": "אש",
+      "gloss": "d tmes"
+    },
+    {
+      "surface": "להט",
+      "gloss": "yettfeɣɣen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:35.837753699Z",
+  "model": "glm-5.3"
+}

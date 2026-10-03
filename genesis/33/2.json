@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Iḥettem ⟨את⟩ tilliḍin d ⟨את⟩ lecryuḍ-nsent d imezwaru, ⟨את⟩ Lea d lecryuḍ-is deffir, ⟨את⟩ Raḥel d ⟨את⟩ Yosef d ineggura.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "iḥettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilliḍin"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "tilliḍin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lecryuḍ-nsent"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "lecryuḍ-nsent"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "d imezwaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "lecryuḍ-is"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raḥel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raḥel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ineggura"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:10.604149762Z",
+  "model": "glm-5.3"
+}

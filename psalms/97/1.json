@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 97,
+  "translation": "Yahwe yedhel ⟨d⟩ agellid; ad thuḍ tmurt, ad mnuɣen tigzirin timeẓyanin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yedhel d agellid"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ad thuḍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ad mnuɣen"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tigzirin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "timeẓyanin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:09.656018975Z",
+  "model": "glm-5.3"
+}

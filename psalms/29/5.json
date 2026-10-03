@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Taɣri n Yahwe tetteq ⟨את⟩ icedren; Yahwe yerẓa ⟨את⟩ icedren n Lebnan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "taɣri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "tetteq"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "icedren"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "yerẓa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icedren n Lebnan"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "icedren n"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebnan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:53.957089747Z",
+  "model": "glm-5.3"
+}

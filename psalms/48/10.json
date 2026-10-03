@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Nceggaɛ, a Elohim, ⟨i⟩ lḥesed-ik, deg wemmas n teɣremt-ik.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Nceggaɛ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lḥesed-ik"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg wemmas"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "n teɣremt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:53.025661243Z",
+  "model": "glm-5.3"
+}

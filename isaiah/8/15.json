@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Aṭas fell-as ad senggeḍen, ad yessenṭen, ad ttwagzen, ad tewweḍen deg tseḥḥurt, ad ttwaneṭṭfen.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ad senggeḍen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ad yessenṭen"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ad ttwagzen"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ad tewweḍen deg tseḥḥurt"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ad ttwaneṭṭfen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:06.818774618Z",
+  "model": "glm-5.3"
+}

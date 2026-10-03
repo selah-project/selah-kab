@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Llan, mi t-walan ⟨את⟩ Cimcon, ṭṭfen tlatin n yimdukkal, u llan yid-s ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "llan"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "mi t-walan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Cimcon"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tlatin"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "n yimdukkal"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yid-s ⟨את⟩",
+      "marks": "Cimcon"
+    }
+  ],
+  "timestamp": "2026-10-02T22:30:28.830740770Z",
+  "model": "glm-5.3"
+}

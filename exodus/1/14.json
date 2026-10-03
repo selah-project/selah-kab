@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Sserɣen ⟨את⟩ tudert-nsen s uxeddim aqesḥan: deg lexḥal, deg leṭṭeb, akk d yal xeddim deg wurti; akk d xeddim-nsen, win i ten-ixelqen ad xedmen ⟨את⟩ s teẓweɣt.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "sserɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tudert-nsen"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "tudert-nsen"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "s uxeddim"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "aqesḥan"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "deg lexḥal"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "deg leṭṭeb"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "yal xeddim"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg wurti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk d xeddim-nsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "xeddim-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win i"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ixelqen ad xedmen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "s teẓweɣt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:42.021417070Z",
+  "model": "glm-5.3"
+}

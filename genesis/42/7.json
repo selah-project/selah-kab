@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yusef iwala ⟨את⟩ atmaten-is, iẓri-⟨את⟩ ten, yexḍeɛ iman-is ɣur-sen, yenmezg-iten s wawalen iẓidanen. Yenna-yasen: Anida-tt kecmen? Nnan: Seg tmurt n Kenɛan, iwakken ad ncec ţaam.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atmaten-is"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "atmaten-is"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "iẓri-ten"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "yexḍeɛ iman-is ɣur-sen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yenmezg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "s wawalen iẓidanen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yasen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "i sen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "anida-tt"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenɛan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ad ncec"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ţaam"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:50.805514516Z",
+  "model": "glm-5.3"
+}

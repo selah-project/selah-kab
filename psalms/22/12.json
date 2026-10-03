@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ur tebɛid ara sɣur-i, axter lexsera tewweḍ, axter ulac win iwudden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tebɛid"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sɣur-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axter"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "lexsera"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "tewweḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axter"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "win iwudden"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:31.436341374Z",
+  "model": "glm-5.3"
+}

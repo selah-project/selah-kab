@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Axxam-nsen yella seg Mecea, ɣer tama n Sefara, adrar n usamar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "axxam-nsen"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "seg Mecea"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ɣer tama n"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "n usamar"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:56.746930269Z",
+  "model": "glm-5.3"
+}

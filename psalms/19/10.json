@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Tugdi n Yahwe d taṣaft, teqqim i lebda; leḥkum n Yahwe d ṣṣeḥ, meṛṛa d leḥeq ⟨yiwet⟩.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "tugdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "d taṣaft"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "teqqim"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "leḥkum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "d ṣṣeḥ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "d leḥeq"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "meṛṛa yiwet"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:48.043899513Z",
+  "model": "glm-5.3"
+}

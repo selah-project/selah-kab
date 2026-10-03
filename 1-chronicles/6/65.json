@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Seg weqbil n Gad ⟨d⟩ ⟨את⟩ Raamot deg Gilɛad akken daɣen ⟨את⟩ tiḥriyin-is, ⟨את⟩ Maḥanayim akken daɣen ⟨את⟩ tiḥriyin-is.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "seg weqbil n"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "deg Gilɛad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akken daɣen ⟨את⟩",
+      "marks": "tiḥriyin-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tiḥriyin-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akken daɣen ⟨את⟩",
+      "marks": "Maḥanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maḥanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akken daɣen ⟨את⟩",
+      "marks": "tiḥriyin-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tiḥriyin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:47.531834121Z",
+  "model": "glm-5.3"
+}

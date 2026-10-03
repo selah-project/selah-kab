@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Yaɛqov issuffeɣ-ten-id i yiḍarren-is, yerna yekker yeddu ɣer tmurt n yimezdaɣ n lqiḍ.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "issuffeɣ-ten-id i yiḍarren-is"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "i yiḍarren-is"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yekker yeddu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yimezdaɣ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "n lqiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:58:35.861521846Z",
+  "model": "glm-5.3"
+}

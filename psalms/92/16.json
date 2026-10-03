@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Iwakken ad d-yinin belli Yahwe d ameqqran deg lḥeqq; d ṣxiref-iw, ur telli ara tucḍa deg-s.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ad d-yinin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "d ameqqran deg lḥeqq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "d ṣxiref-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "tucḍa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:40.002756725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Iẓra-d ⟨את⟩ yilem ɣef teɣzi n yidis ayfus, ɣer wegmuḍ, tuɣ ɣer unẓul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yilem"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yilem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iẓra-d"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ɣef teɣzi n yidis"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ayfus"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ɣer wegmuḍ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "tuɣ ɣer"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "unẓul"
+    }
+  ],
+  "timestamp": "2026-10-03T03:37:48.436324246Z",
+  "model": "glm-5.3"
+}

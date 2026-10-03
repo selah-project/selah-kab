@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "Acku Elohim ameqqran d Yahwe, d agellid ameqqran ɣef yal Elohim-nniḍen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "d Yahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim-nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:19.092437609Z",
+  "model": "glm-5.3"
+}

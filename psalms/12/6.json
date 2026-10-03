@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ɛef talḥeṣ n wid yettwaḥeṣṣen d tanguct n wid ur nesɛi ara, tura ad kkreɣ, i d-yenna Yahwe; ad sersɣ win yettḥeṣṣen deg yelles, seg win iṣeffun ɣef-s.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "talḥeṣ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "wid yettwaḥeṣṣen"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "tanguct"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "wid ur nesɛi ara"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ad kkreɣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ad sersɣ"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "deg yelles"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "win iṣeffun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɣef-s"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:27.689133681Z",
+  "model": "glm-5.3"
+}

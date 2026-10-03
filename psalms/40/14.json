@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad yḥemmleḍ a Yahwe ad aɣ-tlleḥmeḍ; a Yahwe, ẓreb ɣer tallelt-iw.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "ad yḥemmleḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ad aɣ-tlleḥmeḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ɣer tallelt-iw"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ẓreb"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:40.882560097Z",
+  "model": "glm-5.3"
+}

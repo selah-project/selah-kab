@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Acku am teɣzi n igenwan ɣef tmurt, akka i yugar ḥesed-is ɣef wid i t-yuggen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "am teɣzi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yugar"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wid i t-yuggen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:25.543794428Z",
+  "model": "glm-5.3"
+}

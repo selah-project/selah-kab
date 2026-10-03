@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Di tqeccida-w, deg yiḍ, ssuqleɣ ⟨את⟩ win i ḥemmel taneffust-iw; ssuqleɣ-t, ur t-id-ṛanif ara.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "tqeccida-w"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ssuqleɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win i ḥemmel taneffust-iw"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "win i ḥemmel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "taneffust-iw"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "ssuqleɣ-t"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "t-id-ṛanif ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:41.769726420Z",
+  "model": "glm-5.3"
+}

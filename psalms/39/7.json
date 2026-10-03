@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "S tidet, deg tuggi yettazzal wemdan; s tidet, deg hebel tt-ḥewwlen; isseɣles lexlaṣ ur issin anwa i ten-id-ijemmel.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "deg tuggi"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "yettazzal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "deg hebel"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "tt-ḥewwlen"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "isseɣles lexlaṣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "issin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "i ten-id-ijemmel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:09.236808186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Mi yeggra nefs-iw ɣef-i, snubɣeɣ ⟨את⟩ Yahwe; asuter-iw iwwḍed ɣer-k, ɣer uxxam n teqedcit-ik.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Mi yeggra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "snubɣeɣ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "iwwḍed"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer-k"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "asuter-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "uxxam"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "n teqedcit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:55.003610373Z",
+  "model": "glm-5.3"
+}

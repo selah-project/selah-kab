@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "I win ibedden ɣef ccna: mizmor n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "I win ibedden ɣef ccna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:08.865614579Z",
+  "model": "glm-5.3"
+}

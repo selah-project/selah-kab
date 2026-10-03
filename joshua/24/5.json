@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Suffɣeɣ-d ⟨את⟩ Moce d ⟨את⟩ Aharon, uɣiɣ ⟨את⟩ Miṣrayim, akken i xedmeɣ deg telqey-is; s deffir, ssuffɣeɣ-⟨את⟩ kwen-id.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Suffɣeɣ-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "uɣiɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "i xedmeɣ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "deg telqey-is"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "s deffir"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ssuffɣeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:37.605403282Z",
+  "model": "glm-5.3"
+}

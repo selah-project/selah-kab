@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Axater tiwwt n tiṭ i d-illa deg lɛedba-s, tameddurt tella deg lḥemla-s: deg tmeddit ad yeqqim uṭṭer, ma d deg zwar ad yili ccna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axater"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "tiwwt n tiṭ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "deg lɛedba-s"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tameddurt"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "deg lḥemla-s"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "deg tmeddit"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "uṭṭer"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ma d deg zwar"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ccna"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:41.160510844Z",
+  "model": "glm-5.3"
+}

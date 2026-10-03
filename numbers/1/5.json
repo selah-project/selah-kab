@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Wid-agi d yismawen n yirgazen ara yizzin d ⟨את⟩ yid-wen: i Reuben, Elitsur mmi-s n Cedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Wid-agi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "d yismawen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "n yirgazen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ara yizzin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yid-wen",
+      "marks": "yid-wen"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "i Reuben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "n Cedejur"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:59.230784379Z",
+  "model": "glm-5.3"
+}

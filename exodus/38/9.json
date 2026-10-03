@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yeɣi ⟨את⟩ lḥeṣer; ɣer tama n wenẓul, d wenẓul: iḥeckren n lḥeṣer d šeš imezzuyen, miy n yiɛdab.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yeɣi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeṣer"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lḥeṣer"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ɣer tama n"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "wenẓul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "d wenẓul"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "iḥeckren n"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lḥeṣer"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šeš"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "imezzuyen"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "miy"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "n yiɛdab"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:57.535929445Z",
+  "model": "glm-5.3"
+}

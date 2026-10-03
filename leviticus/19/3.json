@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yal argaz ad iṭṭef tadist i yemma-s d baba-s, ad ḥerze ⟨את⟩ leslaḥ-nneɣ; nekk Yahwe Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Yal argaz"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "d baba-s"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ad iṭṭef tadist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leslaḥ-nneɣ"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Cabbat-agiw"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ad ḥerze"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:28.079127443Z",
+  "model": "glm-5.3"
+}

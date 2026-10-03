@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad ḥeṛben ⟨את⟩ ṭaṣ n tmurt, ur izmir ara yiwen ad iwali ⟨את⟩ tmurt; ad ččuren ⟨את⟩ wayen i d-yegran, wayen i kwen-yeqqimen seg usaru, ad ččuren ⟨את⟩ yal iseɣ i kwen-id-yettmeggiren seg uɣadir.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "ad ḥeṛben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ṭaṣ n tmurt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ṭaṣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "izmir ara"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ad ččuren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen i d-yegran"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "wayen i d-yegran"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "i d-yenwaḍ"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "i kwen-yeqqimen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "usaru"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ad ččuren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yal iseɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "iseɣ"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "i kwen-id-yettmeggiren"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "uɣadir"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:05.920009720Z",
+  "model": "glm-5.3"
+}

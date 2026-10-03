@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad snejden ⟨את⟩ tikkelt-nsen d ⟨את⟩ tikkelt n yidfawen-nsen, di lxerya-nsen i sxerjen ɣef-i, ula imi ṛuḥen d-i s uzagur.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ad snejden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikkelt-nsen"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "tikkelt-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tikkelt n yidfawen-nsen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tikkelt"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "n yidfawen-nsen"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "di lxerya-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "sxerjen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "d-i"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "s uzagur"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:08.578024910Z",
+  "model": "glm-5.3"
+}

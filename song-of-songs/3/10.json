@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tigejdanin-is xelqen-tent s lfḍa; agsan-is s wureɣ; ameggaz-is s urğuman; agensu-is iṛcem s lḥezz, seg yesset n Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "tigejdanin-is"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "xelqen-tent"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "s lfḍa"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "agsan-is"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "s wureɣ"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "ameggaz-is"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "s urğuman"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "agensu-is"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "iṛcem"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "s lḥezz"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "seg yesset"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:06.882520609Z",
+  "model": "glm-5.3"
+}

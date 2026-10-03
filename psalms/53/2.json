@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Yenna navel deg wul-is: «Ulac Elohim». Rẓen-tid, ḥerṣen-d tiddin; ulac win ixedmen lxiṛ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "navel"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "deg wul-is"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "rẓen-tid"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ḥerṣen-d"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tiddin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxiṛ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:02.522274739Z",
+  "model": "glm-5.3"
+}

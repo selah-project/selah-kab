@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Deg wass wis sa akohin ad iwali ⟨את⟩ uneggaḥ; ma yella uneteq ur yerni ara, tetta tawraḥt ur telli ara deg-s, udem n uneteq ur yeɛmeq ara ugar n ugdil —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uneggaḥ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "uneggaḥ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis sa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yerni ara"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "uneteq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telli ara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tetta"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "tawraḥt"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "udem"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "n uneteq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "yeɛmeq ara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ugar n"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ugdil"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:17.255618179Z",
+  "model": "glm-5.3"
+}

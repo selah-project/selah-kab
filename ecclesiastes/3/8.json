@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akud iwakken ad tḥemmleḍ, d akud iwakken ad tkreḥeḍ; akud n ṭṭraḍ, d akud n tifrat.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "ad tḥemmleḍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ad tkreḥeḍ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "akud"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ṭṭraḍ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "d akud"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tifrat"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:35.813760005Z",
+  "model": "glm-5.3"
+}

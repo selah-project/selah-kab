@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Aɣrum n iɫaaren i t-icca yal argaz; tasertit yuzen-asen-id i wakken ad ḥemmen.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "iɫaaren"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "t-icca"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "tasertit"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yuzen-asen-id"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "i wakken ad ḥemmen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:23.931571581Z",
+  "model": "glm-5.3"
+}

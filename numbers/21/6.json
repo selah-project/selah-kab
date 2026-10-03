@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yuzen Yahwe mgal ugdud ⟨את⟩ iɣzna iɣsanen; ḍebsen ⟨את⟩ ugdud, immut agdud meqqren seg Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "mgal ugdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣzna iɣsanen"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "iɣzna"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "iɣsanen"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ḍebsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "immut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "seg Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:37:42.596043315Z",
+  "model": "glm-5.3"
+}

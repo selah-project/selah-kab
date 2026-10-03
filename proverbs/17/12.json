@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ad yemlil ilef yettwaksen warraten-is ⟨d⟩ urgaz, mači aḥmaq deg taḥmaqit-is.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "ad yemlil"
+    },
+    {
+      "surface": "דב",
+      "gloss": "ilef"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "yettwaksen warraten-is"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨d⟩ urgaz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mači"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "aḥmaq"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "deg taḥmaqit-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:24:29.200579205Z",
+  "model": "glm-5.3"
+}

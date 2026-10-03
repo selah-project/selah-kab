@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad yenna ukohen ad ssefɣen ⟨את⟩ yijẓran ideg yella waṭṭan, ad ⟨את⟩ tent-ẓeglen ar beṛṛa n temdint, ar amkan armani.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ukohen"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "ad ssefɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yijẓran"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "yijẓran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "yella deg-s"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "waṭṭan"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "ad tent-ẓeglen"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ tent",
+      "marks": "yijẓran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "armani"
+    }
+  ],
+  "timestamp": "2026-10-02T21:08:47.155235331Z",
+  "model": "glm-5.3"
+}

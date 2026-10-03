@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yebna ⟨the⟩ tamdint deg tlaxert, si Millu ɣer tama-ines akk; Yoav yuḥyu ⟨את⟩ wayen i d-yegran seg ⟨the⟩ tamdint.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Yebna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "deg tlaxert"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "tama-ines akk"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yuḥyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen i d-yegran seg tamdint"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "wayen i d-yegran"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "seg tamdint"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:25.720931861Z",
+  "model": "glm-5.3"
+}

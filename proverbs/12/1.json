@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Win iḥemmlen aseggim iḥemmel tamussni, ma d win yekhren acci d ahaylay.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "aseggim"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tamussni"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ma d win yekhren"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "acci"
+    },
+    {
+      "surface": "בער",
+      "gloss": "d ahaylay"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:28.683553830Z",
+  "model": "glm-5.3"
+}

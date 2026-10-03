@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yahwe inna-yas: Tameṭṭut-a d tamurt i ɣef gziɣ i Avraham, i Yiṣḥaq d Yaɛqov, ad yini: Ad tt-mudd γer zerɛ-ik. Kkes-ed as akken tt-walideγ s wallen-ik, maca ur tettazal ara deg-s.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna-yas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i yal-is"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tameṭṭut-a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i ɣef"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "gziɣ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "i Yiṣḥaq"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "d Yaɛqov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "zerɛ-ik"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ad tt-mudd"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "Kkes-ed as akken tt-walideγ-k"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "s wallen-ik"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "deγ-s"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "tettazal ara"
+    }
+  ],
+  "timestamp": "2026-10-02T22:09:13.961270857Z",
+  "model": "glm-5.3"
+}

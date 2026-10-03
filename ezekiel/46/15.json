@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Ad sdewṣen ⟨את⟩ ukeččaw, ⟨את⟩ minḥa d ⟨את⟩ uzeqq, deg tafggigt deg tafggigt — lɛadya tamezgit.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ad sdewṣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukeččaw"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ukeččaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "uzeqq"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tafggigt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tafggigt"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "lɛadya"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tamezgit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:13:40.992545181Z",
+  "model": "glm-5.3"
+}

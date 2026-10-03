@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur iwali-yi ara ṭṭef win t-iwalin; ṭṭef-ik ɣef-i, maca nekk ulac.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "iwali-yi ara"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ṭṭef"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "win t-iwalin"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ṭṭef-ik"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "maca nekk ulac"
+    }
+  ],
+  "timestamp": "2026-10-03T02:32:27.985222661Z",
+  "model": "glm-5.3"
+}

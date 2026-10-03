@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Akken ara t-ḍeẓren, akka ad yernu uṭṭunen akka ad yeḥmec; ggerzen ɣef waraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "akken ara"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ḍeẓren"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t — agdud n Yisrael"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ad yernu uṭṭunen"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "akka daɣen"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ad yeḥmec"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ggerzen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:41.896254670Z",
+  "model": "glm-5.3"
+}

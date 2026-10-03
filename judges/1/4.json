@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahuda yuli; Yahwe yefka ⟨את⟩ Kenaɛani akked Frezi deg yifassen-nsen; ṭṭfen-ten deg Bezeq, mraw n yifan n yimdanen.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaɛani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaɛani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "akked Frezi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "deg yifassen-nsen"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ṭṭfen-ten"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "deg Bezeq"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mraw n"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "yifan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:45.544243250Z",
+  "model": "glm-5.3"
+}

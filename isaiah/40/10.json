@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Wali, Adonai Yahwe ad yekcem s tezmert, taɛekkum-is ad tessel i medden; wali, taqdiḍt-is ⟨את⟩ tella d netta, d leɛmel-is din zdat-is.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "s tezmert"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ad yekcem"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "taɛekkum-is"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "ad tessel i medden"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "taqdiḍt-is"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tella d netta"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "d leɛmel-is"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "din zdat-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:16.379374120Z",
+  "model": "glm-5.3"
+}

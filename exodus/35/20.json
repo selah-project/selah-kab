@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Teffa-d timetti-akk n tarwa n Yisrael seg zdat n Moce.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "teffa-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "timetti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "seg zdat n"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:20.912779353Z",
+  "model": "glm-5.3"
+}

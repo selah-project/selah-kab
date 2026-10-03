@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "I win yettseggimen. S warrac n Qoraḥ. Izli.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettseggimen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "s warrac n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "izli"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:27.858448365Z",
+  "model": "glm-5.3"
+}

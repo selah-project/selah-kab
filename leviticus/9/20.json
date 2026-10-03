@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ṭṭfen ⟨את⟩ iḍumen ɣef yiḥeṛṛimen, yeḥreq ⟨את⟩ iḍumen ɣef lmeṣbaḥ.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḍumen"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "iḍumen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "yiḥeṛṛimen"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yeḥreq"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "iḍumen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeṣbaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:07:10.644325869Z",
+  "model": "glm-5.3"
+}

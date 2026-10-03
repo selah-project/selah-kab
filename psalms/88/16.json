@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Nekk d ameḥbus, qrib ad mmeɣ, seg temẓi-yagi; ṭṭfen-iyi tagudi-k, tuɣ-iyi tangedert.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "d ameḥbus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "qrib ad mmeɣ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "seg temẓi-yagi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ṭṭfen-iyi"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "tagudi-k"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "tuɣ-iyi tangedert"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:46.319063659Z",
+  "model": "glm-5.3"
+}

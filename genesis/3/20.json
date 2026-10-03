@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Adam isem-is i yefka i tmeṭṭut-is Ḥava, axaṭer d nettat i d-tesεun tameṭṭut n yal win ilan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "isem-is i yefka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "i tmeṭṭut-is"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Ḥava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "i d-tesεun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "n yal"
+    },
+    {
+      "surface": "חי",
+      "gloss": "win ilan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:00.075442946Z",
+  "model": "glm-5.3"
+}

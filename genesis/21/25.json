@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Avraham i d-yenna belli Avimelex yexṣer, ɣef lweḥida n tala n waman, i ttawin s tḥeṛfit yiggerdan n Avimelex.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "i d-yenna belli yexṣer"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelex"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "lweḥida"
+    },
+    {
+      "surface": "באר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "המים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "ttawin s tḥeṛfit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yiggerdan n"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:14.200603020Z",
+  "model": "glm-5.3"
+}

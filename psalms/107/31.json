@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ad snemmren i Yahwe ḥesed-is, d tmucḥa-ines i warraw n yemdanen.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ad snemmren"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "וונפלאותיו",
+      "gloss": "d tmucḥa-ines"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yemdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:37.145432314Z",
+  "model": "glm-5.3"
+}

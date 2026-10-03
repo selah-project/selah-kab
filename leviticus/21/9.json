@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yelli n wemdan n ukohen, ma tebda tazennut, baba-s ⟨hiya⟩ texelleṛ ⟨את⟩ baba-s; deg tmes ad tettwaru.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Yelli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "n ukohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "texelleṛ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "tazennut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨hiya⟩"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "texelleṛ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ad tettwaru"
+    }
+  ],
+  "timestamp": "2026-10-02T21:15:36.829406127Z",
+  "model": "glm-5.3"
+}

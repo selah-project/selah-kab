@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Uzaneɣ-d uqbel-ikkwent ⟨את⟩ eṭ-ṣirɛa, tessefsex-ten ⟨את⟩ ger yimawen-ikkwent — sin n yigelliden n Imori — mačči s seif-nwen, u mačči s tzermi-nwen.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "uzaneɣ-d"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "uqbel-ikkwent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eṭ-ṣirɛa"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "eṭ-ṣirɛa"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "tessefsex"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ger yimawen-ikkwent"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin n"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "yigelliden n"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Imori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "s seif-nwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "u mačči"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "s tzermi-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:51.537767582Z",
+  "model": "glm-5.3"
+}

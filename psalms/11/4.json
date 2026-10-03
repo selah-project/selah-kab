@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yahwe deg uxxam-is iqedcen; Yahwe, deg igenni lɛers-is. Tiṭṭawen-is ttmuqulent; icfawen-is kkedent arraw n wemdan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenni"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "lɛers-is"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "tiṭṭawen-is"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ttmuqulent"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "icfawen-is"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "kkedent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:42.133993931Z",
+  "model": "glm-5.3"
+}

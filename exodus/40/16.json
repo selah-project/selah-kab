@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Moce yexdem akk ayen i d-yenneh Yahwe; akka i yexdem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "akk ayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yenneh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ fell-as",
+      "marks": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i yexdem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:17.289392420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Yahwe isellem-d ɣer Moce, ad yini:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "isellem-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:28.171007079Z",
+  "model": "glm-5.3"
+}

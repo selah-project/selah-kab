@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "I ukohin n Midyan yella sa n teqcictin; kkrent-d, ssumrent, ččurent ⟨את⟩ iḍannen iwakken ad sseswent taɣewsit n baba-tsen.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "i ukohin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "n Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "n teqcictin"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "kkrent-d"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ssumrent"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ččurent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḍannen"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "iḍannen"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ad sseswent"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "taɣewsit"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "baba-tsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:11.089568624Z",
+  "model": "glm-5.3"
+}

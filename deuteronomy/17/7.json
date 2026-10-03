@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Afus n inagan ad yili fellas di tazwara iwakken ad t-nɣen, d afus n ugdud akk deg taggara; kkseḍ dirit seg txemmem-ik.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "inagan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fellas"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "di tazwara"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "iwakken ad t-nɣen"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "d afus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "deg taggara"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "kkseḍ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "seg txemmem-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:00:38.255332539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 49:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ur kcem ara, neffs-iw, ɣer usḍukel-nnsen; ur tettwassiḍ ara, ajjed-iw, deg lmenni-nnsen; axaṭer deg lweḥc-nnsen nɣen ⟨את⟩ argaz, s lebɣi-nnsen ẓẓun ayulen n yifksen.",
+  "tokens": [
+    {
+      "surface": "בסדם",
+      "gloss": "ɣer usḍukel-nnsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kcem ara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neffs-iw"
+    },
+    {
+      "surface": "בקהלם",
+      "gloss": "deg lmenni-nnsen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "tettwassiḍ ara"
+    },
+    {
+      "surface": "כבדי",
+      "gloss": "ajjed-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "באפם",
+      "gloss": "deg lweḥc-nnsen"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nɣen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "וברצנם",
+      "gloss": "s lebɣi-nnsen"
+    },
+    {
+      "surface": "עקרו",
+      "gloss": "ẓẓun ayulen"
+    },
+    {
+      "surface": "שור",
+      "gloss": "n yifksen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:28.616823569Z",
+  "model": "glm-5.3"
+}

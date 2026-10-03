@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yenna Yahwe: Wali, yella wemkan ⟨את⟩ ɣur-i, ad teqqimeḍ ɣef weẓru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ɣur-i",
+      "marks": "wemkan — amkan yellan ɣur Yahwe"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "ad teqqimeḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "weẓru"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:11.988277235Z",
+  "model": "glm-5.3"
+}

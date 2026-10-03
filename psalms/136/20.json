@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Ɛug, agellid n Bacan, axaṭer ḥesed-is yettidir i lebda.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Ɛug"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "n Bacan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:24.441739663Z",
+  "model": "glm-5.3"
+}

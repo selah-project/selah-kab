@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ayen yellan deg ul-nsen: ixxamen-nsen i lebda, Mickanen-nsen i tasut s tesut; qqlen s yismawen-nsen ɣef tmura.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ayen yellan deg ul-nsen"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "ixxamen-nsen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "Mickanen-nsen"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i tasut"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "s tesut"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "qqlen"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "s yismawen-nsen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "tmura"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:22.216739290Z",
+  "model": "glm-5.3"
+}

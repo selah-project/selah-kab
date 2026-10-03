@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ɣur-s ad ddun iccancen akked usgaren-nsen; sersen iḍen deg tama-s s lḥeṛc; ad iṣeṭṭeḍ yal win ⟨את⟩ afus-is.",
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "Ɣur-s"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "iccancen"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "akked usgaren-nsen"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "sersen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "deg tama-s"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "iḍen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s lḥeṛc"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ad iṣeṭṭeḍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:14:43.655447070Z",
+  "model": "glm-5.3"
+}

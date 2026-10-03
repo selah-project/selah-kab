@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "D ⟨את⟩ lexem-is yebna Cileman tlata d mraw n yiseggasen, i wakken ikemmel ⟨את⟩ lexem-is akk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lexem-is"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "lexem-is"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Cileman"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ikemmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "lexem-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:43.156814281Z",
+  "model": "glm-5.3"
+}

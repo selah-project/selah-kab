@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 3:22",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Imi ṣṣefren deg usṭeḍb n yirgazen, akk d win i d-yekka seg ugur ɣer sdat: imi ṣṣefren-iten, llan deg-sen sebaa n yifḍ d semmus n temmen.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "imi ṣṣefren deg usṭeḍb"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "seg usṭeḍb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "d win i d-yekka seg ugur"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ugur"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ɣer sdat"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "imi ṣṣefren-iten"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebaa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n yifḍ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "d semmus"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temmen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:00.851566589Z",
+  "model": "glm-5.3"
+}

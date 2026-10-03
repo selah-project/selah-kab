@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yuzen-iyi-d Sanballat, akken yella wawal-agi, tikkelt n tis semmus, ilemmas ⟨את⟩-ines, yerna tebratt yeldin deg ufus-is.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen-iyi-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "tikkelt"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "tis semmus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilemmas ⟨את⟩-ines"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ilemmas-is"
+    },
+    {
+      "surface": "ואגרת",
+      "gloss": "yerna tebratt"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "yeldin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:19:11.515436760Z",
+  "model": "glm-5.3"
+}

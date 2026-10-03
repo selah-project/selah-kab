@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Ameḥnan d ureḥmu ⟨d⟩ Yahwe, iri-s ɣezzif, d ḥesed ameqran.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Ameḥnan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "d ureḥmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ɣezzif"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "iri-s"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "d ameqran"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.574704505Z",
+  "model": "glm-5.3"
+}

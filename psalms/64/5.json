@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Ad mgen deg umsiterr ⟨i⟩ wid idemmen; deg tikelt ad ten-mgen, ur ttugwalden ara.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "ad mgen"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "deg umsiterr"
+    },
+    {
+      "surface": "תם",
+      "gloss": "wid idemmen"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "deg tikelt"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ad ten-mgen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ttugwalden ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:21.494612372Z",
+  "model": "glm-5.3"
+}

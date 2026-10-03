@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 114,
+  "translation": "A yidraren, acu i wen-iruḥen tzegglem am yizikeren? A yigura, am yilemẓyen n yiẓeki?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "A yidraren"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "tzegglem"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "am yizikeren"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "A yigura"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "am yilemẓyen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "n yiẓeki"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:14.563405337Z",
+  "model": "glm-5.3"
+}

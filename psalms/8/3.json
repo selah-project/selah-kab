@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Seg imi n tefrumiyin d wid yettaran, tsebḍeḍ tazmert, imi n yiɛdawen-ik, iwakken ad tessusmeḍ amḥellef akk d umakrren.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Seg imi"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "n tefrumiyin"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "d wid yettaran"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "tsebḍeḍ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "למען",
+      "gloss": "imi n"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "yiɛdawen-ik"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "iwakken ad tessusmeḍ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "amḥellef"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "akk d umakrren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:16.550445552Z",
+  "model": "glm-5.3"
+}

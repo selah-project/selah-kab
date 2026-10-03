@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Mi yemmeslay Efrayim, tulla tissas-t; netta yuli d deg Yisrael; mi yedreb deg Baɛal, yemmut.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "mi yemmeslay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "tulla tissas-t"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yuli d"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "yedreb"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "deg Baɛal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:25.938405965Z",
+  "model": "glm-5.3"
+}

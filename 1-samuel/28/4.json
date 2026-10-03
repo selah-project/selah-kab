@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Piliṣṭiyen mlilen, usan-d, zeṭṭben di Cunem; Ciwel yessemlal ⟨את⟩ Yisrael akk, zeṭṭben di Gelboɛ.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "mlilen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Piliṣṭiyen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "usan-d"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "zeṭṭben"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "di Cunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "yessemlal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ciwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "zeṭṭben"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "di Gelboɛ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:52:25.601144242Z",
+  "model": "glm-5.3"
+}

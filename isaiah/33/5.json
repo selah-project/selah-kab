@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yahwe yuli, axaṭer yettzdeɣ deg umaru; yemmel Tsion ccreɛ d ṣedeq.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yettzdeɣ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "deg umaru"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yemmel"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "d ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:25.007601850Z",
+  "model": "glm-5.3"
+}

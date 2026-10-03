@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Amminadab yewwi-d ⟨את⟩ Naḥcon, Naḥcon yewwi-d ⟨את⟩ Calma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Amminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naḥcon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naḥcon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "Naḥcon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Calma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Calma"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:35.530970201Z",
+  "model": "glm-5.3"
+}

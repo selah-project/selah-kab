@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad tdehneḍ ⟨את⟩ meẓbeḥ n wayen yulin akked ⟨את⟩ akk ictaḥen-is; ad teqedgeḍ ⟨את⟩ meẓbeḥ; meẓbeḥ ad yili d aqdic n yiqedcen.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ad tdehneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meẓbeḥ n wayen yulin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meẓbeḥ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "n wayen yulin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akk ictaḥen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ictaḥen-is"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ad teqedgeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meẓbeḥ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "meẓbeḥ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "meẓbeḥ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "d aqdic"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:23.601126126Z",
+  "model": "glm-5.3"
+}

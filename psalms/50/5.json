@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Sefdu-yi iqedcen-iw, wid iṣeḥḥun lɛahd-iw ɣef yizekkwan.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Sefdu-yi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "iqedcen-iw"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "iṣeḥḥun"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yizekkwan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:00.196053900Z",
+  "model": "glm-5.3"
+}

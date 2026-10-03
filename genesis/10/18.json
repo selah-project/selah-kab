@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Akken ⟨את⟩ iArwadi, ⟨את⟩ iṢemari, ⟨את⟩ iḤemati; syin effeɣent ttwaḥerzent tiɣlifin n uKenaɛani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ akken",
+      "marks": "iArwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "iArwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ akken",
+      "marks": "iṢemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "iṢemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ akken",
+      "marks": "iḤemati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "iḤemati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "syin"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "effeɣent ttwaḥerzent"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "tiɣlifin"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "n uKenaɛani"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:57.026239462Z",
+  "model": "glm-5.3"
+}

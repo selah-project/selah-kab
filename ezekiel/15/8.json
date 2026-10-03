@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Ad rneɣ ⟨את⟩ tmurt d lexrub, axaṭer xedɛen axdeɛ, i d-yenna Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ad rneɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "d lexrub"
+    },
+    {
+      "surface": "יען",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "xedɛen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "axdeɛ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:50:29.336859444Z",
+  "model": "glm-5.3"
+}

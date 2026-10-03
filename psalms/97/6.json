@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 97,
+  "translation": "Igenni beggnen ⟨את⟩ ṣedeq-is, yisal yeẓra weḥd-s timezniwin akk ⟨את⟩ tifawt-is.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "beggnen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Igenni"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ṣedeq-is"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "yisal yeẓra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "timezniwin"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tifawt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:25.272147648Z",
+  "model": "glm-5.3"
+}

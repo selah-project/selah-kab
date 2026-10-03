@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Axaṭer wali, iṛebbiten-nnek ṣeḥḥen lḥeṣra, wid i k-ikerhen idden ṛṣuyen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "iṛebbiten-nnek"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ṣeḥḥen lḥeṣra"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "wid i k-ikerhen"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "idden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ṛṣuyen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:49.017620027Z",
+  "model": "glm-5.3"
+}

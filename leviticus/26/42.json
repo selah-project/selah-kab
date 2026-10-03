@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad ccekreɣ ⟨את⟩ lɛahd-iw n Yaɛqov, ula d ⟨את⟩ lɛahd-iw n Yiṣḥaq, ula d ⟨את⟩ lɛahd-iw n Avraham ad t-ccekreɣ; adlam n tmurt ad tt-ccekreɣ.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ad ccekreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw n Yaɛqov"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw n Yiṣḥaq"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw n Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ad t-ccekreɣ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "adlam n tmurt"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ad tt-ccekreɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:30.935362828Z",
+  "model": "glm-5.3"
+}

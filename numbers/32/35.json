@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "D ⟨את⟩ ɛAṭarot Cofan, ⟨את⟩ Yaɛzer d Yegbeḥa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ɛAṭarot Cofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ɛAṭarot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Cofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yaɛzer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaɛzer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "d Yegbeḥa"
+    }
+  ],
+  "timestamp": "2026-10-02T21:43:32.547811662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Axaṭer ḥesed-ik ⟨i⟩ meqqren arma d igenwan, d tidet-ik arma d iseggagen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "d arma d"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "iseggagen"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tidet-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:38.637638434Z",
+  "model": "glm-5.3"
+}

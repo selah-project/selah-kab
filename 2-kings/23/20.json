@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yexseṛ ⟨את⟩ akk ikohanim n tbulaɣ yellan din ɣef lmeẓbaḥen, yuneḍ ⟨את⟩ iḓarren n yimdanen ɣef-sen, yerra-d ɣer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "yexseṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ikohanim n tbulaɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ikohanim"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "n tbulaɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "lmeẓbaḥen"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "yuneḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḓarren n yimdanen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "iḓarren"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yimdanen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:39:26.470816954Z",
+  "model": "glm-5.3"
+}

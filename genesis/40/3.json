@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yerra-ten deg lḥebs, deg wexxam n umezwar n yiḥessasen, deg wexxam n lḥebs, deg umkan anda Yusef illa yettwaṭṭfen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "-ten"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "deg lḥebs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "שר",
+      "gloss": "n umezwar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "n yiḥessasen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "n lḥebs"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "yettwaṭṭfen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "illa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:42.575958801Z",
+  "model": "glm-5.3"
+}

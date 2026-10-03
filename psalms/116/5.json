@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Yahwe d bab n teḥninit, d win iqeqqen ɣef lḥeqq; Elohim-nneɣ d bab n teṛḥma.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "d bab n teḥninit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "d win iqeqqen ɣef lḥeqq"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "d bab n teṛḥma"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:21.986154816Z",
+  "model": "glm-5.3"
+}

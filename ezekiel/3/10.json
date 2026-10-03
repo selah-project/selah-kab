@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna-yi-d: a mmi-s n wemdan, akk awalen-iw i ara d-mmeslayeɣ ɣur-k, ṭṭef-ten deg wul-ik, s yimeẓẓuɣen-ik sl.as ⟨את⟩ akk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yi-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ara d-mmeslayeɣ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ṭṭef-ten"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "deg wul-ik"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "s yimeẓẓuɣen-ik"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sl.as"
+    }
+  ],
+  "timestamp": "2026-10-03T00:44:33.266847208Z",
+  "model": "glm-5.3"
+}

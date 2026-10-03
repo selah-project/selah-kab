@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Akken i tesseḍṛan iman-nwen, d tidet d ayen-nniḍen ad twaliḍ ⟨את⟩ Yahwe, akken i d-tenna yemma-nwen, ula d nețta.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "d tidet"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "d ayen-nniḍen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "d tidet"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ad twaliḍ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "tessedṛan iman-nwen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i d-tenna"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "yemma-nwen"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ṛbet"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ad tnemmirt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nețta",
+      "marks": "nețta"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:57.628569863Z",
+  "model": "glm-5.3"
+}

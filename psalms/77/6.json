@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Xelleqeɣ deg wallaɣ ⟨את⟩ wussan n zik, iseggasen n wasseggasen iṭṭfen zik.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "xelleqeɣ deg wallaɣ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "zik"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "n wasseggasen iṭṭfen zik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:38.373050759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "I win ittyeffeɣen s uɣanib, i win yettqebbeḍ cna s yiẓeṭṭaḍen; tacecnit n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettqebbeḍ cna"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "s yiẓeṭṭaḍen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "tacecnit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:05.675408478Z",
+  "model": "glm-5.3"
+}

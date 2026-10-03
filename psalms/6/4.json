@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Nefs-iw texṣer aṭas; kečč, Yahwe, ar melmi?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "texṣer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:51.658565489Z",
+  "model": "glm-5.3"
+}

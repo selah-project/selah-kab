@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ṣadoq aɛeqqal d Natan navi ggullen-t d agellid di Giḥon, syin effɣen-d seg din s cċiḥ, tamdint teḥma; d taṣut-agi i teslamtem.",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "ggullen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-t",
+      "marks": "t (Ṣadoq)"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ṣadoq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aɛeqqal"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "d Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "di Giḥon"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "effɣen-d"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "s cċiḥ"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "teḥma"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "taṣut-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "teslamtem"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:16.406816397Z",
+  "model": "glm-5.3"
+}

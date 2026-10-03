@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Taḥekma n Cilema tuɣal tezmer akk i taḥekma n at Qedem akk, ɣef taḥekma akk n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "tuɣal tezmer"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "taḥekma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "n Cilema"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "i taḥekma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Qedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ɣef akk"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "taḥekma"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:12:53.558795874Z",
+  "model": "glm-5.3"
+}

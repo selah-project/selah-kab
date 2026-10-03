@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Acku ur nekkus ara deg tebbeit-iw, izenzar-iw ur iyi-iggi ara tilḥi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "deg tebbeit-iw"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nekkus"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "izenzar-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "iggi-ara tilḥi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:21.367228663Z",
+  "model": "glm-5.3"
+}

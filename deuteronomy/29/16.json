@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Twalaṃ ⟨את⟩ tiɣawsiwin n dir-nsen d ⟨את⟩ iṣanen-nsen: aɣrum d wezru, lfeḍḍa d ureɣ, i llan ɣur-sen.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "twalaṃ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣawsiwin n dir-nsen"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "tiɣawsiwin n dir-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "iṣanen-nsen"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "iṣanen-nsen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "d wezru"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfeḍḍa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "d ureɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ɣur-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:08.637991041Z",
+  "model": "glm-5.3"
+}

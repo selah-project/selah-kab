@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Snubbu-yas-t, zennu-yas-t, xeddeq deg wayen akk ig rawlen.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Snubbu-yas-t"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zennu-yas-t"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "xeddeq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg wayen akk"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ig rawlen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:13.037879800Z",
+  "model": "glm-5.3"
+}

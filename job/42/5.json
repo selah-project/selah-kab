@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "S umesli n umeẓẓuɣ i k-islaɣ, tura ṭiṭ-iw i k-izzra.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "S umesli"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "n umeẓẓuɣ"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "i k-islaɣ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ṭiṭ-iw"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "i k-izzra"
+    }
+  ],
+  "timestamp": "2026-10-03T02:48:54.091442073Z",
+  "model": "glm-5.3"
+}

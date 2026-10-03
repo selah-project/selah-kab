@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ma d kečči, ekkes, ruḥ ɣer wexxam-ik; mi ara kecmen iḍarren-ik deg tmdint, ad yemmul ufrux.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ma d kečči"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ekkes"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ruḥ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ɣer wexxam-ik"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "mi ara kecmen"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "iḍarren-ik"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "deg tmdint"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ad yemmul"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ufrux"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:59.580927434Z",
+  "model": "glm-5.3"
+}

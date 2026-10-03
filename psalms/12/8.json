@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Kečči, a Yahwe, ad ten-teḥrez; ad ten-teḥrez seg lass-a ⟨wa⟩, i lebda.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ad ten-teḥrez"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ad ten-teḥrez"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "lass-a"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:07.336403842Z",
+  "model": "glm-5.3"
+}

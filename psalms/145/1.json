@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Tanemmirt, n David. Ad sliey fellak a Eloha-iw, a ⟨tt⟩agellid, ad rẓeɣ yisem-ik i lebda, armi d lɛiqb.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Tanemmirt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Ad sliey fellak"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "a Eloha-iw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a ⟨tt⟩agellid"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ad rẓeɣ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "armi d lɛiqb"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:39.288135652Z",
+  "model": "glm-5.3"
+}

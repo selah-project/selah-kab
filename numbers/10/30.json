@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yenna-yas: Ur teddu ara, maca ɣer tmurt-iw d ɣer leḍra-iw ad teddu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ad teddu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tmurt-iw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "leḍra-iw"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ad teddu"
+    }
+  ],
+  "timestamp": "2026-10-02T21:30:02.936819757Z",
+  "model": "glm-5.3"
+}

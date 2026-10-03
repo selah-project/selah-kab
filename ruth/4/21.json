@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Salmon id-yessefk d baba-s n ⟨את⟩ Boɛaz, Boɛaz id-yessefk d baba-s n ⟨את⟩ Ɛubed.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessefk d baba-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boɛaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boɛaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Boɛaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yessefk d baba-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛubed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ɛubed"
+    }
+  ],
+  "timestamp": "2026-10-03T02:49:10.519404712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Akken, ur iwala ara ⟨את⟩ yiṭij, ur issin ara ⟨את⟩; i weggi, talwit tugar tin n waya-nni.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "akken"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "issin"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "i weggi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tin n waya-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:16.320963334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Timurt-is teččur d iṛebbiten;ɣer umahil n yifassen-is ad steggmen, i wayen xedmen idammenṣen-is.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "timurt-is"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "ɣer umahil"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "n yifassen-is"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ad steggmen"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "i wayen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "idammenṣen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:29.858450227Z",
+  "model": "glm-5.3"
+}

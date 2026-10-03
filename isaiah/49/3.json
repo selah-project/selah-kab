@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Yenna-yi-d: Kečč, a Yisrael, d aqeddac-iw, deg-k ad ceqqɛeɣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yi-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "aqeddac-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨deg-k ara⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ad ceqqɛeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:59.953801378Z",
+  "model": "glm-5.3"
+}

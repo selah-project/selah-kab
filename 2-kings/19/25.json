@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur tesselḥulayeḍ ara? Seg tanzeggit, nekni i t-iḥedmen ɣef lweḥy-a, seg wussan imezura i tt-yessekren. Tura d-nekka t-id-wwten, i wakken ad yuɣal d aḥmes n teɣzifin yettwacennɛen, d tiɣardin tiḥersan.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ur tesselḥulayeḍ ara?"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tesselḥulayeḍ"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "seg tanzeggit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "t-iḥedmen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "i t-iḥedmen"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "seg wussan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "imezura"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "i tt-yessekren"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "t-id-wwten"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ad yuɣal d"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "d aḥmes"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "n teɣzifin"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "yettwacennɛen"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tiɣardin"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "tiḥersan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:47.775796862Z",
+  "model": "glm-5.3"
+}

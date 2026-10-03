@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ḥalila li-i, ma ad ṣeddeq-eɣ ⟨את⟩ kunwen, arma ad mwteɣ; ur kkes-ara taqedcit-iw si gi-i.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Ḥalila li-i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "li-i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ad ṣeddeq-eɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwen",
+      "marks": "kunwen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ad mwteɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "kkes"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "taqedcit-iw"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "si gi-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:39:47.837668921Z",
+  "model": "glm-5.3"
+}

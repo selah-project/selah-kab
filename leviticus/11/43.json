@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ur txessṛet ara ⟨את⟩ yal tagi tettwaḥerren ɣef tmurt, ur tettunefket ara tissi-d nnwen deg-sen, akken ur tettwaḥettem ara yid-sen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "txessṛet ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tissi-d nnwen"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "tissi-d nnwen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "tagi tettwaḥerren"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "yeḥerren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "tettunefket ara tissi-d"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "akken ur tettwaḥettem ara"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yid-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:22.288510934Z",
+  "model": "glm-5.3"
+}

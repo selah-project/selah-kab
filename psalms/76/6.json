@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Ṛẓan wid ifellalen deg ul; ṣṣifat-nsen tuγal d asgunfu; ur ufin ara yifatten-nsen meṛṛa igbhilen (wid n tezmert).",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "ṛẓan"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "wid ifellalen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "deg ul"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "tuγal"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ṣṣifat-nsen d asgunfu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ufin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wid"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "n tezmert"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "yifatten-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:07.627050412Z",
+  "model": "glm-5.3"
+}

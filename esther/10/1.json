@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Agellid Aḥacweros yessukaḍ takṣuṭt ɣef ⟨i⟩ tmurt d ɣef tigzirin n yilel.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "yessukaḍ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Aḥacweros"
+    },
+    {
+      "surface": "מס",
+      "gloss": "takṣuṭt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "d tigzirin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yilel"
+    }
+  ],
+  "timestamp": "2026-10-03T03:01:57.408458917Z",
+  "model": "glm-5.3"
+}

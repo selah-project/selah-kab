@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 82,
+  "translation": "Ssuffɣet i weḥmaj d lqelleḥ, seg ifassen n yir igardan ḥazmet-itent.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Ssuffɣet"
+    },
+    {
+      "surface": "דל",
+      "gloss": "i weḥmaj"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "d lqelleḥ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ifassen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n yir igardan"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ḥazmet-itent"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:35.533155979Z",
+  "model": "glm-5.3"
+}

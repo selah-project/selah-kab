@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 19:20",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yuzen Ccuul imazanen i uṭṭef ⟨את⟩ David; mi ẓran ⟨את⟩ terbaɛt n yinubayen yettmeslayen d navi, Cemmuɛel d netta i d-ibeddren deg umenɛ-ilmeẓri, tt-eḥsan i kṛaḍ iɛdawen-iw — ḥad-iḥḍa Maḥbuṣatt n Ccuul tt-eḥsan, ttmeslayen-tt d navi nutni daɣen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Yuzen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ccuul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "imazanen"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "i uṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terbaɛt n yinubayen"
+    },
+    {
+      "surface": "להקת",
+      "gloss": "terbaɛt"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "n yinubayen"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "yettmeslayen d navi"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Cemmuɛel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yettbedd"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "d netta i d-ibeddren"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "teɣli-d"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "n yimazanen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "n Ccuul"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "ttmeslayen-tt d navi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nutni daɣen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:39.911676983Z",
+  "model": "glm-5.3"
+}

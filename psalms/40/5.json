@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ttaberakt n wemdan win yerran Yahwe ⟨d⟩ taɣuri-s n teliḥ, ur inni ara iṛebben azrar ɣer wid yessnen timmegza, neɣ ɣer wid izzugren ɣer tkersiwt.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ttaberakt"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yerran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "taɣuri-s n teliḥ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "yuzvir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "wid yessnen timmegza"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "neɣ ɣer wid izzugren"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "tkersiwt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:15.600071565Z",
+  "model": "glm-5.3"
+}

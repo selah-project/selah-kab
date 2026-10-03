@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Armella d acḥal, a Elohim, ad isellek uεeddim? Ad iεikki yiεdawen Isem-ik i lebda?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "armella d"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "acḥal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ad isellek"
+    },
+    {
+      "surface": "צר",
+      "gloss": "uεeddim"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ad iεikki"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "yiεdawen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isem-ik"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:02.788179836Z",
+  "model": "glm-5.3"
+}

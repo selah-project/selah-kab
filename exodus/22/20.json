@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Anebgawi ur t-id-iḥeqqen, ur t-id-iḍeṣṣen, axaṭer d anebgawiyen kunwi i tellam deg tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "anebgawi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "t-id-iḥeqqen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "t-id-iḍeṣṣen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "anebgawiyen"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "tellam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:42.220373692Z",
+  "model": "glm-5.3"
+}

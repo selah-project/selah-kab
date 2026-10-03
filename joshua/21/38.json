@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Seg weḥric n Gad: ⟨את⟩ tamdint n tullelt i win inɣan, ⟨את⟩ Ramot deg Gilɛad akk d ⟨את⟩ tigezmi-nnes, akk d ⟨את⟩ Maḥanayim d ⟨את⟩ tigezmi-nnes.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Seg weḥric"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamdint n tullelt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "n tullelt"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "i win inɣan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "deg Gilɛad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tigezmi-nnes"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tigezmi-nnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "Maḥanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maḥanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tigezmi-nnes"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tigezmi-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:43.118322299Z",
+  "model": "glm-5.3"
+}

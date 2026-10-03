@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Yerbel-itent i lebda, ɣer lɛalem-agi, Isameḥ ccreɛ, ur d-yettɛeddin ara.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Yerbel-itent"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ɣer lɛalem-agi"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Isameḥ"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "d-yettɛeddin ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:50.759325215Z",
+  "model": "glm-5.3"
+}

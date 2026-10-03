@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yerra Aharon ɣer Moce, ɣer tewwurt n uxxam n tmlilit, iḥbes ṭṭaɛun.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tewwurt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uxxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n tmlilit"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "ṭṭaɛun"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "iḥbes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:33:51.356989718Z",
+  "model": "glm-5.3"
+}

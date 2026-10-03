@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Axater kečč mačči d El yur-an tucḍa; ur yettizi ara ɣer-k dir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axater"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yur-an"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tucḍa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "yettizi ɣer-k"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dir"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:04.404437006Z",
+  "model": "glm-5.3"
+}

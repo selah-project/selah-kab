@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Tessimɣureḍ wid-nwen yettwanɣan deg temdint-agi, teččureḍ iberdan-is s wid yettwanɣan.",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "tesimɣureḍ"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "wid-nwen yettwanɣan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "teččureḍ"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "iberdan-is"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "s wid yettwanɣan"
+    }
+  ],
+  "timestamp": "2026-10-03T00:45:49.250986086Z",
+  "model": "glm-5.3"
+}

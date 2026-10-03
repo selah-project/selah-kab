@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Deg wayen akk-agi, sinna ddnen, ur numnen ara deg leɛǧeb-is.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "deg wayen akk-agi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ddnen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "numnen"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "deg leɛǧeb-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:35.147724942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Ih, Elohim ad yedgel ixeṛf n iɛdawen-is, aggur n usel n win yettazalen deg tḥercet-is.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "ad yedgel"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ixeṛf"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iɛdawen-is"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "aggur"
+    },
+    {
+      "surface": "שער",
+      "gloss": "n usel"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "win yettazalen"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "deg tḥercet-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:08.308602910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ruaḥ tettaḥen ar unẓul, tezzu ar ugafa; tezzu, tezzu, i tettaḥen ruaḥ; ɣef yinigen-is ruaḥ tuɣal-ed.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "tettaḥen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "unẓul"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "tezzu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "agafa"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "tezzu"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "tezzu"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "i tettaḥen"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "yinigen-is"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tuɣal-ed"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:40.204959211Z",
+  "model": "glm-5.3"
+}

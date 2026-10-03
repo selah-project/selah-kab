@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yenna: Talwit iwumi; d-wwiḍeɣ ad d-izekkeɣ i Yahwe; qqiment d iqedcen, ddut ⟨את⟩ yid-i ɣer wizekkar. Yekaddes ⟨את⟩ Yiši d ⟨את⟩ arraw-is, yessawel-asen i wizekkar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ad d-izekkeɣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "d-wwiḍeɣ"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "qqiment d iqedcen"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ddut"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yid-i"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ɣer wizekkar"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "yekaddes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiši"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yiši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "arraw-is"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel-asen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "i wizekkar"
+    }
+  ],
+  "timestamp": "2026-10-02T22:43:09.241562549Z",
+  "model": "glm-5.3"
+}

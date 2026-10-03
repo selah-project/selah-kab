@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad iner deg umsiter, am izem deg usuka-nnes; ad iner iwakken ad iḥetref ⟨את⟩ w'agellil; ad iḥetref ⟨את⟩ w'agellil mi t-id-yessaru deg teṛẓaft-nnes.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "ad iner"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "deg umsiter"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "am izem"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "deg usuka-nnes"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ad iner"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "iwakken ad iḥetref"
+    },
+    {
+      "surface": "עני",
+      "gloss": "w'agellil"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "ad iḥetref"
+    },
+    {
+      "surface": "עני",
+      "gloss": "w'agellil"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "mi t-id-yessaru"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "deg teṛẓaft-nnes"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:11.410322990Z",
+  "model": "glm-5.3"
+}

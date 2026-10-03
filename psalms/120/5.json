@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 120,
+  "translation": "Awi-yi! Acku zzedziɣ deg Mecek, tzedziɣ ⟨d⟩ ixxamen n Qedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Awi-yi!"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "zzedziɣ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Mecek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "tzedziɣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ixxamen"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:11.493714549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Slen ikohanen, inaviyen d ukk agdud ⟨את⟩ Yirmeyahu yettmeslayen ⟨את⟩ wawalen-agi deg uxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Slen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanen"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "inaviyen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d ukk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yettmeslayen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:24:54.609597346Z",
+  "model": "glm-5.3"
+}

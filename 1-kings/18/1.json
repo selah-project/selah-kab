@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 18:1",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yella-d yiwet n tewsit tuγlit, d awal n Yahwe i d-ikehmen γer Eliyahu, deg useggas wis-kraḍ, ad yini: Ḍfeṛ-itt-id, ddu ad tban-d i Aḥab, ad mliγ ageffur γef wudmawen n tmurt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tewsit"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tuγlit"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "d awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i d-ikehmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "γer"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "wis-kraḍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ḍfeṛ-itt-id"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ad tban-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ad mliγ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ageffur"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudmawen"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:03.768662822Z",
+  "model": "glm-5.3"
+}

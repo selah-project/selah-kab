@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Acku tinɣay-is d tin ur nettettuḍen ara; acku tusa-d ɣer Yehuda; tennaẓ ɣer bab n ugdud-iw, ɣer Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "d tin ur nettettuḍen ara"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "tinɣay-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tusa-d"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tennaẓ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bab"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ugdud-iw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:29.515329497Z",
+  "model": "glm-5.3"
+}

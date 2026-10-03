@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Tenna: mačči d nek i yessuterren ⟨את⟩ mmi-s sɣur ⟨את⟩ bab-i? Mačči d nek i d-nniɣ: ur iyi-yexren ara?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "mačči d nek i yessuterren"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sɣur ⟨את⟩",
+      "marks": "bab-i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab-i"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mačči d nek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "i d-nniɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "iyi-yexren ara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iyi",
+      "marks": "iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:17:13.240444165Z",
+  "model": "glm-5.3"
+}

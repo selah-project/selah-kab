@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Acu yeqqim i umarin ugar n uḥmaq? Acu i d-iqimen i uḥmiḥ, issinen ad yeddu zdat wid ilan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "i umarin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "n"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "uḥmaq"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "i uḥmiḥ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "issinen"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wid ilan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:16.321461342Z",
+  "model": "glm-5.3"
+}

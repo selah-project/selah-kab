@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad ceḥḥlen ijeğğigen n lɣaci, lxelε ad ten-yeṭṭef; ⟨tella⟩ tersa ɣef yal udem, tirggwa ɣef yal ixef.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "Ad ceḥḥlen"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ijeğğigen n lɣaci"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nitenti"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "lxelε"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "yerna ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udem"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "tersa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "yerna ɣef yal"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ixef-nsen"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "tirggwa"
+    }
+  ],
+  "timestamp": "2026-10-03T00:43:12.731780032Z",
+  "model": "glm-5.3"
+}

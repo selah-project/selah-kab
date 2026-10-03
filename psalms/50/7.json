@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Sel, a Yisrael, ad k-d-cehdeɣ: Elohim, Elohim-ik, nekk-nni.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Sel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ad d-mmeslayeɣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ad k-d-cehdeɣ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "-k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:00.196755303Z",
+  "model": "glm-5.3"
+}

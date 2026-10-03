@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Nekkini ad mmeɣ di tmurt-agi; ur nezzeg ara ⟨את⟩ Yarden; kunwi ad tɛeddim, ad teḥkemem ⟨את⟩ tmurt taqbunt agi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ad mmeɣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nezzeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ad tɛeddim"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ad teḥkemem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt taqbunt agi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "taqbunt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:55.345332471Z",
+  "model": "glm-5.3"
+}

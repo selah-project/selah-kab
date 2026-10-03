@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad ten-neḥzer s weṭṭan, ad ten-ḥeṣreɣ, ad k-d-rrmeɣ ⟨את⟩ d avaɣdud ameqṛan ugar n tuɣt n waya.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ad ten-neḥzer"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "s weṭṭan"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ad ten-ḥeṣreɣ"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ad k-d-rrmeɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ k",
+      "marks": "d avaɣdud"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "d avaɣdud"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqṛan"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ugar n tuɣt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "n waya"
+    }
+  ],
+  "timestamp": "2026-10-02T21:31:11.766277759Z",
+  "model": "glm-5.3"
+}

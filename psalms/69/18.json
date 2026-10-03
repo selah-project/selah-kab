@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Ur ttwerret ara udem-inek si umdakkel-inek, axaṭer lḥeṣran iḍerr-i; zreb, err-iḍ i.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ur ... ara"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ttwerret"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-inek"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "si umdakkel-inek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "צר",
+      "gloss": "lḥeṣran"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iḍerr-i"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "zreb"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "err-iḍ i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:38.868215579Z",
+  "model": "glm-5.3"
+}

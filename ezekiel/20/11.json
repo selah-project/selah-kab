@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Fkaɣ-asen ⟨את⟩ leḥkum-iw, u fkaɣ-asen ad ẓren ⟨את⟩ iccreε-iw: win ara ten-yexdem wemdan, ad yidir s-iten.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Fkaɣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-asen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leḥkum-iw"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "leḥkum-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iccreε-iw"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "iccreε-iw"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "fkaɣ-asen ad ẓren"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iccreε-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win ara"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ten-yexdem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "s-iten"
+    }
+  ],
+  "timestamp": "2026-10-03T00:51:14.891730730Z",
+  "model": "glm-5.3"
+}

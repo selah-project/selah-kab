@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 77,
+  "translation": "Ad qqimeɣ ad ssneqdeɣ akk igi-inek, d tidyanin-inek ad d-lmeɣ fell-asent.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ad qqimeɣ ad ssneqdeɣ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "igi-inek"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "d tidyanin-inek"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ad d-lmeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:03.445519726Z",
+  "model": "glm-5.3"
+}

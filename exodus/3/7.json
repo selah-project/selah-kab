@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna Yahwe: twalaɣ tidet ⟨את⟩ lexṣa n ugdud-iw yellan deg Miṣrayim, d ⟨את⟩ rray-nsen sligeɣ-t seg ufus n yimessuqel n lxedma; axaṭer ssnɣ ⟨את⟩ ilguten-nsen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "twalaɣ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tidet twalaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lexṣa n ugdud-iw"
+    },
+    {
+      "surface": "עני",
+      "gloss": "lexṣa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ugdud-iw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "rray-nsen"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "rray-nsen"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sligeɣ-t"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg ufus n"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "yimessuqel n lxedma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ssnɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilguten-nsen"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "ilguten-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:16.310311952Z",
+  "model": "glm-5.3"
+}

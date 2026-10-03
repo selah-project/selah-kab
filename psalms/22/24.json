@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "A wid i t-igguren, ḥemmlet Yahwe; a tarwa n Yaɛqov akk, ssemêret-t; gguṛet seg-s, a tarwa n Yisrael akk.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "a wid i t-igguren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ḥemmlet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "n Yaɛqov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "ssemêret-t"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "gguṛet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:58.346664548Z",
+  "model": "glm-5.3"
+}

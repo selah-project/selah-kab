@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yahwe yeldi ⟨את⟩ amas n Cemuel, yiwet n tafust uqbel ad yewweḍ Cawel, s wawal:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amas n Cemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "amas"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "n Cemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yiwet n tafust"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "uqbel"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ad yewweḍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:30.941512931Z",
+  "model": "glm-5.3"
+}

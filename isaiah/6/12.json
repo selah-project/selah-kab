@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yerna Yahwe ad yebɛed ⟨את⟩ imdanen, ad yernu uṭṭun deg ummas n tmurt.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ad yebɛed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imdanen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "imdanen"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "uṭṭun"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg ummas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:31.263525913Z",
+  "model": "glm-5.3"
+}

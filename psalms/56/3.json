@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Iertiyen-iw akk ass ṭṭfen-it ad tt-sswlen, axaṭer aṭas n wid i d-yennaḥen ɣur-i s teɣmert, a Win iɛlayen.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ad tt-sswlen"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "iertiyen-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "wid i d-yennaḥen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "a Win iɛlayen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:10.879342033Z",
+  "model": "glm-5.3"
+}

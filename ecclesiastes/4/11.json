@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Daɣen ma ruḥen wenzen sin, ad iḥemmen; ma yiwen, acu i t-iḥemmen?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Daɣen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ruḥen wenzen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ad iḥemmen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ma yiwen"
+    },
+    {
+      "surface": "איך",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "i t-iḥemmen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:28.970084431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ma qqaṛen: Ddu ⟨את⟩-neɣ, ad neḥbes deg wudem n idammen, ad n-deffel i wid imoden, war sebba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "qqaṛen"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Ddu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-neɣ",
+      "marks": "neɣ"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "ad neḥbes deg umuddir"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "i idammen"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "ad n-deffel"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "i wid imoden"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "war sebba"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:53.368561531Z",
+  "model": "glm-5.3"
+}

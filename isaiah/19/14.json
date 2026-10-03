@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yahwe issemlal deg tgerbba-s ⟨d⟩ ruaḥ n tkkerḥant; Miṣrayim ⟨את⟩ yessen deg wayen akk ixedmen, am win yettɣimeɣ deg tayeffut-is.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "issemlal"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "deg tgerbba-s"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "n tkkerḥant"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "yessen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg wayen akk"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "am win yettɣimeɣ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ameslub"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "deg tayeffut-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:39.540552571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "I tarmett-is tabertullit taqerbant ɣur-s, i ur telli ⟨ara⟩ i wemdan — ihi ad yekwes i leswaḥ-is.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "i tarmett-is"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "tabertullit"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "taqerbant"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "telli"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ad yekwes"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:47.209610434Z",
+  "model": "glm-5.3"
+}

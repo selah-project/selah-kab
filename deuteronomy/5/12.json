@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ḥrez ⟨את⟩ wass n Cabbat iwakken ad t-tqebced, akken i d-yesselḥaγ Yahwe Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Ḥrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wass n Cabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "wass"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "n Cabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ad t-tqebced"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "i d-yesselḥaγ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:18.968284613Z",
+  "model": "glm-5.3"
+}

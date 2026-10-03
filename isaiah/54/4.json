@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 54,
+  "translation": "Ur ttaggad ara, axaṭṛ ur tettwaxsareḍ; ur tettnaṣlem ara, axaṭṛ ur tettwaxṣeṛeḍ; a tettuḍ lḥersa n tmeẓrit-ik, ur tettxemmim ara ddehher n teɛessalt-ik neɣ lweqt-nni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ttaggad ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭṛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "tettwaxsareḍ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "tettnaṣlem ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭṛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "tettwaxṣeṛeḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "lḥersa"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "n tmeẓrit-ik"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "tettuḍ"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "ddehher"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "n teɛessalt-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "tettxemmim ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "neɣ lweqt-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:27.962785947Z",
+  "model": "glm-5.3"
+}

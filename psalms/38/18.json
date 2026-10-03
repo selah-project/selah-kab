@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Axaṭer nekk, ul-iw yexṣer neɣ ad d-lhuɣ, tuɣma-inu ḥerja fell-i yal ass.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "ad d-lhuɣ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ul-iw yexṣer"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "tuɣma-inu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yal ass"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:41.949320426Z",
+  "model": "glm-5.3"
+}

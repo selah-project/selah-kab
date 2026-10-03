@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Egg s tecti-k, ur t-ttḥalfayeḍ ara ad yili d amkaddi s talwit ɣer Ceol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "egg"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "s tecti-k"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ur t-ttḥalfayeḍ ara"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "tamkaddit-is"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "s talwit"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ɣer Ceol"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:55.920512184Z",
+  "model": "glm-5.3"
+}

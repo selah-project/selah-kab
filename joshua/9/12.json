@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Aɣrum-agi iḥemmel i t-id-nessuqel ⟨את⟩ seg yexxamen-nneɣ, deg wass mi nuffeɣ ad nenṭeqeḍ ɣer wen; tura wali, yeεus yuɣal d ikerrusen.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "aɣrum-nneɣ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "i t-id-nessuqel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "seg yexxamen-nneɣ"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "seg yexxamen-nneɣ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "mi nuffeɣ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad nenṭeqeḍ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ɣer wen"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "yeεus"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "d ikerrusen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:10:07.385600446Z",
+  "model": "glm-5.3"
+}

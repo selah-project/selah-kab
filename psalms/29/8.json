@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Taɣri n Yahwe teḥewwes tanezruft; teḥewwes Yahwe tanezruft n Qadic.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "taɣri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "teḥewwes"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tanezruft"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "teḥewwes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tanezruft n"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadic"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:53.957615973Z",
+  "model": "glm-5.3"
+}

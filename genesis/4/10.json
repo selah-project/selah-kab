@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yenna: «Acu txedmeḍ? Imesli n idammen n gma-k isawalen-d ɣur-i seg tmurt.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Imesli"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "n gma-k"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "isawalen-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:16.853434432Z",
+  "model": "glm-5.3"
+}

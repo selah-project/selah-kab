@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Ssnutret i Yahwe, axaṭer ⟨d⟩ ilha, axaṭer i lebda ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Ssnutret"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:14.405863278Z",
+  "model": "glm-5.3"
+}

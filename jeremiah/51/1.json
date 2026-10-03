@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Akken i d-yenna Yahwe: Ha-t-an, ad d-ssenkreɣ ɣef Babel, d ɣef yimezdaɣ n Leb-Qamay, ruaḥ n treẓẓi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akken"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ha-t-an"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ad d-ssenkreɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yimezdaɣ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Leb"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Qamay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "n treẓẓi"
+    }
+  ],
+  "timestamp": "2026-10-03T00:39:24.320032841Z",
+  "model": "glm-5.3"
+}

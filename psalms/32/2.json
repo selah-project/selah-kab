@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Acḥḥer i wemdan Yahwe ur iḥsab-as ara tuccḍa, ur illi ara deg ruaḥ-is trick.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Acḥḥer"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "iḥsab-as ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ur illi ara"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "deg ruaḥ-is"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "trick"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:59.625340802Z",
+  "model": "glm-5.3"
+}

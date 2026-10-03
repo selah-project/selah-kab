@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ur igerwel ara, axir mi yerna lxer i wemdan, mi yerna leɛqar n wexxam-is;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "gerwel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "yerna lxer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "leɛqar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "n wexxam-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:02.152434584Z",
+  "model": "glm-5.3"
+}

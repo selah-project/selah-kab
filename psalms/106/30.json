@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Innaḍel-d Finecas, ijebbel d iṣelli, uqbel-agi teṛgel tassa-nni.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "innaḍel-d"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Finecas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ijebbel d iṣelli"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "teṛgel"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "tassa-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:05.871209434Z",
+  "model": "glm-5.3"
+}

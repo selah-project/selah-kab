@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Acḥebrya n tulin. Ad sselṭeɣ tiṭṭiw-inw ɣer idurar: ansi ara d-yas tallalt-inw?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "acḥebrya"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "n tulin"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ad sselṭeɣ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiṭṭiw-inw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ansi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ara d-yas"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "tallalt-inw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:24.573802601Z",
+  "model": "glm-5.3"
+}

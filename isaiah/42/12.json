@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ad mudden tcukit i Yahwe, di tigzirin ad d-mmeslayen tin iggten.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "ad mudden"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tcukit"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "tin iggten-is"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "di tigzirin"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ad d-mmeslayen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:13.350897901Z",
+  "model": "glm-5.3"
+}

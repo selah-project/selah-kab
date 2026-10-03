@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad teweɣat tadekkant ɣef yimdanen, ad tt-xedmen; ur ẓren ara awalen n lccek.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ad teweɣat"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "tadekkant"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "yimdanen"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ad tt-xedmen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ẓren"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n lccek"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:39.605764198Z",
+  "model": "glm-5.3"
+}

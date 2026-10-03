@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ula d netta ad yettwadda ⟨את⟩ ɣer Acur, minḥa i ugellid Yareb; tawrenna ad t-teeṭṭef Efraim, Yisrael ad yenṣel i tmuɣli-s.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "netta (azekṣu n Beth-Aven)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ɣer Acur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ad yettwadda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "tawrenna"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad t-teeṭṭef"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "ad yenṣel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "i tmuɣli-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:36.180797294Z",
+  "model": "glm-5.3"
+}

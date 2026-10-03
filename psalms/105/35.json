@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yečč akk iseɣ n tmurt-nsen, yečč akk iqemman n wakal-nsen.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Yečč"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iseɣ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "n tmurt-nsen"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "yečč"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "iqemman"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "n wakal-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:14.028787520Z",
+  "model": "glm-5.3"
+}

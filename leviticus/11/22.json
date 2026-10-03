@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "⟨את⟩ wid-agi kan seg-sen ara teččem: ⟨את⟩ lɣenẓaṛ s wanaw-is, d ⟨את⟩ usselɛam s wanaw-is, d ⟨את⟩ uḥergul s wanaw-is, d ⟨את⟩ uḥagab s wanaw-is.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid-agi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "seg-sen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "teččem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɣenẓaṛ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "lɣenẓaṛ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "s wanaw-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "usselɛam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "usselɛam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "s wanaw-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "uḥergul"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "uḥergul"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "s wanaw-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "uḥagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "uḥagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "s wanaw-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:17.736480254Z",
+  "model": "glm-5.3"
+}

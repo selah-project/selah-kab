@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Akk d ⟨את⟩ ttukel n yildan n yibaliyen iẓeɣṛen, d ⟨את⟩ ttukel n yildan n teḥaclin, d ⟨את⟩ tiɣiremt n ttukel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttukel amenzu"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ttukel"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "n yildan"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "n yibaliyen"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "iẓeɣṛen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttukel wis-sin"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ttukel"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "n yildan"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "n teḥaclin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣiremt"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tiɣiremt"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ttukel"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:10.625584518Z",
+  "model": "glm-5.3"
+}

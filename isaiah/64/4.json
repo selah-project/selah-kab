@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Tewwiḍ ⟨את⟩ win yufan d win ixedmen ṣedeq; deg yiberdan-ik ad ak-ssnen. Walah, kečč tquṣev, neḥnettu; deg-sen nezga deg wazal, ad nelli d wid yettwaselken.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "Tewwiḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win yufan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "win yufan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "d win ixedmen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "deg yiberdan-ik"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "ad ak-ssnen"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Walah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "tquṣev"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "neḥnettu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "deg wazal"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ad nelli d wid yettwaselken"
+    }
+  ],
+  "timestamp": "2026-10-03T04:23:14.471735104Z",
+  "model": "glm-5.3"
+}

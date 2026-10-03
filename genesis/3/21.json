@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yexleq Yahwe Elohim i Adam akked tameddakelt-is iḥricen n yizi, yesles-iten.",
+  "tokens": [
+    {
+      "surface": "ויעשׁ",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "i Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "akked tameddakelt-is"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "iḥricen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "n yizi"
+    },
+    {
+      "surface": "וילבשׁם",
+      "gloss": "yesles-iten"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:57.423498847Z",
+  "model": "glm-5.3"
+}

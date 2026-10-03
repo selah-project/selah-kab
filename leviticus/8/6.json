@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Moce iqreb-d ⟨את⟩ Aharon d ⟨את⟩ warraw-is, iẓegbel-itent s waman.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "iqreb-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "iẓegbel-itent"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon d warraw-is"
+    },
+    {
+      "surface": "במים",
+      "gloss": "s waman"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:29.422411617Z",
+  "model": "glm-5.3"
+}

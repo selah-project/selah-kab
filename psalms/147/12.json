@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Bdu tajmil, a Yerucalayim, i Yahwe ⟨את⟩; snubhaẓ, a Ṣihyun, i Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Bdu tajmil"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerucalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "snubhaẓ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i Elohim-ik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "a Ṣihyun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:10.048164642Z",
+  "model": "glm-5.3"
+}

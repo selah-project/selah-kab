@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yaɛqov yessefra, yenna: Ini-yi, ttxil-k, isem-ik. Yenna: Acuɣer tesseqsat isem-iw? Iyerka-t ⟨את⟩ Yaɛqov din.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "yesseqsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ini-yi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ttxil-k"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Acuɣer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "tesseqsat"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "isem-iw"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "iyerka-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-02T20:25:09.364003908Z",
+  "model": "glm-5.3"
+}

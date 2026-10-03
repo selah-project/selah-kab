@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Yahwe yettḥarez ⟨את⟩ imeḥbiben-is meṛṾa, ma d ⟨את⟩ ibeḍḍiyen meṛṾa ad ten-yessṛex.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "yettḥarez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeḥbiben-is meṛṾa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṾa"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "imeḥbiben-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibeḍḍiyen meṛṾa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṾa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ibeḍḍiyen"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "ad ten-yessṛex"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.806913234Z",
+  "model": "glm-5.3"
+}

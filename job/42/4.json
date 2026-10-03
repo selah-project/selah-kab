@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ssel, ma ulac, nekk ad d-nniɣ; ad ak-steqsayeɣ, mli-yi-d.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ssel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ad d-nniɣ"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ad ak-steqsayeɣ"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "mli-yi-d"
+    }
+  ],
+  "timestamp": "2026-10-03T02:46:42.779574206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Acku mi ara iẓer warraw-is — lqem n yifassen-iw — gar-asen, ad iqaddcen isem-iw, ad iqaddcen ⟨את⟩ Win iqeccuden n Yaɛqov, d ⟨את⟩ Elohim n Yisrael ad t-ẓewwqen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "mi ara iẓer"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "lqem n"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "yifassen-iw"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "ad iqaddcen"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "isem-iw"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "ad iqaddcen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Win iqeccuden n Yaɛqov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Win iqeccuden n"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Elohim n Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "ad t-ẓewwqen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:56.331179429Z",
+  "model": "glm-5.3"
+}

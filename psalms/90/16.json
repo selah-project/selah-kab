@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Ad d-yettwali wergaz ɣer yimdakwen-ik, ladɣa taɛzamt-ik ɣer warraw-nnsen.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Ad d-yettwali wergaz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yimdakwen-ik"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": ""
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ladɣa taɛzamt-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "warraw-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:40.499055271Z",
+  "model": "glm-5.3"
+}

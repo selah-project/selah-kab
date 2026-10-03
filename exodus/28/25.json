@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "D ⟨את⟩ sin n yixeffen n sin n isnila n wureɣ imeṛṛsen ad tmuded ɣef sin n tiggazin, ad ten-terraḍ ɣef iɣelmisen n Efod, ar zdat n ⟨udem-is⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "sin n yixeffen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "sin"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "n yixeffen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "n sin"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "n isnila n wureɣ imeṛṛsen"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ad tmuded"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "sin"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "n tiggazin"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ad ten-terraḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "iɣelmisen"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "n Efod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מול",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:48.202511165Z",
+  "model": "glm-5.3"
+}

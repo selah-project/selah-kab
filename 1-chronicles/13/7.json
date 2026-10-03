@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Sbeɛden ⟨את⟩ sanduq n Elohim ɣef tcarwa tamaynut, seg wexxam n Avinadav; Ɛezza d gma-s llan tṣeggimen tcarwit.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "Sbeɛden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduq"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "tcarwa"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "tamaynut"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Ɛezza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "d gma-s"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "tṣeggimen"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "tcarwit"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:15.561352892Z",
+  "model": "glm-5.3"
+}

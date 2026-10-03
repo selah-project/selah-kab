@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Acku ur zeddiɣ ara deg wexxam, seg wass i d-nessufuɣ ⟨את⟩ Yisrael, arma d ass-agi, u llɣiɣ seg uḥemmem ɣer uḥemmem, u seg Umickan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "zeddiɣ ara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wass"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nessufuɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "u llɣiɣ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "seg uḥemmem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uḥemmem"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "u seg Umickan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:45.029528259Z",
+  "model": "glm-5.3"
+}

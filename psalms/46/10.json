@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Yessuffeɣ talwit seg yimennuɣen arma d taggara n tmurt; ad yeṛẓeẓ tigezt, ad iṣeddeṣ taneccabt, iṣekriyen ad yesshu deg tmes.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Yessuffeɣ talwit seg"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "yimennuɣen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "taggara n"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tigezt"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ad yeṛẓeẓ"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ad iṣeddeṣ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "taneccabt"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "iṣekriyen"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ad yesshu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:40.601665957Z",
+  "model": "glm-5.3"
+}

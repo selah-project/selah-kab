@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Idewliɣ walaɣ nekkini belli illa lfayda i lḥekma ɣef taḥyift, am lfayda n tafat ɣef tillas.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "idewliɣ walaɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "belli illa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "lfayda"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "i lḥekma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "taḥyift"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "am lfayda"
+    },
+    {
+      "surface": "האור",
+      "gloss": "n tafat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tillas"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:46.533773996Z",
+  "model": "glm-5.3"
+}

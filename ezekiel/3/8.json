@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Wali, rriɣ ⟨את⟩ udem-ik d aɛeṛṛan mgal yiɣbula-nsen, d ⟨את⟩ teṭṭfa-inek d aɛeṛṛan mgal teṭṭfa-nsen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "rriɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem-ik"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "d aɛeṛṛan"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yiɣbula-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "teṭṭfa-inek"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "teṭṭfa-inek"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "d aɛeṛṛan"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "teṭṭfa-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:43:26.895991967Z",
+  "model": "glm-5.3"
+}

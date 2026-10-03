@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Deg wakud-nni, iḍefren yeddan ɣer sdat n Nebukadneṣṛ, agellid n Babel, ɣer Yerucalayim, tamdint tuɣal teḥbes deg lḥeṛs.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud-nni"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "iḍefren yeddan ɣer sdat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yeddan"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadneṣṛ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "tuɣal teḥbes"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "deg lḥeṛs"
+    }
+  ],
+  "timestamp": "2026-10-02T23:39:48.887027144Z",
+  "model": "glm-5.3"
+}

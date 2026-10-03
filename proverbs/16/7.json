@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Mi llan iberdan n wemdan ṛṛayed i Yahwe, ula iɛdawen-is ad yesselḥen yid-s ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "mi llan ... ṛṛayed i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iberdan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "iɛdawen-is"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ad yesselḥen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yid-s ⟨את⟩",
+      "marks": "yid-s (iɛdawen-is)"
+    }
+  ],
+  "timestamp": "2026-10-03T02:22:49.886441803Z",
+  "model": "glm-5.3"
+}

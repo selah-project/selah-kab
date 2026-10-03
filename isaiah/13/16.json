@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Tilecyin-nsen ad ttwaruḥen zdat wallen-nsen; ixxamen-nsen ad ttwakren, d tilawin-nsen ad ttwanɣelment.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "tilecyin-nsen"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "ad ttwaruḥen"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "zdat wallen-nsen"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "ad ttwakren"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "ixxamen-nsen"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "d tilawin-nsen"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "ad ttwanɣelment"
+    }
+  ],
+  "timestamp": "2026-10-03T04:19:02.574267951Z",
+  "model": "glm-5.3"
+}

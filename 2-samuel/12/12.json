@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Acku kečč txedmeḍ-t s tuffra; nekk ad xedmeɣ ⟨את⟩ lḥeǧǧa-a zdat n Yisrael akk, d zdat n yiṭij.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txedmeḍ-t"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "s tuffra"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad xedmeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeǧǧa-a"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lḥeǧǧa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "d zdat n"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    }
+  ],
+  "timestamp": "2026-10-02T22:59:55.317166248Z",
+  "model": "glm-5.3"
+}

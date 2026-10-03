@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Moab d taḥebcirt-iw n uṣeggem; ɣef Edom ad cɣeɣ esebbat-iw; ɣef Felecet ad beybeɣ.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "taḥebcirt"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "n uṣeggem-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ad cɣeɣ"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "esebbat-iw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Felecet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ad beybeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:44.517167037Z",
+  "model": "glm-5.3"
+}

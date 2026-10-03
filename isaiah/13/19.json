@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "D Babylon, tidet n tgeldiwin, tamurt-is n ccbaḥa d leɛziz n Cceldaniyen, ad tuɣal am tirwelt n Elohim i ⟨את⟩ Sedom d ⟨את⟩ Ɛemora.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ad tuɣal"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "tidet n"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tgeldiwin"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "tamurt-is n ccbaḥa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "leɛziz"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Cceldaniyen"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "am tirwelt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ɛemora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Ɛemora"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:18.546851272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Ul-iw yettfejjij ⟨d⟩ awal ilhan; qqareɣ: tiwuriwin-iw ⟨i⟩ ugellid; iles-iw ⟨d⟩ aqalam n ungal arurad.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "yettfejjij"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilhan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "qqareɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "tiwuriwin-iw"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "iles-iw"
+    },
+    {
+      "surface": "עט",
+      "gloss": "aqalam"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "n ungal"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "arurad"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:45.751818853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Akken Yisrael akk, si Dan ar Beer-Cebɛa, yessen belli Semuel yettwasebded d navi i Yahwe.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "yessen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "si Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Cebɛa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "yettwasebded"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "d navi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:37.258123574Z",
+  "model": "glm-5.3"
+}

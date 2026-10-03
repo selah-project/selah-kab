@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 84,
+  "translation": "Ceḥḥun imdanen yesɛan tazmert deg kečč; iberdan deg ulawen-nsen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ceḥḥun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "imdanen"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yesɛan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg kečč"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "iberdan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "deg ulawen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:28.855479222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Tidect n wid ibeddelen deg ubrid, i yetteddun di Tora n Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "tidect n"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "wid ibeddelen"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "i yetteddun"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "di Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:29.914786337Z",
+  "model": "glm-5.3"
+}

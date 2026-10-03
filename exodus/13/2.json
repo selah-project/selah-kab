@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad iqedceɣ deg yisem-iw yal akabar, akabar yeldin yal tiɣert, gar warraw n Yisrael, deg umdan d deg lmal: ineqqel-i d aneɣ.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ad iqedceɣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "deg yisem-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "akabar"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "yeldin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "tiɣert"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "gar warraw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "deg umdan"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "d deg lmal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ineqqel-i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d aneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:29.411521331Z",
+  "model": "glm-5.3"
+}

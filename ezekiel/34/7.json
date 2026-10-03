@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ihi, a yimettaẓen, sleḍ ⟨את⟩ awal n Yahwe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ihi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "a yimettaẓen"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:58:00.492603410Z",
+  "model": "glm-5.3"
+}

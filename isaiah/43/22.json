@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ur d-yessawel ara ⟨את⟩ nekki, a Yaɛqov, axaṭer txemmereḍ fell-i, a Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nekki"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "txemmereḍ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:23.624234892Z",
+  "model": "glm-5.3"
+}

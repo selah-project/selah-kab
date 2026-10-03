@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Acku agellid yettargu Γef Yahwe, yerna s ḥesed n Elyon ur iḥezziz ara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "yettargu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Γef Yahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "s ḥesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "n Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "iḥezziz ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:11.891036634Z",
+  "model": "glm-5.3"
+}

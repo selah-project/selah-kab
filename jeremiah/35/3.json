@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Nekkes yaḥ, ṭṭfeɣ ⟨את⟩ Yaɛazanya, mmi-s n Yeremyahu, mmi-s n Ḥavaṣanya, akk ⟨את⟩ watmaten-is, akk ⟨את⟩ arraw-is akk, akk ⟨את⟩ axxam akk n Reḥabiyen.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ṭṭfeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛazanya"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaɛazanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "n Yeremyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "n Ḥavaṣanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "watmaten-is"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "arraw-is akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "arraw-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "axxam akk n Reḥabiyen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "n Reḥabiyen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:43.238505991Z",
+  "model": "glm-5.3"
+}

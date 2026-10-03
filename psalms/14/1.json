@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "I uselway. N David. Yenna nṣub deg ul-is: ulac Elohim. Ṣṣenḥen, xedmen dirit, ulac win ixedmen lxir.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i uselway"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nṣub"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "deg ul-is"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ṣṣenḥen"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "xedmen dirit"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "tiqdiyin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixedmen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:08.310294176Z",
+  "model": "glm-5.3"
+}

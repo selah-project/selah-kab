@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Akk učči tkeṛẓ nnefs-nnsen, ṛṛan-d almi d tebbura n lmut.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "učči"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "tkeṛẓ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nnefs-nnsen"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ṛṛan-d"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi d"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "tebbura n"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmut"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:07.374804943Z",
+  "model": "glm-5.3"
+}

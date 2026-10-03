@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ḥizqiya akk d yimeqqranen kecmen, walan ⟨את⟩ tiɛjabin, nfen ⟨את⟩ Yahwe akk d ⟨את⟩ agdud-Is Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "akk d yimeqqranen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "walan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɛjabin"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "tiɛjabin"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "nfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "agdud-Is Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-Is"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T03:54:22.437427840Z",
+  "model": "glm-5.3"
+}

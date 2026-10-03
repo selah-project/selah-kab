@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ṛuḥen seg Sukut, ṭṭfen di Etam, ɣer yiri n lḥeǧra.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ṛuḥen"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "seg Sukut"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "di Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ɣer yiri"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "n lḥeǧra"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:39.996076410Z",
+  "model": "glm-5.3"
+}

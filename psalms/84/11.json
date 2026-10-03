@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 84,
+  "translation": "Axer yiwen wass deg iɣrumen-ik yelha s ifed. Frenɣ ad qqimeɣ ɣef umadaq n wexxam n Elohim-iw, akken ad zedɣiɣ deg iḥemmayen n tunka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yelha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yiwen wass"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "deg iɣrumen-ik"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "s ifed"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "frenɣ"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "ad qqimeɣ ɣef umadaq"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "ad zedɣiɣ"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "deg iḥemmayen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "n tunka"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:51.585286732Z",
+  "model": "glm-5.3"
+}

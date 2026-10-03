@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "I n David. Amsefham. Acḥḥer i wid yettwawin ⟨⟨seg⟩⟩ ccḍel, yettwawen ⟨⟨seg⟩⟩ ucḥuḍ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "I n David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Amsefham"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Acḥḥer"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "yettwawin ⟨⟨seg⟩⟩"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ccḍel"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "yettwawen ⟨⟨seg⟩⟩"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ucḥuḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:59.625134335Z",
+  "model": "glm-5.3"
+}

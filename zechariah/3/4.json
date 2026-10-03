@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yerreb, yenna i wid yeqfuren deg uqabl-is: kkset iṭacen imessanen seg-s. Yenna-as: Wali, kkseɣ ticerkust-ik seg daxel-ik, ad k-lulseɣ s ⟨את⟩ tiqencyin icebḥen.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yerreb"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "wid yeqfuren"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "deg uqabl-is"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iwakken ad yini"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "kkset"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "iṭacen"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "imessanen"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "kkseɣ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "seg daxel-ik"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ticerkust-ik"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "ad k-lulseɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "keččini"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "tiqencyin icebḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:34:22.034513387Z",
+  "model": "glm-5.3"
+}

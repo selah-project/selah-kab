@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 23:5",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yeḥbes ⟨את⟩ ikemrar i ssefken igelliden n Yehuda, ad ssegguten lbaxur i lɛaliyin, deg tiɣiwanin n Yehuda akked tideɣrin n Yerucalayim; akked ⟨את⟩ wid yettmeḥmumin, i Baɛal, i yiṭij, akked i yiṛij, akked i yitran, akked i meṛṛa ṣebaɛ n igenwan.",
+  "tokens": [
+    {
+      "surface": "והשבית",
+      "gloss": "Yeḥbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikemrar"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "ikemrar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ssefken"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ad ssegguten lbaxur"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "i lɛaliyin"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "deg tiɣiwanin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    },
+    {
+      "surface": "ומסבי",
+      "gloss": "akked tideɣrin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid yettmeḥmumin"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "wid yettmeḥmumin"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "i Baɛal"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "i yiṭij"
+    },
+    {
+      "surface": "ולירח",
+      "gloss": "akked i yiṛij"
+    },
+    {
+      "surface": "ולמזלות",
+      "gloss": "akked i yitran"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "akked i meṛṛa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ṣebaɛ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenwan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:39:26.455119532Z",
+  "model": "glm-5.3"
+}

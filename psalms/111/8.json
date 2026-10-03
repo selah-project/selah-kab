@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 111,
+  "translation": "Ssersen-tent i lebda, ɣer lɣella; ttwaxedment s tidegt d lmizan.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Ssersen-tent"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ɣer lɣella"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ttwaxedment"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "s tidegt"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "d lmizan"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:03.598688350Z",
+  "model": "glm-5.3"
+}

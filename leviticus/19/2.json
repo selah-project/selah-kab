@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Mmeslay ɣer tegrawt akk n yigerdan n Yisrael, yini-asen: laqedcit i ilaq ad tili degwen, axaṭer nekk, iqeqcen i laqdahen, Yahwe Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mmeslay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tegrawt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "yini-asen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "laqedcit"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ad tili degwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqeqcen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:28.078946190Z",
+  "model": "glm-5.3"
+}

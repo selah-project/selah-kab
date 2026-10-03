@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ṭṭfen ⟨את⟩ ugellid, sweɛlen-t ⟨את⟩ ɣer ugellid n Bavel, ɣer Ribla, yemmeslayen ⟨את⟩ yid-s ccreɛ.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sweɛlen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɣer ugellid n Bavel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "yemmeslayen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yid-s ⟨את⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:14.373808519Z",
+  "model": "glm-5.3"
+}

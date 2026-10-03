@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Iwakken ad nfer gar win ur nqi ara akk d win iqen, gar lḥay yettwettent akk d lḥay i ur yettwett ara.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "ad nfer"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "win ur nqi ara"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "win iqen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "lḥay"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "yettwettent"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "lḥay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yettwett ara"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:49.946458408Z",
+  "model": "glm-5.3"
+}

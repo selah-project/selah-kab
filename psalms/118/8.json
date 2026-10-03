@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Yif ittmellet ɣer Yahwe ɣef ttawel deg umdan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Yif"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ittmellet"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ttawel"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "deg umdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:00.652667158Z",
+  "model": "glm-5.3"
+}

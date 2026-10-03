@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Wergaz Elqana, d ayla-s akk, yuli ad iqeddec i Yahwe ⟨את⟩ tiqedcin n wussan, d ⟨את⟩ lɛahd-is.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wergaz"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ayla-s"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ad iqeddec"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiqedcin n wussan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "tiqedcin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "lɛahd-is"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "lɛahd-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:29.897903542Z",
+  "model": "glm-5.3"
+}

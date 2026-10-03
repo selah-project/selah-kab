@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Mi ara teɣleḍ ad teṭṭfeḍ tuccfa akked ⟨את⟩ win yetḥekmen, iiḍen aqquz: fehm'ed ⟨את⟩ ayen yellan zdat-ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "teɣleḍ"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ad teṭṭfeḍ tuccfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win yetḥekmen"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "win yetḥekmen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "iiḍen aqquz"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "fehm'ed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen yellan zdat-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "zdat-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:44.856727881Z",
+  "model": "glm-5.3"
+}

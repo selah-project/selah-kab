@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad yezmek akk tminḥatin-ik, d lɛedna-ik ad t-id-iḥemmel. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ad yezmek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "tminḥatin-ik"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "lɛedna-ik"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ad t-id-iḥemmel"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:23.120430760Z",
+  "model": "glm-5.3"
+}

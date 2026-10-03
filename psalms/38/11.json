@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Ul-iw iqeddec iqeddec, iǧǧa-t tazmert-iw; d tafat n tiṭṭ-iw, nutni daɣen, ur llin ara ⟨את⟩ deg yid-i.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "iqeddec iqeddec"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "iǧǧa-t"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tazmert-iw"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "d tafat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "n tiṭṭ-iw"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur llin ara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ deg yid-i",
+      "marks": "tafat n tiṭṭ-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:35.992922362Z",
+  "model": "glm-5.3"
+}

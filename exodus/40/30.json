@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yerna yesseɣ ⟨את⟩ lḥis gar uxṣam n umɛiwed d meẓqed, yefka deg-s aman iwakken ad ṣṣen seg-s.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Yerna yesseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥis"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "lḥis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uxṣam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umɛiwed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "meẓqed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "iwakken ad ṣṣen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:07.812342499Z",
+  "model": "glm-5.3"
+}

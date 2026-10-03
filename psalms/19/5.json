@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Deg tmurt akk yeffeɣ-d usiri-nnsen, ɣer yixef n tebel awal-nnsen; i yiṭij Yahwe yewna Mickan deg-sen.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yeffeɣ-d"
+    },
+    {
+      "surface": "קום",
+      "gloss": "usiri-nnsen"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ɣer yixef n"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "awal-nnsen"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "i yiṭij"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yewna"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:01.245593629Z",
+  "model": "glm-5.3"
+}

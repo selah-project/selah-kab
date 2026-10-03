@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Ɛellin yidurar, ḍlen iẓlaven, ɣer wemkan agi i tent-yessekfat.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Ɛellin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yidurar"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ḍlen"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "iẓlaven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "yessekfat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i tent-"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:06.619790630Z",
+  "model": "glm-5.3"
+}

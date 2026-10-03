@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Acku akka i d-yenna Adonai ɣur-i: Deg yiwet n teseggast, am tewsitin n umarkaḍ, ad yekfu meṛṛa yiseftiwen n Qedar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "deg"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yiwet n teseggast"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "am tewsitin n"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "umarkaḍ"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ad yekfu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "yiseftiwen"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "n Qedar"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:21.892159568Z",
+  "model": "glm-5.3"
+}

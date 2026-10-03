@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad yeṭṭef ucebbub seg taminḥa ⟨את⟩ tasmekta-is, ad isseɣ ⟨את⟩-s ɣef lmeẓbaḥ, sinna ad iseqqes ⟨את⟩ tmeṭṭut ⟨את⟩ waman.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ucebbub"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "taminḥa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tasmekta-is"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "tasmekta-is"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ad isseɣ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeẓbaḥ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "ad iseqqes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmeṭṭut"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    }
+  ],
+  "timestamp": "2026-10-02T21:27:43.546431921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Inna agellid n Miṣrayim i tbeccisin tiɛibriyin — isem n yiwet Cifra, isem n tis-sa Puwa —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "i tbeccisin"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "tiɛibriyin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Cifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "tis-sa"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puwa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:42.021579324Z",
+  "model": "glm-5.3"
+}

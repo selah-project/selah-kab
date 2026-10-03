@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 10:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mi yekka seg din, yufa ⟨את⟩ Yehonadav, mmi-s n Rekav, iteddun ara ad ṭṭafren; yebrek-it. Yenna-yas: ma yella ⟨את⟩ ul-ik d uzmir, am ul-iw yid-k? Yenna Yehonadav: Illa, d tideṭt. Efk-iyi-d ⟨את⟩ afus-ik! Ika-yas ⟨את⟩ afus-is, iruhel ɣer-s ɣer ternist.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yekka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonadav"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "Yehonadav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "n Rekav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "iteddun ara ad ṭṭafren"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "yebrek-it"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul-ik"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ul-ik"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "d azmir"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "am"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ul-ik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "Yehonadav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Illa"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "d tideṭt"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "efk-iyi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-ik"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ika-yas"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "iruhel ɣer-s"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "ternist"
+    }
+  ],
+  "timestamp": "2026-10-02T23:31:39.150764496Z",
+  "model": "glm-5.3"
+}

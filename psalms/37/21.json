@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Win yessuklen ur iffa ara; ma d win n ⟨the⟩ ṣedeq yettḥunin, yuɣal yettak.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "win yessuklen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ur iffa ara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ur iffa ara"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "win n ṣedeq"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "yettḥunin"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "yuɣal yettak"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:10.312711523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Iznan-nneγ ur ten nwala, ulac ara navi, mačči ⟨εγur-neγ⟩ win issnen arma d acḥal.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "iznan-nneγ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nwala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ara"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ γur-neγ",
+      "marks": "win issnen"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "issnen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acḥal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:02.787936838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Mi d-lhiɣ-kwen deg lawan-nni, iniɣ: Yahwe, Elohim-nwen, yefka-yawen ⟨את⟩ tamurt-agi akken ad tt-tesɛrem; ad tɛeddim d imenjugen zdat n atmaten-nwen, arraw n Yisrael, akk wid yesɛan tezmert.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "Mi d-lhiɣ-kwen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "lawan-nni"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "deg lawan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iniɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-yawen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt-agi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "akken ad tt-tesɛrem"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "d imenjugen"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "ad tɛeddim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "atmaten-nwen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yesɛan tezmert"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:02.988716935Z",
+  "model": "glm-5.3"
+}

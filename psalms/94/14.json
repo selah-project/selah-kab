@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Ih, Yahwe ur yeǧǧi ara agdud-is, d larzas-is daɣen ur yettaru ara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "yeǧǧi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "d larzas-is daɣen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "yettaru"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:20.142101799Z",
+  "model": "glm-5.3"
+}

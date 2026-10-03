@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Rnu ḥeddan n wussan, deffir lḥeṣda n Yahwe i ⟨את⟩ wasif.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "rnu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ḥeddan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "lḥeṣda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasif"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wasif"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:23.950621425Z",
+  "model": "glm-5.3"
+}

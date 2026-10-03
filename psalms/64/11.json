@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 64,
+  "translation": "Ad yufrureṛ uṣedeq deg Yahwe, ad yettkel ɣur-s; akk wid yesɛan izerfen deg ul ad yiwlhen.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ad yufrureṛ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "uṣedeq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ad yettkel ɣur-s"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ad yiwlhen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wid yesɛan izerfen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "deg ul"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:55.794460619Z",
+  "model": "glm-5.3"
+}

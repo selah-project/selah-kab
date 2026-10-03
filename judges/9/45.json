@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Avimeleḥ yennaɣ ɣef temdint akk ass-nni; yeṭṭef ⟨את⟩ temdint, inex ⟨את⟩ ugdud illan deg-s, yessenzu ⟨את⟩ temdint, yezra-tt s tmelḥt.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Avimeleḥ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "yennaɣ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ɣef temdint"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "illan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "inex"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "yessenzu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "yezra-tt"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "s tmelḥt"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:29.190167258Z",
+  "model": "glm-5.3"
+}

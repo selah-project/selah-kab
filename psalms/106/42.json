@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Iɛdawen-nsen ṭṭeften-ten ṣṣeḥ, u nnan-asen d ageldun deg ufus-nsen.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ṭṭeften-ten ṣṣeḥ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "Iɛdawen-nsen"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "nnan-asen d ageldun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ufus-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:28.379851504Z",
+  "model": "glm-5.3"
+}

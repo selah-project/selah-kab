@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Axaṭer Yaɛqov, Yah ifren-t i yiman-is; Yisrael d ayla-s uslig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ifren"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "d ayla-s uslig"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:42.389817145Z",
+  "model": "glm-5.3"
+}

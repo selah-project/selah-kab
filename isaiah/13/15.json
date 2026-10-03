@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Akken i yettwaf, ad yettwaḍecber; akken i yettwaṭṭef, ad yekker deg teserdast.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "i yettwaf"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ad yettwaḍecber"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akken"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "i yettwaṭṭef"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ad yekker"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "deg teserdast"
+    }
+  ],
+  "timestamp": "2026-10-03T04:19:02.573944140Z",
+  "model": "glm-5.3"
+}

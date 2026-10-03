@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Axaṭer Yahwe isegga-d fellawen ruaḥ n tersa, yemdel ⟨את⟩ allen-nwen — ⟨את⟩ inavyen — d ⟨את⟩ iqerra-nwen, iberkanen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "isegga-d"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fellawen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "n tersa"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "yemdel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allen-nwen"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "allen-nwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inavyen"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "inavyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iqerra-nwen"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "iqerra-nwen"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "iberkanen"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "yessel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:22.146295277Z",
+  "model": "glm-5.3"
+}

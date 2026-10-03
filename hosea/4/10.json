@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad teccen, ur ḥedḍen ara; zennin, ur nemyi ara; axaṭer ⟨את⟩ Yahwe rǧan, ur ḥerzen ara.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Ad teccen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ḥedḍen ara"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "zennin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "nemyi ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "rǧan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ur ḥerzen ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:06.191112247Z",
+  "model": "glm-5.3"
+}

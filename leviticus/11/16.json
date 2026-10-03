@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "d ⟨את⟩ taqcict n tyaɛana, d ⟨את⟩ ṭaḥmas, d ⟨את⟩ cacḥaf, d ⟨את⟩ haneṣ, s wanaw-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taqcict n tyaɛana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "taqcict"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ntyaɛana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ṭaḥmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ṭaḥmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cacḥaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "cacḥaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haneṣ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "haneṣ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "s wanaw-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:55.273756011Z",
+  "model": "glm-5.3"
+}

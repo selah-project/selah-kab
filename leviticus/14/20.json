@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Aqaḥen ad d-yessali ⟨את⟩ lḥeṛma d ⟨את⟩ minḥa ɣef lmeṣbaḥ; aqaḥen ad iṣeggem fell-as, ad yili d agezmu.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ad d-yessali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqaḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeṛma"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lḥeṛma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "minḥa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeṣbaḥ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ad iṣeggem"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqaḥen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ad yili d agezmu"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:01.061690797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur teṭṭfid ad tsenḍeḥ ⟨d⟩dem n waqsiḍ-iw s wayen yeḥmeṭ; d dehs n teεzi-k ur ittezri iḍ el ar tufat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "ad tsenḍeḥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "wayen yeḥmeṭ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨d⟩dem"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "n waqsiḍ-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "d ... ur"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ittezri iḍ el"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "dehs"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "n teεzi-k"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tufat"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:26.950483043Z",
+  "model": "glm-5.3"
+}

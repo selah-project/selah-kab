@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Iḥemmlen-iw d imeddukal-iw beṭṭun ɣef waṭṭan-iw qqimen; d iqerbuyen-iw baɛid qqimen.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Iḥemmlen-iw"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "d imeddukal-iw"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "beṭṭun ɣef"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "waṭṭan-iw"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "qqimen"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "d iqerbuyen-iw"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "baɛid"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "qqimen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:35.993070647Z",
+  "model": "glm-5.3"
+}

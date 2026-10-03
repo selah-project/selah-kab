@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Acku ur tebɣiɣ ara iden izebbuɣ, neɣ ad tt-id-muddɣ; tirga ur t-tṛaǧuɣ ara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "tebɣiɣ ara"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "iden izebbuɣ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "neɣ ad tt-id-muddɣ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tirga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "t-tṛaǧuɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:18.525613564Z",
+  "model": "glm-5.3"
+}

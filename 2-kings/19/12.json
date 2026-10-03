@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Elohim n yegdudiyen, ⟨את⟩ ten-iḥellisen wid i ḥerben yimawen-iw — ⟨את⟩ Gozan, ⟨את⟩ Ḥaran, Reṣef d yigerdan n Ɛeden i llan di Tel-acar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "ḥellisen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "wid i ḥerben yimawen-iw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yegdudiyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ḥerben"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "yimawen-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥaran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Ḥaran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "Reṣef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "d yigerdan n"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Ɛeden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i llan"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "di Tel-acar"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:42.915059023Z",
+  "model": "glm-5.3"
+}

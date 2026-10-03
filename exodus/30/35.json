@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad txedmeḍ ⟨את⟩-s ⟨d⟩ taṣeggmit: tuṭṭfa n uneflay, yettwazdeɣ s tsemmiḍt, taṣeqqaḥt, d iqedcen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ad txedmeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "taṣeggmit"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "taṣeggmit"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "tuṭṭfa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "axeddim"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "n uneflay"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "yettwazdeɣ s tsemmiḍt"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "taṣeqqaḥt"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:24.949553472Z",
+  "model": "glm-5.3"
+}

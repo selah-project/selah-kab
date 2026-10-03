@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Ad iḥkem imeṭṭafen n weɣlan, ad isellek arrac n umiḥlal, ad yexṣer win ikellḍen.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ad iḥkem"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "imeṭṭafen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "n weɣlan"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ad isellek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "arrac n"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "umiḥlal"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ad yexṣer"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "win ikellḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:56.912210278Z",
+  "model": "glm-5.3"
+}

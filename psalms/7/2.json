@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yahwe Elohim-iw, deg-k i ttḥbesseɣ; sellesi-dd-iyi seg wid iyi-d-yeḍfren akk, u ssellek-iyi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "i ttḥbesseɣ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sellesi-dd-iyi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg akk"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "wid iyi-d-yeḍfren"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "u ssellek-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:57.890848911Z",
+  "model": "glm-5.3"
+}

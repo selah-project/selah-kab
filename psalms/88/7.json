@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Tessufeɣ-d iyi deg lbir amellay, deg yiberkanen, deg teɣẓrin.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Tessufeɣ-d iyi"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "deg lbir"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "amellay"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "deg yiberkanen"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "deg teɣẓrin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:23.381290922Z",
+  "model": "glm-5.3"
+}

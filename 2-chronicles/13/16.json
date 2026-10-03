@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "At Yisrael rewḥlen seg udem n Yehuda, Elohim yefka-yen deg yifassen-nsen.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "rewḥlen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "yefka-yen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "deg yifassen-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:52.659227029Z",
+  "model": "glm-5.3"
+}

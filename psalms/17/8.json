@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ḥrez-iyi am ⟨tegmirt⟩ n taqcict n teẓṭ, deg ttawel n yiγriwen-ik ttḥebb-iyi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ḥrez-iyi"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "am tegmirt n"
+    },
+    {
+      "surface": "בת",
+      "gloss": "taqcict n"
+    },
+    {
+      "surface": "עין",
+      "gloss": "teẓṭ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "deg ttawel n"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "yiγriwen-ik"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ttḥebb-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:02.547378577Z",
+  "model": "glm-5.3"
+}

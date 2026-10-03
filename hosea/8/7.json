@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Axaṭer ruaḥ tzerru, taḥwayt ad ḥesbu; ulac ⟨iser⟩ i wakken yellan; aggurim ur d-yettawi ara aẓrum; ma yella yessaweḍ, ibeṛṛaniyen ad t-bleɛen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "יִזְרָעוּ",
+      "gloss": "tzerru"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "taḥwayt"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ad ḥesbu"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "iser"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "aggurim"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad d-yettawi"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "aẓrum"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ma yella"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yessaweḍ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ibeṛṛaniyen"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "ad t-bleɛen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:30.366644916Z",
+  "model": "glm-5.3"
+}

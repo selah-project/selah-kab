@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ayetma n Yisrael kksen ⟨את⟩ lbaɛlay d ⟨את⟩ lɛactarut, u ṭṭfen taqbalit n ⟨את⟩ Yahwe, kan.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "kksen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ayetma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lbaɛlay"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "lbaɛlay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɛactarut"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "lɛactarut"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ṭṭfen taqbalit n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:30.051057143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ula d ⟨את⟩ lɛahd-iw ṣeddeɣ ⟨את⟩ akk d nutni, ad awed-ten ⟨את⟩ tamurt n Kenaɛan, ⟨את⟩ tamurt n tallalit-nsen, anida i ẓedɣen d iminigen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ṣeddeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ akk d nutni",
+      "marks": "⟨את⟩ nutni"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad awed"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt n Kenaɛan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenaɛan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt n tallalit-nsen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "n tallalit-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ẓedɣen d iminigen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:45.786120842Z",
+  "model": "glm-5.3"
+}

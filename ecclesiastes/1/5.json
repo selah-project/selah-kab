@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tafukt tzereḥ-ed, tafukt tuɣal-ed; ar umkan-is tettwalas tam i tzereḥ, din nettat.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "tzereḥ-ed"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tafukt"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "tuɣal-ed"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "tafukt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "amkan-is"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "tettwalas"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "i tzereḥ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nettat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:40.204719566Z",
+  "model": "glm-5.3"
+}

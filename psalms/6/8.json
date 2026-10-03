@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Tessistin ttirga-nniw s lγdab; teqqim tεejjebt s γef yal iεeddanen-iw.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Tessistin"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "s lγdab"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ttirga-nniw"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "teqqim tεejjebt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s γef yal"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "iεeddanen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:29.842789899Z",
+  "model": "glm-5.3"
+}

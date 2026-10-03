@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ḥrez, a mmi, tewsiwin n baba-k, ur ttazal ara Tora n yemma-k.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tewsiwin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "n baba-k"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "ttazal"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "n yemma-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:18:15.935625370Z",
+  "model": "glm-5.3"
+}

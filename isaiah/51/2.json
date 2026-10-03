@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Wali-d ɣer Avraham baba-wen, d ɣer Sara i kwen-d-telqem: acku yiwen i d-ssiweḍeɣ, ɣur-s i tsɛeḥdeɣ, ɣur-s i t-sneflayeɣ.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Wali-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baba-wen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "i kwen-d-telqem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "i d-ssiweḍeɣ"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "i tsɛeḥdeɣ"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "i t-sneflayeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:25.847114521Z",
+  "model": "glm-5.3"
+}

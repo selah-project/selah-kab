@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Axaṭer Yahwe, win yettnadiḍ ⟨i⟩ idammen, yettwalt ad yizwir ⟨את⟩ ayen iḍerrun; ur ibbir ara ccgaiɛ n wid yettwaneflen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "win yettnadiḍ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "⟨i⟩ idammen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ayen iḍerrun"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yettwalt ad yizwir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ibbir ara"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ccgaiɛ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "n wid yettwaneflen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:32.560944090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yahwe yiwen-iyi akken i ṣedeq-iw; akken i uneẓẓi n yifassen-iw i d-yerra-yi ula d netta.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "yiwen-iyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "akken i ṣedeq-iw"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "akken i uneẓẓi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n yifassen-iw"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "i d-yerra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:02.813103053Z",
+  "model": "glm-5.3"
+}

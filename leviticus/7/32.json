@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "⟨את⟩ taqammut n uyeffus ad tefkem d teruma i kehen, seg zebeḥ n selamawen-nwen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taqammut n uyeffus"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "taqammut"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "n uyeffus"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ad tefkem"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "i kehen"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "seg zebeḥ"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "selamawen-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:58.126643046Z",
+  "model": "glm-5.3"
+}

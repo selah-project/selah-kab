@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad ten-taruḍ ɣef yimɣeṛben n uxxam-ik, d ɣef tewwura-ik.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ad ten-taruḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "yimɣeṛben"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "n uxxam-ik"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "d ɣef tewwura-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:58.514733586Z",
+  "model": "glm-5.3"
+}

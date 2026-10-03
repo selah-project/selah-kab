@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yenna: Sawel-as. Yessawel-as, teqqim ⟨deg⟩ tebburt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Sawel"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Yessawel-as"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "teqqim"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "deg tebburt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:17:04.516721858Z",
+  "model": "glm-5.3"
+}

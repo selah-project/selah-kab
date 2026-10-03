@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad txedem ⟨את⟩ tuqqna-w yiwen s yiwen, akken txedmem ula d ⟨את⟩ tiḥukma-w ad tent-terrem deg wawal, ad tent-tedblem; ad tzedgem ţef tmurt-agi ţef lekfak.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad txedem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuqqna-w"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "tuqqna-w"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tiḥukma-w"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "tiḥukma-w"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ad tent-terrem deg wawal"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad tent-tedblem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tent"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ad tzedgem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ţef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt-agi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ţef lekfak"
+    }
+  ],
+  "timestamp": "2026-10-02T21:18:22.410485631Z",
+  "model": "glm-5.3"
+}

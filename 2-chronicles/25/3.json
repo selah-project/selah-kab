@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yella-d, mi tḥadert tagelda ɣef uγris-is, yenɣa ⟨את⟩ yemdanen-is i dg-yenɣan ⟨את⟩ agellid baba-s.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "tḥadert"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "tagelda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef uγris-is"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "yenɣa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yemdanen-is"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yemdanen-is"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "i dg-yenɣan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    }
+  ],
+  "timestamp": "2026-10-03T03:52:41.533625680Z",
+  "model": "glm-5.3"
+}

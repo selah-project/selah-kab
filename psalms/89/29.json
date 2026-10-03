@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ideg lɛedda, ad ḥarzeɣ i ḥesed-iw, ad iqqim i ḥeqqen lɛahd-iw.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ideg lɛedda"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "ad ḥarzeɣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ḥesed-iw"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "d lɛahd-iw"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "ad iqqim i ḥeqqen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:39.151948824Z",
+  "model": "glm-5.3"
+}

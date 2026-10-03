@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Mi yuli ṣṣebḥ, imceggɛen ḥeṛsen Loṭ, nnan: Qqim, ṭṭef ⟨את⟩ tameṭṭut-ik d ⟨את⟩ snat n yelli-k yellan din, akken ur tettwaḥudd ara deg ddul n temdint.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ṣṣebḥ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "ḥeṛsen"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "imceggɛen"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Loṭ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "קום",
+      "gloss": "qqim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameṭṭut-ik"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tameṭṭut-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "snat n yelli-k"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "n yelli-k"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "yellan din"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur ... ara"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "tettwaḥudd"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "deg ddul"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:00.783520214Z",
+  "model": "glm-5.3"
+}

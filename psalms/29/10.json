@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Yahwe yuran d agellid ɣef usaffan, yerna Yahwe yeqqim d agellid i lebda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ɣef usaffan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yuran d agellid"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yeqqim d agellid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:30.258180324Z",
+  "model": "glm-5.3"
+}

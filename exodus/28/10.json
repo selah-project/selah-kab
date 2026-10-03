@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ṣedda seg yismawen-nsen ɣef yiwen n weẓru, d ⟨את⟩ yismawen n ṣedda i d-yegran ɣef weẓru wis sin, akken tlalan-d.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "Ṣedda"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "seg yismawen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "n weẓru"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yismawen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "yismawen"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "n ṣedda"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "i d-yegran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "weẓru"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "akken tlalan-d"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:39.146640343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ad sfuɣɣeɣ ɣef-kwen aman iqeḍcen, ad tuɣlim d iqeḍcen seg tuḥma-ikwen akk, seg yiṛebbiten-ikwen akk ad kwen-ṣeffeɣ ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "ad sfuɣɣeɣ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ɣef-kwen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "iqeḍcen"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "ad tuɣlim d iqeḍcen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg…akk"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "tuḥma-ikwen"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "u seg…akk"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "yiṛebbiten-ikwen"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "ad ṣeffeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "kunwi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:02:47.759078820Z",
+  "model": "glm-5.3"
+}

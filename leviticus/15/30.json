@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Aqehen ad yexdem ⟨את⟩ wayeḍ d tikci n tḥeṭṭit, ⟨את⟩ wayeḍ d tikci yettwaɣen; ad iṣeffu fell-as aqehen qbel Yahwe, ɣef usaffa n lmaḥna-nnes.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayeḍ amezwaru"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tikci n tḥeṭṭit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wayeḍ-nniḍen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tikci yettwaɣen"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ad iṣeffu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqehen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "asaffa"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "lmaḥna-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:42.548476504Z",
+  "model": "glm-5.3"
+}

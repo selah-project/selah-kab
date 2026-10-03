@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Taṣṣift i ḍar-iw d awal-ik, d tafat i ubrid-iw.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "taṣṣift"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "i ḍar-iw"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "awal-ik"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "d tafat"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "i ubrid-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:01.373070986Z",
+  "model": "glm-5.3"
+}

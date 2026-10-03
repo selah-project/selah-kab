@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Awalen n Yahwe d awalen iṣeffan; am tlfeḍḍa yettwafesen deg tsentel n lqaɛa, yettwaṣeffa sa n tikkal.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Awalen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "iṣeffan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tlfeḍḍa"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "yettwafesen"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "deg tsentel"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "n lqaɛa"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "yettwaṣeffa"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sa n tikkal"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:07.336128225Z",
+  "model": "glm-5.3"
+}

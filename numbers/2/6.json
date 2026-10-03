@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "D leɛeskṛa-s, akk wid yettwafellḍen deg-s: ukrad d semmus n tlufa, d ukraḍ n timḍin.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "D leɛeskṛa-s"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "akk wid yettwafellḍen deg-s"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ukraḍ"
+    },
+    {
+      "surface": "ווחמשים",
+      "gloss": "d semmus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n tlufa"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "d ukraḍ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n timḍin"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:54.217909836Z",
+  "model": "glm-5.3"
+}

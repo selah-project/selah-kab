@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Ur ttettu ara taɣect n yinerẓen-ik; taẓẓaxt n wid yawed-d mgal-ik tettali war tuksa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ttettu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "n yinerẓen-ik"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "taẓẓaxt"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "n wid yawed-d mgal-ik"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tettali"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "war tuksa"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:41.473386919Z",
+  "model": "glm-5.3"
+}

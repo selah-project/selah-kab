@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad yekkes aglin i lɛola, ad tt-iḥettem ⟨את⟩ ɣef yiḥetqin-is.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ad yekkes aglin i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lɛola"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "ad tt-iḥettem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iḥetqin-is"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ɣef yiḥetqin-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:08.168578430Z",
+  "model": "glm-5.3"
+}

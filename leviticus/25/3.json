@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Sḍis n yiseggasen ad tzebruḛ tiɣmirt-ik, d sḍis n yiseggasen ad tcebbreḍ tineqqi-ik, ad tḥemleḍ ⟨את⟩ tinect-ines.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "sḍis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ad tzebruḛ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tiɣmirt-ik"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "d sḍis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ad tcebbreḍ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "tineqqi-ik"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ad tḥemleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinect-ines"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "tinect-ines"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:20.292079703Z",
+  "model": "glm-5.3"
+}

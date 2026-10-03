@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ur nujjit' ara seg teṭṭfa-nsen; lqut mazal-it deg imi-nsen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "nujjit'"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "seg teṭṭfa-nsen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "lqut"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "deg imi-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:40.487769133Z",
+  "model": "glm-5.3"
+}

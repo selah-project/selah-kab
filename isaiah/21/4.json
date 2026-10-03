@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ul-iw yennaẓa, tagri tessuteɣ-i; ⟨את⟩ tanerst n lecɣi-iw yerra-tt-i ɣer tuggdi.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "yennaẓa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tagri"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "tessuteɣ-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanerst"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "tanerst"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "lecɣi-iw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ɣer tuggdi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:37.888384413Z",
+  "model": "glm-5.3"
+}

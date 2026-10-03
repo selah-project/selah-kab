@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Armelmi, Yahwe, ciyeɣ ma d kečč ur tessliḍ ara; leṣṣaɣ ɣuṛ-ek ɣef teḥrest, maca ur tessellek ara.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "armelmi (ar)"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "melmi (-melmi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ciyeɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ma d kečč ur"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tessliḍ ara"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "leṣṣaɣ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣuṛ-ek"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "teḥrest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "tessellek ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:46.384385872Z",
+  "model": "glm-5.3"
+}

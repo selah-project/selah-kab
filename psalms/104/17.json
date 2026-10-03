@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "anda igenni uḍar: tin yijlan yettwasluyen deg-s iḍan; tura, anda ttgennun ifeḍḍulen, deg-sen newɣen d axxam.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "iḍan"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "ttgennun"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ifeḍḍulen"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "deg ijlan n Berucc"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "axxam-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:01.125109200Z",
+  "model": "glm-5.3"
+}

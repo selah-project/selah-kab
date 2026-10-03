@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Aḥimɛeṣ yexleq-d ⟨את⟩ Ɛezerja, i d-yella Ɛezerja yexleq-d ⟨את⟩ Yuḥanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Aḥimɛeṣ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛezerja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ɛezerja"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "i d-yella Ɛezerja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yexleq-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuḥanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yuḥanan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:26:36.260548764Z",
+  "model": "glm-5.3"
+}

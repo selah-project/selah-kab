@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yiwen n wemdan, ma yexdem ⟨את⟩ taɣest-is s lmal — amett ad yemmet; ad t-tnɣem ⟨את⟩ lmal.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "yiwen n wemdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "taɣest-is"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "s lmal"
+    },
+    {
+      "surface": "מות",
+      "gloss": "amett"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lmal"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "ad t-tnɣem"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:05.581091208Z",
+  "model": "glm-5.3"
+}

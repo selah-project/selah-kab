@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "Deg Elohim ad cceɣ ⟨awal-is⟩; deg Yahwe ad cceɣ ⟨awal-is⟩.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ad cceɣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal-is"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ad cceɣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:45.063182044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad neɣ s wurez igellilen, win iḥerren s yisenḍalen; ad nzen iğed, akken d iqecciden-is.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "ad neɣ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s wurez"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "igellilen"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "win iḥerren"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "s"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "yisenḍalen"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "iqecciden-is"
+    },
+    {
+      "surface": "בר",
+      "gloss": "iğed"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "ad nzen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:22:55.271451112Z",
+  "model": "glm-5.3"
+}

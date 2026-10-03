@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Arpaḵcad yidir semmus d tlata n yiseggasen, yewlad ⟨את⟩ Celac.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpaḵcad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yidir"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "d tlata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yewlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Celac"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Celac"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:32.447821551Z",
+  "model": "glm-5.3"
+}

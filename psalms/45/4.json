@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Zebb ccfi-ik ɣef yiɣer-ik, a yizerfan; tamhannt-ik d tigejdit-ik.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Zebb"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ccfi-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yiɣer-ik"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "a yizerfan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "tamhannt-ik"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "d tigejdit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:45.752092304Z",
+  "model": "glm-5.3"
+}

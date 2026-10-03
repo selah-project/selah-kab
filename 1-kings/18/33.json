@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yesseɣḍes ⟨את⟩ ijeḍɣiɣen, yeṭṭef ⟨את⟩ ijellal γef tcept, yerna-t ɣef ijeḍɣiɣen.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "yesseɣḍes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijeḍɣiɣen"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ijeḍɣiɣen"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "yeṭṭef γef tcept"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijellal"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ijellal"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yerna-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ijeḍɣiɣen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:22:43.931069996Z",
+  "model": "glm-5.3"
+}

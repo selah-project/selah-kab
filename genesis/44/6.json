@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Yeṭṭef-iten, yenna-d ɣur-sen ⟨את⟩ awal-agi.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "yeṭṭef-iten"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:06.622831441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "translation": "Yahwe issen-d asellek-is; zdat iṭijen n lɣaci yessuffeɣ-d ⟨the⟩ ṣedeq-is.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "issen-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "asellek-is"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "zdat iṭijen n"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "lɣaci"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yessuffeɣ-d"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ṣedeq-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:01.405510011Z",
+  "model": "glm-5.3"
+}

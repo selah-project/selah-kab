@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Anwa wagi i yettffer lemcawar bla tamussni? Ihi mliɣ, ur fehmeɣ, ayen yugaren-i, ur ssineɣ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "i yettffer"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "lemcawar"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bla"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tamussni"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Ihi"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mliɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "fehmeɣ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ayen yugaren tafelsit"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "yugaren-i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ssineɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:46:42.779448272Z",
+  "model": "glm-5.3"
+}

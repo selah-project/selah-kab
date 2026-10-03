@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "D win ilan ḥesed, ad tettbanḍeḍ d ḥesed; d wemdan uddis, ad tettbanḍeḍ d uddis.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "d win ilan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ad tettbanḍeḍ d ḥesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d wemdan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "uddis"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ad tettbanḍeḍ d uddis"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:54.080440156Z",
+  "model": "glm-5.3"
+}

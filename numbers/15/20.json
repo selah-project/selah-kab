@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Tamezwarut n tmeṭṭut-nwen, d aḥelluf, ad d-terfem d tiqbilin; akken tedda tiqbilin n userdaz, akka i kwen-ternu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Tamezwarut"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "n tmeṭṭut-nwen"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "aḥelluf"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ad d-terfem"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "tiqbilin"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "akken tedda tiqbilin"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "n userdaz"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "i kwen-ternu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "aḥelluf"
+    }
+  ],
+  "timestamp": "2026-10-02T21:33:48.615977427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Iḥerren rran-d taɣda deg ubrid-iw, maca seg piqqude-k ur ẓriɣ ara.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "rran-d"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "iḥerren"
+    },
+    {
+      "surface": "פח",
+      "gloss": "taɣda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "deg ubrid-iw"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "seg piqqude-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ur ẓriɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:25.263835094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "translation": "Tiṭin-iw ⟨the⟩ ɣef wid yumenen n tmurt, iwakken ad zedɣen yid-i; win yunnen deg ubrid n tsemtul, d netta ara iyi-yettfen.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "tiṭin-iw"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ɣef wid yumenen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "iwakken ad zedɣen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "win yunnen"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "n tsemtul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ara iyi-yettfen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:25.981959281Z",
+  "model": "glm-5.3"
+}

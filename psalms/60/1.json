@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "I win i yettnernin, ɣef ⟨cuca⟩ Cuccan-Ɛedut, Mikṭam n David, iwakken ad iɛelm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win i yettnernin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Cuccan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Ɛedut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikṭam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "iwakken ad iɛelm"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:26.649260164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yeḍreb tikennin-nsen d tteɛnin-nsen, yerẓa isekla n tilisa-nsen.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Yeḍreb"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "tikennin-nsen"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "d tteɛnin-nsen"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "yerẓa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "isekla"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "n tilisa-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:14.028419845Z",
+  "model": "glm-5.3"
+}

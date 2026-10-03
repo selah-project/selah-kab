@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Yexleq tafat, d win i d-ixleq tawrit; ixeddem talwit, d win i d-ixleq dirit; nekkini d Yahwe, win ixeddem akk waya.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "d win i d-ixleq"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tawrit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixeddem"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "talwit"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "d win i d-ixleq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixeddem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "waya"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:43.171833512Z",
+  "model": "glm-5.3"
+}

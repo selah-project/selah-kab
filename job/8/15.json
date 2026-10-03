@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad yessukel ɣef axxam-is, maca ur ad yeqim ara; ad yeṭṭef deg-s, maca ur ad yekker ara.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Ad yessukel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "axxam-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur ... ara"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yeqim"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "Ad yeṭṭef"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur ... ara"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yekker"
+    }
+  ],
+  "timestamp": "2026-10-03T02:32:35.398587919Z",
+  "model": "glm-5.3"
+}

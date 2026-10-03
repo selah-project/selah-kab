@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Wa d ccreɛ i ara teskneḍ ar zdat-nsen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "wa d"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "teskneḍ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ar zdat-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:03.928563743Z",
+  "model": "glm-5.3"
+}

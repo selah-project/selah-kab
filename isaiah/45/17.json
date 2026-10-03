@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Yisrael yettwaḥrez deg Yahwe, d taḥriẓt n lebda; ur ttxeṣṣrem ara, ur ttwaruzem ara, ɣer lebda n yilebda.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "yettwaḥrez"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "taḥriẓt"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "n lebda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "ttxeṣṣrem ara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "ttwaruzem ara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "lebdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "n yilebda"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:32.665416379Z",
+  "model": "glm-5.3"
+}

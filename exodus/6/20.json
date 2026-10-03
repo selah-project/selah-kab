@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ɛamram yewwi-d ⟨את⟩ Yokeved, tenta-s, d takkist-is; terna-d-as ⟨את⟩ Aharon d ⟨את⟩ Moce. Iṣeggasen n tmeddurt n Ɛamram llan ⟨d⟩ sa d tlata-in d miya n yiseggasen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Ɛamram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokeved"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokeved"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "tenta-s"
+    },
+    {
+      "surface": "לו",
+      "gloss": "is"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d takkist-is"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "terna-d-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "iṣeggasen n"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "tmeddurt"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "n Ɛamram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "d tlata-in"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "d miya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:46.349422981Z",
+  "model": "glm-5.3"
+}

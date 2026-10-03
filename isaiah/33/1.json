@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ay! Win iḥeccmen, ma d kečč ur ttwiḥeccmeḍ ara; win ikren, ur k-i-kren ara. Akken tfukkeḍ di leḥecc, ad tettwaḥeccmeḍ; akken tfukkeḍ, ad k-ikren.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ay!"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "win iḥeccmen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma d kečč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "ttwiḥeccmeḍ"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "win ikren"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ikren"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "akken tfukkeḍ"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "di leḥecc"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "ad tettwaḥeccmeḍ"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "akken tfukkeḍ"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "di lexsla"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "ad k-ikren"
+    },
+    {
+      "surface": "בך",
+      "gloss": "k"
+    }
+  ],
+  "timestamp": "2026-10-02T23:54:59.106151964Z",
+  "model": "glm-5.3"
+}

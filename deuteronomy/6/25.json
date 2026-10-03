@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D ṣedeq ad yili ⟨i⟩neɣ, ma nḥrez ad nxedem ⟨את⟩ takemzit-agi akk ddaw teɛiemt n Yahwe Elohim-nneɣ, akken i ɣ-iḥkem.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "D ṣedeq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i-neɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "nḥrez"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad nxedem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takemzit-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "takemzit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ddaw teɛiemt n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "i ɣ-iḥkem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:58.412720753Z",
+  "model": "glm-5.3"
+}

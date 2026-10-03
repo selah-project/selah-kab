@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Acku axaṭer agdud agi iḥeccem ⟨את⟩ aman n Ciloaḥ, wid ara ttddun s talwit, yerna iferḥ ⟨את⟩ Reṣin d mmi-s n Remalyahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "iḥeccem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aman n Ciloaḥ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aman"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "n Ciloaḥ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "wid ara ttddun"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "s talwit"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "yerna iferḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reṣin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Reṣin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "d mmi-s"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:32.234145988Z",
+  "model": "glm-5.3"
+}

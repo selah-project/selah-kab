@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Murr akked w-ihaḍen, qeṭṭiyen n lcini — akk iceddurten-ik, seg yixxamen n lsed, i k-iceḍlen ṣṣenf n yizuranen.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Murr"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "akked w-ihaḍen"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "qeṭṭiyen n lcini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "iceddurten-ik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "ixxamen"
+    },
+    {
+      "surface": "שן",
+      "gloss": "n lsed"
+    },
+    {
+      "surface": "מני",
+      "gloss": "n yizuranen"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "i k-iceḍlen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:45.123939361Z",
+  "model": "glm-5.3"
+}

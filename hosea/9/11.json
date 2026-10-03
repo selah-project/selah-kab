@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Efrayim, am tagervit ad irẓẓel ṣṣeɛd-nsen; ulac talalit, ulac aqerbuc, ulac tikkelt n twaɣlit.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "am tagervit"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "ad irẓẓel"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ṣṣeɛd-nsen"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "ulac talalit"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "ulac aqerbuc"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "ulac tikkelt n twaɣlit"
+    }
+  ],
+  "timestamp": "2026-10-03T01:16:48.208294665Z",
+  "model": "glm-5.3"
+}

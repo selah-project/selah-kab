@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 137,
+  "translation": "Amek ad neẓewweq ⟨את⟩ lqaṣida n Yahwe ɣef tmurt n ubeḍḍani?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "amek"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ad neẓewweq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lqaṣida"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lqaṣida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "n ubeḍḍani"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:29.392994254Z",
+  "model": "glm-5.3"
+}

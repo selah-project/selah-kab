@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Ur iyi-ttazal ara tuccḍa n yisafan, ur iyi-nnuṭ ara leɛmer, ur d-yemdel ara anwu imi-s fell-i.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "i_ttazal"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n yisafan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "i_nnuṭ"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "leɛmer"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "yemdel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "באר",
+      "gloss": "anwu"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "imi-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:20.998113344Z",
+  "model": "glm-5.3"
+}

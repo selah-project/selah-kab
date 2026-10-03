@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Ali, a wid iḥekmen ⟨i⟩ tmurt; efk lexṣas i wiyeddmen!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Ali"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "a wid iḥekmen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "השב",
+      "gloss": "efk"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "lexṣas"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "wiyeddmen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:26.051714901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Ur iḥwi-yi ara deg lweqt n temsurt; mi ara yekfa tazmert-iw, ur iyi-yeǧǧ ara.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "iḥwi-yi"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "deg lweqt"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "n temsurt"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "mi ara yekfa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tazmert-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "yeǧǧ-yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:04.408752319Z",
+  "model": "glm-5.3"
+}

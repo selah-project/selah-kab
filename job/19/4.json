@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ma d s tideț, ineghrej-iyi; netta yi-d-ittɣimi uneckukl-iw ⟨אתי⟩.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ma d"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "s tideț"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "ineghrej-iyi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "netta yi-d-ittɣimi uneckukl-iw"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "yi-d-ittɣimi"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "uneckukl-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:37:20.123807211Z",
+  "model": "glm-5.3"
+}

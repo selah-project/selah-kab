@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Imeẓẓuɣen i sɛan, maca ur sslen; ula d ruaḥ ur ⟨tell⟩ deg imi-nsen.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "imeẓẓuɣen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i sɛan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "sslen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur telli"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨tell⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "deg imi-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:36.663542112Z",
+  "model": "glm-5.3"
+}

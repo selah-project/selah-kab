@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Acku tetthejjimt tiberrakin i lebda; tessefreḥt-it s leḥṣun s ⟨את⟩ udem-ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "tethejjimt"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "tiberrakin"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "tessefreḥt-it"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s leḥṣun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem-ik"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:11.890881225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ma yemmaḥel gma-k, yuzen kra seg wayla-s, ad yided goɛel-is, win i qerben ɣur-s, ad yeṣell ⟨את⟩ ayen yuzen gma-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "yemmaḥel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "seg wayla-s"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ad yided"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "goɛel-is"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "win i qerben"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "ad yeṣell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen yuzen gma-s"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ayen yuzen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:16.447667415Z",
+  "model": "glm-5.3"
+}

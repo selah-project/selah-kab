@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-d Yahwe: Yahuda ad yali; ẓer, rniɣ ⟨את⟩ tmurt deg ufus-is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ẓer"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "rniɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:45.543919230Z",
+  "model": "glm-5.3"
+}

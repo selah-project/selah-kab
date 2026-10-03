@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Uɣalen waman si tmurt, ttuɣalen-tt sya ar deffir, drusent-d deg taggara n tẓa d temsin n wussan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "uɣalen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "si"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ttuɣalen-tt"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "sya ar deffir"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "drusent-d"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "deg taggara n"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "temsin"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "d tẓa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wussan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:11:29.999693265Z",
+  "model": "glm-5.3"
+}

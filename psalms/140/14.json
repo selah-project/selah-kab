@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "S tideet, iqedcen kan ad cennun i yisem-ik, wid izeryan ad zedɣen qbel udmaw-ik ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "S tideet, kan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ad cennun"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "i yisem-ik"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ad zedɣen"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wid izeryan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmaw-ik"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "qbel udmaw-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:04.395723412Z",
+  "model": "glm-5.3"
+}

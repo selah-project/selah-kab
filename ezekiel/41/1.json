@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yesseklef-iyi ar lḥeicel, iẓra ⟨את⟩ tigeẓḍayin: sḍis n yima deg tehri seg tama-agi, d sḍis n yima deg tehri seg tama-nni — ⟨d⟩ tehri n teḥent.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "yesseklef-iyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "lḥeicel"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigeẓḍayin"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "tigeẓḍayin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sḍis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "yima"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "tehri"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "seg tama-agi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "d sḍis"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "yima"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "tehri"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "seg tama-nni"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "tehri"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teḥent"
+    }
+  ],
+  "timestamp": "2026-10-03T04:29:24.430533515Z",
+  "model": "glm-5.3"
+}

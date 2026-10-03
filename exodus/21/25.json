@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Aččar deg umkan n waččar, jerḥ deg umkan n wajerḥi, tixutut deg umkan n tixutut.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "aččar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "waččar"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "jerḥ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "wajerḥi"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tixutut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tixutut"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:14.299386189Z",
+  "model": "glm-5.3"
+}

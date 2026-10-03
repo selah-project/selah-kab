@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Iṣuti d lḥalla seg temdint, iṣuti seg uyekan, iṣuti n Yahwe, iwessi-d lexṣaṣ i yimḍebbṛen-is.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "iṣuti"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "d lḥalla"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "seg temdint"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iṣuti"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "seg uyekan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "iṣuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "iwessi-d"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "lexṣaṣ"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "i yimḍebbṛen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T00:10:19.028022021Z",
+  "model": "glm-5.3"
+}

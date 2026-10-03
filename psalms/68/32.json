@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Ad d-asen inabaḍen seg Miṣrayim; Kuš ad izerben ad d-issufeɣ ifassen-is ɣer Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "Ad d-asen"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "inabaḍen"
+    },
+    {
+      "surface": "מני",
+      "gloss": "seg"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "ad izerben"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ifassen-is"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ɣer Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.357051365Z",
+  "model": "glm-5.3"
+}

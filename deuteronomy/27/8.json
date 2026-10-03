@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad taruḍ ɣef ⟨את⟩ yiẓra ⟨את⟩ awalen akk n Tora-agi, s tira igejdanen.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Ad taruḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "yiẓra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen akk n Tora-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "n Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "s tira igejdanen"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "igejdanen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:31.091234667Z",
+  "model": "glm-5.3"
+}

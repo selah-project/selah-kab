@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Deg wussan n Aḥacweroce — d Aḥacweroce-nni, agellid i d-yettḥekmen seg Hodu arma d Kuč, ɣef sebɛa d ɛecrin d temrawin n tmura.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "deg wussan n"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Aḥacweroce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d-nni"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Aḥacweroce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "seg Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuč"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sebɛa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "d ɛecrin"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "d temrawin"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "n tmura"
+    }
+  ],
+  "timestamp": "2026-10-03T03:01:14.575128203Z",
+  "model": "glm-5.3"
+}

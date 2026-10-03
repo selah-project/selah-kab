@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Win yettḥebbisen-tt, yettḥebbes ⟨את⟩ ruaḥ; d zzeyt n ufus-is ayeffus, i d-isawalen.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "Win yettḥebbisen-tt"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "yettḥebbes"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨את⟩ ruaḥ",
+      "marks": "ruaḥ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "d zzeyt"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "n ufus-is ayeffus"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "i d-isawalen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:28:25.570670723Z",
+  "model": "glm-5.3"
+}

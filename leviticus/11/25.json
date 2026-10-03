@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yal win id-yessulin seg txmin-nsen, ad issebses izerman-ines, yerna d aṭumum arma d tmeddit.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Yal win"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "id-yessulin"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "seg txmin-nsen"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ad issebses"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izerman-ines"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "yerna d aṭumum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "d tmeddit"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:37.548315283Z",
+  "model": "glm-5.3"
+}

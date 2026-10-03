@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ma tikkelt-nniḍen teqqimem deg tmurt-agi, ad kenebnu ⟨את⟩ kunwi, ur ksekruẓ ara; ad kenseɣ ⟨את⟩ kunwi, ur ksummuẓ ara; axaṭer twemmem-eɣ ɣef lveṛ i gxedmeɣ i wen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "tikkelt-nniḍen"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "teqqimem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ad kenebnu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "וולא",
+      "gloss": "ur",
+      "variants": [
+        {
+          "orthography": "ולא",
+          "gloss": "ur"
+        }
+      ]
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "ksekruẓ"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ad kenseɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "ksummuẓ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "twemmem-eɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "lveṛ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "i gxedmeɣ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:36:41.281453242Z",
+  "model": "glm-5.3"
+}

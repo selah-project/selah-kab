@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 16:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad zedɣen ɣur-k wid-iw yettwaḥerjen, a Muab; ilid tasedrut i wigi seg udem n win iḥerben. Axaṭer yekfa win iḥeṣṣen, tekkseḍ ttiḥrift, ṛuḥen wid iremṣen seg tmurt.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "Ad zedɣen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "wid-iw yettwaḥerjen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "a Muab"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ilid"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "tasedrut"
+    },
+    {
+      "surface": "למו",
+      "gloss": "i wigi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "n win iḥerben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "yekfa"
+    },
+    {
+      "surface": "המץ",
+      "gloss": "win iḥeṣṣen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tekkseḍ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ttiḥrift"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "iremṣen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:36.045957786Z",
+  "model": "glm-5.3"
+}

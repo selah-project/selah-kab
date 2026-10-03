@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Deg-s kan deffir-is, iḥekm-ed ⟨את⟩ Yisrael ɛebdun mmi-s n Hillel, apirɛatuni.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "iḥekm-ed"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "deg-s kan deffir-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ɛebdun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "apirɛatuni"
+    }
+  ],
+  "timestamp": "2026-10-02T22:29:45.669480805Z",
+  "model": "glm-5.3"
+}

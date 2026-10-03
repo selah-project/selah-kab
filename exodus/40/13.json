@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad telbsed ⟨את⟩ Aharon ⟨את⟩ ilebsen n yiqedcen, ad t-terẓem, ad t-iqedced, ad yekcem d acereḍ ɣur-i.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "ad telbsed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilebsen n yiqedcen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilebsen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ad t-terẓem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ad t-iqedced"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "ad yekcem d acereḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:17.288448786Z",
+  "model": "glm-5.3"
+}

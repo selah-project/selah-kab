@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Akken ⟨את⟩ yiwen n ilel, d ⟨את⟩ sin d mraw n yifksen ddaw ilel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Akken ⟨את⟩",
+      "marks": "yiwen n ilel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "sin d mraw n yifksen"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "yifksen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    }
+  ],
+  "timestamp": "2026-10-03T04:14:52.592651657Z",
+  "model": "glm-5.3"
+}

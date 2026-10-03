@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Itebbaɛ Yahwe, Elohim n Yisrael, seg lebda arma d lebda. Amin, d amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Itebbaɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "seg lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "lebda"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "d amin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:52.083345641Z",
+  "model": "glm-5.3"
+}

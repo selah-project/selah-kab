@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ihi ma tessawaleḍ i tevuna, ma tṣubb-ed taɣamt-ik i tebuna,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ihi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "i tebuna"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tessawaleḍ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "i tevuna"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tṣubb-ed"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "taɣamt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:35.846505706Z",
+  "model": "glm-5.3"
+}

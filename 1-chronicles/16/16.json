@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "iɣeṛ-agi i ⟨את⟩ Avraham, d ttar-i s i Yiṣḥaq,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "iɣeṛ-agi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iɣeṛ ... i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "d ttar-i s"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "s i Yiṣḥaq"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:07.319369580Z",
+  "model": "glm-5.3"
+}

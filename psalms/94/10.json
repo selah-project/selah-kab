@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Win izeggwen iɣlanen, mačči d netta ad iḥeqqem? Win imelnen amdan tussna, mačči d netta ad iẓer?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Win izeggwen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mačči d"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ad iḥeqqem"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Win imelnen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tussna"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:27.400474938Z",
+  "model": "glm-5.3"
+}

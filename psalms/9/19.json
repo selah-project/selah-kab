@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Acku ur yettwattu ara i lebdi walluḥ; tamennit n yimessuṭen ur tettwag ara i lebdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebdi"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "yettwattu"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "walluḥ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "tamennit"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "yimessuṭen"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ur tettwag"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "i lebdi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:42.518138315Z",
+  "model": "glm-5.3"
+}

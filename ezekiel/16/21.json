@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Tmenɣeḍ ⟨את⟩ warraw-ik, tefkiḍ-ten-d, tuɣaled ten-tesɛeddeḍ i nutni.",
+  "tokens": [
+    {
+      "surface": "וֽתִּשְׁחֲטִ֖י",
+      "gloss": "tmenɣeḍ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-ik"
+    },
+    {
+      "surface": "בָּנָ֑י",
+      "gloss": "warraw-ik"
+    },
+    {
+      "surface": "וֽתִּתְּנִ֔ים",
+      "gloss": "tefkiḍ-ten-d"
+    },
+    {
+      "surface": "בְּהַעֲבִ֥יר",
+      "gloss": "tuɣaled ten-tesɛeddeḍ"
+    },
+    {
+      "surface": "אוֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "nutni"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "i nutni"
+    }
+  ],
+  "timestamp": "2026-10-03T00:48:52.472167925Z",
+  "model": "glm-5.3"
+}

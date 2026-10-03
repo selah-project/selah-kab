@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "translation": "I win yettmemnaḍ, ɣef lgitit, i Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettmemnaḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "lgitit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asaf"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:37.524367034Z",
+  "model": "glm-5.3"
+}

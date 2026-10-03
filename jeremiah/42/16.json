@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 42:16",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "ad yili lxanṣer i ttaggaden seg-s, ad tewweḍ dinna ⟨את⟩-kunwen deg tmurt n Miṣrayim, d lɣala i tettḍefremen seg-s, ad yeddeq dinna deffir-nwen deg Miṣrayim, dinna ad temmuten.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "lxanṣer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ttaggaden"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ad tewweḍ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kunwen",
+      "marks": "kunwi deg tmurt n Miṣrayim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "d lɣala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "דאגים",
+      "gloss": "tettḍefremen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "ad yeddeq"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "deffir-nwen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "ad temmuten"
+    }
+  ],
+  "timestamp": "2026-10-03T00:35:54.209825168Z",
+  "model": "glm-5.3"
+}

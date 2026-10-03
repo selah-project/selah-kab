@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 134,
+  "translation": "Slulyet ifassen-nwen ⟨i⟩ taqedcit, berrḥet ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Slulyet"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ifassen-nwen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "taqedcit"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "berrḥet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:35.137499613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Init i Elohim: acemma tẓaẓ iḥeddan-inek! Deg tezmert-inek tameqqrant, iɛdawen-inek ad k-nnen s lexder.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "init"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acemma"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tẓaẓ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "iḥeddan-inek"
+    },
+    {
+      "surface": "ברוב",
+      "gloss": "deg tezmert-inek tameqqrant"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tezmert-inek"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ad k-nnen s lexder"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "iɛdawen-inek"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:33.283999711Z",
+  "model": "glm-5.3"
+}

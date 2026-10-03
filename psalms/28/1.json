@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Seg David. Ɣer kečč, Yahwe, ad walliɣ; ṣur-iw, ur tqummɛet ara fell-i, ma tqummɛet fell-i, ad nxebbes am wid ippadin ɣer lxala.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Seg David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad walliɣ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ṣur-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tqummɛet ara"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "tqummɛet"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ad nxebbes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "am"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "wid ippadin"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ɣer lxala"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:33.045512427Z",
+  "model": "glm-5.3"
+}

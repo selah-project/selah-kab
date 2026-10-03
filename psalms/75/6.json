@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Ur ssaliyet ara ⟨iɣeṛḍ-nwen⟩ ɣer sufella; ur tmeslayet ara s yiɣer aẓeyyen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ssaliyet"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ɣer sufella"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "iɣeṛḍ-nwen"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "tmeslayet"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "s yiɣer"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "aẓeyyen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:19.578889948Z",
+  "model": "glm-5.3"
+}

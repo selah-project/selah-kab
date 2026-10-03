@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ad tettwaḥeṛḍem ⟨את⟩ acrur n teẓẓa-nwen, ad yili d tezmul n lɛahd gar-i d garawen.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "ad tettwaḥeṛḍem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "acrur"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "acrur"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "n teẓẓa-nwen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "d tezmul"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "n lɛahd"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gar-i"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "d garawen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:57.546833753Z",
+  "model": "glm-5.3"
+}

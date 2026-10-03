@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad teqqneḍ talast i ⟨את⟩ medden di twennaḍt, ad tinniḍ: ḥader iman-nwen ur tettalyem ara ɣef wedrar, ur tawḍem ara ɣer yixef-is; win yewḍen ɣef wedrar, lmut ad yemmet.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Ad teqqneḍ talast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "medden"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di twennaḍt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad tinniḍ"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "ḥader"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iman-nwen"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ur tettalyem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ɣef wedrar"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ur tawḍem"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "ɣer yixef-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "win"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yewḍen"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ɣef wedrar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:45.021553861Z",
+  "model": "glm-5.3"
+}

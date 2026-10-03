@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yerna Yirmeyahu yenna i ⟨את⟩ Baruḥ: nekki ḥebsen, ur zmireɣ ara ad d-kecmeɣ ɣer wexxam n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "yenna i"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruḥ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruḥ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ḥebsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zmireɣ ara"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ad d-kecmeɣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:31:48.530597925Z",
+  "model": "glm-5.3"
+}

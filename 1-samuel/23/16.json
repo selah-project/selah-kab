@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yekker Yehonatan, mmi-s n Šaʾul, yunag ɣer David ⟨deg⟩ tajna, yenneɛmeẓ ⟨את⟩ afus-is deg Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yekker"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaʾul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yunag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "⟨deg⟩ tajna"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yenneɛmeẓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "deg Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:03.948358195Z",
+  "model": "glm-5.3"
+}

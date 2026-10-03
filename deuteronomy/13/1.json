@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "⟨את⟩ awal-agi akk i kkwen-laqdec nekk, ⟨את⟩ t-tḥerzmem ad t-tgeḍem; ur t-ternem ara ɣef-s, ur t-teggruḍem ara deg-s.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "laqdec"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yid-wen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "awal"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "t-tḥerzmem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad t-tgeḍem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ternem"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "teggruḍem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T21:56:56.658647272Z",
+  "model": "glm-5.3"
+}

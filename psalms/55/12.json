@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Tiriẓi deg wexas-is; teqciɛt d ucengi ur zeggiren ara seg tezdemt-is.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "tiriẓi"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "deg wexas-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "zeggiren"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "seg tezdemt-is"
+    },
+    {
+      "surface": "תך",
+      "gloss": "teqciɛt"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "d ucengi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:42.061241205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna: ⟨את⟩ taɣect-ik slanɣ-i deg uginu, uɣli ɣɣeẓ, axaṭer d agilru nekk, u ḥeddeɣ iman-iw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect-ik"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "taɣect-ik"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "slanɣ-i"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "deg uginu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "uɣli ɣɣeẓ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "agilru"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "u ḥeddeɣ iman-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:29.930307854Z",
+  "model": "glm-5.3"
+}

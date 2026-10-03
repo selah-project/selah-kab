@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "I wunnaf. Ur ruzen ara. Tazewlayt n David, Miktam, mi yenreḥ seg udem n Cawl, deg tzeffurt.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "I wunnaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ruzen ara"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "mi yenreḥ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem n"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "deg tzeffurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:06.806289580Z",
+  "model": "glm-5.3"
+}

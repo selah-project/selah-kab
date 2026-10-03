@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 10:26",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yahwe Ṣebaot ad d-yessekren tayessint ɣef-s, am ṭṭerya n Midyan ɣef ṣṣṛ n Ɛureb; taɣawsa-nnes ɣef yillel, ad-t-id-yessuli s lɛadda n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ועורר",
+      "gloss": "ad d-yessekren"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "tayessint"
+    },
+    {
+      "surface": "כמכת",
+      "gloss": "am ṭṭerya n"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ɣef ṣṣṛ n"
+    },
+    {
+      "surface": "עורב",
+      "gloss": "Ɛureb"
+    },
+    {
+      "surface": "ומטהו",
+      "gloss": "taɣawsa-nnes"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ad-t-id-yessuli"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "s lɛadda n"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:13.875380588Z",
+  "model": "glm-5.3"
+}

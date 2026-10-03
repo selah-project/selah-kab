@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 36:5",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "D mraw d sin ɛecrin n yiseggasen Yehoyaqim mi yebda tagelda-s, d yiwen d mraw n yiseggasen i yeḥkmen deg Yerucalayim; yexdem dirit deg ɛiyen Yahwe Elohim-is.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "d sin ɛecrin"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "d semmus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqim"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "mi yebda tagelda-s"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "d yiwen d mraw"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "i yeḥkmen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg ɛiyen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:56:19.867478313Z",
+  "model": "glm-5.3"
+}

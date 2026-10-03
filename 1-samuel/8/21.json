@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Imuel isla ⟨את⟩ akk awalen n ugdud, yenna-ten deg yimeẓẓuɣen n Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "isla"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Imuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen n ugdud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "yenna-ten"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "deg yimeẓẓuɣen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:17.038372052Z",
+  "model": "glm-5.3"
+}

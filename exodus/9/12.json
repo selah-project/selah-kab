@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yahwe yesselḥen ⟨את⟩ ul n Ferɛun, ur yezzi ara ɣur-sen, akken i d-yenna Yahwe i Moce.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yesselḥen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yezzi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:59.780829429Z",
+  "model": "glm-5.3"
+}

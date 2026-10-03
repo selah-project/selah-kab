@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Akked ⟨את⟩ Ḥuqoq akked ⟨את⟩ uzgaren-is, ⟨את⟩ Reḥob akked ⟨את⟩ uzgaren-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Ḥuqoq"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Ḥuqoq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "uzgaren-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uzgaren-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Reḥob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Reḥob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "uzgaren-is"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uzgaren-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:19.819843938Z",
+  "model": "glm-5.3"
+}

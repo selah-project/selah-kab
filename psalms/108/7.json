@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Iwakken ad ffɣen iḥemmlen-ik: sellk s ufus-ik ayfus, err-iyi-d.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Iwakken"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ad ffɣen"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "iḥemmlen-ik"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "sellk"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "s ufus-ik ayfus"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "err-iyi-d"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:15.984415333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad zegneɣ ⟨את⟩-kwen si zdat n udem-iw, akken i zegneɣ ⟨את⟩ akk watmaten-nwen, ⟨את⟩ akk tarwa n Efrayim.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "ad zegneɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "-kwen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "si"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "zegneɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk watmaten-nwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "watmaten-nwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tarwa n Efrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T00:14:50.550778751Z",
+  "model": "glm-5.3"
+}

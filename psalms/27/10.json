@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Acku baba-inu d yemma-inu ǧǧan-iyi, acu Yahwe ad iyi-yelqem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba-inu"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "d yemma-inu"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ǧǧan-iyi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "ad iyi-yelqem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:53.239429736Z",
+  "model": "glm-5.3"
+}

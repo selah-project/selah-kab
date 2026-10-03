@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yess-ad El ad yexṣeṛ ⟨di⟩ ccreɛ? Neɣ Caddai ad yexṣeṛ ⟨di⟩ ṣedeq?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Yess-ad El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ad yexṣeṛ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Neɣ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Caddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ad yexṣeṛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:33:05.230344911Z",
+  "model": "glm-5.3"
+}

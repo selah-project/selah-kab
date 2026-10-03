@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad kkeṣ, ad kkeṣ akk seg ⟨the⟩ udem n wakal, i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ad kkeṣ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ad kkeṣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "n wakal"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:16.518552077Z",
+  "model": "glm-5.3"
+}

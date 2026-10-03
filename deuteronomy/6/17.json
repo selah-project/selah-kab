@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Iḥder, ad theṛrem ⟨את⟩ tseddarin n Yahwe Elohim-nwen, d timartiyin-is d yilugan-is, i k-yeḥkm-ed.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "iḥder"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ad theṛrem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tseddarin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tseddarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "d timartiyin-is"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "d yilugan-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "k-yeḥkm-ed"
+    }
+  ],
+  "timestamp": "2026-10-02T21:50:21.154642657Z",
+  "model": "glm-5.3"
+}

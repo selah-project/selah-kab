@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ur ttawiɣ ara seg uxxam-ik izger, seg tegniwin-ik izelldaḥen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ur ttawiɣ ara"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "seg uxxam-ik"
+    },
+    {
+      "surface": "פר",
+      "gloss": "izger"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "seg tegniwin-ik"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "zelldaḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:56.757070974Z",
+  "model": "glm-5.3"
+}

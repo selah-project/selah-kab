@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna-uneggar agellid: Gzret ⟨את⟩ meḥṛṛub amezwar deg sin, efket iḥes i yiwet, ⟨את⟩ wayeḍ iḥes i tayeḍ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "uneggar agellid"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "gzret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meḥṛṛub"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "meḥṛṛub"
+    },
+    {
+      "surface": "החי",
+      "gloss": "amezwar"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "deg sin"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "efket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥes"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "iḥes"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "i yiwet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iḥes"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "iḥes"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "i tayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:57.704004822Z",
+  "model": "glm-5.3"
+}

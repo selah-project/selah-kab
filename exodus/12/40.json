@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Tikwal n teddunt n weldi n Yisrael, mi zedɣen deg Miṣrayim, d ṛbeɛ-tamiyin (30) n yiseggasen d 400 n yiseggasen.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "tikwal n teddunt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n weldi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ṛbeɛ-tamiyin (30)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "d 400"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:59.155840822Z",
+  "model": "glm-5.3"
+}

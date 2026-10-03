@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Mači d wawal-agi i nessawal-d ɣur-k di Miṣrayim: eǧǧ-aɣ, ad nqeddec ⟨את⟩ Imiṣrayim, axaṭer igerrez i neɣ a nqeddec ⟨את⟩ Imiṣrayim waggur ad nemmut deg tiniri?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mači"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "nessawal-d"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Miṣrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nessawal"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "eǧǧ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "-aɣ"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "ad nqeddec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Imiṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Imiṣrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "igerrez"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "a nqeddec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Imiṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Imiṣrayim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "waggur ad nemmut"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg tiniri"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:36.763507495Z",
+  "model": "glm-5.3"
+}

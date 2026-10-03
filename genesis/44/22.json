@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Nenna i sidi-nneɣ: Ameẓyan ur izmir ara ad ibeqqel baba-s; ma yebbaɛ baba-s, baba-s ad yemmet.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Nenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi-nneɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "izmir ara"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Ameẓyan"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ad ibeqqel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ma yebbaɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:17.991008185Z",
+  "model": "glm-5.3"
+}

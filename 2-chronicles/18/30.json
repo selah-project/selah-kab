@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Agellid n Aram isawaḍ ⟨את⟩ i yiselmaden n yiṛurcen i yellan ɣur-s, ad yini: ur nnecdem ara ⟨את⟩ ameẓyan, ⟨את⟩ ameqran, ala kan ⟨את⟩ ugellid n Yisrael Yiwen.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Agellid"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "n Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "isawaḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiselmaden"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "i yiselmaden"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "n yiṛurcen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "nnecdem ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ameẓyan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ameqran"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ameqran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ala kan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "Yiwen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:50:57.479125920Z",
+  "model": "glm-5.3"
+}

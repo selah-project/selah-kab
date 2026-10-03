@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yerred agellid, yenna: Efket-as ⟨את⟩ meḥṛṛub amezwar, ur t-ɛiḍen ara — d nettat i d yemma-s.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yerred"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "efket-as"
+    },
+    {
+      "surface": "לה",
+      "gloss": "as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meḥṛṛub"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "meḥṛṛub"
+    },
+    {
+      "surface": "החי",
+      "gloss": "amezwar"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ɛiḍen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "t-ɛiḍen ara"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:57.704558849Z",
+  "model": "glm-5.3"
+}

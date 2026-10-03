@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Elohim deg tlemmast-is, ur tettmeyyez ara ⟨deg⟩ ⟨acemma⟩; Ad tt-iɛawn Elohim mi d-yal azal.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "deg tlemmast-is"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tettmeyyez"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "Ad tt-iɛawn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "mi d-yal"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "azal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:29.909770026Z",
+  "model": "glm-5.3"
+}

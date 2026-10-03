@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Iεeddel Yehocua ⟨את⟩ snat n temεin ⟨את⟩ ijeḍṛan-agi i yewwin seg Yarden, di Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "snat n temεin ijeḍṛan-agi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "snat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "n temεin"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ijeḍṛan-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "yewwin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "iεeddel"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    }
+  ],
+  "timestamp": "2026-10-02T22:10:15.225405647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Twezned ⟨את⟩ Aharon d ⟨את⟩ warraw-is, ad ḥerṣen ⟨את⟩ takahnawt-nsen; win n berra i d-yettqebbelen ad yemmet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "תפקod",
+      "gloss": "twezned"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ad ḥerṣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takahnawt-nsen"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "takahnawt-nsen"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "win n berra"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "i d-yettqebbelen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:19.377330453Z",
+  "model": "glm-5.3"
+}

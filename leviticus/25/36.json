@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ur tḍuṛṛeḍ sseg ⟨את⟩-s takkayt neɣ nnernit, ad tgelleḍ i Elohim-ik, ⟨akken⟩ ad yidir gma-k ɣur-k.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tḍuṛṛeḍ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ sseg-s",
+      "marks": "takkayt neɣ nnernit"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "takkayt"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "neɣ nnernit"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ad tgelleḍ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "i Elohim-ik"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ɣur-k"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:56.747386914Z",
+  "model": "glm-5.3"
+}

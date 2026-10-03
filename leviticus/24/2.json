@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Sseɣredd ⟨את⟩ at Yisrael, ad d-awin ɣur-ek zeṭṭ n tezmunt, izerfan, ittwakten, i tafat, iwakken ad yali ṣṣbeḥ deg usafar, i lebda.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Sseɣredd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "at Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ad d-awin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-ek"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zeṭṭ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "n tezmunt"
+    },
+    {
+      "surface": "זך",
+      "gloss": "izerfan"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ittwakten"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "i tafat"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "iwakken ad yali"
+    },
+    {
+      "surface": "נר",
+      "gloss": "asafar"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-02T21:18:59.779928790Z",
+  "model": "glm-5.3"
+}

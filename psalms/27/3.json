@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ma yebna-d userdas ɣuri, ul-iw ur iktin; ma yekker-d imenγi ɣuri zdat, deg waya nek ḥemmel.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "yebna-d"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣuri"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "userdas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "iktin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "yekker-d"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣuri"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "imenγi"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "deg waya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nek"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ḥemmel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:44.413905902Z",
+  "model": "glm-5.3"
+}

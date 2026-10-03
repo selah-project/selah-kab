@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Agellid yeffer ⟨את⟩ udmaw-is, agellid yezẓer ijeddam ameqqran: a mmi Avcalom, a Avcalom, mmi, mmi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "yeffer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmaw-is"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udmaw-is"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "yezẓer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ijeddam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mmi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:07:10.145949881Z",
+  "model": "glm-5.3"
+}

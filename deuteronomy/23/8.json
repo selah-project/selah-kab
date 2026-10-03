@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur tettḥeqdeḍ ara aedumi, axaṭer d gma-k neppa; ur tettḥeqdeḍ ara amiṣri, axaṭer telliḍ d amezray deg tmurt-is.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "tettḥeqdeḍ ara"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "aedumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neppa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "tettḥeqdeḍ ara"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "amiṣri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גר",
+      "gloss": "d amezray"
+    },
+    {
+      "surface": "היית",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "deg tmurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:50.970752387Z",
+  "model": "glm-5.3"
+}

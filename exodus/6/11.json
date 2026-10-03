@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Kcem, mmeslay ɣer Ferɛun, agellid n Miṣrayim, iwakken ad yessuffeɣ ⟨את⟩ warraw n Yisrael seg tmurt-is.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Kcem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mmeslay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ad yessuffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warraw n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "seg tmurt-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:25.843275344Z",
+  "model": "glm-5.3"
+}

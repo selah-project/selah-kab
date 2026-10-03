@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Adonai yeqqim am win ittuɣen, am wuḥid n tezmert i d-yettzeggin seg lvin.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "am win ittuɣen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "am wuḥid n tezmert"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "i d-yettzeggin"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "seg lvin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:07.680426230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Axaṭer kečč d aẓru-iw d taẓult-iw; s yisem-ik tessihneḍ iy-i, tessiwḍen iy-i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "aẓru-iw"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "d taẓult-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "s yisem-ik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tessihneḍ iy-i"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "tessiwḍen iy-i"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:44.401826592Z",
+  "model": "glm-5.3"
+}

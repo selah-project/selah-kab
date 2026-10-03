@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad sseɣlayeɣ tagertit gar weddi-iw d wegdi-k; azekka ad yili ⟨האת⟩ uzmul-agi.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ad sseɣlayeɣ"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "tagertit"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "weddi-iw"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wegdi-k"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "azekka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "האת",
+      "gloss": "uzmul"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:36.361157990Z",
+  "model": "glm-5.3"
+}

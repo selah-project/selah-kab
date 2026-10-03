@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "D ⟨את⟩ warraw-is ad ten-terrbeḍ, ad ten-tilbseḍ kutunet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ad ten-terrbeḍ"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "ad ten-tilbseḍ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kutunet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:54.044818085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad as-d-yefk Yahwe Elohim inek deg ufus-inek, ad teneḥbes ⟨את⟩ akk wid yufan deg-s, s ṣṣef n teɣsi.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "ad as-d-yefk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim inek"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-inek"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ad teneḥbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wid yufan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "wid yufan deg-s"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s ṣṣef"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n teɣsi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:59:01.050827675Z",
+  "model": "glm-5.3"
+}

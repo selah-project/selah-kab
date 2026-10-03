@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yenna-d Yahwe: axaṭer ḥeǧǧan ⟨את⟩ Tora-yiw i tt-id-xfedγ ɣer zdat-nsen, ur ṭṭfen ara i ṣṣut-iw, ur d-zrin ara yides.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "ḥeǧǧan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora-yiw"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-yiw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tt-id-xfedγ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ɣer zdat-nsen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "i ṣṣut-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "d-zrin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yides"
+    }
+  ],
+  "timestamp": "2026-10-03T00:16:54.066966462Z",
+  "model": "glm-5.3"
+}

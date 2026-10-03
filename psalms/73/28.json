@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Maḥdi nekkini, aqerb ɣer Elohim d lxir-iw; sbeddeɣ deg Adonai Yahwe ccgenɛa-iw, iwakken ad mleɣ akk lxiḍma-ik.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maḥdi nekkini"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "aqerb"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i-iw"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "sbeddeɣ"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "deg Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ccgenɛa-iw"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "iwakken ad mleɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "lxiḍma-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:40.572403103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Semmed Aharon ⟨את⟩ afus-is ɣef yiman n Miṣrayim, d-yuli uṣefredɛ, iḥecc ⟨את⟩ akal n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Semmed"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "yiman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "d-yuli"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "uṣefredɛ"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "iḥecc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "akal"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:08.857397505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Argaz, bab n tmurt-agi, d-yemmeslay-ed ɣur-nneɣ s wawalen iweɛɛen, yeɣza-d ⟨את⟩-aneɣ d imraglel ɣef ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "d-yemmeslay-ed"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt-agi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-aneɣ ɣur-nneɣ"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "s wawalen iweɛɛen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yeɣza-d"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "aneɣ d imraglel"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "d imraglel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:00.621682653Z",
+  "model": "glm-5.3"
+}

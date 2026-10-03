@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna Moce ɣer Elohim: Anwa nekk, i ad r-uɣeɣ ɣer Parɛo, i ad ssuffɣeɣ ⟨את⟩ arrac n Yisrael seg Miṣrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ad r-uɣeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parɛo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ad ssuffɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arrac n Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:54.351409198Z",
+  "model": "glm-5.3"
+}

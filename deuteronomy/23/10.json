@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Mi ara d-yeffeɣ uɛessas ɣef iḍemmaṛen-ik, ad teḥrez iman-ik seg yal awal n dirit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "d-yeffeɣ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "uɛessas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iḍemmaṛen-ik"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ad teḥrez iman-ik"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg yal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "רע",
+      "gloss": "n dirit"
+    }
+  ],
+  "timestamp": "2026-10-02T22:01:14.807315212Z",
+  "model": "glm-5.3"
+}

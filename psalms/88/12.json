@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "D γas deg yisem-nni i d-tettwammal ḥesed-ik? Ihi d tamennti-ink i d-tettwammal deg Uxeddaɛ?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "i d-tettwammal"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "deg yisem-nni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tamenni-ink"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "deg Uxeddaɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:23.307044041Z",
+  "model": "glm-5.3"
+}

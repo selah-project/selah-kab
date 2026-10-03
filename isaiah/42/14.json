@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ḥeddeɣ deg zik, ad ḥeddeɣ, ad ḥesseb iman-iw; tura am twetrect ad sceẓɣeɣ, ad sneqsiḍ, ad snesmuɣ — akk deg yiwet.",
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "ḥeddeɣ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "deg zik"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "ad ḥeddeɣ"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "ad ḥesseb iman-iw"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "am twetrect"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "ad sceẓɣeɣ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ad sneqsiḍ"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "ad snesmuɣ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "akk deg yiwet"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:07.854376753Z",
+  "model": "glm-5.3"
+}

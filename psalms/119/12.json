@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Itebrik Yahwe; selsuma-d ⟨את⟩ leḥkum-ik.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Itebrik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "selsuma-d"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "leḥkum-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:00.438671656Z",
+  "model": "glm-5.3"
+}

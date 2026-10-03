@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Moce yufa ⟨את⟩ ugdud yerna t-id-yufa d afessas, acku Aharon i t-iḥelli seg ttḍallin, iwakken ad yili d tawkla gar wid t-ikerhen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "afessas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "i t-iḥelli seg ttḍallin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "d tawkla"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "gar wid t-ikerhen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:09.933178650Z",
+  "model": "glm-5.3"
+}

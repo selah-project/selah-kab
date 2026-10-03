@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Acku elf n yiseggwassen deg wallen-nnek ⟨d⟩ am yiḍelli, mi yezri, am ⟨tikkelt⟩ n ussenfu deg yiḍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elf"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iseggwassen"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "deg wallen-nnek"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "am"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "yiḍelli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "yezri"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "am tikkelt n ussenfu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "deg yiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:49.429081261Z",
+  "model": "glm-5.3"
+}

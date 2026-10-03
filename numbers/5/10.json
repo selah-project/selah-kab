@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yal argaz, ⟨את⟩ iqedcen-is ad ilin d iyes; ayen ara yefk argaz i wacohen, ad yili d iyes.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Yal argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen-is"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "d iyes"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ara yefk"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "i wacohen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "d iyes"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    }
+  ],
+  "timestamp": "2026-10-02T21:24:08.005163703Z",
+  "model": "glm-5.3"
+}

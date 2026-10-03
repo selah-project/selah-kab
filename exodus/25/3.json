@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Teruma-agi ay yessefk ad tḍefrem ⟨את⟩ segsen: ṛṛumaḍ (deheb), ifessen (feṣṣaḍ) d nnḥas.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay yessefk"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ad tḍefrem"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ segsen",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ṛṛumaḍ (deheb)"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ifessen (feṣṣaḍ)"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "nnḥas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:12.858379349Z",
+  "model": "glm-5.3"
+}

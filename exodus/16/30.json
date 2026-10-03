@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Weḥbes wegdud deg wass wis sa.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "Weḥbes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis sa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:00.588394760Z",
+  "model": "glm-5.3"
+}

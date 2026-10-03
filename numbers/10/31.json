@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yenna: Ma ulac a γur-k, ur aɣ-ttεazab ara, axaṭer tessneḍ tazdin-nneɣ deg taneẓruft, ihi ad tiliḍ d allen-nneɣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac a γur-k"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ttεazab"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-aneɣ",
+      "marks": "aneɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "על",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akk akka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tessneḍ"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "tazdin-nneɣ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg taneẓruft"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i nekkni"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "d allen-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:30:02.937044455Z",
+  "model": "glm-5.3"
+}

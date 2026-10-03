@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "translation": "Salm n David. Ḥesed d ccreɛ ad cceḥleɣ, ɣur-k, a Yahwe, ad zzimreɣ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Salm"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Ḥesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "d ccreɛ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ad cceḥleɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ad zzimreɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:41.519327110Z",
+  "model": "glm-5.3"
+}

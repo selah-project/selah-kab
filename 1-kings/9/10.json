@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yella-d, deg taggara n εecrin n yiseggasen, mi yebna Culeman ⟨את⟩ sin yixxamen: ⟨את⟩ axxam n Yahwe, akk d ⟨את⟩ axxam n ugellid.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "deg taggara n"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "εecrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Culeman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin yixxamen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "yixxamen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "axxam n ugellid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam n"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-03T04:14:45.438670539Z",
+  "model": "glm-5.3"
+}

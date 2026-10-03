@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad ilin i kečč-in kan, ur ilin ara i yizennagen ⟨את⟩-ik.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč-in"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ur ilin ara"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "i yizennagen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-ik",
+      "marks": "yizennagen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:14.076477699Z",
+  "model": "glm-5.3"
+}

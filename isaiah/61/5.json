@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 61,
+  "translation": "Ibeṛṛaniyen ad beddlen, ad ḥersen iḥersi-nwen; arraw n yibeṛṛaniyen ad ilin d ikabaren-nwen, d wid yessedren tizemrin-nwen.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "ad beddlen"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ibeṛṛaniyen"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ad ḥersen"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "iḥersi-nwen"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "arraw n"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "yibeṛṛaniyen"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "ikabaren-nwen"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "wid yessedren tizemrin-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:09:27.935135499Z",
+  "model": "glm-5.3"
+}

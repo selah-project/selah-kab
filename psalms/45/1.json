@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "I umsental, ɣef tizerzafin, i warraw n Qoraḥ; amaṣkilit; takennit n tayri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i umsental"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "tizerzafin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "amaṣkilit"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "takennit"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "n tayri"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:45.751547498Z",
+  "model": "glm-5.3"
+}

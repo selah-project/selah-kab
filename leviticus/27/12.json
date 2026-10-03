@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad s-iḥasab ucebbab ⟨את⟩ azal-is, ger win yelhan d win n dir; akken i s-tḥasbeḍ kecc, a ucebbab, akken ad yili.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "ad s-iḥasab"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ucebbab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azal-is (lbeḥma)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ger"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "win yelhan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "רע",
+      "gloss": "win n dir"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "akken i s-tḥasbeḍ kecc"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a ucebbab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:42.555838088Z",
+  "model": "glm-5.3"
+}

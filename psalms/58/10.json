@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Uqbel ad ẓren tikcawin-nwen ⟨i⟩ tigirt, ad ten-id-yewweḍ waṭad, amzun d uḥeqqan d ameqqran, ad ten-yerr deg ttut, deg walluy n tmara-s.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "uqbel ad"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ẓren"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "tikcawin-nwen"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "waṭad"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "amzun d"
+    },
+    {
+      "surface": "חי",
+      "gloss": "uḥeqqan d ameqqran"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "amzun deg"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "walluy n tmara"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "ad ten-yerr deg ttut"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:54.474971523Z",
+  "model": "glm-5.3"
+}

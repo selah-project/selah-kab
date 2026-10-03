@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Tura, a Yahwe Elohim-nneɣ, selles-aneɣ seg ufus-is, iwakken ad ẓren timenkumin akk n tmurt mas kecc, kecc kan, d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "selles-aneɣ"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "seg ufus-is"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ad ẓren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "timenkumin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "d Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kecc kan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:36.089492134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ar melmi a rriɣ tixutal deg nefs-iw, tiẓweǧt deg ul-iw ass atuṛ? Ar melmi ad yuli aḍlan-iw ɣef yi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "a rriɣ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "tixutal"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "deg nefs-iw"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "tiẓweǧt"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "deg ul-iw"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ass atuṛ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "aḍlan-iw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:14.626642111Z",
+  "model": "glm-5.3"
+}

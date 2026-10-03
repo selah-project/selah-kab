@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yekfa Elohim ad yemsal ⟨את⟩-s, yuli-d seg umgal n Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "yekfa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ad yemsal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-s",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg umgal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-10-02T20:15:51.520319912Z",
+  "model": "glm-5.3"
+}

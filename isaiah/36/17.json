@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "alama ad d-aseɣ ad kwiɣ ⟨את⟩ kunwi ɣer tmurt am tmurt-nwen, tamurt n yirden d tiṛuṣt, tamurt n uɣrum d teẓallagin.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "alama"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ad d-aseɣ"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ad kwiɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunwi",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "am tmurt-nwen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "yirden"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "d tiṛuṣt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "uɣrum"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "d teẓallagin"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:31.003744735Z",
+  "model": "glm-5.3"
+}

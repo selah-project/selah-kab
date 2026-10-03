@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Acu n rbeḥ i yella i wemdan, deg wayen akk i yeḥemmel, deg wayen yeḥemmlen ddaw yiṭij?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "rbeḥ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg wayen akk"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "i yeḥemmel"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "yeḥemmlen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:02.826045839Z",
+  "model": "glm-5.3"
+}

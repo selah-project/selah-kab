@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Iɣsan-iw meṛṛa ad d-inin: Yahwe, anwa i k-icban, ⟨anwa⟩ win yesellken iḍebsi seg ufatan deg-s, iḍebsi d umeḥbuṛ, seg win it-iṭṭfen?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "iɣsan-iw"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ad d-inin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "i k-icban"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "win yesellken"
+    },
+    {
+      "surface": "עני",
+      "gloss": "iḍebsi"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "afatan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "iḍebsi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "umeḥbuṛ"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "seg win it-iṭṭfen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:07.340732148Z",
+  "model": "glm-5.3"
+}

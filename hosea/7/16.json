@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Rnu-d, maca ur rnu-d ara ɣer win akk yugaren; kkan d tamsettert ur nettwaḥrem ara; ad ḍgren s tselsi iẓekwan-nnsen, seg zzhar n yilsan-nnsen; tagi d tin i ten-iḍerrun akken wagi di tmurt n Yiṣeḥaq.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Rnu-d"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer win akk yugaren"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kkan"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "d tamsettert"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ur nettwaḥrem ara"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ad ḍgren"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "s tselsi"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "iẓekwan-nnsen"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "seg zzhar"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "n yilsan-nnsen"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "d tin i ten-iḍerrun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Yiṣeḥaq"
+    }
+  ],
+  "timestamp": "2026-10-03T01:17:21.978063149Z",
+  "model": "glm-5.3"
+}

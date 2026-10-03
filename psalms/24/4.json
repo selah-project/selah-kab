@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Win icesḥen ifessen-is, win izerben ul; win ur yuli ara s nnefs-is i wayen illed, win ur igzi ara s tkerḍa.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "icesḥen"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ifessen"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "d win izerben"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yuli s"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "i wayen illed"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "igzu"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "s tkerḍa"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:23.755098146Z",
+  "model": "glm-5.3"
+}

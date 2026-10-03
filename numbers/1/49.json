@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Acḥer, ⟨את⟩ taɛqbilt n Levi ur tt-tḥesbeḍ, d ⟨את⟩ umḍan-nsen ur t-teṭṭef gar yiderfan n Yisrael.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "acḥer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɛqbilt n Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "taɛqbilt"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tḥesbeḍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umḍan-nsen"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "umḍan-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "teṭṭef"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yiderfan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:44.489251461Z",
+  "model": "glm-5.3"
+}

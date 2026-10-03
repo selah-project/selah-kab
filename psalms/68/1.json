@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "I win yettḍefren i David: mizmor, ccaɛla.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettḍefren"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ccaɛla"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:06.736744482Z",
+  "model": "glm-5.3"
+}

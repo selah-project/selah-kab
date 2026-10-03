@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Amzun d izem yessaram ad iṭṭef ṭ-ṭṭaf-ines, amzun d arayan yettzdeɣ deg yimukan iffren.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "amzun"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "amzun d izem"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "yessaram"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "ad iṭṭef ṭ-ṭṭaf-ines"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "amzun d arayan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yetttzdeɣ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "deg yimukan iffren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:39.295217219Z",
+  "model": "glm-5.3"
+}

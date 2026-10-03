@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "D ⟨את⟩ meẓbeḥ n ddexxan, d ⟨את⟩ yiɣbaben-is, d ⟨את⟩ zzenẓar n uḥewwel, d ⟨את⟩ ddexxan n yisukan, d ⟨את⟩ aqeṭṭun n tebburt, i tebburt n Mickan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "meẓbeḥ n ddexxan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meẓbeḥ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "n ddexxan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yiɣbaben-is"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "yiɣbaben-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "zzenẓar n uḥewwel"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzenẓar"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n uḥewwel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ddexxan n yisukan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ddexxan"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "n yisukan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aqeṭṭun n tebburt"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "aqeṭṭun"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "n tebburt"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "i tebburt"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "n Mickan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:37.468170102Z",
+  "model": "glm-5.3"
+}

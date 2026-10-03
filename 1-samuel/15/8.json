@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yeṭṭef ⟨את⟩ Agag, agellid n Ɛamaleq, d aḥeyli, ma d ⟨את⟩ ugdud meṛṛa yerr-t iḥerm s imi n teɣrit.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "n Ɛamaleq"
+    },
+    {
+      "surface": "חי",
+      "gloss": "d aḥeyli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud meṛṛa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "yerr-t iḥerm"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s imi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n teɣrit"
+    }
+  ],
+  "timestamp": "2026-10-02T22:43:36.541002040Z",
+  "model": "glm-5.3"
+}

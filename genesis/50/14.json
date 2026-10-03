@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Yusseḍ Yosef ɣer Miṣrayim, netta d watmaten-is, akk wid id-yusan ⟨את⟩ yid-s ad seffen ⟨את⟩ baba-s, deffir ma yufa ⟨את⟩ baba-s.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Yusseḍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ɣer Miṣrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "d watmaten-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "wid id-yusan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ad seffen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir ma"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "yufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:19.462703324Z",
+  "model": "glm-5.3"
+}

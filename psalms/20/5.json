@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad ak-d-yefk ⟨ik⟩ akken illa deg ul-ik, yerna ad yekmel akk tabɣit-ik.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ad ak-d-yefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "akken illa deg ul-ik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "tabɣit-ik"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ad yekmel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:00.679421791Z",
+  "model": "glm-5.3"
+}

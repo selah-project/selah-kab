@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ad isawel igenwan seg ufella, d tmurt, iwakken ad iḥekem ⟨את⟩ iɣlan-is.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Ad isawel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ad iḥekem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iɣlan-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:53.689571655Z",
+  "model": "glm-5.3"
+}

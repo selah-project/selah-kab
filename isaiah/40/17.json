@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Akkw leǧnuc ⟨⟨am⟩⟩ ulac ṭṭaf ar zdat-iS; seg ulac d tilemt ḥeṣbent-as.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akkw"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leǧnuc"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "am ulac"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ar zdat-iS"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "seg ulac"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "d tilemt"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ḥeṣbent"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:07.436354301Z",
+  "model": "glm-5.3"
+}

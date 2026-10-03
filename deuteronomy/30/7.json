@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Yahwe Elohim-ik ad d-yerr ⟨את⟩ ticcḍin-agi akk ɣef iɛdawen-ik d ɣef wid t-ikerhen, i k-iḍefren.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ad d-yerr"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ticcḍin-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "ticcḍin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "iɛdawen-ik"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wid t-ikerhen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "k-iḍefren"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:54.331127198Z",
+  "model": "glm-5.3"
+}

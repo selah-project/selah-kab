@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Llant wussan n Teraḥ: semmus (05) n yiseggasen d mraw n yiseggasen d mraw (n mraw) ɣur 200, immut Teraḥ di Ḥaran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Llant"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "n Teraḥ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "d mraw n yiseggasen d 200"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "immut"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraḥ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "di Ḥaran"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:19.344243497Z",
+  "model": "glm-5.3"
+}

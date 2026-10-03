@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ɛass-ak iman-ik, ad ur tettuḍ ⟨את⟩ Yahwe, i k-iṣuffɣen si tmurt n Miṣrayim, si wxxam n yimedlan.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ɛass-ak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iman-ik"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tettuḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "k-iṣuffɣen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "si wxxam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "n yimedlan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:58.515447002Z",
+  "model": "glm-5.3"
+}

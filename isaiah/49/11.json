@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Ad rneɣ akk idurar-nneɣ d abrid, d yiberdan-nneɣ imeqqranen ad ayren.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ad rneɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "idarur-nneɣ"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "d abrid"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "d yiberdan-nneɣ imeqqranen"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "ad ayren"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:42.246691301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Err i umahbul ɣef tehbelt-is, akken ur yili ara d amusnaw deg wallen-is.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Err"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "i umahbul"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ɣef tehbelt-is"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur... ara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yili"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "d amusnaw"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "deg wallen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:28:09.974866882Z",
+  "model": "glm-5.3"
+}

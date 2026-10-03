@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Yahwe Elohim-ik ad isewwel ⟨את⟩ ul-ik d ⟨את⟩ ul n zerɛa-ik, iwakken ad tḥemmleḍ ⟨את⟩ Yahwe Elohim-ik akk d ul-ik d akk d nepps-ik, iwakken ad ttedduḍ d lḥeyat.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ad isewwel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul-ik"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ul-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ul n zerɛa-ik"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zerɛa-ik"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "iwakken ad tḥemmleḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ul-ik"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "d akk d"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nepps-ik"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ad ttedduḍ d lḥeyat"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:54.330970252Z",
+  "model": "glm-5.3"
+}

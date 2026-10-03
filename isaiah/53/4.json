@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Ih, disonyi-nneɣ i d-iṭṭef, iḥemmel iḥeṛṛen-nneɣ; ma nekkini, nsemmed-t d amenṭuḥ, iṭṭef-d deg ufus n Elohim, yettwaḥeqrer.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Ih"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "disonyi-nneɣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "d-iṭṭef"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "iḥeṛṛen-nneɣ"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ma nekkini"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "nsemmed-t"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "d amenṭuḥ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "iṭṭef-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "yettwaḥeqrer"
+    }
+  ],
+  "timestamp": "2026-10-03T00:05:36.297252410Z",
+  "model": "glm-5.3"
+}

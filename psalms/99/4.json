@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 99,
+  "translation": "D tezmert n ugellid i ḥemmel ccreɛ; kecc i iheggan lmizan, ccreɛ d ṣedeq deg Yaɛqov kecc i txedmeḍ.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "D tezmert"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "i ḥemmel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "i iheggan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "lmizan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "d ṣedeq"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "deg Yaɛqov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i txedmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:25.162282877Z",
+  "model": "glm-5.3"
+}

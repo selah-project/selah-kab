@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 47:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Akka i ḥkan i kečč, wid i t-tewḥeṛḍeḍ yidsen, iwallen-ik seg tmeẓṛut-ik; yal yiwen deg ubrid-is ittuɣal d-azrib; ulac win ara k-ḥaznen.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "i ḥkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "i t-tewḥeṛḍeḍ"
+    },
+    {
+      "surface": "סחריך",
+      "gloss": "iwallen-ik"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "seg tmeẓṛut-ik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "לעברו",
+      "gloss": "deg ubrid-is"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ittuɣal d-azrib"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "win ara k-ḥaznen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:49.528998725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Am wur ad yeqqim i lebda, d unagi amanuz deg igenni. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "Am wur"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "d unagi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "deg igenni"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "amanuz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:58.259649421Z",
+  "model": "glm-5.3"
+}

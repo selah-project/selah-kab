@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Irgazen n Yisrael ffɣen seg Miṣpa, ṭṭfen ⟨את⟩ Filistiyen, ḥerbben-itent arma ddaw n Bet Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ffɣen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Miṣpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiyen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiyen"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ḥerbben-itent"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-10-02T22:38:24.684679702Z",
+  "model": "glm-5.3"
+}

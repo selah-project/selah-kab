@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Mi teḥbes ad tessu Lo-Ruḥama, teǧehhem, terra d mmi-s.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "teḥbes ad tessu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruḥama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruḥama"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "teǧehhem"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "terra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "d mmi-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:44.846564522Z",
+  "model": "glm-5.3"
+}

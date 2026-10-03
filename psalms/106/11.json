@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Iḍumen wannay ⟨את⟩ iḍeḍriyen-nsen; yiwen degsen ur yeqqim ara.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Iḍumen wannay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wannay"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "iḍeḥriyen-nsen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "degsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "yeqqim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:28.223341942Z",
+  "model": "glm-5.3"
+}

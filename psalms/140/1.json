@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "I win yettwaddeln. Tacidwant n David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettwaddeln"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "tacidwant"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:53.000171819Z",
+  "model": "glm-5.3"
+}

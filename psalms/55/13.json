@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Axir mačči d acengu i-y-iḥerben, ad ttḥebbseɣ; mačči d win i-y-ikren i d-yeẓli ɣef umiɣ-iw, ad iffegheɣ ɣur-s.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "acengu"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "i-y-iḥerben"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ad ttḥebbseɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "win i-y-ikren"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef umiɣ-iw"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "i d-yeẓli"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ad iffegheɣ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɣur-s"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:06.595058723Z",
+  "model": "glm-5.3"
+}

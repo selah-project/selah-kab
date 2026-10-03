@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Lḥikma tezga-d ⟨את⟩ zdat udem n win ifehmen; tiḍ n abexsil, deg yixf n tmurt.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem n win ifehmen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "win ifehmen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "lḥikma"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "diɣ tiḍ n"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "abexsil"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "deg yixf n"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:22:11.537751063Z",
+  "model": "glm-5.3"
+}

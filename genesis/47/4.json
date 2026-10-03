@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 47:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Nnan i Paroh: Nekni neɛreḍ ad nzedeg deg tmurt-agi, axaṭer ulac tineli i leɛǧayem n yinebgiwen-ik, imi aɣrud yeǧḥel aṭas deg tmurt n Kenaɛan; ihi tura, ma ulac a k-nessuter, ad zdigen yinebgiwen-ik deg tmurt n Gocen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ad nzedeg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "neɛreḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "tineli"
+    },
+    {
+      "surface": "לצאן",
+      "gloss": "i leɛǧayem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "yinebgiwen-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yeǧḥel aṭas"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "aɣrud"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenaɛan"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ad zdigen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac a k-nessuter"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yinebgiwen-ik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "n Gocen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:34:43.303997583Z",
+  "model": "glm-5.3"
+}

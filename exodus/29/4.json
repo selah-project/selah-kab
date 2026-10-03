@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad d-tawiḍ ⟨את⟩ Aharon akked ⟨את⟩ warraw-is ɣer tgara n Texxamt n Umεed, ad ten-tesseṛbeḥ ⟨אתם⟩ s waman.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ad d-tawiḍ ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ad ten-tesseḥbes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tgara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Texxamt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n Umεed"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ad ten-tesseṛbeḥ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ihin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "s waman"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:35.400629278Z",
+  "model": "glm-5.3"
+}

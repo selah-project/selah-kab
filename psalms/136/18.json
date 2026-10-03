@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Yenɣa igelliden iẓuranen, axaṭer ḥesed-is yettidir i lebda.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "yenɣa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "iẓuranen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:24.441458177Z",
+  "model": "glm-5.3"
+}

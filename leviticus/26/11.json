@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad sbeddeɣ Mickan-iw garawen, ur ittigin ara nnefs-iw ⟨את⟩ ken.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ad sbeddeɣ"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mickan-iw"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "garawen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ittigin ara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ken",
+      "marks": "nnefs-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:09.245345341Z",
+  "model": "glm-5.3"
+}

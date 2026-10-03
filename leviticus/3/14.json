@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad d-yawi seg-s lqerbana-nnes, d lqerbana n tmes i Yahwe: ⟨את⟩ aẓeqqur iḥeccmen ⟨את⟩ iẓekwan, d ⟨את⟩ aẓeqqur akk win yellan ɣef iẓekwan.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ad d-yawi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lqerbana-nnes"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "n tmes"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aẓeqqur"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "aẓeqqur"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "iḥeccmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iẓekwan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iẓekwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aẓeqqur akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "aẓeqqur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iẓekwan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:10.567031506Z",
+  "model": "glm-5.3"
+}

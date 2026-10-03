@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ṛuḥen, ɛeddin ɣer waḍrar, wwḍen arma d teɣzert n Eckol, u ḥerben ⟨את⟩ tamurt.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Ṛuḥen"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɛeddin"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ɣer waḍrar"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "wwḍen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "teɣzert"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "n Eckol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "u ḥerben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:36.125583778Z",
+  "model": "glm-5.3"
+}

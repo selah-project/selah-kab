@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yenna-d sar n yiseḍfen i ⟨את⟩ Paroh, ad yini: ⟨את⟩ tiṭṭfiwin-iw, nekk, awed-ten d ass-a.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "n yiseḍfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiṭṭfiwin-iw"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "tiṭṭfiwin-iw"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "awed-ten"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:22.984916071Z",
+  "model": "glm-5.3"
+}

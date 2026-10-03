@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Acku xedmen ⟨את⟩ dirit deg wallen-iw, uḥlen-d ṣṣeḥfa ⟨את⟩ yi-n, seg wass i d-yeffɣen babaten-nsen seg Miṣrayim, arma d wass-a.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirit"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg wallen-iw"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "uḥlen-d"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "ṣṣeḥfa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "yi-n"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wass"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "d-yeffɣen"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "babaten-nsen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wass-a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-03T04:19:21.430974125Z",
+  "model": "glm-5.3"
+}

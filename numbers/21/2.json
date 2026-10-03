@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yisrael yexleq lɛahd i Yahwe, yenna: Ma yefka-yagi-d ⟨את⟩ ugdud-agi i ufus-iw, ad ḥermeɣ ⟨את⟩ timdinin-nsen.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "yexleq lɛahd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yefka-yagi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud-agi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "i ufus-iw"
+    },
+    {
+      "surface": "ויחרמתי",
+      "gloss": "ad ḥermeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timdinin-nsen"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "timdinin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:32.365875387Z",
+  "model": "glm-5.3"
+}

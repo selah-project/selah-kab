@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Tigellidt n Ceba tewḥi ⟨את⟩ tikkelt tamemtut n teyri n Celmoh, d axxam i yesbuɣ.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "tewḥi"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Tigellidt"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "n Ceba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikkelt tamemtut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tikkelt tamemtut"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "n teyri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "n Celmoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yesbuɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:16:44.810461618Z",
+  "model": "glm-5.3"
+}

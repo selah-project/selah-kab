@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "imi ad slen ⟨את⟩ yisem-ik d ameqqran, d ⟨את⟩ ufus-ik d uqwiḥ, d iḍer-ik d azewwar, ad d-yas ad yizzel iẓ ɣer wexxam-agi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ad slen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem-ik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ufus-ik"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ufus-ik"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "d uqwiḥ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "d iḍer-ik"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "d azewwar"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ad d-yas"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "ad yizzel iẓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:17:10.530661017Z",
+  "model": "glm-5.3"
+}

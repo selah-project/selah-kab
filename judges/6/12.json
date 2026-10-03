@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Imceggaɛ n Yahwe iban-as, inna-as: Yahwe yid-k, a guerren n tazmert!",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "iban-as"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "imceggaɛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna-as"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "a guerren"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "n tazmert"
+    }
+  ],
+  "timestamp": "2026-10-02T22:24:42.853179116Z",
+  "model": "glm-5.3"
+}

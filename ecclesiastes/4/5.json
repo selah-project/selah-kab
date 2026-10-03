@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Aḥmaq ad iḥebbes ⟨את⟩ yeffusen-is, ad itčč ⟨את⟩ isa-ines.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "aḥmaq"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ad iḥebbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeffusen-is"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "yeffusen-is"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ad itčč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isa-ines"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "isa-ines"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:40.384147127Z",
+  "model": "glm-5.3"
+}

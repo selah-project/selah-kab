@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad ten-tselmeḍ i warraw-ik s usenṭeḍ, ad tessawaleḍ fellasen mi ara tiliḍ deg uxxam-ik, mi ara tedduḍ deg ubrid, mi ara tettensiḍ, mi ara tkerbeḍ.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Ad ten-tselmeḍ s usenṭeḍ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "i warraw-ik"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ad tessawaleḍ fellasen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fellasen"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "mi ara tiliḍ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "deg uxxam-ik"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "mi ara tedduḍ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "mi ara tettensiḍ"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "mi ara tkerbeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:18.111598492Z",
+  "model": "glm-5.3"
+}

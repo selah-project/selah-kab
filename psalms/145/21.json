@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Ajiu n Yahwe ad yeddu deg imi-iw, yerna akk uδmum ad iεezz Isem n teqedcin-is, i lebda d i lebda.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "Ajiu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "deg imi-iw"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yerna ad iεezz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "uδmum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Isem"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "n teqedcin-is"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "d i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:42.941500445Z",
+  "model": "glm-5.3"
+}

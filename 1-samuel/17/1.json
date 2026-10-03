@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Pelictim, sdeḥlen ⟨את⟩ lager-nsen i nneqeṛ, ad d-yexleq iman-nsen ɣer Sokoh n Yehuda, zzlen-d gar Sokoh d Ɛzeqa, deg Efos-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "sdeḥlen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelictim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lager-nsen"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "lager-nsen"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "i nneqeṛ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ad d-yexleq iman-nsen"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "zzlen-d"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Ɛzeqa"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Efos"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:44:36.314335040Z",
+  "model": "glm-5.3"
+}

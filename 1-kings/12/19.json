@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yisrael yefsex i wexxam n David, ar ass-a.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "yefsex"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "i wexxam n"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:03.493086803Z",
+  "model": "glm-5.3"
+}

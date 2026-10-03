@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yenna Yahwe i Moce: Ini i Aharon: Seḍfer ⟨את⟩ tiɣmert-ik, waẓ ⟨את⟩ aɣerbaz n tmurt, ad yuɣal d lkinim deg tmurt n Miṣrayim akk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "seḍfer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣmert-ik"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tiɣmert-ik"
+    },
+    {
+      "surface": "והך",
+      "gloss": "waẓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aɣerbaz n tmurt"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "aɣerbaz"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "d lkinim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:56.247466790Z",
+  "model": "glm-5.3"
+}

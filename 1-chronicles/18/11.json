@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Nitenti daɣen, ugellid David yeqedcen-ent i Yahwe, akk d wureɣ d werɣ i d-yewwi seg yal leǧnas: seg Edom, seg Muab, seg warrac n Ɛamun, seg Ifelistiyen, seg Ɛamaleq.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nitenti",
+      "marks": "ifeccyen-a"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "yeqedcen-ent"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "wureɣ"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "d werɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg yal"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "seg Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "seg Muab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "seg warrac"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "n Ɛamun"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "seg Ifelistiyen"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "seg Ɛamaleq"
+    }
+  ],
+  "timestamp": "2026-10-03T03:32:49.285745769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Kecmen deg lɛahd akken ad nadien ⟨את⟩ Yahwe, Elohim n yidfawen-nnsen, s wul-nnsen akk d s yiman-nnsen akk.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "deg lɛahd"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "akken ad nadien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "yidfawen-nnsen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "s wul-nnsen"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "s yiman-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:45:29.009013901Z",
+  "model": "glm-5.3"
+}

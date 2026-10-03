@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Acku kečč tessalmeḍ-aɣ seg iɛdawen-nneɣ, iɣ-yukren territ-it ⟨d⟩ ddella.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "tessalmeḍ-aɣ"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "seg iɛdawen-nneɣ"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "iɣ-yukren"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "territ-it ddella"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:21.367381977Z",
+  "model": "glm-5.3"
+}

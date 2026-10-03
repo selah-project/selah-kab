@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad ten-id-ig ⟨אתם⟩ deg wass wis tam, i useffed-is, ɣer wakohen, ɣer tuqqna n uxam n umtiwem, sdat Yahwe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ad ten-id-ig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iten (tikciwin n useffed)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wis tam"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "i useffed-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wakohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tuqqna"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n uxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umtiwem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:19.448842916Z",
+  "model": "glm-5.3"
+}

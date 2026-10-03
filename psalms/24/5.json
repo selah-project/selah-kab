@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ad yewwi tickci si ⟨את⟩ ⟨טקס⟩ Yahwe, ṣedeq si Elohim n usellek-is.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ad yewwi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "tickci"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨טקס⟩",
+      "marks": "tickci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "si Elohim n"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "usellek-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:10.450025997Z",
+  "model": "glm-5.3"
+}

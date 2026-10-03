@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad ruzeg-eɣ ⟨את⟩ tevza-nwen, ad vneg-eɣ ⟨את⟩ iɣsan-nwen n yiṭij, ad sduqqel-eɣ ⟨את⟩ tveffut-nwen ɣef tveffut n tugniwin-nwen, tfav-niw ad t-tekraɣ.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "ad ruzeg-eɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tevza-nwen"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "tevza-nwen"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ad vneg-eɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣsan-nwen n yiṭij"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "iɣsan-nwen n yiṭij"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad sduqqel-eɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tveffut-nwen"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "tveffut-nwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "tveffut"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "tugniwin-nwen"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "ad tekraɣ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tfav-niw"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ken"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:53.622099598Z",
+  "model": "glm-5.3"
+}

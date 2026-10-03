@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yenna-d Elohim i Avraham: Saray, tamettut-ik, ur tettsemmyeḍ ara ⟨את⟩ yisem-is Saray, axaṭer Sarah i d yisem-is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tamettut-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tettsemmyeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem-is"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "i d yisem-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:15:38.478469716Z",
+  "model": "glm-5.3"
+}

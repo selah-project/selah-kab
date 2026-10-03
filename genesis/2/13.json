@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Isem n wasif wis sin d Giḥon; netta i d-yesɛuḍun ⟨את⟩ akk tmurt n Kuc.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Isem n"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Giḥon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "i d-yesɛuḍun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tmurt n Kuc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "n Kuc"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:51.181245631Z",
+  "model": "glm-5.3"
+}

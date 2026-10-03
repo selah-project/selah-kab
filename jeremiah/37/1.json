@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 37:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yerna agellid Ṣidqiyahu, mmi-s n Yoaciyahu, yernad deg umkan n Konyahu mmi-s n Yehoyaqim, win Nebukadreṣar, agellid n Babel, i d-yernan d agellid deg tmurt n Yehuda.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣidqiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoaciyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "כניהו",
+      "gloss": "Konyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "i d-yernan d agellid"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadreṣar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T00:33:49.015214094Z",
+  "model": "glm-5.3"
+}

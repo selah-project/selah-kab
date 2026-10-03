@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 34:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Rnu-d seg uḍerris n Yahwe, ɣer-t: yiwet deg-sent ur thuẓ, yiwet ur teḥwaǧ tameddakelt-is; axaṭer netta, imi-s i iḥettem dɣa ruaḥ-is i d-yesselmeḍen.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "rnu-d"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "uḍerris"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ɣer-t"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "deg-sent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נעדרה",
+      "gloss": "thuẓ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "tameddakelt-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "teḥwaǧ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi-s"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iḥettem"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "ruaḥ-is"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "קבצן",
+      "gloss": "i d-yesselmeḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:08.734352228Z",
+  "model": "glm-5.3"
+}

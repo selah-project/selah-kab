@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "Kan Netta d aẓruy-iw d wanelk-iw, d lɛali-inu; ur kussuɣ ara aṭas.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Netta"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "aẓruy-iw"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "d wanelk-iw"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "lɛali-inu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kussuɣ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "aṭas"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:45.133282363Z",
+  "model": "glm-5.3"
+}

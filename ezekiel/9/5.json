@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 9:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "I d-yenna ula d wid-nniɣ i teẓdin-iw: Ɛeddin deg temdint deffir-es, ḍeḍbten; ad yessexṣer tamẓint-nwen, ur nwalaḥ ara leḥna:",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ula d wid-nniɣ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "i teẓdin-iw"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɛeddin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "deffir-es"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "ḍeḍbten"
+    },
+    {
+      "surface": "על",
+      "gloss": "ad yessexṣer"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "tamẓint"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "-nwen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur nwalaḥ ara"
+    },
+    {
+      "surface": "תחמלו",
+      "gloss": "leḥna"
+    }
+  ],
+  "timestamp": "2026-10-03T00:47:12.232730992Z",
+  "model": "glm-5.3"
+}

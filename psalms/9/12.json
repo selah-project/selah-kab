@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Snubget i Yahwe, win izdeɣ deg Ṣihyun; amnen γer iɣlanen timahilin-is.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Snubget"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "win izdeɣ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "deg Ṣihyun"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "amnen"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "γer iɣlanen"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "timahilin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:26.641080317Z",
+  "model": "glm-5.3"
+}

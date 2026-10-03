@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Seg igenwan Yahwe iṣekkuḍ yer, iẓra ⟨את⟩ akk arrac n wemdan.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Seg igenwan"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "iṣekkuḍ yer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk arrac n wemdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:02.005486086Z",
+  "model": "glm-5.3"
+}

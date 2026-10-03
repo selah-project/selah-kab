@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yenna-yasen akken lehmaya n warrac, yenna: Baba yerna tayara i ⟨את⟩ lnir-nwen, kečči ad rnu ɣef lnir-nwen; baba iḍebbeɣ ⟨את⟩-wen s yisertiyen, kečči ad k-iḍebbeɣ s yisekrbiyen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yenna-yasen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "akken lehmaya"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "n warrac"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "yerna tayara i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lnir-nwen"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "lnir-nwen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ad rnu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "lnir-nwen"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "iḍebbeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-wen",
+      "marks": "s yisertiyen"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "s yisertiyen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "ad k-iḍebbeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kwen",
+      "marks": "s yisekrbiyen"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "s yisekrbiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:19:49.562828Z",
+  "model": "glm-5.3"
+}

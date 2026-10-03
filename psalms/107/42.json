@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ad walin wid imaṛlen, ad ḥeṛlen; yal takerẓi ad mdel imi-is.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wid imaṛlen"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ad ḥeṛlen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "takerẓi"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ad mdel"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "imi-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:16.285751702Z",
+  "model": "glm-5.3"
+}

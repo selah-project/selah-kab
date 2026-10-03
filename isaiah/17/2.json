@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Tiɣrumin n Ɛaruɛer ttwaggzent; ad ilint iḍaṛen, ad rsen deg-sent, ulac win i ten-id-iḥewwasen.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "ttwaggzent"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tiɣrumin"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ɛaruɛer"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "iḍaṛen"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "ad rsen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "win iḥewwasen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:08.466594776Z",
+  "model": "glm-5.3"
+}

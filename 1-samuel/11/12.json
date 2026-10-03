@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yenna wgdud i Cemmuɛel: anwa i d-yennan: ma yella Caul ad yennuɣ ɣef-neɣ? Muddet-ed irgazen-agi, ad ten-nṭeṭṭen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wgdud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemmuɛel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ad yennuɣ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ɣef-neɣ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "muddet-ed"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen-agi"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "ad ten-nṭeṭṭen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:13:05.124774826Z",
+  "model": "glm-5.3"
+}

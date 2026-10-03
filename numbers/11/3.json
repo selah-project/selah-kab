@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Isem n wemkan-nni i s-yefka Tabɛera, axaṭer times n Yahwe tcub-iten.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i s-yefka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "n wemkan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabɛera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "tcub"
+    },
+    {
+      "surface": "בם",
+      "gloss": "-iten"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:30:09.701553978Z",
+  "model": "glm-5.3"
+}

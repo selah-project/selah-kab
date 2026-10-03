@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad nɛali ɣef Yahuda, ad nsenker-tt, ad nebḍu-tt i neḥ, ad ness agellid deg tmurt-is, ⟨את⟩ mmi-s n Ṭabɛl.",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "ad nɛali"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "ad nsenker-tt"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "ad nebḍu-tt"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "i neḥ"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "ad ness agellid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "deg tmurt-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s n Ṭabɛl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Ṭabɛl"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:46.482091860Z",
+  "model": "glm-5.3"
+}

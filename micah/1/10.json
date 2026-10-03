@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Di Gat ur d-tinin ara, ur teccunget ara; di Bet Leɛfra, di lɣebbla ṛulet iman-nwen.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Di Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "d-tinin ara"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "teccunget"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "teccunget ara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leɛfra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "di lɣebbla"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ṛulet iman-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:29.515735518Z",
+  "model": "glm-5.3"
+}

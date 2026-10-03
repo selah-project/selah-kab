@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Deg wayen i d-yeffɣen, kecmen at Moab d at Ɛamun, akked waṭas seg Yimeɛmunen, ɣef Yehocaffat, i lmenni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tella-d"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deg wayen i d-yeffɣen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "d at"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "akked waṭas"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "seg Yimeɛmunen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocaffat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "i lmenni"
+    }
+  ],
+  "timestamp": "2026-10-03T03:49:02.021317421Z",
+  "model": "glm-5.3"
+}

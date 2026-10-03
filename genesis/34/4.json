@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Yenna Ṣekem i Ḥamor baba-s: Eɛfreɣ-iyi ⟨את⟩ teqcict-agi d talert.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Ṣekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Ḥamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iwakken ad yini"
+    },
+    {
+      "surface": "קח",
+      "gloss": "eɛfreɣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teqcict-agi"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "teqcict-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "d talert"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:06.810485160Z",
+  "model": "glm-5.3"
+}

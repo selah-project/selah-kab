@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Deg kečči ttkalen imawlan-nneɣ; ttkalen, kečči tesslekeḍ-iten.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Deg kečči"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ttkalen"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "imawlan-nneɣ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ttkalen"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "kečči tesslekeḍ-iten"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:50.205889228Z",
+  "model": "glm-5.3"
+}

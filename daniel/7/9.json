@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 7:9",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "I ḥkuɣ ttamaɣ ar ḥkan ttwabnan, win d-yusan zik n wussan yeṭṭef amkan-is n teḥkamt; ewsan-is am ed adfel, ayen yellan deg yixf-is am usum am laneɣ, ḥkus-is d tilin n tmes, d uraren-is d tmes i yettḥerben.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "ttamaɣ"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ḥkuɣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "די",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "כרסון",
+      "gloss": "ḥkan"
+    },
+    {
+      "surface": "רמיו",
+      "gloss": "ttwabnan"
+    },
+    {
+      "surface": "ועתיק",
+      "gloss": "win d-yusan zik"
+    },
+    {
+      "surface": "יומין",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "יתב",
+      "gloss": "yeṭṭef amkan-is"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "ewsan-is"
+    },
+    {
+      "surface": "כתלג",
+      "gloss": "am ed"
+    },
+    {
+      "surface": "חור",
+      "gloss": "adfeln"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ayen yellan deg yixf-is"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "deg yixf-is"
+    },
+    {
+      "surface": "כעמר",
+      "gloss": "am usum"
+    },
+    {
+      "surface": "נקא",
+      "gloss": "am laneɣ"
+    },
+    {
+      "surface": "כרסיה",
+      "gloss": "ḥkus-is"
+    },
+    {
+      "surface": "שביבין",
+      "gloss": "tilin n tmes"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "נור",
+      "gloss": "n tmes"
+    },
+    {
+      "surface": "גלגלוהי",
+      "gloss": "uraren-is"
+    },
+    {
+      "surface": "נור",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "דלק",
+      "gloss": "i yettḥerben"
+    }
+  ],
+  "timestamp": "2026-10-03T03:07:29.997935525Z",
+  "model": "glm-5.3"
+}

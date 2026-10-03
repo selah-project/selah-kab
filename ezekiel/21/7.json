@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 21:7",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "A mdan, err ⟨את⟩ udem-ik ɣef Yerucalayim, ḥedder ɣef iqedcen, ad tlemmaḍ d navi ɣef akal n Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "A"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mdan"
+    },
+    {
+      "surface": "שים",
+      "gloss": "err"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ḥedder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ad tlemmaḍ d navi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "akal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T04:26:36.231823361Z",
+  "model": "glm-5.3"
+}

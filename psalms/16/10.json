@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Axaṭer Ur teggi ara tanefsit-iw i Ceol, Ur teṭṭef ara ameḥder-im ad iwali taneɣrust.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "teggi ara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tanefsit-iw"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Ceol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "teṭṭef ara"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ameḥder-im"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "taneɣrust"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:07.210860226Z",
+  "model": "glm-5.3"
+}

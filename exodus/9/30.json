@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Kečč d yimedlan-ik, ssneɣ belli ur t-ttaggadeḍ ara yakan iɣer Yahwe, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "d yimedlan-ik"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ssneɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ur t-ttaggadeḍ ara"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "iɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:21.611866270Z",
+  "model": "glm-5.3"
+}

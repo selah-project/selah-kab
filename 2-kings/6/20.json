@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Mi kecmen ɣer Comron, Eliça yenna: Yahwe, ldi ⟨את⟩ wallen n wid-agi iwakken ad walint. Yahwe yeldi ⟨את⟩ wallen-nnsen, walan, arun: llan deg umaḍal n Comron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliça"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wallen n wid-agi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "wallen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ad walint"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wallen-nnsen"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wallen-nnsen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "walan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "arun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg umaḍal"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Comron"
+    }
+  ],
+  "timestamp": "2026-10-02T23:29:09.636129531Z",
+  "model": "glm-5.3"
+}

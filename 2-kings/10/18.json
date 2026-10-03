@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yihu yefres ⟨את⟩ meṛṛa ugdud, yenna-yas: Yeḥyab iḍmen ⟨את⟩ Baɛal drus, Yihu ad t-iḍmen aṭas.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "yefres"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa ugdud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "assen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Yeḥyab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "iḍmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baɛal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baɛal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "drus"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yihu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ad t-iḍmen"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:30.922985833Z",
+  "model": "glm-5.3"
+}

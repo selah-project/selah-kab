@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Agdud yessawel ɣer Moce; Moce inalla ɣer Yahwe, times tennaɣ.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "inalla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "tennaɣ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "times"
+    }
+  ],
+  "timestamp": "2026-10-02T21:30:09.701413725Z",
+  "model": "glm-5.3"
+}

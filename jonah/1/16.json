@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Wid n tyebbelt tǧin aggnu ameqqran ⟨את⟩ Yahwe; xedmen-as yaṭ i Yahwe, ɣlan-d tiɣal.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "tǧin aggnu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "Wid n tyebbelt"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aggnu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yaṭ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ɣlan-d"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "tiɣal"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:55.123920951Z",
+  "model": "glm-5.3"
+}

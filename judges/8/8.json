@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yuli-d seg din ar Penuel, yenna-yasen akka; rran-d ⟨את⟩-as irgazen n Penuel, akken rran irgazen n Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ar Penuel"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "rran-d"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Gideon"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "n Penuel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "rran"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "n Sukkot"
+    }
+  ],
+  "timestamp": "2026-10-02T22:27:03.405533343Z",
+  "model": "glm-5.3"
+}

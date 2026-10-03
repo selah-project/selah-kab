@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Ttwaqdeɛen isekla n Yahwe — arẓan n Lubnan, wid i d-yessenɣa.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ttwaqdeɛen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "isekla n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arẓan n"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "i d-yessenɣa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:02.485712883Z",
+  "model": "glm-5.3"
+}

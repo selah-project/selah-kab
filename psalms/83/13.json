@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Wid i d-yennan: ad nessekkes ⟨את⟩ tigezdiwin n Elohim i yides-nneɣ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wid i d-"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "yennan"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "ad nessekkes"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i yides-nneɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigezdiwin n Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "tigezdiwin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:14.663320954Z",
+  "model": "glm-5.3"
+}

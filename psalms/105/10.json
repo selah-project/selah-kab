@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yestedd-it i Yaɛqov d aḥkam, i Yisrael d lɛahd n lebda,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Yestedd-it"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "i Yaɛqov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "d aḥkam"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:03.753691675Z",
+  "model": "glm-5.3"
+}

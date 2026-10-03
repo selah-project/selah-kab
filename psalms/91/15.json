@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Ad iy-i-nessiwel, ad t-id-errģ; nekk, di lweǧh, ad t-id-nellekkelģ, ad t-sẓeggzeģ.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ad iy-i-nessiwel"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ad t-id-errģ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "di lweǧh"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ad t-id-nellekkelģ"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ad t-sẓeggzeģ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:16.192642445Z",
+  "model": "glm-5.3"
+}

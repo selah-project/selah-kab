@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Issenɣay aṣeggi i lmal, d lḥecic i lxeḍma n wemdan, iwakken ad d-yeffeɣ weɣrum seg wakal.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "issenɣay"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "aṣeggi"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "i lmal"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "d lḥecic"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "i lxeḍma n"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "iwakken ad d-yeffeɣ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "weɣrum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wakal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:02.485401645Z",
+  "model": "glm-5.3"
+}

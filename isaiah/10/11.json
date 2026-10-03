@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mačči d ayen i xedmeɣ i Comeron d yielilen-is, ad t-xedmeɣ i Yerucalayim d tugna-s?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "d ayen i"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "xedmeɣ"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "i Comeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "d yielilen-is"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad t-xedmeɣ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "i Yerucalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "d tugna-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:42.984389885Z",
+  "model": "glm-5.3"
+}

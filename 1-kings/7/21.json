@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yebna yesbedd ⟨את⟩ tigejda di texxamt n temdint, yessbedd ⟨את⟩ tagejjit tayeffust, issemma isem-is Yaḥin; yessbedd ⟨את⟩ tagejjit tazelmaḍt, issemma isem-is Boɛaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yessbedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tigejda"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tigejda"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "di texxamt n temdint"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yessbedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagejjit tayeffust"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tagejjit"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "tayeffust"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "issemma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yaḥin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yessbedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagejjit tazelmaḍt"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tagejjit"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "tazelmaḍt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "issemma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boɛaz"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:43.960489286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 93,
+  "translation": "Aɣella-k yebna seg zik; kečč i d-yezgan seg lɛalam.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "aɣella-k"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "seg zik"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "seg lɛalam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:34.017237628Z",
+  "model": "glm-5.3"
+}

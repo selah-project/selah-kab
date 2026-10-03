@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "David yesla, yuzen ⟨את⟩ Yuab akked ⟨את⟩ akk lɛesker n yiǧehdiyen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yesla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yuab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akk lɛesker n yiǧehdiyen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "lɛesker"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "n yiǧehdiyen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:58:29.034779320Z",
+  "model": "glm-5.3"
+}

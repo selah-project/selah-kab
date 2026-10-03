@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Acku tzeddiṛt n Merut tessaram ⟨i⟩ lxir; acku yedder-d ⟨dirit⟩ seg ⟨את⟩ Yahwe, ɣer bab n Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "tessaram"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "i lxir"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "tzeddiṛt"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "n Merut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yedder-d"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ɣer bab"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:29.516094113Z",
+  "model": "glm-5.3"
+}

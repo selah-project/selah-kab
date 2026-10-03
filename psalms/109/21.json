@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ma kečč, Yahwe Adonai, xedmeḍ ⟨את⟩-iw i wesem-ik, axaṭer ḥesed-ik d ayen igerzen, ssellek-i.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "xedmeḍ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iw"
+    },
+    {
+      "surface": "למען",
+      "gloss": "i wesem-ik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ayen igerzen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ssellek-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:54.778225972Z",
+  "model": "glm-5.3"
+}

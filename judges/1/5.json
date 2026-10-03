@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ufan ⟨את⟩ Adoni-Bezek deg Bezek, nnaɣen deg-s, ṭṭfen ⟨את⟩ ikenaɛaniyen akk ⟨את⟩ iferiziyen.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "ufan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "deg Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nnaɣen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikenaɛaniyen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ikenaɛaniyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iferiziyen"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "iferiziyen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:24.185621840Z",
+  "model": "glm-5.3"
+}

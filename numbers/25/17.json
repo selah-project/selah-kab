@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ḥeṛṣet ⟨את⟩ Medyanen, u ḍerbet-ten,",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ḥeṛṣet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Medyanen"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Medyanen"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "u ḍerbet-ten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    }
+  ],
+  "timestamp": "2026-10-02T21:38:07.394331555Z",
+  "model": "glm-5.3"
+}

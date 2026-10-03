@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Seg ⟨את⟩ teɣdemt n yigerdan n Yisrael ad yeṭṭef sin n yiferḍen n yiẓeṭṭaḍen i lḥetita, d yiwen n yiferḍ i yeddan.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "Seg ⟨את⟩",
+      "marks": "teɣdemt n yigerdan n Yisrael"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "teɣdemt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yigerdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "n yiferḍen"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "n yiẓeṭṭaḍen"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "i lḥetita"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "d yiwen n wiferḍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "i yeddan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:04.390741348Z",
+  "model": "glm-5.3"
+}

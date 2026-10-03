@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "Iyizen-nneɣ ṭṭfen ⟨את⟩ tiḥunin; ulac aneggez, ulac tuffɣa, ulac tawwagit deg tebrin-nneɣ.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "iyizen-nneɣ"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ṭṭfen tiḥunin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "aneggez"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "tuffɣa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "tawwagit"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "deg tebrin-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:01.749381406Z",
+  "model": "glm-5.3"
+}

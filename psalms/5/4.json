@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "A Yahwe, di tmeddit tesselḍeḍ i ṣṣut-iw; di tmeddit ad d-rnuɣ ɣur-k tidettin, ad ṛaǧuɣ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "di tmeddit"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tesselḍeḍ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "i ṣṣut-iw"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "di tmeddit"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ad d-rnuɣ tidettin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "ad ṛaǧuɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:16.656540272Z",
+  "model": "glm-5.3"
+}

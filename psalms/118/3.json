@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Ad d-yennin ayen: axxam n Aharon ad yini: ḥesed-is ad yeqqim i lebda.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ad d-yennin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:21.866690529Z",
+  "model": "glm-5.3"
+}

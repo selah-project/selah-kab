@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yahwe yettḥekkem ⟨i⟩ win izemren ṣedeq; maca win n dir d win iḥemmlen tiddes, tanefsit-is ⟨t⟩-ikreh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "win izemren ṣedeq"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "yettḥekkem"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "maca win n dir"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "d win iḥemmlen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tiddes"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ikreh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tanefsit-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:41.924599306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Kkes taḥrant, a Yahwe, i ugdan-ik Yisrael, win i t-teslekreḍ; ur attal ara idammen ilem gar ugdan-ik Yisrael, ad iwduḥ uḍum, ad asen-d-yun ⟨את⟩ idammen.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "kkes taḥrant"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "i ugdan-ik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "i t-teslekreḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "attal ara"
+    },
+    {
+      "surface": "דם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ilem"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gar"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ugdan-ik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "ad iwduḥ uḍum"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:57.206824644Z",
+  "model": "glm-5.3"
+}

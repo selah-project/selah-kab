@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tedna mmi-s; yefka ⟨את⟩ isem-is Gerecom, axaṭer yenna: Ager telliɣ deg tmurt n wberrani.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "tedna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerecom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ager"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "telliɣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "n wberrani"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:03.716840921Z",
+  "model": "glm-5.3"
+}

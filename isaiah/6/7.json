@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Iṭṭef-t af imi-iw, inna: Wali, taẓdegt-a teṭṭef yiccan-ik, tuzel takti-ik, tuccḍa-inek tettwakfer.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Iṭṭef-t"
+    },
+    {
+      "surface": "על",
+      "gloss": "af"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi-iw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "teṭṭef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "taẓdegt-a"
+    },
+    {
+      "surface": "על",
+      "gloss": "af"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "yiccan-ik"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "tuzel"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "takti-ik"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "tuccḍa-inek"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "tettwakfer"
+    }
+  ],
+  "timestamp": "2026-10-02T23:44:15.532966958Z",
+  "model": "glm-5.3"
+}

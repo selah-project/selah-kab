@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad tessinem d akken nekk d Yahwe, mi ara kwen-id-ssufuɣeɣ ⟨את⟩ ɣer wakal n Yisrael, ɣer ⟨wakal⟩ i d-uzneɣ ⟨את⟩ afus-iw ad as-t-mudd i lejdud-nwen.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ad tessinem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d akken"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "mi ara kwen-id-ssufuɣeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨wakal⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "i d-uzneɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-iw"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad as-t-mudd"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "i lejdud-nwen"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "i lejdud-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:52:39.720309558Z",
+  "model": "glm-5.3"
+}

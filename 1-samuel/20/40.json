@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Yehonatan yefka ⟨את⟩ iṣura-nnes i wemẓyan i ilan, yenna-yas: ruḥ, awi-t-id ɣer temdint.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṣura-nnes"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iṣura-nnes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wemẓyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ilan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ruḥ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "awi-t-id"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ɣer temdint"
+    }
+  ],
+  "timestamp": "2026-10-02T22:47:33.220328322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Kečč-ini ⟨את⟩, s idemmen n lɛahd-ik, ssufeɣ-d tiseddarin-ik seg ugeẓru anida ulac waman deg-s.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kečč-ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "s idemmen n lɛahd-ik"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "s idemmen"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "n lɛahd-ik"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ssufeɣ-d"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "tiseddarin-ik"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "seg ugeẓru"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:35:46.065877915Z",
+  "model": "glm-5.3"
+}

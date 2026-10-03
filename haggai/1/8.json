@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 1:8",
+  "book": "haggai",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Alien-d ɣer udrar, awi-d lexriṣ, bnut ⟨את⟩ axxam; ad ḥemmeleγ deg-s, ad ttkabreγ, i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Alien-d"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ɣer udrar"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "awi-d"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lexriṣ"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "bnut"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨את⟩ axxam",
+      "marks": "axxam"
+    },
+    {
+      "surface": "וארצה",
+      "gloss": "ad ḥemmeleγ deg-s"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ואכבד",
+      "gloss": "ad ttkabreγ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:31:17.227201204Z",
+  "model": "glm-5.3"
+}

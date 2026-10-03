@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "I win yettṣeggmen; i warraw n Qoraḥ; ɣef ɛalamot: tazla.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i win yettṣeggmen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ɛalamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tazla"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:06.304759107Z",
+  "model": "glm-5.3"
+}

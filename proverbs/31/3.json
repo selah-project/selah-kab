@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Ur ttak ara tezmert-ik i tlawin, ula d ibriden-ik i wayen iwumi ḥeṣṣen yigelliden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ttak ara"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "i tlawin"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "tezmert-ik"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ula d ibriden-ik"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "i wayen iwumi ḥeṣṣen"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "yigelliden"
+    }
+  ],
+  "timestamp": "2026-10-03T02:30:34.934385546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Win ur ɣi-s ara amɣar, amaru neɣ anebbaḍ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Win"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ɣi-s"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "amɣar"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "amaru"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "u anebbaḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:18:17.815585387Z",
+  "model": "glm-5.3"
+}

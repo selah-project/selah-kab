@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Tessemsɛed tikeṛṛim-iw deg yiberdan-ik ⟨aya⟩, ur ttḥerrṛen ara iḍarren-iw.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Tessemsɛed"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "tikeṛṛim-iw"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "deg yiberdan-ik"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "ttḥerrṛen"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "iḍarren-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:02.546797592Z",
+  "model": "glm-5.3"
+}

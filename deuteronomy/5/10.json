@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yexdem ḥesed i tivetchin n yidannen, i wid-iw i t-ḥemmlen d wid yettḥerzen tewsiwin-is.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "i tivetchin n yidannen"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "i wid-iw i t-ḥemmlen"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "d wid yettḥerzen"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "tewsiwin-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:49:18.967863017Z",
+  "model": "glm-5.3"
+}

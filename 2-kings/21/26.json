@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ṣṣen-t deg ṣṣeɛda-s deg ugin n Uzza; Yocecya mmi-s yeṭṭef tagelda deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Ṣṣen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "deg ṣṣeɛda-s"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "deg ugin"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "yeṭṭef tagelda"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yocecya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:30.921646232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ur tezzreɛ ara taḥrant-ik s kilayim, akken ur ttwaqaddeṣ ara ⟨i⟩ tezmert akk: iman n zzra i tezzreɛ, akk d ttifawin n teḥrant.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ur tezzreɛ ara"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "taḥrant-ik"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "s kilayim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur…ara"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "ur ttwaqaddeṣ ara"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "tezmert akk"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "iman n zzra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "i tezzreɛ"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "akk d ttifawin"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "n teḥrant"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:25.838718306Z",
+  "model": "glm-5.3"
+}

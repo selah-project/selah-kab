@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Akk wussan n teɣlac ad tesgenuf, ⟨את⟩ wayen ur tesgunfu ara deg Cabbat-nwen, mi tellam fell-as.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "n teɣlac"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ad tesgenuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "tesgunfu"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "deg Cabbat-nwen"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "mi tellam"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:04.526354944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad tzebḥeḍ Pesaḥ i Yahwe Elohim-ik, tasa akk lexlav, deg umkan ara yefren Yahwe iwakken ad yezdeg isem-is din.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "Ad tzebḥeḍ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "tasa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "akk lexlav"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "yefren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "iwakken ad yezdeg"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:06.795942358Z",
+  "model": "glm-5.3"
+}

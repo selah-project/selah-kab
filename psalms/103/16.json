@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Mi d-iɛeddi lḥif fell-as, ad yuγal ulac-it; deg umkan-is ur t-id-yeẓri ula d yiwen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lḥif"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "iɛeddi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ad yuγal ulac-it"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "t-id-yeẓri"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ula d yiwen"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:36.137724268Z",
+  "model": "glm-5.3"
+}

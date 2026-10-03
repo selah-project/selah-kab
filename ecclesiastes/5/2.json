@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Acku targit tettag-d s waṭas n leḥḍuḍ, taɣri n umahbul ⟨tettmagar-d⟩ s waṭas n wawalen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tettag-d"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "targit"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "leḥḍuḍ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "taɣri"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "umahbul"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s waṭas"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "wawalen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:50.776864667Z",
+  "model": "glm-5.3"
+}

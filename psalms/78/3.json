@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ayen nessel ugur yesɛedda, id-nesteqqim neẓra; ijiyen imezwura-nneɣ γer lenna-d ijiyen degs.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nessel"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "uneẓra-ten"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ijiyen imezwura-nneɣ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "γer lenna-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ijiyen-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:20.370507503Z",
+  "model": "glm-5.3"
+}

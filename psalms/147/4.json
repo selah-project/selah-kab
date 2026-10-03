@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Iṭṭef amḍan n yitran, i meṛṛa ismawen-nsen i d-ismekti.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Iṭṭef amḍan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "amḍan"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "n yitran"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "i meṛṛa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ismawen-nsen"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "i d-ismekti"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:33.517736077Z",
+  "model": "glm-5.3"
+}

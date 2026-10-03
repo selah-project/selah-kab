@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "⟨את⟩ wayen yawezzen ufus-is: ⟨את⟩ yiwen d tiḥert, ⟨את⟩ wayeḍ d taqerbant i d-tettali, ɣef minḥa-nni; ad isefra ukohen i win ara yettwaseffḍen, ɣer zdat n Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen yawezzen ufus-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "yawezzen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ufus-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiwen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tiḥert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wayeḍ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "taqerbant i d-tettali"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ad isefra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ukohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "win ara yettwaseffḍen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:19.002569109Z",
+  "model": "glm-5.3"
+}

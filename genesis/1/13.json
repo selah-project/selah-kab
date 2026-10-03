@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tella tmeddit, tella teṣebaḥt — ass wis kraḍ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tella"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tmeddit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tella"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "teṣebaḥt"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "wis kraḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:29.240896516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 96,
+  "translation": "Taɣessa d ccbaḥa qqiment ⟨ṭṭef⟩ qabel-is, tezmert d tifawt deg uqeddis-is.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Taɣessa"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "d ccbaḥa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "qabel-is"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "d tifawt"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "deg uqeddis-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:59.871332028Z",
+  "model": "glm-5.3"
+}

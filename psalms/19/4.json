@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ulac awal, ulac iy n ttwarayen; war win i iyi-issehlen ccɣel-nsen.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac iy"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "n ttwarayen"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "war"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "win i iyi-issehlen"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ccɣel-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:06.554421367Z",
+  "model": "glm-5.3"
+}

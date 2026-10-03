@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Isla Σaul i weserdas n Yiḥonatan, iγulen Σaul: s tidet Yahwe d amuddir, ur ad yemmut.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Isla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Σaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i weserdas"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yiḥonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "iγulen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Σaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "d amuddir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "s tidet … ur"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ur ad yemmut"
+    }
+  ],
+  "timestamp": "2026-10-02T22:45:49.222903093Z",
+  "model": "glm-5.3"
+}

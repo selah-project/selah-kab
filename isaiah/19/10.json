@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad ilint tisura-nnes yettwafḍen, akk wid ixedmen taskert, d wid icerḍen deg nnefs.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ad ilint"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "tisura-nnes"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "yettwafḍen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wid ixedmen"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "taskert"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "wid icerḍen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nnefs"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:41.200107496Z",
+  "model": "glm-5.3"
+}

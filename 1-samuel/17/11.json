@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Mi yestmeɛ Ciul akked Yisrael akk ⟨את⟩ wawalen-agi n ufelicti, ḥeṛmen-tt u ɣlin-tt deg tugdi tameqqrant.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mi yestmeɛ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ciul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked... akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wawalen",
+      "marks": "wawalen-agi n ufelicti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "n ufelicti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ḥeṛmen-tt"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ɣlin-tt deg tugdi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tameqqrant"
+    }
+  ],
+  "timestamp": "2026-10-02T22:44:44.244177313Z",
+  "model": "glm-5.3"
+}

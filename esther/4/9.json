@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Hataḥ yekcem, yexleṣ i Ester ⟨את⟩ wawalen n Mordoḵai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataḥ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "yexleṣ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "i Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen n Mordoḵai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "n Mordoḵai"
+    }
+  ],
+  "timestamp": "2026-10-03T02:59:30.076768849Z",
+  "model": "glm-5.3"
+}

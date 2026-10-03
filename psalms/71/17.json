@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Elohim, tesselmad-iyi seg tmeẓriwt-iw, arma d tura ad d-mmeslayeɣ timugra-ik.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "tesselmad-iyi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "seg tmeẓriwt-iw"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "d tura"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ad d-mmeslayeɣ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "timugra-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:34.739001697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yehucca Yeḥuca iɣess ⟨את⟩ ugdud, u yeddan d yisraeliyen, yal win ɣer tmurt-is iɛreḍ ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "iɣess"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yeḥuca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "u yeddan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "d yisraeliyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ɣer tmurt-is"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "iɛreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:45.985298685Z",
+  "model": "glm-5.3"
+}

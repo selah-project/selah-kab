@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Nabal yerran i yixeddamen n David ⟨את⟩, yenna-d: anwa David? Anwa mmi-s n Yici? Ass-a, ceffuren yixeddamen, yal yiwen yettḥerrez seg zdat n bab-is.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yerran"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i yixeddamen n David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yixeddamen n"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yici"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ceffuren"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yixeddamen"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "yettḥerrez…"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg zdat n"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bab-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:48:20.955952874Z",
+  "model": "glm-5.3"
+}

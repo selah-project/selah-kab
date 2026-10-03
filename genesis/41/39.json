@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yenna-d Paroh i Yusef: Mi yeṣṣefed-d Elohim ⟨את⟩ ⟨אותך⟩ ⟨את⟩ wayen-agi akk, ulac am d-neḥṣen, am d-ḥerrien keččini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusef"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "yeṣṣefed-d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "Yusef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ayen-agi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "am d-neḥṣen"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "am d-ḥerrien"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "keččini"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:03.983330795Z",
+  "model": "glm-5.3"
+}

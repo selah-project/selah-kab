@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "Yahwe, egzi igenwan-ik, ad d-yeddu; acḍef idurar, ad keccmen ddexan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "egzi"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "igenwan-ik"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ad d-yeddu"
+    },
+    {
+      "surface": "גע",
+      "gloss": "acḍef"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "ועשנו",
+      "gloss": "ad keccmen ddexan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:22.693992575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "S uzal tettefluri, tezri; tameddit tettwagzem, tessen.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "S uzal"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "tettefluri"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "tezri"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "tameddit"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "tettwagzem"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "tessen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:14.973774647Z",
+  "model": "glm-5.3"
+}

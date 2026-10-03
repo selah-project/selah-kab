@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "I d-yewwet-aɣ ar wemkan-agi, i d-yefka-yagh ⟨את⟩ tamurt-agi, tamurt ideg ttazzal aṭuki d tament.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "i d-yewwet-aɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i d-yefka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-aɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt-agi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ideg ttazzal"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "aṭuki"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "d tament"
+    }
+  ],
+  "timestamp": "2026-10-02T22:03:04.884124912Z",
+  "model": "glm-5.3"
+}

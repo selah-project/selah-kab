@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 144,
+  "translation": "ḥesed-iw d lḥiṣin-iw, taɛlayt-iw d win it-yettḥellisen; d lɣwṣen-iw, deg-s nesḥel; win iredden ⟨i⟩ weɣdud-iw ddaw-iw.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ḥesed-iw"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "d lḥiṣin-iw"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "taɛlayt-iw"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "d win it-yettḥellisen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iw"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "lɣwṣen-iw"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nesḥel"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "win iredden"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "aɣdud-iw"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ddaw-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:55.875535941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "Armi acḥal, a Yahwe? Ad tettqeḍbeḍ i lebda? Ad yeeḥmeḍ lḥesd-nnek am times?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acḥal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ad tettqeḍbeḍ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ad yeeḥmeḍ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "am"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "lḥesd-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:20.409309027Z",
+  "model": "glm-5.3"
+}

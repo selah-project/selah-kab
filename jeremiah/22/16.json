@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yettḥekkim ccreɛ i yimḍellalen d yimekṛṛaḍen, imiren yelha; mači d tussna ⟨את⟩-i iyi? I d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "yettḥekkim"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "imḍellalen"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "d imekṛṛaḍen"
+    },
+    {
+      "surface": "אז",
+      "gloss": "imiren"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yelha"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mači"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "tussna"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ iyi",
+      "marks": "tussna ⟨את⟩ iyi — taḍsal i Yahwe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:24:13.476479252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yahwe, ur iyi-ttwarra ara deg utci-ik, ur iyi-ttwelmaḍ ara deg lxemsa-ik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "deg utci-ik"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ur iyi-ttwarra ara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "neɣ ur … ara"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "deg lxemsa-ik"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ur iyi-ttwelmaḍ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:51.658319908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Mi ara tɛeddeḍ di waman, ⟨את⟩ Ad diliɣ yid-m, deg yisaffen ur k-ḥettmen ara; mi ara tedduḍ deg tmes, ur tettwalen ara, tayeffut ur tettfeɣ ara deg umek-ik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "tɛeddeḍ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di waman"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yid-m"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ad diliɣ"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "deg yisaffen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "k-ḥettmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tedduḍ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "deg"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "tettwalen"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "tayeffut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "tettfeɣ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg umek-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:05.118433132Z",
+  "model": "glm-5.3"
+}

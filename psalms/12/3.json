@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Tawri ttmeslayen yal argaz ⟨את⟩ akeddouz-is; s yimi-awdan, s ul d ul, ttmeslayen.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "tawri"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ttmeslayen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akeddouz-is"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "akeddouz-is"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "yimi"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "awdan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "s ul"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "d ul"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ttmeslayen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:41.475591134Z",
+  "model": "glm-5.3"
+}

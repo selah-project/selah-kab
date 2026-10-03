@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yaɛqov yezdeɣ deg tmurt n yimukan n baba-s, deg tmurt Kenɛan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "n yimukan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenɛan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:28:22.722218091Z",
+  "model": "glm-5.3"
+}

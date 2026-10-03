@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tmurt tella tuhu tabuhu, d uzekka ɣef wudmawen n tehuma; ruaḥ n Elohim tettidir s lɛali ɣef wudmawen n yiman.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Tmurt"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tuhu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "tabuhu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "d uzekka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudmawen n"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehuma"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "tettidir s lɛali"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudmawen n"
+    },
+    {
+      "surface": "המים",
+      "gloss": "yiman"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:32.707907943Z",
+  "model": "glm-5.3"
+}

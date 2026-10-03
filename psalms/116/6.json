@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Yahwe yettḥrez ⟨⟨wid ur nessin⟩⟩; adrum-iyi iḍres, ma d Yahwe, neyka, yeslek-iyi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "yettḥrez"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "wid ur nessin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "adrum-iyi iḍres"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ma d neyka"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "yeslek-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:21.986401515Z",
+  "model": "glm-5.3"
+}

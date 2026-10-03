@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Swereɣ-kent, yeǧ yella-tt ccent n Yerucalayim: acu tzerm-ed, acu tbeddren tayri, ar ma tebɣi.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "swereɣ-kent"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ -kent",
+      "marks": "ccent n Yerucalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ccent"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "tzerm-ed"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "tbeddren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayri"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "tayri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar ma"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "tebɣi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:50:00.169663106Z",
+  "model": "glm-5.3"
+}

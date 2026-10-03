@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Inna Baraq ɣur-s: Ma teddiḍ yidi, ad duɣ; ma ur teddiḍ ara yidi, ur ad duɣ ara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inna"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "teddiḍ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yidi"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ad duɣ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "teddiḍ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ad duɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-02T22:25:28.866866745Z",
+  "model": "glm-5.3"
+}

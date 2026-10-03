@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ad i-wali ⟨את⟩ akohen, yerna walan negɛa tuɣal d tamellalt, akohen ad iqeddec ⟨את⟩ negɛa: d iqdec i d-yeqqim.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ad i-wali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "yerna walan"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "tuɣal"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "negɛa"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "d tamellalt"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ad iqeddec"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negɛa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "negɛa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "iqdec"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-yeqqim"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:47.290505071Z",
+  "model": "glm-5.3"
+}

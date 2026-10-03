@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Kečč d tallunt-inu; seg lḥeḍra tuḥemmeḍ-iyi; d ceccayen n usteḥfella tsɛuḍebdeg-iyi. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kečč"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "d tallunt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-inu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "seg lḥeḍra"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "tuḥemmeḍ-iyi"
+    },
+    {
+      "surface": "רני",
+      "gloss": "ceccayen"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "n usteḥfella"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "tsɛuḍebdeg-iyi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:32.157896155Z",
+  "model": "glm-5.3"
+}

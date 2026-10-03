@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Kohelet yebɣi ad yaf awalen i d-yeɛǧebben, wayen yuran yella ⟨d⟩ uzdig, awalen n tideṭ.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "yebɣi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ad yaf"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "i d-yeɛǧebben"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "wayen yuran"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "uzdig"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tideṭ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:37.614300796Z",
+  "model": "glm-5.3"
+}

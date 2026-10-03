@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "translation": "Γebl, d Ɛamun, d Ɛamaleq, Felistin akked yimezdaɣ n Ṣur.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Γebl"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "d Ɛamun"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "d Ɛamaleq"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Felistin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yimezdaɣ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Ṣur"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:51.440918910Z",
+  "model": "glm-5.3"
+}

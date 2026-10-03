@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "I lmennac, i wemḥaddi n Yahwe, i David, mi yemmeslay i Yahwe ⟨את⟩ wawalen n ccna-agi, deg wass ideg Yelḥa Yahwe-t, seg ufus n yiɛdawen-is akk, seg ufus n Cawel.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "i lmennac"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "i wemḥaddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yemmeslay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "n ccna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "Yelḥa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ -t",
+      "marks": "Yahwe-t"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "yiɛdawen-is"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:28.053229614Z",
+  "model": "glm-5.3"
+}

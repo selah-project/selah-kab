@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D ⟨את⟩ uḍar n temdint akked ⟨את⟩ tuddar-is, unan i Kalev mmi-s n Yefunna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uḍar n temdint"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "uḍar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tuddar-is"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "tuddar-is"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "unan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "i Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "n Yefunna"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:28.364558627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ar melmi, a Yahwe, a t-tettuḍ ⟨את⟩ yi, i lebda? Ar melmi ara teffeḍ ⟨את⟩ udmek ɣef yi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "a t-tettuḍ yi"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "teffeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmek"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udmek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ɣef yi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:14.626455620Z",
+  "model": "glm-5.3"
+}

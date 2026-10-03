@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tamurt-nwen tuɣal d tiṛuffa, timdinin-nwen iṛuḥen s tmes; akal-nwen deg wudem-nwen ig animen tetta-t ⟨את⟩, tuɣal d tiṛuffa am ubeddel n yanimen.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "tamurt-nwen"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tiṛuffa"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "timdinin-nwen"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "iṛuḥen s tmes"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tmes"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "akal-nwen"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "deg wudem-nwen"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "animen"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "tetta-t"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "d tiṛuffa"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "am ubeddel"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "n yanimen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:42.624482Z",
+  "model": "glm-5.3"
+}

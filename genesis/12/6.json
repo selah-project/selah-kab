@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Avram yeḥeccem tamurt arma d asun n Cekem, arma d teǧra n More; ma d Akenaɛani, zik-nni illa deg tmurt.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "yeḥeccem"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "asun"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "n Cekem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "teǧra"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "n More"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ma d Akenaɛani"
+    },
+    {
+      "surface": "אז",
+      "gloss": "zik-nni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:51.721056128Z",
+  "model": "glm-5.3"
+}

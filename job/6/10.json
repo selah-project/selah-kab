@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 6:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Deg-s ay d-teggwi ⟨tifawt⟩-iw, ad d-mlaleɣ s ul imi iḥeqq iqwar; ur yessefk ara ad yenhuṛ, imi ur neffeɣ ara awalen n Win iqeqcen.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "tifawt-iw"
+    },
+    {
+      "surface": "ואסלדה",
+      "gloss": "ad d-mlaleɣ s ul"
+    },
+    {
+      "surface": "בחילה",
+      "gloss": "imi iḥeqq iqwar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "yessefk ara ad yenhuṛ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "neffeɣ ara"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "n Win iqeqcen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:32:50.367341419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Deg yifassen ad k-ṭṭfen, akken ur tgerruḍ ara aḍar-ik ɣef lexḍar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "yifassen"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ad k-ṭṭfen"
+    },
+    {
+      "surface": "פן",
+      "gloss": "akken ur ... ara"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ad tgerruḍ"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ɣef lexḍar"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "aḍar-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:35.021732239Z",
+  "model": "glm-5.3"
+}

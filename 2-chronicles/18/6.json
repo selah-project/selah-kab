@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yenna Yehocafat: Ma yella, ur yelli ara da navi niḍen i Yahwe, iwakken ad nesṣeggem seg ⟨את⟩-es?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehocafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "ur yelli ara"
+    },
+    {
+      "surface": "פה",
+      "gloss": "da"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niḍen"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "iwakken ad nesṣeggem"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "seg ⟨את⟩-es",
+      "marks": "navi niḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:46:43.032635639Z",
+  "model": "glm-5.3"
+}

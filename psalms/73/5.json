@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Deg uɛessas n wemdan ur llan ara, d widan ur ttwaxemmimen ara am yimdanen.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "deg uɛessas"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ur llan ara"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "d widan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "am yimdanen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ttwaxemmimen ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:21.907487723Z",
+  "model": "glm-5.3"
+}

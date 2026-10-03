@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Qqlen-d iwakken ad yejreb yisen ⟨את⟩ Yisrael, ad yissin ma slan i ⟨את⟩ welḥudyan n Yahwe, i iḥeṭṭa ⟨את⟩ iguaren-nsen s ufus n Moce.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "qqlen-d"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ad yejreb"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad yissin"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "ma slan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welḥudyan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "welḥudyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iḥeṭṭa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iguaren-nsen"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "iguaren-nsen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T22:23:26.703691516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Ma d nekki, taẓallit-iw ɣer-ek, a Yahwe, deg wakud n ṛḍa; a Elohim, deg waṭas n ḥesed-ik, ejeb-ed fell-i s lḥeqq n tukselt-ik.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ma d nekki"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "taẓallit-iw"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣer-ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "deg wakud"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "n ṛḍa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deg waṭas"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "n ḥesed-ik"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ejeb-ed fell-i"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "s lḥeqq"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "n tukselt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:20.997624974Z",
+  "model": "glm-5.3"
+}

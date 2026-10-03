@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Mudd i Elohim taneḥdart, xelles i Ɛelyon ivawen-ik.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Mudd"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "taneḥdart"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "xelles"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "i Ɛelyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "ivawen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:52.445775245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Yeṭṭef-⟨את⟩ itent Nebuzaradan, aqbul n yimesbaben, iwala-yent-⟨את⟩ ten ɣer ugellid n Babel, ɣer Rible.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Yeṭṭef"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ itent",
+      "marks": "Nebuzaradan (wid i d-yuza)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "aqbul n"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yimesbaben"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "iwala-yent-ten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "Nebuzaradan (i yewwten ɣer Rible)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "n Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rible"
+    }
+  ],
+  "timestamp": "2026-10-03T00:41:15.226116395Z",
+  "model": "glm-5.3"
+}

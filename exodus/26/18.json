@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad txeddem ⟨את⟩ islagen n Mickan: ezrin islagen i tayeffut n unẓul, s unẓul.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txeddem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "islagen"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "islagen"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "n Mickan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ezrin"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "islagen"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "i tayeffut"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "n unẓul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "s unẓul"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:55.647363639Z",
+  "model": "glm-5.3"
+}

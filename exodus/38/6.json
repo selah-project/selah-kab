@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yexleq ⟨את⟩ lbudem si lexla n siṭim, yessuli-ten s nneḥac.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lbudem"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "lbudem"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "si lexla"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "n siṭim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "yessuli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "n nneḥac"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "s nneḥac"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:12.210577441Z",
+  "model": "glm-5.3"
+}

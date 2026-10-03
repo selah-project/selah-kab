@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Uɣal, a Yahwe, sseduq tilelli i tfeka-nniw; seldekt-i-id i lɛahd n ḥesed-ik.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Uɣal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "sseduq tilelli i"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tfeka-nniw"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "seldekt-i-id"
+    },
+    {
+      "surface": "למען",
+      "gloss": "i lɛahd n"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:29.842158415Z",
+  "model": "glm-5.3"
+}

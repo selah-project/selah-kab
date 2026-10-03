@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "Ad t-id-nerr zdat n uḍar-is s tinṭert, s leẓẓayer ad neḥreq i ṣṣut i Yahwe.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Ad t-id-nerr zdat"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "n uḍar-is"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "s tinṭert"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "s leẓẓayer"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "ad neḥreq i ṣṣut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:19.092163390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 142,
+  "translation": "Mi iḥemmel-ed ruaḥ-iw — kečč, ɣi-k tessneḍ abrid-iw; deg ubrid-agi ara zzuxkeɣ, rran-d lexmas-iw.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Mi iḥemmel-ed"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣi-k"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaḥ-iw"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tessneḍ"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "abrid-iw"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "זו",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ara zzuxkeɣ"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "rran-d"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lexmas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.051084578Z",
+  "model": "glm-5.3"
+}

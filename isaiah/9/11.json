@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Aram seg zdat, d Pilistim seg deffir; ccen ⟨את⟩ Yisrael s yimi akk. Ɣef waya akk, tirewt-ines ur d-tuɣal, afus-is yezga d asawen.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "seg zdat"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "d Pilistim"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "seg deffir"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ccen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "פה",
+      "gloss": "s yimi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Ɣef waya akk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שב",
+      "gloss": "d-tuɣal"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tirewt-ines"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "yezga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "d asawen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:45:17.247367384Z",
+  "model": "glm-5.3"
+}

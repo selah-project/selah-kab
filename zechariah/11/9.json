@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Nniɣ: ur rbeɛɣ ara ⟨את⟩-kun; win yettwamḍan ad yemmet, win yettwakksen ad yettwakkes, akk wid yeqqimen ad ččen: yal tameṭṭut ⟨את⟩ ilef n tmeddakelt-is.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "rbeɛɣ ara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kun",
+      "marks": "ikun (ikufhen)"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "win yettwamḍan"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ad yemmet"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "win yettwakksen"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "akk wid yeqqimen"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "ad ččen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "yal tameṭṭut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilef"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ilef"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "n tmeddakelt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:35:34.569461671Z",
+  "model": "glm-5.3"
+}

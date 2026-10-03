@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Tesemma ⟨את⟩ isem-is Yosef, tenna: Ad yernu Yahwe-iw ɣur-i mmi-s wayeḍ.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "tesemma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:23:08.653470928Z",
+  "model": "glm-5.3"
+}

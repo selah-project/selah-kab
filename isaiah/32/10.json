@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Iyim ɣef yiseggassen ad titremt, a yettament; axaṭer leɛnab yekfa, tagemrawt ur d-tettid ara.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "iyim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yiseggassen"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "ad titremt"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "a yettament"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yekfa"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "leɛnab"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "tagemrawt"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ur d-tettid ara"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:51.239691010Z",
+  "model": "glm-5.3"
+}

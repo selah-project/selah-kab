@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad asen-d-glun ⟨את⟩ beṭṭel n tucḍa mi ara ččen ⟨את⟩ iqedcen-nsen; axaṭer nekkini Yahwe, neqdecen-ten.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "ad asen-d-glun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "beṭṭel n tucḍa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "beṭṭel"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "n tucḍa"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "mi ara ččen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen-nsen"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "iqedcen-nsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "neqdecen-ten"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:00.636931517Z",
+  "model": "glm-5.3"
+}

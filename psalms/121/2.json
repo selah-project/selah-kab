@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Tallalt-inw si Yahwe, Win ixelqen igenni d tmurt.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "tallalt-inw"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Win ixelqen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenni"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "d tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:24.574060476Z",
+  "model": "glm-5.3"
+}

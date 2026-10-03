@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur tiririb ara deg ruaḥ-ik ad tketteḍ, axaṭer ketṭan deg tiḥerci n yihala ad yestireg.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "tiririb"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "deg ruaḥ-ik"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ad tketteḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ketṭan"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "deg tiḥerci"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "n yihala"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ad yestireg"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:33.833388435Z",
+  "model": "glm-5.3"
+}

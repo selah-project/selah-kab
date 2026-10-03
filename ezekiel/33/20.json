@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Tenna-m: tiddin n Adonai ur tettyaseɣmem ara. Yal yiwen s yibriden-is ad ḥekmeɣ ⟨את⟩ kimwi, a tawacult n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "tenna-m"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "tettyaseɣmem ara"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tiddin n"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "s yibriden-is"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ad ḥekmeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kimwi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a tawacult n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T00:57:39.307219062Z",
+  "model": "glm-5.3"
+}

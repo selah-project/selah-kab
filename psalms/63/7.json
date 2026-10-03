@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Mi k-icegger ɣef teḥrest-iw, deg teɛeccin n yiḍ, ad mmneɣ fell-ak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "k-icegger"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "teḥrest-iw"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "deg teɛeccin n yiḍ"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ad mmneɣ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "fell-ak"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:51.583474648Z",
+  "model": "glm-5.3"
+}

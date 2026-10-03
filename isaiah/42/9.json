@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Tijdbulin timezwar, at-ara d-asant; tigejdanin, nekk ad d-mmeslayeɣ fell-asant; uqbel ad bдuent, ad ⟨את⟩ akent-d-mmesleɣ.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "tijdbulin timezwar"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "at-ara"
+    },
+    {
+      "surface": "באו",
+      "gloss": "d-asant"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "tigejdanin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ad d-mmeslayeɣ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "uqbel ad"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "bдuent"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ad akent-d-mmesleɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ akent",
+      "marks": "akent — kunwi (akk n wid i yettmeslayen)"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:13.342833013Z",
+  "model": "glm-5.3"
+}

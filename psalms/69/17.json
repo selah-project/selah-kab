@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Err-iḍ i, a Yahwe, axaṭer ḥesed-ik d ameɣtu; γef lεeḍil n tḥemmalt-inek, wenn γur-i.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Err-iḍ i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "γef lεeḍil n"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tḥemmalt-inek"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "wenn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "γur-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:38.867972232Z",
+  "model": "glm-5.3"
+}

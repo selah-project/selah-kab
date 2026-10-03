@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "D seg tzelzeit n uzna-ines i ḥerrec ⟨את⟩ tamurt, tezni d ⟨את⟩ yelli d ⟨את⟩ useklu.",
+  "tokens": [
+    {
+      "surface": "ו היה",
+      "gloss": "i ḥṛa"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "seg tzelzeit"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "n uzna-ines"
+    },
+    {
+      "surface": "ו תחנף",
+      "gloss": "i ḥerrec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "ה ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ו תנאף",
+      "gloss": "tezni d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelli"
+    },
+    {
+      "surface": "ה אבן",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "d ⟨את⟩",
+      "marks": "useklu"
+    },
+    {
+      "surface": "ה עץ",
+      "gloss": "useklu"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:57.715298740Z",
+  "model": "glm-5.3"
+}

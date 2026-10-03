@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "U rnan mazal ad ṭṭfen ⟨i⟩, ad kren mgal Elyon deg uneẓruf iẓeɣlen.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "rnan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ad ṭṭfen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ad kren mgal"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "deg uneẓruf iẓeɣlen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:51.556181584Z",
+  "model": "glm-5.3"
+}

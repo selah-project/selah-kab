@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Ma kečč, a Yahwe, ad teggziḍ ⟨i⟩ lebda; d ⟨i⟩ tsuta d tsuta i yella asmekti-nnek.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ad teggziḍ"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "asmekti-nnek"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i tsuta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "d tsuta"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:28.884431491Z",
+  "model": "glm-5.3"
+}

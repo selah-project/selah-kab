@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad txedmeḍ tibarriyin i umizbeaḥ, tibarriyin n lexṣab n ccitim; ad tent-tesṣuddeḍ ⟨אתם⟩ s nnḥas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "tibarriyin"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "i umizbeaḥ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tibarriyin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lexṣab"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ccitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ad tent-tesṣuddeḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tibarriyin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nnḥas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:48.714313476Z",
+  "model": "glm-5.3"
+}

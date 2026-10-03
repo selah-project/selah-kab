@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad negrum gar yegduden, tmurt n iɛdawen-nwen ad kent-tecc ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "ad negrum"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gar yegduden"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ad tecc"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt n iɛdawen-nwen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "n iɛdawen-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:08.577721424Z",
+  "model": "glm-5.3"
+}

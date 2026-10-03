@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Llan-a d iqedcen i d-yeṣṣefra Yahwe i ⟨את⟩ Moce: gar wemdan d tmeṭṭut-is, gar ubab d yelli-s, mi tella taweṭṭut deg wexxam n ubab-is.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Llan-a"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yeṣṣefra"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yeṣṣefra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "tmeṭṭut-is"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ubab"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "mi tella taweṭṭut"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "n ubab-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:42:21.140201146Z",
+  "model": "glm-5.3"
+}

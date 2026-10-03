@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Win yesɛelliyen assuppen seg yixfawen n tmurt, ixd lmeḥric i ugeffur, win id-issefɣen ruaḥ seg txenzatin-is.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "yesɛelliyen"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "assuppen"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "seg yixfawen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "lmeḥric"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "i ugeffur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixd"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "win id-issefɣen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "seg txenzatin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:51.972429750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Tizmarin n David. Yahwe, anwa ara yezdeg deg uxam-ik? Anwa ara yezded ad yizzin deg wedrar n teqedcit-ik?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Tizmarin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ara yezdeg"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "deg uxam-ik"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ara yezded ad yizzin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "n teqedcit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:18.222394648Z",
+  "model": "glm-5.3"
+}

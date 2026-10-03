@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ma kečč, ḍfer abrid-ik armi d ⟨the⟩ taggara; ad tessusuḍ, ad tbeddeḍ deg ul-ik deg taggara n wussan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ma kečč"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ḍfer abrid-ik"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "armi d taggara"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "ad tessusuḍ"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ad tbeddeḍ"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "deg ul-ik"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "deg taggara"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "n wussan"
+    }
+  ],
+  "timestamp": "2026-10-03T03:10:46.689536449Z",
+  "model": "glm-5.3"
+}

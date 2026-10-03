@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "⟨את⟩ Uberraḥ ad t-tesṭeqsayeḍ; maḍi ara yili ɣur-k ɣef ⟨את⟩ gma-k, ad tsefḍeḍ s ufus-ik.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uberraḥ"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "Uberraḥ"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "ad t-tesṭeqsayeḍ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "maḍi ara"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gma-k"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "gma-k"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "ad tsefḍeḍ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "s ufus-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T21:57:31.253339400Z",
+  "model": "glm-5.3"
+}

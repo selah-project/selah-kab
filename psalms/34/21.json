@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "⟨Yahwe⟩ yettḥarez ⟨akk⟩ iɣsan-is; yiwen deg-sen ur yettwazdeg.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "yettḥarez"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "iɣsan-is"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "yettwazdeg"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:49.910101240Z",
+  "model": "glm-5.3"
+}

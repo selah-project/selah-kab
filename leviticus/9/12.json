@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yebɣeṣ ⟨את⟩ lɛeqda; wid n Aharan d-rren-as ⟨את⟩ idammen, i yeẓreg deg lmeṣjed, ɣef tama akk.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "yebɣeṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛeqda"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lɛeqda"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "d-rren-as"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "i netta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "i yeẓreg"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣjed"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ɣef tama akk"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:39.794628330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Axaṭer s lbateḥ i d-yekcem, deg tewẓi ad yili, deg tewẓi isem-is ad yeffel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "s lbateḥ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-yekcem"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "deg tewẓi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "deg tewẓi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ad yeffel"
+    }
+  ],
+  "timestamp": "2026-10-03T04:40:39.955013628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ssuleɣ ⟨את⟩ tiḍrin-iw, walaɣ, atan yiwen n wergaz iluben ilem n llin, tiɣmert-is teẓẓ-it s wureɣ n Ufaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Ssuleɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiḍrin-iw"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiḍrin-iw"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "walaɣ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "atan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wergaz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "iluben"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ilem n llin"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "tiɣmert-is"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "teẓẓ-it"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "s wureɣ"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Ufaz"
+    }
+  ],
+  "timestamp": "2026-10-03T03:10:21.904428305Z",
+  "model": "glm-5.3"
+}

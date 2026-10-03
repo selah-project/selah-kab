@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Ne kk i d-mlan, i d-yesellken, i d-yesnin; ulac deg-wen d abeṛṛani; kunwi d inagan-iw, i d-yenna Yahwe, d ne kk i d El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ne kk"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "i d-mlan"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "i d-yesellken"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "i d-yesnin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "deg-wen"
+    },
+    {
+      "surface": "זר",
+      "gloss": "d abeṛṛani"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "inagan-iw"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "d ne kk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:31.331875100Z",
+  "model": "glm-5.3"
+}

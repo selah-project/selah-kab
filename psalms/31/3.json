@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Awed imeẓẓuɣ-ik ɣur-i; s zreb sselles iy-i; ili-d iy-i d aẓru, d taẓult, d axxam n tmezzugyin, iwakken ad t-tessisreḍ iy-i.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "awed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "imeẓẓuɣ-ik"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "s zreb"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "sselles iy-i"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ili-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iy-i"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "d aẓru"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "d taẓult"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "n tmezzugyin"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "iwakken ad t-tessisreḍ iy-i"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:44.401514376Z",
+  "model": "glm-5.3"
+}

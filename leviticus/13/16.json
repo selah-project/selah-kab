@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Neɣ mi ad yuɣal uzemmer amuddir ad yuɣal d amellal, ad d-yuger ɣer ukohen.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "uzemmer"
+    },
+    {
+      "surface": "החי",
+      "gloss": "amuddir"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ad yuɣal d"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "amellal"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ad d-yuger"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ukohen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:03:34.951111346Z",
+  "model": "glm-5.3"
+}

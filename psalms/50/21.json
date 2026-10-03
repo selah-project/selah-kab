@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Tigi i txedmeḍ, maca qqimeγ ⟨sukku⟩; tγilleḍ belli ⟨lliγ⟩ am kečč; ad k-nḥeq γer Yahwe, ad ṣeggmeγ ⟨ten⟩ zdat wallen-ik.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tigi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i txedmeḍ"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "maca qqimeγ ⟨sukku⟩"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "tγilleḍ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨lliγ⟩"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "am kečč"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ad k-nḥeq"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ad ṣeggmeγ ⟨ten⟩"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "zdat wallen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:08.994788043Z",
+  "model": "glm-5.3"
+}

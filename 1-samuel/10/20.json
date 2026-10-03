@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Semuel yerr ⟨את⟩ teqbilt-akk n Yisrael ad tqeṛḍeb, teṭṭef teqbilt n Binyamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yerr ad tqeṛḍeb"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teqbilt-akk n Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "tiqbilin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "teṭṭef"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "teqbilt"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "n Binyamin"
+    }
+  ],
+  "timestamp": "2026-10-02T22:40:44.180617641Z",
+  "model": "glm-5.3"
+}

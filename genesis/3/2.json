@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tameṭṭut-inna d yid-i: 'Nekk neṭṭef iman-nneɣ, ad nečč seg yiwen n wasklu n udiqul-a.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna-d"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "tanaggarut"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "seg umiḍan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "n useklu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "n udiqul"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nečč"
+    }
+  ],
+  "timestamp": "2026-10-03T03:59:28.207656354Z",
+  "model": "glm-5.3"
+}

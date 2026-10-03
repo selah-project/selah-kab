@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yenna-yi: a mis n wemdan, bedd ɣer iḍarren-ik, ad mmeseleɣ ⟨את⟩ kečč.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yi-d"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a mis"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "bedd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "iḍarren-ik"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ad mmeseleɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T00:42:21.446048421Z",
+  "model": "glm-5.3"
+}

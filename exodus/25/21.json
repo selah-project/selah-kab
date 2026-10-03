@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad tefkeḍ ⟨את⟩ tkppert ɣef tsanduqt, seg ufella; deg tsanduqt ad tefkeḍ ⟨את⟩ inagi i k-id-efkeɣ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ad tefkeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tkppert"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tkppert"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tsanduqt"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tsanduqt"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ad tefkeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inagi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "inagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "efkeɣ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "i k"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:48.398348245Z",
+  "model": "glm-5.3"
+}

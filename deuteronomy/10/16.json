@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ssunɣet ⟨את⟩ taɣmara n wulawen-awen, ur ṣeḥḥet aẓaṛ-awen ugar.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Ssunɣet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣmara n wulawen-awen"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "taɣmara"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "n wulawen-awen"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "aẓaṛ-awen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ṣeḥḥet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:09.684416938Z",
+  "model": "glm-5.3"
+}

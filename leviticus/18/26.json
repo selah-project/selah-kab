@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Kunwi ihi ad teḥerzdem ⟨את⟩ tuccdiwin-iw d ⟨את⟩ ccreɛ-iw, ur txedmem ara kra seg timerwa-agi, win ilulen di tmurt akked win nniḍen izdeɣ garawen.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad teḥerzdem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuccdiwin-iw"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "tuccdiwin-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ccreɛ-iw"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ccreɛ-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "txedmem"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kra seg"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "timerwa-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "win ilulen di tmurt"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "akked win nniḍen"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "izdeɣ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "garawen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:28.112460083Z",
+  "model": "glm-5.3"
+}

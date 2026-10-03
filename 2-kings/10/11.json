@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yehu yeḍla ⟨את⟩ wakk i d-yegran seg uxxam n Aḥab di Yizreɛel, akk imeqqranen-is, imcessiten-is, iqedcen-is, arma ur iǧǧi ara-yas amuddir.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yeḍla"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakk i d-yegran seg uxxam n Aḥab di Yizreɛel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wakk"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "i d-yegran"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "seg uxxam"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "di Yizreɛel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "imeqqranen-is"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "imcessiten-is"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "iǧǧi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "amuddir"
+    }
+  ],
+  "timestamp": "2026-10-02T23:31:23.333323792Z",
+  "model": "glm-5.3"
+}

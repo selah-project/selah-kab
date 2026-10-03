@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Amar akk d argaz n temrest, aḥekkam, navi, amseggem, akk d ameqqran.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "amar"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "akk d argaz"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "n temrest"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "aḥekkam"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "amseggem"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "akk d ameqqran"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:55.444358532Z",
+  "model": "glm-5.3"
+}

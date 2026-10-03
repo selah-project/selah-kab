@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Ur ṣebbḥen ara ⟨את⟩ yal iɣlan, i d-yenna Yahwe fell-asen ad t-ḥerben.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ṣebbḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yal iɣlan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yal iɣlan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fell-asen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:38.913923358Z",
+  "model": "glm-5.3"
+}

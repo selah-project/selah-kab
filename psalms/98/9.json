@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "translation": "Dad n Yahwe, acku iusa-d ad iḥkem ⟨את⟩ tamurt; ad iḥkem ⟨את⟩ tevel s ṣedeq, d iɣlanen s teɣzi.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Dad n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "iusa-d"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "s ṣedeq"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "d iɣlanen"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "s teɣzi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:53.059229095Z",
+  "model": "glm-5.3"
+}

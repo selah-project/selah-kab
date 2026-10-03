@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Keččini, a Yahwe, ur tebɛid ara; a tezmert-iw, ɣer tallelt-iw zreb a d-tas-ed.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "keččini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tebɛid ara"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "a tezmert-iw"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ɣer tallelt-iw"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "zreb a d-tas-ed"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:59.286632644Z",
+  "model": "glm-5.3"
+}

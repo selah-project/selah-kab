@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Iyalen ad ccen ⟨את⟩ Izabel deg uḥelq n Yizreɛel, ulac win ara t-ikfin. Ieldi tawwurt, iruḥ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Izabel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ad ccen"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "iyalen"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "deg uḥelq"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "n Yizreɛel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac win"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ara t-ikfin"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ieldi"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "tawwurt"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "iruḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:30:17.874361003Z",
+  "model": "glm-5.3"
+}

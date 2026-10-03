@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ur ḥessmed ara tafsut deg usaru-nnes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ḥessmed ara"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tafsut"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "deg usaru-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:08.106806500Z",
+  "model": "glm-5.3"
+}

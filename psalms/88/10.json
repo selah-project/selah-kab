@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Tiriw-iw teḥmed ɣef lɛeḍḍa-nneɣ; ţuɣal-d ɣer-k, a Yahwe, yal ass, sbeddeɣ-id fellak ifassen-iw.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Tiriw-iw"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "teḥmed"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עני",
+      "gloss": "lɛeḍḍa-nneɣ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ţuɣal-d ɣer-k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "sbeddeɣ-id"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fellak"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ifassen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:23.306771708Z",
+  "model": "glm-5.3"
+}

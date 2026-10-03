@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yerna yexleq sin n yikeruben n deheb, s uẓrem i ⟨את⟩ ten-ixelq, seg sin yiceḍen n Kaporet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ikeruben"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "deheb"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "s uẓrem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixelq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "ikeruben"
+    },
+    {
+      "surface": "משני",
+      "gloss": "seg sin"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "yiceḍen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:49.755525974Z",
+  "model": "glm-5.3"
+}

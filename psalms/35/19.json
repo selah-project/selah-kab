@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ur ad fruriḥen ara yid-i yiḍerren s lekram; wid yekren fell-i war sebba, ur ad mmelmen ara tiṭṭ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur ad"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "fruriḥen ara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "yiḍerren"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "s lekram"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wid yekren fell-i"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "war sebba"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "ur ad mmelmen ara"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tiṭṭ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:12.899367290Z",
+  "model": "glm-5.3"
+}

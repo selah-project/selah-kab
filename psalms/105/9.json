@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Win iɣeẓmen ⟨את⟩ Avraham, d ttalal-is i Yiṣḥaq,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Win"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iɣeẓmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "d ttalal-is"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "i Yiṣḥaq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:03.753505743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 17:28",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yiwen seg ikohanen i ḥecmen seg Cemron yusa-d yezdeɣ di Bet-El, yella d aselmad, ⟨את⟩-ten amek ad kuzzben ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yusa-d"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Yiwen"
+    },
+    {
+      "surface": "מהכהנים",
+      "gloss": "seg ikohanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ḥecmen"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "seg Cemron"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "d aselmad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "amek ad kuzzben Yahwe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "amek"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ad kuzzben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T23:36:59.162458583Z",
+  "model": "glm-5.3"
+}

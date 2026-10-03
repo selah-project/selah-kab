@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "David yefres ⟨את⟩ akk Yisrael, si Ciuṛ n Miṣrayim alama d tnekra n Ḥamat, iwakken ad d-yawi ⟨את⟩ sanduq n Elohim seg Qiryat Yeɛrim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "yefres"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Ciuṛ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "alama d"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tnekra"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ḥamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "iwakken ad d-yawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduq"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "seg Qiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yeɛrim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:15.560795235Z",
+  "model": "glm-5.3"
+}

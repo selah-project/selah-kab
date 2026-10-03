@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Kenan yelliḍ tiḫsa n yiseggwasen, ilul-ed-d Meḥalel-El ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yelliḍ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tiḫsa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggwasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ilul-ed-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meḥalel-El"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Meḥalel-El"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:22.139729246Z",
+  "model": "glm-5.3"
+}

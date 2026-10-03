@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Kcem, ṭleḥ ⟨את⟩ tawwurt ɣef yiman-ik akk d yigerdan-ik, sseɣdes ɣef yal deg yideggen-agi ; win yuḥlen, kken-it-id.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "kcem"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "ṭleḥ"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "tawwurt"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "ɣef yiman-ik"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "yigerdan-ik"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "sseɣdes"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal deg"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "yideggen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "win yuḥlen"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "kken-it-id"
+    }
+  ],
+  "timestamp": "2026-10-03T04:16:52.544776634Z",
+  "model": "glm-5.3"
+}

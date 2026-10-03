@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Lexṣas ameqran yessuster ɣer Una, yerna tirri tṭṭef-it.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "yessuster lexṣas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Una"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "lexṣas"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ameqran"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yerna tirri tṭṭef-it"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨t-id⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T01:25:51.147952867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon d ⟨את⟩ teẓgi-s, ⟨את⟩ Gat Rimmon d ⟨את⟩ teẓgi-s — tamdinin, Four.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "teẓgi-s"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teẓgi-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "teẓgi-s"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teẓgi-s"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tamdinin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kṛaż"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:35.167846673Z",
+  "model": "glm-5.3"
+}

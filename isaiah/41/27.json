@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 41:27",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Nekk i d-amezwaru i d-yennan i Tsiyun: Wa ten-id! I Yerucalayim ad mudded win id-ibanen isallen.",
+  "tokens": [
+    {
+      "surface": "ראשון",
+      "gloss": "Nekk i d-amezwaru"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "i Tsiyun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wa"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ten-id"
+    },
+    {
+      "surface": "ולירושלים",
+      "gloss": "I Yerucalayim"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "win id-ibanen isallen"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad mudded"
+    }
+  ],
+  "timestamp": "2026-10-03T00:00:31.297946858Z",
+  "model": "glm-5.3"
+}

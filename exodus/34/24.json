@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 34:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Acku ad ssuffeɣ leɣyal sdat udmawen-inek, ad ssemɣreɣ ⟨את⟩ tilist-inek; ur yelli ara yiwen ad yebɣu ⟨את⟩ tmurt-inek, mi ara talieḍ ad twaliḍ ⟨את⟩ udmawen n Yahwe Elohim-inek, kraḍ tikkal deg useggas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אוריש",
+      "gloss": "ad ssuffeɣ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leɣyal"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sdat udmawen-inek"
+    },
+    {
+      "surface": "והרחבתי",
+      "gloss": "ad ssemɣreɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tilist-inek"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tilist-inek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur yelli ara"
+    },
+    {
+      "surface": "יחמד",
+      "gloss": "ad yebɣu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-inek"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tmurt-inek"
+    },
+    {
+      "surface": "בעלתך",
+      "gloss": "mi ara talieḍ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad twaliḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udmawen n Yahwe Elohim-inek"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmawen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-inek"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tikkal"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:56:55.213345105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Tsellmeḥ-iḍ iman-iw s tɣuri-nnek, iḍammen iɛeddaven deg wayen yellan d tidet.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "iɛeddaven"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "tsellmeḥ-iḍ iman-iw"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "iḍammen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tellan d tidet"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i nekk"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:35.833489461Z",
+  "model": "glm-5.3"
+}

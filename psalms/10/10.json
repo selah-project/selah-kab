@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ad yexmes, ad yessutur, igellilen ad ccen s tezmert-nnes.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ad yexmes"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ad yessutur"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ad ccen"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "s tezmert-nnes"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "igellilen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:11.410555720Z",
+  "model": "glm-5.3"
+}

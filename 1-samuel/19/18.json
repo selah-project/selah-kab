@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "David yerẓel, yekkes; yusa-d ɣer Cemmuɛel ɣer Rama, yenna-as ⟨את⟩ akk ayen ixdem-as Ccuul. Irbeḥ netta d Cemmuɛel, qqimen deg Nawayot.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "yerẓel"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yusa-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemmuɛel"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ɣer Rama"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "yenna-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk ayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ccuul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "irbeḥ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "d Cemmuɛel"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "qqimen"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "deg Nawayot"
+    }
+  ],
+  "timestamp": "2026-10-02T22:46:39.911334454Z",
+  "model": "glm-5.3"
+}

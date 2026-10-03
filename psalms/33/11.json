@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Tiɣri n Yahwe ad teqqim i lebda, iḥricen n wul-is i tsuta d tsuta.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "tiɣri n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ad teqqim"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "iḥricen n"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "wul-is"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "i tsuta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "d tsuta"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:00.557497680Z",
+  "model": "glm-5.3"
+}

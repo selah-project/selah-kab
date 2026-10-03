@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yahwe d amḍiq n umur-iw d takast-iw; kečč, kečč i d-iṭṭfen wagur-iw.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "amḍiq"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "n umur-iw"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "d takast-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "i d-iṭṭfen"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "wagur-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:07.302919215Z",
+  "model": "glm-5.3"
+}

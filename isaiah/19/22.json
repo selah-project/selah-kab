@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad iwetter Yahwe ⟨את⟩ Miṣrayim — wattar d timmli; ad uɣalen ɣer Yahwe, ad yeqbel-asen, ad ten-iṣeffu.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "ad iwetter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miṣrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "wattar"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "d timmli"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ad uɣalen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "ad yeqbel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "ad ten-iṣeffu"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:05.998337439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Yahwe yeẓra-yaɣ-d: ad yifkineɣ, ad yifkineɣ ⟨את⟩ exxam n Yisrael, ad yifkineɣ ⟨את⟩ exxam n Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "yeẓra-yaɣ-d"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ad yifkineɣ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ad yifkineɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "exxam n Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "exxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ad yifkineɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "exxam n Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "exxam"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:55.350299413Z",
+  "model": "glm-5.3"
+}

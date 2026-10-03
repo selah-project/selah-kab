@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad tsekcmeḍ ⟨את⟩ ibarriyen deg yiwezžen n yal ciḍ ɣef iẓeẓḍa n Tabut, iwakken ad d-yettwal Tabut yisen.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ad tsekcmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibarriyen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ibarriyen"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "deg yiwezžen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "iẓeẓḍa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "iwakken ad d-yettwal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tabut"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Tabut"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yisen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:28.733965327Z",
+  "model": "glm-5.3"
+}

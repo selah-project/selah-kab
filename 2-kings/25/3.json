@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Deg tesɛa n wegsum, yezwar uɣrum tamurt-a, ur d-yegri ara weẓrum i wlacen n tmurt.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Deg tesɛa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n wegsum"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yezwar"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "uɣrum"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tamurt-a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yegri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aẓrum"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i wlacen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:14.698092223Z",
+  "model": "glm-5.3"
+}

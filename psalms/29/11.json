@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Yahwe ad yefk tazmert i ugdud-is; Yahwe ad yebrek ⟨את⟩ ugdud-is s tifrat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "i ugdud-is"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ad yebrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ugdud-is"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "s tifrat"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:30.258371635Z",
+  "model": "glm-5.3"
+}

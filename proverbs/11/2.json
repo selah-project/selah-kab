@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mi d-yusa zzerfa, ad d-yas lexṣara; yid ⟨את⟩ wid yettnadin teqqim-ed teqsiḍt.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Mi d-yusa"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "zzerfa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ad d-yas"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "lexṣara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid yettnadin"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "wid yettnadin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "teqsiḍt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:21:11.715881841Z",
+  "model": "glm-5.3"
+}

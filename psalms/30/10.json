@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Acu n tlufa deg idammen-iw, mi ad rɣeɣ ar ⟨i⟩ Ceol? Ad issisfel urgi? Ad d-yini tidet-ik?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "n tlufa"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "deg idammen-iw"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "mi ad rɣeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar ⟨i⟩ Ceol"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ar ⟨i⟩ Ceol"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Ad issisfel"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "urgi"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Ad d-yini"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tidet-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:46.002722748Z",
+  "model": "glm-5.3"
+}

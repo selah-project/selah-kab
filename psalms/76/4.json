@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 76,
+  "translation": "Dinna ⟨d⟩ yerẓa ifen yettfeḍḍen n teccart, derɛ, teslart d imenɣi. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "yerẓa"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ifen yettfeḍḍen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "teccart"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "derɛ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "d teslart"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "d imenɣi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:54.789526322Z",
+  "model": "glm-5.3"
+}

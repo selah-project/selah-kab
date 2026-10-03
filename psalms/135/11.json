@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Siḥun agellid n Yemoriyen, d Ɛug agellid n Bacan, akk d tigeldiwin n Kenaɛan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Siḥun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "n Yemoriyen"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "d Ɛug"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "n Bacan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "tigeldiwin"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenaɛan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:31.866648953Z",
+  "model": "glm-5.3"
+}

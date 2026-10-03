@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim n yimawlan-awen, ad yernu ɣef wen am kunwi alef n tikkal, ad yeberek ⟨את⟩ wen akken i d-yenna Yahwe i wen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "n yimawlan-awen"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ɣef wen"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "am kunwi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "alef"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "n tikkal"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ad yeberek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "wen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:08.086863660Z",
+  "model": "glm-5.3"
+}

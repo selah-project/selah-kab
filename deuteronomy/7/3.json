@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur tzegguḍeḍ deg-sen: taferkit-ik ur tt-ttakkdeḍ i mmi-s, taferkit-is ur tt-tteṭṭfeḍ i mmi-k.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "tzegguḍeḍ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "taferkit-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ttakkdeḍ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "i mmi-s"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "taferkit-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tteṭṭfeḍ"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "i mmi-k"
+    }
+  ],
+  "timestamp": "2026-10-02T21:51:14.717216921Z",
+  "model": "glm-5.3"
+}

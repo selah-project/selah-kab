@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Teṭṭef tmurt-a d tamuɣli deg lmuḥaṣara arma d useggas wis tamt n ugellid Ṣedqiyyahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "teṭṭef d tamuɣli"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tmurt-a"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "deg lmuḥaṣara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "wis tamt"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tamt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "useggas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣedqiyyahu"
+    }
+  ],
+  "timestamp": "2026-10-02T23:41:14.697954833Z",
+  "model": "glm-5.3"
+}

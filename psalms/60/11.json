@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Anwa ara iyi-d-ibbwin ɣer temdint taḥercmt? Anwa ara iyi-ihudden ar Edum?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ara iyi-d-ibbwin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ɣer temdint"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "taḥercmt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ara iyi-ihudden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edum"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:10.400733792Z",
+  "model": "glm-5.3"
+}

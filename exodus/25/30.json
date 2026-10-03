@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Ad tsersgeḍ ɣef tfelwit aɣrum n uḥric, qbel-i, i lebḍa.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ad tsersgeḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tfelwit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "n uḥric"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel-i"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i lebḍa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:22.525703908Z",
+  "model": "glm-5.3"
+}

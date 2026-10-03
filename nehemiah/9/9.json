@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Twaliḍ ⟨את⟩ lḥeɛna n yibabaten-nneɣ deg Miṣrayim, d ⟨את⟩ lɛeǧǧa-nsen twessmaɛ-tt ɣef ilel n Ṣuf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Twaliḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeɛna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "lḥeɛna"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "n yibabaten-nneɣ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɛeǧǧa-nsen"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "lɛeǧǧa-nsen"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "twessmaɛ-tt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "n Ṣuf"
+    }
+  ],
+  "timestamp": "2026-10-03T03:20:44.157117190Z",
+  "model": "glm-5.3"
+}

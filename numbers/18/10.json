@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Deg umaḥal n yiqecren n yiqecren ara t-teṭṭfeḍ ⟨אתו⟩; yal awetted ad t-iṭṭ ⟨אתו⟩; iqecren n yiqecren ad yili ikek.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "deg umaḥal n yiqecren"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "n yiqecren"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ara t-teṭṭfeḍ ⟨אתו⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "awetted"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad t-iṭṭ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (ayen yettwaṭṭfen)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqecren"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ikek"
+    }
+  ],
+  "timestamp": "2026-10-02T21:34:35.406366298Z",
+  "model": "glm-5.3"
+}

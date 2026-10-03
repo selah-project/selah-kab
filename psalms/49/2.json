@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Clet ayagi, yal iy lgiran; ẓer <...> yal imezdaɣ n lweḥd-a <...>.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "clet"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "lgiran"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "sdidiyt-as"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "imezdaɣ n"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "lweḥd-a"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:19.861633390Z",
+  "model": "glm-5.3"
+}

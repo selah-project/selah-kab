@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Qqaren: Elohim iḥejben? yeǧǧa-t; ḍefren-t, ḥekmen-t; axaṭer ur illi win iḥekkren.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "qqaren"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "yeǧǧa-t"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ḍefren-t"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ḥekmen-t"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur illi"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "win iḥekkren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:04.409175661Z",
+  "model": "glm-5.3"
+}

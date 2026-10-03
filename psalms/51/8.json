@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Walan, tideṭṭ i t-ḥemmleḍ deg ixef-is; deg umkan uffir ad yissineɣ tamusni, ad t-id-tesmektiḍ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Walan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tideṭṭ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "i t-ḥemmleḍ"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "deg ixef-is"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "deg umkan uffir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tamusni"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ad t-id-tesmektiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:24.943630791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ma yeffren aɣella n tmurt ⟨את⟩ wallen-nsen seg umdan-nni, mi yefka si zerɛ-is i Molex, ur neɣɣin ara ad t-neɣten,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "tuffra"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "ad fferen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "aɣella"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wallen-nsen"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "wallen-nsen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umdan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "mi yefka"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "si zerɛ-is"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i Molex"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ad t-neɣten"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t-",
+      "marks": "umdan-nni"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:26.358729684Z",
+  "model": "glm-5.3"
+}

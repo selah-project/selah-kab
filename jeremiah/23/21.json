@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ur uzneɣ ara ⟨את⟩ innaviyen, ihi zerben; ur mmeslayeɣ ara ɣur-sen, ihi imeslayen d navi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ur uzneɣ ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innaviyen"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "innaviyen"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "zerben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ur mmeslayeɣ ara"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "imeslayen d navi"
+    }
+  ],
+  "timestamp": "2026-10-03T00:25:01.529370706Z",
+  "model": "glm-5.3"
+}

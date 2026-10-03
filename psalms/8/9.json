@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "tiyḍancin n yigenwan, d isellemcen n yilel, win yettazalen iberdan n yilellen.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "tiyḍancin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "n yigenwan"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "d isellemcen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yilel"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "win yettazalen"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "iberdan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n yilellen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:58.626224219Z",
+  "model": "glm-5.3"
+}

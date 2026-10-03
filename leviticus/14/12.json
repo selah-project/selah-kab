@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad yawi ḥekkim n tneqlit ⟨את⟩ yiwen n yiserḍan d ⟨את⟩ yiɣi n uzemmur; ad ten-yerr d tiqbilin deg wudem n Yahwe; d ayen yeḥman ad yernu deg wudem n Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ad yawi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ḥekkim n tneqlit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiwen n yiserḍan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "iserḍan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ad d-yerr"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "d tiqbilin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yiɣi n uzemmur"
+    },
+    {
+      "surface": "לג",
+      "gloss": "yiɣi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "n uzemmur"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ad ten-yessujed"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "d asujed"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "s wudem n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:16.305395265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 23:23",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "siwa deg useggas wis-tam deg tgeldit n Yoceyahu i yettwag Pesaḥ-agi i Yahwe, deg Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": "siwa"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "deg useggas wis-tam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ten"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "useggas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i tgeldit"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoceyahu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yettwag"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-02T23:38:22.296694213Z",
+  "model": "glm-5.3"
+}

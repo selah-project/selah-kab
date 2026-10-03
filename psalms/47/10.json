@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 47,
+  "translation": "Imeqqranen n yegdudzen ttwaḥerṛqen d ⟨את⟩ yegdudzen n Elohim n Avraham; axaṭer i Elohim llan igarden n tmurt, yuli aṭas maᵓ.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "Imeqqranen"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "n yegdudzen"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ttwaḥerṛqen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d ⟨את⟩ yegdudzen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "n Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "igarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas maᵓ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "yuli"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:30.640802937Z",
+  "model": "glm-5.3"
+}

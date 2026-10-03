@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad t-tqebbeḍ ⟨את⟩ s werɣ iṣeḥḥan: ⟨את⟩ iɣef-ines, ⟨את⟩ iɣerwan-ines ayen i d-izzin, d ⟨את⟩ iqerṛen-ines; ad txelqed-as zer n werɣ ayen i d-izzin.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ad t-tqebbeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t (s werɣ)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "werɣ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "iṣeḥḥan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣef-ines"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "iɣef-ines"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iɣerwan-ines"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "iɣerwan-ines"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ayen i d-izzin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iqerṛen-ines"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "iqerṛen-ines"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txelqed"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zer"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n werɣ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ayen i d-izzin"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:49.308465958Z",
+  "model": "glm-5.3"
+}

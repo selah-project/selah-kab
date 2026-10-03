@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "translation": "Ur ten-teqqel ara, iwakken ur yettu ara agdud-iw; err-itent ad leḥḥun s tazmert-ik, ad ten-tessexliḍ, a Adonai, ajellad-nneɣ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "teqqel"
+    },
+    {
+      "surface": "פן",
+      "gloss": "iwakken ur… ara"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "yettu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "err-itent ad leḥḥun"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "s tazmert-ik"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "ad ten-tessexliḍ"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ajellad-nneɣ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:00.915277386Z",
+  "model": "glm-5.3"
+}

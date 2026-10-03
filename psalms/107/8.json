@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ad cceḥḥen Yahwe ɣef ḥesed-is, ɣef tibanin-is i warraw n yimdanen.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ad cceḥḥen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "tibanin-is"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warraw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:13.013494297Z",
+  "model": "glm-5.3"
+}

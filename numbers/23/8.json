@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Amek ara kkedḥeɣ, Elohim ur ikkedḥi ara? Amek ara zzemɛeɣ, Yahwe ur izemɛi ara?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "amek"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "ara kkedḥeɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ikkedḥi ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "amek"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "ara zzemɛeɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "izemɛi ara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:39:16.482500940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 140,
+  "translation": "Igeḥmaḥ feln-d-i tigeṭṭift, d iḍerman; ẓellgen-d azeṭṭa ɣer tama n ubrid; rran-d-i imeslen. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "feln-d"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Igeḥmaḥ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tigeṭṭift"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-i"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "d iḍerman"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ẓellgen-d"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "azeṭṭa"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ɣer tama"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "n ubrid"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "imeslen"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "rran-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-i"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:03.971529378Z",
+  "model": "glm-5.3"
+}

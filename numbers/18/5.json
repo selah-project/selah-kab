@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Ad tḥerzem ⟨את⟩ aḥraz n yiqedcen d ⟨את⟩ aḥraz n umizbeaḥ, iwakken ur ttili ara lǧahd tikkelt nniḍen ɣef warraw n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad tḥerzem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḥraz n yiqedcen"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "aḥraz"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aḥraz n umizbeaḥ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "aḥraz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "n umizbeaḥ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikkelt nniḍen"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "lǧahd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:02.595633696Z",
+  "model": "glm-5.3"
+}

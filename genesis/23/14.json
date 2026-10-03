@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Efron yerrar ⟨את⟩ Avraham, yenna-yas:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yerrar"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:31.978792768Z",
+  "model": "glm-5.3"
+}

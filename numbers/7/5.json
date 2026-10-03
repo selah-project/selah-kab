@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ṭṭef-iten-id, ad ilin i wxedm n ⟨את⟩ tixedmi n Ohel Moɛed; ad ten-tekfes ɣer ileviyyen, yal argaz akken tella tixedmi-nnes.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ṭṭef-iten-id"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "seg-sen ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "i wxedm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tixedmi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tixedmi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moɛed"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ad ten-tekfes"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ten ⟨את⟩",
+      "marks": "ɣer ileviyyen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ileviyyen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "akken tella"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "tixedmi-nnes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:24:06.526604923Z",
+  "model": "glm-5.3"
+}

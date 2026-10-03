@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Argaz ameẓyan ur yezmir ad yissin, akken i win n dirit ur ifhim ara ⟨את⟩ wagi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yezmir ad yissin"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "akken i win n dirit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ifhim ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wagi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wagi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:56.966256250Z",
+  "model": "glm-5.3"
+}

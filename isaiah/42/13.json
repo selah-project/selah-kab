@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yahwe ad yeffeɣ am wemɣar, am wemdan n tmenɣiwin ad iskker tanayt-ines; ad izekref, inna ad yijjew ɣef yiḍan-ines, ad yezmer.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "am wemɣar"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "am wemdan"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "n tmenɣiwin"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ad iskker"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "tanayt-ines"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "ad izekref"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inna"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "ad yijjew"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "yiḍan-ines"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "ad yezmar"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:07.852654185Z",
+  "model": "glm-5.3"
+}

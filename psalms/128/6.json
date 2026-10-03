@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 128,
+  "translation": "Ad twaliḍ arrac n warrac-ik. Tifrat ɣef Yisrael!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ad twaliḍ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "n warrac-ik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Tifrat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:18.565335836Z",
+  "model": "glm-5.3"
+}

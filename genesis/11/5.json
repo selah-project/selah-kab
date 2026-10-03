@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yuder-ed Yahwe akken ad iwali ⟨את⟩ tamdint d ⟨את⟩ taburjt, i ttben warrac n wemdan.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yuder-ed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamdint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taburjt"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "taburjt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ttben"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:56.685427093Z",
+  "model": "glm-5.3"
+}

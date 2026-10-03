@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ma d teɣzi n lḥouṣa, ɣer tama n usamar, ɣer usamar ⟨tella⟩ 50 ama.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "ma d teɣzi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n lḥouṣa"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ɣer tama n"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "usamar (tazwara)"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ɣer usamar"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "50"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:21.096282152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yettwasdukel s leɛrez si fel, ɣef tisura i yellan ɣef yiɛemḍen — kuẓin d semmusin, semmus d mraw deg yal yir.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "yettwasdukel"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "s leɛrez"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "si fel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "tisura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "yiɛemḍen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kuẓin"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "d semmusin"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "deg yal yir"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:43.157291545Z",
+  "model": "glm-5.3"
+}

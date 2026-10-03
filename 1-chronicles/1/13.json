@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Kenaɛan iwli-d ⟨את⟩ Ṣidon, akabar-is, d ⟨את⟩ Ḥet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaɛan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "iwli-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Ṣidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "akabar-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥet"
+    }
+  ],
+  "timestamp": "2026-10-03T03:23:58.793786052Z",
+  "model": "glm-5.3"
+}

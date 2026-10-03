@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Akka i d-yenna ugellid: Ur kwen-iṭṭef ara Ḥizqiya, axaṭer ur izmir ara ad kwen-isellek ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ur… ara"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kwen-iṭṭef"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwen"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ur izmir ara"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "ad kwen-isellek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kwen",
+      "marks": "kwen (tanekda)"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:41.133457096Z",
+  "model": "glm-5.3"
+}

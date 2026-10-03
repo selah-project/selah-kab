@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ma d ⟨את⟩ yizer, iṭṭef-t ɣef tfesnin, Moce i yeḥraq ⟨את⟩ reɛṣ, akked ⟨את⟩ tfesnin, akked ⟨את⟩ deeẓmumen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ma d ⟨את⟩",
+      "marks": "yizer"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "yizer"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "iṭṭef-t ɣef tfesnin"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "tfesnin"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "i yeḥraq (isembun)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reɛṣ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "reɛṣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "tfesnin"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "tfesnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "deeẓmumen"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "deeẓmumen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:18.472502852Z",
+  "model": "glm-5.3"
+}

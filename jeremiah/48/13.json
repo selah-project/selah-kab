@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Moab ad yelḥem s Kemoc, akken yelḥem wexxam n Yisrael s Bet-El, tamant-nssen.",
+  "tokens": [
+    {
+      "surface": "ובוש",
+      "gloss": "ad yelḥem"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "s Kemoc"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "yelḥem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "tamant-nssen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:37:08.116648463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ur tezgi ara deg tmurt n Yahwe; Efraim ad yuɣal ɣer Miṣrayim, deg Acur ad ccen ⟨את⟩ lḥaj ur nzid ara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "יֵשְׁב֖וּ",
+      "gloss": "tezgi"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וְשָׁ֤ב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "אֶפְרַ֨יִם֙",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מִצְרַ֔יִם",
+      "gloss": "ɣer Miṣrayim"
+    },
+    {
+      "surface": "וּבְאַשּׁ֖וּר",
+      "gloss": "deg Acur"
+    },
+    {
+      "surface": "טָמֵ֥א",
+      "gloss": "ur nzid ara"
+    },
+    {
+      "surface": "יֹאכֵֽלוּ",
+      "gloss": "ad ccen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:31:23.352648464Z",
+  "model": "glm-5.3"
+}

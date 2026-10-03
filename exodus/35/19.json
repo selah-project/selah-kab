@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "⟨את⟩ ilman inesɣlen i wakken ad xedmen deg iqedcen, ⟨את⟩ ilman iqedsen i Aharon akohen, d ⟨את⟩ ilman n waraw-is, i wakken ad kkfan d ikohanen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilman inesɣlen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "inesɣlen"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "i wakken ad xedmen"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg iqedcen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilman iqedsen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "iqedsen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ilman n waraw-is"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "n waraw-is"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "i wakken ad kkfan d ikohanen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:20.911861843Z",
+  "model": "glm-5.3"
+}

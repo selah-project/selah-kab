@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Deg useggas mi d-yewweḍ Tartan ɣer Acdud, mi ⟨את⟩ t-id-yeuzen Sargun, agellid n Accur, i yennaɣi mgal Acdud i ṭṭef-tt.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mi d-yewweḍ"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ɣer Acdud"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "mi t-id-yeuzen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t-id",
+      "marks": "Sargun"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Accur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "i yennaɣi"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "mgal Acdud"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "i ṭṭef-tt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:51.296052605Z",
+  "model": "glm-5.3"
+}

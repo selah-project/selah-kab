@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yeffeḍ ⟨את⟩ semset (5) n tiyriɛin s lxudent, ⟨wə⟩⟨את⟩ sett (6) n tiyriɛin s lxudent.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "yeffeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semset n tiyriɛin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "semset"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "n tiyriɛin"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "s lxudent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sett n tiyriɛin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sett"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "n tiyriɛin"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "s lxudent"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:08.646891368Z",
+  "model": "glm-5.3"
+}

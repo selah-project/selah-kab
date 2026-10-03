@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Seg uḍar n wid n tucḍa, wayen i yi-ḥerben, iɛdawen-iw s nefsi tzewwlen-d ɣef i.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "seg uḍar n"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n tucḍa"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "i yi-ḥerben"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "s nefsi"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "tzewwlen-d"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:39.294632043Z",
+  "model": "glm-5.3"
+}

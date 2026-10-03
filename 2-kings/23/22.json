@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Acku ur yettwagi ara Pesaḥ am wa-agi, seg wussan n wid izerrben Yisrael, i yal ass n yigelliden n Yisrael akk d yigelliden n Yeḥuda;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yettwagi"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "am Pesaḥ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "seg wussan"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "izerrben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ẓerben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ussan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "yigelliden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "d yigelliden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeḥuda"
+    }
+  ],
+  "timestamp": "2026-10-02T23:38:22.296457362Z",
+  "model": "glm-5.3"
+}

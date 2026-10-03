@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 54,
+  "translation": "Acku idraren ad ṭṭfen-ed, tewrura ad ḥerrzen; maca ḥesed-iw ⟨i d-yeffeɣ⟩ ⟨את⟩ deg-k ur it-id-yuɣal ara, d lɛahd n tifrat-iw ur d-yettɣ ara, i d-yenna Yahwe, win k-iḥemmen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "idraren"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "ad ṭṭfen-ed"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "tewrura"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "ad ḥerrzen"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ḥesed-iw"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ deg-k",
+      "marks": "ḥesed-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "n tifrat-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ad yeggasu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "win k-iḥemmen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:04:47.657120653Z",
+  "model": "glm-5.3"
+}

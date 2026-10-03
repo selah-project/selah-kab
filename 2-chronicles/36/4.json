@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yerna agellid n Miṣrayim yeḥkem ⟨את⟩ Eliyaqim gma-s ɣef Yehuda d Yerucalayim, yerna ibeddel ⟨את⟩ yisem-is ɣer Yehuyaqim; ⟨את⟩ Yehuaḥaz gma-s Neko yeṭṭef-t udi-t ɣer Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yeḥkem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyaqim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliyaqim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "d Yerucalayim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ibeddel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yisem-is"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ɣer Yehuyaqim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuaḥaz"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yehuaḥaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yeṭṭef-t"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "udi-t"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ɣer Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:57:37.497749139Z",
+  "model": "glm-5.3"
+}

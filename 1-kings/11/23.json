@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Elohim yeldi-as d amceggel: ⟨את⟩ Rezon mmi-s n Elyada, win yunwelen ⟨את⟩ Ḥdadezer agellid n Ṣuba, bab-is.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yeldi-as d"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "amceggel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "yunwelen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ seg"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Ḥdadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid n"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Ṣuba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bab-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:18:28.797094513Z",
+  "model": "glm-5.3"
+}

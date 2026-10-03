@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Fukkent tiẓallin n David, mmi-s n Yiši.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "fukkent"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "tiẓallin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yiši"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.544233878Z",
+  "model": "glm-5.3"
+}

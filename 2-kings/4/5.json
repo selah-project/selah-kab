@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Teffeɣ ɣur-s, tessuddel tawwurt ⟨את⟩ ɣef yiman-is d ⟨את⟩ warraw-is; nitni d ssawden ɣer-s, yerna tettessukt.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Teffeɣ ɣur-s"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩-is"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "tessuddel"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "tawwurt"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ɣef yiman-is"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nitni"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "d ssawden"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "tettessukt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:28:45.986661566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Snenmret-t aɣ igenwan n yigenwan, akken d waman i yellan ssat n yigenwan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Snenmret-t"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n yigenwan"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "akken d waman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ssat n"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yigenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.050274423Z",
+  "model": "glm-5.3"
+}

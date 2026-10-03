@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 90,
+  "translation": "Ssebɣen-aɣ-d di lqahwa s lḥesed-ik, iwakken ad nerru d ad nḥullec deg yal ass n wussan-nneɣ.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Ssebɣen-aɣ-d"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "di lqahwa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "s lḥesed-ik"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "ad nerru"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "d ad nḥullec"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ass n wussan-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:40.498794253Z",
+  "model": "glm-5.3"
+}

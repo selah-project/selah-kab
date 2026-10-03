@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 80,
+  "translation": "Elohim, err-aɣ-d, d-iban udem-ik, ad nelli d yebbẓen!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "err-aɣ-d"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "d-iban"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ad nelli d yebbẓen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:10.053681397Z",
+  "model": "glm-5.3"
+}

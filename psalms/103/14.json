@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Punent Yahwe d tanummi-nneɣ; yeẓra belli d aɣɣar neḥnessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Punent Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yeẓra"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "d tanummi-nneɣ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "yeẓra belli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "d aɣɣar"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "neḥnessa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:36.137388164Z",
+  "model": "glm-5.3"
+}

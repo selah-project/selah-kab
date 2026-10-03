@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Wudem n Yahwe ⟨yella⟩ mgal wid yettxeddmen dirit, iwakken ad yekkes seg tmurt asmekti-nsen.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "wudem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "mgal wid yettxeddmen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "iwakken ad yekkes"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "asmekti-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:49.708992339Z",
+  "model": "glm-5.3"
+}

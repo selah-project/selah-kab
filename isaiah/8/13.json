@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahwe Ṣebaot, netta ad t-iqedcsen; ⟨את⟩ d netta ay d tagi-nwen, d netta ay d tugdi-nwen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Ṣebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ad t-iqedcsen"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "ad t-iqedcsen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "tagi-nwen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "tugdi-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:06.818210953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "ad azneɣ fellawen s lɣeddeb n leɛdawet, ad kwen-iɛaqbeɣ ⟨את⟩, ula nekk, sa n tikkal ɣef lḥeṭṭiyat-nwen.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ad azneɣ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "fellawen"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "s lɣeddeb"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "n leɛdawet"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "ad kwen-iɛaqbeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa n tikkal"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "lḥeṭṭiyat-nwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:32.995605300Z",
+  "model": "glm-5.3"
+}

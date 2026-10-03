@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Aharon d warrac-is ḍfen ⟨את⟩ akk awalen i ḥeṣṣa Yahwe s ufus n Moce.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ḍfen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "d warrac-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ḥeṣṣa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "n Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:52.638350209Z",
+  "model": "glm-5.3"
+}

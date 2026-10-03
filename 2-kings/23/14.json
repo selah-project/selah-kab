@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yeṣṣef ⟨את⟩ isentalen, yenzeg ⟨את⟩ tiɣmar n Acerah, yuɣal ileqqem ⟨את⟩ imeḍqan-nnsent s iɣṛḍan n wemdan.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "yeṣṣef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isentalen"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "isentalen"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "yenzeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣmar n Acerah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tiɣmar n Acerah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "yuɣal ileqqem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeḍqan-nnsent"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "imeḍqan-nnsent"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "s iɣṛḍan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-02T23:39:32.955071930Z",
+  "model": "glm-5.3"
+}

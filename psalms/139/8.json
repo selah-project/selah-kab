@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Ma tuliɣ ɣer ⟨y⟩ igenwan, Kečči i da; ma ssegnenɣ deg Ceol, ha-t-an Kečči.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "tuliɣ ɣer"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "i da"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kečči"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ssegnenɣ deg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ha-t-an Kečči"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.765356373Z",
+  "model": "glm-5.3"
+}

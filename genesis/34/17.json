@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ma ur nessaram ara i nekkni, ad tettwagemt, ad nudan ⟨את⟩ yelli-taneɣ, ad nunefk.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nessaram"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "i nekkni"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "ad tettwagemt"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "ad nudan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelli-taneɣ"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "yelli-taneɣ"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "ad nunefk"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:47.439499658Z",
+  "model": "glm-5.3"
+}

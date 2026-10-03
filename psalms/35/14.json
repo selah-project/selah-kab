@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Akken i umiḥib, akken i gma, eddliɣ tameṭṭut; am win yettawalen γef yemma-s, twenniγ, kuẓeγ lxatem.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "akken i umiḥib"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "akken i gma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "eddliɣ"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "am win yettawalen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "γef yemma-s"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "twenniγ"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "kuẓeγ lxatem"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:51.484675824Z",
+  "model": "glm-5.3"
+}

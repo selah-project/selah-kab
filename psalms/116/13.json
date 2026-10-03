@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 116,
+  "translation": "Taqedcit n tallalt ad tt-suliɣ, d yisem n Yahwe ad i-selɣuɣ.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "taqedcit"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "n tallalt"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ad tt-suliɣ"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "d yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad i-selɣuɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:25.768040124Z",
+  "model": "glm-5.3"
+}

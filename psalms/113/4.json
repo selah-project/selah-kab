@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 113,
+  "translation": "Yahwe yuli-d akken ad yili ⟨i⟩ lɛaliyen ɣef λaɣyuli akk; tezmert-is tella ⟨i⟩ lɛaliyen ɣef yigenwan.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "lɛaliyen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leɣyuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yigenwan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tezmert-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:31.268641739Z",
+  "model": "glm-5.3"
+}

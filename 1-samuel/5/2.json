@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ifilistiyen ṭṭfen ⟨את⟩ taṣabit n Elohim, kecmen-tt-id deg uxxam n Dagon, ṭṭfen-tt ḥerbes ɣer Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ifilistiyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taṣabit n Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "taṣabit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "kecmen-tt-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "deg uxxam n Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "n Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ṭṭfen-tt ḥerbes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ḥerbes ɣer Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ḥerbes ɣer"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-02T22:39:04.468015932Z",
+  "model": "glm-5.3"
+}

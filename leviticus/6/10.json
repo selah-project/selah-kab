@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ur tettwaferk ara s ḥameẓ; d aseččan-nsen i iyi-ttunefken ⟨את⟩ seg tmes-iw; d iqedcen n yiqedcen ⟨⟨d-tella⟩⟩, am ḥaṭṭat am akken d acem.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "tettwaferk"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "s ḥameẓ"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "d aseččan-nsen"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "i iyi-ttunefken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "seg tmes-iw"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "seg tmes-iw"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d-tella"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "am ḥaṭṭat"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "am akken d acem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:41.711797640Z",
+  "model": "glm-5.3"
+}

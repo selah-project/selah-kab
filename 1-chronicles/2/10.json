@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ram iwelḍed ⟨את⟩ Ɛamminadab; Ɛamminadab iwelḍed ⟨את⟩ Naḥcon, ameqqran n yigerdan n Yehuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelḍed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛamminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Ɛamminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "Ɛamminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelḍed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naḥcon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Naḥcon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:23.399088216Z",
+  "model": "glm-5.3"
+}

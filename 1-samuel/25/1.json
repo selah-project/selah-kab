@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Semuel yemmut, akk Yisrael ijmeɛ iman-is, ḥeṛmen fell-as, ḥeṛṛen-t deg uxxam-is deg Rama. David ibedd-d, idder ɣer ugeẓru n Parɛan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ijmeɛ iman-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ḥeṛmen fell-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ḥeṛṛen-t"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "deg uxxam-is"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "deg Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ibedd-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "idder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ugeẓru"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "n Parɛan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:49:14.666370282Z",
+  "model": "glm-5.3"
+}

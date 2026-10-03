@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Yahwe i yebennun Yerucalayim, wid yettwarken seg Yisrael ad yefren-ten.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "i yebennun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "wid yettwarken"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "seg Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "ad yefren-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:33.517497059Z",
+  "model": "glm-5.3"
+}

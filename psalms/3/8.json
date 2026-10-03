@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Nnekker, a Yahwe, jekki-yi-d, a Elohim-iw, axaṭer tḍewwiṛeḍ ⟨את⟩ akk iεeddiyen-iw deg leḥja, terẓiḍ tiẓi n wid yehwjen.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "nnekker"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "jekki-yi-d"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tḍewwiṛeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iεeddiyen-iw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "iεeddiyen-iw"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "deg leḥja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tiẓi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "n wid yehwjen"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "terẓiḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:45.434852852Z",
+  "model": "glm-5.3"
+}

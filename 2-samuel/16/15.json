@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Avcalom akked ugdud akk, irgazen n Yisrael, kecmen ɣer Yerucalayim; Aḥitofel ⟨את⟩ yid-s.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked… akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Aḥitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s",
+      "marks": "Aḥitofel yid-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:02:43.086155008Z",
+  "model": "glm-5.3"
+}

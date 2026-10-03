@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Timna tella d tameṭṭut tacennayt n Elifaz, mmi-s n Ɛicav, ternu d-tesnaǧ i Elifaz ⟨את⟩ Ɛamaleq; d warrac-agi n Ɛada, tameṭṭut n Ɛicav.",
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "d tameṭṭut tacennayt n"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ɛicav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ernu d-tesnaǧ"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "i Elifaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛamaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Ɛamaleq"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "d warrac-agi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ɛada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tameṭṭut n"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ɛicav"
+    }
+  ],
+  "timestamp": "2026-10-02T20:26:54.001375155Z",
+  "model": "glm-5.3"
+}

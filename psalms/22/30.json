@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ad ccen akk wid icednen n tmurt ad kṛen ɣer zdat-is; akk wid izeddun ɣer weẓẓaḍen ad kṛen; ula neft-agi ur tezmir ara ad tzegg i tmeddurt-is.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Ad ccen"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ad kṛen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "wid icednen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ɣer zdat-is"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ad kṛen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "wid izeddun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ɣer weẓẓaḍen"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "neft-agi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "tezmir ara ad tzegg i tmeddurt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:36.060590052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Arraw n Yehuda nnaɣen ɣer Yerucalayim, ṭṭen ⟨את⟩-is, ḥerben-t ⟨s tɣzi⟩ n yifessi, rran ⟨את⟩ aɣrem ɣer tmes.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "nnaɣen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ɣer Yerucalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ṭṭen"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim (tis)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ḥerben-t"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s tɣzi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n yifessi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aɣrem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "aɣrem"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "rran"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ɣer tmes"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:24.186177473Z",
+  "model": "glm-5.3"
+}

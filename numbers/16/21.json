@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ffeɣet seg tlemmast n tajmaɛt-agi, ad ten-ṣeɣɣeɣ ⟨אתם⟩ deg yiwet n tesdidt.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "Ffeɣet"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg tlemmast"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tajmaɛt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ad ten-ṣeɣɣeɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten — tajmaɛt-agi"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "deg yiwet n tesdidt"
+    }
+  ],
+  "timestamp": "2026-10-02T21:33:22.032123407Z",
+  "model": "glm-5.3"
+}

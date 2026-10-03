@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Acku irẓa ⟨את⟩ tibura n lxdec, ⟨את⟩ iḥedran n wuzzal yeqṭa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "irẓa"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "tibura"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n lxdec"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "iḥedran"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "n wuzzal"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "yeqṭa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:06.897705327Z",
+  "model": "glm-5.3"
+}

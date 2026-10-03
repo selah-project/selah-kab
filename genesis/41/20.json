@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Tten-t tfunasin tiḍellanin d tigejdanin ⟨את⟩ sa n tfunasin timezwura, timeṭṭanin.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Tten-t"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "tfunasin"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "tiḍellanin"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "d tigejdanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa n tfunasin timezwura, timeṭṭanin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "n tfunasin"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "timezwura"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "timeṭṭanin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:44.318948418Z",
+  "model": "glm-5.3"
+}

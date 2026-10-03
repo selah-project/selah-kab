@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Nekki ad iqqseγ ⟨את⟩ ul n Parɛo, ad s-ternuγ ⟨את⟩ iznan-iw d ⟨את⟩ tbukkitin-iw deg tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Nekki"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ad iqqseγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul n Parɛo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parɛo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ad s-ternuγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iznan-iw"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "iznan-iw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tbukkitin-iw"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "tbukkitin-iw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:05.833913795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Elohim ur tqellel ara; win yettḥekken deg ugdud-ik, ur tkreh ara.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "tqellel ara"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "win yettḥekken"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "deg ugdud-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "tkreh ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:01:25.777569336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 100,
+  "translation": "Amazmur n tanemmirt. Zzewwqet i Yahwe, tamurt akk.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Amazmur"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "n tanemmirt"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Zzewwqet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:39.031382436Z",
+  "model": "glm-5.3"
+}

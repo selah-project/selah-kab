@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Wid n Yisrael ɛeḍlen seg Raɛmeses, ṣubben di Succot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ɛeḍlen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "seg Raɛmeses"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ṣubben"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "di Succot"
+    }
+  ],
+  "timestamp": "2026-10-02T21:45:21.587070027Z",
+  "model": "glm-5.3"
+}

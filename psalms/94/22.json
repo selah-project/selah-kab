@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Yahwe iḥul-d imi-n d aqeṛṛu n temẓert, Elohim-iw d taṣerf n usellek-iw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "iḥul-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "imi-n"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "d aqeṛṛu n temẓert"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "d taṣerf"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "n usellek-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:27.005921092Z",
+  "model": "glm-5.3"
+}

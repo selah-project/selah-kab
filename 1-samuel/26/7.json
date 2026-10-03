@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 26:7",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "David d Avicay usan-d ɣer ugdud deg yiḍ, waɣeḍ Ceul yettaweḍ iṭṭessen deg umseɣwen, yaneccab-is yeqqim deg wakal ⟨iɛeddan⟩ ar ras-is, Avner d ugdud llan ṣṭafen ttikwal-is.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "usan-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "d Avicay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "waɣeḍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceul"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yettaweḍ"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "iṭṭessen"
+    },
+    {
+      "surface": "במעגל",
+      "gloss": "deg umseɣwen"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "yaneccab-is"
+    },
+    {
+      "surface": "מעוכה",
+      "gloss": "yeqqim iḍemmen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg wakal"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ar ras-is"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "Avner d"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "ṣṭafen"
+    },
+    {
+      "surface": "סביבתו",
+      "gloss": "ttikwal-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:44.631560539Z",
+  "model": "glm-5.3"
+}

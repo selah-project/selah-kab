@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ad zzin warraw-is i lebda, ad ssutren, ad wwin ɣef lxedma-nsen seg yixxamen-nsen i yerzen.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ad zzin"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ad ssutren"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ad wwin"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "seg yixxamen-nsen i yerzen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:46.336115143Z",
+  "model": "glm-5.3"
+}

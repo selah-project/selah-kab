@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "U sseɣɣiɣ dinna ⟨את⟩ teṣedfert anda yella lɛahd n Yahwe, i iɣṛem akked tarwa n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "u sseɣɣiɣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teṣedfert"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "teṣedfert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yella"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iɣṛem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tarwa n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T03:38:46.903906877Z",
+  "model": "glm-5.3"
+}

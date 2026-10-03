@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Weɣdli akk yessenqel ⟨את⟩ iṛẓag n dheheb i d-llan deg yimeẓẓuɣ-nsen, waɣren-ten ɣer <\/b>Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "yessenqel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "weɣdli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛẓag n dheheb"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "iṛẓag"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n dheheb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-llan"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "deg yimeẓẓuɣ-nsen"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "waɣren-ten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:59.118411911Z",
+  "model": "glm-5.3"
+}

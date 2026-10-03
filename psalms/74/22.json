@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Ihder, a Elohim; ḥkem taɛekkumt-ik; cfu ɣef teḥreft-ik sɣur unebḥuf, yal ass.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ihder"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ḥkem"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "taɛekkumt-ik"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "cfu"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "teḥreft-ik"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sɣur"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "unebḥuf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:41.473215864Z",
+  "model": "glm-5.3"
+}

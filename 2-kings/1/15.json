@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna lmelk n Yahwe ɣur Eliyahu: derred yidde-s, ur ttagad ara tama-s; yuker, yuder yidde-s ar ugellid.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "lmelk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣur"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "derred"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yidde-s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ttagad"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "tama-s"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yuker"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "yuder"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yidde-s"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:15.389242019Z",
+  "model": "glm-5.3"
+}

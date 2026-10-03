@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yufa Elohim ⟨את⟩ akk wayen i d-iexleq. Kunwi walit: d ameɣtu neṣḥa. Yella-d yiṭ, yella-d tafuyt — ass wis sedis.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Yufa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wayen i d-iexleq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-iexleq"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "Kunwi walit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "neṣḥa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yiṭ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tafuyt"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wis sedis"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:06.644026444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Wid igerrzen ad faḥlen, ad d-ceɛlen deg udem n Elohim, ad duwlen akken d leḥya.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "wid igerrzen"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ad faḥlen"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ad d-ceɛlen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg udem n"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ad duwlen"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "akken d leḥya"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:06.737316738Z",
+  "model": "glm-5.3"
+}

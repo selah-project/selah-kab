@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Inez i Yahwe, eg aɛrum i yal; ur tḥewwezeḍ ɣef win yettnernin deg ubrid-is, neɣ ɣef wemdan ixedmen iḥawiyi.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Inez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "eg aɛrum i yal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tḥewwezeḍ"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "ɣef win yettnernin"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "deg ubrid-is"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ɣef wemdan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixedmen"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "iḥawiyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:19.227344117Z",
+  "model": "glm-5.3"
+}

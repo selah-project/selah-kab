@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Anwa i ara yi-ttemcibem, a t-εeddan yid-i d yiwen? anwa i ara yi-ttemcibem, iwakken ad nelleγ d yiwen?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "yi-ttemcibem"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "a t-εeddan yid-i"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "yi-ttemcibem"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "ad nelleγ d yiwen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:48.625066464Z",
+  "model": "glm-5.3"
+}

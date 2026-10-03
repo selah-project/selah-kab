@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ɣef waya kkseɣ iman-iw, renɣ ɣef uɣbir d wusigri.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "kkseɣ iman-iw"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "renɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uɣbir"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "wusigri"
+    }
+  ],
+  "timestamp": "2026-10-03T02:48:54.091654617Z",
+  "model": "glm-5.3"
+}

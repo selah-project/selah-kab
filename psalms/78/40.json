@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Acḥal n tikkal ṭṭfen tengult ɣef Yahwe deg uẓeṭṭa, deg Yicimun i t-iḥemmlen?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "acḥal n tikkal"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "ṭṭfen tengult ɣef Yahwe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uẓeṭṭa"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "i t-iḥemmlen"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "deg Yicimun"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:09.888111494Z",
+  "model": "glm-5.3"
+}

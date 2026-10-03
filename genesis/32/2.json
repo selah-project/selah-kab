@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yaɛqov yedda ɣer ubrid-is, ṣadren fell-as imazanen n Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ɣer ubrid-is"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ṣadren fell-as"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "imazanen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:25:16.500842436Z",
+  "model": "glm-5.3"
+}

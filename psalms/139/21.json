@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Mačči d wid i k-ikerhen, a Yahwe, ad ten-kreɣ? D wid iqeqiren ɣef-k, ad ten-kreɣ s zzhet?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "wid i k-ikerhen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "ad ten-kreɣ"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "d wid iqeqiren ɣef-k"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "ad ten-kreɣ s zzhet"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:35.997280507Z",
+  "model": "glm-5.3"
+}

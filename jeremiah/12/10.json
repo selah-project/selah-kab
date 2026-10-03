@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Imarreynen ddekklen ṭṭfen aɣrum-iw, ḍerrnen ⟨את⟩ aḥric-iw, fkan ⟨את⟩ aḥric n tayri-iw d taɣzut n lexṣara.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "imarreynen ddekklen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ddekklen"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "aɣrum-iw"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ḍerrnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḥric-iw"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "aḥric-iw"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "fkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aḥric n tayri-iw"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "aḥric"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "n tayri-iw"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "d taɣzut"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "n lexṣara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:20:13.407104123Z",
+  "model": "glm-5.3"
+}

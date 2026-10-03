@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ad taf afus-ik akk lɛeddan-ik·im, ad taf ayel-ik·im wid k-ikerhen.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ad taf"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik·im"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "lɛeddan-ik·im"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ayel-ik·im"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ad taf"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wid k-ikerhen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:20.927154555Z",
+  "model": "glm-5.3"
+}

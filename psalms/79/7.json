@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "Axir yecce ⟨את⟩ Yaɛqov, d ⟨את⟩ tanezduɣt-is rẓen-t.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yecce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tanezduɣt-is"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "tanezduɣt-is"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "rẓen-t"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:55.702621393Z",
+  "model": "glm-5.3"
+}

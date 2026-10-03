@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ihi ad kkseɣ ⟨את⟩ yismawen n yibaɛalen seg imi-nnes, ur ttusen ara zdat s yismawen-nnsen.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ad kkseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yismawen n yibaɛalen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "yismawen"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "n yibaɛalen"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "seg imi-nnes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יזזכרו",
+      "gloss": "ttusen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "s yismawen-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:16:23.321144666Z",
+  "model": "glm-5.3"
+}

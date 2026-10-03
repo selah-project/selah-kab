@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tiḥerci n wawal i d-yenna Yahwe ɣer Yisrael, s ufus n Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "tiḥerci"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "n wawal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "n Malaki"
+    }
+  ],
+  "timestamp": "2026-10-03T01:36:46.846765488Z",
+  "model": "glm-5.3"
+}

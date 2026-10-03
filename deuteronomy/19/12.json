@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad yazen imɣaren n temdint-is, ad t-id-yebin seg din, ad t-mudden ⟨את⟩ seg ufus n umeḥles n idammen, ad yemmet.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ad yazen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "imɣaren n"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "temdint-is"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ad t-id-yebin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ad t-mudden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "t"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "seg ufus n"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "umeḥles"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "n idammen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ad yemmet"
+    }
+  ],
+  "timestamp": "2026-10-02T21:58:51.503137823Z",
+  "model": "glm-5.3"
+}

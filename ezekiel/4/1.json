@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Keččini, a mmi wemdan, ṭṭef i yiman-ik lbiṛikt, err ⟨את⟩-tt zdat-ik, d mel ɣef-s tɣaṛmt, ⟨את⟩ Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Keččini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a mmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ṭṭef"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "lbiṛikt"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "err"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "lbiṛikt"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "zdat-ik"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "d mel"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tɣaṛmt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerucalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T00:44:52.113066808Z",
+  "model": "glm-5.3"
+}

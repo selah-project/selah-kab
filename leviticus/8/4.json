@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Moce yexdem akken i d-yenna Yahwe ⟨את⟩-is; temsuyt tellul-d ɣer tebburt n uxam n temlilit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-is",
+      "marks": "Moce"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "tellul-d"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "temsuyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tebburt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "n uxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:05.968687276Z",
+  "model": "glm-5.3"
+}

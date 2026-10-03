@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Qader Yahwe ⟨את⟩ s wayen i tesɛaḍ, d ⟨i⟩ tmenzut n wayen akk i d-tkecmeḍ.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Qader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "s wayen i tesɛaḍ"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "d ⟨i⟩ tmenzut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "n wayen akk"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "i d-tkecmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:43.557360738Z",
+  "model": "glm-5.3"
+}

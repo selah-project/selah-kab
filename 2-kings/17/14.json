@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Walden ur sslmen ara, ṣṣeḥnun ⟨את⟩ tiɣmert-nsen am tiɣmert n yimeṭṭawen-nsen, wid ur numin ara di Yahwe Elohim-nsen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sslmen"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ṣṣeḥnun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣmert-nsen"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "tiɣmert-nsen"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "am tiɣmert"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "n yimeṭṭawen-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "numin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:17.723035148Z",
+  "model": "glm-5.3"
+}

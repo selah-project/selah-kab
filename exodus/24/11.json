@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Iɣer yimeqqranen seg warrac n Yisrael ur d-icegger ara afus-is; ẓeḍḍan ⟨את⟩ ⟨i⟩ Elohim, ccekklen ccetben.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "iɣer"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "yimeqqranen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "icegger"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ẓeḍḍan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ccekklen"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ccetben"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:03.083936057Z",
+  "model": "glm-5.3"
+}

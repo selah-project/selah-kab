@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "David yeḥseb ⟨את⟩ ḥeddum i illan ⟨את⟩ yid-s, yerna yeṣṣef deg-sen iqedcen n yifedan d iqedcen n tmiwa.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "yeḥseb"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ḥeddum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ḥeddum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i illan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yeṣṣef"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n yifedan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "d iqedcen"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n tmiwa"
+    }
+  ],
+  "timestamp": "2026-10-02T23:03:46.701704649Z",
+  "model": "glm-5.3"
+}

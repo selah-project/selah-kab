@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Elohim, ggar-ten d imensayen; ad ḍlen seg iḥekuyen-nsen; s lɛadet n yemgiran-nsen ḥeṣṣ-itent-id, acku ḥewlen kečč.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "ggar-ten d imensayen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ad ḍlen"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "seg iḥekuyen-nsen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s lɛadet"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "n yemgiran-nsen"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "ḥeṣṣ-itent-id"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ḥewlen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:55.541954221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Σuεen-t arma d uzal, akken i d-yesselΣa Moce; ur iḥmis ara, taqerεit ur telli deg-s.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Σuεen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "t (ayen i Σuεen)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "uzal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "i d-yesselΣa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "iḥmis ara"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "taqerεit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "telli"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-02T20:45:30.090976957Z",
+  "model": "glm-5.3"
+}

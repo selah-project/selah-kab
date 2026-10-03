@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yedder Set xemsa n yiseggasen d temdi n yisegwas... d temdint n yiseggasen, i d-ilal ⟨את⟩ Anoc.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yedder"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "xemsa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "d temdint"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "i d-ilal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anoc"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Anoc"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:22.006790596Z",
+  "model": "glm-5.3"
+}

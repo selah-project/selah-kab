@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 7:13",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yerna tura, acku txedmem ⟨את⟩ akk tiɣawsiwin-agi, i d-yenna Yahwe, iḍan-nni siḍen-d-iḍ ɣur-kwen zik, u d-meslayeɣ, maca ur tseslameḍ ara; siḍen-weyydeɣ ⟨את⟩-kwen, maca ur d-terrif ara.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Yerna tura"
+    },
+    {
+      "surface": "יען",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עשותכם",
+      "gloss": "txedmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tiɣawsiwin-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "tiɣawsiwin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "meslayeɣ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ɣur-kwen"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "zik, zzat"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "i d-meslayeɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "tseslameḍ"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "weyydeɣ-kwen-id"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "-kwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "d-terrif"
+    }
+  ],
+  "timestamp": "2026-10-03T00:14:50.549894697Z",
+  "model": "glm-5.3"
+}

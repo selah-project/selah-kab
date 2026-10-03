@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Efk-aɣ-d tallalt mgal ⟨i⟩ iḍebsiyen; acku tallalt n umdan d war azal.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "efk-aɣ-d"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "tallalt"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mgal iḍebsiyen"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "acku…d war azal"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "tallalt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n umdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:23.917645871Z",
+  "model": "glm-5.3"
+}

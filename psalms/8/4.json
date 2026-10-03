@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Mi lwalaɣ igenwan-ik, lliɣ adili n yisekkilen-ik, taẓirt d yitran, agi i tessugneḍ:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "lwalaɣ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "igenwan-ik"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "lliɣ adili"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "n yisekkilen-ik"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "taẓirt"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "d yitran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "agi"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "i tessugneḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:16.550575607Z",
+  "model": "glm-5.3"
+}

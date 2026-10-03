@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Acku llan wawalen aṭas i d-yernan tilemmit — acu i d-nnif i wemdan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "יש",
+      "gloss": "llan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "wawalen"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "i d-yernan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tilemmit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "i d-nnif"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "i wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:10.241362862Z",
+  "model": "glm-5.3"
+}

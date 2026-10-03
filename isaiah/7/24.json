@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "S tṣeddiyin d yiris ad yekcen din; axaṭer tmurt akk ad tili d tibeqqsin d yiseḥnun.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "s tṣeddiyin"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "d yiris"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ad yekcen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "tibeqqsin"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "d yiseḥnun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T23:43:20.601634235Z",
+  "model": "glm-5.3"
+}

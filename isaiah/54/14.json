@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 54:14",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 54,
+  "translation": "Deg ṣedaqa ad tettwasbeddeḍ, teqqned teqdit si tmesteqqit, axaṭer ur txexseḍ ara, si lexṣas, axaṭer ur ad yeqqim ara ad d-yewweḍ ɣur-im.",
+  "tokens": [
+    {
+      "surface": "בצדקה",
+      "gloss": "deg ṣedaqa"
+    },
+    {
+      "surface": "תכונני",
+      "gloss": "ad tettwasbeddeḍ"
+    },
+    {
+      "surface": "רחקי",
+      "gloss": "teqqned teqdit si"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "tmesteqqit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "txexseḍ"
+    },
+    {
+      "surface": "וממחתה",
+      "gloss": "si lexṣas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yeqqim ad d-yewweḍ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-im"
+    }
+  ],
+  "timestamp": "2026-10-03T00:04:51.587036701Z",
+  "model": "glm-5.3"
+}

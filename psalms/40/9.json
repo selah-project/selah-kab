@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Ad nexdem riḍa-nnek, a Elohim-iw, i t-ḥemmelɣ; Tora-nnek tella deg ul-iw.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ad nexdem"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "riḍa-nnek"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "i t-ḥemmelɣ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Tora-nnek"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ul-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:40.162347425Z",
+  "model": "glm-5.3"
+}

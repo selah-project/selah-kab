@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yenna-d: Tssuteḍ ayen iweɛɛen i usuter; ma twalaḍ ⟨את⟩-iyi yettunɣen syin ⟨את⟩-ek, ad yili akka i kečč; ma ulac, ur yili ara ⟨akka⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "tssuteḍ ayen iweɛɛen"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i usuter"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "twalaḍ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iyi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yettunɣen"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "syin ⟨את⟩-ek"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ulac"
+    },
+    {
+      "surface": "אין",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yili ara"
+    }
+  ],
+  "timestamp": "2026-10-03T04:17:00.713444513Z",
+  "model": "glm-5.3"
+}

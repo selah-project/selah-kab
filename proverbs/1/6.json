@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Iwakken ad ifhem timsirin d tutlayin n wawal, awalen n yimḥakimen, d tillunin-nsen.",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "ad ifhem"
+    },
+    {
+      "surface": "משל",
+      "gloss": "timsirin"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "tutlayin n wawal"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "n yimḥakimen"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "d tillunin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:54.454845747Z",
+  "model": "glm-5.3"
+}

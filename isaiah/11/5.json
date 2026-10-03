@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad yili ṣedeq d uwizi n tiẓrawin-is, ma d taman d uwizi n iẓra-is.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "uwizi"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "tiẓrawin-is"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ma d taman"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "uwizi"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "iẓra-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:47:12.535469605Z",
+  "model": "glm-5.3"
+}

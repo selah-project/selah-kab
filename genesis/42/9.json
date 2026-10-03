@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Yusuf ismekti ⟨את⟩ tiḥuliyin i iḥulm ɣefsen, yenna-yasen: kunwi d irgazen n trahba; tussedim ad twalim ⟨את⟩ tirgwt n tmurt.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ismekti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiḥuliyin"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "tiḥuliyin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "iḥulm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɣefsen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "yasen"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "irgazen n trahba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ad twalim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirgwt"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tirgwt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "tussedim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:59.287773318Z",
+  "model": "glm-5.3"
+}

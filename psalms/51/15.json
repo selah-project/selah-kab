@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Ad lmedeɣ wid ijehlen iberdan-ik, u wid idnuben ad ruren ɣer-ik.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "Ad lmedeɣ"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "wid ijehlen"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "iberdan-ik"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "u wid idnuben"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer-ik"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ad ruren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:27.652505760Z",
+  "model": "glm-5.3"
+}

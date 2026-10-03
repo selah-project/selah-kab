@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Anwa yerzan El, neɣ issukentaẓru ur nfeɛ ara?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yerza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "taẓru"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "issuken"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "nfeɛ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:17.468068703Z",
+  "model": "glm-5.3"
+}

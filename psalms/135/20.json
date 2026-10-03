@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "A yiselwet n Levi, baraket ⟨את⟩ Yahwe; wid igudden ɣef Yahwe, baraket ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "A yiselwet"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "n Levi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "baraket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "wid igudden ɣef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "baraket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:36.664082034Z",
+  "model": "glm-5.3"
+}

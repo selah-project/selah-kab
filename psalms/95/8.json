@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "Ur ṣṣuḥḥen ulawen-nwen am di Meriba, am ass n Meṣṣa, deg uneẓruf.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ṣṣuḥḥen"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ulawen-nwen"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "am di Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "am ass n"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Meṣṣa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg uneẓruf"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:56.716927544Z",
+  "model": "glm-5.3"
+}

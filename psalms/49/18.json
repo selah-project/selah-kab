@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Axir deg tmekkast-is ur yettawi ara ⟨ulac⟩; leɛqar-is ur d-yettaddu ara deffir-es.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "deg tmekkast-is"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yettawi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨ulac⟩ akk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yettaddu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "deffir-es"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "leɛqar-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:02.152658374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yahwe yelḥes deg wass-nni ⟨את⟩ Yisrael; imenɣi yezri ⟨את⟩ ar Bet Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "yelḥes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "imenɣi"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "yezri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-10-03T04:12:11.188452408Z",
+  "model": "glm-5.3"
+}

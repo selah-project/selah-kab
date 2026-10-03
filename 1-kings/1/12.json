@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tura ṛuḥ, ad ak-ɛiwen s uxeḍṛi, ma ulac aɣilif, iwakken ad tsellekeṭ ⟨את⟩ tmeddurt-ik d ⟨את⟩ tmeddurt n mmi-k Celomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ṛuḥ"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ad ak-ɛiwen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac aɣilif"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "s uxeḍṛi"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ad tsellekeṭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmeddurt-ik"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tmeddurt-ik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmeddurt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tmeddurt"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "n mmi-k"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:15.178548566Z",
+  "model": "glm-5.3"
+}

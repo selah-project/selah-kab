@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 60,
+  "translation": "Yegduden ad ddun ɣer tafat-ik, igelliden ad ddun ɣer spɛa n tulɣa-nnek.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ad ddun"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "yegduden"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ɣer tafat-ik"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ɣer spɛa"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "n tulɣa-nnek"
+    }
+  ],
+  "timestamp": "2026-10-03T04:23:41.326437881Z",
+  "model": "glm-5.3"
+}

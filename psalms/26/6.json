@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ad zzewweɣ isi-iw di lɛafya, ad d-ẓewweɣ ⟨את⟩ issel-ik, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Ad zzewweɣ"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "di lɛafya"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "isi-iw"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "ad d-ẓewweɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "issel-ik"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "issel-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:10.706465456Z",
+  "model": "glm-5.3"
+}

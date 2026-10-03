@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 95,
+  "translation": "I deg gguɣ deg taɛraḍt-iw: «Werjin ad kecmen ɣer usgunfu-w.»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "i deg"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "gguɣ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "deg taɛraḍt-iw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "werjin"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ad kecmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "asgunfu-w"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:29.848256360Z",
+  "model": "glm-5.3"
+}

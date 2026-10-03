@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Moce yqeḍ ad yizdeg akked ⟨את⟩ wemdan-nni; netta yefka-yas ⟨את⟩ Ṣippora, yelli-s, i Moce.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "yqeḍ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ad yizdeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wemdan-nni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan-nni"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka-yas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣippora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ṣippora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "i Moce"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:03.716605257Z",
+  "model": "glm-5.3"
+}

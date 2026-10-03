@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ma d ⟨את⟩ gma-m ameẓyan awit-t-id ɣur-i, iwakken awalen-nwen ad ttusebdun, ur ttemmuten ara. Xedmen akka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ma d ⟨את⟩",
+      "marks": "gma-m ameẓyan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "gma-m"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "awit-t-id"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ad ttusebdun"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "awalen-nwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ttemmuten ara"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    }
+  ],
+  "timestamp": "2026-10-02T20:31:35.102702108Z",
+  "model": "glm-5.3"
+}

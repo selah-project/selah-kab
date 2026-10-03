@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yahwe i d-yuwen ⟨אתכם⟩, yessuffɣ-⟨את⟩ awen-d seg tfurnut n uzzal, seg Miṣrayim, iwakken ad tiliḍ i yal agdud n lweṛṛ-ines, am wass-a.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨אתכם⟩ i d-yuwen",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "i d-yuwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "yessuffɣ-awen-d"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awen",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "seg tfurnut"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "n uzzal"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "iwakken ad tiliḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "n lweṛṛ-ines"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "am wass-a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:42.832515137Z",
+  "model": "glm-5.3"
+}

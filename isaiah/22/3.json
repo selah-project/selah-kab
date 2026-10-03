@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Imqqranen-inek akk rewlen yiwet n tikkelt, war yivi ttwafeṣlen; akk wid i d-yettwafen deg-k ttwafeṣlen yiwet n tikkelt, rewlen-an fennan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "imqqranen-inek"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "rewlen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yiwet n tikkelt"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "war yivi"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ttwafeṣlen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "wid i d-yettwafen deg-k"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ttwafeṣlen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yiwet n tikkelt"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fennan"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "rewlen-an"
+    }
+  ],
+  "timestamp": "2026-10-03T04:21:27.820581478Z",
+  "model": "glm-5.3"
+}

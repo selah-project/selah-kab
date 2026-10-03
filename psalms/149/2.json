@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Ad yecfeh Yisrael deg Wemdan-is, at Siyun ad ɛeǧben deg ugellid-nnsen.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Ad yecfeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "deg Wemdan-is"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyun"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ad ɛeǧben"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "deg ugellid-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:46.692040965Z",
+  "model": "glm-5.3"
+}

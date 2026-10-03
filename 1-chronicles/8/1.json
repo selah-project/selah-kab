@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Binjamin yewlid ⟨את⟩ Bela, akabar-is, Acbel, maḍi wis sin, waḥraḥ, maḍi wis tlata.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "yewlid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "akabar-is"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Acbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "waḥraḥ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis tlata"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:25.171371654Z",
+  "model": "glm-5.3"
+}

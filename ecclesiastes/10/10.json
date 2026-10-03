@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ma yeqruɛ uzzal, yerna ur isewwaq ara udem-is, ad yezdeg laɛtam; lfayda n teẓri d tasfteq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "yeqruɛ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "uzzal"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yerna ⟨is⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udem"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "ur isewwaq ara"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "laɛtam"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "ad yezdeg"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "lfayda"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "tasfteq"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "teẓri"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:16.543107030Z",
+  "model": "glm-5.3"
+}

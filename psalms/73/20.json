@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Am taẓirt mi ara id-nekken, Adonai, mi ara tdullbeḍ, ad tḥeqreḍ tugna-nnsen.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Am taẓirt"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "mi ara id-nekken"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mi ara tdullbeḍ"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "tugna-nnsen"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ad tḥeqreḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:24.205657063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Yir ad iwali akohen ⟨את⟩ yif-agi azemmer amuddir, ad yekteḍ mas d arazdi; azemmer amuddir d arazdi, ṣaɛat-nni d tamoḍt.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yif-agi azemmer amuddir"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "yif-agi azemmer"
+    },
+    {
+      "surface": "החי",
+      "gloss": "amuddir"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ad yekteḍ mas d arazdi"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "azemmer"
+    },
+    {
+      "surface": "החי",
+      "gloss": "amuddir"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "arazdi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tamoḍt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T04:03:34.950843972Z",
+  "model": "glm-5.3"
+}

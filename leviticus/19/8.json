@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Win t-yeččen ad yeṭṭef tuccḍa-nnes, axaṭer irrez ⟨את⟩ iqedcen n Yahwe; tanefs-nni ad yettwakkes seg ugdud-is.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Win t-yeččen"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "tuccḍa-nnes"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqedcen n Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "irrez"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "tanefs-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "n"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "seg ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:12.573587172Z",
+  "model": "glm-5.3"
+}

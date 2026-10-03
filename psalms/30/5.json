@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Zammer i Yahwe, a y-iḥesdayen-is, snubhet i usmekti n teqedcit-is.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zammer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "a y-iḥesdayen-is"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "snubhet"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "i usmekti"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "n teqedcit-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:41.160221748Z",
+  "model": "glm-5.3"
+}

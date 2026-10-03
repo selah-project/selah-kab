@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Reffden-d deg-s ⟨את⟩ tugniwin-nnsen, iḥekmen David d yirgazen-is tent-id-yewwḍen.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Reffden-d deg-s"
+    },
+    {
+      "surface": "שם",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugniwin-nnsen"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "tugniwin-nnsen"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "tent-id-yewwḍen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "d yirgazen-is"
+    }
+  ],
+  "timestamp": "2026-10-02T22:56:38.764297409Z",
+  "model": "glm-5.3"
+}

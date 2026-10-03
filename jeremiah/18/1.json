@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Awal i d-ikecmen ɣer Yirmeya, ⟨את⟩-s d Yahwe i t-id-ibanen, s wawal:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-ikecmen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i d-iban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-s",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    }
+  ],
+  "timestamp": "2026-10-03T00:22:53.538533167Z",
+  "model": "glm-5.3"
+}

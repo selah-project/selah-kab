@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yeḥbes Belaq ifunasen d yimelli, yazen i Bilɛam i yimeḍran yellan ⟨את⟩ d-nit.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Belaq"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ifunasen"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "d yimelli"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yazen"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "i Bilɛam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "i yimeḍran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i Bilɛam i yimeḍran"
+    }
+  ],
+  "timestamp": "2026-10-02T21:38:34.486842302Z",
+  "model": "glm-5.3"
+}

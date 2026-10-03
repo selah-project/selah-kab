@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad d-tewdiḍ ⟨את⟩ wzger ɣdat taḥent n temlilit; Aharon d warrac-is ad ṭṭfen ⟨את⟩ ifassen-nsen ɣef uxem n wzger.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "Ad d-tewdiḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wzger"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "wzger"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣdat"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taḥent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ad ṭṭfen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "d warrac-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifassen-nsen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ifassen-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uxem"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "n wzger"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:16.143729409Z",
+  "model": "glm-5.3"
+}

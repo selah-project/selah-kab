@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tijebbarin ḥadrent ⟨את⟩ Elohim, ur xedmnt ara akken i d-yenna ugellid n Miṣrayim ɣur-sent, u ǧǧant ⟨את⟩ warrac ad ddren.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "ḥadrent"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "tijebbarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmnt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ɣur-sent"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "u ǧǧant ad ddren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warrac"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "warrac"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:17.898230159Z",
+  "model": "glm-5.3"
+}

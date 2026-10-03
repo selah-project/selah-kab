@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Yaɛqov yeqqim d lwaḥid-is, walakin yiwen wergaz yeḥemmen yid-s almi d tekburt n ṣebaḥ.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "yeqqim d lwaḥid-is"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "d lwaḥid-is"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "yeḥemmen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen wergaz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "tekburt"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "n ṣebaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:10.371273473Z",
+  "model": "glm-5.3"
+}

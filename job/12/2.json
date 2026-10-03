@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "S tideṭ, kunwi kan i d ⟨i⟩ agdud, d wennum kan ad yemmut ⟨i⟩ ḥekma.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "s tideṭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ih"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "d wennum"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ad yemmut"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ḥekma"
+    }
+  ],
+  "timestamp": "2026-10-03T02:35:54.221629703Z",
+  "model": "glm-5.3"
+}

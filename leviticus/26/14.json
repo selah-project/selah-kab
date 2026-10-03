@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Ma ur tesslem ara i Nek, ur txedmem ara ⟨את⟩ akk lwasiyyat-agi:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "tesslem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i Nek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "txedmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk lwasiyyat-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "lwasiyyat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:46.625046375Z",
+  "model": "glm-5.3"
+}

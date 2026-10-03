@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "S wawal n Yahwe ttwaxelqen yigenwan; s ruaḥ n imi-s, akk iserdas-nsen.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "S wawal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yigenwan"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ttwaxelqen"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "s ruaḥ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "n imi-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "iserdas-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:18.335357452Z",
+  "model": "glm-5.3"
+}

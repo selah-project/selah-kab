@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ggmen-d ⟨את⟩ tmeɣra n yixxamen n lxedma, akken i d-ura, u ṭṭfen-d tikci n wass s wass, s umḍan, akken i d-nermed deg ccreɛ, d lḥeǧǧa n yal ass deg wass-is.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ggmen-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmeɣra n yixxamen n lxedma"
+    },
+    {
+      "surface": "חג",
+      "gloss": "tmeɣra"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "n yixxamen n lxedma"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "akken i d-ura"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "tikci yettuneḥmun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "s wass"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "s umḍan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akken i d-nermed deg ccreɛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lḥeǧǧa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yal ass"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "deg wass-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:42:06.343767853Z",
+  "model": "glm-5.3"
+}

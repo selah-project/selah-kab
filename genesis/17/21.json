@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Ma d lɛahd-iw, ad tentebbt ⟨את⟩ akken illa ɣer Yiṣḥaq, win ara d-ilalen i kečč Sara, deg llewqit-agi, deg useggas-nniḍen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ad tentebbt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win ara"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ad d-ilal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "deg llewqit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:15:51.520014751Z",
+  "model": "glm-5.3"
+}

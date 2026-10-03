@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Agdud-ik, a Yahwe, ṭṭfen-t dderya; lɛerḍ-ik taqdimt tt-ḥeṣren.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "agdud-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ṭṭfen-t dderya"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "lɛerḍ-ik taqdimt"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "tt-ḥeṣren"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:25.628604684Z",
+  "model": "glm-5.3"
+}

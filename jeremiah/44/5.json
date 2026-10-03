@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Ur slen ara, ur ḍlen ⟨את⟩ timesnin-nsen ad uɣalen seg tixerḍi-nsen, ur kkaten ara i iṛebbiten nniḍen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ḍlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timesnin-nsen"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "timesnin-nsen"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ad uɣalen"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "seg tixerḍi-nsen"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "kkaten"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i iṛebbiten"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:36:53.686871809Z",
+  "model": "glm-5.3"
+}

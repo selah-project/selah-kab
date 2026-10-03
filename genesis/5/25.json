@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yedder Metucelaḥ semmus-tam d tmanya n yiseggasen, d miya n yiseggasen, imlal-d ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yedder"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metucelaḥ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "semmus-tam"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "d tmanya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "d miya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "imlal-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:28.386048072Z",
+  "model": "glm-5.3"
+}

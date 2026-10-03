@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Wid izdeɣen Yebuṣ nnan i David: «Ur tekkised ara ɣer da.» Maca David yeṭṭef ⟨את⟩ taɣremt n Ṣiyyon — d nettat ay d tamdint n David.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "Wid izdeɣen"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yebuṣ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ur…ara"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tekkised"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɣer da"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣremt n Ṣiyyon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "taɣremt"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d nettat ay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:25.720269014Z",
+  "model": "glm-5.3"
+}

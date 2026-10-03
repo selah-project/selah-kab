@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Yusa-d Yosef ɣer-sen deg tufat, iwala ⟨את⟩-sen, dɣa ha-tenen ttbanen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Yusa-d"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣer-sen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tufat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-sen",
+      "marks": "wid iwala Yosef"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dɣa ha-tenen"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "ttbanen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:29:45.333736545Z",
+  "model": "glm-5.3"
+}

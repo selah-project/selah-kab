@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ad yili taggara-nnes i wakken ad yettwakkes; deg wegguḍ nniḍen ad yettwaseḥwes ⟨את⟩ yisem-nsen.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "taggara-nnes"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "i wakken ad yettwakkes"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "deg wegguḍ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "ad yettwaseḥwes"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "yisem-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:20.898166270Z",
+  "model": "glm-5.3"
+}

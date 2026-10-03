@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Heggan ⟨את⟩ tminḥa arma d-yusa Yosef deg tmezgelt, axaṭer slen belli dinna ad seččen aɣrum.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "Heggan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tminḥa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tminḥa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "d-yusa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "deg tmezgelt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ad seččen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:39.746240667Z",
+  "model": "glm-5.3"
+}

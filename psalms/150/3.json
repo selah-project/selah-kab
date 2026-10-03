@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 150,
+  "translation": "Sebbḥet-t s lɣiḍ n cufer, sebbḥet-t s nvel d cnor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Sebbḥet-t"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "s lɣiḍ n"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "cufer"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "sebbḥet-t"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "s nvel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "d cnor"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:16.514688388Z",
+  "model": "glm-5.3"
+}

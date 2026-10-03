@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Akken i iḥkam Yahwe ⟨את⟩ Moce, akka i xedmen tulawin n Cilofeḥad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Akken i"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "iḥkam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "i xedmen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tulawin"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Cilofeḥad"
+    }
+  ],
+  "timestamp": "2026-10-02T21:46:42.520555978Z",
+  "model": "glm-5.3"
+}

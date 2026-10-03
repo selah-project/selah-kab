@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Tamurt akk ad knen fell-ak, ad ak-zemren, ad zemren isem-ink. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ad knen fell-ak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ad ak-"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ad ak-zemren"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ad zemren"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ink"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:33.284154631Z",
+  "model": "glm-5.3"
+}

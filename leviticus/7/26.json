@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Iḍammen akk wudem ur ten-teččem ara, deg tanezduɣin-nwen akk, n yiṭar akked lweḥc.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akk wudem"
+    },
+    {
+      "surface": "דם",
+      "gloss": "iḍammen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "teččem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg ... akk"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tanezduɣin-nwen"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "n yiṭar"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "akked lweḥc"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:02.451286179Z",
+  "model": "glm-5.3"
+}

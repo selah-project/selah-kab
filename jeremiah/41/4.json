@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Yella-d deg wass wis sin, ɣef lɛedna n teɣsayt n ⟨את⟩ Gedalyahu, ula d yiwen ur yezri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "n teɣsayt n"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ula d yiwen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yezri"
+    }
+  ],
+  "timestamp": "2026-10-03T00:34:14.477546491Z",
+  "model": "glm-5.3"
+}

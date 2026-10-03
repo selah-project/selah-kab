@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": " Ad tili tminḥa n Yehuda d Yerucalayim tezdeɣ ar Yahwe am wussan n temdint-nni qdimt, am yiseggasen niqen.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "ad tili...tezdeɣ ar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "tminḥa n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "d Yerucalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "am wussan n"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "temdint-nni qdimt"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "am yiseggasen"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "niqen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:12.018152802Z",
+  "model": "glm-5.3"
+}

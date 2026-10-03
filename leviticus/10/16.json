@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 10:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Tayaxt taḥtant ⟨את⟩ yessuter Moce i d-yessuter, wah, ttwaṛɣa; yekcem-asen i Elɛazar d i Ɛitamar, arraw n Aharon wid i d-yegran, ad yini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tayaxt taḥtant"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "tayaxt"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "taḥtant"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yessuter i d-"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yessuter"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wah"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ttwaṛɣa"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "yekcem-asen"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elɛazar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d i"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Ɛitamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "הנותרם",
+      "gloss": "wid i d-yegran"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-02T21:07:55.711163063Z",
+  "model": "glm-5.3"
+}

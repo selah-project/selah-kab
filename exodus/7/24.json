@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Miṣrayim akk gren-d talawiwin i d-yezzin ɣef wasif, iwakken ad ssen taman, axaṭer ur nezmiren ad ssen taman seg waman n wasif.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "gren-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "i d-yezzin ɣef"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "מים",
+      "gloss": "talawiwin … taman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ad ssen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nezmiren"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ad ssen"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "seg waman"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "n wasif"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:34.760537726Z",
+  "model": "glm-5.3"
+}

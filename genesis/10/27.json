@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "⟨את⟩ Haduram, ⟨את⟩ Uzal, ⟨את⟩ Diqlah,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haduram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Haduram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Diqlah"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diqlah"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:56.215523307Z",
+  "model": "glm-5.3"
+}

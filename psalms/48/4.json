@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Elohim deg yiɣermanen-is Yettwassan d tturi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "deg yiɣermanen-is"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "Yettwassan"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "d tturi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:32.994009961Z",
+  "model": "glm-5.3"
+}

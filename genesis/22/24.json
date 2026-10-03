@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Taɣyult-is, isem-is Reuma, tellid ula d nettat ⟨את⟩ Ṭebaḥ, ⟨את⟩ Gaḥam, ⟨את⟩ Taḥac d ⟨את⟩ Maɛaḫa.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Taɣyult-is"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tellid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nettat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṭebaḥ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Ṭebaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Gaḥam"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaḥam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Taḥac"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Taḥac"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Maɛaḫa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maɛaḫa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:24.229164652Z",
+  "model": "glm-5.3"
+}

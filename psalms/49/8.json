@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "A gma, ulac win izmren ad isellek ⟨gma⟩; ur izmir ad yefk i Elohim ittew n usellek-is.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "A gma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ad isellek"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "izmren ad isellek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur izmir"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ittew n usellek-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:02.111918342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Deg wakud-nni Ḥizqiya yeɣzem ⟨את⟩ tibura n heykal Yahwe, d ⟨את⟩ tiseɛrumin i Ḥizqiya, agellid n Yehuda, iẓfen, yefka-ten i ugellid n Acur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "yeɣzem"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibura n heykal Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "tibura"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heykal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tiseɛrumin"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "tiseɛrumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "iẓfen"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "yefka-ten"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:27.254758630Z",
+  "model": "glm-5.3"
+}

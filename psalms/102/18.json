@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Ad iwexxeṛ ɣer ussutra n win iwḥalen, ur iḥeṣṣ ara ⟨את⟩ as sutra-nsen.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Ad iwexxeṛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "ussutra n"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "win iwḥalen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "iḥeṣṣ ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "as sutra-nsen"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "as sutra-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:49.409585934Z",
+  "model": "glm-5.3"
+}

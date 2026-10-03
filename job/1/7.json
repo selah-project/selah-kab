@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna Yahwe i Satan: Ansi-t telliḍ? Satan yerra ⟨את⟩ Yahwe, yenna: seg tinig di tmurt, seg undeḥ deg-s.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Ansi-t"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "yerra"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "seg tinig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tmurt"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "seg undeḥ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:31:24.780852143Z",
+  "model": "glm-5.3"
+}

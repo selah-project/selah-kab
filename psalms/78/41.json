@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Uɣalen ujjin ijehlen ⟨את⟩ El, iqedcen n Yisrael wannin-as tilas.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "uɣalen"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ijehlen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "wannin-as tilas"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:00.113515340Z",
+  "model": "glm-5.3"
+}

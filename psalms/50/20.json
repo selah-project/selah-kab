@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Tettiliḍ, tqesseḍ ɣef gma-k, ɣef mmi-s n yemma-k tefkaḍ ⟨את⟩ twaḥcilt.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Tettiliḍ"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ɣef gma-k"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tqesseḍ"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ɣef mmi-s"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "n yemma-k"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tefkaḍ"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "twaḥcilt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:28.484604058Z",
+  "model": "glm-5.3"
+}

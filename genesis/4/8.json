@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yenna Qajin i Hebel gma-s. Mi llan deg wurti, Qajin yuli ɣer Hebel gma-s, inɣa-t.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "llan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg wurti"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "inɣa-t"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:28.332987568Z",
+  "model": "glm-5.3"
+}

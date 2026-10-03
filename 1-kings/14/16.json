@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad yefk Yisrael i beṭṭu, ɣef ibekkiben n Yiṛubbeɛm: wayen i exdem, wayen i yexdem Yisrael ad ixedmem tacriḥt.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ibekkiben"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yiṛubbeɛm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "i exdem"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "i yexdem Yisrael ad ixedmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:41.558904774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Mi iseggren iznan-is deg Miṣrayim, d leɛǧubat-is deg wurti n Ṣoɛan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "iseggren"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "iznan-is"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "d leɛǧubat-is"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg wurti"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Ṣoɛan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:00.113851583Z",
+  "model": "glm-5.3"
+}

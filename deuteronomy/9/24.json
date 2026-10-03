@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "D imeḥreṛ tellid akked Yahwe, seg wass ay ẓriɣ ⟨את⟩ kunyeɣ.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "imeḥreṛ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "tellid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "seg wass"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ay ẓriɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunyeɣ",
+      "marks": "kunyeɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:34.439669368Z",
+  "model": "glm-5.3"
+}

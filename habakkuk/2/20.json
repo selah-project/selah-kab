@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe yella deg uyekan iqedcen-is: ad yemmeskin ⟨ḥed⟩, tamurt akk, ɣer zdat-is.",
+  "tokens": [
+    {
+      "surface": "ויהווה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "deg uyekan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqedcen-is"
+    },
+    {
+      "surface": "הס",
+      "gloss": "ad yemmeskin"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ɣer zdat-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:29:26.419757874Z",
+  "model": "glm-5.3"
+}

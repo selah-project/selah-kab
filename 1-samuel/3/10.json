@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yukcem Yahwe, yeqqim, yessawel-d, tikkelt ticki tikkelt: Cemuwel, Cemuwel. Yenna Cemuwel: Mmeslay, axaṭer yesseflaweḍ amakki-ik.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yukcem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel-d"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "tikkelt"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ticki tikkelt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuwel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuwel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuwel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mmeslay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yesseflaweḍ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "amakki-ik"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:49.805098974Z",
+  "model": "glm-5.3"
+}

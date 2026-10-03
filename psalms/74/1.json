@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 74,
+  "translation": "Lemd i d-yeǧǧa Asaf. I waqeding, a Elohim, tḥeṛbeḍ-aneɣ i lebda? Acuɣer i tteɛessan yidesser-ideg iẓeḍ deg yifran n trebbut-iw?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Lemd"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i d-yeǧǧa Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "I waqeding"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "tḥeṛbeḍ-aneɣ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "i tteɛessan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "yidesser-ideg"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "deg yifran"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "n trebbut-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:23.988422002Z",
+  "model": "glm-5.3"
+}

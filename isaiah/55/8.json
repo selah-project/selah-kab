@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Axaṭer iḥekmuyen-iw mačči d iḥekmuyen-nwen, iberdan-nwen mačči d iberdan-iw, i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "iḥekmuyen-iw"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "iḥekmuyen-nwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "iberdan-nwen"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iberdan-iw"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:04:56.570564449Z",
+  "model": "glm-5.3"
+}

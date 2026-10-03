@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "I yimendac-ik d i yigersiwen-abaṛaren i yellan deg tmurt-ik, akk taylant-is ad tili d učči.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "i yimendac-ik"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "d i yigersiwen-abaṛaren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "deg tmurt-ik"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "taylant-is"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "d učči"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:44.463356336Z",
+  "model": "glm-5.3"
+}

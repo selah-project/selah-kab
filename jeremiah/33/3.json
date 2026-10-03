@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Ssuṭer-ed ɣur-i, ad k-inerr, ad ak-d-iniɣ ayen meqqren d wusridden, ur ten-tessineḍ ara.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ssuṭer-ed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "ad k-inerr"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ad ak-d-iniɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ayen meqqren"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "d wusridden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tessineḍ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T00:31:06.053398681Z",
+  "model": "glm-5.3"
+}

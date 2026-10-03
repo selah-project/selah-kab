@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mi ilha lḥal i yimṣeddiqen, tamdint tettfarḥ; yerna mi ṛẓen yimḍebren, yella uceṛṛeḥ.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "mi ilha lḥal"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "i yimṣeddiqen"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "tettfarḥ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "yerna mi ṛẓen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yimḍebren"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "yella uceṛṛeḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:24.722138759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Teldi-tt, tufa-t d ⟨את⟩ ameẓyan: walan, aqcic inij! Tḥemmel fell-as, tenna-d: Si warrac n Ibrim iyi-d yagi.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "teldi-tt"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "tufa-t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ameẓyan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "walan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "aqcic"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "inij"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "tḥemmel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna-d"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "si warrac n"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibrim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yagi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:58.936476184Z",
+  "model": "glm-5.3"
+}

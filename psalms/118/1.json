@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 118,
+  "translation": "Sneggret i Yahwe, axaṭer d ameɣtu, axaṭer ḥesed-is ad yili i lebda.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Sneggret"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d ameɣtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:30.962783053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yenna: Ur txelli, axir llan ⟨את⟩ d-neɣ wugar n wid i d-ten-illan ⟨את⟩ d-nten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "txelli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "wugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid i d-illan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ d-neɣ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "wugar n wid i d-illan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ d-nten"
+    }
+  ],
+  "timestamp": "2026-10-02T23:29:10.394524184Z",
+  "model": "glm-5.3"
+}

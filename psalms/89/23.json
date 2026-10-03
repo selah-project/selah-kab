@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Ur it-id-yettwalas adu, ur t-id-yezgel ⟨ula⟩ wid n teḥqercit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "it-id-yettwalas"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "adu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "t"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "⟨ula⟩ wid n"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "teḥqercit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "t-id-yezgel"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:44.616499128Z",
+  "model": "glm-5.3"
+}

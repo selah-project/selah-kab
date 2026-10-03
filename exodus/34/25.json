@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ur tettazzaḍ ara idammen n uzbeḥ-iw akked ceffur; uzbeḥ n teccirt n Pesaḥ ur ad yeqqim ara arma d tufat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "tettazzaḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "akked"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ceffur"
+    },
+    {
+      "surface": "דם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "n uzbeḥ-iw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "arma d tufat"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uzbeḥ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "n teccirt"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "n Pesaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:55:50.943124717Z",
+  "model": "glm-5.3"
+}

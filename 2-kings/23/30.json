@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Meeddayen-is sullen-t ⟨meqqṛeḍ?⟩ meyyet si Megiddu, wwḍen-t ɣer Yerucalayim, veḥḥen-t deg weqbureṛ-ines. Agdud n tmurt yewwi-d ⟨את⟩ Yehoaḥaz, mmi-s n Yoaciyahu, dehnen-t, rran-t d agellid deg umkan n baba-s.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "sullen-t deg terkest"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "meeddayen-is"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meyyet"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "si Megiddu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wwḍen-t"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ɣer Yerucalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "veḥḥen-t"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "deg weqbureṛ-ines"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoaḥaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaḥaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "n Yoaciyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "dehnen-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoaḥaz"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "rran-t d agellid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoaḥaz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    }
+  ],
+  "timestamp": "2026-10-03T04:18:30.084377925Z",
+  "model": "glm-5.3"
+}

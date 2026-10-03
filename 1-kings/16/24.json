@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 16:24",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yexsi ⟨את⟩ wedrar n Cemrun ɣer Cemer, s snat n tiqebbin n lfeḍḍa; yebna ɣef wedrar-nni, isem-is n temdint i yebna i isem n Cemer, bab n wedrar-nni, Cemrun.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "yexsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adrar n Cemrun"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Cemrun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "i ⟨את⟩, seg"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Cemer"
+    },
+    {
+      "surface": "בככרים",
+      "gloss": "s snat n tiqebbin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfeḍḍa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adrar"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar-nni"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yefka isem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem n temdint"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שם",
+      "gloss": "isem"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "n Cemer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "n wedrar-nni"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Cemrun"
+    }
+  ],
+  "timestamp": "2026-10-02T23:21:49.065489241Z",
+  "model": "glm-5.3"
+}

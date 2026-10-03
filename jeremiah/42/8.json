@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Isawel ɣer Yewḥanan, mmi-s n Qereaḥ, d ɣer meṛṛa yimeqqranen n yiserdasen i yellan ⟨את⟩ yid-s, d meṛṛa wagdud, seg wemeẓyan arma d ameqqran.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "isawel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yewḥanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qereaḥ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "yimeqqranen n"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "yiserdasen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s",
+      "marks": "yid-s"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "d meṛṛa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wagdud"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "seg wemeẓyan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "d ameqqran"
+    }
+  ],
+  "timestamp": "2026-10-03T00:35:31.522901462Z",
+  "model": "glm-5.3"
+}

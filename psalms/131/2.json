@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 131,
+  "translation": "Xaṭi, ssmektiɣ-as ad t-teqqim d taqburit ⟨⟨nefs-iw⟩⟩, am win yeffeɣ seg yemma-s; am win yeffeɣ seg yemma-s, akka i teqqim nefs-iw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "xaṭi"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ssmektiɣ-as"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ad t-teqqim d taqburit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "am win yeffeɣ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "seg"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yemma-s"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "am win yeffeɣ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "seg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefs-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:02.653942946Z",
+  "model": "glm-5.3"
+}

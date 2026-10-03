@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Tawruz deg umkan n twruz, tiṭṭ deg umkan n tiṭṭ, tiɣmest deg umkan n tiɣmest; akken yefka aksar i wemdan, akken ad yettwafk fell-as.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "tawruz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "twruz"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tiṭṭ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tiṭṭ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tiɣmest"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan n"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tiɣmest"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "מום",
+      "gloss": "aksar"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akken"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ad yettwafk"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T21:17:44.868452257Z",
+  "model": "glm-5.3"
+}

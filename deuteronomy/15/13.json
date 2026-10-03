@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Ma tettazneḍ-t-id d ilelli seg sdat-ik, ur t-taznen ara ad yeffeɣ d ilem.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "tettazneḍ-t-id"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "d ilelli"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "seg sdat-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "t-taznen"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "d ilem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:56:10.585905926Z",
+  "model": "glm-5.3"
+}

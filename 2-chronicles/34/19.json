@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Mi issel ugellid ⟨את⟩ awalen n Tora, iqeccε ⟨את⟩ ilmen-is.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "issel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "n Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "iqeccε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilmen-is"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ilmen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:56:40.640561125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yebna ⟨את⟩ Bet-Leḥem, ⟨את⟩ Ɛeṭam, ⟨את⟩ Teqwaɛ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Leḥem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Leḥem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛeṭam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Ɛeṭam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Teqwaɛ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Teqwaɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:41:21.081784970Z",
+  "model": "glm-5.3"
+}

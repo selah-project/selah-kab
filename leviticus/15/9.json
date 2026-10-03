@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Taḥrant akk ideg ippirebbu win yesɛan asaffa, ad tili d araqdec.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "taḥrant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ippirebbu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "win yesɛan asaffa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ad tili d araqdec"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:03.620086843Z",
+  "model": "glm-5.3"
+}

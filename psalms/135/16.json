@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 135,
+  "translation": "Agem ɣur-sen, ur ttmeslayen ara; allen ɣur-sent, ur ẓerrint ara.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "agem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ttmeslayen"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "allen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɣur-sent"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ẓerrint"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:33.574501691Z",
+  "model": "glm-5.3"
+}

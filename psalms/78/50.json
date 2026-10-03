@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yesseḥwi abrid i waḥmum-is; ur iḥeṣṣa ara nnefs-nsen si tmektant, tudert-nsen id-yefka i lweṭwa.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "yesseḥwi"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "i waḥmum-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "iḥeṣṣa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "si tmektant"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nnefs-nsen"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "tudert-nsen"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "i lweṭwa"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "id-yefka"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:00.585428543Z",
+  "model": "glm-5.3"
+}

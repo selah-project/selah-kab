@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Yenna: Nekk ad liliɣ yid-k, d wagi i ked-imeggi i ked-iceyyɛen; mi tsuffuɣed ⟨את⟩ ugdud seg Miṣrayim, a ttaɛdem iqedcen i ⟨את⟩ Elohim ɣef wedrar-agi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ad liliɣ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "d wagi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i ked"
+    },
+    {
+      "surface": "האות",
+      "gloss": "imeggi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "i ked-iceyyɛen"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "mi tsuffuɣed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "a ttaɛdem iqedcen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:54.351757385Z",
+  "model": "glm-5.3"
+}

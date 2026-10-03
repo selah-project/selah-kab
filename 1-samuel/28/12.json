@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Terra tmeṭṭut ⟨את⟩ Cemuel, tezger s ṣṣut meqqren; tenna-d tmeṭṭut i Cawl: Acuɣer i ttriḥeḍ-iḍ? Ma kecc d Cawl.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Terra"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "tezger"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "s ṣṣut"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna-d"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad tini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Acuɣer"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ttriḥeḍ-iḍ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ma kecc"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    }
+  ],
+  "timestamp": "2026-10-02T22:50:43.823633654Z",
+  "model": "glm-5.3"
+}

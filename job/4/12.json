@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "D ɣur-i ay iwweḍ-d awal s tbaḍnit, amassen-is yeṭṭef seg-s taqbillit.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "d ɣur-i ay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "tewweḍ-d s tbaḍnit"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "amassen-is"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "taqbillit"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "seg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:31:01.971651669Z",
+  "model": "glm-5.3"
+}

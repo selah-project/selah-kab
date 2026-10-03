@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Telliḍ-as-d ass-a ⟨את⟩ wayen txedmed-iḍ ⟨את⟩ yid-i d lxiṛ: ⟨את⟩ Yahwe iɣumm-i, deg ufus-ik, kečč ur t-terziɣ-iyi ara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Telliḍ-as-d"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "Telliḍ-as-d"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen txedmed-iḍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "txedmed"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yid-i"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "d lxiṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣumm-i Yahwe deg ufus-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "iɣumm-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "terziɣ-iyi"
+    }
+  ],
+  "timestamp": "2026-10-02T22:47:59.007557080Z",
+  "model": "glm-5.3"
+}

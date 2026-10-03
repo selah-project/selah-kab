@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Izenz-d awal-is, i ten-iḥelḥel; issufɣed ruaḥ-is, aman ḍeṛṛen.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "izenz-d"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "awal-is"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "i ten-iḥelḥel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "issufɣed"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaḥ-is"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ḍeṛṛen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:39.563999706Z",
+  "model": "glm-5.3"
+}

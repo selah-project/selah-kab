@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 2:7",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ad txedmeḍ ḥesed i warrac n Barzillay agiladi, ad ilin wid yettɣ Imi εeddan ɣur-i deg tujjiw, acku ḥeḍren ɣur-i mi εeddan seg udem n Avcalom agma-k.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "i warrac"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "agiladi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "באכלי",
+      "gloss": "wid yettɣ"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "teɣzi-k"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "s waya"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ḥeḍren"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בברחי",
+      "gloss": "mi εeddan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem n"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "agma-k"
+    }
+  ],
+  "timestamp": "2026-10-02T23:10:55.920669759Z",
+  "model": "glm-5.3"
+}

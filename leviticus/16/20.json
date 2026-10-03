@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Mi yekfa qetter ⟨את⟩ teqedcit, ⟨את⟩ taḥnawt n timlilit d ⟨את⟩ lmeẓbed, ad d-ihebber ⟨את⟩ tayet tidant.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Mi yekfa"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "qetter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teqedcit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "teqedcit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taḥnawt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "taḥnawt"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n timlilit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lmeẓbed"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeẓbed"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ad d-ihebber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayet"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "tayet"
+    },
+    {
+      "surface": "החי",
+      "gloss": "tidant"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:45.040889692Z",
+  "model": "glm-5.3"
+}

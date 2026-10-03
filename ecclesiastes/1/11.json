@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ulac usmekti i imezwura; ula d i wid ara d-yusan, ur elli ara usmekti gar-asen, mi ara d-unen wid-nniḍen ticki.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "usmekti"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "i imezwura"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "i wid ara d-yusan"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ara llun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "elli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gar-asen"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "usmekti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gar"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ara d-unen"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "wid ara d-yusan ticki"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:20.983798108Z",
+  "model": "glm-5.3"
+}

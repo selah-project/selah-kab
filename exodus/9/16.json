@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Maca i wayagi i k-isbeddan, iwakken ad k-melleγ ⟨את⟩ tezmert-iw, ed iwakken ad yili yisem-iw yettwammel deg tmurt akk.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "maca"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "i wayagi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "i k-isbeddan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ad k-melleγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tezmert-iw"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "tezmert-iw"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ed iwakken ad yili"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "yettwammel"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "yisem-iw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg tmurt akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:40:42.629580499Z",
+  "model": "glm-5.3"
+}

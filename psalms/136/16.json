@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Win id-yettawin agdud-is deg unir, axaṭer i lebda ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Win id-yettawin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg unir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:19.992994564Z",
+  "model": "glm-5.3"
+}

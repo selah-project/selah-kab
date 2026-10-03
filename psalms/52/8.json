@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Wid iqedsen ad walin, ad ḥadren, syen ad ḥeqlen fell-as.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ad walin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "Wid iqedsen"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ad ḥadren"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ad ḥeqlen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:20.323711266Z",
+  "model": "glm-5.3"
+}

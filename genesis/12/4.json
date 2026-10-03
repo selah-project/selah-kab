@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Yedda Avram akken i d-yenna Yahwe ijes; yedda Lot ⟨את⟩ yid-es; ma d Avram, d mmi-s n xemsa d sebɛin n yiseggwasasen deg tuffɣa-ines seg Ḥaran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ijes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-es",
+      "marks": "yid-es — Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "ma d Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "d mmi-s n"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "xemsa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggwasasen"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "d sebɛin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggwas"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "deg tuffɣa-ines"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "seg Ḥaran"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:12.259015399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ma d David yella-din deg tseddast, ma d taneṣṣabt n Filistiyen tella-din deg Bet-Leḥem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ma d David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "din"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "deg tseddast"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ma d taneṣṣabt"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n Filistiyen"
+    },
+    {
+      "surface": "אז",
+      "gloss": "din"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Leḥem"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:59.822703393Z",
+  "model": "glm-5.3"
+}

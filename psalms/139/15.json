@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Taɣessa-w ur teffer ara ɣur-ek; mi iɣi ttwaxleqeɣ deg ustar, ttwaqneɣ deg wadda n tmurt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "teffer"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "taɣessa-w"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ɣur-ek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi iɣi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ttwaxleqeɣ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "deg ustar"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ttwaqneɣ"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "deg wadda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:52.268666910Z",
+  "model": "glm-5.3"
+}

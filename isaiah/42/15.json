@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Ad ḥerbeɣ idurar d teyrin, akk imɣi-nsen ad yexc; ad rreɣ isaffen d akal iqquren, tiẓẓawin ad qquren.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "ad ḥerbeɣ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "d teyrin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "imɣi-nsen"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ad yexc"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ad rreɣ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "isaffen"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "d akal iqquren"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "d tiẓẓawin"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ad qquren"
+    }
+  ],
+  "timestamp": "2026-10-03T00:01:07.856283297Z",
+  "model": "glm-5.3"
+}

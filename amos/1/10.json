@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad yazen tegi deg wallaɣ n Ṣor, ad t-teṭṭef deg yivatanen-is.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ad yazen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "deg wallaɣ n"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Ṣor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ad t-teṭṭef"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "deg yivatanen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:19:29.457435730Z",
+  "model": "glm-5.3"
+}

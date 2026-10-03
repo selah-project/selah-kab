@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Yezzum am lexba ⟨את⟩ waman n yillel; yessers ⟨את⟩ tiḥmumin deg lexmal-is.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "yezzum"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "am lexba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "waman"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yillel"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yessers"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "deg lexmal"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "tiḥmumin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:33:07.729853717Z",
+  "model": "glm-5.3"
+}

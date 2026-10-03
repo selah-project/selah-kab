@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Xas akken, akken ččan ⟨את⟩ agzen d ⟨את⟩ agzar, akka i t-teččeḍ ⟨t-⟩; win ur neqli d win neqli, akken ad t-ččen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "xas akken"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ččan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agzen"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "agzen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "agzar"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "agzar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "i t-teččeḍ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "win ur neqli"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "d win neqli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "akken"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ad t-ččen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:38.944720913Z",
+  "model": "glm-5.3"
+}

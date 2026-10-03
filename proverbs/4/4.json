@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yelmed-yi-d, yenna-yi-d: ad iḥrez wul-ik i wawalen-iw; ḥrez laḥkamat-iw, ad tidireḍ.",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "yelmed-yi-d"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yi-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ad iḥrez"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "i wawalen-iw"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "laḥkamat-iw"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ad tidireḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:17:19.822953992Z",
+  "model": "glm-5.3"
+}

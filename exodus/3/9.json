@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Tura imi, wali, taɛraḍt n yigerdan n Yisrael teqqim-ed ɣur-i, u twalaɣ daɣen ⟨את⟩ lḥeḍra i deg Miṣrayim ṭṭefen-ten.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura imi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "taɛraḍt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yigerdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "teqqim-ed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "u daɣen"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "twalaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeḍra"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "lḥeḍra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i deg"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ṭṭefen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ -ten"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:44.740610631Z",
+  "model": "glm-5.3"
+}

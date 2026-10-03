@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Ad yili uxfan-nsen ɣer zdat-nsen d asellel, i usslem-nsen d taɣyirt.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ad yili"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "uxfan-nsen"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ɣer zdat-nsen"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "d asellel"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "i usslem-nsen"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "d taɣyirt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:53.822127335Z",
+  "model": "glm-5.3"
+}

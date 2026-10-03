@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "El yettwanẓen aṭas deg uxxam n teḥbirt n yiqedcen, d win iɣef llan tugdiwin ɣer yal win yezzin deg tama-s.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "yettwanẓen aṭas"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "deg uxxam n teḥbirt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "d win iɣef llan tugdiwin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "yezzin deg tama-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:26.485490858Z",
+  "model": "glm-5.3"
+}

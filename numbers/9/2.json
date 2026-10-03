@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ad xedmen wid n Yisrael ⟨את⟩ Pesaḥ deg lawḍiɛ-is.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaḥ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaḥ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "deg lawḍiɛ-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:54.989664230Z",
+  "model": "glm-5.3"
+}

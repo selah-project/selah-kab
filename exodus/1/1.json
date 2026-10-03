@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Llan-d yagi ismawen n warrac n Yisrael, wid ikecmen ɣer Miṣrayim: ⟨את⟩ Yaɛqov, yal argaz d axxam-is, kecmen.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Llan-d yagi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ismawen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n warrac"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "wid ikecmen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ɣer Miṣrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "d axxam-is"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kecmen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:44.125297511Z",
+  "model": "glm-5.3"
+}

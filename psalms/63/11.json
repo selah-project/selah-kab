@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Ad ḥeṛmen s yiɣil n seif, ad llun d aḥric i yiɣardan.",
+  "tokens": [
+    {
+      "surface": "יגיגהו",
+      "gloss": "ad ḥeṛmen"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "yiɣil"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "n seif"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "d aḥric"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "i yiɣardan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad llun"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:56.355227484Z",
+  "model": "glm-5.3"
+}

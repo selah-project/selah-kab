@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Mi ttwaṛben wid n ṣedeq, agdud ad yessufer; mi yesseḥkem ubarraj, agdud ad iwennec.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "mi ttwaṛben"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wid n ṣedeq"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ad yessufer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "mi yesseḥkem"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ubarraj"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "ad iwennec"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    }
+  ],
+  "timestamp": "2026-10-03T02:28:55.590912625Z",
+  "model": "glm-5.3"
+}

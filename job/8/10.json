@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ma ur k-nessin ara ⟨d⟩ nettaɣ kellek, ad k-inin, seg ul-nsen ad ssuffɣen awalen?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ma … ara"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nettaɣ"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "k-nessin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ad k-inin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "seg ul-nsen"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "ad ssuffɣen"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "awalen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:32:15.960400561Z",
+  "model": "glm-5.3"
+}

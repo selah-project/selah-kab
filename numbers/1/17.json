@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Moce d Aharon ṭṭfen-d ⟨את⟩ irgazen-agi i yettwabran s yismawen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ṭṭfen-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irgazen-agi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "yettwabran"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "s yismawen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:22.717493023Z",
+  "model": "glm-5.3"
+}

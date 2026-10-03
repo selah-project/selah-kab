@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Sitt n wussan ad tettwaxdem tiggma; ma d ass wis seh d Cabbat, Cabbat n usgunfu, d iqedcen i Yahwe; win yexdem tawwuri deg wass n Cabbat, ad yemmut s lmut.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sitt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad tettwaxdem"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tiggma"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ma d deg wass"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis seh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Cabbat n usgunfu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "win"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "tawwuri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "n Cabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmut"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:15.686706924Z",
+  "model": "glm-5.3"
+}

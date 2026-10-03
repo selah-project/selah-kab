@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Tella tamenniɣt gar Reḥabɛam d gar Yarabɛam, akk wussan-nssen.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "tella tamenniɣt"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reḥabɛam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d gar"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabɛam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wussan-nssen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:27.953955030Z",
+  "model": "glm-5.3"
+}

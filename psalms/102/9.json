@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Yal ass iɛdawen-iw ttreḥen fell-i; wid yerwan ɣef yiɣi, kecmen deg lɛahd fell-i.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ttreḥen fell-i"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "iɛdawen-iw"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "wid yerwan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ɣef yiɣi"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "kecmen deg lɛahd"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:08.855312110Z",
+  "model": "glm-5.3"
+}

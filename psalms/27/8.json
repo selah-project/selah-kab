@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "I kečč i d-yenna wul-iw: «Ssutred udm-iw»; udm-ik, a Yahwe, ad t-ssutreɣ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wul-iw"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ssutred"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udm-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udm-ik"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udm-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ad t-ssutreɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:20.465394773Z",
+  "model": "glm-5.3"
+}

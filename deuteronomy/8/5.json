@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad tiẓriḍ deg ul-ik belli, akken i iɛaqqeb wemdan ⟨את⟩ mmi-s, akka i k-iɛaqqeb Yahwe Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ad tiẓriḍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bel"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ul-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "iɛaqqeb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "i k-iɛaqqeb"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:47.367290403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Imeddanen-is ḥemmlen-t ⟨את⟩ deg tamarikt ɣer Yerucalayim, qebren-t ⟨את⟩ deg lqeṛ-is, akked ijaddawen-is, deg temdint n David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "ḥemmlen-t deg tamarikt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "imeddanen-is"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "imeddanen-is"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ɣer Yerucalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "qebren-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lqeṛ-is"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "deg lqeṛ-is"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ijaddawen-is"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-10-02T23:32:03.265101291Z",
+  "model": "glm-5.3"
+}

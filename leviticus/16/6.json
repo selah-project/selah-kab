@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Aharon ad d-ibeddel ⟨את⟩ lexlaḍ n lḥetita i yellan d win-is, ad issefret i yiman-is d aɣrum-is.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ad d-ibeddel"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lexlaḍ n lḥetita"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lexlaḍ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "n lḥetita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "d win-is"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ad issefret"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "d i"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "aɣrum-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:04.390958852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Tserreḍ ⟨את⟩ meṣbaḥ n uḍṛef, i lqṭṛan, nnig ṭbaq n ccahadet; ad tserreḍ ⟨את⟩ tirẓi n tubbert i Mickan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ad tserreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meṣbaḥ n uḍṛef"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meṣbaḥ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n uḍṛef"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "i lqṭṛan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "nnig"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ṭbaq"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "n ccahadet"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ad tserreḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirẓi n tubbert"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tirẓi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "n tubbert"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "i Mickan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:13.239333198Z",
+  "model": "glm-5.3"
+}

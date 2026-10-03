@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Mi i d-yettadar ṣṣebɛ ɣef Mickan deg yiḍ, manna yettadar fell-as.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "mi i d-yettadar"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ṣṣebɛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yettadar"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T21:31:27.423912403Z",
+  "model": "glm-5.3"
+}

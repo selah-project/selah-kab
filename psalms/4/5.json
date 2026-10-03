@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ddukket, ur txedmem ara tuccḍa; ini-d deg wul-awen, ɣef teṣṣarit-awen, ḥeddket. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Ddukket"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "txedmem ara tuccḍa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ini-d"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "deg wul-awen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "teṣṣarit-awen"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ḥeddket"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:31.229361277Z",
+  "model": "glm-5.3"
+}

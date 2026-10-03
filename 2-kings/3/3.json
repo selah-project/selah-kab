@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ala deg yibenk n Yerobɛam, mmi-s n Nevat, i yeṣṣeben ⟨את⟩ Yisrael, yeqqim yeddek; ur yeffi sya.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "deg yibenk"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "n Yerobɛam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "n Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "yeṣṣeben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "yeqqim yeddek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yeffi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sya"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:01.147281151Z",
+  "model": "glm-5.3"
+}

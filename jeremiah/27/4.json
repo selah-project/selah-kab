@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ad ten-tḥekmeḍ ⟨את⟩ ad nnan i yimawlan-nsen: Akka i d-yenna Yahwe Ṣebaot, Elohim n Yisrael: Akka a d-tennam i yimawlan-nwen.",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "Ad ten-tḥekmeḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (imazanen)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "yimawlan-nsen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad nnan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "a d-tennam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "yimawlan-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:25:06.973708345Z",
+  "model": "glm-5.3"
+}

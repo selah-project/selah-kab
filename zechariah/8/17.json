@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 8:17",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ur ḥettement ara yal argaz ⟨את⟩ dir n umeḥbuḥ-is deg wulawen-nwen, ur ḥemmlet ara lεahd n tkert; axaṭer ⟨את⟩ waya akk i kreh, i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dir n umeḥbuḥ-is"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "dir"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n umeḥbuḥ-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "ḥettement"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "deg wulawen-nwen"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "u lεahd"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n tkert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תאהבו",
+      "gloss": "ḥemmlet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waya akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "i kreh"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:34:27.114866886Z",
+  "model": "glm-5.3"
+}

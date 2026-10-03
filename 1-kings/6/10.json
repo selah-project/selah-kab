@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yebna ⟨את⟩ tayzilt nnig akk wexxam, xamsa n yimetḍanen teɣzi-s; yessenzeg ⟨את⟩ wexxam s yiɣsan n leɛz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayzilt"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "tayzilt"
+    },
+    {
+      "surface": "על",
+      "gloss": "nnig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "xamsa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "n yimetḍanen"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "teɣzi-s"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "yessenzeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "s yiɣsan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "n leɛz"
+    }
+  ],
+  "timestamp": "2026-10-02T23:12:27.027258824Z",
+  "model": "glm-5.3"
+}

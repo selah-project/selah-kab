@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "ɣer teqdit nek d nekk, ɣer tecreẓt nek ad k-id-ṣubbdeɣ: nekk i d-yexleq, nekk ad k-id-nuɣ, nekk ad k-id-ṣubbdeɣ, ad k-id-ṣellekɣeɣ.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "teqdit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d nekk"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "tecreẓt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nek"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ad k-id-ṣubbdeɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "i d-yexleq"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ad k-id-nuɣ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ad k-id-ṣubbdeɣ"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "ad k-id-ṣellekɣeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:03:08.631059897Z",
+  "model": "glm-5.3"
+}

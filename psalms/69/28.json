@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Rnu tibeddan ɣef tebddanin-nsen, ula d yiwen ur d-yekcem ara ɣer ṣedeq-ik.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Rnu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tibeddan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "tebddanin-nsen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ula d yiwen ur"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "d-yekcem ara"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ɣer ṣedeq-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:52.817698586Z",
+  "model": "glm-5.3"
+}

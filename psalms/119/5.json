@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Aḥalli ad ṣeḥḥunt iberdan-iw, iwakken ad ḥerzeɣ ⟨את⟩ tiḥuqqin-ik!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Aḥalli"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ad ṣeḥḥunt"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "iberdan-iw"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "iwakken ad ḥerzeɣ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tiḥuqqin-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:31.791771121Z",
+  "model": "glm-5.3"
+}

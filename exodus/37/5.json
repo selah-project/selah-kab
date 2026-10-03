@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yerna yessekcem ⟨את⟩ ibuda-nni deg teqzizin, ɣef tmara n Tebutt, iwakken ad d-yuli ⟨את⟩ Tebutt.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yessekcem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibuda-nni"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ibuda-nni"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "deg teqzizin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "tmara"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Tebutt"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "iwakken ad d-yuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebutt"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Tebutt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:49.752445510Z",
+  "model": "glm-5.3"
+}

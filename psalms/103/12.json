@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 103,
+  "translation": "Am teɣzi n wecerq seg umagreb, akka i yebɛed ⟨את⟩ ijur-nneɣ segneɣ.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "am teɣzi"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "acerq"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "seg umagreb"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "i yebɛed"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "segneɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijur-nneɣ"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ijur-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:25.543958428Z",
+  "model": "glm-5.3"
+}

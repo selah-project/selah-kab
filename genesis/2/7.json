@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe Elohim yexleq ⟨את⟩ adam seg lɣbel n wakal, ifex deg tinifert-is nnesma n tmeddurt, yuɣal adam d nefsa yettidir.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lɣbel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ifex"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "deg tinifert-is"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nnesma"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "n tmeddurt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefsa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yettidir"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:56.730821917Z",
+  "model": "glm-5.3"
+}

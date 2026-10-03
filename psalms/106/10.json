@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Yelles-iten-id seg ufus n win t-ikerhen, yerna yeḥles-iten seg ufus n iɛdawen.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Yelles-iten-id"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "n win t-ikerhen"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "yeḥles-iten"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "n iɛdawen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:28.223164810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad ččen ⟨את⟩ iṭṭis deg yiḍ-agi, iɣiɛden ɣef tmes; akked ukrum war leḥmir, s igurzan, ad t-čeččen.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ad ččen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṭṭis"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "iṭṭis"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "iɣiɛden"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ɣef tmes"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ukrum war leḥmir"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "igurzan"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ad t-čeččen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:01.216390683Z",
+  "model": "glm-5.3"
+}

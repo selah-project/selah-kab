@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ur ttzaggu ara ɣef wudem-nsen, acku nekki ⟨dmagh-ik⟩ ⟨את⟩ iiliɣ, iwakken ad k-ḥelles — i d-yenna Yahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "gguni"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ur ttzaggu ara"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ɣef wudem-nsen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ dmagh-ik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "iwakken ad k-ḥelles"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:48.836717336Z",
+  "model": "glm-5.3"
+}

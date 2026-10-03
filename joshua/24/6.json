@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Ssuffɣeɣ ⟨את⟩ idermen-nwen seg Miṣrayim; tkecmt ɣer wilel, Miṣrayim ḍefren idermen-nwen s tiberkanin d yiferjas, ar Ilel n Ṣuf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "Ssuffɣeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idermen-nwen"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "idermen-nwen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "seg Miṣrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "tkecmt"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "ɣer wilel"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ḍefren"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "idermen-nwen"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "s tiberkanin"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "d yiferjas"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ilel"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "n Ṣuf"
+    }
+  ],
+  "timestamp": "2026-10-02T22:22:37.605663322Z",
+  "model": "glm-5.3"
+}

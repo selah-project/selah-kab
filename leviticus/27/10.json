@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Ur t-ibeddil ara, ur t-ibeddel ara ⟨את⟩ win yelhan s win n dir, neɣ win n dir s win yelhan; ma yebdeḍ beḥma s beḥma-nniḍen, netta d ubeddel-is ad yilin d iqedcen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur... ara"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "t-ibeddil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "t-ibeddel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "win yelhan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "win yelhan"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "s win n dir"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "win n dir"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "s win yelhan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "המר",
+      "gloss": "yebdeḍ"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ibeddel"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beḥma"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "s beḥma-nniḍen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yilin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "d ubeddel-is"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yilin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:20:42.555539981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Yuzen ⟨את⟩ yelmeẓyen n at Yisrael, d-ɛeddin tikciyin yettwaḥerqen, u znan seggun n tifrat i Yahwe — izerfan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelmeẓyen n at Yisrael"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "yelmeẓyen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "d-ɛeddin"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "tikciyin yettwaḥerqen"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "znan"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "seggun"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "n tifrat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "izerfan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:50.089285458Z",
+  "model": "glm-5.3"
+}

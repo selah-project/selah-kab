@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Ur cfun ara i tiṭṭawen-iw, ur niḍen ara i tzermiyin-iw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ur…ara"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "cfun ara"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "acfu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "i tiṭṭawen-iw"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "i tzermiyin-iw"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "uniḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:11.117948516Z",
+  "model": "glm-5.3"
+}

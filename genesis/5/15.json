@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Maḥalalʾel yidder ṣa (xams) d yiḍ neḥ d ṣa (setta) iseggasen, yerna d-ilul ⟨את⟩ Yared.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yidder"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Maḥalalʾel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ṣa (xams)"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "neḥ d ṣa (setta)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yerna d-ilul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yared"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yared"
+    }
+  ],
+  "timestamp": "2026-10-03T03:59:03.272397969Z",
+  "model": "glm-5.3"
+}

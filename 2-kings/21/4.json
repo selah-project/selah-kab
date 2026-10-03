@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yebna iṣeddaxen deg axxam n Yahwe, ara d-yennan Yahwe: Deg Yerucalayim ad rziɣ ⟨את⟩ yisem-iw.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "iṣeddaxen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "d-yennan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Deg Yerucalayim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ad rziɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem-iw"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "yisem-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T23:37:57.967270181Z",
+  "model": "glm-5.3"
+}

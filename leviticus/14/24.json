@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad yawi wakohen ⟨את⟩ wweṭṭas n weašam d ⟨את⟩ leg n uzzit, yerna akohen ad ten-ihenif ⟨אתם⟩ d tnewfa sdat Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ad yawi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wakohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wweṭṭas n weašam"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "wweṭṭas"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "n weašam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "leg n uzzit"
+    },
+    {
+      "surface": "לג",
+      "gloss": "leg"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "n uzzit"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ad ten-ihenif"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iten (wweṭṭas d leg)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "d tnewfa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:19.449013273Z",
+  "model": "glm-5.3"
+}

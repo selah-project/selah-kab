@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ad yeddu ⟨i⟩ṣeḍḍa ɣer deffir n nnefs-iw, ad in-yaweḍ, ad isexser tudert-iw ɣer tmurt, u lɛezz-iw ad yeqqim deg lɣebra. Cela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "ad yeddu ɣer deffir"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "aṣeḍḍa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "ושג",
+      "gloss": "ad in-yaweḍ"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "ad isexser ɣer tmurt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "tudert-iw"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "u lɛezz-iw"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "deg lɣebra"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Cela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:39:33.434417568Z",
+  "model": "glm-5.3"
+}

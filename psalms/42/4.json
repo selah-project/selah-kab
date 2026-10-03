@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Timlilit-iw tuɣal-d d aɣrum i yimukan n wass d yiḍ, mi qqaṛen yi-d: acku ass meṛṛa — anida i llan Elohim-ik?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "tuɣal-d d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iw"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "timlilit-iw"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "yiḍ"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "mi qqaṛen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yi-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "acku ass"
+    },
+    {
+      "surface": "איה",
+      "gloss": "anida i llan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:05.684022489Z",
+  "model": "glm-5.3"
+}

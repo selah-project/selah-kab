@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ma yalhad wemdan i Elohim? Ma yalhad umaraw i yiman-is?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Ma i Elohim"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "yalhad"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "yalhad"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umaraw"
+    }
+  ],
+  "timestamp": "2026-10-03T02:38:47.656386716Z",
+  "model": "glm-5.3"
+}

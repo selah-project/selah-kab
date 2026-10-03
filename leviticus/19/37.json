@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ad teḥersem akk tiɛdam-inu ⟨את⟩ akk iḥekmen-inu, ad ten-texedm: nek d Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad teḥersem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk tiɛdam-inu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "tiɛdam-inu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk iḥekmen-inu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "iḥekmen-inu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad ten-texedm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iten"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T21:13:55.459907463Z",
+  "model": "glm-5.3"
+}

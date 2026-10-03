@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yewweḍ-d ugellid seg Damaseq; iwala ugellid ⟨את⟩ umizbeaḥ, yeqreb ugellid ɣer umizbeaḥ, yuli fell-as.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yewweḍ-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "seg Damaseq"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amizbeaḥ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "amizbeaḥ"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "yeqreb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "umizbeaḥ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yuli fell-as"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T23:35:57.852952322Z",
+  "model": "glm-5.3"
+}

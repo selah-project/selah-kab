@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Nesmaɛ γeṛ daγen ⟨את⟩ aneggru n warraw n Yisrael, Miṣrayim i ⟨את⟩ ten-yettwaγen, u ṛmemγ ⟨את⟩ lɛahd-iw.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "daγen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekni"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nesmaɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aneggru"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "aneggru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "i ten-yettwaγen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "u ṛmemγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-iw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lɛahd-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:57.639030426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Yal tameṭṭut ṣaḥit n ul tturez s yifessen-is, d-walan-d ayen tturez: ⟨את⟩ tekelet akked ⟨את⟩ argaman, ⟨את⟩ tolɛat n cceni, akked ⟨את⟩ cec.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ṣaḥit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "n ul"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "s yifessen-is"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "tturez"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "d-walan-d"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ayen tturez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolɛat n cceni"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolɛat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "n cceni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "cec"
+    },
+    {
+      "surface": "השש",
+      "gloss": "cec"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:26.312962898Z",
+  "model": "glm-5.3"
+}

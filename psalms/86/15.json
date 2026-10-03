@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 86,
+  "translation": "Ma d kecc, a Adonai, d El aḥnan d lmehrani, ur tettabbir ara lɣeddeb, d bab n ḥesed d ttbut.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ma d kecc"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "aḥnan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "d lmehrani"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ur tettabbir ara"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "lɣeddeb"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "d bab n"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "d ttbut"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:02.504197638Z",
+  "model": "glm-5.3"
+}

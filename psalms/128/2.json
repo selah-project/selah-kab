@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 128,
+  "translation": "Ahil n yifassen-ik kečč ad t-teṭṭeḍ; tiddad i keččini, d lxiṛ i kečč.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Ahil"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "n yifessen-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ad t-teṭṭeḍ"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "tiddad i keččini"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "d lxiṛ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:52.616303853Z",
+  "model": "glm-5.3"
+}

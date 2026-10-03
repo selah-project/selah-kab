@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ma d ⟨את⟩ uẓeẓ ed ⟨את⟩ aglim i yeṣṣuɣ deg tmes, beṛṛa n lɛesker.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uẓeẓ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "uẓeẓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aglim"
+    },
+    {
+      "surface": "העור",
+      "gloss": "aglim"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "i yeṣṣuɣ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "n lɛesker"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:39.794486051Z",
+  "model": "glm-5.3"
+}

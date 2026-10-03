@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Deg wass-nni deffir n wawalen-agi, Elohim yejreb ⟨את⟩ Avraham, yenna-yas: Avraham. Yenna: Ha nekki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "n wawalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "yejreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ha nekki"
+    }
+  ],
+  "timestamp": "2026-10-02T20:18:41.010556463Z",
+  "model": "glm-5.3"
+}

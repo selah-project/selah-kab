@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad ur teččeḍ, ad ur teṣḥuḥeḍ, ad ur tbennuḍ ixxamen ifazen, ad ur tezdigeḍ deg-sen.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "teččeḍ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ad ur teṣḥuḥeḍ"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ixxamen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ifazen"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ad ur tbennuḍ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ad ur tezdigeḍ deg-sen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:08:09.531763193Z",
+  "model": "glm-5.3"
+}

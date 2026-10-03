@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad yekkes ⟨את⟩ taγest-is akked ibertan-is, ad ten-yerr ɣer tama n lmeẓbaḥ, ɣer lqibla-nniḍen, d asamar, γer deg ideg ideεεun.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ad yekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taγest-is"
+    },
+    {
+      "surface": "מוראתו",
+      "gloss": "taγest-is"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "akked ibertan-is"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ɣer tama n"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeẓbaḥ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "d asamar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "γer"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "deg ideg"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ideεεun"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:11.645414880Z",
+  "model": "glm-5.3"
+}

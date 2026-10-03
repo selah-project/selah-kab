@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Deg wemkan-nni ad ttbnud meqbed i Yahwe, Elohim-ik, meqbed n yiẓra, ur ttazzlen ara fell-as iffel.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "ad ttbnud"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Deg wemkan-nni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meqbed"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meqbed"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "n yiẓra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ttazzlen ara"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "iffel"
+    }
+  ],
+  "timestamp": "2026-10-02T22:02:31.090328822Z",
+  "model": "glm-5.3"
+}

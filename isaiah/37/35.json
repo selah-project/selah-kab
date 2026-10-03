@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ad ḥeddeɣ temdint-agi iwakken ad tt-ḥelbeɣ, i iman-iw, akken daɣen i David ɛebdi.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "ad ḥeddeɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "i"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "iwakken ad tt-ḥelbeɣ"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "i iman-iw"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "akken daɣen i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ɛebdi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:48.550768784Z",
+  "model": "glm-5.3"
+}

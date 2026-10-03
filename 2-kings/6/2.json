@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 6:2",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad neḍru ɣer lyurdun, ad nawi si din yal yiwen yiwen n teɣda, ad d-nexdem i neɣ iman-nneɣ din amkan ad nettili din. Yenna: Ḍrun.",
+  "tokens": [
+    {
+      "surface": "נלכה",
+      "gloss": "ad neḍru"
+    },
+    {
+      "surface": "נא",
+      "gloss": "a ttwali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "lyurdun"
+    },
+    {
+      "surface": "ונקחה",
+      "gloss": "ad nawi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "si din"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "קורה",
+      "gloss": "teɣda"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "ad d-nexdem"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ iman-nneɣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ad nettili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ḍrun"
+    }
+  ],
+  "timestamp": "2026-10-02T23:28:37.539622363Z",
+  "model": "glm-5.3"
+}

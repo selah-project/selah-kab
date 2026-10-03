@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "S wagi ẓriɣ belli tḥemmleḍ-iyi, axaṭer acengu-iw ur issenqed ara fell-i.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "S wagi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ẓriɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "tḥemmleḍ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "-iyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "issenqed ara"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "acengu-iw"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:45.619660352Z",
+  "model": "glm-5.3"
+}

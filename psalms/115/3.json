@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "Elohim-nneɣ ⟨yella⟩ deg igenwan: ayen akk i yebɣa, yexdem-t.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yebɣa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexdem-t"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:43.872161864Z",
+  "model": "glm-5.3"
+}

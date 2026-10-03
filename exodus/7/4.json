@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Parɛo ur k-isellen ara; ad sduvvleγ ⟨את⟩ afus-iw ɣef Miṣrayim, ad d-ffeγγeγ ⟨את⟩ iṛekkalen-iw, ⟨את⟩ agdud-iw at Yisrael, seg tmurt n Miṣrayim, s leḥkam imeqṛanen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "k-isellen"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "i yid-wen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parɛo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad sduvvleγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-iw"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ɣef Miṣrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ad d-ffeγγeγ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛekkalen-iw"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "iṛekkalen-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "agdud-iw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "s leḥkam"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "imeqṛanen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:39:05.834298722Z",
+  "model": "glm-5.3"
+}

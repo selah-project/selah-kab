@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad yenɣes uɣdud, argaz ɣef waɣyar, yal argaz ɣef umeddakel-is; ilmeẓyen ad ijebren mgal yimquranen, wid meṛṛa d iqecccmen mgal wid yufraren.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ad yenɣes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aɣdud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ɣef waɣyar"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ɣef umeddakel-is"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "ad ijebren"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilmeẓyen"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "mgal yimquranen"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "wid meṛṛa d iqecccmen"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "mgal wid yufraren"
+    }
+  ],
+  "timestamp": "2026-10-02T23:42:04.862141184Z",
+  "model": "glm-5.3"
+}

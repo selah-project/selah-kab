@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Akken ⟨את⟩ isegran akked ⟨את⟩ zzit, i tafat, akked i zzit n ucuddu, akked i lbxur n yisegran.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akken ⟨את⟩",
+      "marks": "isegran"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "isegran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "zzit"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "zzit"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "i tafat"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "akked i zzit n"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ucuddu"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "akked i lbxur n"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "yisegran"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:26.318680297Z",
+  "model": "glm-5.3"
+}

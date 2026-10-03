@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Iwakken ad d-mmeṛṛaɣ akk ccekran-ik deg tebbura n yelli Sion; ad fzireɣ deg fri-ik.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Iwakken"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ad d-mmeṛṛaɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ccekran-ik"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "deg tebbura"
+    },
+    {
+      "surface": "בת",
+      "gloss": "n yelli"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ad fzireɣ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "deg fri-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:32.561491129Z",
+  "model": "glm-5.3"
+}

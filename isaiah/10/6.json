@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "ɣer uɣlan ibeedcen ad t-id-azneɣ; ɣef ugdud n lɣḍab-iw ad as-ḥekmeɣ, iwakken ad yeṭṭef aṭṭref, ad yerdel tamerdelt, iwakken ad t-yerr ⟨d⟩ asireg, amzun d akaɣeḍ deg yiberdan.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "ɣer uɣlan"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "ibeedcen"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "ad t-id-azneɣ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "lɣḍab-iw"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "ad as-ḥekmeɣ"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "iwakken ad yeṭṭef"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "aṭṭref"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "ad yerdel"
+    },
+    {
+      "surface": "בז",
+      "gloss": "tamerdelt"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "iwakken ad t-yerr"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "asireg"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "amzun d akaɣeḍ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "deg yiberdan"
+    }
+  ],
+  "timestamp": "2026-10-03T04:20:06.659965855Z",
+  "model": "glm-5.3"
+}

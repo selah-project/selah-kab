@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Wid-agi d tawacult n Aharon akked Moce, deg wass i d-yessawal Yahwe ⟨את⟩ Moce, deg wedrar n Sinay.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "tawacult"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "akked Moce"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yessawal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-10-02T21:23:01.436564026Z",
+  "model": "glm-5.3"
+}

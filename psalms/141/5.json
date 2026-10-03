@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 141,
+  "translation": "Ad iyi-iḍebbes uṣeddeq s ḥesed, ad iyi-ixeddeb; d zzit n uẓaṛ i ɣef ur yettagi ara ixf-iw; axaṭer mazal tuttra-inu tezga ɣef wayen n dir i gguten.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ad iyi-iḍebbes"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "uṣeddeq"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ad iyi-ixeddeb"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzit"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "n uẓaṛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יני",
+      "gloss": "yettagi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ixf-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "tuttra-inu"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "ɣef wayen n dir i gguten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:21.670809034Z",
+  "model": "glm-5.3"
+}

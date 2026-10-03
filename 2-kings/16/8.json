@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Aḥaz yexṭeṭ ⟨את⟩ lfeḍṭa akked ⟨את⟩ ṛṛey yan illan deg uxxam n Yahwe, d lɣuranin n uxxam n ugellid, yuzen-t i ugellid n Acur d teqsiɛt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yexṭeṭ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aḥaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lfeḍṭa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lfeḍṭa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "ṛṛey"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ṛṛey"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yan illan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "d lɣuranin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n uxxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen-t"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Acur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "d teqsiɛt"
+    }
+  ],
+  "timestamp": "2026-10-03T04:18:48.209567708Z",
+  "model": "glm-5.3"
+}

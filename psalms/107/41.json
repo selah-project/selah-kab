@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Yerna yuli umabaɣur seg texdaɛ, yerna yerra twaculin am welḥem n yimellasen.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "yerna yuli"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "umabaɣur"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "seg texdaɛ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yerna yerra"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "am welḥem n yimellasen"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "twaculin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:16.285516178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Nnefs-iw yerra-tt-id; yessikel-iyi deg yiberdan n ṣedeq, i lweḥd n yisem-is.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nnefs-iw"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "yerra-tt-id"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "yessikel-iyi"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "deg yiberdan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "n ṣedeq"
+    },
+    {
+      "surface": "למען",
+      "gloss": "i lweḥd n"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "yisem-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:51.148617902Z",
+  "model": "glm-5.3"
+}

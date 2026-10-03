@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "David ixdem akken i s-iḥettem Elohim, ḥeṣṣen ⟨את⟩ lɣerṣa n Filistiyen seg Gbiɛon arma d Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "i s-iḥettem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ḥeṣṣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɣerṣa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lɣerṣa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n Filistiyen"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "seg Gbiɛon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-10-03T03:30:36.003217010Z",
+  "model": "glm-5.3"
+}

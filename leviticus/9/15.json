@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Iqerreb ⟨את⟩ qorban n wegdud; yewwi ⟨את⟩ yix n lḥaṭṭat, anida i yella i wegdud, yezger-t, yerr-it d ḥaṭṭat, d amenzu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "iqerreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorban n wegdud"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n wegdud"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yix n lḥaṭṭat"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "yix"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "n lḥaṭṭat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida i yella"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i wegdud"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "yezger-t"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "yerr-it d ḥaṭṭat"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "d amenzu"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:51.389094626Z",
+  "model": "glm-5.3"
+}

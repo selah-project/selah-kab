@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Ṛṛan-d ɣer Yahwe deg lɛiḍ-nnsen, seg tekkettin-nnsen Isellek-iten.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Ṛṛan-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "deg lɛiḍ-nnsen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nnsen"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "seg tekkettin-nnsen"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Isellek-iten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:07.374931855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Tlulent i-s ⟨את⟩ Zimran, d ⟨את⟩ Yaqcen, d ⟨את⟩ Medan, d ⟨את⟩ Midyan, d ⟨את⟩ Yicbaq, d ⟨את⟩ Cuḥ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Tlulent i-s"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yaqcen"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yaqcen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yicbaq"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yicbaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Cuḥ"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Cuḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:20:43.806828969Z",
+  "model": "glm-5.3"
+}

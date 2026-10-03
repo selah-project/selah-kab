@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "⟨את⟩ Ḥilen akked ⟨את⟩ ttwaṛen-is, ⟨את⟩ Debir akked ⟨את⟩ ttwaṛen-is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Ḥilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttwaṛen-is (n Ḥilen)"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ttwaṛen-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ttwaṛen-is (n Debir)"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ttwaṛen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:28.368571471Z",
+  "model": "glm-5.3"
+}

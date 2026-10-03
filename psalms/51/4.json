@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Aṭas ṣebb-i seg tuccḍa-iw, seg tasaḍdit-iw ṣeffeḍ-iyi.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Aṭas"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "ṣebb-i"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "seg tuccḍa-iw"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "seg tasaḍdit-iw"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "ṣeffeḍ-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:35.750608684Z",
+  "model": "glm-5.3"
+}

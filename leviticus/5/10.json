@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Tiss snat ⟨את⟩ ad tt-ixdem d ɛola akken yebla ccreɛ; aqessis ad iseggem fell-as ɣef tuccḍa-ines i iḥetmen, ad t-tessemeḥ i.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiss snat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "tiss snat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad tt-ixdem"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɛola"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akken yebla ccreɛ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ad iseggem"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "aqessis"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ɣef tuccḍa-ines"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "iḥetmen"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ad t-tessemeḥ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    }
+  ],
+  "timestamp": "2026-10-02T21:04:26.166660293Z",
+  "model": "glm-5.3"
+}

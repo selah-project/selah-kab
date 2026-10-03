@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yella-d, deg tgelda-s, mi yebḍa ɣer text n tgelda-s, iḥet-ten ⟨את⟩ akk at wexxam n Baɛca, ur yeǧǧi ara yiwen yettazal deg waɣrab, ula d wid t-issumben d imeddukkal-is.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "deg tgelda-s"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "mi yebḍa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "text n tgelda-s"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "iḥet-ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk at wexxam n Baɛca"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "at wexxam"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "n Baɛca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "yeǧǧi ara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "yettazal"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "deg waɣrab"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ula d wid t-issumben"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "d imeddukkal-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:47.026611688Z",
+  "model": "glm-5.3"
+}

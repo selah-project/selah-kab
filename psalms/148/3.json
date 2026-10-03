@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Snenmret-t iṭij d yyur; snenmret-t akk itran n tafawt.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Snenmret-t"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "iṭij"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "d yyur"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "snenmret-t"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "itran"
+    },
+    {
+      "surface": "אור",
+      "gloss": "n tafawt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.050094357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yahwe Elohim-nwen, neppa ad ten-yerr ⟨את⟩ seg zdat-nwen, ad ten-iḥeṛṛeb ⟨את⟩ seg zdat-nwen, ad tesɛem ⟨את⟩ tmurt-nnsen, akken i d-yenna Yahwe Elohim-nwen i wen.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "neppa"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "ad ten-yerr"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "seg zdat-nwen"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "ad ten-iḥeṛṛeb"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "seg zdat-nwen"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "seg zdat-nwen"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ad tesɛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-nnsen"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tmurt-nnsen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:21:55.010124698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad yexdem ⟨את⟩ yiwen seg yiberbuc n tmezgi, neɣ seg iqerḥen n yiberbuc, akken yawezzen ufus-is.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiwen (seg yiberbuc)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "yiberbuc n tmezgi"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iqerḥen"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "yiberbuc"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "yawezzen"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-02T21:09:19.002409439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Tḥekmeḍ-t ɣef yixeḍman n yifassen-ik; akk i t-tesḥerbeḍ ddaw iḍarren-is.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Tḥekmeḍ-t"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ɣef yixeḍman"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "n yifassen-ik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "i t-tesḥerbeḍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iḍarren-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:18.805147890Z",
+  "model": "glm-5.3"
+}

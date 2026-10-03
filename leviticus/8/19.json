@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Iẓeẓma-t, Moce yezreq ⟨את⟩ idammen ɣef lmeṣbaḥ, ay d-izzin i ṭṭrfawen.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "iẓeẓma-t"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "yezreq"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣbaḥ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ay d-izzin i ṭṭrfawen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:18.472339689Z",
+  "model": "glm-5.3"
+}

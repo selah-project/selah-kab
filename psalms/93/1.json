@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 93,
+  "translation": "Yahwe yerna tagelda; yerbeḍ lɛazez, yerbeḍ Yahwe tazmert, iẓẓa ixf-is s ttawil; tamurt-agi tebna, ur tezmir ara ad tḥerrec.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yerna tagelda"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "lɛazez"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "yerbeḍ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "yerbeḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "iẓẓa ixf-is s ttawil"
+    },
+    {
+      "surface": "אף",
+      "gloss": "dɣa"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tebna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tamurt-agi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tezmir ara ad tḥerrec"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:34.016948043Z",
+  "model": "glm-5.3"
+}

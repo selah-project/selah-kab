@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Krezn ⟦lḥaslat⟧, ḥemmlen tirgga; wwin degs iɣsawen-nsen si ɣef waklan-nsen, d isɛaf-nsen si ɣef yiẓẓan-nsen.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "krezn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lḥaslat"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ḥemmlen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tirgga"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "wwin degs"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "iɣsawen-nsen"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "si ɣef waklan-nsen"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "isɛaf-nsen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "si ɣef"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "yiẓẓan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:32:05.283493640Z",
+  "model": "glm-5.3"
+}

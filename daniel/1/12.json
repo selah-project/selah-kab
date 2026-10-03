@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Seckyed iṭṭef ⟨את⟩ ilemẓyen-im mrawa n wussan, ad aɣ-mudden seg lexḍar ad nečč, d aman ad nswa.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "seckyed"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilemẓyen-im"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ilemẓyen-im"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mrawa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ad aɣ-mudden"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "lexḍar"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ad nečč"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ad nswa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:20.499433375Z",
+  "model": "glm-5.3"
+}

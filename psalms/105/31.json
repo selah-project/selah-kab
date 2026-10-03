@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yenna, d-yewweḍ uṭṭiben, d-yal tiḥmumin deg yal tlisa-nsen.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "d-yewweḍ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "uṭṭiben"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "tiḥmumin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "tlisa-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:41.291454815Z",
+  "model": "glm-5.3"
+}

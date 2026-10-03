@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Iṭij d yyur ẓelmen-t, d yitran twin ⟨את⟩ tanirt-nsen.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Iṭij"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "d yyur"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "ẓelmen-t"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "d yitran"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "twin"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "⟨את⟩ tanirt-nsen",
+      "marks": "tanirt-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:20:28.024029015Z",
+  "model": "glm-5.3"
+}

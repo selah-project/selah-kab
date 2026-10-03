@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 148,
+  "translation": "Snenmret-aɣ Yah, snenmret ⟨את⟩ Yahwe seg igenwan, snenmret-t deg yideggan n ufella.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "snenmret-aɣ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "snenmret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "snenmret-t"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "deg yideggan n ufella"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.049732198Z",
+  "model": "glm-5.3"
+}

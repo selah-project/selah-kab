@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad iqecci ⟨את⟩ axxam si lxir, ay atan, syin ad ssefḍen ⟨את⟩ yirden iqeccten, ɣer beṛṛa n temdint, ɣer wemkan n dir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "axxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "ad iqecci"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "si lxir"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ay atan"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "ad ssefḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yirden iqecc"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "yirden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "iqecc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "n temdint"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "n dir"
+    }
+  ],
+  "timestamp": "2026-10-02T21:10:00.607742516Z",
+  "model": "glm-5.3"
+}

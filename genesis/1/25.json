@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Elohim yexleq ⟨את⟩ iɣersiwen n tmurt swayes n nnfeɛ-nsen, d ⟨את⟩ lmal swayes n nnfeɛ-nsen, d ⟨את⟩ yal ayen yettẓallayeḍ deg wakal swayes n nnfeɛ-is; Elohim iwala belli d lqem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɣersiwen n tmurt"
+    },
+    {
+      "surface": "חית",
+      "gloss": "iɣersiwen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "swayes n nnfeɛ-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "lmal"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lmal"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "swayes n nnfeɛ-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yal ayen yettẓallayeḍ deg wakal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ayen yettẓallayeḍ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "deg wakal"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "swayes n nnfeɛ-is"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d lqem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:51.071070415Z",
+  "model": "glm-5.3"
+}

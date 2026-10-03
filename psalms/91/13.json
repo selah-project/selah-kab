@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Ad tedduḍ ɣef izem d lɛeffa; ad tneẓẓeḍ izem meẓẓyan d uzrem ameqqran.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "izem"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "d lɛeffa"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ad tedduḍ"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "ad tneẓẓeḍ"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "izem meẓẓyan"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "d uzrem ameqqran"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:16.192226507Z",
+  "model": "glm-5.3"
+}

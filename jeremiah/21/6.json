@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ad rnun deg yimezdaɣ n temdint-agi, ⟨את⟩ yemdanen d ⟨את⟩ iɣersiwen — s tewtḍant tameqqrant ad mmten.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ad rnun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimezdaɣ n temdint-agi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yemdanen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yemdanen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iɣersiwen"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "iɣersiwen"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "s tewtḍant"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ad mmten"
+    }
+  ],
+  "timestamp": "2026-10-03T00:22:22.867957818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Yezri wegdud akk ⟨את⟩ Yarden, ugellid yezra. Icebbeḥ ugellid i Barzillay, ifka-yas-d lɛazar, yuɣal ɣer lkan-is.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "yezri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yezra"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "icebbeḥ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "i Barzillay"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "ifka-yas-d lɛazar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ɣer lkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:04:22.420628340Z",
+  "model": "glm-5.3"
+}

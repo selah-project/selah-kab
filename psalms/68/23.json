@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Adonai yenna: si Bacan ad d-rriɣ, ad d-rriɣ si lɛumq n yilel.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "si Bacan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ad d-rriɣ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ad d-rriɣ"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "si lɛumq"
+    },
+    {
+      "surface": "ים",
+      "gloss": "n yilel"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:52.375825411Z",
+  "model": "glm-5.3"
+}

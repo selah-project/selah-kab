@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ur telli ara tmurt akk ⟨d⟩ sdat-iw? Zgel ⟨ma ulac aɣilif⟩ fell-i. Ma teddiḍ ɣer zelmeḍ, ad ruḥeɣ ɣer zelmaḍ; ma teddiḍ ɣer zelmaḍ, ad ruḥeɣ ɣer zelmeḍ.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ur telli ara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sdat-iw"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "zgel fell-i"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac aɣilif"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "ɣer zelmeḍ"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ad ruḥeɣ ɣer zelmaḍ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma teddiḍ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ɣer zelmaḍ"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ad ruḥeɣ ɣer zelmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:20.820239339Z",
+  "model": "glm-5.3"
+}

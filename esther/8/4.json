@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Agellid yessawi-d i Ester ⟨את⟩ taɛeṭṭabt n ḍḍehab; Ester tekkleḍ, tbedd zdat ugellid.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "yessawi-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "i Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɛeṭṭabt n ḍḍehab"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "taɛeṭṭabt"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n ḍḍehab"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "tekkleḍ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "tbedd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-03T03:02:46.836738301Z",
+  "model": "glm-5.3"
+}

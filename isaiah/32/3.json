@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Tiwengitin n wid izemren ad walin ur d-ttazeggint ara, tucczin n wid istellayen ad qqiment ad slemdent.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ttazeggint"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiwengitin"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "n wid izemren ad walin"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "tucczin"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "n wid istellayen"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ad qqiment ad slemdent"
+    }
+  ],
+  "timestamp": "2026-10-02T23:53:22.253758493Z",
+  "model": "glm-5.3"
+}

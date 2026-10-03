@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Yahwe d ameqqran, Yettraǧun asteɛref ⟨s⟩ waṭas, deg temdint n Elohim-nneɣ, adrar n teqedcit-is.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "d ameqqran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "Yettraǧun asteɛref"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨s⟩ waṭas"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "n Elohim-nneɣ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar n"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "teqedcit-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:32.993709340Z",
+  "model": "glm-5.3"
+}

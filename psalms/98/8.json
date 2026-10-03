@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "translation": "Imsiren ad ssenfen tiyit-nsen; idurar, yakkwa, ad cennun s leεḥu.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "imsiren"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ad ssenfen"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tiyit-nsen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yakkwa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ad cennun s leεḥu"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:23.825339418Z",
+  "model": "glm-5.3"
+}

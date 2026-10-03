@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "translation": "Yahwe iḥelf, ur ibeddel ara iḥlifen-is: Kečči d kohen i lebda, s talɣa n Malki-Ṣedeq.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "iḥelf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ibeddel ara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kečči"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "talɣa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:34.602879245Z",
+  "model": "glm-5.3"
+}

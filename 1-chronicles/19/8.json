@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "David yelles, yuzen ⟨את⟩ Yuab akked ⟨את⟩ meṛṛa lɛesker n yimenɣiyen izuranen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yelles"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yuab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meṛṛa lɛesker n yimenɣiyen izuranen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "lɛesker"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "n yimenɣiyen izuranen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:46:57.525557759Z",
+  "model": "glm-5.3"
+}

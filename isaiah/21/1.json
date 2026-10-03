@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Taεebda n uneẓruf n yilel. Am ijeḍḍigen deg unef i tuzzya, ⟨yettaḍeccem⟩ seg uneẓruf, seg tmurt tamarwat.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "taεebda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "uneẓruf"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "am ijeḍḍigen"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "deg unef"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "i tuzzya"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "seg uneẓruf"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yettaḍeccem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "tamarwat"
+    }
+  ],
+  "timestamp": "2026-10-02T23:48:37.882512863Z",
+  "model": "glm-5.3"
+}

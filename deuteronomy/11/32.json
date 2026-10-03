@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yerna ad teḥrezem ad txedmem ⟨את⟩ ilugan akk d ⟨את⟩ iḥkam i d-erraɣ zdat-wenn ass-a.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ad teḥrezem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad txedmem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilugan akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ilugan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iḥkam"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "iḥkam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i d-erraɣ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "zdat-wenn"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-02T21:54:11.698807412Z",
+  "model": "glm-5.3"
+}

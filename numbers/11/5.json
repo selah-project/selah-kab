@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Nettmutti ⟨את⟩ iselmanen i necca deg Miṣrayim war axelleṣ: ⟨את⟩ iqecciɛen, ⟨את⟩ idellaɛ, ⟨את⟩ ikruẓen, ⟨את⟩ tikessan, ⟨את⟩ tiserslan.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "nettmutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iselmanen"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "iselmanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "necca"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "war axelleṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqecciɛen"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "iqecciɛen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idellaɛ"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "idellaɛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikruẓen"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "ikruẓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tikessan"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "tikessan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiserslan"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "tiserslan"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:00.788623311Z",
+  "model": "glm-5.3"
+}

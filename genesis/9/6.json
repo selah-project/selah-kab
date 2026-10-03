@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Win isemḍalen idem n wemdan, deg wemdan idem-is ad yettusemḍal; axaṭer deg tugna n Elohim ixdem ⟨את⟩ wemdan.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "isemḍalen"
+    },
+    {
+      "surface": "דם",
+      "gloss": "idem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "deg wemdan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idem-is"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ad yettusemḍal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "deg tugna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wemdan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:56.442639648Z",
+  "model": "glm-5.3"
+}

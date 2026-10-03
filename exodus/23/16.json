@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "D aḥejjuṛ n lḥeṣid, ɣef yikkaden imezwura n wayen txedmeḍ, ayen tezzraḍ deg leḥṭa; d aḥejjuṛ n lǧmeɛ, mi ara yeffeɣ useggas, mi ara teǧǧmiɛ ⟨את⟩ wayen txedmeḍ seg leḥṭa.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "d aḥejjuṛ n"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "lḥeṣid"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ikkaden imezwura"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "n wayen txedmeḍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "tezzraḍ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg leḥṭa"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "d aḥejjuṛ n"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "lǧmeɛ"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "mi ara yeffeɣ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "useggas"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "mi ara teǧǧmiɛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen txedmeḍ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "wayen txedmeḍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "leḥṭa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:48:26.925732970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ybarrek-⟨את⟩ itent Elohim, ad yenna: Ssuffuɣet azal, nekkat, ččuret ⟨את⟩ waman deg yillan, ad nennez weglan deg tmurt.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ybarrek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "itent ⟨את⟩",
+      "marks": "itent"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yenna"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ssuffuɣet azal"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nekkat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ččuret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "waman"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "deg yillan"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "weglan"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ad nennez"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:30.780055568Z",
+  "model": "glm-5.3"
+}

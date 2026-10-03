@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Ass-nni, Yahwe iqṣeḍ ⟨את⟩ Avram lɛahd, ad yini: i zerɛ-ik nefɣ-ak-d ⟨את⟩ tmurt-agi, si wasif n Miṣrayim ar wasif ameqqran, wasif n Ferat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ass-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iqṣeḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "i zerɛ-ik"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nefɣ-ak-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-agi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "si wasif"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Ferat"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:46.957767111Z",
+  "model": "glm-5.3"
+}

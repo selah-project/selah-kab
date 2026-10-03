@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad qedseɣ ⟨את⟩ Ohel Moɛed, ⟨את⟩ Mizbeaḥ; ⟨את⟩ Aharon akk d ⟨את⟩ warraw-is ad qedseɣ ad ilin d ikohanim i iman-iw.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "ad qedseɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ohel Moɛed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moɛed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mizbeaḥ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Mizbeaḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "ad qedseɣ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ad ilin d ikohanim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i iman-iw"
+    }
+  ],
+  "timestamp": "2026-10-02T20:53:23.847955178Z",
+  "model": "glm-5.3"
+}

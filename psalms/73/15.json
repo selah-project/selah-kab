@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Ma niɣ ad qqareɣ akka, walan, ad txeddeɣ talɛict n warrac-ik.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "niɣ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ad qqareɣ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "akka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "walan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "talɛict"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "n warrac-ik"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ad txeddeɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:26.082501166Z",
+  "model": "glm-5.3"
+}

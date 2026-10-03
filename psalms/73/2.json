@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Ma d nekk, iḍar-iw qrib ad ḍlanten, imeddyen-iw qrib ad ṛṛuḥen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma d nekk"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "qrib ad"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ḍlanten"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "iḍar-iw"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "qrib ad yuɣal d ulac"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ṛṛuḥen"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "imeddyen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.727135891Z",
+  "model": "glm-5.3"
+}

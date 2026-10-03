@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 71,
+  "translation": "Ili-d i yiman-iw d aẓru, d axxam ara zdin ɣur-s ⟨i⟩ lebda; tesselḥeḍ-d ad ḥrez-im; axaṭer kečč i d aẓru-iw d lḥiṣn-iw.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Ili-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i yiman-iw"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "d aẓru"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ara zdin ɣur-s"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tesselḥeḍ-d"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ad ḥrez-im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "aẓru-iw"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "lḥiṣn-iw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T01:55:32.896415814Z",
+  "model": "glm-5.3"
+}

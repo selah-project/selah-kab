@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 13:22",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Acku s tikkest tḥemmtem ul n win icudden, maca nekk ur s-seɛḍen ara tikkest; teǧǧam taẓmert i yifassen n win n dirit, iwakken ur iwḍel ara seg ubrid-is yeḥmec, ad yidir.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "acku"
+    },
+    {
+      "surface": "הכאות",
+      "gloss": "tḥemmtem"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "n win icudden"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "s tikkest"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maca nekk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הכאבתיו",
+      "gloss": "s-seɛḍen ara tikkest"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "teǧǧam taẓmert"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "i yifassen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "n win n dirit"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "iwakken ur"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "iwḍel ara"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "seg ubrid-is"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yeḥmec"
+    },
+    {
+      "surface": "להחיתו",
+      "gloss": "ad yidir"
+    }
+  ],
+  "timestamp": "2026-10-03T00:45:50.165892194Z",
+  "model": "glm-5.3"
+}

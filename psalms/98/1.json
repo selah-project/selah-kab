@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "translation": "Mizmor. Cnut i Yahwe taḥennit tamaynut, axaṭer ixdem tijebdumin; tafus-is tayeffust tessellek-t, akk d deggix-is iqedcen.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Cnut"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taḥennit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tamaynut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "tijebdumin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixdem"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "tessellek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-t"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tafus-is tayeffust"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "akk d deggix-is"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:01.405295162Z",
+  "model": "glm-5.3"
+}

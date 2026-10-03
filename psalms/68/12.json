@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Adonai imudd-d awal; timerrḥin d aserdas meqqren.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "imudd-d"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "timerrḥin"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "aserdas"
+    },
+    {
+      "surface": "רב",
+      "gloss": "meqqren"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:43.228769522Z",
+  "model": "glm-5.3"
+}

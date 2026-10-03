@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ur ssebdin ara iman-nsen wid icceten qbel tiṭṭawen-ik; tukreḍ-ised akk wid ixeddmen lbaṭil.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "ssebdin iman-nsen"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "wid icceten"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tiṭṭawen-ik"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "tukreḍ-ised"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wid ixeddmen"
+    },
+    {
+      "surface": "און",
+      "gloss": "lbaṭil"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:04.404645079Z",
+  "model": "glm-5.3"
+}

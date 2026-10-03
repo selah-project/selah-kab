@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "S twaɣect ɣef ucḍer tesselḥey amdan; tessemsu deg wayen iḥemmel, am tberzut. S tideṭ, yal amdan d tilemt. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "S twaɣect"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ucḍer"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "tesselḥey"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "tessemsu"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "am tberzut"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "wayen iḥemmel"
+    },
+    {
+      "surface": "אך",
+      "gloss": "s tideṭ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tilemt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T01:48:38.908909583Z",
+  "model": "glm-5.3"
+}

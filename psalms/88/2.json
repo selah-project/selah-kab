@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Yahwe, Elohim n usellek-iw, deg wass iɣiɣiɣ, deg yiḍ, ɣer zdat-ik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "n usellek-iw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "iɣiɣiɣ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "deg yiḍ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ɣer zdat-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:40.964855209Z",
+  "model": "glm-5.3"
+}

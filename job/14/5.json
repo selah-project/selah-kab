@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ma yemmesten wussan-is, amḍan n waguren-is ⟨את⟩-k, tseggemt talast-is, ur tzeggzegt ara deg-s.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "yemmesten"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "wussan-is"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "amḍan"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "n waguren-is"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-k",
+      "marks": "amḍan n waguren-is"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "talast-is"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tseggemt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "tzeggzegt ara deg-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:35:28.118058944Z",
+  "model": "glm-5.3"
+}

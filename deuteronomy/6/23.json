@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Nettan d-⟨את⟩ nekker-aɣ si din, iwakken ad yessedhu\u0000aɣ-⟨את⟩ aneɣ, iwakken ad yefk-aɣ ⟨את⟩ tamurt i ig-yyem iyes i yimawlan-neɣ.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ nekker-aɣ"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "d-nekker"
+    },
+    {
+      "surface": "משם",
+      "gloss": "si din"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ad yessedhu\u0000aɣ-aneɣ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aneɣ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-aɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ig-yyem iyes"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "i yimawlan-neɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:50:14.253435554Z",
+  "model": "glm-5.3"
+}

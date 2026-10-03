@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Yexdem Yahwe ⟨את⟩ awal-agi deg umenzu n ussan, yemmut akk waylal n Miṣrayim; ma seg waylal n warrac n Yisrael, yiwen ur yemmut.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Yexdem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "deg umenzu n ussan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "waylal"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "seg waylal n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:41:07.045883907Z",
+  "model": "glm-5.3"
+}

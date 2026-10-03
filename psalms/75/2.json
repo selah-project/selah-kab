@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 75,
+  "translation": "Nesnemmid ad neḥmed i kečč, Elohim, nesnemmid ad neḥmed, Isem-ik iqreb; wid akk d-yennan ← lleḥmeṛ-ik d timʷeẓla.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "nesnemmid ad neḥmed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "nesnemmid ad neḥmed"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "Isem-ik iqreb"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isem-ik"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "wid akk d-yennan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "timʷeẓla-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:17.024011101Z",
+  "model": "glm-5.3"
+}

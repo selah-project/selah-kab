@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Lulba-nsen yebḍa; tura ad ḥelben. Netta ad yerẓem ⟨את⟩ mizbeḥat-nsen, ad iḥeqqem ⟨את⟩ maṣebot-nsen.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "yebḍa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lulba-nsen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ad ḥelben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "ad yerẓem"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "⟨את⟩ mizbeḥat-nsen"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "ad iḥeqqem"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "⟨את⟩ maṣebot-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:18:26.957160132Z",
+  "model": "glm-5.3"
+}

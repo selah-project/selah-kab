@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Acku kečč d teɣrif n tezmert-nnsen, s leɛfu-ik d tin i d-iɛellin qerṛ-nneɣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "teɣrif"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "n tezmert-nnsen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč d"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "s leɛfu-ik"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "i d-iɛellin"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "qerṛ-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:20.454763958Z",
+  "model": "glm-5.3"
+}

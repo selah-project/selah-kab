@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Tacllit n Saba twala ⟨את⟩ tẓuri n Culeman, d lxelxel i yesɛan d tameṭṭut n Yiṣḥaq d warrac-is, d uxxam i yebna.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "twala"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Tacllit"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "n Saba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tẓuri"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tẓuri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "n Culeman"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "d uxxam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yebna"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:51.795662860Z",
+  "model": "glm-5.3"
+}

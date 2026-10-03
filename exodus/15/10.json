@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Tessefḍeḍ s ruaḥ-ik, ileḥḥu-yasen yiylel; ɛellnen am iden deg waman imeqṛanen.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "tessefḍeḍ"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "s ruaḥ-ik"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "ileḥḥu-yasen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yiylel"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "ɛellnen"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "am iden"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "imeqṛanen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:42:01.051561032Z",
+  "model": "glm-5.3"
+}

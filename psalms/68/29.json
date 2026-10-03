@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 68,
+  "translation": "Elohim-ik yessuqed ⟨a⟩ tazit-ik; seḥhet, a Elohim, ayen i txedmeḍ i neɣ.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "yessuqed"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tazit-ik"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "seḥhet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "i txedmeḍ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i neɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:02.356492449Z",
+  "model": "glm-5.3"
+}

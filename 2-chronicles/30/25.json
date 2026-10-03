@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 30:25",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Lḥeṣ d akk n Yehuda d yiqeḥḥanen d yiliven, akk d lḥeṣ akk i d-yusan seg Yisrael, d yimedayen i d-yusan seg tmurt n Yisrael, d wid izdeɣen deg Yehuda, ugaren iman-nsen.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ugaren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lḥeṣ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "d yiqeḥḥanen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "d yiliven"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk d"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lḥeṣ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "i d-yusan"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "seg Yisrael"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "d yimedayen"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "i d-yusan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "והיושבים",
+      "gloss": "d wid izdeɣen"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T04:48:15.515786679Z",
+  "model": "glm-5.3"
+}

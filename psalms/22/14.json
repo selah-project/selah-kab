@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Lden imawen-nsen ɣef-i, am izem ireyyeḍ d win yettbulɣen.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "Lden"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "imawen-nsen"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "izem"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ireyyeḍ"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "d win yettbulɣen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:22.598480514Z",
+  "model": "glm-5.3"
+}

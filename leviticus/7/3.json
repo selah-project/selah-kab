@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "D ⟨את⟩ teffin-is akk ad d-yebbi seg-s: ⟨את⟩ taylalt, akked ⟨את⟩ teffin yettḥemmel ⟨את⟩ inewwi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teffin-is akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "teffin-is"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ad d-yebbi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taylalt"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "taylalt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teffin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "teffin"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "yettḥemmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inewwi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "inewwi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:58.316585152Z",
+  "model": "glm-5.3"
+}

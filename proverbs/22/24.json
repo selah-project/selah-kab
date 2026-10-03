@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Ur ttazel ara d ⟨את⟩ bab n ccex, d ⟨את⟩ win iṭṭfen taɛraḍt, ur tettlal ara ɣer-s.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "ttazel ara d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bab n ccex"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ccex"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "win"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "iṭṭfen taɛraḍt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tettlal ara ɣer-s"
+    }
+  ],
+  "timestamp": "2026-10-03T04:37:57.179120874Z",
+  "model": "glm-5.3"
+}

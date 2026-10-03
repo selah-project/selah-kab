@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "⟨את⟩ yiwen n weḥelfan ad txedmeḍ tameddit maḍi deg uzal; ⟨את⟩ wayeḍ n weḥelfan ad txedmeḍ gar tiyyatin n tmedtit.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiwen n weḥelfan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "yiwen n weḥelfan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "amenzu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg uzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wayeḍ n weḥelfan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wayeḍ n weḥelfan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "tiyyatin n tmedtit"
+    }
+  ],
+  "timestamp": "2026-10-02T20:52:15.180974245Z",
+  "model": "glm-5.3"
+}

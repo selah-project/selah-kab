@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 129,
+  "translation": "Aṭas i yi-d-ṣuṛḍen seg tmezgida-nnu iɛeddan, acu kan ur ẓḍan ara ad iyi-ɛenɛen:",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "i yi-d-ṣuṛḍen"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "seg tmezgida-nnu iɛeddan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "acu kan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ẓḍan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ad iyi-ɛenɛen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:39.312300604Z",
+  "model": "glm-5.3"
+}

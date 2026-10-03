@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Niḍen nekni akked imeḍran-nneɣ, nexṣen, nedness.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Niḍen nekni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "imeḍran-nneɣ"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "nexṣen"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "nedness"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:53.455676920Z",
+  "model": "glm-5.3"
+}

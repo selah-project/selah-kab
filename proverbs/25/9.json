@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Eǧɛa tamukrist-ik akked ⟨את⟩ umiddan-ik, ma d asrun n wayeḍ, ur t-ssufeɣ ara.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "tamukrist-ik"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "eǧɛa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umiddan-ik"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "umiddan-ik"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ma d asrun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "n wayeḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "t-ssufeɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:26:46.131494413Z",
+  "model": "glm-5.3"
+}

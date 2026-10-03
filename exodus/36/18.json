@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yexdem semmus (d mraw) n yiseqqaden n tnexeṭ, iwakken ad yeseqqed ⟨את⟩ tenṭelt, akken ad tili d yiwet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "iseqqaden"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n tnexeṭ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semnus (d mraw)"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "iwakken ad yeseqqed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenṭelt"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenṭelt"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "d yiwet"
+    }
+  ],
+  "timestamp": "2026-10-02T20:58:48.181905194Z",
+  "model": "glm-5.3"
+}

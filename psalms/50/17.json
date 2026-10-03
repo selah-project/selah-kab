@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Keččini tkelleḍ ⟨את⟩ umɛdur, tesḥebbeḍ awalen-iw ar deffir-ik.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Keččini"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "tkelleḍ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "umɛdur"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "tesḥebbeḍ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen-iw"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ar deffir-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:28.484073501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 129,
+  "translation": "Qeddan ur itteddus ara afus-is, ula d win yessemlalen iseccak iḍerri-s.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ur itteddus ara"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "qeddan"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ula d iḍerri-s"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "win yessemlalen iseccak"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:07.449721780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ur ad ⟨את⟩ awen-iḍlen Ḥizqiya ad yini: Yahwe ad aɣ-yeslek. Is yeslek Elohim n yegduden, yal win ⟨את⟩ tmurt-is, seg ufus n ugellid n Accur?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ur...ad"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "iḍlen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awen",
+      "marks": "awen"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizqiya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ad aɣ-yeslek"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "is yeslek"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "n yegduden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt-is"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tmurt-is"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Accur"
+    }
+  ],
+  "timestamp": "2026-10-02T23:57:31.006768903Z",
+  "model": "glm-5.3"
+}

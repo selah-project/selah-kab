@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Ad d-ilint deffir-sent seba n yiseggasen n uɣelluy, teččura akk ad tettwatt deg tmurt n Miṣrayim, uzeṭṭa ad yesseḥlel ⟨את⟩ tmurt.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "Ad d-ilint"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seba"
+    },
+    {
+      "surface": "שני",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "n uɣelluy"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "deffir-sent"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "ad tettwatt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "teččura"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ad yesseḥlel"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "uzeṭṭa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:30:08.699577941Z",
+  "model": "glm-5.3"
+}

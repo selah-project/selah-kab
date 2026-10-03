@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Ad yessel ⟨את⟩ aglim-is s waman deg umkan iqedcen, ad yessemlal ⟨את⟩ iṛacen-is, ad yeffeɣ, ad ixeddem ⟨את⟩ aqerban-is yuḥren d ⟨את⟩ aqerban n wegdud yuḥren, ad iselleḥ i yiman-is d i wegdud.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ad yessel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aglim-is"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "aglim-is"
+    },
+    {
+      "surface": "במים",
+      "gloss": "s waman"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ad yessemlal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛacen-is"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iṛacen-is"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ad ixeddem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aqerban-is yuḥren"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "aqerban-is yuḥren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "aqerban n wegdud yuḥren"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "aqerban yuḥren"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n wegdud"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ad iselleḥ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "d i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    }
+  ],
+  "timestamp": "2026-10-03T04:03:59.589234621Z",
+  "model": "glm-5.3"
+}

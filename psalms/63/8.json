@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Axir telliḍ d ⟨the⟩ tallalt-iw, deg lweẓ n yijerriken-ik ad cceɣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axir"
+    },
+    {
+      "surface": "היית",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "d ⟨the⟩ tallalt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-iw"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "deg lweẓ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "n yijerriken-ik"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ad cceɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:51.583610709Z",
+  "model": "glm-5.3"
+}

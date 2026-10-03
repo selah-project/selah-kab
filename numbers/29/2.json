@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 29:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad tɛeḍḍlem ɛola i d-ittunefken i Yahwe, am zzit ideg ttḥemmel: yiwen n yijufar, yiwen n yimareg, sebaɛ n yimɛiɣen, iɛemṛen iseggasen, war tayelt.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ad tɛeḍḍlem"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɛola"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "am zzit ideg ttḥemmel"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ittunefken"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ijufar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "n tgelda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "איל",
+      "gloss": "amareg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "imɛiɣen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "iɛemṛen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iseggasen"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sebaɛ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "war tayelt"
+    }
+  ],
+  "timestamp": "2026-10-02T21:41:40.110287761Z",
+  "model": "glm-5.3"
+}

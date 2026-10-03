@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 63,
+  "translation": "Akken ad k-ibrekk deg tudert-iw, deg yisem-ik ad sliɣ ifassen-iw.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Akken"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ad k-ibrekk"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "deg tudert-iw"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "deg yisem-ik"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ad sliɣ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ifassen-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:51.583065554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Acku ḍellben ɣef-k·im tadirwt, ḥeṛsen taclict — ula d yiwet ur zmiren ara ad qables.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ḍellben"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef-k·im"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tadirwt"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ḥeṛsen"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "taclict"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ula d yiwet ... ara"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ur zmiren ara ad qables"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:20.927755028Z",
+  "model": "glm-5.3"
+}

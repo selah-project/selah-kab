@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ad yuɣal Yahwe Elohim-ik, ad d-yerr ⟨את⟩ tuɣalin-ik, ad ak-iḥemmel, ad yuɣal, ad ak-yejmɛ seg Yal yagdudan, anida i k-id-bḍa Yahwe Elohim-ik.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuɣalin-ik"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "tuɣalin-ik"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ad ak-iḥemmel"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "ad ak-yejmɛ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Yal yagdudan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "i k-id-bḍa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Yal"
+    }
+  ],
+  "timestamp": "2026-10-02T22:06:03.898003205Z",
+  "model": "glm-5.3"
+}

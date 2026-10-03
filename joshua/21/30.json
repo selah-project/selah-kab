@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Si taqbilt n Aser: ⟨את⟩ MiSal akked ⟨את⟩ akal-ns, ⟨את⟩ ɛAvdon akked ⟨את⟩ akal-ns.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "si taqbilt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Aser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "MiSal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "MiSal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akal-ns"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akal-ns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɛAvdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ɛAvdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "akal-ns"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "akal-ns"
+    }
+  ],
+  "timestamp": "2026-10-02T22:20:14.954760231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim-nwen, issemaṭ ⟨את⟩ kunwi; walan, kunwi tettwalim ass-a am yitran n igenwan s lɛedda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "issemaṭ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "walan, kunwi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "am yitran"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenwan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "s lɛedda"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:26.630380855Z",
+  "model": "glm-5.3"
+}

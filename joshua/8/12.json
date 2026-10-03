@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yeṭṭef azal n xemsa n yiferḍen n yirgazen, yerra-ten ⟨את⟩-ten d lmeɛrab, gar Bet-El d Ɛi, ɣer utaram n temdint.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "azal n xemsa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n yiferḍen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "n yirgazen"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yerra-ten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "lmeɛrab"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "d lmeɛrab"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ɛi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ɣer utaram"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "n temdint"
+    }
+  ],
+  "timestamp": "2026-10-02T22:13:14.207985873Z",
+  "model": "glm-5.3"
+}

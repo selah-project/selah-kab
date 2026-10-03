@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "David yefra d inemhalen n yifedan d yimettiyen, akked yal anemhal.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "yefra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inemhalen"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "n yifedan"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "d yimettiyen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akked yal"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "anemhal"
+    }
+  ],
+  "timestamp": "2026-10-03T03:31:45.073589255Z",
+  "model": "glm-5.3"
+}

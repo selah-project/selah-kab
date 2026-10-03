@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "S tezmert-is meqqren ad yid-i-inir? Ala! Maca ⟨hu⟩ ad yerr-ddin s ddaw-i.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "s tezmert-is meqqren"
+    },
+    {
+      "surface": "כח",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ad yid-i-inir"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ala!"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Maca"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hu⟩"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "בי",
+      "gloss": "s ddaw-i"
+    }
+  ],
+  "timestamp": "2026-10-03T02:38:57.460702171Z",
+  "model": "glm-5.3"
+}

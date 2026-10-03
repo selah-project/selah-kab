@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Ɛadah d-tlal i Ɛicav ⟨את⟩ Elifaz, d Bocemmat d-tlal ⟨את⟩ Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "d-tlal"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ɛadah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "i Ɛicav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "d Bocemmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "d-tlal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-10-02T20:27:13.433283693Z",
+  "model": "glm-5.3"
+}

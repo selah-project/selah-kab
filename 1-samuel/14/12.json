@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 14:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Wid n tinest erran ⟨את⟩ Yonatan d ⟨את⟩ bab n yiliren-is, nnan: Alitet ɣer-neɣ, ad nessen-awen awal. Yenna-d Yonatan i bab n yiliren-is: Ali deffir-iw, axaṭer Yahwe yefka-ten deg ufus n Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "erran"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Wid"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "n tinest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "bab n yiliren-is"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bab"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "n yiliren-is"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Alitet"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "ונודיעה",
+      "gloss": "ad nessen-awen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ akwen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bab"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "n yiliren-is"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Ali"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "yefka-ten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-02T22:43:45.280924130Z",
+  "model": "glm-5.3"
+}

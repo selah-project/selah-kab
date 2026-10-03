@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yerreh ceṭan ⟨את⟩ Yahwe, yenna: Aglim γef uglim, akk wayen i yesɛan argaz ad t-yefk γef nef-s.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yerreh"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ceṭan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aglim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "γef"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aglim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk wayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i umdan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "γef"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nef-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:32:08.425512994Z",
+  "model": "glm-5.3"
+}

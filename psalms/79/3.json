@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "Ssulfen idammen-nnsen am aman, ɣef yal tama n Yerucalayim, ulac win ten-yettɣumin.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Ssulfen"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "idammen-nnsen"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "am aman"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ɣef yal tama"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "win ten-yettɣumin"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:20.054512713Z",
+  "model": "glm-5.3"
+}

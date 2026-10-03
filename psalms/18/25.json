@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yahwe yerra-yi-d akken illa ṣedeq-iw, akken tella teqdiccilt n yifassen-iw zdat wallen-is.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yerra-yi-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-yi"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "akken illa ṣedeq-iw"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "akken tella teqdiccilt"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "n yifassen-iw"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "wallen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:54.080169639Z",
+  "model": "glm-5.3"
+}

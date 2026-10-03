@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Eg i yiman-nnek tabbewt seg yiɣsan n gofer; tiḥuna ad txedmeḍ deg ⟨את⟩ tabbewt, ad tessekfeḍ ⟨את⟩-t deg-s s azzeft, seg daxel d beṛṛa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "eg"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-nnek"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "tabbewt"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "seg yiɣsan"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "n gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "tiḥuna"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabbewt"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tabbewt"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ad tessekfeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tabbewt (s azzeft)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg daxel"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "d beṛṛa"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "s azzeft"
+    }
+  ],
+  "timestamp": "2026-10-02T20:12:15.887677185Z",
+  "model": "glm-5.3"
+}

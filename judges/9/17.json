@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Anida baba igmena-d lemɛi ɣef wen, yuzen ⟨את⟩ id-is deg iji n lmut, iḥelles ⟨את⟩ wen seg ufus n Midyan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "igmena-d lemɛi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ɣef wen"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "id-is"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "id-is"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "deg iji n lmut"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "iḥelles"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ wen",
+      "marks": "wen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "n Midyan"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:19.342198829Z",
+  "model": "glm-5.3"
+}

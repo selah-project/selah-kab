@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Yerna Ṣipura tuɣ-t-id aẓru, tgeẓ ⟨את⟩ agilma n mmi-s, tesseddi-t ɣer iḍarren-is; tenna: «Nes, kečči d aḥettan n idammen ɣuri.»",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "yerna tuɣ-t-id"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ṣipura"
+    },
+    {
+      "surface": "צר",
+      "gloss": "aẓru"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "tgeẓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agilma n mmi-s"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "agilma"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "n mmi-s"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "tesseddi-t"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ɣer iḍarren-is"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "aḥettan"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɣuri"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:21.602572805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "Qessden ⟨את⟩ arraw-nsen d ⟨את⟩ tintaliyin-nsen i ccedan.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Qessden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-nsen"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "arraw-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tintaliyin-nsen"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "tintaliyin-nsen"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "i ccedan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:40.681549052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Tella lḥerb gar Asa d Bacɛa, agellid n Yisrael, akk wussan-nsen.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "lḥerb"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tella"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bacɛa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "wussan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:21:26.045958634Z",
+  "model": "glm-5.3"
+}

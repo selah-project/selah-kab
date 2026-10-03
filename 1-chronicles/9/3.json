@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Deg Yerucalayem zedɣen seg warrac n Yehuda, seg warrac n Binjamin, seg warrac n Efrayim d Menaše.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Deg Yerucalayem"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zedɣen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warrac n"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "d Menaše"
+    }
+  ],
+  "timestamp": "2026-10-03T03:29:06.459072828Z",
+  "model": "glm-5.3"
+}

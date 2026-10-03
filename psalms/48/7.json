@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 48,
+  "translation": "Terḍa ṭṭef-ten din, d irij am tin ilan.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "terḍa"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ṭṭef-ten"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "irij"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "am tin ilan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:19.764109067Z",
+  "model": "glm-5.3"
+}

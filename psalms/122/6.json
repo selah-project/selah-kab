@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 122,
+  "translation": "Ssutent i telwit n Yerucalayim; ad wjan i k-iḥemmlen.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "ssutent"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "i telwit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "ad wjan"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "i k-iḥemmlen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:10.506175142Z",
+  "model": "glm-5.3"
+}

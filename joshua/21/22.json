@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "D ⟨את⟩ Qibṣayim d ⟨את⟩ teẓgi-s, ⟨את⟩ Bet Ḥoron d ⟨את⟩ teẓgi-s — tamdinin, Four.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Qibṣayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Qibṣayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "teẓgi-s"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teẓgi-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Bet Ḥoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Ḥoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "teẓgi-s"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "teẓgi-s"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tamdinin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kṛaż"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:35.167577692Z",
+  "model": "glm-5.3"
+}

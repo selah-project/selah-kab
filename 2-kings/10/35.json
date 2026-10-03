@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yehu yensi d yibabaten-is, ẓẓan-t ⟨את⟩ deg Semron, Yeho'aḥaz mmi-s i yeḥkmen deg umkan-is.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yensi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yibabaten-is"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ẓẓan-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "deg Semron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "i yeḥkmen"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeho'aḥaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-02T23:31:55.447546135Z",
+  "model": "glm-5.3"
+}

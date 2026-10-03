@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 138,
+  "translation": "Ad ccnen ɣef yiberdan n Yahwe, acku meqqwer ⟨d⟩ tazmert n Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ad ccnen"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ɣef yiberdan n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqwer"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨d⟩ tazmert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.212194448Z",
+  "model": "glm-5.3"
+}

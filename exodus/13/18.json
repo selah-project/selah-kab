@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Elohim yessurri ⟨את⟩ ugdud ɣer ubrid n lḥeǧra, ɣer yiri n yillel n lqṣeb. D widdin ay d-yeffɣen seg tmurt n Miṣrayim, warraw n Yisrael, iḥemmen.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "yessurri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lḥeǧra"
+    },
+    {
+      "surface": "ים",
+      "gloss": "illel"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lqṣeb"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "iḥemmen"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "d-yeffɣen \/ ɛellin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:39.992267791Z",
+  "model": "glm-5.3"
+}

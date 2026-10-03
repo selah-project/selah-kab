@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Agen deg yigen, i d-yenn Qohelet; agen deg yigen, akk ⟨d⟩ agen.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Agen"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "deg yigen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenn"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "agen"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "deg yigen"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "agen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:02.825915714Z",
+  "model": "glm-5.3"
+}

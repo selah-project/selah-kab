@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ḥecbon akk d ⟨את⟩ tigezmi-nnes, ⟨את⟩ Yaɛzer akk d ⟨את⟩ tigezmi-nnes; timdinin akk, kbant.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥecbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Ḥecbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tigezmi-nnes"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tigezmi-nnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaɛzer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaɛzer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tigezmi-nnes"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tigezmi-nnes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "timdinin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kbant"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:43.118485113Z",
+  "model": "glm-5.3"
+}

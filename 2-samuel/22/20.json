@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yessuffeɣ-iyi-d ɣer lmerḥa ⟨את⟩ iyi, yessellak iyi-d, axaṭer yerna yeḥmadi fell-i.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yessuffeɣ-iyi-d"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ɣer lmerḥa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "iyi"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "yessellak iyi-d"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yeḥmadi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-02T23:07:59.100717236Z",
+  "model": "glm-5.3"
+}

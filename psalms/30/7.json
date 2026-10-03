@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Ma d nekk, deg talwit-iw, wi-tt-in: ur ppufeṛṛeɣ ara i lebda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ma d nekk"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "wi-tt-in"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "deg talwit-iw"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ppufeṛṛeɣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:41.160672679Z",
+  "model": "glm-5.3"
+}

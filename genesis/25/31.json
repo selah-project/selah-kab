@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Yaɛqov inna: Zzuɣer-iyi ass-a ⟨את⟩ uzref-ik n uweldi amezwaru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "zzuɣer"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uzref-ik n uweldi amezwaru"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "uzref-ik n uweldi amezwaru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:20:44.907411705Z",
+  "model": "glm-5.3"
+}

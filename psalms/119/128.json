@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ɣef lǧehd, allan i tḥekmeɣ d imeɣta deg yal taɣawsa; yal abrid n ikuker kehreɣ-t.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lǧehd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "i tḥekmeɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "deg yal taɣawsa"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "d imeɣta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n ikuker"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kehreɣ-t"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:19.171762814Z",
+  "model": "glm-5.3"
+}

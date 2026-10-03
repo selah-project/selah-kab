@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 138,
+  "translation": "Ad k-ccedɣen, Yahwe, agelliden akk n tmurt; axaṭer slan imeslayen n imi-k.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Ad k-ccedɣen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "agelliden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slan"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "imeslayen"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "n imi-k"
+    }
+  ],
+  "timestamp": "2026-10-03T02:13:43.588976128Z",
+  "model": "glm-5.3"
+}

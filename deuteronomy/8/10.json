@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad teccem, ad tceɛblem, ad tbareklem ⟨את⟩ Yahwe Elohim-ik ɣef tmurt-agi tazwart i d-yefka i kečč.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Ad teccem"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ad tceɛblem"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ad tbareklem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt-agi"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "tazwart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i d-yefka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:33.488317668Z",
+  "model": "glm-5.3"
+}

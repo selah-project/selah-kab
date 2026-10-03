@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Jebdeɣ ul-iw ad yissin ⟨את⟩ tamiccict, ad yissin ⟨את⟩ ticerkit d timewẓert; ẓriɣ belli wagi daɣen d aḥewwec n ruaḥ.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "jebdeɣ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ul-iw"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad yissin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tamiccict"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ad yissin"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ticerkit"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "d timewẓert"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ẓriɣ"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "aḥewwec"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:37.360920617Z",
+  "model": "glm-5.3"
+}

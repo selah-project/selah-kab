@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 69,
+  "translation": "Wid iḍefren ẓran, ad feḥlen; wid yessaramen Elohim, ad idder wul-nwen.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "wid iḍefren"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ad feḥlen"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "wid yessaramen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ad idder"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "wul-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:43.798363519Z",
+  "model": "glm-5.3"
+}

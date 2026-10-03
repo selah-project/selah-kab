@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Yufa Yosef ⟨את⟩-iten yiwala ⟨את⟩ Binjamin; yenna i win iɛellen ɣef uxxam-is: Ssekcem ⟨את⟩ irgazen deg uxxam, iṭṭef iḥuḍen d iman-is, heyyi, acku ⟨את⟩-i ad ččen irgazen deg tameddit.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yiwala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-iten",
+      "marks": "iten (d atmaten-is)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "i win"
+    },
+    {
+      "surface": "על",
+      "gloss": "iɛellen ɣef"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uxxam-is"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ssekcem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "irgazen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "iṭṭef"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "iḥuḍen d iman-is"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "heyyi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-i",
+      "marks": "i (Yosef)"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ad ččen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "deg tameddit"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:54.281540308Z",
+  "model": "glm-5.3"
+}

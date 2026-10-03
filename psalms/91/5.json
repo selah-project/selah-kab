@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 91,
+  "translation": "Ur teṭṭfadh ara tagiḍt n yiḍ, neɣ tineccabin i ttazalen azal, tessagiḍ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "teṭṭfadh"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "tagiḍt"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "n yiḍ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "tineccabin"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "i ttazalen"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "azal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:03:17.998451879Z",
+  "model": "glm-5.3"
+}

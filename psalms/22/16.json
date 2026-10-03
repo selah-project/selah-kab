@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "Yemɣi taẓwert-iw am tagut yerẓan; ils-iw yeṭṭef deg imuɣen-iw; tuǧǧeḍ-iyi ɣer ṭṭrid n lmut.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Yemɣi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "am tagut yerẓan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "taẓwert-iw"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ils-iw"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "yeṭṭef deg"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "imuɣen-iw"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ɣer ṭṭrid"
+    },
+    {
+      "surface": "מות",
+      "gloss": "n lmut"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "tuǧǧeḍ-iyi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:22.598788818Z",
+  "model": "glm-5.3"
+}

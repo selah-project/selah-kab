@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 149,
+  "translation": "Ad zedmen igelliden-nsen s yiseɣwan, d imeqranen-nsen s yiẓra n wuzzal.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "Ad zedmen"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "igelliden-nsen"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "s yiseɣwan"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "d imeqranen-nsen"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "s yiẓra"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "n wuzzal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:20.411916922Z",
+  "model": "glm-5.3"
+}

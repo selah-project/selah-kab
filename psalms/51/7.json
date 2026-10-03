@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Walan, s tugna i iliɣ-yettwakkes, s tugna i t-ḥemmel yimma-w.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Walan"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "s tugna"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "iliɣ-yettwakkes"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "s tugna"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "i t-ḥemmel"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yimma-w"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:24.943477896Z",
+  "model": "glm-5.3"
+}

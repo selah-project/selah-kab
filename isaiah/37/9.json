@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 37:9",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yesla ɣef Tirkaha, agellid n Kuš, s wawal: Yeffeɣ-d ad yennuɣ ⟨את⟩ yid-m. Mi yesla, yuzen imcegɛen ɣer Ḥizqiyyahu, ad yinin:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Yesla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tirkaha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yeffeɣ-d"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ad yennuɣ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yid-m",
+      "marks": "ad yennuɣ ⟨את⟩ yid-m"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mi yesla"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "imcegɛen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ḥizqiyyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yinin"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:51.291783280Z",
+  "model": "glm-5.3"
+}

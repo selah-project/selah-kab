@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Si Ḥucim, iweld ⟨את⟩ Avituv d ⟨את⟩ Elpaɛel.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "si Ḥucim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iweld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Elpaɛel"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaɛel"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:02.080029748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Dɣa, a yigelliden, fttun taḥekma; ad tlemmedem, a yimḍebben n tmurt.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dɣa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "a yigelliden"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "fttun taḥekma"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "ad tlemmedem"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "a yimḍebben"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:32.778922942Z",
+  "model": "glm-5.3"
+}

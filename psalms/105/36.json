@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Yeḍreb akk wid ilulen d imezwura di tmurt-nsen, tamenzut n tezmert-nsen akk.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Yeḍreb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "wid ilulen d imezwura"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di tmurt-nsen"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tamenzut"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "n...akk"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "tezmert-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:14.028901440Z",
+  "model": "glm-5.3"
+}

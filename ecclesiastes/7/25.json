@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Nekki, tuɣaleɣ akked wul-iw ad ẓreɣ, ad nadiɣ, ad slebeɣ ⟨i⟩ ḥekma d lḥisab, ad ẓreɣ tucḍa n tiḥmert, akken daɣen tiḥmert n wennan.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "tuɣaleɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "akked wul-iw"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ad ẓreɣ"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "ad nadiɣ"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "ad slebeɣ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ḥekma"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "lḥisab"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ad ẓreɣ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tucḍa"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "tiḥmert"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "tiḥmert"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "wennan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:24.707424063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad yessuffeɣ ⟨את⟩ yilmanm ar beṛṛa n lɛesker, ad y-err d asafu, akken i d-yerra d asafu yilman amenzu; tiḥutti ⟨d⟩ ta n lɛesker.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ad yessuffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilman"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yilman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "n lɛesker"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ad y-err d asafu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t",
+      "marks": "yilman"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "i d-yerra d asafu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yilman amenzu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yilman"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "amenzu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tiḥutti"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lɛesker"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d neṭṭa"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:11.342930868Z",
+  "model": "glm-5.3"
+}

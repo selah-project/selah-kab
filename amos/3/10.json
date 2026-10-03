@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ur ẓran ara ad xedmen ayen izgan, i d-yenna Yahwe; wid ijemmlen ⟨ṭṭred⟩ d ⟨takerḍi⟩ deg yiqedduren-nsen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ur... ara"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ayen izgan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "wid ijemmlen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ṭṭred"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "d takerḍi"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "deg yiqedduren-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:20:39.954758650Z",
+  "model": "glm-5.3"
+}

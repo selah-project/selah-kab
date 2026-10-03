@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Afus-iw ad yeqqim yid-s; iɣil-iw, ula netta, ad t-izmir.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "afus-iw"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ula"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "iɣil-iw"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ad t-izmir"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:44.616327025Z",
+  "model": "glm-5.3"
+}

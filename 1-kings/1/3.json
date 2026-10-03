@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Naden tawacilt ifaten akk deg yal tilisa n Yisrael; ufan ⟨את⟩ Avisag tacunit, u t-wwin ɣer ugellid.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "naden"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "tawacilt"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ifaten"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "akk deg"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilisa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ufan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avisag tacunit"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avisag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "tacunit"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "u t-wwin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "i ugellid"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɣer ugellid"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:08.120655575Z",
+  "model": "glm-5.3"
+}

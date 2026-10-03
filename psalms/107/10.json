@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 107,
+  "translation": "Wid zedɣen deg ttama d tili n tmettant, imḥebsten deg uẓeẓẓu d wuzzal ⟨ḥerzen⟩.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Wid zedɣen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ttama"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "d tili n tmettant"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "imḥebsten"
+    },
+    {
+      "surface": "עני",
+      "gloss": "uẓeẓẓu"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "d wuzzal"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:32.871539791Z",
+  "model": "glm-5.3"
+}

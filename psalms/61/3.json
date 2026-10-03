@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 61,
+  "translation": "Seg igemmaḍ n tmurt ad cnuḍ ɣer-k; mi yettḥuz wul-iw, ɣer wadrum i iger fell-i ad iyi-tt-welleḥ.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Seg igemmaḍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer-k"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ad cnuḍ"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "mi yettḥuz"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "wul-iw"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ɣer wadrum"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "i iger fell-i"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ad iyi-tt-welleḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:54:06.475853558Z",
+  "model": "glm-5.3"
+}

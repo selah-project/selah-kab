@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 96,
+  "translation": "Qquent deg yegduden tajmilt-is, deg ⟨the⟩ yal yiɣlanen tiseckinin-is.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "qquent"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "deg yegduden"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tajmilt-is"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yiɣlanen"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "tiseckinin-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:53.596921573Z",
+  "model": "glm-5.3"
+}

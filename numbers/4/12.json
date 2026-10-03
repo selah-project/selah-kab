@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad ddun s ⟨את⟩ akk iẓuran n timmuseɣt ideg xedmen deg uqeddes, ad ten-ḥebb deg teɣsirt n tektilt, ad ten-deffren s ugelzum n gelgum n taḥac, ad ten-ḥebb ɣef weɣyam.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ad ddun s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iẓuran n timmuseɣt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "iẓuran"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "n timmuseɣt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "deg uqeddes"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ad ten-ḥebb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "teɣsirt"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "n tektilt"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ad ten-deffren"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "akk iẓuran n timmuseɣt"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "s ugelzum"
+    },
+    {
+      "surface": "עור",
+      "gloss": "n gelgum"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "n taḥac"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ad ten-ḥebb"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "weɣyam"
+    }
+  ],
+  "timestamp": "2026-10-02T21:23:10.466061997Z",
+  "model": "glm-5.3"
+}

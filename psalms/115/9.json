@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 115,
+  "translation": "A Yisrael, ɛuded ɣef Yahwe: d neppa i d-Ɛeḍḍel-nnsen d lɛeskar-nnsen.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "A Yisrael"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ɛuded"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ɣef Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "Ɛeḍḍel-nnsen"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "d lɛeskar-nnsen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d neppa"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:55.349805316Z",
+  "model": "glm-5.3"
+}

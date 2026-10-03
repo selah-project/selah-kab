@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Ma tḥekmed, tḥekmed i yiman-ik; ma ttḥekcireḍ, d kečč kan ad t-teṭṭfeḍ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tḥekmed"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tḥekmed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ma ttḥekcireḍ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "d kečč kan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ad t-teṭṭfeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:18:10.618891937Z",
+  "model": "glm-5.3"
+}

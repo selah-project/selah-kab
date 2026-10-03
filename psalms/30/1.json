@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 30,
+  "translation": "Mizmor, taɣwavt n ḥanukkat n wexxam, i David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taɣwavt"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "n ḥanukkat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:24.226690121Z",
+  "model": "glm-5.3"
+}

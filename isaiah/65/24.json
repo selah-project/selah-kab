@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Ad yili: qbel ad ccren, nekk ad d-errreɣ; mazal llan ttmeslayen, nekk ad seleneɣ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ad ccren"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ad d-errreɣ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mazal"
+    },
+    {
+      "surface": "הם",
+      "gloss": "llan"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ttmeslayen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ad seleneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:10:00.466524634Z",
+  "model": "glm-5.3"
+}

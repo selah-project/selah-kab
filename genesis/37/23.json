@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Yella-d waya: mi ikecmen Yosef ɣer atmaten-is, ḥeṣlen i Yosef ⟨את⟩ taqandura-s, ⟨את⟩ taqandura-n yizelnassen i yellan fell-as.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d waya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ikecmen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "atmaten-is"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ḥeṣlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqandura-s"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "taqandura-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taqandura-n yizelnassen"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "taqandura-n"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "yizelnassen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-02T20:29:03.202264752Z",
+  "model": "glm-5.3"
+}

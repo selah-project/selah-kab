@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Tuzneḍ ⟨את⟩ ruaḥ-ik, ad xleqen; tulseḍ ad d-teǧǧiḍ amaynut i udmawen n tmurt.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Tuzneḍ"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruaḥ-ik"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ad xleqen"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "tulseḍ ad d-teǧǧiḍ amaynut"
+    },
+    {
+      "surface": "פני",
+      "gloss": "i udmawen"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:55.400285681Z",
+  "model": "glm-5.3"
+}

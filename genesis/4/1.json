@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Adam yessin ⟨את⟩ Ḥawa tameṭṭut-is; tneḥmel, tesselḥal-d ⟨את⟩ Qayen, tenna: Rebeḥ-iyi-d argaz ⟨את⟩ s tallelt n Yahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yessin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Ḥawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tameṭṭut-is"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "tneḥmel"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tesselḥal-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qayen"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayen"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "rebeḥ-iyi-d"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ s tallelt n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T20:10:08.797935316Z",
+  "model": "glm-5.3"
+}

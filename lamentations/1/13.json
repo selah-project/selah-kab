@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 1:13",
+  "book": "lamentations",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Seg ufella, yuzen times deg iɣsan-iw, d tin id yernan ɣefsen; iḥerrec-d azetta i iḍarren-iw, yerra-iyi-d dffir; yessili-iyi-d d taneẓẓuft, akk ass ⟨d⟩ taɣma n tmeṭṭut.",
+  "tokens": [
+    {
+      "surface": "ממרום",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "times"
+    },
+    {
+      "surface": "בעצמתי",
+      "gloss": "deg iɣsan-iw"
+    },
+    {
+      "surface": "וירדנה",
+      "gloss": "d tin id yernan ɣefsen"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "iḥerrec-d"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "azetta"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "i iḍarren-iw"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "yerra-iyi-d"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "dffir"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "yessili-iyi-d"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "d taneẓẓuft"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "taɣma n tmeṭṭut"
+    }
+  ],
+  "timestamp": "2026-10-03T02:53:00.942223783Z",
+  "model": "glm-5.3"
+}

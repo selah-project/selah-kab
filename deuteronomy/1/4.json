@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Deffir ma yewḥe ⟨את⟩ Sion, agellid n yimuriyen, win izdegren deg Ḥecbon, akked ⟨את⟩ Og, agellid n Bacan, win izdegren deg ɛActarot, deg ɛAdreɛi.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Deffir ma"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "yewḥe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sion"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "האמורי",
+      "gloss": "n yimuriyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "izdegren"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "deg Ḥecbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "n Bacan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "izdegren"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "deg ɛActarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "deg ɛAdreɛi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:48:17.553795301Z",
+  "model": "glm-5.3"
+}

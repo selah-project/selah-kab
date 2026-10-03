@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Idurar n lɛali, d axxam i yezḍaɣen udebsi; ijeḍḍigen d ttabella i yeflalen.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "idurar"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "n lɛali"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "i yezḍaɣen udebsi"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "ijeḍḍigen"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "d ttabella"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "i yeflalen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:36:01.125353734Z",
+  "model": "glm-5.3"
+}

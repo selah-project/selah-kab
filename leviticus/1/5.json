@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad inɣ ⟨את⟩ asnaw n lbeḥim deg zdat n Yahwe, atan ad d-awḍen at Aharon, ikohanen, ⟨את⟩ idammen, ad ssefṛun ⟨את⟩ idammen ɣef uẓeẓwa, tama yagi akk, i yezgan ɣef tewwurt n uxam n temlilit.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ad inɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asnaw n lbeḥim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "asnaw"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "n lbeḥim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ad d-awḍen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ad ssefṛun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "uẓeẓwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tama yagi akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yezgan ɣef"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tewwurt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:08.168073575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ad teslemeḍ deg ⟨i⟩genwan, deg umkan n telda-ik ⟨tiṭ⟩ ⟨את⟩ allal-nsen d ⟨tiṭ⟩ ⟨את⟩ taḥennit-nsen, ad txedmeḍ ccreɛ-nsen.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ad teslemeḍ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "n telda-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allal-nsen"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "allal-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taḥennit-nsen"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "taḥennit-nsen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ccreɛ-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:15:08.755834240Z",
+  "model": "glm-5.3"
+}

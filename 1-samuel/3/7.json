@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Cemuel yakan ur issin ara ⟨את⟩ Yahwe, d awal n Yahwe ur yettwaban ara yakan ɣur-es.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Cemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "yakan… ara"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "issin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "yakan… ara"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "yettwaban"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-es"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:47.387787031Z",
+  "model": "glm-5.3"
+}

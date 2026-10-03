@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Yekkes iqedcen seg tmurt, yekkes ⟨את⟩ akk igelgelen i sxedmen dadda-s.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "yekkes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk igelgelen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "igelgelen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sxedmen"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "dadda-s"
+    }
+  ],
+  "timestamp": "2026-10-02T23:20:46.715643319Z",
+  "model": "glm-5.3"
+}

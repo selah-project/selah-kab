@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 42,
+  "translation": "Snubget i Yahwe cnu amaynut; taqbaylit-is seg igemmaḍ n tmurt, widak ippillin ɣer yilel akked wayen akk illan deg-s, tigzirin akked imezdaɣ-nsent.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "snubget"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "cnu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "amaynut"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "taqbaylit-is"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "seg igemmaḍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "widak ippillin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɣer yilel"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "akked wayen akk illan deg-s"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tigzirin"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "akked imezdaɣ-nsent"
+    }
+  ],
+  "timestamp": "2026-10-02T23:59:13.346865352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Igenwan ad snenfren timɣar-ik, a Yahwe, ḥetta laman-ik deg tlaqumt n yiqedcen.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "ad snenfren"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Igenwan"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "timɣar-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ḥetta"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "laman-ik"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "deg tlaqumt"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:01:26.485127095Z",
+  "model": "glm-5.3"
+}

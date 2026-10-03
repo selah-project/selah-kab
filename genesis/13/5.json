@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Daɣen i Luṭ, win yettuneben d ⟨את⟩ Avram, llant teḥlawin, leɣyul, d txamin.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Daɣen"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "i Luṭ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "win yettuneben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "d Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "llant"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "teḥlawin"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "leɣyul"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "txamin"
+    }
+  ],
+  "timestamp": "2026-10-02T20:14:26.274140118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ur txelqeq ara i yiman-ik tugna yettwaṣeḍlen, neɣ kra n taywalt n wayen yellan deg igenwan, si sdat, neɣ wayen yellan deg tmurt, ddaw-as, neɣ wayen yellan deg waman, ddaw tmurt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txelqeq ara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "tugna yettwaṣeḍlen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "neɣ kra"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "n taywalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "n wayen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "si sdat"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "neɣ wayen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ddaw-as"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "neɣ wayen"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:49.561958838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur ttqeḍḍiɛ ara tiẓerbu-k, ur t-tleqqeḍ ara ayen i d-yeḍlen seg tiẓerbu-k; i yigarzan d win ibedden ⟨garawen⟩ ad ten-teǧǧeḍ; nekk d Yahwe, Elohim-nnwen.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "tiẓerbu-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "ttqeḍḍiɛ ara"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "d ayen i d-yeḍlen"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "seg tiẓerbu-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "tleqqeḍ ara"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "i yigarzan"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "d win ibedden"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ad ten-teǧǧeḍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "i yigarzan d win ibedden"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nnwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:12:41.206609077Z",
+  "model": "glm-5.3"
+}

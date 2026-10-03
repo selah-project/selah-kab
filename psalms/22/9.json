@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "«Egger iman-ik ɣef Yahwe — ad yefelleṭ-t, ad t-isellek, axaṭer yessaram-t.»",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Egger iman-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "ad yefelleṭ-t"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "ad t-isellek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yessaram"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-t"
+    }
+  ],
+  "timestamp": "2026-10-03T01:42:31.435744183Z",
+  "model": "glm-5.3"
+}

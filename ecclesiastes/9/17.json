@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Awalen n yimawlan s taḥeqt ttusejmaɛen deg usgunfu, ugar n zzehri n win iḥekmen gar yilemḥen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "n yimawlan s taḥeqt"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "deg usgunfu"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "ttusejmaɛen"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ugar n zzehri"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "n win iḥekmen"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "gar yilemḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:04.816119617Z",
+  "model": "glm-5.3"
+}

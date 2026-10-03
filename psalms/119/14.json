@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Deg ubrid n timawin-nnek frḥeɣ, akken ɛliɣ deg yal wayla.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "Deg ubrid"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "n timawin-nnek"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "frḥeɣ"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "akken ɛliɣ deg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הון",
+      "gloss": "wayla"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:22.800298787Z",
+  "model": "glm-5.3"
+}

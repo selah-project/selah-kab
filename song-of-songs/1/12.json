@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Mi yella ugellid deg umaṭṭaf-is, nard-iw yefka rrayḥa-s.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "yella ugellid"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "deg umaṭṭaf-is"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nard-iw"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "rrayḥa-s"
+    }
+  ],
+  "timestamp": "2026-10-03T02:46:47.792931382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Ihi i nekk, acḥal iẓẓayen tixemmin-ik, a El; acḥal meqqer wamḍan-nsen!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Ihi i nekk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acḥal"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "iẓẓayen"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "tixemmin-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acḥal"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "meqqer"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "wamḍan-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.474289323Z",
+  "model": "glm-5.3"
+}

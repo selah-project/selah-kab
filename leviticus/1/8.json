@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Ad rẓen at Aharon, ikohanen, ⟨את⟩ yiḥetqin, ⟨את⟩ ixef akked ⟨את⟩ taẓẓit, ɣef teẓgi i yellan ɣef tamed, i yellan ɣef uẓeẓwa.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "ad rẓen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiḥetqin"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "yiḥetqin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ixef"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ixef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "taẓẓit"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "taẓẓit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "teẓgi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tamed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "uẓeẓwa"
+    }
+  ],
+  "timestamp": "2026-10-02T21:02:08.169030060Z",
+  "model": "glm-5.3"
+}

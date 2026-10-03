@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Ur ẓran, ur fehmen: iman-is i d-yettunefken, allen-nni ur ttwaḥerrent ara, ulawen-nni ur ttwaḥerrent ara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ẓran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "fehmen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iman-is i d-yettunefken"
+    },
+    {
+      "surface": "טח",
+      "gloss": "ttwaḥerrent"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "allen-nni ur ttwaḥerrent ara"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "allen-nni"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "ulawen-nni ur ttwaḥerrent ara"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "ulawen-nni"
+    }
+  ],
+  "timestamp": "2026-10-03T04:20:51.765872851Z",
+  "model": "glm-5.3"
+}

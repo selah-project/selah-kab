@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "S ⟨wid-agi⟩ ara tḥekkum; anwa i walmen deg tenyirt-nsen, ad yeḥekkem almi d yiḍ.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "S ⟨wid-agi⟩"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ara tḥekkum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "i walmen"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "deg tenyirt-nsen"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ad yeḥekkem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "d yiḍ"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:17.736785975Z",
+  "model": "glm-5.3"
+}

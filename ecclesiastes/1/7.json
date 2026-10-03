@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Isaffan akk ṛuḥen ar yillel, maḍi yillel ur yettumi ara; ar umkan anida ṛuḥen isaffan, din ṭṭafen-d ad ṛuḥen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "isaffan"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "i ṛuḥen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "והים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yettumi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "anida isaffan"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "i ṛuḥen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "הם",
+      "gloss": "d nutenti"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ṭṭafen-d"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad ṛuḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:40.205104493Z",
+  "model": "glm-5.3"
+}

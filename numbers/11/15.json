@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 11:15",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ma akka i txedmeḍ-i, enɣ ⟨את⟩ iyi, enɣ tura, ma ufiɣ leɛfu deg wallen-ik, ad ur rwilɣ ara ar lweɛṛ-iw.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen i txedmeḍ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-i"
+    },
+    {
+      "surface": "הרגני",
+      "gloss": "enɣ-i"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "enɣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ufiɣ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "leɛfu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "deg wallen-ik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ad ur"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "rwilɣ"
+    },
+    {
+      "surface": "ברעתי",
+      "gloss": "ar lweɛṛ-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T04:07:13.657467003Z",
+  "model": "glm-5.3"
+}

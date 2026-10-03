@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "translation": "Elohim d wasgent-nneɣ d tezmert, tallelt yettwafan meṛṛa deg trekkza.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "d wasgent-nneɣ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "asgent"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "d tezmert"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "tallelt"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "deg trekkza"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "yettwafan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meṛṛa"
+    }
+  ],
+  "timestamp": "2026-10-03T01:50:06.304957682Z",
+  "model": "glm-5.3"
+}

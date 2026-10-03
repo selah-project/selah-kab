@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 55,
+  "translation": "Nniɣ: anwi ara yi-d-yefken afrun am win n yigenni, ad srugeɣ, ad terseɣ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ara yeften"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi-d"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "afrun"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "am yigenni"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ad srugeɣ"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ad terseɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:22.356219507Z",
+  "model": "glm-5.3"
+}

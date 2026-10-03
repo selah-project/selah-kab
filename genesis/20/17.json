@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Avraham yella yettallal ɣer Elohim, Elohim yessuji ⟨את⟩ Avimelex d ⟨את⟩ tmeṭṭut-is d tiddukli-nnes, u tlalan-d.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "yettallal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "yessuji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelex"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tmeṭṭut-is"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tmeṭṭut-is"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "d tiddukli-nnes"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "tlalan-d"
+    }
+  ],
+  "timestamp": "2026-10-02T20:17:03.643525314Z",
+  "model": "glm-5.3"
+}

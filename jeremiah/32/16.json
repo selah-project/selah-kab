@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "translation": "Ṣalliɣ ɣer Yahwe, deffir ma fiɣ ⟨את⟩ adlis n tiɣin i Barux, mmi-s n Nerya, s wawal:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "Ṣalliɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir ma"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "fiɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adlis n tiɣin"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "adlis"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "n tiɣin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barux"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    }
+  ],
+  "timestamp": "2026-10-03T00:30:33.292426841Z",
+  "model": "glm-5.3"
+}

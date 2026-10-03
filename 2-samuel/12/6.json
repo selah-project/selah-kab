@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad isellek taṭeṭṭit-a ⟨את⟩ ṣa meṛṛa, axaṭer i d-yexdem ⟨את⟩ lavlav-agi, u axaṭer ur iḥemmel ara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taṭeṭṭit-a"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "taṭeṭṭit-a"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ad isellek"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "ṣa meṛṛa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-yexdem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavlav-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lavlav-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "u axaṭer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "iḥemmel ara"
+    }
+  ],
+  "timestamp": "2026-10-02T23:00:22.295454183Z",
+  "model": "glm-5.3"
+}

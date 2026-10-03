@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Yaɛqov iccek i Raḥel, ihezz ⟨את⟩ taɣect-is yebḥa.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "iccek"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "i Raḥel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ihezz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect-is"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "taɣect-is"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "yebḥa"
+    }
+  ],
+  "timestamp": "2026-10-02T20:22:12.199139679Z",
+  "model": "glm-5.3"
+}

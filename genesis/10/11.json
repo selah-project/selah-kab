@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Seg tmurt-agi i d-yeffɣen Acur, yebna ⟨את⟩ Ninwe d ⟨את⟩ Reḥobot-Ɣeṛ d ⟨את⟩ Kelaḥ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Seg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "agi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Reḥobot-Ɣeṛ"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Reḥobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ɣeṛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kelaḥ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelaḥ"
+    }
+  ],
+  "timestamp": "2026-10-02T20:13:23.627230638Z",
+  "model": "glm-5.3"
+}

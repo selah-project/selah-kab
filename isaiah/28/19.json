@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 28:19",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Yal tikkelt mi ara d-izegric ad yawi ⟨את⟩ awant-nwen; axaṭer tufat s tufat ad d-izegric, ass d yiv; ad yili kan d tagrawla iwakken ad ttwafhmen isallen.",
+  "tokens": [
+    {
+      "surface": "מדי",
+      "gloss": "yal tikkelt mi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ad d-izegric"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad yawi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ awant-nwen",
+      "marks": "awant-nwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tufat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "s tufat"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ad d-izegric"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "d yiv"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kan"
+    },
+    {
+      "surface": "זועה",
+      "gloss": "tagrawla"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ad ttwafhmen"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "isallen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:52:13.633896767Z",
+  "model": "glm-5.3"
+}

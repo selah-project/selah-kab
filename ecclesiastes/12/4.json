@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Ad ddlen tibura deg zzqa, deg usemẓi n weslu n teṣeffa; ad yekker i weslu n tfaxt, ad ẓlin tintin n lcna akk.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "Ad ddlen"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "tibura"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "deg zzqa"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "deg usemẓi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "weslu"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "n teṣeffa"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "ad yekker"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "i weslu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "n tfaxt"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ad ẓlin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tintin"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "n lcna"
+    }
+  ],
+  "timestamp": "2026-10-03T03:00:04.967461704Z",
+  "model": "glm-5.3"
+}

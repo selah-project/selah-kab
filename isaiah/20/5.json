@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad ɛeǧǧen, ad nwelhen ɣef Kuwc, asrem-nneɣ, d Miṣrayim, tadeqqist-nneɣ.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ad ɛeǧǧen"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ad nwelhen"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kuwc"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "asrem-nneɣ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "d"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miṣrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "tadeqqist-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:59.362970872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 82,
+  "translation": "Taɣyict n Asaf. Elohim yettsul deg tegrawa n El; gar Elohim ⟨i⟩ yetteḥkam.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Taɣyict"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "n Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "yettsul"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "deg tegrawa n"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "yetteḥkam"
+    }
+  ],
+  "timestamp": "2026-10-03T01:58:35.532545377Z",
+  "model": "glm-5.3"
+}

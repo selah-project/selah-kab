@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ad yeqqim wul-ik ur yettkukir ara i wid ijebbren, maca ad yili deg tugdi n Yahwe, yal ass.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ad yeqqim… ara"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "yettkukir"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "i wid ijebbren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mačči… maca"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "deg tugdi n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:22.320747890Z",
+  "model": "glm-5.3"
+}

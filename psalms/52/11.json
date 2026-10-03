@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Ad k-snubdeɣ i lebda, axaṭer tgi-t; ad rẓeɣ deg yisem-ik, axaṭer d lqanit, deg zdat n yiqedcen-ik.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ad k-snubdeɣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tgi-t"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ad rẓeɣ deg"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d lqanit"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "n yiqedcen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:28.156929327Z",
+  "model": "glm-5.3"
+}

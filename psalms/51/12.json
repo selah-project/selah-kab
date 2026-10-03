@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 51,
+  "translation": "Xleq deg-i ul d-izeggan, a Elohim, werna deg-i ruaḥ izgen.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "d-izeggan"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "Xleq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "deg-i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "werna deg-i ruaḥ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "izgen"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "werna"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "deg-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:19.057692595Z",
+  "model": "glm-5.3"
+}

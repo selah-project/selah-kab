@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 40,
+  "translation": "Tiḥula-nnek tikseɛt tuɣ leḥsab, Yahwe Elohim-iw; tiggi-inek tid muqqren d tiktiwin-inek iɣer neɣ, ulac win izemren ad ten-id-yizmir ɣer kečč; ad d-meslayeɣ fell-asent, maca qqurent ugar n wuṭṭun.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "tikseɛt tuɣ leḥsab"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "tiggi-inek tid muqqren"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "d tiktiwin-inek"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "iɣer neɣ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "win izemren ad yizmir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer kečč"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "ad d-meslayeɣ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ad d-meslayeɣ fell-asent"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "qqurent"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ugar n wuṭṭun"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:15.600374840Z",
+  "model": "glm-5.3"
+}

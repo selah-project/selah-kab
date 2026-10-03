@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Maca ⟨את⟩ idm-is ur t-teṭṭfeḍ; ɣef ⟨the⟩ lqaɛa ad t-tessruḥeḍ am waman.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Maca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idm-is"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idm-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "t-teṭṭfeḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lqaɛa"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ad t-tessruḥeḍ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "am waman"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:26.411220114Z",
+  "model": "glm-5.3"
+}

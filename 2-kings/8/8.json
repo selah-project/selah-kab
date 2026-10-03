@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Inna ugellid i Ḥazael: eɣ seg ufus-ik minḥa, du ad timlileḍ d umdan n Elohim, steqsi ɣer ⟨את⟩ Yahwe ⟨את⟩ seg-s, ad yini: ad ṣeḥḥeɣ seg tuccwa-agi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Inna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Ḥazael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "eɣ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "seg ufus-ik"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "du"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ad timlileḍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umdan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "n Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "steqsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ seg-s"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "ad ṣeḥḥeɣ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "tuccwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T23:32:17.620890853Z",
+  "model": "glm-5.3"
+}

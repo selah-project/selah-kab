@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yexleq daɣen ⟨את⟩ ulum n yimɣaḍen: taneẓɣeft-is semmus n yiɛmer, teɣzi-is kraḍ n yiɛmer, akkin deg zdat-nsen; imɣaḍen d uzuzzar deg zdat-nsen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulum n yimɣaḍen"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ulum"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "n yimɣaḍen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "yiɛmer"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "taneẓɣeft-is"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "yiɛmer"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "teɣzi-is"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "akkin"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "-nsen"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "imɣaḍen"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "azuzzar"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:13:18.825128348Z",
+  "model": "glm-5.3"
+}

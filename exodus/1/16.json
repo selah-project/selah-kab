@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna: Mi ara tgecm tibeccist i tlawin tiɛibriyin, at tmuḍem ⟨את⟩ ɣef iṣeddan: ma d araw, ⟨d⟩ netta, enṭṭet ⟨אתו⟩; ma d taqcict, ⟨d⟩ nettat, ad tidir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "mi ara tgecm tibeccist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlawin tiɛibriyin"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "tlawin tiɛibriyin"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "at tmuḍem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "iṣeddan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma d"
+    },
+    {
+      "surface": "בן",
+      "gloss": "araw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "enṭṭet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "araw"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma d"
+    },
+    {
+      "surface": "בת",
+      "gloss": "taqcict"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nettat"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ad tidir"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:42.021757993Z",
+  "model": "glm-5.3"
+}

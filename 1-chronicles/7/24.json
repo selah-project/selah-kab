@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yelli-s d Ceeṛa; telul ⟨את⟩ Bayt Ḥoron n wadda d ⟨את⟩ win n ufella, d ⟨את⟩ Ɛezen-Ceeṛa.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Yelli-s"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Ceeṛa"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "telul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bayt Ḥoron n wadda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bayt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Ḥoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "n wadda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "win n ufella"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "win n ufella"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ɛezen-Ceeṛa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Ɛezen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Ceeṛa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:53.704672339Z",
+  "model": "glm-5.3"
+}

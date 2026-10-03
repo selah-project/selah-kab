@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ad ccaḥkeɣ ⟨את⟩ Yahwe s wul iwazan, deg uselmed-iw n yicreɛ n ṣedeq-ik.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ad ccaḥkeɣ-ik"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "s wul iwazan (yusser)"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "deg uselmed-iw"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "icreɛ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "n ṣedeq-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:31.792156117Z",
+  "model": "glm-5.3"
+}

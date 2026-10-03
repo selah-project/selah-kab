@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Win iḥemmel ɣer wayla s lɛin n dir, ur issin ara belli lexṣar ad t-id-yewṭṭef.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "Win iḥemmel ɣer"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ayla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "win"
+    },
+    {
+      "surface": "רע",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "עין",
+      "gloss": "s lɛin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "issin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "lexṣar"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ad t-id-yewṭṭef"
+    }
+  ],
+  "timestamp": "2026-10-03T02:29:22.576688139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 132,
+  "translation": "Ad nekcem ɣer Micken-is, ad ndeḍlu ɣer usendeɣ n iḍarren-is.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Ad nekcem"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ɣer Micken-is"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ad ndeḍlu"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ɣer usendeɣ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "n iḍarren-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:57.203643342Z",
+  "model": "glm-5.3"
+}

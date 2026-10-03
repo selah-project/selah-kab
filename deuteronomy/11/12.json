@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Tamurt i Yahwe Elohim-nnek iqannen ⟨את⟩-s yal ass, allen n Yahwe Elohim-nnek deg-s, seg tazwara n ussegwas alamma d taggara n ussegwas.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tamurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nnek"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "iqannen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt (nettat)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yal ass"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "allen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "n Elohim-nnek"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "seg tazwara"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "n ussegwas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "alamma d"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n ussegwas"
+    }
+  ],
+  "timestamp": "2026-10-02T21:52:48.467609916Z",
+  "model": "glm-5.3"
+}

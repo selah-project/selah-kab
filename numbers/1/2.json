@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Eṭṭef ⟨את⟩ iqerruyen n timettit akk n yiderfan n Yisrael, s tewacult-nsen, s wexxam n yibanen-nsen, deg umḍan n yismawen, argaz akk, yiwen yiwen.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "eṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iqerruyen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqerruyen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "timettit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yiderfan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tewacult-nsen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "s wexxam"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "n yibanen-nsen"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "deg umḍan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "n yismawen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "yiwen yiwen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:48.397324437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 56,
+  "translation": "S tsergu ad rewḍen? S taɛraḍt, a Elohim, sserḥel iɣlanen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "און",
+      "gloss": "tsergu"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ad rewḍen"
+    },
+    {
+      "surface": "למו",
+      "gloss": "asen"
+    },
+    {
+      "surface": "באף",
+      "gloss": "s taɛraḍt"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "sserḥel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "a Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:24.650809216Z",
+  "model": "glm-5.3"
+}

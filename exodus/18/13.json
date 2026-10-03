@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Yella-d uzekka-nni, Moce yeṭṭef ad iḥekem ⟨את⟩ ugdud, yerna ugdud yeddur ɣef Moce, si ṣṣbeḥ almi di tameddurt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "azekka-nni"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ad iḥekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "yeddur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ṣṣbeḥ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "di tameddurt"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:17.423373336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yenna-d Yahwe i Moce: ul n Ferɛun d aquran, igwi ad isuffeɣ ⟨את⟩ ugdud.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "d aquran"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "igwi"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ad isuffeɣ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:23.578060774Z",
+  "model": "glm-5.3"
+}

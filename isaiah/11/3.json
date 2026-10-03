@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Ad iḥemmel deg tugut n Yahwe; ur iḥekku ara akken i d-iban i tiṭṭawen-is, ur iḥettam ara akken i d-islɛen imeẓẓuɣen-is.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "ad iḥemmel"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "deg tugut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "akken i d-iban"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "tiṭṭawen-is"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "iḥekku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "akken i d-islɛen"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "imeẓẓuɣen-is"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "iḥettam"
+    }
+  ],
+  "timestamp": "2026-10-02T23:46:27.995518871Z",
+  "model": "glm-5.3"
+}

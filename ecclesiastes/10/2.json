@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ul n win ihessen taḥekma yerbeḥ ɣef yeffus-is; ma d ul n ubuḥerriq, geddel ɣef uzlmaḍ-is.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "n win ihessen taḥekma"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ɣef yeffus-is"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ma d ul"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "n ubuḥerriq"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ɣef uzlmaḍ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:58:23.421865869Z",
+  "model": "glm-5.3"
+}

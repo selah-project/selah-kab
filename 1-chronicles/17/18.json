@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Acu-nniḍen i izemren David ad yini ɣer-k ɣef lmektub-agi n ⟨את⟩ umakid-ik? Keccini ⟨את⟩ umakid-ik tessneḍ-t akken ilaq.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "izemren ad yernu ad yini"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nniḍen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer-k"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ɣef lmektub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umakid-ik"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umakid-ik"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "keccini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umakid-ik"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umakid-ik"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tessneḍ-t"
+    }
+  ],
+  "timestamp": "2026-10-03T03:33:19.939451569Z",
+  "model": "glm-5.3"
+}

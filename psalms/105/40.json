@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "translation": "Ssulen, i d-yewwi ⟨את⟩ selav, yerna s uɣrum n igenni yekfa-ten.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Ssulen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "שלו",
+      "gloss": "selav"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "yerna s uɣrum"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "n igenni"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "yekfa-ten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:06:10.154728976Z",
+  "model": "glm-5.3"
+}

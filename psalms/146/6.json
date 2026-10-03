@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 146,
+  "translation": "Win ixedqen ⟨את⟩ igenwan akked tmurt, ⟨את⟩ yillel akked ⟨את⟩ ayen akk illan degsen; win yettḥerzen tidegt i lebda.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Win ixedqen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "akked tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yillel"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "illan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "degsen"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "win yettḥerzen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tidegt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:58.995096965Z",
+  "model": "glm-5.3"
+}

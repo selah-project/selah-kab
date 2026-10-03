@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Iḍemṛen n temẓi-iw d tigidin-iw, ur ten-tcufu ara; s lxiṛ-ik n ḥesed, cfu ɣef-i Kečči, iwakken lḥsen-ik, a Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Iḍemṛen"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "n temẓi-iw"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "d tigidin-iw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "tcufu ara"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "s lxiṛ-ik n ḥesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "cfu ɣef-i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kečči"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "lḥsen-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T01:44:50.644838934Z",
+  "model": "glm-5.3"
+}

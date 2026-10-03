@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Talent n ureɣ ameẓyan ad ⟨את⟩ t-texdem, ⟨את⟩ akk iɣiɣen-agi.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n ureɣ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ameẓyan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad t-texdem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk iɣiɣen-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "iɣiɣen-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T20:49:09.133301672Z",
+  "model": "glm-5.3"
+}

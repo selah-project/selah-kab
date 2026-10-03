@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Akken agdud akk ad islen, ad iɛerḍel, ur d-tnuḥtectayen ara tikelt-nniḍen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ad islen"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ad iɛerḍel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ad d-nuḥtectayen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:59:27.364955762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Sbbaḥeɣ nekk ⟨את⟩ imeyyten i mmuten yakan, ugar n yimuddiren i nutini ddren ar tura.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "sbbaḥeɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeyyten"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "imeyyten"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mmuten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ugar n"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yimuddiren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutini"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ddren"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ar tura"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:50.750639855Z",
+  "model": "glm-5.3"
+}

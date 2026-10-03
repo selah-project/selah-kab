@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Ttun-d tidyanin-is d tmucḥa-s i ten-yesskanen.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ttun-d"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "tidyanin-is"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "d tmucḥa-s"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ten-yesskanen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:43.371396864Z",
+  "model": "glm-5.3"
+}

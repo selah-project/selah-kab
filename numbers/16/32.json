@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Timurt teldi ⟨את⟩ imi-s, teblu⟨את⟩ ten d ⟨את⟩ yixxamen-nsen d ⟨את⟩ akk yemdanen i yellan i Qoraḥ d ⟨את⟩ wayen akk ɣur-sen.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "teldi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "timurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imi-s"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "imi-s"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "teblu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yixxamen-nsen"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "yixxamen-nsen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk yemdanen i yellan i Qoraḥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yemdanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "i Qoraḥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wayen akk ɣur-sen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "wayen ɣur-sen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:34:44.920243772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "I ⟨את⟩ wayen akka akk ixleq ifass-iw, u llan-d akka, i d-yenna Yahwe. Ɣef wayet-agi ara ẓreɣ: ɣef win yeẓẓen, win iteɣlen deg ruaḥ, win iɣellen ɣef awal-iw.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wayen akka akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wayen akka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ifass-iw"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ixleq"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "u llan-d"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid akka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wayet-agi"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "ara ẓreɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עני",
+      "gloss": "win yeẓẓen"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "win iteɣlen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "win iɣellen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awal-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T00:11:39.811348339Z",
+  "model": "glm-5.3"
+}

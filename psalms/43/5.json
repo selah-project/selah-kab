@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 43,
+  "translation": "Acu i k-ixeṣṣen a tewẓeḍ ɣer wadda, a nefsiw? Acu i tḥemleḍ deg-i? Arǧu ɣer Elohim, axaṭer yezrin ad fell-as snubget, d εellal n udmu-inu, d Elohim-iw.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "a tewẓeḍ ɣer wadda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a nefsiw"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "d acu"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "tḥemleḍ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "deg-i"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "arǧu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ɣer Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yezrin"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ad fell-as snubget"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "εellal"
+    },
+    {
+      "surface": "פני",
+      "gloss": "n udmu-inu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "d Elohim-iw"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:44.664647691Z",
+  "model": "glm-5.3"
+}

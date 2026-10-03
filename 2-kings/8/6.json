@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yesteqsa ugellid tamṭṭut, tenna-yas. Yefka-yas ugellid yiwen n usaris, ad yini: Err-as akk ayen is, akk d ⟨את⟩ akk tifin n teɣsayt, seg ass mi terran ⟨את⟩ tamurt arma d tura.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Yesteqsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tamṭṭut"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "tenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Yefka"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "yiwen n usaris"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Err-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ayen is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "akk tifin n teɣsayt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "tifin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n teɣsayt"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "seg wass"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "mi terran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    }
+  ],
+  "timestamp": "2026-10-02T23:32:17.620448512Z",
+  "model": "glm-5.3"
+}

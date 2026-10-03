@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Axaṭer Yahwe isellit wid izdeɣen ɣer tattayin; tamdint-nni tafellayt isellit-t-id, isellit-t-id arma d tmurt, iwessi-t-id arma d ẓẓel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "השח",
+      "gloss": "isellit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wid izdeɣen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "attayin"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "tafellayt"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "isellit-t-id"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "isellit-t-id"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "iwessi-t-id"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ẓẓel"
+    }
+  ],
+  "timestamp": "2026-10-02T23:50:18.377395550Z",
+  "model": "glm-5.3"
+}

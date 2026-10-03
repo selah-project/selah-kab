@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Mi ara tazzgeḍ, unadduz-ik ur ad yili d aḥemmel; ma truḍeḍ, ur ad tḥellueḍ.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "mi ara tazzgeḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ad yili d aḥemmel"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "unadduz-ik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "truḍeḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "ad tḥellueḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T02:16:57.579559557Z",
+  "model": "glm-5.3"
+}

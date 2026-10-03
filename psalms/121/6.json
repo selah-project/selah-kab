@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 121,
+  "translation": "Assaḍ, yiṭij ur k-id-yettḥeqqeq ara, iḍes ma d yiṛi ur k-id-yettwaḥeqqeq ara.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "assaḍ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "k-id-yettḥeqqeq"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ma d yiṛi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iḍes"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:43.713263080Z",
+  "model": "glm-5.3"
+}

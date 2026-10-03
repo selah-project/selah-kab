@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Tura, mi iwweḍ-ed yibrig-agi ɣur-wen, yerna ⟨את⟩ yigerdan n bab-wen ⟨את⟩ ddan ⟨את⟩ akk yid-wen, d ⟨את⟩ tisuffaɣ d yiswan, akken ula d tiẓgi n leḥras d leslaḥ:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "mi iwweḍ-ed"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "yibrig-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ɣur-wen"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ddan akk yid-wen",
+      "marks": "yigerdan n bab-wen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "n bab-wen"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ akk yid-wen",
+      "marks": "tisuffaɣ d yiswan"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "tisuffaɣ"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "d yiswan"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "tiẓgi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "n leḥras"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "d leslaḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:17:11.203861433Z",
+  "model": "glm-5.3"
+}

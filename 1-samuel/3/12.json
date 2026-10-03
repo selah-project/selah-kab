@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Deg wass-nni ad d-rbeɣ ɣef Ɛli ⟨את⟩ akk wayen i d-nniɣ ɣef wexxam-is: ad bduɣ, ad fkkuɣ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ad d-rbeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ɛli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wayen i d-nniɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "i d-nniɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wexxam-is"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ad bduɣ"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ad fkkuɣ"
+    }
+  ],
+  "timestamp": "2026-10-02T22:37:49.805462039Z",
+  "model": "glm-5.3"
+}

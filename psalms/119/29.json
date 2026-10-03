@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Abrid n lekḍeb kkes-it deg-i, s ⟨the⟩ Tora-k ḥannu-yi.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lekḍeb"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "kkes-it"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "deg-i"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Tora-k"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ḥannu-yi"
+    }
+  ],
+  "timestamp": "2026-10-03T02:09:56.089253202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Iẓra Yaɛqov ⟨את⟩ udem n Laban, wali, mačči d netta yid-s am iḍelli neɣ sin wussan qbel.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Iẓra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem n Laban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "mačči d netta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yid-s"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "am iḍelli"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "neɣ sin wussan qbel"
+    }
+  ],
+  "timestamp": "2026-10-02T20:24:50.919258953Z",
+  "model": "glm-5.3"
+}

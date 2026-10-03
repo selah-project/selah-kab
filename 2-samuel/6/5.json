@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "David d akk ⟨i⟩ bxam n Yisrael ṣeḥḥen zdat Yahwe, s yal iɣiṣen n iberuc, d s tkinnurin, d s tinebalyin, d s ttebbalin, d s timnennaɛin, d s iṣelṣal.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "ṣeḥḥen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s yal"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "iɣiṣen n"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "iberuc"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "d s tkinnurin"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "d s tinebalyin"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "d s ttebbalin"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "d s timnennaɛin"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "d s iṣelṣal"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:43.495617970Z",
+  "model": "glm-5.3"
+}

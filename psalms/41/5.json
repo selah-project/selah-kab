@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 41,
+  "translation": "Nekk, nniɣ: a Yahwe, ḥnu-yi-d, eṣṣeḥ nnefs-iw, acku tuɣeḍ ɣur-k.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nniɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ḥnu-yi-d"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "eṣṣeḥ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tuɣeḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-k"
+    }
+  ],
+  "timestamp": "2026-10-03T01:49:13.283082105Z",
+  "model": "glm-5.3"
+}

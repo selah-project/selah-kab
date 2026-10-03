@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Issel Yahwe tinna i ṣṣutren fell-i; Yahwe ad yeqbel ⟨i⟩ tẓallit-iw.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "issel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "tinna i ṣṣutren fell-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tẓallit-iw"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad yeqbel"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:40.129432456Z",
+  "model": "glm-5.3"
+}

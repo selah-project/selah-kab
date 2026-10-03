@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 85,
+  "translation": "Ssneḥ-aɣ, Yahwe, ⟨i⟩ ḥesed-ik, d tlelli-ik ad tidmed i necc.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Ssneḥ-aɣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "d tlelli-ik"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ad tidmed"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i necc"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:33.705986641Z",
+  "model": "glm-5.3"
+}

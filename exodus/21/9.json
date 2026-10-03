@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ma yesbadu-tt i mmi-s, akken n teqcicin ad as-yexdem.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "i mmi-s"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "ad tt-yefren"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akken n"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "teqcicin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad as-yexdem"
+    },
+    {
+      "surface": "לה",
+      "gloss": "as"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:34.933076215Z",
+  "model": "glm-5.3"
+}

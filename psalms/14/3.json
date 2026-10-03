@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "⟨Ullac⟩ ara ṭṭfen abrid, akken ma llan rḥen d wid iṣṣenḥen; ulac win ixedmen lxir, ula yiwen.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "akken ma llan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ṭṭfen abrid"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "llan-d yid-sen"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "rḥen d wid iṣṣenḥen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "win ixedmen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:41:08.310855325Z",
+  "model": "glm-5.3"
+}

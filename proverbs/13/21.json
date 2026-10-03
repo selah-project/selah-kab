@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Diri ad iḍfer ⟨את⟩ wid id-yukren; ma d lxir ad yexleṣ ⟨את⟩ wid iqeqcen.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "wid id-yukren"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ad iḍfer"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wid iqeqcen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wid iqeqcen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ad yexleṣ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:34.540203380Z",
+  "model": "glm-5.3"
+}

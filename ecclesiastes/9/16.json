@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 9,
+  "translation": "Nniɣ d nekk: lḥikma iful tazmert; maca lḥikma n umeṛṛuɣ tettwazegg, awalen-is ur tt-fehlen ara s lethwal.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "d nekk"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "iful"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "lḥikma"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "lḥikma n"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "umeṛṛuɣ"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "tettwazegg"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "awalen-is"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "tt-fehlen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:57:45.250930697Z",
+  "model": "glm-5.3"
+}

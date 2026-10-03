@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "David yedda kan yettuali, yernu Yahwe Ṣebaot yella yides.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kan yettuali"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "yernu meqqer"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yella yides"
+    }
+  ],
+  "timestamp": "2026-10-03T03:28:34.752564574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad feḥḥen akk wid yettḥebbnen ɣur-k; i lebda ad ceḥḥen; kečč, tessudduḍ fell-asen; ad rnu leɛfya deg-k, wid yeḥmmlen isem-ik.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ad feḥḥen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "wid yettḥebbnen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ad ceḥḥen"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "tessudduḍ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "fell-asen"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "ad rnu leɛfya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg-k"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "wid yeḥmmlen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isem-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:37:55.542225016Z",
+  "model": "glm-5.3"
+}

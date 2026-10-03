@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yahwe inna-yi i Moce: Ɛedd deg zdat n ugdud, d aḍfar-k ɣer imɣaren n Yisrael, d taɣda-k i iḍrebdeḍ yis-s ⟨את⟩ wasif, ṭṭef-itt deg ufus-ik, ddu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna-yi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ɛedd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat n"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "d aḍfar-k"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-ik"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "imɣaren n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "d taɣda-k"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "iḍrebdeḍ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yis-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasif"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wasif"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ṭṭef-itt"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-ik"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ddu"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:21.439589492Z",
+  "model": "glm-5.3"
+}

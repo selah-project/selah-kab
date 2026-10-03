@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "translation": "Seg lmegger d takerdut ad iḥezz nefs-nsen, idammen-nsen ad yilin s laẓ deg tiṭṭawen-is.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "seg lmegger"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "d takerdut"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ad iḥezz"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefs-nsen"
+    },
+    {
+      "surface": "וזיקר",
+      "gloss": "ad yilin s laẓ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "idammen-nsen"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "deg tiṭṭawen-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:08.055696214Z",
+  "model": "glm-5.3"
+}

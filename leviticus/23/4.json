@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Wid-agi d imoɛḍen n Yahwe, timliliyin iqedcen, ara tent-teskred ⟨את⟩ deg wakud-nsen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "imoɛḍen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "timliliyin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "tent-teskred"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "deg wakud-nsen"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "deg wakud-nsen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:16:24.606697118Z",
+  "model": "glm-5.3"
+}

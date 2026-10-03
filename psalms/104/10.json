@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "translation": "Win izuzren tiɣbula deg tiɣẓerin, gar yidurar ad ddun.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "win izuzren"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "tiɣbula"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "deg tiɣẓerin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "yidurar"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ad ddun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:18.254768175Z",
+  "model": "glm-5.3"
+}

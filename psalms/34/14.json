@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ḥarez lesan-ik seg dir, yerna ḥarez ifawen-ik seg umeslay n tkerḍa.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Ḥarez"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lesan-ik"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dir"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ifawen-ik"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ameslay"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tkerḍa"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:31.500782846Z",
+  "model": "glm-5.3"
+}

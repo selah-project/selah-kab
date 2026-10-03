@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "translation": "Yessuter i isigna seg ufella, yeldi ⟨i⟩ tibbura n ⟨i⟩ igenwan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yessuter"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "isigna"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "seg ufella"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "tibbura n"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "yeldi"
+    }
+  ],
+  "timestamp": "2026-10-03T01:57:46.922843191Z",
+  "model": "glm-5.3"
+}

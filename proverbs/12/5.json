@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 12,
+  "translation": "Tixidsin n wid n ṣedeq d ccreɛ, isrigen n yizerban d timerdebt.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Tixidsin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wid n ṣedeq"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "isrigen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yizerban"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "timerdebt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:20:45.746610261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Tura, yiwet n tssutert ad ssutreɣ ɣur ⟨את⟩-ik; ur ttuɣal ara ⟨את⟩ udem-iw. Tenna-yas: mmeslay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Tura"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "tssutert"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ad ssutreɣ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ad ssutreɣ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ɣur ⟨את⟩-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "ttuɣal ara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem-iw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem-iw"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Tenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mmeslay"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:55.909711239Z",
+  "model": "glm-5.3"
+}

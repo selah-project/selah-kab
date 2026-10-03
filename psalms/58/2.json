@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "S tidet, di tussda, ṣedeq a t-id-tmeslayem? S tzeggi, a d-teḥkemem, ⟨i⟩ yarrawen n wemdan?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "di tussda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "a t-id-tmeslayem"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "s tzeggi"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "a d-teḥkemem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yarrawen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    }
+  ],
+  "timestamp": "2026-10-03T01:52:30.397333739Z",
+  "model": "glm-5.3"
+}

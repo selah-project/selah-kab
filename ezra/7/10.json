@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Acku Ɛezra yeheggi lbul-is iwakken ad inadi ⟨את⟩ Tora n Yahwe, iwakken ad tt-ig, daɣen ad issegl deg Yisrael alugen d ccreɛ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ɛezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yeheggi"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "lbul-is"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "iwakken ad inadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora n Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "iwakken ad tt-ig"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "daɣen ad issegl"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "deg Yisrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "alugen"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "d ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-03T03:14:14.274831960Z",
+  "model": "glm-5.3"
+}

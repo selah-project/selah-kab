@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "D ⟨את⟩ sin ikelwan, d ⟨את⟩ ḥeleb illan γef-sen, win illan γef tiḥerrayin, d ⟨את⟩ tiferkit n teṣṣeṛt, γef ikelwan ad tt-yekkes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "sin ikelwan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "sin"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ikelwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ḥeleb"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ḥeleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "γef-sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "tiḥerrayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tiferkit n teṣṣeṛt"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tiferkit"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "teṣṣeṛt"
+    },
+    {
+      "surface": "על",
+      "gloss": "γef"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ikelwan"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ad tt-yekkes"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:08.265944336Z",
+  "model": "glm-5.3"
+}

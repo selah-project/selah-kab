@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 62,
+  "translation": "I lḥeṛ n Ṣijon ur ṣuḥḥuɣ ara, i lḥeṛ n Yerucalayim ur genneɣ ara, almi ad d-iffɣ ṣedeq-ines am tebrecht, tinuccḍa-ines am lmeṣwad yettwaeṛḍen.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "i lḥeṛ n"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣijon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "ṣuḥḥuɣ ara"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "i lḥeṛ n"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "genneɣ ara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ad d-iffɣ"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "am tebrecht"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ṣedeq-ines"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "tinuccḍa-ines"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "am lmeṣwad"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yettwaeṛḍen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:09:07.649564009Z",
+  "model": "glm-5.3"
+}

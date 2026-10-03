@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 88,
+  "translation": "Ad ttwassnen leɛǧib-ik deg tuṭṭfiwt, ma d ṣedeq-ik deg tmurt n tuggit?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ad ttwassnen"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "deg tuṭṭfiwt"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "leɛǧib-ik"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ma d ṣedeq-ik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "n tuggit"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:46.318592052Z",
+  "model": "glm-5.3"
+}

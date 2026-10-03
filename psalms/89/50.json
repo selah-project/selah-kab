@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 89,
+  "translation": "Andа llan ḥesed-ik imezwura, Adonai? Teggugdeḍ i David deg tumanit-ik.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Anda llan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ḥesed-ik"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "imezwura"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Teggugdeḍ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "deg tumanit-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:23.812000529Z",
+  "model": "glm-5.3"
+}

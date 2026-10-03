@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 45:16",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Rẓen tijmi-nsen, ula d nutni ntwerren akken ma llan; yiwet n tikkelt nnan deg ttwerret, wid ixeddamen tugniwin n yiqedcen.",
+  "tokens": [
+    {
+      "surface": "בושו",
+      "gloss": "Rẓen tijmi-nsen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula d nutni"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "ntwerren"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "akken ma llan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yiwet n tikkelt"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "בכלמה",
+      "gloss": "deg ttwerret"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "wid ixeddamen"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "tugniwin n yiqedcen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:22.576459671Z",
+  "model": "glm-5.3"
+}

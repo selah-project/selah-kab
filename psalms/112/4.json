@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 112,
+  "translation": "Tafat tuli deg tillas i wid izerfen: aḥnan, aṛeḥmun, d ameṣṣeq.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "deg tillas"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "i wid izerfen"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "aḥnan"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "aṛeḥmun"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "d ameṣṣeq"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:41.851384007Z",
+  "model": "glm-5.3"
+}

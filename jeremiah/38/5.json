@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 38,
+  "translation": "Yenna-weḍ agellid Ṣedqiyyahu: Ha-tan-ta deg ufus-nwen, axaṭer agellid ur yezmir ⟨את⟩ kra akken mgal-nwen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-weḍ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Ṣedqiyyahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ha-tan-ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nezzeh"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "deg ufus-nwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yezmir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "akken mgal-nwen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kra"
+    }
+  ],
+  "timestamp": "2026-10-03T00:33:12.613161716Z",
+  "model": "glm-5.3"
+}

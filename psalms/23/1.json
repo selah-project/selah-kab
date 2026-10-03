@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Mizmor n David: Yahwe d amɣar-iw n wulli, ur xuṣṣeɣ ara.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "d amɣar-iw n wulli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "xuṣṣeɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:51.148033424Z",
+  "model": "glm-5.3"
+}

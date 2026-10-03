@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 15:19",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 15,
+  "translation": "Axerfi ayen i d-yekcem: ayis n Ferɛun, s tiṛṣatin-is akked yiferrasen-is, deg ilel; Yahwe yerra-d ⟨את⟩ aman n ilel ɣef-nsen, at Yisrael akken ddan ɣef wakal aquran deg weg-umḍin n ilel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-yekcem"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ayis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "s tiṛṣatin-is"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "akked yiferrasen-is"
+    },
+    {
+      "surface": "בים",
+      "gloss": "deg ilel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ɣef-nsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aman n ilel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aman"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n ilel"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ddan"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ɣef wakal aquran"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg tlemmast"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n ilel"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:05.655723416Z",
+  "model": "glm-5.3"
+}

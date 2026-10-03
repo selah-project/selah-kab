@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 31,
+  "translation": "Keccmen ⟨את⟩ teruma, ⟨את⟩ lmaɛcer akked ⟨את⟩ iqedsen s laman; ɣef-sen illa uneggal Konanyahu, alawi, d Cimeɛi gma-s, wis sin.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "keccmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teruma"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "lmaɛcer"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "iqedsen"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "s laman"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "uneggal"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Konanyahu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "alawi"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "Cimeɛi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "gma-s"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wis sin"
+    }
+  ],
+  "timestamp": "2026-10-03T03:53:57.465694806Z",
+  "model": "glm-5.3"
+}

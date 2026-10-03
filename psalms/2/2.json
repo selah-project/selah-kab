@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ibennun igelliden n tmurt, imeṛṛayen mlilen akken, mgal Yahwe ed mgal Umaciaḥ-is.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Ibennun"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "igelliden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "imeṛṛayen"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "mlilen akken"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "על",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ed mgal"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Umaciaḥ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:38:53.107894734Z",
+  "model": "glm-5.3"
+}

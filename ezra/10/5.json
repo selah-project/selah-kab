@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Ihi Eẓra yenneṭṭef, iḥeṣṣen ⟨את⟩ yimḍebren n yiqedcen, n yilewit d Yisrael akk, ad xedmen akken yella wawal-agi; ḥeṣṣen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yenneṭṭef"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Eẓra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "iḥeṣṣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimḍebren n yiqedcen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "yimḍebren"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "n yilewit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "akken yella wawal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ḥeṣṣen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:15:57.612988683Z",
+  "model": "glm-5.3"
+}

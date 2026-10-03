@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Tessneḍ-d iyi-d abrid n tmeddurt; teččur t leḥmuḥ ⟨את⟩ s wudm-im; iṣeḥḥan waman deg uyel-im, i lebda.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Tessneḍ-d iyi-d"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "n tmeddurt"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "leḥmuḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "s wudm-im"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "s wudm-im"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "iṣeḥḥan waman"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "deg uyel-im"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:40:07.211042596Z",
+  "model": "glm-5.3"
+}

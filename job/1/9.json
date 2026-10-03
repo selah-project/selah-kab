@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yenna-d Ccetan ⟨את⟩ Yahwe, yenna-d: dayen arac i-ttagwad Iyub i Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Ccetan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "arac"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "i-ttagwad"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:31:43.824508104Z",
+  "model": "glm-5.3"
+}

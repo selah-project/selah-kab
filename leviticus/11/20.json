@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Akk wid yeccren deg yiniḍen n yiḍfanen, wid yedden ɣef ṛebɛa — leḥrayyen i wen-niḍen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Akk"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "yeccren deg yiniḍen"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "n yiḍfanen"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "wid yedden"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ṛebɛa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "leḥrayyen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨d⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen-niḍen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:40.876051008Z",
+  "model": "glm-5.3"
+}

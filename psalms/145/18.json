@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 145,
+  "translation": "Yahwe iqreb i meṛṛa wid t-issawḍen, i meṛṾa wid ara t-icedren s tdekt.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "iqreb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i meṛṾa"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "wid t-issawḍen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i meṛṾa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ara t-icedren"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "s tdekt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:35.806646556Z",
+  "model": "glm-5.3"
+}

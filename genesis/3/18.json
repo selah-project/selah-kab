@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad ak-d-yesnefli tiquṭṭin d tiberkanin, ad teččiḍ ⟨את⟩ iseɣ n wurti.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "tiquṭṭin"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "d tiberkanin"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ad ak-d-yesnefli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ak"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ad teččiḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iseɣ n wurti"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "iseɣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n wurti"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:00.073487928Z",
+  "model": "glm-5.3"
+}

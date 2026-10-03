@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "Ad xedmen ⟨את⟩ yefud: s wehreṛ, tekelet akk d argaman, tolɛat cceni akk d lin imsizzir — amaṣ n uxemmem.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yefud"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "yefud"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wehreṛ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "akk d argaman"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolɛat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cceni"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "akk d lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "imsizzir"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "amaṣ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "n uxemmem"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:10.276782569Z",
+  "model": "glm-5.3"
+}

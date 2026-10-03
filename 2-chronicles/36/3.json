@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yerna agellid n Miṣrayim yekkes-t deg Yerucalayim, yerna iheṣṣa ⟨את⟩ tmurt miya n yikikaren n lfeḍḍa d yiwen n ukikar n ddeheb.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "yekkes-t"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "iheṣṣa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "miya"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "n yikikaren"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfeḍḍa"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "d yiwen n ukikar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n ddeheb"
+    }
+  ],
+  "timestamp": "2026-10-03T03:57:37.497440834Z",
+  "model": "glm-5.3"
+}

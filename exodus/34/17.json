@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Ilohen yettwasmenten ur txedmeḍ ara i kečč.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim yettwasmenten"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "yettwasmenten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-02T20:57:00.486882489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "translation": "Seg umkan n teɣula-nnes yettmuqul ɣer akk imezdaɣ n tmurt.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Seg umkan n"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "teɣula-nnes"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "yettmuqul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:02.005715533Z",
+  "model": "glm-5.3"
+}

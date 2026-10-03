@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Deffir-s, i d-yeffeɣ Yair Agilɛadi, i yeḥkmen ⟨את⟩ Yisrael snat d tseɛrin (20) d sin (22) n yiseggasen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "i d-yeffeɣ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "deffir-s"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Agilɛadi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "i yeḥkmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "snat d tseɛrin (20)"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "d sin (22)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:28:20.556657432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 28,
+  "translation": "D nutenti ad ḍefren ⟨את⟩ wehreṛ, ⟨את⟩ tekelet, ⟨את⟩ argaman, ⟨את⟩ tolɛat cceni akk d ⟨את⟩ lin iṣegganen.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "d nutenti"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ad ḍefren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wehreṛ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wehreṛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tekelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tolɛat cceni"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolɛat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "cceni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "lin iṣegganen"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lin iṣegganen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:51:10.274607252Z",
+  "model": "glm-5.3"
+}

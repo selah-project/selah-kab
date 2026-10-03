@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 7:28",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Taneṣliḍt-nsen d temdiwent-nsen: Bet-El d tuddar-is, ɣer lqibla n lɛerc Naɛaran, ɣer lɣerb Gezer d tuddar-is, akked Cekem d tuddar-is, arma d Ɛayya d tuddar-is.",
+  "tokens": [
+    {
+      "surface": "ואחזתם",
+      "gloss": "Taneṣliḍt-nsen"
+    },
+    {
+      "surface": "ומשבותם",
+      "gloss": "temdiwent-nsen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "tuddar-is"
+    },
+    {
+      "surface": "ולמזרח",
+      "gloss": "ɣer lqibla n lɛerc"
+    },
+    {
+      "surface": "נערן",
+      "gloss": "Naɛaran"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ɣer lɣerb"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "tuddar-is"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "Cekem"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "tuddar-is"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "עיה",
+      "gloss": "Ɛayya"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "tuddar-is"
+    }
+  ],
+  "timestamp": "2026-10-03T03:27:34.579287355Z",
+  "model": "glm-5.3"
+}

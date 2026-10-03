@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 52:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 52,
+  "translation": "Berreḍ, berreḍ, iji zdgel ḥerrek-ik, Ṣiyon; iji zdgel isi n tgejdit-ik, Yerucalayim, tamdint n yiqedcen; acku ur itteddu ara ɣur-k ula d win ur neḥrez ara, ula d araggi.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "berreḍ"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "berreḍ"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "iji zdgel"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ḥerrek-ik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ṣiyon"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "iji zdgel"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "isi"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "n tgejdit-ik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ur itteddu ara"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ad yekcem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "win ur neḥrez ara"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ula d araggi"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:10.215682040Z",
+  "model": "glm-5.3"
+}

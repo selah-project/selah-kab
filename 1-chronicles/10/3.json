@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Tamnaḍt tugi teqqim teqqez ɣef Caul; imsefrayen s yivec t-afen, yebda yettwaɣi seg yimsefrayen.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "teqqez"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "tamnaḍt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "t-afen"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "imsefrayen"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "s yivec"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "yebda yettwaɣi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "yimsefrayen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:29:30.996147033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ur qqaṛen ara deg wul-nsen: akk tuccḍiwin nnsen wwḍebɣ-tent; tura twaḍdisin nnsen ṭṭfent-ten-id; zzat n udmu-i llan-t.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "qqaṛen"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "deg wul-nsen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "tuccḍiwin nnsen"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "wwḍebɣ-tent"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "ṭṭfent-ten-id"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "twaḍdisin nnsen"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zzat n"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udmu-i"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan-t"
+    }
+  ],
+  "timestamp": "2026-10-03T04:30:29.626430275Z",
+  "model": "glm-5.3"
+}

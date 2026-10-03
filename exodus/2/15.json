@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Firɛawn yesla ⟨את⟩ i wawal-nni, yebɣa ad ineɣ ⟨את⟩ Moce. Moce inḥerreb seg udem n Firɛawn, yezdeɣ deg tmurt n Midyan, yeqqim ɣef tala.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yesla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firɛawn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i wawal-nni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal-nni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "yebɣa"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ad ineɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "inḥerreb"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firɛawn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "n Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "tala"
+    }
+  ],
+  "timestamp": "2026-10-02T20:37:11.089402458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Wid yettwaḥsaben deg-sen, i ṭabu n Gad, ḍefren 45 1000-nes d 600 d 50.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "wid yettwaḥsaben"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "i ṭabu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "5"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "40"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "1000"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "6"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "100"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "50"
+    }
+  ],
+  "timestamp": "2026-10-02T21:21:39.370474087Z",
+  "model": "glm-5.3"
+}

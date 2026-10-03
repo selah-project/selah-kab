@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 79,
+  "translation": "Ad taweḍ ɣer sdat-ik taynut n umsuḥes; akken tezmert n taɣmert-ik, ḥrez ⟨arrac⟩ n lmutt.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Ad taweḍ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ɣer sdat-ik"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "taynut n"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "umsuḥes"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "akken tezmert n"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "taɣmert-ik"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨arrac⟩"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "n lmutt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:59:09.823002Z",
+  "model": "glm-5.3"
+}

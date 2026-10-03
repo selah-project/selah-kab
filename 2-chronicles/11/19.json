@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Terna-d i yimawlan-is arraw: ⟨את⟩ Yeɛuc, ⟨את⟩ Cemarya, ⟨את⟩ d Zaḥam.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Terna-d"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yimawlan-is"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeɛuc"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeɛuc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cemarya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Cemarya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zaḥam"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaḥam"
+    }
+  ],
+  "timestamp": "2026-10-03T03:42:26.833166077Z",
+  "model": "glm-5.3"
+}

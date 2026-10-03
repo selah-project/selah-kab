@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Lɛar n baba-k d lɛar n yemma-k, ur tettareḍ ara ad d-tbanneḍ; nettat d yemma-k, ur tettareḍ ara ad d-tbanneḍ lɛar-ines.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "lɛar"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baba-k"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "lɛar n"
+    },
+    {
+      "surface": "אמק",
+      "gloss": "yemma-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ad d-tbanneḍ"
+    },
+    {
+      "surface": "אמק",
+      "gloss": "yemma-k"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nettat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ad d-tbanneḍ"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "lɛar-ines"
+    }
+  ],
+  "timestamp": "2026-10-02T21:11:31.843595003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Tameṭṭut tadessut, akked tarṣast, ur tt-ṭṭfen ara d tameṭṭut; akked tameṭṭut ittwaxsen seg urgaz-is, ur tt-ṭṭfen ara; axaṭer ⟨d netta⟩ iqedcan i Elohim-is.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "tadessut"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "akked tarṣast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "akked tameṭṭut"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "ittwaxsen"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "seg urgaz-is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "i Elohim-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:05:08.629475679Z",
+  "model": "glm-5.3"
+}

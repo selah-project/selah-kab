@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 29,
+  "translation": "Ad inin: Axer ṛenḥen ⟨את⟩ lɛahd n Yahwe, Elohim n yiddaraw-nsen, i iǧehden yid-sen, mi ten-id-yeẓra seg ⟨את⟩ tmurt n Miṣrayim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Ad inin"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Axer"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ṛenḥen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd n Yahwe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "n yiddaraw-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "iǧehden"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "yid-sen"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "mi ten-id-yeẓra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (seg tmurt n Miṣrayim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-02T22:05:31.922684823Z",
+  "model": "glm-5.3"
+}

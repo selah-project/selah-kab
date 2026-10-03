@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Ḥazaɛel, agellid n Aram, iḥeṭṭeṣ ⟨את⟩ Yisrael akk imir n Yeḥwaḥaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Ḥazaɛel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "iḥeṭṭeṣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imir n"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yeḥwaḥaz"
+    }
+  ],
+  "timestamp": "2026-10-02T23:32:42.249499137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Aḥewwel, ma twalaγ-t deg wul-iw, Adonai ur isel ara.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "aḥewwel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "twalaγ-t"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "deg wul-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "isel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:33.889430096Z",
+  "model": "glm-5.3"
+}

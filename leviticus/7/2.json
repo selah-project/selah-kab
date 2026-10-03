@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Deg wemkan ara deg zenẓen ⟨את⟩ taɛola, ad zenẓen ⟨את⟩ w-acam; d ⟨את⟩ idm-is ad t-iẓreq ɣef lmeṣbed, tama-s akk.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "deg wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara deg"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "zenẓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɛola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "taɛola"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ad zenẓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "w-acam"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "w-acam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "idm-is"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "idm-is"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ad t-iẓreq"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣbed"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tama-s akk"
+    }
+  ],
+  "timestamp": "2026-10-02T21:03:58.316401524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "S timerhurt n ubekkax, aqbul yeḥmeṛ; ad ttwatter deg tḥerciwin-agi i d-ḥerben.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "s timerhurt n"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ubekkax"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "yeḥmeṛ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "aqbul"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "ad ttwatter"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "deg tḥerciwin"
+    },
+    {
+      "surface": "זו",
+      "gloss": "agi"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "i d-ḥerben"
+    }
+  ],
+  "timestamp": "2026-10-03T04:34:00.424694654Z",
+  "model": "glm-5.3"
+}

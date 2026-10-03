@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 50:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Ula d watmaten-is ṛuḥen, ḍlen ɣer zdat-is, nnan: ha nat-ani ⟨ɣer⟩ kečč, d imeddebbyen-ik.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "watmaten-is"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ḍlen"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ɣer zdat-is"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "ha nat-ani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "d imeddebbyen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:36:30.725421828Z",
+  "model": "glm-5.3"
+}

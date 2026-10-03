@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 53,
+  "translation": "Seg uḥbas d ueḥkam yettwakkes, ma d ⟨את⟩ wussan-is anwa ara d-yemmeslayen fell-as? Axirṭer seg tmurt n yimuddiren yettwagzem, seg tuccḍa n ugdud-iw i t-yeṛṛa-nni teṭṭef-asen.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "seg uḥbas"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "d ueḥkam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yettwakkes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wussan-is"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "wussan-is"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ara d-yemmeslayen fell-as"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axirṭer"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "yettwagzem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "n yimuddiren"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "seg tuccḍa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ugdud-iw"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "teṛṛa-nni"
+    },
+    {
+      "surface": "למו",
+      "gloss": "teṭṭef-asen"
+    }
+  ],
+  "timestamp": "2026-10-03T00:06:14.986585662Z",
+  "model": "glm-5.3"
+}

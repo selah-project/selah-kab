@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "S ssebs ad twalim, ɣef tilist n Yisrael ad awen-ḥekmeɣ ⟨את⟩, ad tessnem belli nekk d Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "s ssebs"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ad twalim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tilist"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ad awen-ḥekmeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunwi"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ad tessnem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T00:46:24.202051039Z",
+  "model": "glm-5.3"
+}

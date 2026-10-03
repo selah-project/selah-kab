@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yahwe yuzen-d cci n tmeqqrant ɣef ⟨i⟩ yillel, yella-d ungar meqqren deg yillel, lɛebba tuɣal tettxemmem ad teṛṛebε.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "yuzen-d"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "cci"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "n tmeqqrant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "סער",
+      "gloss": "ungar"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "בים",
+      "gloss": "deg yillel"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "lɛebba"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "tuɣal tettxemmem"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "ad teṛṛebε"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:10.776745490Z",
+  "model": "glm-5.3"
+}

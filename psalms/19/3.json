@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ass i wes, tibḍirt tessuɣl-d awal, d yiḍ i yiḍ, issen-d tamussni.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "i wes"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "tessuɣl-d"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "d yiḍ"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "i yiḍ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "issen-d"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tamussni"
+    }
+  ],
+  "timestamp": "2026-10-03T01:43:06.554279648Z",
+  "model": "glm-5.3"
+}

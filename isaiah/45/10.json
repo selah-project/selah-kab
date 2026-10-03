@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 45,
+  "translation": "Ayu win yettaran i baba-s: Acu t-lalideḍ? D i tmeṭṭut: Acu tettḥekkmeḍ?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ayu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "win yettaran"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "i baba-s"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "t-lalideḍ"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "d i tmeṭṭut"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "tettḥekkmeḍ"
+    }
+  ],
+  "timestamp": "2026-10-03T00:02:02.601989440Z",
+  "model": "glm-5.3"
+}

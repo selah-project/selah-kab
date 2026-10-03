@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 134,
+  "translation": "Yahwe ad k-iberrḥen si Ṣiyyun, Win ixelqen igenwan d tmurt.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ad k-iberrḥen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "si Ṣiyyun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Win ixelqen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "d tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:11:35.137642729Z",
+  "model": "glm-5.3"
+}

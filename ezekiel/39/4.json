@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 39:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "Ɣef idurar n Yisrael ad tuɣaleḍ ḍeffir, kečč d ⟨את⟩ teɣmamin-ik akk, d yegduden yellan ⟨את⟩-ik; i yiferḍen yaggugin, i yal agellid n yijenḍi, d wergaz n wurti, ad k-muddɣ d učči.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɣef"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "idrar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ad tuɣaleḍ ḍeffir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč d"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אגפיך",
+      "gloss": "teɣmamin-ik"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "d yegduden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-ik",
+      "marks": "yegduden yellan yid-ek"
+    },
+    {
+      "surface": "לעיט",
+      "gloss": "i yiferḍen yaggugin"
+    },
+    {
+      "surface": "צפור",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "agellid n yijenḍi"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "d wergaz"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n wurti"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ad k-muddɣ"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "d učči"
+    }
+  ],
+  "timestamp": "2026-10-03T01:04:16.856639537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 54,
+  "translation": "Acku ibeṛṛaniyen id-kkeren ɣef-i, d wid nessun yeṛṛzen nnefs-iw; ur sɛin ara Elohim ⟨i⟩ ṣṣut-nsen. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ibeṛṛaniyen"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "id-kkeren"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "d wid nessun yeṛṛzen"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "yeṛṛzen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sɛin ara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "⟨i⟩ ṣṣut-nsen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:57.362874456Z",
+  "model": "glm-5.3"
+}

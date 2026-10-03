@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 66,
+  "translation": "Zemrent taɛzemt n yisem-is; ṣeggment taɛzemt i tajmilt-is.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "zemrent"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "taɛzemt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "n yisem-is"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ṣeggment"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "taɛzemt"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tajmilt-is"
+    }
+  ],
+  "timestamp": "2026-10-03T01:53:33.283844511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Akken Yisrael akk ad yiles, ad yagwad, ur yerni ara ad yexdem am lḥaṛa-ya n dir deg beṛṛa-k.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akken ... akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ad yiles"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "ad yagwad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "yerni ara"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "am"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ya"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "deg beṛṛa-k"
+    }
+  ],
+  "timestamp": "2026-10-02T21:55:20.542729131Z",
+  "model": "glm-5.3"
+}

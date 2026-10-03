@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "D-ḥerren ⟨את⟩ ten iṛebbiten n leǧnas, wid iwumi ḥerren iduba-iw — ⟨את⟩ Gozan, ⟨את⟩ Ḥaran, Reṣef, akk d at Ɛeden i yellan deg Telacar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "D-ḥerren"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "iṛebbiten n leǧnas"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "n leǧnas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid iwumi"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ḥerren"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "iduba-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥaran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Ḥaran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "Reṣef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "akk d at"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Ɛeden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "deg Telacar"
+    }
+  ],
+  "timestamp": "2026-10-02T23:56:51.298629547Z",
+  "model": "glm-5.3"
+}

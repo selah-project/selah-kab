@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 24,
+  "translation": "Anwa d win-n agellid n teqqa? Yahwe, d bab n tezmert d uzmir, Yahwe, d azmir deg nnnuḥ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa d"
+    },
+    {
+      "surface": "זה",
+      "gloss": "win-n"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid n"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "teqqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "d bab n tezmert"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "d uzmir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "d azmir"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "deg nnnuḥ"
+    }
+  ],
+  "timestamp": "2026-10-03T01:45:10.450505007Z",
+  "model": "glm-5.3"
+}

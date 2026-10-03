@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Maca David yeṭṭef ⟨את⟩ taɣmert n Ṣiyyun — d nettat i d tamanaɣt n David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣmert n Ṣiyyun"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "taɣmert"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "n Ṣiyyun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d nettat"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamanaɣt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-02T22:57:26.686827559Z",
+  "model": "glm-5.3"
+}

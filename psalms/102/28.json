@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Kecc, d kecc i teqqimeḍ; iseggasan-ak ur pwemmten ara.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kecc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d kecc i teqqimeḍ"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "iseggasan-ak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "pwemmten"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:45.960546886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Acku d tikerkant i ḍefren deg-wenn awal-nni ɣur-kwen, iwakken ad kwen-ḥerzen seg wakal-nwen, uqbel ad kkseɣ ⟨את⟩ kem-kunent, ad treɣlem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "d tikerkant"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nitenti"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ḍefren deg-wenn awal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ɣur-kwen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ad kwen-ḥerzen seg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kem-kunent",
+      "marks": "kem-kunent"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "wakal-nwen"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "uqbel ad kkseɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kem-kunent",
+      "marks": "kem-kunent"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ad treɣlem"
+    }
+  ],
+  "timestamp": "2026-10-03T00:25:55.798600534Z",
+  "model": "glm-5.3"
+}

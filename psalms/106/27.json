@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "translation": "iwakken ad yesder aglim-nsen ger leǧnuc, ad ten-izeḥwej deg tmura.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "iwakken ad yesder"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "aglim-nsen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ger leǧnuc"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "ad ten-izeḥwej"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "deg tmura"
+    }
+  ],
+  "timestamp": "2026-10-03T02:07:14.344449503Z",
+  "model": "glm-5.3"
+}

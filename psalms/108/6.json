@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "translation": "Γali, a Elohim, ɣef yigenwan, d ⟨i⟩ tajmilt-ik ɣef tmurt akk.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Γali"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yigenwan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "d ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tajmilt-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:08:15.984266140Z",
+  "model": "glm-5.3"
+}

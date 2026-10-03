@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Tella yides yellis n Ṣihyun, am texxamt deg uɣrum, am tanimirt deg ugennar n lxaṭ, am tamdint iḥekmen.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "tella yides"
+    },
+    {
+      "surface": "בת",
+      "gloss": "yellis"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "n Ṣihyun"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "am texxamt"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "deg uɣrum"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "am tanimirt"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "deg ugennar n lxaṭ"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "am tamdint"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "iḥekmen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:40:42.624617853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "D kečč i ḥerzed i umedyaz-ik David baba ⟨את⟩ ayen i t-id-yennaḓ; s imi-k i t-id-yennaḓ, s ufus-ik i t-id-tsedwled, akken yella deg wass-a.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "d win"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "iḥerzed"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "i umedyaz-ik"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen i t-id-yennaḓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "i t-id-yennaḓ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "tessanted"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "s imi-k"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "s ufus-ik"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "tessedwled"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "akken deg wass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-03T03:39:34.764873433Z",
+  "model": "glm-5.3"
+}

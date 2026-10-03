@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 92,
+  "translation": "Mazal ad fkin deg tgemrawt-inessen, d iwcetten, d izegzawen ad qqimen.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Mazal"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ad fkin"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "deg tgemrawt-inessen"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "d iwcetten"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "d izegzawen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad qqimen"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:40.002651675Z",
+  "model": "glm-5.3"
+}

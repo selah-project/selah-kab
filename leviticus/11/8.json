@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Seg wasem-nsen ur tett; nevelat-nsen ur tṭebbin; nitni, d wid ur neqlin i wen.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "seg wasem-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tett"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "nevelat-nsen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tṭebbin"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "d wid ur neqlin"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nitni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:06:46.201515965Z",
+  "model": "glm-5.3"
+}

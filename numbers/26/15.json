@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "At Ud (Gad) s tneqqaḍ-nsen: i Ṣefun, taqbuct n yiṣefuniyen; i Ḥaggi, taqbuct n yiḥagiyen; i Cuni, taqbuct n yicuniyen.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "At"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Ud (Gad)"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tneqqaḍ-nsen"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "i Ṣefun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "taqbuct"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "n yiṣefuniyen"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "i Ḥaggi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "taqbuct"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "n yiḥagiyen"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "i Cuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "taqbuct"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "n yicuniyen"
+    }
+  ],
+  "timestamp": "2026-10-02T21:39:38.415929005Z",
+  "model": "glm-5.3"
+}

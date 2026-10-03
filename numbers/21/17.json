@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ass-nni, Yisrael yecna ⟨את⟩ tacecnit-agi: Ali, a tala, ccnut i t-id.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ass-nni"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "yecna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tacecnit-agi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "tacecnit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ali"
+    },
+    {
+      "surface": "באר",
+      "gloss": "a tala"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ccnut"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i t-id"
+    }
+  ],
+  "timestamp": "2026-10-02T21:36:55.127018244Z",
+  "model": "glm-5.3"
+}

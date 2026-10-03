@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 37,
+  "translation": "Ad tfeṛḥeḍ ɣef Yahwe, ad yefk-ak-d i d-tessaram ugur-ik.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Ad tfeṛḥeḍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ak-d"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "i d-tessaram"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ugur-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:28.182172110Z",
+  "model": "glm-5.3"
+}

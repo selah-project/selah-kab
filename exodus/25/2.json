@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "translation": "Mmeslay-d ɣer wid n Yisrael: ad ii-ḍefren teruma; ⟨את⟩ teruma-w ad tt-tḍefrem ⟨את⟩ seg yal argaz i t-ixelqen wul-is.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mmeslay-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ad ḍefren"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ii-"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ seg",
+      "marks": "argaz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "i t-ixelqen"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "wul-is"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ad tt-tḍefrem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teruma-w"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "teruma-w"
+    }
+  ],
+  "timestamp": "2026-10-02T20:50:12.856132091Z",
+  "model": "glm-5.3"
+}

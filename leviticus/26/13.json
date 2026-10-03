@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 26,
+  "translation": "Nekki d Yahwe, Elohim-nwen, win i d-yessuffɣen ⟨את⟩ kunyei seg tmurt n Miṣrayim, akken ur tiliḍem ara d ikebbaben i yisen; yessnegra-yi tiḥeṛciyin n usengar-nwen, waɣen-kwen-id ad teddun s tsedda (qomemiyut).",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "i d-yessuffɣen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunyei",
+      "marks": "kunyei (i d-yessuffɣen seg Miṣrayim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "ad tiliḍem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i yisen"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "d ikebbaben"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "yessnegra-yi"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "tiḥeṛciyin"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "n usengar-nwen"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "waɣen-kwen-id"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kunyei",
+      "marks": "kunyei (waɣen-kwen-id s tsedda)"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "s tsedda (qomemiyut)"
+    }
+  ],
+  "timestamp": "2026-10-02T21:19:46.624834668Z",
+  "model": "glm-5.3"
+}

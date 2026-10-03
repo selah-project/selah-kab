@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Tewḥem a Ṣidon, axaṭer yilel yenna — d maɛuz n yilel — ad yini: ur ssuɣeɣ ara, ur sniɣ ara, ur ssmeɣraɣ ara ilmezyen, ur ssneflaɣ ara tiqcicin.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Tewḥem"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Ṣidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "maɛuz"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yilel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ssuɣeɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "sniɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ssmeɣraɣ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ilmezyen"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ssneflaɣ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "tiqcicin"
+    }
+  ],
+  "timestamp": "2026-10-02T23:51:41.748964500Z",
+  "model": "glm-5.3"
+}

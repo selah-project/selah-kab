@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 100,
+  "translation": "Ẓermet belli Yahwe d Netta i d Elohim; d Netta i yexleq-nneɣ, mačči nekkini ⟨d⟩; d agdud-is nekkni, d iymirin n weɣbub-is.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Ẓermet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d Netta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d Netta"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "i yexleq-nneɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "agdud-is"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "d iymirin"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "n weɣbub-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:05:39.031838677Z",
+  "model": "glm-5.3"
+}

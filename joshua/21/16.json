@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Akk d ⟨את⟩ ɛAyn akk d migraṣ-is, akken d ⟨את⟩ Yutta akk d migraṣ-is, ⟨את⟩ Bet-Cemec akk d migraṣ-is: tís swayt n tmdinin, seg ⟨את⟩ sin n yicebḥen-agi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "ɛAyn"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ɛAyn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "migraṣ-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraṣ-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "Yutta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yutta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "migraṣ-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraṣ-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Cemec"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Cemec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "migraṣ-is"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraṣ-is"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tmdinin"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tís"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ seg"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin n"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "yicebḥen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-02T22:19:41.627282579Z",
+  "model": "glm-5.3"
+}

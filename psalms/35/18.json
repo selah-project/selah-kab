@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Ad ceggneɣ kečč deg ussemlil ameqqran; ger wgdud meqqren ad ccehhdeg-ik.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ad ceggneɣ kečč"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "deg ussemlil"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ger wgdud"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "meqqren"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ad ccehhdeg-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T01:47:12.899216700Z",
+  "model": "glm-5.3"
+}

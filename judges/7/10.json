@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Ma tuggeḍ ad tadrreḍ, dder kecċ d Pura meqcic-ik, ɣer lɛesker.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tuggeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecċ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ad tadrreḍ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "dder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecċ"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "d Pura"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "meqcic-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lɛesker"
+    }
+  ],
+  "timestamp": "2026-10-02T22:25:24.992462159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "D nutenti, ad t-trem imi d yiwen n uneccab, yiwen n uneccab i yal sbeɛ, ad i✗en-illeq ⟨את⟩ tamurt.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "yiwen n uneccab"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "uneccab"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "i yal sbeɛ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ad t-trem"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ad nelleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    }
+  ],
+  "timestamp": "2026-10-02T21:45:28.472712174Z",
+  "model": "glm-5.3"
+}

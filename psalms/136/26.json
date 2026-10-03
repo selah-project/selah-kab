@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 136,
+  "translation": "Cukk-et i El n yiganwen, acku i lebda ⟨⟨i⟩⟩ ḥesed-is.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Cukk-et"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "i El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n yiganwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ḥesed-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:12:59.097260552Z",
+  "model": "glm-5.3"
+}

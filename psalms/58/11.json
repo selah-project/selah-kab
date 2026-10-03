@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 58,
+  "translation": "Ad yecfeḥ uṣedeq, axaṭer iẓra ⟨i⟩-anqeḥ; ad isib imareggen-is s yiḍan n yireḥḥen.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ad yecfeḥ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "uṣedeq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "iẓra"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "anqeḥ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "imareggen-is"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ad isib"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "s yiḍan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "n yireḥḥen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:54.475102625Z",
+  "model": "glm-5.3"
+}

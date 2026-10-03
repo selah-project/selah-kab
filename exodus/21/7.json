@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Ma yiwen yuzen ⟨את⟩ yelli-s d taklawayt, ur tettruḥu ara akken tttruḥun yiklan.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yelli-s"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "yelli-s"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "d taklawayt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tettruḥu"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "akken tttruḥun"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "yiklan"
+    }
+  ],
+  "timestamp": "2026-10-02T20:47:24.930348491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Imiṣrayim ḍefren-iten, iḥeṛsen-ten mi llan qqimen ɣef yill: akk isfan d tiḍaffarin n Ferɛun d yiferrawen-is d lɛesker-is, ɣef imi n l-Ḥirot, sdat Baɛal Ṣefun.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "ḍefren-iten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Imiṣrayim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "deffir-sen"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "iḥeṛsen-ten"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ten (Imiṣrayim iḥeṛsen ⟨את⟩ wid llan qqimen)"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "mi llan qqimen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yill"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "isfan"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "tiḍaffarin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "d yiferrawen-is"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "d lɛesker-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פי",
+      "gloss": "imi"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "l-Ḥirot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baɛal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Ṣefun"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:36.756174813Z",
+  "model": "glm-5.3"
+}

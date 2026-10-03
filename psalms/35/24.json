@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 35,
+  "translation": "Sebreet-iyi akken tebɣid kečč, a Yahwe Elohi-iw, ur ḥemmelen ad d-lḥen fell-i.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Sebreet-iyi"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "akken tebɣid kečç"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi-iw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ad d-lḥen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fell-i"
+    }
+  ],
+  "timestamp": "2026-10-03T01:46:05.799568368Z",
+  "model": "glm-5.3"
+}

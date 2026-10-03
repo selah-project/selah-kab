@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 27,
+  "translation": "Day it-yessuḥen am wid t-isḥan? Neɣ day yettwanɣen akken ttwanɣen wid inɣen-t?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "am"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "wid t-isḥan"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "it-yessuḥen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Neɣ"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "akken"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ttwanɣen wid inɣen-t"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "yettwanɣen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:50:20.445106557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Yahwe inna i Camuel: Sel i ṣṣut n ugdud, akk ayen ara d-yinin ɣur-k, axaṭer kečč i gižgen ⟨את⟩, Maci kečč, neṭṭa i gižgen ⟨את⟩, Kennig deg uhuddu ɣefsen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Camuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Sel i"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ṣṣut n"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ara d-yinin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Maci"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kečč"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "gižgen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neṭṭa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Kennig"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "gižgen"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "deg uhuddu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣefsen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:38:13.934109120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 57,
+  "translation": "Ad cḥeq-k ɣer leǧnas, a Adonai; ad ccnuɣ-k deg yiɣlanen.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ad cḥeq-k"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ɣer leǧnas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ad ccnuɣ-k"
+    },
+    {
+      "surface": "בל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "yiɣlanen"
+    }
+  ],
+  "timestamp": "2026-10-03T01:51:38.637509846Z",
+  "model": "glm-5.3"
+}

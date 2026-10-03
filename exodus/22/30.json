@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "translation": "D irgazen iqedcen i nelḥeq ad tiliḍ; d ad teččeḍ aɣsum n terṣast deg ugezdu ur t-teččeḍ; i uqdiɣ-t ad t-teṭṭfeḍ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "D irgazen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "i nelḥeq ad tiliḍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "d aɣsum"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg ugezdu"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "n terṣast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur t-teččeḍ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ad teččeḍ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "i uqdiɣ-t"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "ad t-teṭṭfeḍ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "aɣsum n terṣast"
+    }
+  ],
+  "timestamp": "2026-10-02T20:46:18.379336376Z",
+  "model": "glm-5.3"
+}

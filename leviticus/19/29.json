@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 19,
+  "translation": "Ur ḥerreb ara ⟨את⟩ tifert-ik iwakken ad tettzenni, akken ur tessagti tamurt ara i uzennu, ur tettali tamurt ara s tɣeṛṛa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ḥerreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tifert-ik"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tifert-ik"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "iwakken ad tettzenni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akken ur… ara"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "tessagti i uzennu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ur tettali ara s"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "tɣeṛṛa"
+    }
+  ],
+  "timestamp": "2026-10-02T21:14:15.990063896Z",
+  "model": "glm-5.3"
+}

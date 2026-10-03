@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 13,
+  "translation": "Akka i d-yenna Yahwe: Akka ad rẓeɣ ⟨את⟩ tiboxent n Yeuda akked ⟨את⟩ tiboxent tameqqrant n Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ad rẓeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiboxent n Yeuda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "tiboxent"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiboxent tameqqrant n Yerucalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "tiboxent"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "tameqqrant"
+    }
+  ],
+  "timestamp": "2026-10-03T04:24:04.130785105Z",
+  "model": "glm-5.3"
+}

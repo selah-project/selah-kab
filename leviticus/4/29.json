@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Ad issend ⟨את⟩ ifass-is ɣef uqerru n weḥṭa, ad ineɣ ⟨את⟩ lḥeṭa deg umkan ara dd-inɣen deg-s lḥeqi.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ad issend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifass-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ifass-is"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uqerru"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "n weḥṭa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ad ineɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lḥeṭa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "lḥeṭa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "n lḥeqi"
+    }
+  ],
+  "timestamp": "2026-10-02T21:04:26.136434267Z",
+  "model": "glm-5.3"
+}

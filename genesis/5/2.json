@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "D argaz d tmeṭṭut i yexleq ⟨את⟩-en, i εeddan-d yesberrik-itent, yessawel i yisem-nsen Adam, deg wass ideg ttwanexleq.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "i yexleq"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "yesberrik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "argaz d tmeṭṭut"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-nsen"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "i yisem-nsen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ideg ttwanexleq"
+    }
+  ],
+  "timestamp": "2026-10-02T20:09:53.860500683Z",
+  "model": "glm-5.3"
+}

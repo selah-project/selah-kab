@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 44,
+  "translation": "Bab-iw yesteqsa ⟨את⟩ yiqjan-is, yenna: day-agi, tagiṭ ad yesɛu baba-wen neɣ gma-wen?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "yesteqsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiqjan-is"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yiqjan-is"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "היש",
+      "gloss": "day-agi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tagiṭ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baba-wen"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "gma-wen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:32:47.368168946Z",
+  "model": "glm-5.3"
+}

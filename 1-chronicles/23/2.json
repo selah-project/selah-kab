@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Yedda-d ⟨את⟩ akk inebgiyen n Yisrael, akked lqessisin d yileviyen.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Yedda-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk inebgiyen n Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inebgiyen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "akked lqessisin"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "d yileviyen"
+    }
+  ],
+  "timestamp": "2026-10-03T03:34:42.753162593Z",
+  "model": "glm-5.3"
+}

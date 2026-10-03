@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Ma tezzuḍeḍ tiṛomtin-innek fell-as, ad t-id-tafeḍ ulac-it; acku lexlaṣ ad yexleq i yiman-is tiyelfatin, am uneccar ad yalli ɣer ⟨את⟩ igenwan.",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "ma tezzuḍeḍ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tiṛomtin-innek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ad t-id-tafeḍ ulac-it"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ad yexleq"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "i yexleq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "tiyelfatin"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "am uneccar"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ad yalli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "igenwan"
+    }
+  ],
+  "timestamp": "2026-10-03T02:27:10.230546733Z",
+  "model": "glm-5.3"
+}

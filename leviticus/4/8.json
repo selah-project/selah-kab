@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "D ⟨את⟩ akk aẓaẓ n uzger n lḥeṭṭa ad yekkes seg-s: ⟨את⟩ aẓaẓ win iṭṭfen ɣef ilewṭan, d ⟨את⟩ akk aẓaẓ win yellan ɣef ilewṭan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk aẓaẓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "aẓaẓ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "n uzger"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "n lḥeṭṭa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ad yekkes"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aẓaẓ win iṭṭfen ɣef ilewṭan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "aẓaẓ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "win iṭṭfen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ilewṭan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk aẓaẓ win yellan ɣef ilewṭan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "aẓaẓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ilewṭan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:11.536067939Z",
+  "model": "glm-5.3"
+}

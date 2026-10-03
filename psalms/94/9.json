@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 94,
+  "translation": "Win iɛegglen iḍan, mačči d netta ad islen? Win iṣeḍfen ṭemṭum, mačči d netta ad iwali?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Win iɛegglen"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "iḍan"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mačči d"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ad islen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mačči d"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "Win iṣeḍfen"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ṭemṭum"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mačči d"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ad iwali"
+    }
+  ],
+  "timestamp": "2026-10-03T02:02:27.400208891Z",
+  "model": "glm-5.3"
+}

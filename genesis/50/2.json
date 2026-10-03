@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 50,
+  "translation": "Yusef inna ⟨את⟩ i yimeḍbasen-is, ⟨את⟩ i yimsujjiyen: Mmecten ⟨את⟩ baba-s, imiren mmecten ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "inna i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i yimeḍbasen-is"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "i yimeḍbasen-is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i yimsujjiyen"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "i yimsujjiyen"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "mmecten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "mmecten"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-03T04:00:07.137896978Z",
+  "model": "glm-5.3"
+}

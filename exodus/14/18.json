@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Ad ẓren yimezdaɣ n Miṣrayim nekk d Yahwe, mi ara ad ttxelleq deg Pɛaṛu, deg ikerdan-is deg yisurar-is.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ad ẓren"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yimezdaɣ n Miṣrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "mi ara ad ttxelleq"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "deg Pɛaṛu"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "deg ikerdan-is"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "deg yisurar-is"
+    }
+  ],
+  "timestamp": "2026-10-02T20:43:37.408294003Z",
+  "model": "glm-5.3"
+}

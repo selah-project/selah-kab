@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 18,
+  "translation": "Imef, akka i d-yenna Yahwe ɣur-i: ad qqimeɣ d arwez, ad ḥerzeɣ seg umkan-iw; am ussam igezmen ɣef tafat, am tagura n tbiremt deg ussam n lḥeṣad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imef"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "ad qqimeɣ d arwez"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "d ad ḥerzeɣ"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "seg umkan-iw"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "am ussam"
+    },
+    {
+      "surface": "צח",
+      "gloss": "igezmen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "am tagura"
+    },
+    {
+      "surface": "טל",
+      "gloss": "n tbiremt"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "deg ussam"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "n lḥeṣad"
+    }
+  ],
+  "timestamp": "2026-10-02T23:49:00.838690197Z",
+  "model": "glm-5.3"
+}

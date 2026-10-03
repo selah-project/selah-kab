@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Ad rẓen ⟨את⟩ tamurt n Acur s yisef, akk d ⟨את⟩ tamurt n Nimrud deg yiberdan-ines, ad yekkes-aɣ-d seg wacemda n Acur, mi ara d-yekcem ɣer tmurt-nneɣ, mi ara yedder ɣef tlisa-nneɣ.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ad rẓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamurt n Acur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Acur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "s yisef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akk d ⟨את⟩",
+      "marks": "tamurt n Nimrud"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrud"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "deg yiberdan-ines"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ad yekkes-aɣ-d"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "seg wacemda n Acur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "d-yekcem"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ɣer tmurt-nneɣ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "yedder"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ɣef tlisa-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T04:31:04.572407437Z",
+  "model": "glm-5.3"
+}

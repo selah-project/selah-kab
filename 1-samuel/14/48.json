@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Yexdem tazmert, iḍreb ⟨את⟩ Ɛamaleq, yesselles ⟨את⟩ Yisrael seg ufus n win t-yesseṭṭfen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "iḍreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛamaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Ɛamaleq"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "yesselles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seg ufus n"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "win t-yesseṭṭfen"
+    }
+  ],
+  "timestamp": "2026-10-02T22:42:51.856506065Z",
+  "model": "glm-5.3"
+}

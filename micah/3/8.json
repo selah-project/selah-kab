@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Maca nekk, ṣeḥḥeɣ ⟨את⟩ tazmert n ruaḥ Yahwe, d ccreɛ d tezmert, iwakken ad mlen i Yaɛqov tigawt-is, i Yisrael tucḍa-s.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Maca"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ṣeḥḥeɣ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "iwakken ad mlen"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "i Yaɛqov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "tigawt-is"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "tucḍa-s"
+    }
+  ],
+  "timestamp": "2026-10-03T01:26:50.148770683Z",
+  "model": "glm-5.3"
+}

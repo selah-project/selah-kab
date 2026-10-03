@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Agellid yewweḍ, akked ugdud akk win ⟨את⟩ yid-s, ayen yeḥwan — dinna iḥsu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yewweḍ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Agellid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked… akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s",
+      "marks": "ugdud win yid-s"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ayen yeḥwan"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "iḥsu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    }
+  ],
+  "timestamp": "2026-10-02T23:02:43.086033474Z",
+  "model": "glm-5.3"
+}

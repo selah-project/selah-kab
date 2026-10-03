@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 147,
+  "translation": "Win izuzren awal-is ɣer tmurt, awal-is ad yezri s zzhel.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Win izuzren"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "awal-is"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "s zzhel"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "yezri"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "awal-is"
+    }
+  ],
+  "timestamp": "2026-10-03T02:15:52.373154580Z",
+  "model": "glm-5.3"
+}

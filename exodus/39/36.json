@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 39,
+  "translation": "⟨את⟩ tfelwit, ⟨את⟩ akk ifecklen-is, d ⟨את⟩ aɣrum n udem.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tfelwit"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tfelwit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk ifecklen-is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ifecklen-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aɣrum n udem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "n udem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:01:10.625914057Z",
+  "model": "glm-5.3"
+}

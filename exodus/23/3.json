@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "translation": "Win d-yewɛer, ur t-teḥsileḍ ara deg umenniɣ-is.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "win d-yewɛer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "teḥsileḍ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "deg umenniɣ-is"
+    }
+  ],
+  "timestamp": "2026-10-03T04:02:06.362404181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 21,
+  "translation": "Yenna David i yigibeɛniyen: Acu ad xeddeɣ i wen? D s waḥid wa ara sferruɣ, iwakken ad tberrkem ⟨את⟩ lers n Yahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "yigibeɛniyen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ad xeddeɣ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "d waḥid wa"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "ad sferruɣ"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "iwakken ad tberrkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lers n Yahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T04:14:08.656077578Z",
+  "model": "glm-5.3"
+}

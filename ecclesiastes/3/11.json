@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "⟨את⟩ akk i d-yexleq Elohim d zelmeẓ deg lweqt-is; ula ⟨את⟩ lɛalem i yefka deg ulawen-nsen, maca ur izmir ara wemdan ad yaf ⟨את⟩ lxiḍ i xedcen Elohim, seg tazwara armi d taggara.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i d-yexleq"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "d zelmeẓ"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "deg lweqt-is"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛalem"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "lɛalem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i yefka"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "deg ulawen-nsen"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "izmir ara ad yaf"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lxiḍ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "lxiḍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "xedcen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "seg tazwara"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "armi d"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "taggara"
+    }
+  ],
+  "timestamp": "2026-10-03T02:55:56.543837561Z",
+  "model": "glm-5.3"
+}

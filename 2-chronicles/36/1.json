@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 36,
+  "translation": "Yerna agdud n tmurt yeṭṭef ⟨את⟩ Yehuaḥaz, mmi-s n Yacityahu, rṛan-t d agellid deg umkan n baba-s deg Yerucalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "yeṭṭef"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuaḥaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehuaḥaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "n Yacityahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "rṛan-t d agellid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-03T03:57:37.496742154Z",
+  "model": "glm-5.3"
+}

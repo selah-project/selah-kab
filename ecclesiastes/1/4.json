@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Yiwet n leǧel teddu, yiwet n leǧel tewweḍ; tmurt ⟨teqqim⟩ i lebda.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Yiwet n leǧel"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "teddu"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "yiwet n leǧel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tewweḍ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "teqqim"
+    }
+  ],
+  "timestamp": "2026-10-03T02:56:02.826266136Z",
+  "model": "glm-5.3"
+}

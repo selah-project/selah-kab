@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "At Yisrael, lkiyanen, lwiyyaten d wayen i d-yeqqimen seg at tinubga, xedmen tabadut n axxam n Elah-agi s lerḥa.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "lkiyanen"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "lwiyyaten"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "d wayen i d-yeqqimen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "tinubga"
+    },
+    {
+      "surface": "חנוכת",
+      "gloss": "tabadut"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n axxam"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "n Elah"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "s lerḥa"
+    }
+  ],
+  "timestamp": "2026-10-03T03:13:59.341175611Z",
+  "model": "glm-5.3"
+}

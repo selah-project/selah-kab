@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Boɛz iwelḍed ⟨את⟩ Ɛubed; Ɛubed iwelḍed ⟨את⟩ Yici.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Boɛz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelḍed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛubed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ɛubed"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "Ɛubed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "iwelḍed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yici"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yici"
+    }
+  ],
+  "timestamp": "2026-10-03T03:24:23.402950677Z",
+  "model": "glm-5.3"
+}

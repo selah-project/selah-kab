@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Yahwe Elohim yewwi ⟨את⟩ wemdan, yeṭṭef-it deg ugemmaḍ n Ɛeden, iwakken ad t-iγermin ad t-iḥrez.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wemdan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "yeṭṭef-it"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "deg ugemmaḍ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "n Ɛeden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ad t-iγermin"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ad t-iḥrez"
+    }
+  ],
+  "timestamp": "2026-10-02T20:08:51.184517684Z",
+  "model": "glm-5.3"
+}

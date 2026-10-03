@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 102,
+  "translation": "Ccbanɣ d taqawt n uneẓruf, lliɣ am teḥukkalt n tḥeggirt.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "ccbanɣ d"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "taqawt"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "n uneẓruf"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "lliɣ"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "am"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "teḥukkalt n tḥeggirt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:04:23.279959584Z",
+  "model": "glm-5.3"
+}

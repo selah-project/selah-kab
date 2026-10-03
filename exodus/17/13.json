@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 17,
+  "translation": "Yehoccua yessedreɛ ⟨את⟩ Ɛmaleq akken d ⟨את⟩ ugdud-is, s umi n teγrit.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "yessedreɛ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoccua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɛmaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Ɛmaleq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "ugdud-is"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ugdud-is"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s umi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "teγrit"
+    }
+  ],
+  "timestamp": "2026-10-02T20:44:19.813393913Z",
+  "model": "glm-5.3"
+}

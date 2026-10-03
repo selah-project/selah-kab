@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 16,
+  "translation": "Yif-it ad yili wemdan s ruaḥ n teḥmalt akked ⟨את⟩ imeḍqalen, mačči ad yebḍu ⟨את⟩ lɣanim akked ⟨את⟩ wid yerwin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yif-it"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "n teḥmalt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeḍqalen"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "imeḍqalen"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "ad yebḍu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "lɣanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wid yerwin"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "wid yerwin"
+    }
+  ],
+  "timestamp": "2026-10-03T04:38:26.323088190Z",
+  "model": "glm-5.3"
+}

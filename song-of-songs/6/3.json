@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Nekkini i n dod-iw, u dod-iw i nni — aberrag gar tisednanin.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nekkini"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "i n dod-iw"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "u dod-iw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i nni"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "aberrag"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "gar tisednanin"
+    }
+  ],
+  "timestamp": "2026-10-03T02:47:42.215332379Z",
+  "model": "glm-5.3"
+}

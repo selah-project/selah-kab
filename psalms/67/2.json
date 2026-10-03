@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 67,
+  "translation": "Elohim ad yennaḥen ɣef-nneɣ, ad y berek-nneɣ, ad d-iban udmu-is ⟨את⟩-aneɣ. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ad yennaḥen ɣef-nneɣ"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ad yberek-nneɣ"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ad d-iban"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udmu-is"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "aneɣ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T04:35:14.092268158Z",
+  "model": "glm-5.3"
+}

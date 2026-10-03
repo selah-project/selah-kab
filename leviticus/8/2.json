@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 8,
+  "translation": "Ṭṭef ⟨את⟩ Aharon d ⟨את⟩ warraw-is ⟨את⟩ yid-s, d ⟨את⟩ yilebsa, d ⟨את⟩ zzit n uzekk, d ⟨את⟩ usafar n ddnub, d ⟨את⟩ sin yizmar, d ⟨את⟩ taseqqaft n wuɣrum war azetta.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "warraw-is"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "warraw-is"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yilebsa"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "yilebsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "zzit n uzekk"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zzit"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "n uzekk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "usafar n ddnub"
+    },
+    {
+      "surface": "פר",
+      "gloss": "usafar"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "n ddnub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "sin yizmar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sin"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "yizmar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "taseqqaft n wuɣrum war azetta"
+    },
+    {
+      "surface": "סל",
+      "gloss": "taseqqaft"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "n wuɣrum war azetta"
+    }
+  ],
+  "timestamp": "2026-10-02T21:05:05.968336364Z",
+  "model": "glm-5.3"
+}

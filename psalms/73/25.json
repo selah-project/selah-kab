@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 73,
+  "translation": "Anwa i iyi illan deg igenwan? Maḥdi ɣur-k, ulac ayen i ḥemmelɣ deg tmurt.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i iyi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "deg igenwan"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "maḥdi ɣur-k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "i ḥemmelɣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-03T01:56:40.571797180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Yenna w argaz n Elohim: Anida yeddi? Yesskan-as ⟨את⟩ amkan; yegẓa aseklu, yuz-it din, yerra wuzzal ad iṭṭef ɣef waman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "anida"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yeddi"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "yesskan-as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amkan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "yegẓa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "aseklu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "yuz-it"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "yerra ad iṭṭef ɣef waman"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "wuzzal"
+    }
+  ],
+  "timestamp": "2026-10-02T23:27:54.750618045Z",
+  "model": "glm-5.3"
+}

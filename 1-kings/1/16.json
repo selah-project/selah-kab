@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "translation": "Bat-Ceva tennuz, tessujdel i ugellid; agellid yenna: Acu i k-iḥeṛmen?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "tennuz"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ceva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "tessujdel"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i k-iḥeṛmen"
+    }
+  ],
+  "timestamp": "2026-10-02T23:09:01.511520844Z",
+  "model": "glm-5.3"
+}

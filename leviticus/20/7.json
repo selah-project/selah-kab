@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 20,
+  "translation": "Ad teqdecem i yiman-nwen, ad tiliḍem d iqedcen, axaṭer nekk d Yahwe, Elohim-nwen.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "ad teqdecem i yiman-nwen"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ad tiliḍem"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "d iqedcen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    }
+  ],
+  "timestamp": "2026-10-03T04:04:37.502795618Z",
+  "model": "glm-5.3"
+}

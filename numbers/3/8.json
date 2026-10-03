@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 3,
+  "translation": "Ad ḥerzen ⟨את⟩ ifeccalen akk n wuxxam n tmlilit, i ⟨את⟩ tayula n yat Yisrael, ad xedmen ⟨את⟩ axeddim n Mickan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ad ḥerzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifeccalen akk n wuxxam n tmlilit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ifeccalen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n tmlilit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tayula n yat Yisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tayula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axeddim n Mickan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "axeddim n"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    }
+  ],
+  "timestamp": "2026-10-02T21:22:59.065584722Z",
+  "model": "glm-5.3"
+}

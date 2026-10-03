@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 7,
+  "translation": "Yerran yal yiwen ⟨את⟩ aseffud-is, uɣalen d izerzaren; aseffud n Aharon yeẓdem ⟨את⟩ iseffud-nnsen.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Yerran"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "aseffud-is"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "uɣalen d"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "izerzaren"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "yeẓdem"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "aseffud"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iseffud-nnsen"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "iseffud-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-02T20:38:03.820271405Z",
+  "model": "glm-5.3"
+}

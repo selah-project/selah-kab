@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Mi ara tajemɛem ⟨את⟩ lmeǧmaɛ, ad gerdem, maca ur tttruɛuem ara.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "mi ara tajemɛem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmeǧmaɛ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lmeǧmaɛ"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "ad gerdem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur ... ara"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "tttruɛuem"
+    }
+  ],
+  "timestamp": "2026-10-02T21:29:14.562672689Z",
+  "model": "glm-5.3"
+}

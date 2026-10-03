@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 139,
+  "translation": "Wid i d-yemmeslayen fell-ak s teqrideft; ad ṭṭfen isem-ak ⟨s lhaya⟩, iṛekbelen-ik.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wid"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "i d-yemmeslayen fell-ak"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "s teqrideft"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ad ṭṭfen"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "s lhaya"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "iṛekbelen-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:14:07.474866123Z",
+  "model": "glm-5.3"
+}

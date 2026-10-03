@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Lxir i txedmeḍ akked umakdad-ik, Yahwe, akken deg wawal-ik.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lxir"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "i txedmeḍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umakdad-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "akken deg wawal-ik"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:54.672935295Z",
+  "model": "glm-5.3"
+}

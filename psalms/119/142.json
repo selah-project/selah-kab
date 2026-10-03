@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "translation": "Ṣedeq-ik d ṣedeq i lebda, ma d Tora-ik d tideț-taməṣṣilt.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Ṣedeq-ik"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ma d Tora-ik"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tideț-taməṣṣilt"
+    }
+  ],
+  "timestamp": "2026-10-03T02:10:46.072377620Z",
+  "model": "glm-5.3"
+}

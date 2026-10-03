@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "In ula d nekk, di tafeṭṭaft i nekk i Efrayim, d taxṣa i wexxam n Yehuda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "in ula d nekk"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "am tafeṭṭaft"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "i Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "am taxṣa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i wexxam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T01:15:25.177511442Z",
+  "model": "glm-5.3"
+}

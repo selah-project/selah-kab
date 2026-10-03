@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 87,
+  "translation": "Anida Tsiyun, ad yennan: amdan, yal amdan, ilul-ed deg-s; Ɛelyun s yiman-is ad yested fell-as.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "anida Tsiyun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ad yennan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "yal amdan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ilul-ed"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "s yiman-is"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ad yested fell-as"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɛelyun"
+    }
+  ],
+  "timestamp": "2026-10-03T02:00:45.164325889Z",
+  "model": "glm-5.3"
+}
