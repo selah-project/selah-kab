@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "kab",
   "chapter": 10,
-  "translation": "Iwakken ad tferṛem gar wayen yeqdan (קדוש) d wayen n tidet, gar win iḥerṛen d wayen izegrin.",
+  "translation": "Iwakken ad tefruḍ gar wayen iqedcen d wayen n lḥol, d gar win araḥmen d win iesḥen;",
   "tokens": [
     {
       "surface": "ולהבדיל",
-      "gloss": "iwakken ad tferṛem"
+      "gloss": "iwakken ad tefruḍ"
     },
     {
       "surface": "בין",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "wayen yeqdan"
+      "gloss": "wayen iqedcen"
     },
     {
       "surface": "ובין",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "החל",
-      "gloss": "wayen n tidet"
+      "gloss": "wayen n lḥol"
     },
     {
       "surface": "ובין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הטמא",
-      "gloss": "win iḥerṛen"
+      "gloss": "win araḥmen"
     },
     {
       "surface": "ובין",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "הטהור",
-      "gloss": "wayen izegrin"
+      "gloss": "win iesḥen"
     }
   ],
-  "timestamp": "2026-10-02T21:05:55.436812595Z",
+  "timestamp": "2026-10-03T05:05:05.870159822Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 49,
+  "translation": "Din ṣṣefḍen ⟨את⟩ Avraham akked ⟨את⟩ Sara tamettut-is; din ṣṣefḍen ⟨את⟩ Yiṣḥaq akked ⟨את⟩ Ribqa tamettut-is; din i ṣṣefdeɣ ⟨את⟩ Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ṣṣefḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tamettut-is"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ṣṣefḍen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Ribqa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribqa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tamettut-is"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "din"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "i ṣṣefdeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-10-03T05:04:34.616446286Z",
+  "model": "glm-5.3"
+}

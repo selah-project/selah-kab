@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 5:29",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Yessuma-d ⟨את⟩ isem-is Noaḥ, ad yini: Wagi a d-yettnuṛẓeɣ ɣef wayen nxeddem d ẓẓeh ɣef yifassen-nneɣ, seg tmurt i yeɣlin Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessuma-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isem-is"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "ינחמנו",
+      "gloss": "a d-yettnuṛẓeɣ"
+    },
+    {
+      "surface": "ממעשנו",
+      "gloss": "ɣef wayen nxeddem"
+    },
+    {
+      "surface": "ומעצבון",
+      "gloss": "d ẓẓeh"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ɣef yifassen-nneɣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אררה",
+      "gloss": "i yeɣlin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:05:02.790049852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Amḥbu agi isawel, Yahwe issel-as, yessellek-it seg meṛṛa iɣiḍanen-is.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "amḥbu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "isawel"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "issel-as"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "seg meṛṛa"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "iɣiḍanen-is"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "yessellek-it"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:34.036526670Z",
+  "model": "glm-5.3"
+}

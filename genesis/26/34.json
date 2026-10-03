@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kab",
   "chapter": 26,
-  "translation": "Esav yella d mmi-s n ṛebɛin n yiseggasen, yewwi-d tameṭṭut: 〈את〉 Yehudit yelli-t n Beɛeri aḥeti, akked 〈את〉 Bosemat yelli-t n Elon aḥeti.",
+  "translation": "Yella-d Yiḥmaḥeq uɛeqqel: Yiḥmaḥeq, mmi-s n Yiṣḥaq, i yefkan tama-s i tamettut, i semmant Yisrael.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "yella"
+      "gloss": "yella-d"
     },
     {
       "surface": "עשו",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "בן",
-      "gloss": "mmi-s n"
+      "gloss": "mmi-s"
     },
     {
       "surface": "ארבעים",
-      "gloss": "ṛebɛin"
+      "gloss": "mgrad"
     },
     {
       "surface": "שנה",
-      "gloss": "n yiseggasen"
+      "gloss": "iseggasen"
     },
     {
       "surface": "ויקח",
-      "gloss": "yewwi-d"
+      "gloss": "yewwi d"
     },
     {
       "surface": "אשה",
-      "gloss": "tameṭṭut"
+      "gloss": "tamettut"
     },
     {
       "surface": "את",
-      "gloss": "〈את〉",
+      "gloss": "⟨את⟩",
       "marks": "Yehudit"
     },
     {
@@ -46,11 +46,11 @@
     },
     {
       "surface": "בת",
-      "gloss": "yelli-t n"
+      "gloss": "elli-s"
     },
     {
       "surface": "בארי",
-      "gloss": "Beɛeri"
+      "gloss": "Beɛri"
     },
     {
       "surface": "החתי",
@@ -58,16 +58,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "akked 〈את〉",
-      "marks": "Bosemat"
+      "gloss": "d ⟨את⟩",
+      "marks": "Bacmat"
     },
     {
       "surface": "בשמת",
-      "gloss": "Bosemat"
+      "gloss": "Bacmat"
     },
     {
       "surface": "בת",
-      "gloss": "yelli-t n"
+      "gloss": "elli-s"
     },
     {
       "surface": "אילן",
@@ -78,6 +78,6 @@
       "gloss": "aḥeti"
     }
   ],
-  "timestamp": "2026-10-02T20:20:06.688236939Z",
+  "timestamp": "2026-10-03T05:05:37.883839577Z",
   "model": "glm-5.3"
 }

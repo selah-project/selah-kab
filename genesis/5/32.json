@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 5,
+  "translation": "Noaḥ yella d mmi-s n xemsa n temdin n yiseggasen, yenna-d Noaḥ ⟨את⟩ Sem, ⟨את⟩ Ḥam, d ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "xemsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temdin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaḥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥam"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ḥam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-10-03T05:05:02.790754259Z",
+  "model": "glm-5.3"
+}

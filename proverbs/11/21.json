@@ -5,8 +5,41 @@
   "book": "proverbs",
   "lang": "kab",
   "chapter": 11,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T02:20:04.062941629Z",
+  "translation": "Afus deg ufus, yir win ur yettwaḥellel ara; ma d azzerɛ n yiṣeddaqen yettwaselḥa.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "yettwaḥellel ara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yir win"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ma d azzerɛ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "n yiṣeddaqen"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "yettwaselḥa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:09:33.696773199Z",
   "model": "glm-5.3"
 }

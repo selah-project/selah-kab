@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "translation": "Wul iwewven ad inuɣ fell-i; ṛṛev, ur ẓriɣ ara.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "iwewven"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ad inuɣ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ṛṛev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ẓriɣ ara"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:28.565438835Z",
+  "model": "glm-5.3"
+}

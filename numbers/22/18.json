@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "kab",
   "chapter": 22,
-  "translation": "Bilɛam yejaweb akken ad yini i yiklan n Belaq: ma Belaq yefka-yi-d axxam-is aččar s lḍef d wureɣ, ur zmireɣ ara ad ɛeddiɣ ⟨את⟩ awal n Yahwe Elohim-iw, ad xedmeɣ tamecṭuḥt neɣ tameqṛant.",
+  "translation": "Bilɛam yejawab, yenna-d i yimdakken n Balaq: Ma yufa-d Balaq ad yi-d-yefk axxam-is aččur n wuḍeḥ d werḥas, ur zmireɣ ara ad ɛeddeɣ ⟨את⟩ awal n Yahwe, Elohim-iw, ad xedmeɣ tiṣubbist neɣ tameqṛant.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "yejaweb"
+      "gloss": "yejawab"
     },
     {
       "surface": "בלעם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "akken ad yini"
+      "gloss": "yenna-d"
     },
     {
       "surface": "אל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "iklan"
+      "gloss": "yimdakken"
     },
     {
       "surface": "בלק",
-      "gloss": "Belaq"
+      "gloss": "n Balaq"
     },
     {
       "surface": "אם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "yefka-yi-d"
+      "gloss": "ad yufa-d ad yi-d-yefk"
     },
     {
       "surface": "לי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "בלק",
-      "gloss": "Belaq"
+      "gloss": "Balaq"
     },
     {
       "surface": "מלא",
-      "gloss": "aččar"
+      "gloss": "aččur"
     },
     {
       "surface": "ביתו",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "כסף",
-      "gloss": "lḍef"
+      "gloss": "n wuḍeḥ"
     },
     {
       "surface": "וזהב",
-      "gloss": "d wureɣ"
+      "gloss": "d werḥas"
     },
     {
       "surface": "לא",
@@ -69,16 +69,16 @@
     },
     {
       "surface": "אוכל",
-      "gloss": "zmireɣ"
+      "gloss": "zmireɣ ara"
     },
     {
       "surface": "לעבר",
-      "gloss": "ad ɛeddiɣ"
+      "gloss": "ad ɛeddeɣ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "awal n Yahwe Elohim-iw"
+      "marks": "awal n Yahwe"
     },
     {
       "surface": "פי",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "קטנה",
-      "gloss": "tamecṭuḥt"
+      "gloss": "tiṣubbist"
     },
     {
       "surface": "או",
@@ -109,6 +109,6 @@
       "gloss": "tameqṛant"
     }
   ],
-  "timestamp": "2026-10-02T21:38:12.579776670Z",
+  "timestamp": "2026-10-03T05:05:29.141539370Z",
   "model": "glm-5.3"
 }

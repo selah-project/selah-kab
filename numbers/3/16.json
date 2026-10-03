@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "kab",
   "chapter": 3,
-  "translation": "Iceḍḍen-itent Musa ɣef lmendad n YHWH, akken i d-yettwakel.",
+  "translation": "Moce iḥseb-iten ⟨את⟩ ɣef iḍris n Yahwe, akken i d-yettunefk i wallal.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "Iceḍḍen"
+      "gloss": "iḥseb-iten"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "iten"
+      "gloss": "⟨את⟩",
+      "marks": "iten — at Lwiyim"
     },
     {
       "surface": "משה",
-      "gloss": "Musa"
+      "gloss": "Moce"
     },
     {
       "surface": "על",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "פי",
-      "gloss": "lmendad"
+      "gloss": "iḍris"
     },
     {
       "surface": "יהוה",
-      "gloss": "n YHWH"
+      "gloss": "Yahwe"
     },
     {
       "surface": "כאשר",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "צוה",
-      "gloss": "i d-yettwakel"
+      "gloss": "i d-yettunefk i wallal"
     }
   ],
-  "timestamp": "2026-10-02T21:22:45.465057816Z",
+  "timestamp": "2026-10-03T05:07:01.344169673Z",
   "model": "glm-5.3"
 }

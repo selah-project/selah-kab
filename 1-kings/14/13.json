@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "kab",
   "chapter": 14,
-  "translation": "Ad d-inun Yisrael meṛṛa ɣef Yiṛubbeɛm, ad ⟨את⟩ t-inin: d netta kan, seg yiḍes n Yiṛubbeɛm, ara yekcem ɣer lqebṛ. Acku ttwafan deg-s d lxiṛ i Yab, d Yab ay d Yiḍes n Yisrael, deg wexxam n Yiṛubbeɛm.",
+  "translation": "Yisrael akk ad ssuɣen fell-as, ad t-ẓẓen deg lqebṛ, axaṭer netta weḥd-s seg uday n Yarobɛam ad yekcem ɣer lqebṛ, imi illa deg-s wawal igedlen ɣer Yahwe, Elohim n Yisrael, deg wexxam n Yarobɛam.",
   "tokens": [
     {
       "surface": "וספדו",
-      "gloss": "ad d-inun"
+      "gloss": "ad ssuɣen"
     },
     {
       "surface": "לו",
-      "gloss": "ɣef Yiṛubbeɛm"
+      "gloss": "fell-as"
     },
     {
       "surface": "כל",
-      "gloss": "meṛṛa"
+      "gloss": "akk"
     },
     {
       "surface": "ישראל",
@@ -25,31 +25,32 @@
     },
     {
       "surface": "וקברו",
-      "gloss": "ad t-inin"
+      "gloss": "ad t-ẓẓen"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ t"
+      "gloss": "⟨את⟩",
+      "marks": "netta"
     },
     {
       "surface": "כי",
-      "gloss": "acku"
+      "gloss": "axaṭer"
     },
     {
       "surface": "זה",
-      "gloss": "d netta"
+      "gloss": "netta"
     },
     {
       "surface": "לבדו",
-      "gloss": "kan"
+      "gloss": "weḥd-s"
     },
     {
       "surface": "יבא",
-      "gloss": "ara yekcem"
+      "gloss": "ad yekcem"
     },
     {
       "surface": "לירבעם",
-      "gloss": "seg yiḍes n Yiṛubbeɛm"
+      "gloss": "seg uday n Yarobɛam"
     },
     {
       "surface": "אל",
@@ -61,11 +62,11 @@
     },
     {
       "surface": "יען",
-      "gloss": "acku"
+      "gloss": "imi"
     },
     {
       "surface": "נמצא",
-      "gloss": "ttwafan"
+      "gloss": "illa"
     },
     {
       "surface": "בו",
@@ -73,27 +74,27 @@
     },
     {
       "surface": "דבר",
-      "gloss": "d"
+      "gloss": "wawal"
     },
     {
       "surface": "טוב",
-      "gloss": "lxiṛ"
+      "gloss": "igedlen"
     },
     {
       "surface": "אל",
-      "gloss": "i"
+      "gloss": "ɣer"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yab"
+      "gloss": "Yahwe"
     },
     {
       "surface": "אלהי",
-      "gloss": "d Yiḍes n"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "n Yisrael"
     },
     {
       "surface": "בבית",
@@ -101,9 +102,9 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yiṛubbeɛm"
+      "gloss": "n Yarobɛam"
     }
   ],
-  "timestamp": "2026-10-02T23:20:41.558220133Z",
+  "timestamp": "2026-10-03T05:07:26.626922391Z",
   "model": "glm-5.3"
 }

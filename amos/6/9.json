@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 6,
+  "translation": "Ad yili, ma ṭṭben ṭṭman deg yiwet n txexxamt, ad mmten.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "ma ṭṭben"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ṭṭman"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg txexxamt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ad mmten"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:41.969903152Z",
+  "model": "glm-5.3"
+}

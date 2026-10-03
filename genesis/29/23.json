@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kab",
   "chapter": 29,
-  "translation": "Deg tmeddit, yexṣer ⟨את⟩ Lea, yelli-s, yewwi-tt-id ⟨أנ → אתה⟩ ɣur-es, yekcem ɣur-sent.",
+  "translation": "Yella deg tmeddit, yewwi-d ⟨את⟩ Lea yelli-s, i d-yewwi ⟨ihi⟩ ɣer Yaɛqov, yekcem ɣur-s.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Deg tmeddit"
+      "gloss": "yella"
     },
     {
       "surface": "בערב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "yexṣer"
+      "gloss": "yewwi-d"
     },
     {
       "surface": "את",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "yewwi-tt-id"
+      "gloss": "i d-yewwi"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "tt (Lea)"
+      "marks": "Lea"
     },
     {
       "surface": "אליו",
-      "gloss": "ɣur-es"
+      "gloss": "ɣer Yaɛqov"
     },
     {
       "surface": "ויבא",
@@ -51,9 +51,9 @@
     },
     {
       "surface": "אליה",
-      "gloss": "ɣur-sent"
+      "gloss": "ɣur-s"
     }
   ],
-  "timestamp": "2026-10-02T20:22:13.898244466Z",
+  "timestamp": "2026-10-03T05:05:18.386111647Z",
   "model": "glm-5.3"
 }

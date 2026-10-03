@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "translation": "Yenna deg ul-is: El ittu, yefffer udem-is, ur ittwali ara ⟨ayen⟩ i lebda.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "deg ul-is"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ittu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "yefffer"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ittwali"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:27.187566468Z",
+  "model": "glm-5.3"
+}

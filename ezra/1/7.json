@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "kab",
   "chapter": 1,
-  "translation": "Agellid Korc yeccɣel-d <את> ttawel n uxxam n Yahwe i d-yessuffɣ Nevukadneṣṣar seg Yerucalayim, i deg i d-yessuli deg uxxam n yilaw-is.",
+  "translation": "Agellid Kurus d-yessuffɣa ⟨את⟩ ifeckan n wexxam n Yahwe, wid i d-yessuffɣen Nebukadneṣar seg Yerucalayim, deg wedeg n yiṛebbiten-is.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -13,24 +13,24 @@
     },
     {
       "surface": "כורש",
-      "gloss": "Korc"
+      "gloss": "Kurus"
     },
     {
       "surface": "הוציא",
-      "gloss": "yeccɣel-d"
+      "gloss": "yessuffɣa-d"
     },
     {
       "surface": "את",
-      "gloss": "<את>",
-      "marks": "ttawel n uxxam n Yahwe"
+      "gloss": "⟨את⟩",
+      "marks": "ifeckan"
     },
     {
       "surface": "כלי",
-      "gloss": "ttawel"
+      "gloss": "ifeckan"
     },
     {
       "surface": "בית",
-      "gloss": "n uxxam"
+      "gloss": "wexxam"
     },
     {
       "surface": "יהוה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "i d-"
+      "gloss": "wid"
     },
     {
       "surface": "הוציא",
-      "gloss": "yessuffɣ"
+      "gloss": "i d-yessuffɣen"
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nevukadneṣṣar"
+      "gloss": "Nebukadneṣar"
     },
     {
       "surface": "מירושלם",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "i d-yessuli"
+      "gloss": "yerra-ten deg"
     },
     {
       "surface": "בבית",
-      "gloss": "deg uxxam"
+      "gloss": "wexxam"
     },
     {
       "surface": "אלהיו",
-      "gloss": "n yilaw-is"
+      "gloss": "n yiṛebbiten-is"
     }
   ],
-  "timestamp": "2026-10-03T03:12:23.601478352Z",
+  "timestamp": "2026-10-03T05:09:03.422361790Z",
   "model": "glm-5.3"
 }

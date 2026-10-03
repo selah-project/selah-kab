@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Acku ur yekri ara ad yexdem ḥesed, iḍef amdan iḍeɛfen d win yesḥasren, akken ad yenɣ ⟨i⟩ win iṣeḥḥen wul.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aṭṭan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yekri"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ḥesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "iḍef"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "iḍeɛfen"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "win yesḥasren"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "win iṣeḥḥen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "akken ad yenɣ"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:43.139601783Z",
+  "model": "glm-5.3"
+}

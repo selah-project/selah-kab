@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 109,
+  "translation": "Ad llint ⟨i⟩-d zdat Yahwe i lebda, ad yessexsi ⟨i⟩ ussagi-nsen seg tmurt.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ad llint"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "i lebda"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ad yessexsi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "seg tmurt"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ussagi-nsen"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:43.139293618Z",
+  "model": "glm-5.3"
+}

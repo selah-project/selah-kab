@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 14,
+  "translation": "Acu kan, ad t-t-id-terrḍem ar Ceol, ar teɣzi n teftist n lexla.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Acu kan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ceol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ad t-t-id-terrḍem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ar teɣzi"
+    },
+    {
+      "surface": "בור",
+      "gloss": "n teftist n lexla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:05:45.767459820Z",
+  "model": "glm-5.3"
+}

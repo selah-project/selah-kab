@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 34,
+  "translation": "Melak n Yahwe yezdeɣ ɣef tama n wid yettagaden ⟨את⟩-is, yessellek-iten.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "melak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ɣef tama"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wid yettagaden ⟨את⟩-is"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "yessellek-iten"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:34.036858653Z",
+  "model": "glm-5.3"
+}

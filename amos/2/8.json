@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 2:8",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 2,
+  "translation": "Ɛla lebda i d-yettwaḥebsen, ṛṛuḥ-nsen yettwarẓan ɣer tama n yal meqber; tasirt n wid yettwazemnen tessemtayen deg wemkan n Elohim nnsen.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ɛla"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "lebda"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "i d-yettwaḥebsen"
+    },
+    {
+      "surface": "יטו",
+      "gloss": "ṛṛuḥ-nsen yettwarẓan"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ɣer tama n"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "meqber"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "tasirt"
+    },
+    {
+      "surface": "ענושים",
+      "gloss": "n wid yettwazemnen"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "tessemtayen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wemkan n"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim nnsen"
+    }
+  ],
+  "timestamp": "2026-10-03T05:06:21.111536139Z",
+  "model": "glm-5.3"
+}

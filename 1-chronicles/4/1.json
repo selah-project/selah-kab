@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "translation": "Arrac n Yehuda: Peres, Ḥeṣron, Karmi, Ḥur d Cubal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Arrac"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Ḥeṣron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "d Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "d Ḥur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "d Cubal"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:52.819663136Z",
+  "model": "glm-5.3"
+}

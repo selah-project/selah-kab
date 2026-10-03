@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "kab",
   "chapter": 24,
-  "translation": "Yenna: a Yahwe, Elohim n bab-iw Avraham, ssireg-iyi-aɣilif <אין>, ad twaliḍ deg wass-agi, ad txedmeḍ ḥesed akk d bab-iw Avraham.",
+  "translation": "Yenna: a Yahwe, Elohim n bab-iw Avraham, ad t-terr-d ⟨timlilet⟩ ɣuri ass-a, ad txedmeḍ ḥesed i bab-iw Avraham.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "yenna"
+      "gloss": "Yenna"
     },
     {
       "surface": "יהוה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "הקרה",
-      "gloss": "ssireg ad twaliḍ"
+      "gloss": "ad t-terr-d ⟨timlilet⟩"
     },
     {
       "surface": "נא",
-      "gloss": "aɣilif"
+      "gloss": "a"
     },
     {
       "surface": "לפני",
-      "gloss": "<يلا-ان>"
+      "gloss": "ɣuri"
     },
     {
       "surface": "היום",
-      "gloss": "deg wass-agi"
+      "gloss": "ass-a"
     },
     {
       "surface": "ועשה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "akk d"
+      "gloss": "i"
     },
     {
       "surface": "אדני",
@@ -64,6 +64,6 @@
       "gloss": "Avraham"
     }
   ],
-  "timestamp": "2026-10-03T03:58:41.374091016Z",
+  "timestamp": "2026-10-03T05:04:38.993533648Z",
   "model": "glm-5.3"
 }

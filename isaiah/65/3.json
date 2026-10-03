@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 65,
+  "translation": "Agdud ara iyi-ireẓẓen, ⟨את⟩ ɣer wudem-iw yal-ass, iqettɛen ⟨את⟩ yenγa deg lexla, ttseffeɛen ɣef lebricat.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "ara iyi-ireẓẓen"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "yi (nek)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudem-iw"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "yal-ass"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "iqettɛen"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "deg lexla"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ttseffeɛen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "lebricat"
+    }
+  ],
+  "timestamp": "2026-10-03T05:06:41.726630714Z",
+  "model": "glm-5.3"
+}

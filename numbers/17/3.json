@@ -5,53 +5,53 @@
   "book": "numbers",
   "lang": "kab",
   "chapter": 17,
-  "translation": "⟨את⟩ tiqersiwin n tmes-agi n wid iḥetmen s tkkirin-nsen (בנפשותם), ad ten-ṣeggren d ileffi n nnḥas, d asettu i umizbeḥ, axaṭer ttwaqnen ɣer zdat Yahwe u qecden; ad llin d azmul i warraw n Yisrael.",
+  "translation": "⟨את⟩ tiqenṭacin n tmes n wid-agi yednen s nnefs-nsen; ad ttwarent d iḥeddacen n ṛṛeḥba (riqquʿei paḥim) i yettwaḥetten i lmeẓṛab, axaṭer ttunefken-d deg zdat n Yahwe u qqiment iqedcen; ad llint d tazmilt i warraw n Yisrael.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiqersiwin n tmes-agi"
+      "marks": "tiqenṭacin n tmes"
     },
     {
       "surface": "מחתות",
-      "gloss": "tiqersiwin n tmes"
+      "gloss": "tiqenṭacin n tmes"
     },
     {
       "surface": "החטאים",
-      "gloss": "wid iḥetmen"
+      "gloss": "n wid yednen"
     },
     {
       "surface": "האלה",
-      "gloss": "-agi"
+      "gloss": "agi"
     },
     {
       "surface": "בנפשתם",
-      "gloss": "s tkkirin-nsen"
+      "gloss": "s nnefs-nsen"
     },
     {
       "surface": "ועשו",
-      "gloss": "ad ten-ṣeggren"
+      "gloss": "ad ttwarent"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ileffi n nnḥas"
+      "gloss": "⟨את⟩",
+      "marks": "iḥeddacen n ṛṛeḥba"
     },
     {
       "surface": "רקעי",
-      "gloss": "d ileffi"
+      "gloss": "iḥeddacen yettwaḥetten"
     },
     {
       "surface": "פחים",
-      "gloss": "n nnḥas"
+      "gloss": "n ṛṛeḥba"
     },
     {
       "surface": "צפוי",
-      "gloss": "d asettu"
+      "gloss": "yettwaḥetten"
     },
     {
       "surface": "למזבח",
-      "gloss": "i umizbeḥ"
+      "gloss": "i lmeẓṛab"
     },
     {
       "surface": "כי",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "הקריבם",
-      "gloss": "ttwaqnen"
+      "gloss": "ttunefken-d"
     },
     {
       "surface": "לפני",
-      "gloss": "ɣer zdat"
+      "gloss": "deg zdat"
     },
     {
       "surface": "יהוה",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "ויקדשו",
-      "gloss": "u qecden"
+      "gloss": "u qqiment iqedcen"
     },
     {
       "surface": "ויהיו",
-      "gloss": "ad llin"
+      "gloss": "ad llint"
     },
     {
       "surface": "לאות",
-      "gloss": "d azmul"
+      "gloss": "d tazmilt"
     },
     {
       "surface": "לבני",
@@ -90,6 +90,6 @@
       "gloss": "n Yisrael"
     }
   ],
-  "timestamp": "2026-10-02T21:34:48.813100152Z",
+  "timestamp": "2026-10-03T05:06:15.978664739Z",
   "model": "glm-5.3"
 }

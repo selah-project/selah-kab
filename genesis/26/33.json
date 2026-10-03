@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "kab",
   "chapter": 26,
-  "translation": "Yessuma-tt 〈את〉 Cibɛa; ɣef lɣebri ayen iɣum isem n temdint Beer-Cebɛa, arma d ass-a.",
+  "translation": "Yessuma-⟨את⟩ as isem Cibɛa; ɣef waya, isem n temdint mačči d wacu, d Beer-Ceba, arma d ass-a.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "yessuma-tt"
+      "gloss": "yessuma-as isem"
     },
     {
       "surface": "אתה",
-      "gloss": "〈את〉",
+      "gloss": "⟨את⟩ as",
       "marks": "Cibɛa"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "lɣebri"
+      "gloss": "waya"
     },
     {
       "surface": "שם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "Cebɛa"
+      "gloss": "Ceba"
     },
     {
       "surface": "עד",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "ass"
+      "gloss": "ass-a"
     },
     {
       "surface": "הזה",
-      "gloss": "-agi"
+      "gloss": "ass-a"
     }
   ],
-  "timestamp": "2026-10-02T20:20:06.687301547Z",
+  "timestamp": "2026-10-03T05:05:37.883530783Z",
   "model": "glm-5.3"
 }

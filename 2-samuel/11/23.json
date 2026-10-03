@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 11:23",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "translation": "Yenna ublaɣ i David: s tidet irgazen ṭṭfen-aɣ, dduren-d ɣer-neɣ deg ⟨t⟩aɣzut, nuɣal-d kan ɣef-sen arma d tanekkift n tawwurt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ublaɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "s tidet"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ṭṭfen-aɣ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dduren-d"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "deg taɣzut"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "nuɣal-d"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣef-sen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tanekkift"
+    },
+    {
+      "surface": "השער",
+      "gloss": "n tawwurt"
+    }
+  ],
+  "timestamp": "2026-10-03T05:05:28.181851119Z",
+  "model": "glm-5.3"
+}

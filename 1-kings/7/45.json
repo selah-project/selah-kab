@@ -5,39 +5,39 @@
   "book": "1-kings",
   "lang": "kab",
   "chapter": 7,
-  "translation": "D ⟨את⟩ tiqor, d ⟨את⟩ ijeɛḍen, d ⟨את⟩ iseflaqen, d ⟨את⟩ akk ifeckauen n <taḥanut> i d-ig Musa Ḥiram i ugellid Culeman, deg wexxam n Yahwe; d nneḥec iṣeḥ.",
+  "translation": "⟨את⟩ tiqettɛin, ⟨את⟩ ttewlaɣ, ⟨את⟩ izenzuren, akked ⟨את⟩ akk yifecklen widna i d-ixelḍen Ḥiram i ugellid Shelomo, i beṭṭel n Yahwe — n nneḥect immuṛṛet.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "d ⟨את⟩",
-      "marks": "tiqor"
+      "gloss": "⟨את⟩",
+      "marks": "tiqettɛin"
     },
     {
       "surface": "הסירות",
-      "gloss": "tiqor"
+      "gloss": "tiqettɛin"
     },
     {
       "surface": "ואת",
-      "gloss": "d ⟨את⟩",
-      "marks": "ijeɛḍen"
+      "gloss": "⟨את⟩",
+      "marks": "ttewlaɣ"
     },
     {
       "surface": "היעים",
-      "gloss": "ijeɛḍen"
+      "gloss": "ttewlaɣ"
     },
     {
       "surface": "ואת",
-      "gloss": "d ⟨את⟩",
-      "marks": "iseflaqen"
+      "gloss": "⟨את⟩",
+      "marks": "izenzuren"
     },
     {
       "surface": "המזרקות",
-      "gloss": "iseflaqen"
+      "gloss": "izenzuren"
     },
     {
       "surface": "ואת",
-      "gloss": "d ⟨את⟩",
-      "marks": "akk ifeckauen"
+      "gloss": "⟨את⟩",
+      "marks": "akk yifecklen"
     },
     {
       "surface": "כל",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "ifeccauen"
+      "gloss": "yifecklen"
     },
     {
       "surface": "האהל",
-      "gloss": "taḥanut"
+      "gloss": "widna"
     },
     {
       "surface": "אשר",
-      "gloss": "i d-ig"
+      "gloss": "i"
     },
     {
       "surface": "עשה",
-      "gloss": "iga"
+      "gloss": "i d-ixelḍen"
     },
     {
       "surface": "חירם",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Culeman"
+      "gloss": "Shelomo"
     },
     {
       "surface": "בית",
-      "gloss": "deg wexxam"
+      "gloss": "beṭṭel"
     },
     {
       "surface": "יהוה",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "nneḥec"
+      "gloss": "nneḥect"
     },
     {
       "surface": "ממרט",
-      "gloss": "iṣeḥ"
+      "gloss": "immuṛṛet"
     }
   ],
-  "timestamp": "2026-10-02T23:12:51.420502868Z",
+  "timestamp": "2026-10-03T05:06:56.429967849Z",
   "model": "glm-5.3"
 }

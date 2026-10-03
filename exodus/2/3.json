@@ -5,8 +5,90 @@
   "book": "exodus",
   "lang": "kab",
   "chapter": 2,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-02T20:36:47.160803613Z",
+  "translation": "Maca mi ur tezmir ara ad t-teffer ugar, tewwi-as tanaka n wagu, teḥmeṛ-t s lexḥmeṛ d zzift, terna deg-s ⟨את⟩ aɛruḍ, terna-t gar yimeslan, ɣef ijif n wasif.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "tezmir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "ad t-teffer"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "tewwi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "tanaka"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "wagu"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "teḥmeṛ-t"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "s lexḥmeṛ"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "d zzift"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "terna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aɛruḍ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "aɛruḍ"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "terna-t"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "gar yimeslan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ijif"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "wasif"
+    }
+  ],
+  "timestamp": "2026-10-03T05:10:02.626650158Z",
   "model": "glm-5.3"
 }

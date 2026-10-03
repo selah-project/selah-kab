@@ -5,39 +5,39 @@
   "book": "ezekiel",
   "lang": "kab",
   "chapter": 33,
-  "translation": "Ad d-unɣen ɣer kečč am unekcum n lǧeעs, ad ɣlin sdat ik lǧeעs-iw, ad slan ⟨את⟩ wawalen-ik, maca ⟨את⟩ ur xdin ara; axaṭer awalen n tayri i ḥemmlen s imi-nsen nutni, wul-nsen yetteddu deffir n lbaṭel n wayla.",
+  "translation": "Ad kecmen ɣur-k akken yekcem ugdud, ad ruḥen ad ḥekmen ar zdat-ik d agdud-iw, ad slen ⟨את⟩ wawalen-ik, ma d ⟨את⟩ wid-nni ur ten d-ssgen ara; axaṭer tiḥmulin s imi-nsen i ttgarran, wul-nsen iteddu deffir lɣerma-nsen.",
   "tokens": [
     {
       "surface": "ויבואו",
-      "gloss": "ad d-unɣen"
+      "gloss": "ad kecmen"
     },
     {
       "surface": "אליך",
-      "gloss": "ɣer kečč"
+      "gloss": "ɣur-k"
     },
     {
       "surface": "כמבוא",
-      "gloss": "am unekcum n"
+      "gloss": "akken yekcem"
     },
     {
       "surface": "עם",
-      "gloss": "lǧeעs"
+      "gloss": "ugdud"
     },
     {
       "surface": "וישבו",
-      "gloss": "ad ɣlin"
+      "gloss": "ad ruḥen ad ḥekmen"
     },
     {
       "surface": "לפניך",
-      "gloss": "sdat ik"
+      "gloss": "ar zdat-ik"
     },
     {
       "surface": "עמי",
-      "gloss": "lǧeעs-iw"
+      "gloss": "agdud-iw"
     },
     {
       "surface": "ושמעו",
-      "gloss": "ad slan"
+      "gloss": "ad slen"
     },
     {
       "surface": "את",
@@ -50,7 +50,8 @@
     },
     {
       "surface": "ואותם",
-      "gloss": "maca ⟨את⟩ ten"
+      "gloss": "ma d ⟨את⟩ wid-nni",
+      "marks": "ur ten d-ssgen ara"
     },
     {
       "surface": "לא",
@@ -58,7 +59,7 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "xdin ara"
+      "gloss": "ten d-ssgen ara"
     },
     {
       "surface": "כי",
@@ -66,7 +67,7 @@
     },
     {
       "surface": "עגבים",
-      "gloss": "awalen n tayri"
+      "gloss": "tiḥmulin"
     },
     {
       "surface": "בפיהם",
@@ -74,19 +75,19 @@
     },
     {
       "surface": "המה",
-      "gloss": "nutni"
+      "gloss": "i ttgarran"
     },
     {
       "surface": "עשים",
-      "gloss": "i ḥemmlen"
+      "gloss": "ttgarran"
     },
     {
       "surface": "אחרי",
-      "gloss": "deffir n"
+      "gloss": "deffir"
     },
     {
       "surface": "בצעם",
-      "gloss": "lbaṭel n wayla-nsen"
+      "gloss": "lɣerma-nsen"
     },
     {
       "surface": "לבם",
@@ -94,9 +95,9 @@
     },
     {
       "surface": "הלך",
-      "gloss": "yetteddu"
+      "gloss": "iteddu"
     }
   ],
-  "timestamp": "2026-10-03T00:59:33.605454787Z",
+  "timestamp": "2026-10-03T05:07:19.287273533Z",
   "model": "glm-5.3"
 }

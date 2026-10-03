@@ -5,8 +5,37 @@
   "book": "2-chronicles",
   "lang": "kab",
   "chapter": 35,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T03:56:10.417014596Z",
+  "translation": "Tid yettqimen n wawalen n Yewciya, d leḥsawen-is, akken tella tira deg Tora n Yahwe,",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "tid yettqimen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "n wawalen"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "n Yewciya"
+    },
+    {
+      "surface": "וחסדיו",
+      "gloss": "d leḥsawen-is"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "akken tella tira"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "deg Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:09:31.403278489Z",
   "model": "glm-5.3"
 }

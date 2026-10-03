@@ -5,35 +5,35 @@
   "book": "ezra",
   "lang": "kab",
   "chapter": 1,
-  "translation": "Yekkaten udif iqeṛṛen n Yihuda d Binyamin, d yikohanim d yileviyim — yal win i d-iiḥeqqeq <את> Elohi i ruḥ-is, ad yali ad yebnu <את> axxam n Yahwe win yellan di Yerucalayim.",
+  "translation": "Nnuɣlen yeḥran iqeṛṣen n yimawlan n Yehuda d Binjamin, akked yikohanim d yileviyen, yal win i d-yewwjen Elohim ⟨את⟩ ruaḥ-is, ad yuli ad yebnu ⟨את⟩ axxam n Yahwe, win yellan deg Yerucalayim.",
   "tokens": [
     {
       "surface": "ויקומו",
-      "gloss": "yekkaten udif"
+      "gloss": "nnuɣlen"
     },
     {
       "surface": "ראשי",
-      "gloss": "iqeṛṛen"
+      "gloss": "iqeṛṣen"
     },
     {
       "surface": "האבות",
-      "gloss": "n yiqbucen"
+      "gloss": "n yimawlan"
     },
     {
       "surface": "ליהודה",
-      "gloss": "n Yihuda"
+      "gloss": "n Yehuda"
     },
     {
       "surface": "ובנימן",
-      "gloss": "d Binyamin"
+      "gloss": "d Binjamin"
     },
     {
       "surface": "והכהנים",
-      "gloss": "d yikohanim"
+      "gloss": "akked yikohanim"
     },
     {
       "surface": "והלוים",
-      "gloss": "d yileviyim"
+      "gloss": "d yileviyen"
     },
     {
       "surface": "לכל",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "העיר",
-      "gloss": "i d-iiḥeqqeq"
+      "gloss": "i d-yewwjen"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohi"
+      "gloss": "Elohim"
     },
     {
       "surface": "את",
-      "gloss": "<את>",
-      "marks": "ruḥ-is"
+      "gloss": "⟨את⟩",
+      "marks": "ruaḥ-is"
     },
     {
       "surface": "רוחו",
-      "gloss": "ruḥ-is"
+      "gloss": "ruaḥ-is"
     },
     {
       "surface": "לעלות",
-      "gloss": "ad yali"
+      "gloss": "ad yuli"
     },
     {
       "surface": "לבנות",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "את",
-      "gloss": "<את>",
+      "gloss": "⟨את⟩",
       "marks": "axxam n Yahwe"
     },
     {
@@ -79,13 +79,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "win yellan"
+      "gloss": "win"
     },
     {
       "surface": "בירושלם",
-      "gloss": "di Yerucalayim"
+      "gloss": "deg Yerucalayim"
     }
   ],
-  "timestamp": "2026-10-03T03:12:23.601029166Z",
+  "timestamp": "2026-10-03T05:09:12.045271832Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "translation": "Ur rriɣ ara ssuḍ sḥersaḥ ara d awal n Beliyaɛal; ayen xedmen wid iţuzeyzen, krekɣ-t; ad yeḥmaṛ ɣur-i.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ad rriɣ sḥersaḥ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "zzat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "tiṭṭ-iw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyaɛal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayen xedmen"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "wid iţuzeyzen"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "krekɣ-t"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "ad yeḥmaṛ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-03T05:08:28.565080380Z",
+  "model": "glm-5.3"
+}
