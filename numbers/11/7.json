@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "timmeggtin",
+      "rationale": "עין 'titti' i d-yettwaseqdec d 'timeɣri\/timmeggtin' — deg taɛbranit 'titti', talɣa tamhazart"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בדלח",
+      "rationale": "abedlaḥ — awal ayen yellan kan sin n tikkal deg Tanakh (da d Tazwara 2:12), mačči d awal n teqbaylit"
+    },
+    {
+      "kind": "crux",
+      "subject": "גד",
+      "rationale": "zzerɛ n (גד): kra n yimsuqelen qqaṛen 'coriander', wayed 'bdellium-plant' iḥercen — zzerɛ n useklu n bedlaḥ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "l-man",
+      "rationale": "maḍen i d-yettwaxelsen seg 'man hu?' (Acu-t?) — yettwaseqdec yisem seg tuqqna n Yisrael, acu yella wezru-nni"
+    }
+  ],
+  "translation": "Maḍen, l-man d amdan am zzerɛ n (גד) i d-ibanen, timmeggtin-is d timmeggtin n ubedlaḥ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4e78f60e48b8e381e3d8cba2f96cc854ec2c9c4ddca5f7983884753eb9fdd19d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/11\/7-7.1791272397627.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Maḍen, l-man"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "am zzerɛ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "n (גד) i d-ibanen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d amdan"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "timmeggtin-is"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "d timmeggtin n"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ubedlaḥ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:57.628451181Z",
+  "model": "glm-5.3"
+}

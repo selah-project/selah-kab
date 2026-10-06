@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויתילדו",
+      "rationale": "la ḥitpael n yila-d deg umaḍnu n 'd-yettwakkes-d tul”, tettwaf s 'qquecen-d d isnifaren-nsen'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "'deg tiqerṛin-nsen' — n tikwal 's yiwen s yiwen', tettwaf s 'yiwen s yiwen'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "asefḍu",
+      "rationale": "D aḍris n usefḍu: tiri deg yismawen, tiri n waddaden seg ɛecrin n yiseggasen d afellay"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתילדו",
+      "rationale": "KJV 'declared their pedigrees' maṣi 'd-yettwamezrayen'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "באחד לחדש השני",
+      "rationale": "'ass amenzu n wayyur wis sin' — deg tebraniyt ula d awal 'ass'"
+    }
+  ],
+  "translation": "Sseqjan ⟨את⟩ tamezdagt akk deg wass amenzu n wayyur wis sin, qquecen-d d isnifaren-nsen s twacult, s wexxam n yibabaten-nsen, deg umḍan n yismawen, seg win i yugaren ɛecrin n yiseggasen, ɣef yiwen s yiwen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "eb7a34ef5edc309198b11d4e5e646ff75b1524d389f904058ca09f81274e704f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/1\/18-18.1791272409291.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וװאֵ֨ת",
+      "gloss": "⟨את⟩",
+      "marks": "tamezdagt akk"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הָעֵדָ֜ה",
+      "gloss": "tamezdagt"
+    },
+    {
+      "surface": "הִקְהִ֗ילוּ",
+      "gloss": "sseqjan"
+    },
+    {
+      "surface": "בְּאֶחָד֙",
+      "gloss": "deg wass amenzu"
+    },
+    {
+      "surface": "לַחֹ֣דֶשׁ",
+      "gloss": "n wayyur"
+    },
+    {
+      "surface": "הַשֵּׁנִ֔י",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "וװיװתְיװלְד֥וּ",
+      "gloss": "qquecen-d d isnifaren-nsen"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "s"
+    },
+    {
+      "surface": "מִשְׁפְּחֹתָ֖ם",
+      "gloss": "twacult"
+    },
+    {
+      "surface": "לְבֵ֣ית",
+      "gloss": "s wexxam"
+    },
+    {
+      "surface": "אֲבֹתָ֑ם",
+      "gloss": "n yibabaten-nsen"
+    },
+    {
+      "surface": "בְּמִסְפַּ֣ר",
+      "gloss": "deg umḍan"
+    },
+    {
+      "surface": "שֵׁמ֗וֹת",
+      "gloss": "n yismawen"
+    },
+    {
+      "surface": "מִבֶּ֨ן",
+      "gloss": "seg win"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "i yugaren ɛecrin"
+    },
+    {
+      "surface": "שָׁנָ֛ה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "וָמַ֖עְלָה",
+      "gloss": ""
+    },
+    {
+      "surface": "לְגֻלְגְּלֹתָֽם",
+      "gloss": "ɣef yiwen s yiwen"
+    }
+  ],
+  "timestamp": "2026-10-06T07:40:09.293318559Z",
+  "model": "glm-5.3"
+}

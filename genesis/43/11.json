@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 43:11",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minḥa",
+      "rationale": "מנחה here is a gift to a man, not a cultic offering — kept as minḥa, not a 'tikci' per the discipline doc"
+    },
+    {
+      "kind": "hapax",
+      "subject": "neqoṭ (נכאת)",
+      "rationale": "נכאת appears only here in the Tanakh; rendered as aromatic gum, identity (styrax?) uncertain"
+    },
+    {
+      "kind": "hapax",
+      "subject": "laṭ (לט)",
+      "rationale": "לט appears only here; probably ladanum, a gum resin"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזמרת",
+      "rationale": "lit. 'song\/pruning-fruit of the land': KJV 'best fruits', YLT 'praised thing'; rendered 'yif' (choice)"
+    }
+  ],
+  "translation": "Yisrael, bab-nsen, yenna-yas-d: Ma yella akka, tura, ṣeggmet-agi: eẓẓet seg yif n lqaɛa deg yiɣil-awen, ssiḥnet-as i wemdan minḥa: drus n ṣri, d drus n dbeḥ, neqoṭ d laṭ, ibewṭen d iweqqimen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3986341cb252404e55746b8f2dd9d7ae12a7be40acb55b92a5b38960d68974b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/43\/11-11.1791272408305.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas-d"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "i ",
+      "": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bab-nsen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ṣeggmet"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "eẓẓet"
+    },
+    {
+      "surface": "מזמרת",
+      "gloss": "yif"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lqaɛa"
+    },
+    {
+      "surface": "בכליכם",
+      "gloss": "deg yiɣil-awen"
+    },
+    {
+      "surface": "והורידו",
+      "gloss": "ssiḥnet-as"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i wemdan"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "drus n"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ṣri"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "d drus n"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "dbeḥ"
+    },
+    {
+      "surface": "נכאת",
+      "gloss": "neqoṭ"
+    },
+    {
+      "surface": "ולט",
+      "gloss": "laṭ"
+    },
+    {
+      "surface": "בטנים",
+      "gloss": "ibewṭen"
+    },
+    {
+      "surface": "ושקדים",
+      "gloss": "iweqqimen"
+    }
+  ],
+  "timestamp": "2026-10-06T07:40:08.309106231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aneggafa",
+      "rationale": "רעי d 'win yettḥebbin ɣef iguferen' — aneggafa (bu iguferen) d taqbaylit i win iḥekmen iguferen"
+    },
+    {
+      "kind": "crux",
+      "subject": "Azmul n David",
+      "rationale": "ל can mean 'i David' (author) or 'i David' (dedication); 'n' chosen"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taqbaylit tesra tiferkit 'd' i tfelwit n usentel, taɛbranit ur ɣur-s ara"
+    },
+    {
+      "kind": "you",
+      "subject": "aneggafa-nneɣ",
+      "rationale": "asyifu amezwaru d iman-is; '-nneɣ' yettcudd ɣer yimeɣri"
+    }
+  ],
+  "translation": "Azmul n David. Yahwe d aneggafa-nneɣ; ur nettawi acemma.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d483f75f48373202a03f9b60458dbf786a8ed99c18177c70b05688d325ecfd31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/23\/1-1.1791272395561.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Azmul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "d aneggafa-nneɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "nettawi acemma"
+    }
+  ],
+  "timestamp": "2026-10-06T07:39:55.562282999Z",
+  "model": "glm-5.3"
+}

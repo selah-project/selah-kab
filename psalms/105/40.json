@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iɣumyen",
+      "rationale": "שלו d yiwen n wegḍiṭ (aḥeddad) meqqren maṭa; kabyle ur ɛiṭṭil ara awal-is uslig, iɣumyen d ameɣtu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ucečču",
+      "rationale": "לחם d aɣrum\/ucečču; yerna deg uḍris-agi d aɣrum n igenwan, ihi maci d aɣrum amagnu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאל\/ישביעם",
+      "rationale": "tuttra (ssutren) d tiririt taččart (isɛedda) — timseɛreqt n leḥsab: ssutren, i sen-d-yefka lkif"
+    }
+  ],
+  "translation": "Ssutren, i d-yewwi ⟨iɣumyen⟩; s ucečču n igenwan i ten-isɛedda.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7410f59789cc13972243c7d63f4a85635eed31a3ec75caba3ab1383230618770",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/105\/40-40.1791272456658.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Ssutren"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "iɣumyen"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "s ucečču"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "n igenwan"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "i ten-isɛedda"
+    }
+  ],
+  "timestamp": "2026-10-06T07:40:56.659374191Z",
+  "model": "glm-5.3"
+}

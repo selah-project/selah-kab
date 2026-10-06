@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "telwit",
+      "rationale": "Calom (שלום) yugar talwit: d timmalelt, d talwit, d lɛafya; yerna awal-a yiwen ur izmir ara ad ifek akk inumak-is"
+    },
+    {
+      "kind": "crux",
+      "subject": "mḥolal",
+      "rationale": "meḥolal: 'yettwajedɛer' (ḍeffir-neɣ) neɣ 'yettwaḥercem \/ yettwakred'; yerna anamek-agi yettwaḥettem ɣef lmuqeddem n Maciaḥ"
+    },
+    {
+      "kind": "addition",
+      "subject": "illa",
+      "rationale": "Taɛbranit ur tesɛi ara afux 'yella' deg nnideg-a; yettwarna iwakken ad yili d taɣeṛiṣṭ n umeslugen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "meḥukkar \/ ḥavonot",
+      "rationale": "Sin n yismawen yettemcabin n taɣerṣiṭṭa (meḥolal\/meḍukkar, peceʕenu\/ʿavonotenu) i d-yettmeslayen deg uḍris; taɛejjeb-agi ur tettwazmir ara deg tsuqilt"
+    }
+  ],
+  "translation": "Yerna netta yettwaḥercem ɣef trezɣa-nneɣ, yettwaggez ɣef tucḍiwin-nneɣ; asteɛriḍ n telwit-nneɣ illa fell-as, d ⟨lweḥǧa⟩ n lbeṭṭa-nneɣ i neḥla.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "550cb5d6fad917731acd6d4fb63a01b889a1f40339922e2d04183580261db709",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/53\/5-5.1791272406129.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Yerna netta"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "yettwaḥercem"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "ɣef trezɣa-nneɣ"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "yettwaggez"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "ɣef tucḍiwin-nneɣ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "asteɛriḍ"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "n telwit-nneɣ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "illa fell-as"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "d ⟨lweḥǧa⟩ n lbeṭṭa-nneɣ"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "neḥla"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:40:06.130888831Z",
+  "model": "glm-5.3"
+}

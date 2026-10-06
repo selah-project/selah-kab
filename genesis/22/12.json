@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 22:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taɛbranit ur tesɛi ara n copula i tefrart n 'kecc d win iɣran'"
+    },
+    {
+      "kind": "crux",
+      "subject": "wis-suf yellan maḍi",
+      "rationale": "יחידך: 'wis-suf yellan' (lmeẓla) ɣef 'win ittwanuman' n tusutin timaynutin; taqbaylit teḥrez talɣa n uḍris"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tggiḍ",
+      "rationale": "חשכת d asweḥli (restrain); 'tggiḍ' (refuse\/ur txeddem ara) d yiwet n tmuɣli n unamek-agi"
+    },
+    {
+      "kind": "you",
+      "subject": "i Avraham",
+      "rationale": "Melmal n lmalay n Yahwe yettmeslay-d sersum i Avraham, s tḥerci d usdeddi"
+    }
+  ],
+  "translation": "Yenna: ur tazneḍ ara afus-ik ɣef wemẓi, ur txeddem-as ara acemma; acku tura ẓriɣ belli kecc ⟨d⟩ win iɣran Elohim, ur tggiḍ ara ⟨את⟩ mmi-k, ⟨את⟩ wis-suf yellan maḍi, seg Nek.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7730ff54a712f58eb200ea92f34b9e3b15b2ca9c10456155502e353848aad90a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/22\/12-12.1791272410292.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "tazneḍ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wemẓi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "txeddem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "acemma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ẓriɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "win iɣran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "tggiḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-k"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mmi-k"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wis-suf yellan maḍi"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "wis-suf yellan maḍi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "seg Nek"
+    }
+  ],
+  "timestamp": "2026-10-06T07:40:10.294130245Z",
+  "model": "glm-5.3"
+}

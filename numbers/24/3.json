@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שתם",
+      "rationale": "Root štm: 'unveiled\/opened' (KJV, JPS 'open') vs 'shut\/closed' (ASV, YLT, Geneva); context of v.4 and v.15-16 favors 'open', chosen here"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tameslayt",
+      "rationale": "משל is a pithy模拟 oracle-saying, not ordinary speech; tameslayt approximates 'discourse\/parable'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tiṭin-is",
+      "rationale": "Hebrew העין is singular 'the eye'; kab requires the plural tiṭin with possessive, and שתם takes a possessive subject not present in Hebrew"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאם...ונאם",
+      "rationale": "Doubled oracle-formula frames the introduction, a parallelism repetition kept by d awal n...awal n"
+    }
+  ],
+  "translation": "Yedger tameslayt-is, yenna: awal n Bilɛam, mmi-s n Beor, d awal n wemdan i d-ldin ⟨tiṭin-is⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "906108e84ebc1421c4c633b7390751cbe92c711470e983d5a4c68af098653be8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/24\/3-3.1791272401046.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "yedger"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "tameslayt-is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "awal n"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilɛam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "d awal n"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "i d-ldin"
+    },
+    {
+      "surface": "העין",
+      "gloss": "tiṭin-is"
+    }
+  ],
+  "timestamp": "2026-10-06T07:40:01.048510975Z",
+  "model": "glm-5.3"
+}
