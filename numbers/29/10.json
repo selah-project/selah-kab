@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשרון עשרון",
+      "rationale": "Tikci-s n tikci: yiwen yiɛesrun i yal yiwen seg yikerriyen; tigget n tnegzuma tettwagi deg tsuqilt."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sebaɛ n yikerriyen",
+      "rationale": "Amḍan d-yeqqimen: sebaɛ yikerriyen, yiwen yiɛesrun i yal yiwen."
+    }
+  ],
+  "translation": "yiɛesrun s yiɛesrun i yal ikerri, i sebaɛ n yikerriyen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8103c7a15495f92bf88f8ba5a333ef9355073a7549897e1ae3d6ef0f7e34c7b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/29\/9-12.1791267537479.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "yiɛesrun"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "s yiɛesrun"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "i yal ikerri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wi yiwet"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "i sebaɛ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "n yikerriyen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:57.485573032Z",
+  "model": "glm-5.3"
+}

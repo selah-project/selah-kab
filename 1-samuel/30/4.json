@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את הקול",
+      "rationale": "Ibnul n teqbaylit 'ssulin taɣmit' i trumt n wesɣen; taɛbranit tenna 'yuli ⟨את⟩ taɣmit-nsen'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ḥezan",
+      "rationale": "כח = taẓeyt, ṭqem; 'ḥezan' d tḥerci n tguri-agi n teqbaylit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבכו \/ לבכות",
+      "rationale": "Alliteration n uẓar בכה, i d-yettuɣalen snat n tikkal; taqbaylit teḍfer-d s ḍeggen\/uḍegguy."
+    }
+  ],
+  "translation": "David d yegdud ⟨את⟩-idan yellan yid-s, ssulin ⟨את⟩ taɣmit-nsen, ḍeggen, almi ulac ara ḥezan deg-sen i uḍegguy.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9b6ac7c254b1bcedcc5f59419a800f3aca4086fc9e39977ae82c0ecbeea7b889",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/30\/4-4.1791267619447.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ssulin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "d yegdud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-idan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣmit-nsen"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "taɣmit-nsen"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ḍeggen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ḥezan"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "i uḍegguy"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:19.450425443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 14:27",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרצים",
+      "rationale": "Asuffeɣ n uselkim-aẓaṛ n ḥaṛṛaṣen yettwaḥerzen, asuqilt-is d 'irezzuyen' — mačči d 'taɣamsa' neɣ 'lɛaser'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "teẓḍayt",
+      "rationale": "נחשת d aẓur n tẓḍayt neɣ n wassenv — asuqilt-is d aẓar-is, mačči d aẓur n werɣ"
+    }
+  ],
+  "translation": "Agellid Reḥabeɛam yexleq deg umkan-nsen isellagen n teẓḍayt, yessebded-itent deg yifassen n yimeqqranen n yirezzuyen, wid yettḥerren imsuy n wexxam n ugellid.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d8e84be2b70c5f60fbd4dc0f9c539fa160117e611a81513a2eccaef1ac7bb205",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/14\/26-28.1791267775011.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Reḥabeɛam"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "deg umkan-nsen"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "isellagen n"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "teẓḍayt"
+    },
+    {
+      "surface": "והפקיד",
+      "gloss": "yessebded-itent"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "יד",
+      "gloss": "yifassen n"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "yimeqqranen n"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "yirezzuyen"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "wid yettḥerren"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "imsuy n"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam n"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:55.013578983Z",
+  "model": "glm-5.3"
+}

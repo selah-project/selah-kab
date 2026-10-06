@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "האשה",
+      "rationale": "Imeṛṛuk-ed i wergaz-is seg yiwen n wawal: 'tawtemt' d 'tawtemt-aṭṭan', d acu i d-ṛṛan seg teqbaylit taqdimt."
+    },
+    {
+      "kind": "idiom",
+      "subject": "משני ילדיה",
+      "rationale": "Deg teɛbranit: 'sin n warrac-is'; 'i d-yellan' (arrac i d-yeffɣen seg-s) d tasuqilt-agi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומאישה",
+      "rationale": "Deg teqbaylit 'baba-nnes' i wergaz-is (cf. targuitt), mačči d ayen i d-yenna uḍris."
+    }
+  ],
+  "translation": "U sɛan mmuten ula d sin-aggi, Maḥlon d Kilyon; taɣelluyt (tettwakkes) iḥder umḍiq-nnes n sin yigerdan-is i d-yellan, d baba-nnes n wergaz-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "da04d6c8f11e1c89cab8c998506c9cc58f5fc685cf4ad243a71b9d4561ef927e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ruth\/1\/5-5.1791268152534.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "u sɛan mmuten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sin-aggi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maḥlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "d Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "iḥder umḍiq-nnes"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "taɣelluyt"
+    },
+    {
+      "surface": "משני",
+      "gloss": "n sin"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "yigerdan-is"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "d wergaz-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:12.535207005Z",
+  "model": "glm-5.3"
+}

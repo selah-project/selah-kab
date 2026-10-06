@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנחם",
+      "rationale": "Uḍris yenna-td s wass n tikkelt: ulac win i sen-yesseṛṛeḥen — d alliteration, tuzzya i d-yesbeggnen tuccḍa n win yettḥeqren."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשוקים \/ עושקיהם",
+      "rationale": "Ssin-d seg yiwen uẓar ʿšq — wid yettwaḥeqren akked wid ten-iḥeqren; tuzzya n uẓar tettwasseḥbes deg taqbaylit."
+    }
+  ],
+  "translation": "Nekk, tuɣaleɣ u walaɣ ⟨את⟩ akk lḥeqra i d-yellan ddaw yiṭij; walayni, imḍellel n wid yettwaḥeqren — ulac win i sen-yesseṛṛeḥen; tazmert tella deg ufus n wid ten-iḥeqren, ulac win i sen-yesseṛṛeḥen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a585e1fce072378e9ef9d4e9bfa57187182ac33c6496c10f7c1d5c16379550f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/4\/1-1.1791268254413.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "tuɣaleɣ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "u walaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk lḥeqra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "lḥeqra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "i d-yellan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "walayni"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "imḍellel"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "n wid yettwaḥeqren"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "win i sen-yesseṛṛeḥen"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "si ufus"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "n wid ten-iḥeqren"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ta zmert"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "win i sen-yesseṛṛeḥen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:54.418598390Z",
+  "model": "glm-5.3"
+}

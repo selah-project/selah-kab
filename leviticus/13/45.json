@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 13:45",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טמא טמא",
+      "rationale": "Tikci n wawal — ticcra sin n tikkal, tettwaseǧhed s usneming deg teqbaylit: D arak, d arak."
+    },
+    {
+      "kind": "crux",
+      "subject": "פרוע",
+      "rationale": "Isem-is yegda: 'iseggen ad ṣubbent' (JPS\/ASV) neɣ 'ixef d ilem' (KJV\/Geneva)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "unegguṛ",
+      "rationale": "הנגע d talɣa tamirant i wemdan d wayen yeḍran; unegguṛ yegguma talɣa-nni s wudem ameqran."
+    }
+  ],
+  "translation": "Win iṣruɛen, win deg-s yellan unegguṛ: ister-is ad kkrent d iceḍḍan, iseggen-is deg wixef ad ṣubbent, ad issewḥel taccemmt-is, ad isiwel: D arak, d arak.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f0bf189c170304d67022be438917a5b6b46098832d61a5ae63f0f35b8db7dafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/13\/45-45.1791267344102.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "win iṣruɛen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "unegguṛ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ister-is"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ad kkrent"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "d iceḍḍan"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "ixef-is"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "yeẓẓay"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "taccemmt"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ad issewḥel"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "d arak"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "d arak"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ad isiwel"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:44.104398549Z",
+  "model": "glm-5.3"
+}

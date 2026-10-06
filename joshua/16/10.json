@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויהי למס עבד",
+      "rationale": "Crux des traducteurs: « esclaves pour corvée » (KJV « serve under tribute »), « corvéables » (JPS « taskwork »), ou « tributaires-serviteurs » — l’hébreu lie les deux mots sans copule."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הורישו",
+      "rationale": "הורישו signifie déposséder\/chasser pour hériter; rendu par « ssuffuɣen » (faire sortir), sens exact mais forme causative perdue."
+    },
+    {
+      "kind": "hapax",
+      "subject": "למס",
+      "rationale": "למס apparaît seulement ici et en Jos 17:13 et Jug 1:28+; mot rare pour corvée\/tribut de travail forcé."
+    }
+  ],
+  "translation": "Ur ssuffuɣen ara ⟨את⟩ wekenaɛani, win izdeɣen deg Gezer; yezdeg wakenaɛani deg ul n Efrayim arma d wass-a, yuɣal d tawwuri iḍeṛṛfen — yettxeddem.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a4102191433a866542691818e5c38fcef3d25939f310b38932fe40a6f00d6c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/16\/10-10.1791267564499.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ur… ara"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ssuffuɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wekenaɛani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wekenaɛani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "win izdeɣen"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "deg Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yezdeg"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wakenaɛani"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg ul"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wass-a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tawwuri iḍeṛṛfen"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yettxeddem"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:24.500872021Z",
+  "model": "glm-5.3"
+}

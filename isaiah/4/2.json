@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Tsemacḥ",
+      "rationale": "ṣemaḥ: 'the-one-who-sprouts' — kab yella wisen ad t-id-suqelen d 'Maciaḥ', maca aḍris armani d 'afraw' kan; Zekaraya 3:8 yesɛa dayen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "cciḥ\/lɛizezz · limḍelleq\/tcidert",
+      "rationale": "Kraḍt n tmeẓla: sin n yiferdisen, yal wa s sin n yisufen — tasengama n tsiḥent ur teddi ara d taqbaylit."
+    }
+  ],
+  "translation": "Deg wass-nni, ad yili Tsemacḥ n Yahwe d cciḥ d lɛizezz, d ufraw n tmurt d limḍelleq d tcidert, i wid yenjanen seg Yisrael.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c530cd582be47883af7f1c50f760fde32f3f37b7bbc3a5b75cc8c206a84d84fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/4\/2-2.1791267732069.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Tsemacḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "d cciḥ"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "d lɛizezz"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "d ufraw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "d limḍelleq"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "d tcidert"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "i wid yenjanen seg"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:12.071877867Z",
+  "model": "glm-5.3"
+}

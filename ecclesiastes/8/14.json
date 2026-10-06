@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 8:14",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדיקים\/רשעים",
+      "rationale": "Chiasm: the just receive the deeds of the wicked, the wicked the deeds of the just — a mirror structure the translation keeps symmetrical."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מגיע",
+      "rationale": "נגע means 'to touch\/reach'; rendered as 'yettaweḍ' (it reaches\/befalls), the picture of contact kept as arrival."
+    }
+  ],
+  "translation": "Yella lbaṭil i yettwagan ɣef tmurt: llan wid n ṣedeq, ad tewweḍ fellasen ⟨am⟩ wayen i xedmen wid n dir; yerna llan wid n dir, ad tewweḍ fellasen ⟨am⟩ wayen i xedmen wid n ṣedeq. Nniɣ: ula d wagi d lbaṭil.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4aa0073368fa3053062fba7f16cb19e12377edc198d57d9ca0d38940b171ecf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/8\/14-15.1791268239938.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Yella"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "lbaṭil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "yettwagan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יש",
+      "gloss": "llan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wid n ṣedeq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "yettaweḍ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fellasen"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "am wayen i xedmen"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "wid n dir"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "yerna llan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wid n dir"
+    },
+    {
+      "surface": "שמגיע",
+      "gloss": "ad yettaweḍ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fellesen"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "am wayen i xedmen"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "wid n ṣedeq"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Nniɣ"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "lbaṭil"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:39.944281073Z",
+  "model": "glm-5.3"
+}

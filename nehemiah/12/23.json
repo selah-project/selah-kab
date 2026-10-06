@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 12:23",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uselkin",
+      "rationale": "ספר d asefru adisan; 'selkin' i d-ycuddan ɣer tirra n tnummirt n twacult"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tirra n yiwenniten",
+      "rationale": "aselkin-agi d aḥraz n teḥseblut: ismawen ttwarun, d tangalt n wussan"
+    }
+  ],
+  "translation": "Warraw n Levi, iqeṛṣen n yiderɣagen, ttwarun deg uselkin n yiwenniten n wussan, almi d wussan n Yuḥanan mmiss n Elyacib.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7f085b4e2c0edf0cabed1a475ae91ff19aac73613ac70af2dae9ff9390a750d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/nehemiah\/12\/23-23.1791268291794.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Warraw"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "n Levi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iqeṛṣen"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "n yiderɣagen"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ttwarun"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "uselkin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "n yiwenniten"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "n wussan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "almi d"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan n"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yuḥanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmiss n"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyacib"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:31.798310565Z",
+  "model": "glm-5.3"
+}

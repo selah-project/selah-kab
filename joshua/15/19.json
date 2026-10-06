@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 15:19",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiɣbula",
+      "rationale": "גולה d taɛbranit iwumi yuran taɣawsa tawraḥt — tiɣbula, timeẓriyin neɣ tiqebbayin — maca kan deg Tanakh d timeẓriyin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלת",
+      "rationale": "Musnawent meṛṛa tisyet n גולה (tikkelt 3 deg tseddart-agi) tettwakked d ufella\/ wadda — aṭas n tinakert yettwaḥerzen deg teqbaylit"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨daɣen⟩",
+      "rationale": "Wid t-id-yesbeggnen ayen i d-yenna yid-s ונתתה — deg teqbaylit awal-a ilaq"
+    },
+    {
+      "kind": "you",
+      "subject": "tibṛikt",
+      "rationale": "Aksa tettmeslay i Kalev baba-s s telqeyt n uεawed"
+    }
+  ],
+  "translation": "Tenna: efk-iyi tibṛikt; axaṭer akal n uneẓruf i t-id-efkiḍ, efk-iyi ⟨daɣen⟩ tiɣbula n waman. Yefk-as ⟨את⟩ tiɣbula n ufella d ⟨את⟩ tiɣbula n wadda.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "cd43e9c98c7ebc00cad3629a224be6d7d8043e5bc02a62410e058a570c879c02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/15\/18-19.1791267609585.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "efk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "tibṛikt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "akal"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "uneẓruf"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "i t-id-efkiḍ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "efk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "tiɣbula"
+    },
+    {
+      "surface": "מים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefk"
+    },
+    {
+      "surface": "לה",
+      "gloss": "as"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiɣbula n ufella"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "tiɣbula"
+    },
+    {
+      "surface": "עליות",
+      "gloss": "n ufella"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tiɣbula n wadda"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "tiɣbula"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "n wadda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:09.588676982Z",
+  "model": "glm-5.3"
+}

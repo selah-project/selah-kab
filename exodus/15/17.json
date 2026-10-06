@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 15:17",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ifassen-ik",
+      "rationale": "ידיך 'ifen-ik' s taɛbranit: lqem ameqran d 'ifassen' i yiman d tezmert"
+    },
+    {
+      "kind": "crux",
+      "subject": "lɛahd-ik",
+      "rationale": "נחלתך: 'lɛahd-ik' (taɛyalit) neɣ 'les-ik n ttirt'; lɛahd yettwafren axaṭer Yisrael yeṭṭef tamurt s lɛahd"
+    },
+    {
+      "kind": "substitution",
+      "subject": "liqedc",
+      "rationale": "מקדש yettwaru s uẓar qdc: iqedc\/liqedc, mačči d awal n lislam"
+    }
+  ],
+  "translation": "A d-tewwiḍ-ten, a ten-tesbɛed deg uẓrar n lɛahd-ik; deg umkan n tdekkurt-ik, win i d-igelgi Yahwe; deg liqedc, a Adonai, i d-ssawden ifassen-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a18516582035b3fd5b02b9545fadb4ae954c352ecb1e015559f2fc63efd10f08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/15\/17-17.1791267257457.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבאמו",
+      "gloss": "a d-tewwiḍ-ten"
+    },
+    {
+      "surface": "ותטעמו",
+      "gloss": "a ten-tesbɛed"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg uẓrar"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "n lɛahd-ik"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "n tdekkurt-ik"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "i d-igelgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "deg liqedc"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "a Adonai"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "i d-ssawden"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ifassen-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:17.458331473Z",
+  "model": "glm-5.3"
+}

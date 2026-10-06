@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמך יהוה",
+      "rationale": "Yal msuqel ad yefru tamara: 'yisem-ik Yahwe' (win iɣer yella wayen-nni) neɣ 'kečč, isem-ik Yahwe' (tuqqna); neḥwaǧ talɣa tamezwarut."
+    },
+    {
+      "kind": "addition",
+      "subject": "Win",
+      "rationale": "עליון d ameqqran (nnig); taqbaylit tesra amdan 'Win' i d-yettwazdun."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Tinubga tetteddu ɣer Yahwe i yellan d yiwen, d tin i d-iskelsen aẓar n tzlitt."
+    }
+  ],
+  "translation": "Ad ẓren kečč, d kečč i yellan d yiwen, yisem-ik Yahwe, d ⟨Win⟩ nnig akk tmurt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/83\/17-19.1791268089605.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ad ẓren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "d"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "d kečč i yellan d yiwen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨Win⟩ nnig"
+    },
+    {
+      "surface": "על",
+      "gloss": "akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:09.606386323Z",
+  "model": "glm-5.3"
+}

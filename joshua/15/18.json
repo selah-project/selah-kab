@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 15:18",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Taɛbranit ur tesɛi ara zeddic lqem n yisem ɣef uɛawed n tillis"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת",
+      "rationale": "m-ʾet: ɣer Caleb it-id-yeqqen (tinakert n walbira), maca deg Tiftiḥ 1:14 d Otniel ay d-yettwaxdem — sin iḍrisen yellan beṛṛa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "teḥemmelt-itt",
+      "rationale": "סות i d-yesbeggnen ccedd n umeslay neɣ taḥeṛṛemt, mačči kan ameslay kan"
+    },
+    {
+      "kind": "you",
+      "subject": "acemma",
+      "rationale": "Kalev yettmeslay i Aksa yelli-s: mačči d ayen i k-ihwan?"
+    }
+  ],
+  "translation": "Yella, mi tekcem ɣuṛ-s, teḥemmelt-itt ad iseqsel seg ⟨את⟩ baba-s ⟨i⟩ urti; tenna-d seg uɣyul, yenna-as Kalev: acu i k-ihwan?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "cd43e9c98c7ebc00cad3629a224be6d7d8043e5bc02a62410e058a570c879c02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/15\/18-19.1791267609585.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "mi tekcem"
+    },
+    {
+      "surface": "ויסיתהו",
+      "gloss": "teḥemmelt-itt"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ad iseqsel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seg ⟨את⟩",
+      "marks": "baba-s"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baba-s"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "urti"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "tenna-d"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "uɣyul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "as"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:09.587662734Z",
+  "model": "glm-5.3"
+}

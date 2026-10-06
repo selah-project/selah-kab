@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨it⟩",
+      "rationale": "Taɛbranit ur tesɛi ara awal-a; yettwarnu iwakken ad d-iban wemdan-nni i tensiṭ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית היער",
+      "rationale": "D isem n lexla n Sliman (Tigejda 10:17) i ṭṭfen deg-s yimrigen; mačči d tagant kan"
+    }
+  ],
+  "translation": "Yessuf ⟨את⟩ tasemmilt n Yeḥuda, tensiṭ deg wass-nni ⟨it⟩ ɣer yimrigen n uxam n tegant.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/22\/5-8.1791267876787.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Yessuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tasemmilt n Yeḥuda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tasemmilt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "n Yeḥuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "tensiṭ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "yimrigen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n uxam"
+    },
+    {
+      "surface": "היער",
+      "gloss": "n tegant"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:36.793885964Z",
+  "model": "glm-5.3"
+}

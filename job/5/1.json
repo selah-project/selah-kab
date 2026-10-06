@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עונך",
+      "rationale": "S lemma 'answer\/respond': 'win ara yerran' (answerer) vs 'win i k-yesnasen' (heeder); talɣa n wanwa ara yerran i d-yettwafen deg waṭas n tsuqilin."
+    },
+    {
+      "kind": "you",
+      "subject": "Iyov",
+      "rationale": "Axeddam-agi d ttar yer Iyov, s tecti n win i t-yedran."
+    },
+    {
+      "kind": "invitation",
+      "subject": "tuqqna",
+      "rationale": "Aḍris issumar s tecti: 'Ceḍḍu tura' — aswir n usiwel i wemdan."
+    }
+  ],
+  "translation": "Ceḍḍu tura: acḥal i yellan ara yeḥbes i tesfiɣent-ik? D ansi seg yiqedcen ara t-terraḍ?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f1030bf901e159db7a45fc43502ec24ef1bbe92717043824dad499e0a4a0c1fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/5\/1-1.1791268164317.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ceḍḍu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "היש",
+      "gloss": "acḥal i yellan ara"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "yeḥbes i tesfiɣent-ik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "D ansi seg"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "ara t-terraḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:24.317519088Z",
+  "model": "glm-5.3"
+}

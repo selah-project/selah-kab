@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ma nekkini \/ ih \/ llan",
+      "rationale": "taɛbranit ur tesɛi ara awalen-agi; ttwarnan akken tafelwilt ad tili d taɣelsant"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iqaḍen iqeddacen",
+      "rationale": "כהנים yettwasuqal s wawal n teqbaylit i yiman-is; ur yettwasuqal ara awal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Lwiyyim",
+      "rationale": "isem n taɛbranit yettwaḥrez s timesliwin-is, mačči d talɣa n taɛrabt"
+    }
+  ],
+  "translation": "Ma nekkni, Yahwe d Elohim-nneɣ, ur t-nettin ara; ih, llan iqaḍen iqeddacen i d-yettmehnan i Yahwe, at Aharon, d Lwiyyim deg umahil.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f13237028f9f811b65ebbdaf266cec587134d8cd31d3d4917b1e62b81cc40f36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/13\/10-10.1791268360305.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ma nekkini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "t-nettin"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "iqaḍen iqeddacen"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "i d-yettmehnan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "at"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "d Lwiyyim"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "deg umahil"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:40.307147423Z",
+  "model": "glm-5.3"
+}

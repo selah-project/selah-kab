@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העדות",
+      "rationale": "'acfmu' (asehhed) — kra n yimadyaten qqaṛen d lomeḥtula (lice n Ugellid), wayeṭ d tjellist; KJV 'the testimony' vs JPS 'the insignia'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויכו כף",
+      "rationale": "Tira tamagnut: 'ḥeḍren afus' — deg taɛbranit 'ḍan taɣzi' (kaf), ayen yugad 'striking the palm', yettwafham d usaruj."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וימשחהו",
+      "rationale": "'dehnen-t' (yedwa s zzit) — s tuɣ n lmuqeddem; aẓar n Maciaḥ."
+    }
+  ],
+  "translation": "Yessuffeɣ ⟨את⟩ mmi-s n ugellid, yefka-yas ⟨את⟩ innezger akked ⟨את⟩ acfmu, qqimen-t d agellid, dehnen-t, ḥeḍren afus, nnan: Ad yidir ugellid!",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b9587e6bd864d017642df6b002f71df87c654b86bad2285e79fbe467e9866d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/11\/12-13.1791267757167.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yessuffeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s n ugellid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka-yas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innezger"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "innezger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "acfmu"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "acfmu"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "qqimen-t d agellid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ -t",
+      "marks": "dehnen-t"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "dehnen-t"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ḥeḍren"
+    },
+    {
+      "surface": "כף",
+      "gloss": "afus"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ad yidir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:37.168557711Z",
+  "model": "glm-5.3"
+}

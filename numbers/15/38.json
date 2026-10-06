@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 15:38",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Mmeslay ɣer yigerdan n Yisrael",
+      "rationale": "aseqsi-agi d-inuda Moce ad yemmeslay ɣer yigerdan n Yisrael — tawsit n yisefra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iheddan",
+      "rationale": "כנפי tettheffaḍ 'tiyeddiwin\/tigejda' n yilsm — talɣa n wawal taqbaylit ur tesɛi ara amkan n wing n yerzas, 'ihedd' i yilsm."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ציצת",
+      "rationale": "sisis (tassel) — awal arurad deg Tanakh, maca yettwasqedc di Taseddart 15:39 daɣen."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yal⟩ ihedd",
+      "rationale": "taɛbranit tenna 'sisit n ihedd' mačči 'yal ihedd' — tira n teqbaylit terrat ilem ayen ur nellil ara deg uḍris."
+    },
+    {
+      "kind": "measurement",
+      "subject": "i tsuta-nsen",
+      "rationale": "לדרתם — assegrew n tsuta, aseḍru n lakal n wassideɣ."
+    }
+  ],
+  "translation": "Mmeslay ɣer yigerdan n Yisrael, ad asen-tenned: ad ssenɣen i iman-nnsen sisis ɣef iheddan n yilman-nsen, i tsuta-nsen ⟨akk⟩, ad rnen ɣef sisit n ⟨yal⟩ ihedd ipṭil n teklit.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b0eaa192438e30e00313e0fd97da53c0157de25ae0228a247351c6ff14f12b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/15\/38-38.1791267454080.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mmeslay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "igerdan n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ad asen-tenned"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ad ssenɣen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "i iman-nnsen"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "sisis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "iheddan n"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "yilman-nsen"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "i tsuta-nsen"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ad rnen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "sisit n"
+    },
+    {
+      "surface": "הכנף",
+      "gloss": "ihedd"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ipṭil"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "n teklit"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:34.084110001Z",
+  "model": "glm-5.3"
+}

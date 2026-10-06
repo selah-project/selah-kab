@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 18:31",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Uheyyi n Temlilit",
+      "rationale": "אהל מועד d aseddi ɣef 'tint n temlilit'; Mickan (aqiḍun) d awal nnid, ur yettwaseqdal ara da"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taɛbranit ur tesɛi ara asefham 'd' deg 'הוא שכר'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "amdal n tɣawsa את+suffix, yettwaḥrez s teṛekkizt ⟨את⟩ kan"
+    }
+  ],
+  "translation": "Ad t-teccem ⟨את⟩ deg yal amkan, kunwi d yal mraw-nwen, acku d tiɣri-nwen i tnaḍfi-nwen deg Uheyyi n Temlilit.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "df31f593139308e6c124e0b6a9cfc78c2b7d29e69ce35d05b61e521762c623fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/18\/31-31.1791267464286.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ad t-teccem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "deg yal amkan (tayevt)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "וביתכם",
+      "gloss": "d yal mraw-nwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "tiɣri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nwen"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "i tnaḍfi-nwen"
+    },
+    {
+      "surface": "עבדתכם",
+      "gloss": "tnaḍfi-nwen"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "deg Uheyyi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n Temlilit"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:44.291530801Z",
+  "model": "glm-5.3"
+}

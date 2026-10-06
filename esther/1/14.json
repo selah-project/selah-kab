@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 1:14",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראי פני המלך",
+      "rationale": "'Iẓer udem n ugellid' d tamantilt: annect-nni s tidet neɣ ' yettwakcem ɣer ugellid' (akken i t-id-yefrabi BSB)."
+    },
+    {
+      "kind": "crux",
+      "subject": "הישבים ראשנה",
+      "rationale": "'Yettwaḥerzen ad d-ɣlin imezwura' — yerna n 'ad d-ɣlin' iwakken ad yefhem unamek; taɛbranit tenna kan 'yettwrizen amezwaru'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seven",
+      "rationale": "Amḍan n yicaren yettwabdra — ṛebɛa n yiḍen akk d ṛebɛa, d ṛebɛa d yiḍan sɛan azal deg uḍris."
+    }
+  ],
+  "translation": "Wid iqerben ɣer-s: Karcena, Cetar, Admata, Tarcic, Meres, Marsena, Memuqan — ṛebɛa n yiḍen akk d ṛebɛa, d ṛebɛa d yiḍan nwid? ala: d seven n yicaren n Paras d Maday, wid iẓerrun ⟨iɣef⟩ udem n ugellid, wid yettwaḥerzen ad d-ɣlin ⟨d⟩ imezwura deg tgelda.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c6ecf71c78d026aa04a7c49ef1441945f4a94a187c91ffbf9f7fad4baddc184a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/esther\/1\/14-14.1791268246445.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "wid iqerben"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "כרשנא",
+      "gloss": "Karcena"
+    },
+    {
+      "surface": "שתר",
+      "gloss": "Cetar"
+    },
+    {
+      "surface": "אדמתא",
+      "gloss": "Admata"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarcic"
+    },
+    {
+      "surface": "מרס",
+      "gloss": "Meres"
+    },
+    {
+      "surface": "מרסנא",
+      "gloss": "Marsena"
+    },
+    {
+      "surface": "ממוכן",
+      "gloss": "Memuqan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ṛebɛa n yiḍen akk d ṛebɛa, d ṛebɛa d yiḍan nwid? ala: seven"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "n yicaren"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "n Paras"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "d Maday"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "wid iẓerrun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "wid yettwaḥerzen ad d-ɣlin"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "imezwura"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "deg tgelda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:46.450599241Z",
+  "model": "glm-5.3"
+}

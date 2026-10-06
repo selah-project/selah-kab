@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 29:11",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "adlis yettwafel",
+      "rationale": "Aseggem n uwennit: adlis yettwafel d tugal n tẓuri, ulac win izemren ad t-iɣer."
+    },
+    {
+      "kind": "crux",
+      "subject": "win issnen adlis",
+      "rationale": "יודע הספר: win issnen taɣuri (KJV 'learned') neɣ win issnen adlis (YLT 'knowing books')."
+    },
+    {
+      "kind": "addition",
+      "subject": "i ḥemmlen",
+      "rationale": "Taɛbranit ur telli ara deg-s felnay n yimdanen deg יתנו; yettwarnan iwakken ad yefhem unamek."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "gloss": "yuli-d wannect-agi",
+      "rationale": "ותהי yettwaḥrez s lebɣi; ו tazwara tettwafk kan deg tira."
+    }
+  ],
+  "translation": "Yuli-d wannect-agi: algam n waken yuɣal i wen am wawalen n wedlis yettwafel, i ḥemmlen ad mudden ⟨את⟩-is ɣer win issnen adlis, ad yinin: ɣeṛ-a, ma ulac a k-nnxel; ad yini: ur zmireɣ ara, axaṭer yettwafel.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "813d86f232f569e23b29d01b3312cc27b432e1ebd7b4e72039b52fb965a65a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/29\/11-11.1791267816613.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "algam"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "n waken"
+    },
+    {
+      "surface": "כדברי",
+      "gloss": "am wawalen"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "n wedlis"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "yettwafel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ad mudden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "adlis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "win issnen"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "adlis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yinin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ɣeṛ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac a k-nnxel"
+    },
+    {
+      "surface": "זה",
+      "gloss": "-a"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zmireɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "yettwafel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:36.614555011Z",
+  "model": "glm-5.3"
+}

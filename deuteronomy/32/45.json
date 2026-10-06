@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yeffeɣ",
+      "rationale": "כלה (c\/3615) d 'yeffeɣ\/yesruḥ', tettwasekyed da am 'yekfa awal-nni'"
+    }
+  ],
+  "translation": "Moce yeffeɣ si teqsiḍt n wawalen akk iγγaren-a ɣer Yisrael akk.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d1eaf5499fe3fd96075fcdcfa22c93027d275ffab32eef47383f669a9293ea6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/32\/45-45.1791267543453.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "si teqsiḍt n wawalen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iγγaren-a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:03.456404537Z",
+  "model": "glm-5.3"
+}

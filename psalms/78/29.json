@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aṭas",
+      "rationale": "מאד (vehemence\/greatly) tuɣal d «aṭas», amkan n wawal n terekzt ur yelli ara deg teqbaylit"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבא להם",
+      "rationale": "KJV\/ASV «he gave them» (Elohim d yemkan), YLT «He bringeth to them» — taɛbranit tenna kan «yewweḍ ɣer-sen», ulac Yisem"
+    }
+  ],
+  "translation": "Ččan, ṣebbeɛen ⟨aṭas⟩; taawsa-nsen yewweḍ-ten.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "24eb02d425df184675ac3c0d1fa3c756de40454cf02a58b4562929d3ed948b6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/78\/29-29.1791268089744.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "Ččan"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ṣebbeɛen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "taawsa-nsen"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yewweḍ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-ten"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:09.745340355Z",
+  "model": "glm-5.3"
+}

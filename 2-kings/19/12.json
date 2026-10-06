@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iṛebbiten",
+      "rationale": "אלהי here gods of the nations, not Elohim of Israel — lowercase plural per discipline D1 (Exodus 32:8 pattern)"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ḥizqiyya",
+      "rationale": "Rabshakeh's rhetorical question addressed to Yerucalayim, implying Yisrael's Ṛebbi is like these gods"
+    },
+    {
+      "kind": "addition",
+      "subject": "wid yellan",
+      "rationale": "אשר בתלאשר rendered 'who were in' with supplied verb for Kabyle clause"
+    }
+  ],
+  "translation": "Is ṣbeḥlen ⟨את⟩-ten iṛebbiten n leǧnas, wid i rwin yimawlan-iw — ⟨את⟩ Gozan d ⟨את⟩ Ḥaran, Reṣef d yigerdan n Ɛeden, wid yellan deg Telassar?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "0c4ec955cb829cb2ad5918408bde08cb8d5f635faaffd8d0aa1327c86c5a6481",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/19\/12-12.1791267736532.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "is ṣbeḥlen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-ten",
+      "marks": "iṛebbiten n leǧnas"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iṛebbiten"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "n leǧnas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "i rwin"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "yimawlan-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Ḥaran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Ḥaran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "Reṣef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "d yigerdan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "n Ɛeden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid yellan"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "deg Telassar"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:16.533136497Z",
+  "model": "glm-5.3"
+}

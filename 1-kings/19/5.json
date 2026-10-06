@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "retem",
+      "rationale": "רֹתֶם d aglims (Spanish broom); «juniper» n tesuqilin tiqbuṛiyin mačči d alaṣel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "melak",
+      "rationale": "מַלְאָך֚ d «amessafar»; melak i d-yettwafken yettcudd ɣer Ṛebbi maca aḍris ur d-yenni ara «n Ṛebbi»"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Sir, ec",
+      "rationale": "Iḥettemiyen i d-yettunefken i Eliyahu: inig ad iṭṭef tallalt"
+    }
+  ],
+  "translation": "Yirgel, yeṭṭes ddaw yiwet n retem; d acu, wagi d melak yewsɛa fell-as, yenna-yas: Sir, ec.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4deb7e2d15b0500734b56a663183f2976e38d7088b6a68fcf1c9964859cc553c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/19\/5-5.1791267719833.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "yirgel"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "yeṭṭes"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "retem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d acu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "melak"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "yewsɛa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yas"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sir"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ec"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:59.834970326Z",
+  "model": "glm-5.3"
+}

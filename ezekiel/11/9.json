@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפטים",
+      "rationale": "Deg taɛbranit d aḥkam n uɛaqb — yerna d talɣa s lɛadad: iḥkaman (asuqilt n yiwet s tuγniwt n lɛadad)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרים",
+      "gloss_target": "ifeggagen",
+      "rationale": "Deg teqbaylit, ayen yettwaḥerzen (imasiḥiyen, at lccariɛa) d \"iɛdawen\" neɣ \"ikabaren\"."
+    }
+  ],
+  "translation": "Ad awen-ssuffɣeɣ seg temgel-nnes, ad awen-errdeg deg yifassen n yifeggagen, ad igreɣ γef wudem-nwen ⟨iḥkamen⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4d322f8861721114433b7a13fb6681765f3952c651d4014929cbffc38781794d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/11\/9-9.1791267901641.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "ad awen-ssuffɣeɣ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "awen"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "seg temgel-nnes"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ad awen-errdeg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "awen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg yifassen"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "n yifeggagen"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ad igreɣ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "γef wudem-nwen"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "iḥkamen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:01.641743480Z",
+  "model": "glm-5.3"
+}

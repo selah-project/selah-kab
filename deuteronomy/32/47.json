@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 32:47",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tudert",
+      "rationale": "חייכם = 'tidert-awen' d nnefs deg teqbaylit; 'tudert' d talɣa n tafekka tamirantut n tidet"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם לרשתה",
+      "rationale": "ṣuḍa: ad tesɛuḍem-t ad yeqqim d aḥric seg-s, ad ttwaqbel yisem 'Yarden'"
+    }
+  ],
+  "translation": "Ayer mačči d awal ilem i netta ɣur-kwen, ayer d tidet d tudert-awen; s wawal-agi ad tεezzin yimussanawen-nwen ɣef tmurt i tstrezem ⟨a-t-a⟩ ⟨את⟩ Yarden akken i tettazrem ⟨i t-a-tesɛuḍem deg-s⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ba0c3edf4de653623ab699310a6afddc20b6c57362700e3f771b9510336e28bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/32\/47-47.1791267549192.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ayer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ilem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i netta"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ɣur-kwen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ayer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "חייכם",
+      "gloss": "d tudert-awen"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "s wawal-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "ad tεezzin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yimussanawen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "tettazrem"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tstrezem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "akken i"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ad tesɛuḍem-t"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:09.194910152Z",
+  "model": "glm-5.3"
+}

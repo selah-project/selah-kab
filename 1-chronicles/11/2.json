@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 11:2",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם תמול גם שלשום גם",
+      "rationale": "triple repetition of גם (ula) — rhetorical pile-up marking 'even yesterday, even before, even then', rhythm flattened in kab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ad tḥebber",
+      "rationale": "תרעה is literally 'you will shepherd\/pasture' — ḥebber keeps the flock picture; 'rule' readings lose it"
+    },
+    {
+      "kind": "crux",
+      "subject": "aneɣḍaf",
+      "rationale": "נגיד: 'prince\/commander\/leader' — one who stands in front; kab aneɣḍaf chosen over 'agellid' to avoid equating with מלך"
+    }
+  ],
+  "translation": "Ula iḍelli, ula iḍelli uqbil, ula degmi yella Cawl d agellid, kecc i d-yessuffuɣen yid-yettawin ⟨את⟩ Yisrael; Yahwe Elohim-ik yenna i kecc: Kecc ad tḥebber ⟨את⟩ yegdud-iw ⟨את⟩ Yisrael, kecc ad tiliḍ d aneɣḍaf ɣef yegdud-iw Yisrael.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "606bd4b4c0888b133aede31514a337771c734be097a3f337faab78c5b093458a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/11\/2-2.1791268312022.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "iḍelli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "iḍelli uqbil"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "degmi yella"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "i d-yessuffuɣen"
+    },
+    {
+      "surface": "והמביא",
+      "gloss": "yid-yettawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kecc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "ad tḥebber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yegdud-iw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yegdud-iw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "aneɣḍaf"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yegdud-iw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:52.027614749Z",
+  "model": "glm-5.3"
+}

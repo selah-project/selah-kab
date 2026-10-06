@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iwakken",
+      "rationale": "taɛbranit tesɛa infinitif s wawal n tazwara kan (לספד), taqbaylit tesra «iwakken»"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לספד",
+      "rationale": "aselkim anamek: ad iseggwel — deg taɛbranit: eḍrarev wallen d usṭuḥ n iṣeddiṛen"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "d amfatis: «d Ḥevron» — taqbaylit tesra d seg wasentexsil n tifiednin ur nelli ara deg teɛbranit"
+    }
+  ],
+  "translation": "Sara temmut di Kiryat-Arba, d Ḥevron ⟨d⟩ tamurt n Kenɛan; Avraham yekcem iwakken ad iseggwel ⟨i⟩ Sara ad yettunef ⟨ɣef-s⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "303daa60e15c681d410688de20f2110176e3590bcd8de985ca4f1c94ddea5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/23\/2-2.1791267269602.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "temmut"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "di Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ḥevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "n Kenɛan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "ad iseggwel"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "i Sara"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "ad yettunef ɣef-s"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:29.603258071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "leviticus 14:51",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sa n tikkal",
+      "rationale": "askker n tikkal ṣḍaṣ — amḍan ameqqran n tasureft"
+    },
+    {
+      "kind": "crux",
+      "subject": "המים החיים",
+      "rationale": "aman imuddiren: KJV 'running water', BSB 'fresh water' — חי yeẓmer ad yeglu s 'ifin' neɣ s 'imuddir'"
+    }
+  ],
+  "translation": "Ad yeṭṭef ⟨את⟩ taklit n lerz, ⟨את⟩ iezzuf, ⟨את⟩ ini azeggaɣ, ⟨את⟩ sekkur amuddir, ad yerbez ⟨את⟩-ten deg idammen n usekkur yettwaremḍen, deg waman imuddiren, ad izereɛ ɣef waxxam sa n tikkal.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "19f8730f68f959fc7cce640853e954b2a6a20a868bb4c3fe9361793217620524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/14\/51-51.1791267361910.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ad yeṭṭef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taklit n lerz"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "taklit"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "n lerz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iezzuf"
+    },
+    {
+      "surface": "האזב",
+      "gloss": "iezzuf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ini azeggaɣ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ini"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "azeggaɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sekkur amuddir"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "sekkur"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "amuddir"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "ad yerbez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "idammen"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "deg idammen"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "n usekkur"
+    },
+    {
+      "surface": "השחוטה",
+      "gloss": "yettwaremḍen"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "imuddiren"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ad izereɛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "n tikkal"
+    }
+  ],
+  "timestamp": "2026-10-06T06:16:01.911986362Z",
+  "model": "glm-5.3"
+}

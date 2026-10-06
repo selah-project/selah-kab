@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ṣedeq-is",
+      "rationale": "צדקה yettwarnu s yisem n taɛbranit ṣedeq, mačči s lḥeqq weḥd-s (D2)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "zdat tiḍac n",
+      "rationale": "lɛebri yesɛan 'i tiḍac' — taqbaylit tessray 'zdat tiḍac n', amkan yemṣada."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩",
+      "rationale": "taqbaylit tessray d- deg 'yefra-d' iwakken ad d-ibuɣ; taɛbranit ur tesɛi ara."
+    }
+  ],
+  "translation": "Yahwe yessiken tallalt-is; zdat tiḍac n leǧnati, yefra-d ⟨d⟩ ṣedeq-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "585a9e132e6625359e5b6d47c7ad0118274e7de94146497a45092f5a458cb643",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/98\/2-2.1791268083660.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "yessiken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "tallalt-is"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "zdat tiḍac n"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leǧnati"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "yefra-d"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ṣedeq-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:03.660743769Z",
+  "model": "glm-5.3"
+}

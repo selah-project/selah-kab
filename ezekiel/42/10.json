@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "llant",
+      "rationale": "Taɛbranit ur tesɛi ara aluz (copula); ttwarna-d iḍummen n tefrant n teċċuna"
+    },
+    {
+      "kind": "crux",
+      "subject": "רחב",
+      "rationale": "KJV 'thickness' vs YLT\/JPS 'breadth\/teɣzi' — achal n teɣzi ɣef lmudda n uɣerḍis"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הגזרה",
+      "rationale": "Yezmer ad yili 'amkan iɛezlen' (win yettwaferṛqen) — d aseggem i d-yusan seg usemleḍ n uẓar gzar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "di teɣzi n uɣerḍis",
+      "rationale": "Assegmi n teknikt n Uqeds — tisekta n teɣzi d unegzmu deg uselkem n Yeḥezqel"
+    }
+  ],
+  "translation": "Di teɣzi n uɣerḍis n teɛbert, ɣer wegmuḍ, ar zdat n umkan yeferrqen d ar zdat n wemḥelleṣ, ⟨llant⟩ texxamin.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5c872c3ec99fd52ae40884dae8adeaecd5642a5af48db5c7cec3c074e43b232e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/42\/10-10.1791268027992.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "di teɣzi"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "uɣerḍis"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "n teɛbert"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "n wegmuḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "umkan yeferrqen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "wemḥelleṣ"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "texxamin"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:07.993318255Z",
+  "model": "glm-5.3"
+}

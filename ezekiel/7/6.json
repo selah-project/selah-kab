@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קץ\/הקיץ",
+      "rationale": "Paronomasia: qeṣ (tagara) and heqiq (yessahder) share the root consonants q-ṣ; the end 'wakes up' — a pun impossible to keep in kab."
+    },
+    {
+      "kind": "crux",
+      "subject": "הקיץ אליך",
+      "rationale": "'It awakens against you' (KJV 'watcheth for thee') vs 'it has roused itself against you' (BSB); the verb depicts the end as waking and rising up to strike."
+    },
+    {
+      "kind": "you",
+      "subject": "ɣur-k",
+      "rationale": "Direct address to the one dwelling in the land — Israel\/Jerusalem under judgment."
+    }
+  ],
+  "translation": "Tagara tewweḍ, tagara tewweḍ; tecbeḍ ⟨k.cc⟩ ɣef ufella-nnek <texleq>? — ssehder ula d nettat: ssehder-it ɣur-k; wali, teṭṭef-ed abrid-ines, tusa-d.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "98248ee3d55cda948d373f7ed18895415d00a7b564f202c8684779040738ac8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/7\/6-6.1791267891265.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "tagara"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tewweḍ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tewweḍ"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "tagara"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "isseḥder\/tesḥer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tusa-d"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:51.265843479Z",
+  "model": "glm-5.3"
+}

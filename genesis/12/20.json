@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ṭṭfen-t-id",
+      "rationale": "וישלחו 's'envoyer dehors' — kabyle rend 'ṭṭfen-t-id' — wanda tettwaqbel taɣawsa, asuqilt n wayen d-yenna ḍaṛen"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taɛbranit ur tesɛi ara awal 'akked' — d yettwarnan i wakken ad yili usageḍ n yismawen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wayen yellan-iḍ",
+      "rationale": "אשר לו d 'ayen nnes' — kabyle yewwi-d talɣa n taymat s 'yellal-iḍ'"
+    }
+  ],
+  "translation": "Ferɛun yeffeɣ-d lamer i yergazen ɣef wayes, u ṭṭfen-t-id, d ⟨את⟩ tamettut-is, d ⟨את⟩ akk wayen yellan-iḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ad0fe27e6d6f054fe551140dfb455638448c69d167063e8f17f180810a12b8a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/12\/20-20.1791267266691.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yeffeɣ-d lamer"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef wayes"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "i yergazen"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ṭṭfen-t-id"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ t",
+      "marks": "t"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tamettut-is"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tamettut-is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "akk wayen yellan-iḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yellan-iḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:26.693815757Z",
+  "model": "glm-5.3"
+}

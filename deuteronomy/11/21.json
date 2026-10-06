@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 11:21",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yeɣṛeḍ",
+      "rationale": "נשבע 'yeɣṛeḍ' — aseqqama s waḥric tamurt, mačči taɣuri n qbel; taɛbranit tessaweḍ ɣer sebɛa."
+    },
+    {
+      "kind": "crux",
+      "subject": "כימי השמים על הארץ",
+      "rationale": "'am wussan n igenwan ɣef tmurt': melmi i yemmalen wussan-a — iḍelli d zdat (i lebda), neɣ meṛṛa tallunt n yigenwan nnig tmurt?"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האדמה \/ הארץ",
+      "rationale": "Sin n wawalen i yemcabin i tmurt: adama (takalit taẓeṛṛumt) d erets (tmurt s umata) — deg teqbaylit sinna 'tmurt'."
+    }
+  ],
+  "translation": "Iwakken ad mṛebbut wussan-nwen d wussan n warraw-nwen ɣef tmurt, i Yahwe yeɣṛeḍ i yibabaten-nwen ad asen-t-yeften, am wussan n igenwan ɣef tmurt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "224f5146913ea60b03cee473773dd0a8367c938367488d10f540aa2733f84b59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/11\/21-21.1791267476862.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "ad mṛebbut"
+    },
+    {
+      "surface": "ימיכם",
+      "gloss": "wussan-nwen"
+    },
+    {
+      "surface": "וימי",
+      "gloss": "d wussan"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "n warraw-nwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yeɣṛeḍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "i yibabaten-nwen"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad asen-t-yeften"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "am wussan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:56.866057269Z",
+  "model": "glm-5.3"
+}

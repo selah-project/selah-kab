@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "win yettwanfalen",
+      "rationale": "נרדף (Pual participle of רדף, 'to pursue'): 'win yettwanfalen' (the one pursued\/driven away) vs 'ayen yezrin' (that which passed away) — KJV 'requireth that which is past' vs JPS 'seeketh that which is pursued'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היה \/ להיות \/ היה",
+      "rationale": "Repetition of hayah three times frames the verse — what was, what will be, already was; the circular echo is kept by yella\/yili\/yella."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yakan",
+      "rationale": "כבר literally 'extent of time, long ago' — rendered as adverb 'yakan' (already\/formerly), losing the duration nuance."
+    },
+    {
+      "kind": "addition",
+      "subject": "d netta",
+      "rationale": "Hebrew הוא is emphatic pronoun; kabyle needs 'd netta' ('it is he\/it') to carry the emphasis."
+    }
+  ],
+  "translation": "Ayen i yellan, yakan yella; ayen ara yili, yakan yella-yakan; Elohim ad inadi ⟨את⟩ win yettwanfalen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8cff36d4a4ea5901cbb90e20d2941b6b1fd97d5ce514c82e7d6bc8a7aeed2627",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/3\/15-15.1791268207061.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ayen ara"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "yili"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "yakan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ad inadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "win yettwanfalen"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "win yettwanfalen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:07.061881986Z",
+  "model": "glm-5.3"
+}

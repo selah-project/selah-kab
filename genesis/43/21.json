@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 43:21",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taẓra",
+      "rationale": "כסף d taẓra (leffeḍ); 'idrimen' yezmer ad d-yeglu, maca taẓra i d-yeqqimen deg wawal."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בפי אמתחתו",
+      "rationale": "s taɛbranit 'imi n teqcilt' — ansi d-yettwakkes wayla; 'lɛerc' deg taqbaylit yettban am kan-agi."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "yettwasuqal s 'mi' i wakken ad yili d talɣa n temḍelt, mačči d awal-nniḍen."
+    }
+  ],
+  "translation": "Yella-d, mi nwedi ɣer umḍemmar, neḍlleb ⟨את⟩ tqecwal-nneɣ, d wa ⟨wala⟩: taẓra n yal yiwen deg lɛerc n teqcilt-is, taẓra-nneɣ s leɛqel-is; nessawel-ed ⟨את⟩-is s ufus-nneɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "20947bff382a75ccb54910b2a49e1035fd2264d8b9b32bc817eed58144537abe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/43\/21-21.1791267268630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "nwedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המלון",
+      "gloss": "umḍemmar"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "neḍlleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tqecwal-nneɣ"
+    },
+    {
+      "surface": "אמתחתינו",
+      "gloss": "tqecwal-nneɣ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d wa wala"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "taẓra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "deg lɛerc"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "teqcilt-is"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "taẓra-nneɣ"
+    },
+    {
+      "surface": "במשקלו",
+      "gloss": "s leɛqel-is"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "nessawel-ed"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-is",
+      "marks": "s ufus-nneɣ"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "s ufus-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:28.630558260Z",
+  "model": "glm-5.3"
+}

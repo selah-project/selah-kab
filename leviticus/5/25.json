@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yidew",
+      "rationale": "איל d allal n tezmert (ṭaṣebḥit); yidew d ayen yemṣadan deg taqbaylit i wallal n ugarzen"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taqbaylit tesra d ticki tamawt tettwaseggen d aɛzem"
+    },
+    {
+      "kind": "you",
+      "subject": "lḥeṣab-ik",
+      "rationale": "aḍris yettmeslay ɣer Moce s -ik n unadi, ma d win id-yettawin d amdan-nniḍen"
+    }
+  ],
+  "translation": "Ad d-yawi ⟨את⟩ aɛzem-is ɣer Yahwe: yidew n tmeẓlit, seg ugarzen, s lḥeṣab-ik, d aɛzem, ɣer umaεḍel.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d5ea409a91b40fe65f46fb530327a416f3a6dbac1ba9c8cd7da9c27f11524758",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/5\/25-25.1791267326669.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aɛzem-is"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "aɛzem-is"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ad d-yawi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ɣer Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "yidew"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "n tmeẓlit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ugarzen"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "s lḥeṣab-ik"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "d aɛzem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umaεḍel"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:26.670624054Z",
+  "model": "glm-5.3"
+}

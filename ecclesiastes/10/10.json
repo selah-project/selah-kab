@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פנים",
+      "rationale": "cala 'udem' (pne) s taɛbranit yebna ɣef tigniwt deg uzzal — deg taqbaylit 'udem' yesɛa anamek-is amatu, ama n wemdan neɣ n tfekka."
+    },
+    {
+      "kind": "crux",
+      "subject": "הכשיר",
+      "rationale": "KJV\/JPS: 'ad temmager lexlaṣ' d tazmert n trezmest; BSB: 'ad tesseḥkem tikci' — KJV ad tefk lexlaṣ, BSB ad tesseḥkem."
+    },
+    {
+      "kind": "alternative",
+      "subject": "והוא לא פנים קלקל",
+      "rationale": "Anjadi n yiwen: ma yella win ur isnifed ara; win yerzan: ma yella win ur isnifed ara — anagraw aneggaru yettwahegga."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קלקל",
+      "rationale": "Tira n taɛbranit tettwalas isekkilen (qilqel) — tiɣmert-agi ur teddi ara deg tsuqilt."
+    }
+  ],
+  "translation": "Ma yuɣal uzzal d awezɣan, ma ur isnifed ara ⟨udem-is⟩, ad isruḥu tazmert; maca tayriwt n lexlaṣ d taḥkma.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1396bc9db235ba84b808d178e0ec1788ea93f6af28d2dcf81c71f0c466e8eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/10\/10-10.1791268226154.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "yuɣal d awezɣan"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "uzzal"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "maca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udem"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "ur isnifed ara"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "ad isruḥu"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "tayriwt"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "n lexlaṣ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "taḥkma"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:26.159180571Z",
+  "model": "glm-5.3"
+}

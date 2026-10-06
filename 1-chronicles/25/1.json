@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 25:1",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kra⟩ seg",
+      "rationale": "Taɛbranit ur tessawi ara \"kra seg\" — d allus n usellek kan i d-yenna KJV\/JPS"
+    },
+    {
+      "kind": "crux",
+      "subject": "הנביאים",
+      "rationale": "Tira war vav (defective); kra n yimsuqlen qquren-t \"wid izemren ad d-mmeslayen d navi\" — anamek n ccna d unamek n Isem ɣef lmuqeddem"
+    },
+    {
+      "kind": "measurement",
+      "subject": "umḍin-nsen",
+      "rationale": "Aḍris-agi d tazwara n wumḍin n 24 n yirgazen, ad yettkemmel di tseddarin nnid"
+    }
+  ],
+  "translation": "David d yizerfan n lɛeskeṛ beṭṭlen i leqdic ⟨kra⟩ seg wat tarwa n Asaf, n Heman, n Yedutun, inaviben s kinnorot, s nevalim, d s meṣiltayim; yekka-d wawal, umḍin-nsen d irgazen n leqdic, akken i leqdic-nsen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c09afd5394413ad3ef482d8b07d26d9be778cc970177fc831ba4fc4f22d1610b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/25\/1-1.1791268317066.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבדל",
+      "gloss": "beṭṭlen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "d yizerfan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "n lɛeskeṛ"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "i leqdic"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "seg wat tarwa n"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "n Heman"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "n Yedutun"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "inaviben"
+    },
+    {
+      "surface": "בכנרות",
+      "gloss": "s kinnorot"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "s nevalim"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "d s meṣiltayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yekka-d wawal"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "umḍin-nsen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen n"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "leqdic"
+    },
+    {
+      "surface": "לעבדתם",
+      "gloss": "i leqdic-nsen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:57.070438781Z",
+  "model": "glm-5.3"
+}

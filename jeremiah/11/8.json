@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 11:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tḥercemt",
+      "rationale": "שרירות d tabdert tameẓẓyant: aḥric, tazmert n ufella; d 'tḥercemt\/obstinacy' i d-tsuqilt n tixutert-agi"
+    },
+    {
+      "kind": "crux",
+      "subject": "Nessedd",
+      "rationale": "וָאָבִיא: 'i ṣeddeɣ' (yellan, KJV 'I will bring') neɣ 'ad sseddeɣ' (YPuṛṭ LXX d waṭṭan); taɛbranit d imudden, d 'i ṣeddeɣ' i ṭṭafent"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו \/ הטו אזנם",
+      "rationale": "snat n tigidin yemcabin deg tseddart: 'ur slen' yerna-d 'ur ṛṛen timmawin' — tigdit tamsubt, i ṭṭafent yal tikelt deg Yirmeya"
+    }
+  ],
+  "translation": "Ur slen ara, ur ṛṛen ⟨את⟩ timmawin-nsen, ṛuḥen yal argaz deg tḥercemt n ul-is n tira; dɣa Nessedd-asen ɣef ⟨את⟩ akk awalen n lɛahd-agi, iɣef Nḥekm-ed ad t-xedmen, ur t-xedmen ara.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "00dd027a2ce1472a425b692cbf2873bd2894bcf4295203a3c4bbc26c593cfab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/11\/8-8.1791267811428.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ṛṛen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timmawin-nsen"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "timmawin-nsen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ṛuḥen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "deg tḥercemt"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "n tira"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "dɣa Nessedd"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lɛahd-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lɛahd-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iɣef"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "Nḥekm-ed"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad t-xedmen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:31.429101069Z",
+  "model": "glm-5.3"
+}

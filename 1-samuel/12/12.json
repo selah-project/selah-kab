@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 12:12",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taɛbranit ur tesɛi ara copula; taqbaylit tesra-t deg «⟨d⟩ agellid-nwen»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך\/ימלך\/מלככם",
+      "rationale": "aẓar m-l-k yuɣal-d kuṣṣaḍ n tikkal-nni deg tseddert: agellid, ad yeḥkem, agellid-nwen — timseɛreqt n wawal i d-ibeggnen tyirrit n Ugellid s Yisem"
+    },
+    {
+      "kind": "you",
+      "subject": "i Yisrael",
+      "rationale": "Samuwel yettmeslay-d i Yisrael s yisem-nwen n tmeṛṛa (wennum, iyi-iw, fella-neɣ)"
+    }
+  ],
+  "translation": "Tuẓrem belli Naḥac, agellid n warraw n Ɛamun, i d-ikec ɣef wennum, tennam-d iyi-iw: Ala, maca agellid ad yeḥkem fella-neɣ — ma d Yahwe, Elohim-nwen, ⟨d⟩ agellid-nwen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "def7a068a8f398ce22ca3a3078c3a4878f077473797bc76746a4dc4ef5b5b775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/12\/12-13.1791267634814.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "tuẓrem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naḥac"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n warraw"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-ikec"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ɣef wennum"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "tennam-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyi-iw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ad yeḥkem"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fella-neɣ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ma d Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "agellid-nwen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:34.819334571Z",
+  "model": "glm-5.3"
+}

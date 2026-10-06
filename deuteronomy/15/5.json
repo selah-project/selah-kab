@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמוע תשמע",
+      "rationale": "Infinitive absolute doubling of the same verb — 'hearing you shall hear' — rendered as 'syin bezzaf tessleḍ'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person singular address throughout the verse."
+    }
+  ],
+  "translation": "Ala ma syin bezzaf tessleḍ i usawel n Yahwe Elohim-ik, ad tḥerzeḍ ad txedmeḍ ⟨את⟩ taludna-agi akk, i nekkini k-inha-k ass-a.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/15\/5-8.1791267562384.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ala ma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "syin bezzaf"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tessleḍ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "i usawel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ad tḥerzeḍ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taludna-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taludna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "k-inha-k"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:22.387111449Z",
+  "model": "glm-5.3"
+}

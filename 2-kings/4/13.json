@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 4:13",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tadacit (tameṭṭut n Sunem)",
+      "rationale": "Elisha yemmeslay i Gehazi ad yini i tmeṭṭut; aswel usrid i kečč."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בתוך עמי אנכי יושבת",
+      "rationale": "Deg wemmas n ugdud-iw nekkin ttiddeɣ — tigawt tamaynut: ulac ayen iwumi ḥwajen, qqimeɣ gar leqbayel-iw."
+    },
+    {
+      "kind": "substitution",
+      "subject": "txerḍeḍ",
+      "rationale": "חרדת d axerreḍ (tagrawla), maca da γur-es unamek n tḥercit d useɣres: txedmeḍ i nehnay akk ayagi s tḥerci."
+    }
+  ],
+  "translation": "Yenna-yas: Ini-yas-as: Ata, txerḍeḍ ɣefneɣ ⟨את⟩ txerḍa-agi akk. Acu ara d-nexdem i kečč? Is ilaq ad d-nmeslay i kečč ɣer ugellid, neɣ ɣer umḍab n yiserdasen? Tenna-d: Deg wemmas n ugdud-iw, nekkin ttiddeɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3f66abbe236816c04451839d9580bb96943586012ae84f090546a59c2a26f034",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/4\/13-13.1791267708053.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ttxil-k"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ata"
+    },
+    {
+      "surface": "חרדת",
+      "gloss": "txerḍeḍ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣefneɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "txerḍa-agi akk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החרדה",
+      "gloss": "txerḍa-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad d-nexdem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "היש",
+      "gloss": "is ilaq"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ad d-nmeslay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umḍab"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "n yiserdasen"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna-d"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg wemmas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n ugdud-iw"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekkin"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ttiddeɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:48.057240903Z",
+  "model": "glm-5.3"
+}

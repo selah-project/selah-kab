@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 9:23",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ad",
+      "rationale": "Taqbaylit tessraFillColor talɣa n ussid (infinitif) s 'ad', taɛbranit ɣur-s talɣa n ussid kan"
+    },
+    {
+      "kind": "measurement",
+      "subject": "yitran n igenwan",
+      "rationale": "Asesfer n waṭas n yarraw s waṭas n yitran — amḍan yettwaqbal i Yisrael deg Tazwara 15:5"
+    }
+  ],
+  "translation": "Arraw-nsen tterna-t akka d yitran n igenwan, tewwiḍ-ten ɣer tmurt i i d-tennid i yebbabaten-nsen ad kecmen ad tt-ṭṭfen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ea0773ceb17d56da02b69abeda082a0d7424085f7125298bce437f7427f247b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/nehemiah\/9\/23-24.1791268341327.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהם",
+      "gloss": "arraw-nsen"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "tterna-t"
+    },
+    {
+      "surface": "כככבי",
+      "gloss": "akka d yitran"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenwan"
+    },
+    {
+      "surface": "ותביאם",
+      "gloss": "tewwiḍ-ten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "i d-tennid"
+    },
+    {
+      "surface": "לאבתיהם",
+      "gloss": "i yebbabaten-nsen"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ad kecmen"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ad tt-ṭṭfen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:21.331983787Z",
+  "model": "glm-5.3"
+}

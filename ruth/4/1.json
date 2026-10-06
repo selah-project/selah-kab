@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 4:1",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u⟩",
+      "rationale": "Taɛbranit ur tesɛi ara article i d-yesseggmen; taqbaylit tessutel i ⟨u⟩ ger tebdart"
+    },
+    {
+      "kind": "substitution",
+      "subject": "win n lɛahd",
+      "rationale": "הגאל d ameqqran n twacult, win yettazmen ad yessizdeg; 'win n lɛahd' yettwaṭṭef am lɛahd"
+    },
+    {
+      "kind": "idiom",
+      "subject": "fulan-agi, almoni-agi",
+      "rationale": "פלני אלמני — 'fulan akk d fulan': tarrayt taɛebranit ad tessuffeɣ isem war ma d-yenna; isem n win n lɛahd ur yettwasemma ara deg uḍris"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סורה\/ויסר",
+      "rationale": "Alliteration n usrag סור: 'ecbeḍ' i snat n tikkal, am taɛbranit"
+    }
+  ],
+  "translation": "Boɛaz inuli ɣer ⟨u⟩-bbab, yeqqim din-nni; d-aɣbalu, ha win n lɛahd ⟨i d-yedran⟩, win ay yedmel Boɛaz, i d-yennan: Ecbeḍ, eqqim dagi, fulan-agi, almoni-agi. Icbeḍ-d, yeqqim.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "0f9a6961da44dc1aa31fdcdcf1b6df5257c2e774a561c76ee3b5613790391725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ruth\/4\/1-1.1791268177398.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Boɛaz"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "inuli ɣer"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨u⟩-bbab"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yeqqim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din-nni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d-aɣbalu, ha"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "win n lɛahd"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "i d-yedran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ay yedmel"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boɛaz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "ecbeḍ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "eqqim"
+    },
+    {
+      "surface": "פה",
+      "gloss": "dagi"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "fulan-agi"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "almoni-agi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "icbeḍ-d"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yeqqim"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:37.398902415Z",
+  "model": "glm-5.3"
+}

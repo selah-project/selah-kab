@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 15:7",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "harden the heart \/ shut the hand",
+      "rationale": "Hebrew body idioms for stinginess; kab keeps the literal picture 'qewwinen ul' and 'reẓmen afus'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person singular command addressed to Israel."
+    }
+  ],
+  "translation": "Ma yella ɣur-k amaruz, seg yiwen seg watmaten-ik, deg yiwen seg tiberin-ik, di tmurt-ik i k-imudden Yahwe Elohim-ik, ur t-qewwinen ara ⟨את⟩ ul-ik, ur t-reẓmeḍ ara ⟨את⟩ afus-ik seg watmak, amaruz-nni.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/15\/5-8.1791267562384.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ɣur-k"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "amaruz"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "seg yiwen"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "watmaten-ik"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "deg yiwen"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tiberin-ik"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di tmurt-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "imudden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i k"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "t-qewwinen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul-ik"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ul-ik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תקפץ",
+      "gloss": "t-reẓmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-ik"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "afus-ik"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "seg watmak"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "amaruz-nni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:22.390777579Z",
+  "model": "glm-5.3"
+}

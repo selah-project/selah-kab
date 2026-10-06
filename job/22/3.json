@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 22:3",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leɛḍil",
+      "rationale": "חפץ d ssut iḥemmel; 'leɛḍil' yettwafernen i lmend n tsiwel n tefrust (asgetten, tasfifst)"
+    },
+    {
+      "kind": "crux",
+      "subject": "beṣṣɛa",
+      "rationale": "בצע yezmer ad yili d tabratt (asemdaḍ) neɣ d tiwsi neɣ d lɣaci n dir; 'beṣṣɛa' s lmend n tsiwel"
+    },
+    {
+      "kind": "addition",
+      "subject": "illa ⟨ayen⟩",
+      "rationale": "Taɛbranit ur tesɛi ara veb 'yesɛa \/ illa' i tefrust; tettwazn di taqbailt"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Snat n tikkal כי ttwaɣzan: tafrist tanemmirt tura s 'ma' ssent."
+    }
+  ],
+  "translation": "D leɛḍil, illa wayen iḥemmel Caddai ma tḥeqqed? Neɣ illa beṣṣɛa Ma tseddueḍ iberdan-ik?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9f174076e3d04eb8c47fb164059e78e22a858be61cc5942c0484ab4390dc7afe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/22\/3-3.1791268174155.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החפץ",
+      "gloss": "leɛḍil, ayen iḥemmel"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "i Caddai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "tḥeqqed"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "beṣṣɛa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "tseddueḍ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "iberdan-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:34.156149528Z",
+  "model": "glm-5.3"
+}

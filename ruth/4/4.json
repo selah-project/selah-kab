@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 4:4",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אגלה אזנך",
+      "rationale": "Ḥiri: 'ad d-mlen i yimeẓẓuɣ-ik' — 'ad rmlen ameẓẓuɣ-ik' mačči d talɣa n teqbaylit; unamek: ad k-inweɣ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאל",
+      "rationale": "Aẓar gaal yettaller-d kuẓ tikal deg tseddart-agi (תגאל, גאל, יגאל, לגאול, אגאל) — asmiggel n tezmert n usekket, ur yuli ara akk deg tsuqilt."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואדע \/ יגאל",
+      "rationale": "Ketiv war waw: 'ad ẓreɣ' neɣ 'ad iẓer'; JPS tettekki deg 'ma ur yettwasukkit ara' (yiqtol n tidet) ma d KJV 'ma terbɣiḍ ara ur tessukkit'."
+    },
+    {
+      "kind": "you",
+      "subject": "Boaz ɣer ueğreb",
+      "rationale": "Awal-agi yettwalmas s tulsa ɣer usekker (goel), deg teẓgi n wid yettawḍen d yimɣaren n wegdud."
+    }
+  ],
+  "translation": "Yerna qqareɣ: ad d-mlen i yimeẓẓuɣ-ik, ini: t-ɣ deg uẓir n yimezdaɣ, d deg uẓir n yimɣaren n wegdud-iw. Ma tessukkteḍ-t, ssukket-it; ma ur tessukkit ara, ini-yi-d, iwakken ad ẓreɣ; axaṭer ulac win beṛṛa n kečč ara isukken, yerna nekki deffir-ik. Inna: Nekki, ad isukkeɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b2cec4d9c3ee31ff8170b149a3a9e98146f123e54efe64624621f44c098c5c4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ruth\/4\/4-4.1791268197678.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "yerna qqareɣ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "qqareɣ"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ad d-mlen"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "i yimeẓẓuɣ-ik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ini"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "t-ɣ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "deg uẓir"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "n yimezdaɣ"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "d deg uẓir"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "n yimɣaren"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "n wegdud-iw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תגאל",
+      "gloss": "tessukkteḍ-t"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ssukket-it"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma ur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "tessukkit"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ini-yi-d"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi-d"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "iwakken ad ẓreɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac win"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "beṛṛa n kečč"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "ara isukken"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "yerna nekki"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "deffir-ik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "אגאל",
+      "gloss": "ad isukkeɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:57.680562184Z",
+  "model": "glm-5.3"
+}

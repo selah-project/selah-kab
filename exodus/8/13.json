@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iknimen",
+      "rationale": "הכנם: kraḍ-iknimen neɣ iknimen; ansa n teqbaylit ur ɣur-s ara awal yettwasnen i zzerɛa-agi imeẓyanen"
+    },
+    {
+      "kind": "addition",
+      "subject": "akk d",
+      "rationale": "taqbaylit tesra aseǧǧiw deg «wemdan akk d lmal»; taɛbranit tessaɣ kan «ugdi»"
+    }
+  ],
+  "translation": "Rran ayagi: Aharon yessider ⟨את⟩ afus-is s taqessabt-is, yeḍreb ⟨את⟩ ɣefṛu n tmurt; llan-d iknimen ɣef wemdan akk d ɣef lmal; ɣefṛu akk n tmurt yuɣal d iknimen, deg tmurt akk n Miṣrayim.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9e5b4c7517f18492bacef89d843d053535d96287309ea5cb6fe2ec129c99974c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/8\/13-15.1791267305469.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Rran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yessider"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus-is"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "s taqessabt-is"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yeḍreb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɣefṛu n tmurt"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ɣefṛu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "llan-d"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "iknimen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ɣef wemdan"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "akk d ɣef lmal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ɣefṛu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yuɣal d"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "iknimen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg…akk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:05.471694653Z",
+  "model": "glm-5.3"
+}

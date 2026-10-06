@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ijdeɣyifen",
+      "rationale": "הפרח d akalad 'taẓawt\/iǧdeɣif' — deg umkan-agi d taẓawt n ṛṛedlaɣ deg umerg, mačči d tamedlaṛt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "temṣuḍaf",
+      "rationale": "המלקחים — tiselḍabin (tweezers), d aneggal; talɣa n twinest deg teɛbranit tettwakkes."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכלות זהב",
+      "rationale": "KJV 'perfect gold' vs YLT 'perfection of gold' — מכלות yezmer ad yili 'azref n ṛṛedlaɣ' neɣ 'ṛṛedlaɣ iffus akk'; nerna 'meṛṛa' am akken yella deg YLT."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ṛṛedlaɣ iffus",
+      "rationale": "Deg-wes-agi n tfelwit d taktayt n wazal: akk isuka yennum-ilin ṛṛedlaɣ iffus."
+    }
+  ],
+  "translation": "d yijdeɣyifen, d yiserseɛ, d temṣuḍaf — ṛṛedlaɣ d-nni, d-nni meṛṛa ṛṛedlaɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "efe6f5ca2c20c2adca9d5e2cbb36c227f5e743ed0680f4158060a92f331b35a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/4\/21-21.1791268302029.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "d yijdeɣyifen"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "d yiserseɛ"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "d temṣuḍaf"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ṛṛedlaɣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d-nni"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ṛṛedlaɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:42.032887534Z",
+  "model": "glm-5.3"
+}

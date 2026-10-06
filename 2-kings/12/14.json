@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 12:14",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מזמרות",
+      "rationale": "awal-agi ur yettwafara ara deg Tanakh ala deg tseddarin-agi n 2Igelliden (d tugett kan)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "timzarkin",
+      "rationale": "מזרקות: tibekkakin n usreg (timsedruyin n idem neɣ n waman); talɣa 'timzarkin' tḥrez aẓar mzrq"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tabdart n yifecka",
+      "rationale": "tiseddart-agi tettazal tabdart n yigetten: tiggasin, imesnagel, timzarkin, iqnaɛ, ifecka n ureɣ d lfḍḍa"
+    }
+  ],
+  "translation": "Anagar ur yettwag ara deg wexxam n Yahwe: tiggasin n lfḍḍa, imesnagel, timzarkin, iqnaɛ, yal afecku n ureɣ d yal afecku n lfḍḍa, seg umaṣruḥ ittwanekken ɣer wexxam n Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "86c3813a1f043dcf3fd19202fb3c93296378f942f22992cbf4eff66cbcdc5fb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/12\/13-14.1791267797117.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "anagar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ara"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yettwag"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "tiggasin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfḍḍa"
+    },
+    {
+      "surface": "מזמרות",
+      "gloss": "imesnagel"
+    },
+    {
+      "surface": "מזרקות",
+      "gloss": "timzarkin"
+    },
+    {
+      "surface": "חצצרות",
+      "gloss": "iqnaɛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "afecku"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n ureɣ"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "d yal afecku"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfḍḍa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "umaṣruḥ"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "ittwanekken"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɣer wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:17.119647983Z",
+  "model": "glm-5.3"
+}

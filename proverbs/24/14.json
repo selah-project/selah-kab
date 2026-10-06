@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 24:14",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "taɛbranit ur tesɛi ara awal-agi n tuqqna; yettwarna i lmend n tseddut n teqbaylit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nnefs",
+      "rationale": "נפש d aneggez n udem, n tmeddurt — qrib ɣer 'nnefs' deg teqbaylit, mačči d 'iḥric n tmeddurt'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית",
+      "rationale": "KJV 'reward' (tidri) ɣef YLT 'posterity' (ittiden); taɛbranit tenna-d 'taggara\/timesriṛ' kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "arraǧ",
+      "rationale": "תקוה s unamek-is alit d 'azrir' (ccḍel); tettwaḥrez s unamek n rray: arraǧ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "i mmi-s",
+      "rationale": "talɣa n talut (כן... דעה) d aneḍru ɣer mmi-s, amzun d ayen i d-yellan deg 24:13"
+    }
+  ],
+  "translation": "Akka, ssen ⟨i⟩ nnefs-ik tiṭ n tneḥlit: ma tufiḍ-tt, yella taggara, d arraǧ-ik ur yettwaɣzem.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8aa298ba71e639f7ba480e54daced6b55928aae3b726bbe245fa32d6dbe9ca37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/24\/14-14.1791268164769.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ssen"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tiṭ n tneḥlit"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "i nnefs-ik"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "tufiḍ-tt"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "taggara"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "d arraǧ-ik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "yettwaɣzem"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:24.770218946Z",
+  "model": "glm-5.3"
+}

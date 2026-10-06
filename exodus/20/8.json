@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iwakken ad",
+      "rationale": "taɛbranit ur tesɛi ara afirenayyu; לקדשו yeddu s wudem n umkan n yiswi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Cfu",
+      "rationale": "ladɣa tanect — amḍiq i Yisrael"
+    },
+    {
+      "kind": "you",
+      "subject": "ladɣa i Yisrael",
+      "rationale": "taseddart-agi seg waṭas n tzuri, tettwala-d i Yisrael"
+    }
+  ],
+  "translation": "Cfu ɣef ⟨wass⟩ n Cabbat, iwakken ad t-iqeddec-eḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e2ed40b161a324795b03b569ff524a40cd57d93f2db6b9dd05fd2a8733b74564",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/20\/8-8.1791267241550.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Cfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ass n Cabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ad t-iqeddec-eḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:01.552501044Z",
+  "model": "glm-5.3"
+}

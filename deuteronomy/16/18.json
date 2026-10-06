@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 16:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ijiḍanen",
+      "rationale": "שפטים d «wid iḥekmen» — yettwafel s yisem n umdan, mačči s teɣri n lmahkama"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשבטיך",
+      "rationale": "«i ṭawaḍin-ik»: KJV\/JPS «throughout thy tribes» — yal ṭaɣaft ad tesɣi ijiḍan-is; yella wannag ɣef «i yiman-ik»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפטים\/ושפטו\/משפט",
+      "rationale": "aẓar špṭ yella-d kraḍ tikkal: ijiḍanen, ad ḥekmen, ccreɛ — aswir-a n tullift ur yeqqim ara akk deg teqbaylit"
+    },
+    {
+      "kind": "measurement",
+      "subject": "siġrawen-ik",
+      "rationale": "talɣa taseddast: yal sigger, yal ṭaɣaft, ijḍan deg-sen"
+    }
+  ],
+  "translation": "Ijiḍanen d yimḍebbren ad d-tefk i yiman-ik deg yal siġrawen-ik, wid i Yemen Yahwe Elohim-ik ad ak-d-yefk, i ṭawaḍin-ik; ad ḥekmen ⟨את⟩ ugdud s lɛahd n ṣedeq — maca s ccreɛ n ṣedeq.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "13362c292ef43e0608e5ce09aa52c498a3969dbc8d5d505677b365701131e3ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/16\/18-18.1791267467370.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטים",
+      "gloss": "ijiḍanen"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "d yimḍebbren"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ad d-tefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "siġrawen-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad ak-d-yefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "לשבטיך",
+      "gloss": "i ṭawaḍin-ik"
+    },
+    {
+      "surface": "ושפטו",
+      "gloss": "ad ḥekmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "s ccreɛ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "n ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:47.375735677Z",
+  "model": "glm-5.3"
+}

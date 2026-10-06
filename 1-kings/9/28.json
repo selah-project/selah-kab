@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 9:28",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kuz n temiḍin d semrin n ṭalantin",
+      "rationale": "amḍan n ureɣ: 420 n ṭalantin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ṭalantin",
+      "rationale": "ככר d taktumt tameqṛanant n wureɣ; 'ṭalant' d awal n tgrikt yettwaṭṭfen"
+    }
+  ],
+  "translation": "Wwḍen ɣer Ofir, ṭṭfen seg din ⟨i⟩-ureɣ — kuz n temiḍin d semrin n ṭalantin — u ḥeṛṛen-t-id ⟨i⟩-ugellid Celomo.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "144d1b550cdebc4e69d98fe39e8832b503cefd13a4573d768d5f2039eceae16f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/9\/27-28.1791267754685.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Wwḍen"
+    },
+    {
+      "surface": "אופירה",
+      "gloss": "ɣer Ofir"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ṭṭfen"
+    },
+    {
+      "surface": "משם",
+      "gloss": "seg din"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ureɣ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kuz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temiḍin"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "d semrin"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ṭalantin"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ḥeṛṛen-t-id"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:34.687423020Z",
+  "model": "glm-5.3"
+}

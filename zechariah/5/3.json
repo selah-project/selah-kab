@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 5:3",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקה",
+      "rationale": "Niphal n נקה: YLT yesɛa 'hath been declared innocent' (yettwabbi d wid n Yisrael akken tella), imsuqalen nniḍen qqlen-t d 'ad yettwakkes\/ad yenger' — anamek n uswadu yettwaḥkem s temsalt."
+    },
+    {
+      "kind": "crux",
+      "subject": "מזה כמוה",
+      "rationale": "D tuccḍa tamessant: 'seg uḥric-a, akken tella' — wangal n yiberdan-agi deg weḍris; imsuqalen qqaren d sin yiberdan n ugiṭun, neɣ d isemzal n tɣuri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פני",
+      "rationale": "Isem n yiwet n tɣawsa imeẓyanen — panim n tmurt; yuɣal d 'wudmawen akk' deg umaḍal-agi."
+    },
+    {
+      "kind": "mystery",
+      "subject": "tameẓla",
+      "rationale": "Tameẓla tamistigurt n lexder i d-ittuffɣen — d aḥric seg wallal ameskil n Zekarya, ayen yettwaffren."
+    }
+  ],
+  "translation": "Yenna-yi: Wagi d lexder i d-ittuffɣen ɣef wudmawen akk n tmurt, axaṭer win akk yettkelsen seg yiwen uḥric, ṭaq akken tella, ad yettunefk, d win akk yettqassen s yiḥric wayeḍ, ṭaq akken tella, ad yettunefk.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4be241803c11bbe3451d1c9825174e1bf5103cd9e7c693633e8b9e82ac956b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/zechariah\/5\/3-3.1791268014848.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-yi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "iyi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Wagi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lexder"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "i d-ittuffɣen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudmawen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "win akk"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "yettkelsen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "seg yiwen uḥric"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "ṭaq akken tella"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "ad yettunefk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d win akk"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "yettqassen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "s yiḥric wayeḍ"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "ṭaq akken tella"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "ad yettunefk"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:54.850654051Z",
+  "model": "glm-5.3"
+}

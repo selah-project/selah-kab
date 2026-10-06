@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Deg taɛbranit 'gezz lɛahd' — lɛahd ttgezzan gar yiwen n yiggiyen; deg teqbaylit 'yexdem lɛahd'."
+    },
+    {
+      "kind": "addition",
+      "subject": "i weɣlan",
+      "rationale": "לו d amaḍal asekkil; yerna ⟨i weɣlan⟩ axaṭer amaḍal-nni ur yettban ara deg teqbaylit."
+    },
+    {
+      "kind": "measurement",
+      "subject": "alugen d ccreɛ",
+      "rationale": "Yeḥucca iseɣγuccan... yesseβan i weγlan alugen d ccreɛ: tabadut n yilugan n leεqda i yebna weḍris."
+    }
+  ],
+  "translation": "Yeḥucca yexdem lɛahd i weɣlan deg wass-nni, yerra-yas ⟨i weɣlan⟩ alugen d ccreɛ deg Cecem.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "263666764333f43d3ec41d3da7b480ed1e4519cde1875f54719af9997ac95571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/24\/25-26.1791267602204.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yeḥucca"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i weɣlan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yerra-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨i weɣlan⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "alugen"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "d ccreɛ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "deg Cecem"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:02.205175483Z",
+  "model": "glm-5.3"
+}

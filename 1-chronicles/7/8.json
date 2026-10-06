@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 7:8",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tumlin n yismawen",
+      "rationale": "Tumilt n yismawen: tisa n warrac n Beḵer tettwabder s yismawen."
+    }
+  ],
+  "translation": "D warrac n Beḵer: Zemira, d Yuwaɛ, d Eliɛezer, d Elyuwaɛinay, d Ɛomri, d Yiremot, d Aviya, d ɛAnatot, d ɛAlamet — akken-agi akk d arrac n Beḵer.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1e4e782fe9970e26cbedb3888527f148ea9160c73f9d76b08e5eb5d142d7b4f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/7\/8-8.1791268310404.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "d warrac n"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "Beḵer"
+    },
+    {
+      "surface": "זמירה",
+      "gloss": "Zemira"
+    },
+    {
+      "surface": "ויועש",
+      "gloss": "d Yuwaɛ"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "d Eliɛezer"
+    },
+    {
+      "surface": "ואליועיני",
+      "gloss": "d Elyuwaɛinay"
+    },
+    {
+      "surface": "ועמרי",
+      "gloss": "d Ɛomri"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "d Yiremot"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "d Aviya"
+    },
+    {
+      "surface": "וענתות",
+      "gloss": "d ɛAnatot"
+    },
+    {
+      "surface": "ועלמת",
+      "gloss": "d ɛAlamet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "akken-agi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "d arrac n"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "Beḵer"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:50.409371997Z",
+  "model": "glm-5.3"
+}

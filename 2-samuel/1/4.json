@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 1:4",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "akked",
+      "rationale": "taqbaylit tesra \"akked\" (d) gar n yisemawen, taɛbranit ur tesɛi ara ayen am akka gar Ccul d Yehonatan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yuzerbed",
+      "rationale": "נס i d-yettwaxleq d \"zerbeḍ\" (urez\/flee) deg teqbaylit; d awal yelhan mačči d tuccḍa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפל\/וימתו\/מתו",
+      "rationale": "asemmed (repetition) n tmekkazt d lmut — iɣli d lmut ttalsen-d deg tfelwit taɛbranit"
+    },
+    {
+      "kind": "you",
+      "subject": "anemlay (amezwaru)",
+      "rationale": "David yettmeslay i wedyul (anemlay) s tmeslayt n usuter: \"Ini-yi-d, ttxil-k\""
+    }
+  ],
+  "translation": "Yenna David ɣur-s: Acu i d-yellan γef wawal-agi? Ini-yi-d, ttxil-k. Yenna-d belli agdud yuzerbed seg umenɣi, aṭas seg ugdud yeɣli-d yemmut, ula d Ccul akked Yehonatan, mmi-s, mman.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8e1a766e9dd4f776f7887d4caa055d6421aeeed879e85e5351cb2b60fb04e2f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/1\/4-4.1791267651192.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "i d-yellan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal-agi"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ini-yi-d"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ttxil-k"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yi-d"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נס",
+      "gloss": "yuzerbed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "umenɣi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yeɣli-d"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mman"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ula d"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ccul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mman"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:51.197785072Z",
+  "model": "glm-5.3"
+}

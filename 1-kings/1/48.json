@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 1:48",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yettwaɛezz",
+      "rationale": "ברוך d participe passif n taɛbranit; taqbaylit ur tesɛi ara talɣa-is, 'yettwaɛezz' (yettwali) i yettwafen."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨win yeqqimen⟩ · ⟨ttwalint⟩",
+      "rationale": "Iḍris n taɛbranit yeqqim d participes (יושב · ראות) war awal n wemdan; taqbaylit tesserḥa-ten s talɣa n ufellay."
+    }
+  ],
+  "translation": "Daɣen akka i yenna ugellid: Yettwaɛezz Yahwe, Elohim n Yisrael, ayen yefka ass-a ⟨win yeqqimen⟩ ɣef taxsat-iw, d tiṭṭawen-iw ⟨ttwalint⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "edeedc4f4613dad26c94115d0161faee58b9313ea1f9483dfc34833ba4ac9cb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/1\/46-48.1791267781913.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i yenna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "yettwaɛezz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "win yeqqimen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "taxsat-iw"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "d tiṭṭawen-iw"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ttwalint"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:01.915620131Z",
+  "model": "glm-5.3"
+}

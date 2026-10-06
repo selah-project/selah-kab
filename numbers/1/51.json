@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "abeṛṛani",
+      "rationale": "הזר d tidet d 'abeṛṛani\/win ur nelli seg teǧǧumert', mačči kan d 'aɛribi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יומת",
+      "rationale": "'ad immut' (yinumak yelhan: ad yettwanɣ) — GJP 'the common man' vs 'the stranger'"
+    }
+  ],
+  "translation": "Mi ara yeddu Mickan, Leviim ad t-glizmen ⟨אתו⟩; mi ara yettwazdeg Mickan, Leviim ad t-sbedden ⟨אתו⟩; ma d abeṛṛani i d-yeqqeraben, ad immut.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "996427f9cb09c1e843bd53af6dfa9041e6593b05b1e917a05626f13bdc3facc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/1\/51-51.1791267332571.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "mi ara yeddu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "ad t-glizmen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Leviim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviim"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "mi ara yettwazdeg"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "ad t-sbedden"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Leviim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviim"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ma d abeṛṛani"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "i d-yeqqeraben"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad immut"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:32.572204746Z",
+  "model": "glm-5.3"
+}

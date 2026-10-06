@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נלעג לשון",
+      "rationale": "לעג iwakken ad yemmeslay d abeṛṛani: 'iles iɣerdan' (KJV) neɣ 'iles n yiɛdawen yettwaceɛḍen' (YLt); msufa ɣur-k iles iɣerdan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עמקי שפה",
+      "rationale": "'ṣeṣfa texra' — s taqbaylit: awal ixuṛṛen, ihi 'n wawal ixuṛṛen'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ttawel",
+      "rationale": "אין בינה yesɛa kan 'ulac ttawel'; ⟨…⟩ yettwarnan axaṭer tamawalt n taqbaylit tessutur talɣa."
+    }
+  ],
+  "translation": "Ur tettwaliḍ ara ⟨את⟩ wegddud iǧehhlen, agdud n wawal ixuṛṛen i wakken ad tfehmeḍ, iɣerdan s yiles, ulac ⟨ttawel⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "df7aba1f7750e7a5918f7367acfa4694f6322ce28e0f1a9bf50c5140ce420ac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/33\/19-19.1791267823742.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wegddud iǧehhlen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wegddud"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "iǧehhlen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur...ara"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tettwaliḍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ixuṛṛen"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "n wawal"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "i wakken ad tfehmeḍ"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "iɣerdan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "s yiles"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ttawel"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:43.743035800Z",
+  "model": "glm-5.3"
+}

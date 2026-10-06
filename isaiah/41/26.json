@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 41:26",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מגיד\/משמיע\/שמע",
+      "rationale": "Repetition of שׁמע root and נגד root — threefold 'ulac win' refrain builds the rhetorical triple, kept by repeating 'xas, ulac win'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומלפנים",
+      "rationale": "Literally 'and from before (faces)' — rendered 'uqbel kan' (beforehand); some read 'from the east' (panim as direction)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדיק",
+      "rationale": "Hebrew 'ṣadiq' = righteous\/just; 'Iqedc' from qdc root per discipline, contextually 'He is in the right'."
+    },
+    {
+      "kind": "you",
+      "subject": "awalen-nnwen",
+      "rationale": "Direct address to the idols\/followers — 'your words', second-person plural ending in אמריכם."
+    },
+    {
+      "kind": "mystery",
+      "subject": "anwa i d-yennan",
+      "rationale": "Rhetorical challenge question: who announced it from the beginning — only Yahwe can, no one else heard or declared."
+    }
+  ],
+  "translation": "Anwa i d-yennan seg tazwara, iwakken ad neẓ? Uqbel kan, iwakken ad nini: Iqedc? Xas, ulac win i d-yennan, xas, ulac win immeslayen, xas, ulac win isellen ⟨awalen-nnwen⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4cf7706564d5ab0d4d219ba9cb12cf2261c97136c99d3db78a5f3ad2d445da09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/41\/26-26.1791267806530.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Anwa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "seg tazwara"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ad neẓ"
+    },
+    {
+      "surface": "ומלפנים",
+      "gloss": "uqbel kan"
+    },
+    {
+      "surface": "ונאמר",
+      "gloss": "ad nini"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Iqedc"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac win"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "i d-yennan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac win"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "immeslayen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "xas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac win"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "isellen"
+    },
+    {
+      "surface": "אמריכם",
+      "gloss": "awalen-nnwen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:26.532928768Z",
+  "model": "glm-5.3"
+}

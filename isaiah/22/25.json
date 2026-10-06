@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 22:25",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aseḥsi",
+      "rationale": "היתד d aseḥsi (peg) — tamḥant n Eliyaqim (Is 22:23), mačči d amdan neɣ d ayen-nniḍen"
+    },
+    {
+      "kind": "crux",
+      "subject": "uhuddu i המשא",
+      "rationale": "המשא yezmer ad yili d ahuddu (burden) neɣ d tullist (oracle) — tikelt-agi ahuddu, axaṭer fell-as taqbullilt"
+    },
+    {
+      "kind": "elision",
+      "subject": "תמוש",
+      "rationale": "mūš: 'ad yeffeɣ yiwen' — awal-aqbur yekka deg Ḥebrew, ulac wayen icuban deg teqbaylit"
+    }
+  ],
+  "translation": "Deg wass-nni, i d-yenna Yahwe Ṣebaot, ad yeffeɣ yiwen useḥsi yettwaṭṭfen deg umkan umnen, ad yettwaɣẓaẓ, ad yili, ad yettwakkes uhuddu yellan fell-as, axaṭer Yahwe i d-yenna.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "374999c5cd7124670aedcbe564167ac2ad4449a93e5e4670a9b2ab11393d14a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/22\/25-25.1791267822039.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "deg wass-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "תמוש",
+      "gloss": "ad yeffeɣ yiwen"
+    },
+    {
+      "surface": "היתד",
+      "gloss": "aseḥsi"
+    },
+    {
+      "surface": "התקועה",
+      "gloss": "yettwaṭṭfen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "umnen"
+    },
+    {
+      "surface": "ונגדעה",
+      "gloss": "ad yettwaɣẓaẓ"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ad yettwakkes"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "uhuddu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:42.040492122Z",
+  "model": "glm-5.3"
+}

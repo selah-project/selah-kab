@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ma yeffeɣ yiṭij fellas",
+      "rationale": "Aḍris i d-yenna: ma yeffeɣ yiṭij fellas; kra n yimsuqlen qqaren-as 'ma yella wawal iḍan', maca aḍris aqbur d ansi n yiṭij."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Talɣa n usmgersed (infinitif absolu): lxlas ad yexles — snat n tikkal n yiwen n wawal, tettwaseḥrez deg tsuqilt."
+    },
+    {
+      "kind": "alternative",
+      "subject": "idammen ines ad ilin",
+      "rationale": "Inamek alit: 'ad tili d tin n idammen fellas', i.e. ad yili d amenṭel n idammen."
+    }
+  ],
+  "translation": "Ma yeffeɣ yiṭij fellas, idammen ines ad ilin; lxlas ad yexles; ma ulac inna-s, ad yettwazneg i ugertel-ines.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a55bba466cfdfe0e27a511b8867e5eeb8cc460fe5710933a96cd7e3ba9d58675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/22\/2-3.1791268421218.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fellas"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ines"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "lxlas"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ad yexles"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ma ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inna-s"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ad yettwazneg"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "i ugertel-ines"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:41.219123188Z",
+  "model": "glm-5.3"
+}

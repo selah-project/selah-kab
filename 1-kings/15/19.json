@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "illan",
+      "rationale": "taɛbranit ur tesɛi ara awal n unamek 'yella'; ilaq i teqbaylit"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨du⟩",
+      "rationale": "לך (imperative n ילך) yettwaṭṭef d 'du \/ ẓer' — talad n tḥerci yettwarnan i teqbaylit"
+    },
+    {
+      "kind": "you",
+      "subject": "i Benḥadad",
+      "rationale": "tinqedt n Asa ɣer ugellid n Surya — tameslayt tusligt s 'kečč'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויעלה מעלי",
+      "rationale": "taliter: 'ad yuli seg-iw' — deg tuɣalin nnsen 'ad yeffeɣ \/ ad ineg seg-iw'"
+    }
+  ],
+  "translation": "Lɛahd illan ger-iw d kečč, ger baba d bab-ik; atan, uzen-ak-d ttelɣemt n lfḍaḍ d wureɣ; ⟨du⟩, ḥerrig ⟨את⟩ lɛahd-ik ⟨את⟩ Beɛca agellid n Yisrael, iwakken ad yuli seg-iw.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "0f27fe8a11e55d3fa3fb8c81d1e29e0de0744304527753b7d82f5c4a1b3031e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/15\/19-19.1791268405249.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ger-iw"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "d kečč"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ger"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bab-ik"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "atan"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "uzen-ak-d"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ttelɣemt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lfḍaḍ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "d wureɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨du⟩"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ḥerrig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛahd-ik"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "lɛahd-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beɛca"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Beɛca"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "ad yuli"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "seg-iw"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:25.253152179Z",
+  "model": "glm-5.3"
+}

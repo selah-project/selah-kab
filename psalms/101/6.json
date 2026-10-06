@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ad ilint",
+      "rationale": "Taɛbranit ur tesɛi ara feccal (être) deg uḍris-agi; taqbaylit yessefk"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשבת",
+      "rationale": "Anamek n yirtagen: 'iwakken ad zedgren' (iseggas) neɣ 'zedgren' d usuddem (KJV vs JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yexdem yid-i",
+      "rationale": "שׁרת d anamek n 'qennel, kenner d win i d-ittgen tanemmirt'; taqbaylit ur tesɛi ara awal aesyan"
+    }
+  ],
+  "translation": "Tiḍ-inu ⟨ad ilint⟩ ɣef yemudden n tmurt, iwakken ad zedgren yid-i; win iteddun deg ubrid n tiddin, netta ad yexdem yid-i.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1036d13f7cf7d31470d47aa483c6c39af35165d7ee2add9750a0caeb8254a337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/101\/6-6.1791268111101.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "tiḍ-inu"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "i yemudden n"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "iwakken ad zedgren"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "win iteddun"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "n tiddin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ad yexdem yid-i"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:31.102160246Z",
+  "model": "glm-5.3"
+}

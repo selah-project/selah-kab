@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 29:15",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taɣect-inaḥen",
+      "rationale": "שפלה d 'tawinest, d taɣect' — talɣa n wawal mačči d amansan"
+    },
+    {
+      "kind": "elision",
+      "subject": "min",
+      "rationale": "מן tettwameggar d 'deg' deg unamek n 'gar' — yelt deg tnelli"
+    }
+  ],
+  "translation": "Deg tegti n yiggelden ad tili d taɣect-inaḥen, ur d-tt-yeffer ara iman-is ugarac ɣef leǧnas; nwagi jdeɣ-ten, akken ur sseɛḍen ara leǧnas.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "77ddaf4135cf400f7b9feb66f8953b150c59ac279ba972d7300b363bcb3e3db5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/29\/15-15.1791267928119.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "tegti n yiggelden"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "d taɣect-inaḥen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תתנשא",
+      "gloss": "ffeṛ iman-is"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugarac"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "והמעטתים",
+      "gloss": "jdeɣ-ten"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "akken ur ... ara"
+    },
+    {
+      "surface": "רדות",
+      "gloss": "sseɛḍ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "leǧnas"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:28.119971993Z",
+  "model": "glm-5.3"
+}

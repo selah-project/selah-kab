@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 25:7",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i t-ider",
+      "rationale": "taɛbranit ur tesɛi ara taɣawsa n wawal i d-yettwaḍefren; tettwarn i wakken ad izedg tilist"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רמח",
+      "rationale": "tiɣreft — awal-agi yella-d kan drus deg Tanakh; d allal n umenɣi yettwaznen"
+    }
+  ],
+  "translation": "Pinḥas, mmi-s n Elɛazar, mmi-s n Aharon, akohen, i t-ider, yuli-d seg talemmast n temseɣret, yewwi-d tiɣreft deg ufus-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "cfa9a8b2e1203a1c6d81c0829500a0b19483496f8a391c223365380e3b113ab9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/25\/7-8.1791267489869.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i t-ider"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinḥas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elɛazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "seg talemmast"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "n temseɣret"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "רמח",
+      "gloss": "tiɣreft"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:09.876828362Z",
+  "model": "glm-5.3"
+}

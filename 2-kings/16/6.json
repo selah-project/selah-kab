@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וארמים",
+      "rationale": "Ketiv 'Arameans' vs qere\/margin 'Edomites' (אדומים); JPS 'Edomites' is geographically logical since Aram could not hold Elath far to the south — Idomitentiyen yettwafren."
+    },
+    {
+      "kind": "elision",
+      "subject": "ההיא",
+      "rationale": "Deg wakud-nni yessaɣ umata n unamek; amuki n taɛbranit yettwamegzel."
+    }
+  ],
+  "translation": "Deg wakud-nni, Retsin, agellid n Aram, d-yerra ⟨את⟩ Aylat i Aram, iṣuffa ⟨את⟩ Yehudiyen seg Aylat; Idomitentiyen kecmen ɣer Aylat, ṣeḥben din almi d ass-a.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c7787a64f99b48a9a4a92315662fdb136cd7ab14e95e05b66b54c085d4358f7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/16\/6-6.1791267707307.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "deg wakud-nni"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "agi"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "d-yerra"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Aylat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "i Aram"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "iṣuffa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudiyen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudiyen"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "seg Aylat"
+    },
+    {
+      "surface": "וינשל-ארמים",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "Idomitentiyen"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Aylat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ṣeḥben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi d"
+    },
+    {
+      "surface": "היום הזה",
+      "gloss": "ass-a"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:47.311413590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aɣrum",
+      "rationale": "לחם d akk awal n lqut, maca yettwarna-d d \"aɣrum\" (tabret) akka am tira tameqburant"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aɣrib",
+      "rationale": "גר d \"anmuddur\" (win yettṭebbiɛen), ur yelli ara d \"aɛebbi\" kan"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩ talma",
+      "rationale": "taqbaylit tesra tazmilt ɣer talɣa n uneḥbus, taɛbranit ur tesɛi ara"
+    }
+  ],
+  "translation": "Yexdem ccreɛ i wgugil akked ⟨i⟩ talma, iḥemmel aɣrib, ad as-yefk aɣrum d taqendurt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4eb8d5c1659078536360f30305fd2a3c36e6846b67df0f6f7a22695e03b19b76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/10\/18-18.1791267492629.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "i wgugil"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "akked ⟨i⟩ talma"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "iḥemmel"
+    },
+    {
+      "surface": "גר",
+      "gloss": "aɣrib"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "d taqendurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:12.633333625Z",
+  "model": "glm-5.3"
+}

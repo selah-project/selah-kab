@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lḥiṣ",
+      "rationale": "מצד d aḥiṣ amdanan, amezwaru yettwabdren deg Tazwara 1:2"
+    },
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "Taɛbranit tesɛa talɣa n usdukkel (עיר דויד), taqbaylit tesra tanekda"
+    }
+  ],
+  "translation": "David yezdeɣ deg lḥiṣ; ɣef waya semman-as tamdint n David.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "047a62eb96ef91d841e8a0f943c3632c3fb4dcec6aac3506ff05e26e4365fdda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/11\/7-8.1791268327652.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "deg lḥiṣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "semman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "n David"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:07.656751545Z",
+  "model": "glm-5.3"
+}

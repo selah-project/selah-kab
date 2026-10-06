@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "Infinitive absolute + finite verb: intensification — 'ad timteḍ, timteḍ ardeqqal' (aṭas ad timteḍ)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביום",
+      "rationale": "'Deg wass' ideg tett: Adam ur yemmut ara deg wass-nni; kra n yisuqalen ḥeṣṣen 'deg wass' = deg Tallit (leεmer), wayeḍ ḥsaben d allus n tɣawsiwin"
+    },
+    {
+      "kind": "addition",
+      "subject": "n",
+      "rationale": "Taqbaylit tessaḥa s wawal n unuzwir 'n' deg 'n dir d n dir' — d tira n unamek, mačči n taɛbranit"
+    }
+  ],
+  "translation": "Ma deg weggun n tmussni n dir d n dir, ur tt-id teṭṭfeḍ ara segs; axaṭer deg wass ideg tett-id teṭṭfeḍ segs, ad timteḍ ⟨ad timteḍ ardeqqal⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1a8d84343a26358eca9d22208e980529370feacda1b9bbbc824d7ee256809f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/2\/17-17.1791267245021.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "ma deg weggun n"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "tmussni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "n dir"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "d n dir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tett-id teṭṭfeḍ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "segs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ideg tett-id teṭṭfeḍ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "segs"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ad timteḍ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "timteḍ ardeqqal"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:05.022322802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iɣlan",
+      "rationale": "Taqbaylit tessutur tajmilt; taɛbranit tessenta kan העם s teqsiḍt"
+    },
+    {
+      "kind": "addition",
+      "subject": "ɣer",
+      "rationale": "taɛbranit tessenta abeddel d lemkan war tazwara, taqbaylit tessutur ɣer"
+    },
+    {
+      "kind": "invitation",
+      "subject": "yyet",
+      "rationale": "Cemouwel isawal i yiɣlan s tladist: yyet, ad nruḥ"
+    }
+  ],
+  "translation": "Yenna-d Cemouwel i ⟨iɣlan⟩: yyet, ad nruḥ ɣer Gilgal, ad nernu tageldit din.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "438529dc4d6facb8a3fb0fb88b2cbd73ff48375729d4ba2fd5fee89bc10dc0be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/11\/14-14.1791267640728.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemouwel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨iɣlan⟩"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yyet"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ad nruḥ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ɣer Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "ad nernu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "tageldit"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:40.731626605Z",
+  "model": "glm-5.3"
+}

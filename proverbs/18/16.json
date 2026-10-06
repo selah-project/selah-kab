@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tessider tamnaḍt",
+      "rationale": "ירחיב 'ad tesder\/ad thehhel' — yal tasuqilt tettmeslay ɣef 'tawwurt\/ameckan', d tazmert n tikkelt i d-ibeggnen"
+    },
+    {
+      "kind": "alternative",
+      "subject": "t-tewwi-t",
+      "rationale": "ינחנו 'ad t-iggi \/ ad t-ihdu' — 'ad t-iggi ɣer zdat n yimeqqṛanen' d taɣda n tidet tamezwarut"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדלים",
+      "rationale": "גדול yezmer ad yeg 'imeqqṛanen' neɣ 'widan iẓuranen' — talɣa n leɛdub i d-iteddun seg usgadda"
+    }
+  ],
+  "translation": "Tikkelt n umdan tessider-as tamnaḍt, u zdat imeqqṛanen t-tewwi-t.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4c5b04f535fa7f96ee9a3f76dc0cc80f1e6fff41292d830f76fcb783e03b1baa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/18\/16-16.1791268175950.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "tikkelt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n umdan"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "tessider tamnaḍt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "u zdat"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "imeqqṛanen"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "t-tewwi-t"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:35.951375187Z",
+  "model": "glm-5.3"
+}

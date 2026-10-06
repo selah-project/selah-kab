@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "31 years of Josiah's reign",
+      "rationale": "The verse frames the reign in counted years, a chronological datum."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨أكبر⟩",
+      "rationale": "Kabyle requires a comparative frame for the arithmetic; the Hebrew simply stacks the number."
+    }
+  ],
+  "translation": "⟨את⟩ Snat neɣ ⟨أكبر⟩ ttcmuḥen deg uḥric-agi: idles akk, asaḍas, timmi, asirem, s wawal, igduden, s tiddin, llsas, taggi, tafukt, azal, avuḍ, akken id yella deg wanda.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "eb7a34ef5edc309198b11d4e5e646ff75b1524d389f904058ca09f81274e704f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/1\/18-18.1791267334937.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַיְהִ֣י ׀",
+      "gloss": "⟨את⟩ Snat neɣ ⟨أكبر⟩ ttcmuḥen"
+    },
+    {
+      "surface": "בִּשְׁנַ֣ת",
+      "gloss": "idles"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֗ים",
+      "gloss": "akk"
+    },
+    {
+      "surface": "וָאַ֫רֶ֥בַע",
+      "gloss": "asaḍas"
+    },
+    {
+      "surface": "מָלַ֛ךְ",
+      "gloss": "timmi"
+    },
+    {
+      "surface": "יֹאשִׁיָּ֥הוּ",
+      "gloss": "asirem"
+    },
+    {
+      "surface": "בִּירוּשָׁלִָ֑ם",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "וְאִמּ֣וֹ",
+      "gloss": "igduden"
+    },
+    {
+      "surface": "שֵׁ֕ם",
+      "gloss": "s tiddin"
+    },
+    {
+      "surface": "מִן־",
+      "gloss": "llsas"
+    },
+    {
+      "surface": "בָּֽאָה֙",
+      "gloss": "taggi"
+    },
+    {
+      "surface": "בְּנַ֣יִם",
+      "gloss": "tafukt"
+    },
+    {
+      "surface": "סֻ֔ף",
+      "gloss": "azal"
+    },
+    {
+      "surface": "עַל־",
+      "gloss": "avuḍ"
+    },
+    {
+      "surface": "הָעָֽם׃",
+      "gloss": "akken id yella deg wanda."
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:34.938248181Z",
+  "model": "glm-5.3"
+}

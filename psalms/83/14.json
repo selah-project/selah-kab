@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨d nutenti⟩",
+      "rationale": "taɛbranit ur tesɛi ara taɣect deg umḍfir n tenfalit n tɣawsiwin, taqbaylit tesra-t"
+    },
+    {
+      "kind": "crux",
+      "subject": "azallag",
+      "rationale": "גלגל: azallag neɣ lɣuba ara d-izzizwen s ruaḥ — yelti d azallag kan ayef tettwaf tlalit n wawal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruaḥ",
+      "rationale": "רוח yettwaru s timesliyin-is: ruaḥ, maca mačči d 'aḍu' weḥd-s"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim-iw",
+      "rationale": "anuṣṣi n unammar ɣer Elohim s yisem-is"
+    }
+  ],
+  "translation": "Elohim-iw, err-itent ⟨d nutenti⟩ am uzallag, am teɣsit yuẓen qbel ruaḥ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "91a8e6b2a9cfb0b7fc334f017e2d37a2ebd2996c8a1ca98120ba6010e617e052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/83\/14-14.1791268089816.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iw"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "err-itent"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "am uzallag"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "am teɣsit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:09.817643725Z",
+  "model": "glm-5.3"
+}

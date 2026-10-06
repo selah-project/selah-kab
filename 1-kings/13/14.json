@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 13:14",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האלה",
+      "rationale": "d tajmeṛt tazeṭṭit: 'terebint' (JPS) neɣ 'tanemmut' — 'ttejmeṛt' deg teqbaylit tettawḍal d tajmeṛt tameqṛant"
+    },
+    {
+      "kind": "addition",
+      "subject": "Necc d necc",
+      "rationale": "taɛbranit tenna kan 'אני' — awal n teqbaylit yettraǧun asekkilel i wakken ad yefhem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האתה...אני",
+      "rationale": "asteqsi d tririt s wawal yiwen: 'kecc?' — 'necc' — tanmeẓla tameslayt "
+    }
+  ],
+  "translation": "Yunag deffir umdan n Elohim, i t-id-yufa yettṭef ddaw ⟨teǧǧa⟩ n ttejmeṛt. Yenna-yas: Kecc, d kecc ⟨i⟩ d amdan n Elohim win i d-yekknen seg Yahuda? Yenna: Necc d necc.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bd78548e9d9929cc32d3f51d0764925b83525dfde15b552e52adf1c0c196f420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/13\/13-14.1791267748675.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Yunag"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umdan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "i t-id-yufa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yettṭef"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ttejmeṛt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-yas"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Kecc, d kecc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umdan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "באת",
+      "gloss": "win i d-yekknen"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "seg Yahuda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Necc d necc"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:28.676456926Z",
+  "model": "glm-5.3"
+}

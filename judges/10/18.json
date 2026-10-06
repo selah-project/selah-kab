@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 10:18",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחל",
+      "rationale": "חלל: amezwaru 'yebda\/ibedden deg zdat' (akken KJV\/JPS) neɣ 'ad iḥerreb' (gemarra taɣermast); deg tanaka, יחל deg ussuɣel-a d 'yebda'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Taqbaylit yesra tazwart 'i' deg wemkan n lɛahd n uṣeḥḥa, taɛbranit ur ɛiṭṭil ara."
+    },
+    {
+      "kind": "you",
+      "subject": "to inebbayen n Gilɛad",
+      "rationale": "Awal yettwademmar ɣer sɣur n imdanen, s teqsiṭ i sin igiman."
+    }
+  ],
+  "translation": "Wid n ugdud, inebbayen n Gilɛad, nnan yiwen i waɛebbuḍ-is: Anwa d argaz ara ibedden deg zdat ad yennuɣ mgal arraw n Ɛamun? Nutni ad yili d aqeṛṛu ⟨i⟩ yimezdaɣ akk n Gilɛad.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "dc4d556d80a8c03067ea1443e0921adb01e06e9bd7cf57d6b3bb5c2615bb6ae0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/judges\/10\/18-18.1791267582093.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wid n ugdud"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "inebbayen"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "aɛebbuḍ-is"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "yebda"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ad yennuɣ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mgal arraw n"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "d aqeṛṛu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i…akk"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yimezdaɣ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilɛad"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:42.096253926Z",
+  "model": "glm-5.3"
+}

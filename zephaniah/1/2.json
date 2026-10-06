@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסף",
+      "rationale": "Infinitive absolu + verb yeɣlin: aseddun n tarrayt, 'ad kkseɣ ad kkseɣ' — tixutert i d-yesbeggnen tifawt n wedɣaɣ"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "rationale": "כל yettwahegga s 'akk' — 'akk ayen yellan' n tsuqil tiqukal yettwakkes iḥerf-agi"
+    },
+    {
+      "kind": "crux",
+      "subject": "אסף",
+      "rationale": "Ansi-t uman n lemmas: אסף 'gathering' mgal סוף 'to terminate' — snat n tɣuri, yiwet n tira"
+    }
+  ],
+  "translation": "Ad kkseɣ, ad kkseɣ akk seg wudem n tmurt, i d-yenna Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ba401209a3f39d690479de78bfff8f6c3a2aa9b90674b6fc5d64f84a1d05abff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/zephaniah\/1\/2-2.1791267999876.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ad kkseɣ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ad kkseɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wudem n"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:39.877316415Z",
+  "model": "glm-5.3"
+}

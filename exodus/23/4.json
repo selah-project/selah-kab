@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iɛdawen",
+      "rationale": "אֹיֵב deg umḍan yettwamuqel d 'iɛdawen' i yesɛan talɣa n tugdut, ma d taɛbranit d tayunt 'win k-ikerhen'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיבנו",
+      "rationale": "Asget n uselkem (infinitif absolu) i yesɛan talɣa n usduray: 's tadimit ad t-id-treɛdeḍ' — talɣa n tmara tettwaseggej s 's tadimit'"
+    }
+  ],
+  "translation": "Ma tgeldeḍ s tagara azger n iɛdawen-ik, neɣ aserdun-is innetlafen, ad t-id-treɛdeḍ s tadimit ɣur-es.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "926aea168fb0040255747c997437b738e0dc3ce19bf78e5da96e2ca93994a3ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/23\/4-4.1791267243373.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "tgeldeḍ s tagara"
+    },
+    {
+      "surface": "שור",
+      "gloss": "azger"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "n iɛdawen-ik"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "aserdun-is"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "innetlafen"
+    },
+    {
+      "surface": "השב",
+      "gloss": "s tadimit"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ad t-id-treɛdeḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɣur-es"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:03.373563357Z",
+  "model": "glm-5.3"
+}

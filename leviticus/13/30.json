@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lmeṛḍa",
+      "rationale": "צרעת mačči kan lepra; d tawsiɛt n yinumak n 'lmeṛḍa n usergi' deg uḍris alqiḥani"
+    },
+    {
+      "kind": "crux",
+      "subject": "arazzaɣi",
+      "rationale": "טמא iḥudd aṭas ugar n 'araḥmeḍ'; 'arazzaɣi' d netta i d-yeqqben aṭas n tikkal deg weḥric-a"
+    },
+    {
+      "kind": "addition",
+      "subject": "win iḥudden",
+      "rationale": "אתו yettṭaffar amdan i d-yessegmen ḥa-kohen, isem-nni ur yelli ara deg uḍris"
+    }
+  ],
+  "translation": "Ad iwali ḥa-kohen ⟨את⟩ lenwaɛ, ihi ma yella udhar-is yeḥmaq ɣef yiri-agi n tfellelt-tagi, ma yella sisi telɣemt-is tawraɣt tamecṭuḥt, ihi ḥa-kohen ad d-yini d arazzaɣi: d neteq ay d lmeṛḍa n yiẓr neɣ n teḥrart i d-ella.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7e072f210d2d6889abb3527a40ea4e3e346647a21ca4d362ae25ccdc3a97de15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/13\/30-30.1791267341195.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ad iwali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ḥa-kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lenwaɛ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lenwaɛ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ihi ma yella"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "adhar-is"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "yeḥmaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העור",
+      "gloss": "tfellelt"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ma yella sisi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "telɣemt"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "tawraɣt"
+    },
+    {
+      "surface": "דק",
+      "gloss": "tamecṭuḥt"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ad d-yini d arazzaɣi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "win iḥudden"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ḥa-kohen"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "neteq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ay d-ella"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "lmeṛḍa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "yiẓr"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "teḥrart"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-ella"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:41.197988057Z",
+  "model": "glm-5.3"
+}

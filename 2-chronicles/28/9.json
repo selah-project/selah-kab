@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 28:9",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד לשמים הגיע",
+      "rationale": "Ḥdad tamyurt taɛbranit 'tewweḍ armad igenwan' — tazra-nsen terkeb ar igenni, amzun d tiṭ teɛnan tikli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "teẓda \/ tazra",
+      "rationale": "חמה (aṭas n weṣud) d זעף (tazra) sin n wawalen n teɛbranit i yemgerraden cwiṭ; taqbaylit tesɛa kan yiwet n tsertit."
+    },
+    {
+      "kind": "you",
+      "subject": "i weɛesker n Comeron",
+      "rationale": "Navi Ɛoded isla-yen-d s talwit i yiserdasen n Yisrael i d-yewwin ayt Yehuda d tjinin."
+    }
+  ],
+  "translation": "Din yella yiwen n navi n Yahwe, Ɛoded isem-is; yeffeɣ ɣer zdat n weɛesker i d-ikecmen ɣer Comeron, yenna-yasen: Wali, seg teẓda n Yahwe, Elohim n yibanen-nwen, ɣef Yehuda, yerra-ten deg yifassen-nwen, tessenvet degsen s tazra, arma d igenwan teṭṭef.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "dead9326494c197ece479bdc275f9b30a0111bfe0d82f67f99be4e35ca4df232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/28\/9-9.1791268385630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "din"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yella"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "עדד",
+      "gloss": "Ɛoded"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "isem-is"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "weɛesker"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "i d-ikecmen"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "ɣer Comeron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yasen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Wali"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "seg teẓda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "n yibanen-nwen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "yerra-ten"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "deg yifassen-nwen"
+    },
+    {
+      "surface": "ותהרגו",
+      "gloss": "tessenvet"
+    },
+    {
+      "surface": "בם",
+      "gloss": "degsen"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "s tazra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "d igenwan"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "teṭṭef"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:05.631416372Z",
+  "model": "glm-5.3"
+}

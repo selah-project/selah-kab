@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 1:47",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bab-nneɣ",
+      "rationale": "אדנינו da d taggalt n wemdan (David), d aḥequ i 'bab' amačči d Adonai n Ṛebbi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "teɣnewt",
+      "rationale": "המשכב d taɣnewt (adeg n usgunfu n ugellid ameẓyan); 'Mickan' mačči d agdi, макčči d tapersa."
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim-ik",
+      "rationale": "ייטב אלהיך: 'ad yezzin Elohim-ik' (KJV\/ASV 'God make') neɣ 'Elohim-ik ad yezzin' (YLT 'Thy God doth make') — ilugan n uḍris yessefk ad qqimen d taggalt."
+    }
+  ],
+  "translation": "Daɣen iqeddacen n ugellid kecmen ad nnin ⟨את⟩ bab-nneɣ agellid David, ma d widen qqaren: Ad yezzin Elohim-ik ⟨את⟩ yisem n Cileman ɣef yisem-ik, ad yesɛeddi ⟨את⟩ taxsat-is ɣef taxsat-ik. Agellid yeknu ɣef teɣnewt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "edeedc4f4613dad26c94115d0161faee58b9313ea1f9483dfc34833ba4ac9cb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/1\/46-48.1791267781913.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "iqeddacen n"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ad nnin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bab-nneɣ agellid David"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "bab-nneɣ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ma d widen qqaren"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ad yezzin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem n Cileman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yisem"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "n Cileman"
+    },
+    {
+      "surface": "משמך",
+      "gloss": "ɣef yisem-ik"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ad yesɛeddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxsat-is"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "taxsat-is"
+    },
+    {
+      "surface": "מכסאך",
+      "gloss": "ɣef taxsat-ik"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yeknu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "teɣnewt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:01.915317973Z",
+  "model": "glm-5.3"
+}

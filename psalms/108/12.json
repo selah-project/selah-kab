@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Tanaffut n unɣi yettwarnan i waɛray, ulac-itt deg uḍris aɛbranit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלא ... ולא",
+      "rationale": "Asenmeḥu gar sin n yisekkeren: asiwel amezwaru yesɛa alef (הֲלֹא), wis sin ala לֹא — taḥcacit n tefyirt i ruḥen deg tsuqilt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yerẓa",
+      "rationale": "זנח yezmer daɣen ad yili d 'yeǧǧa-aɣ'; sufɣeɣ i yettwafen am uẓar n taddadt"
+    }
+  ],
+  "translation": "Mačči kečč, a Elohim, i yessuffɣen-aɣ? Mačči kečč, a Elohim, ara d-yeffɣen deg yiserdasen-nneɣ?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "0928271ac8d96557ca06eac7987a57aa01b31836bf670e9dc642cd903969d866",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/108\/12-12.1791268082245.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "i yessuffɣen-aɣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ara d-yeffɣen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "deg yiserdasen-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:02.246481876Z",
+  "model": "glm-5.3"
+}

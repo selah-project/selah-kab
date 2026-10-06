@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 26:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "taggelɣit taɛebranit 'Yahwe yettidir' — taɣuri n wudem, tettwaḥrez akken tella"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני מות",
+      "rationale": "'arraw n tmut' s tsuqilt tasnawant; KJVs qqaren 'arrant ad mmten' — talɣa taɛbranint tettwaḥrez"
+    },
+    {
+      "kind": "you",
+      "subject": "Abner d yiserdasen",
+      "rationale": "David i d-yettwarnan s tmacahut: 'kunwi d arraw n tmut'"
+    }
+  ],
+  "translation": "Ur nelli d lxiṛ wayen i txedmeḍ. Yahwe yettidir, kunwi d arraw n tmut, axaṭer ur tḥerzem ara ɣef bab-wen, ɣef Maciaḥ n Yahwe. Tura wali anida tella tneccabt n ugellid d ⟨את⟩ tikerrut n waman yellan ɣef iɣef-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/26\/13-16.1791267704128.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d lxiṛ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "txedmeḍ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yettidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arraw"
+    },
+    {
+      "surface": "מות",
+      "gloss": "n tmut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kunwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "tḥerzem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "bab-wen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Maciaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "אי",
+      "gloss": "anida"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tneccabt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tikerrut n waman"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "tikerrut"
+    },
+    {
+      "surface": "המים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ɣef iɣef-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:44.138470202Z",
+  "model": "glm-5.3"
+}

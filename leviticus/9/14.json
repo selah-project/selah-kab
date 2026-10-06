@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "snat",
+      "rationale": "הכרעים is a dual — 'the two legs' — the number two is made explicit in Kabyle"
+    },
+    {
+      "kind": "elision",
+      "subject": "המזבחה",
+      "rationale": "the he-locale suffix (-āh, 'in the direction of') has no Kabyle equivalent and is absorbed into 'di lmeḥrec'"
+    }
+  ],
+  "translation": "Yessizdeg ⟨את⟩ iḥerrecen d ⟨את⟩ snat n iḍaren, yerra-ten d rexxas ɣef lɛolha, di lmeḥrec.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f8d21183a80bbf4e63a8e1ea9f62440cb4f719fe8010f7f9e0013ea1d6ff6086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/9\/13-14.1791267354140.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "yessizdeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iḥerrecen"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "iḥerrecen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "snat n iḍaren"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "snat n iḍaren"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "yerra-ten d rexxas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lɛolha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lmeḥrec"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:54.141960544Z",
+  "model": "glm-5.3"
+}

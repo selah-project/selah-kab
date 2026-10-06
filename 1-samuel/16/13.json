@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 16:13",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yedhen-it",
+      "rationale": "וימשח — 'yedhen' i ṣedeq n wzemm; 'ad yemmeslay d Maciaḥ' ur neddi ara, axaṭer d amdan"
+    },
+    {
+      "kind": "crux",
+      "subject": "tuγal ẓẓay",
+      "rationale": "ותצלח: YLT 'prosper', ASV\/JPS 'came mightily', BSB 'rushed' — timerna n yiγed fell-as"
+    },
+    {
+      "kind": "you",
+      "subject": "David",
+      "rationale": "tamdint n tuaḥyet ɣef David deg beṛṛa n watmaten-is"
+    }
+  ],
+  "translation": "Yewwi-d Semuel ⟨את⟩ taγersa n zzeṭṭ, yedhen-it deg beṛṛa n watmaten-is; ruaḥ n Yahwe tuɣal ẓẓay ɣer David, seg wass-nni d asawen. Ikker-d Semuel, unag ɣer Rama.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d22c5035afbc6519dcd17e7e7347424ccd1a5758f03888b4c7bd9f2d8eb8a83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/16\/13-13.1791267625994.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taγersa n zzeṭṭ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "taγersa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "n zzeṭṭ"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "yedhen-it"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-it",
+      "marks": "tamdint n watmaten-is"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deg beṛṛa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n watmaten-is"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "tuγal ẓẓay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "seg wass-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ikker-d"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "unag"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ɣer Rama"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:26.000538492Z",
+  "model": "glm-5.3"
+}

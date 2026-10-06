@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "survey of the land",
+      "rationale": "Ad tt-arḍen ⟨את⟩-is: amur-aḍris d aṣuḍ n tmurt akken ad tebḍu — tiɣmi, tira, deg miḍan."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Yecceṭṭaḥ Yehocua ɣer at Yisrael s tmedyazt: efken-ikwen."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי",
+      "rationale": "S imi (lalɣa tatrart: 'af imi') — di taɛbranit 's imi n' yemmal 'akken d \/ yessenkan ɣer'; tettwaudfel talɣa tatrart."
+    }
+  ],
+  "translation": "Efken-ikwen kraḍ n yirgazen i yal cevet, ad ten-iruḥeɣ; ad kkensen, ad ineɛḍlen deg tmurt, ad tt-arḍen ⟨את⟩-is s imi n tiɣirt-nsen, u ad d-unɣen ɣur-i.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "806131cb66a3fb4762e1f598c54ea92faa4e74a17b05bc1b5896ff6c2e738a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/18\/4-4.1791267564646.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "efken-ikwen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ikwen"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "n yirgazen"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "i yal cevet"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "ad ten-iruḥeɣ"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ad kkensen"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ad ineɛḍlen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "ad tt-arḍen"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩-is",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "s imi"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "n tiɣirt-nsen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ad d-unɣen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:24.647940274Z",
+  "model": "glm-5.3"
+}

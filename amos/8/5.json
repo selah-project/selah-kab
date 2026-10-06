@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 8:5",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשבירה\/שבר",
+      "rationale": "םcf. cřek root šbr: 'deal in grain \/ grain' — the verb and its object come from the same root, seam lost in kab"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa d ceqel",
+      "rationale": "akk deg wadis: timadin n yiḍumman — efa, ceqel, imziḍen"
+    },
+    {
+      "kind": "addition",
+      "subject": "iwakken",
+      "rationale": "taɛbranit ur tesɛi ara awal-agi n usṭef; yernat i tsemlit"
+    }
+  ],
+  "translation": "Ad qqaren: Melmi ara d-yezzri waggur amaynut, iwakken ad nzenz irden? Melmi ara yekfu Cabbat, iwakken ad neldi irden? Ad nessisex ⟨i⟩-efa, ad nessimeqqer ⟨i⟩-ceqel, ad nḥrec imziḍen n tkerhent?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "cc7fa8b3d54e9b92e906d1455b28a9acc96a4b59d325124165fb7b269a8b09f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/amos\/8\/5-5.1791268027746.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ad qqaren"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "melmi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ara d-yezzri"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "waggur amaynut"
+    },
+    {
+      "surface": "ונשבירה",
+      "gloss": "ad nzenz"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "irden"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "ad neldi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "irden"
+    },
+    {
+      "surface": "להקטין",
+      "gloss": "ad nessisex"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ולהגדיל",
+      "gloss": "ad nessimeqqer"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ceqel"
+    },
+    {
+      "surface": "ולעות",
+      "gloss": "ad nḥrec"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "imziḍen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "n tkerhent"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:07.747299734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 22:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lmeṣḥed",
+      "rationale": "מזבח yettwasuqal s 'lmeṣḥed' (adegga n yidammten), mačči d awal n lislam"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עקד",
+      "rationale": "wayen i d-yettwaxelqen i lmend n yiwen n wawal i tensa; iḥettem d tikkelt tamzellat i Γ Rivqa (Taz 49:31)"
+    },
+    {
+      "kind": "addition",
+      "subject": "mmi-s",
+      "rationale": "mmi-s d tira i d-yesbeggnen ayen yella deg uḍris aɛrab, maca taɛbranit tettcabi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "על המזבח ממעל לעצים",
+      "rationale": "tikkelt n tẓuri deg usefruri n lmeṣḥed akk d sseɛd, amaṭṭaf deg waṭṭaf"
+    }
+  ],
+  "translation": "Ruḥen ɣer wemkan i d-yenna Elohim i yellan d win; din, Avraham yebna ⟨את⟩ lmeṣḥed, yessefruri ⟨את⟩ sseɛd; iḥettem ⟨את⟩ Yiṣḥaq mmi-s, yerr-it ⟨⟨את⟩ d netta⟩ ɣef lmeṣḥed, ddaw-at sseɛd.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "790b165691f6d0bd4c820a4b5068e84b539ee164bdec1277bf353131a97e7c0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/22\/9-9.1791267257094.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ruḥen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "d-yenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yellan d win"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lmeṣḥed"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣḥed"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "yessefruri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sseɛd"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sseɛd"
+    },
+    {
+      "surface": "ויעקד",
+      "gloss": "iḥettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq mmi-s"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yiṣḥaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "yerr-it"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yiṣḥaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣḥed"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ddaw-at"
+    },
+    {
+      "surface": "לעצים",
+      "gloss": "sseɛd"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:17.096380420Z",
+  "model": "glm-5.3"
+}

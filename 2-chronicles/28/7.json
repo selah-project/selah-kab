@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "agarrez",
+      "rationale": "גבור d amdan yesɛan tazmert, d aḥerri; 'agarrez' yettaṭṭaf kan tazmert, maca ur telli ara awal nniḍen yelhan."
+    },
+    {
+      "kind": "crux",
+      "subject": "משנה המלך",
+      "rationale": "'wis sin i d-yeffɣen seg ugellid' — yezmer ad yili 'mashal deg umkan-is' neɣ 'win i d-yeffɣen deffir ugellid'; talɣa n Taɛbranit d 'wis sin n ugellid'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "amhal n wexxam",
+      "rationale": "נגיד הבית d 'aneggaru ɣef wexxam n ugellid'; 'amhal' d awal n teqbaylit i tfaska-agi."
+    }
+  ],
+  "translation": "Zicri, agarrez n Efrayim, yuin ⟨את⟩ Maseyahu mis n ugellid, ⟨את⟩ Azriqam, amhal n wexxam, akked ⟨את⟩ Elqana, wis sin i d-yeffɣen seg ugellid.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5c7d929bf80eee8efa4e006b6f7b262045e3b65d2483cda88774c6961ffff99d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/28\/7-7.1791268369141.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "yuin"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zicri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "agarrez"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Azriqam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azriqam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "amhal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "akked ⟨את⟩",
+      "marks": "Elqana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:49.146113293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iẓekwan",
+      "rationale": "פנים d uẓekwu (taɣawsa i d-yettwazdun); taqbaylit ur tesɛi ara awal am yidir am yiwen n 'face'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קלון \/ יחפרו",
+      "rationale": "Tikti n lexṣara d tnilla tettuɣal-d deg 83:18; taɛbranit tesɛa snat n wawalen icuban."
+    }
+  ],
+  "translation": "Ẓeṛ iẓekwan-nsen s lexṣara, iwakken ad unagen yisem-ik, a Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/83\/17-19.1791268089605.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Ẓeṛ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "iẓekwan-nsen"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "s lexṣara"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ad unagen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yisem-ik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:09.605814696Z",
+  "model": "glm-5.3"
+}

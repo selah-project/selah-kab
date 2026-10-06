@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "daniel 2:34",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הוית",
+      "rationale": "Copula 'tellid' i taɛrabt tamensayt ur tettwag di teqbaylit ara s tira timmeḍrit, tedda kan deg tseddart."
+    },
+    {
+      "kind": "substitution",
+      "subject": "waxxam",
+      "rationale": "חספא d axxam (aḥrur n waman) i ḥettan ṭṣebḥ d ccreɛ, d taytunt i yettwarun."
+    },
+    {
+      "kind": "mystery",
+      "subject": "tugma",
+      "rationale": "Aḥric n tmgert i yettwalen Nebukadneṣar — d ayen iffren i yella kan deg tiqsi, win i t-id-yesbeggnen d Daniel."
+    },
+    {
+      "kind": "you",
+      "subject": "tettmuqleḍ",
+      "rationale": "Ataram d Nebukadneṣar — 'tettmuqleḍ kečč'."
+    }
+  ],
+  "translation": "Tettmuqleḍ armi mi yebḍan lḥağra ur ⟨s⟩ ifassen, terra-d i tugma ɣef iḍarren-is n wuzzal d waxxam, u terra ⟨ten⟩ d iteccuḍen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4049b4fd2aae20aab921189a4888cd307dc0f4991bd178037e3cae99ad324081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/daniel\/2\/34-34.1791268217024.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "tettmuqleḍ"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "tellid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "די",
+      "gloss": "mi"
+    },
+    {
+      "surface": "התגזרת",
+      "gloss": "yettwagezra"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "lḥağra"
+    },
+    {
+      "surface": "די",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בידין",
+      "gloss": "s ifassen"
+    },
+    {
+      "surface": "ומחת",
+      "gloss": "terra-d"
+    },
+    {
+      "surface": "לצלמא",
+      "gloss": "i tugma"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "iḍarren-is"
+    },
+    {
+      "surface": "די",
+      "gloss": "n"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "wuzzal"
+    },
+    {
+      "surface": "וחספא",
+      "gloss": "d waxxam"
+    },
+    {
+      "surface": "והדקת",
+      "gloss": "terra d iteccuḍen"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:17.027825383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yidsen",
+      "rationale": "בו d amgay neɣ d amgrad; yettwafham d lɛacam s lemɣar"
+    },
+    {
+      "kind": "idiom",
+      "subject": "akken iwata deg tiṭ-inek",
+      "rationale": "כטוב בעיניך s umataḍ: 'akken iban d ameɣtu deg tiṭ-inek'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ṣṣerfa tettwunefk-ak",
+      "rationale": "taɛbranit tenna 'tettwunefk-ak' — anida KJv tenna 'Keep your money' i Ḥaman, tamsalt-nni n tirgit n ugellid teqqim d tawennit"
+    }
+  ],
+  "translation": "Yenna-d ugellid i Human: taṣerfa tettwunefk-ak, d lɛacam-nni, ad txedmeḍ yidsen akken iwata deg tiṭ-inek.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "851f070217bbb4db33fb84996c37690840d9b6a7958c3c85d72fb4ae34527d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/esther\/3\/11-11.1791268225217.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "i Human"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "taṣerfa"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "tettwunefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ak"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "d lɛacam-nni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yidsen"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "akken iwata"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "deg tiṭ-inek"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:25.222688084Z",
+  "model": "glm-5.3"
+}

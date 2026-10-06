@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרצין העם",
+      "rationale": "'n yimezzugayen n ugdud' — taɛbranut tura tamyurt: n ugdud? neɣ d asuf d werza? KJV 'the guard and the people' vs YLT 'the runners and the people'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨n ugdud⟩",
+      "rationale": "Anezɣi n teɣect n terza: yerna-t i ḍhortimesliyin n taqbaylit."
+    }
+  ],
+  "translation": "Yesteqsa Terwla n Ɛetalya ⟨את⟩ taɣect n yimezzugayen ⟨n ugdud⟩, tekcem-d ɣer ugdud, deg wexxam n Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b9587e6bd864d017642df6b002f71df87c654b86bad2285e79fbe467e9866d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/11\/12-13.1791267757167.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "tesla"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Ɛetalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɣect"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣect"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "n yimezzugayen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "n ugdud"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "tekcem-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:37.168951159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 31:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשלחו",
+      "rationale": "'deg uzal-is d awi' (mi d-yuzen, KJV\/ASV) neɣ 'deg usirem-is' (spread out, BSB); anamek-agi d amezwaru i fukkren deg-s imsuqeln."
+    }
+  ],
+  "translation": "Ɣef waya, taɣzi-s tugar taɣzi n yiseklen akk n wurti, tigezmin-is i ḍrant, iccuten-is uẓnen deg teɣzi sɣur waten teggerin deg usirem, deg uzal-is d awi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "47f57030af7f510de34cc47c2ca279b1c9f87c8bfabd9cf21b582b87c380a119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/31\/5-5.1791267917109.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "waya"
+    },
+    {
+      "surface": "גבהא",
+      "gloss": "tugar"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "taɣzi-s"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "n yiseklen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "n wurti"
+    },
+    {
+      "surface": "ותרבינה",
+      "gloss": "i ḍrant"
+    },
+    {
+      "surface": "סרעפתיו",
+      "gloss": "tigezmin-is"
+    },
+    {
+      "surface": "ותארכנה",
+      "gloss": "uẓnen deg teɣzi"
+    },
+    {
+      "surface": "פארתו",
+      "gloss": "iccuten-is"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "sɣur waten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "teggerin"
+    },
+    {
+      "surface": "בשלחו",
+      "gloss": "deg uzal-is d awi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:17.109930348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על משה",
+      "rationale": "lliwn ɣef yiwen deg taɛbranit yegmar-d timmad-it ɣef yimdanen; 'ɣef' deg teqbaylit tettak-d unamek-agi n tmgert"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני",
+      "rationale": "deg taɛbranit 'yat' (tarwa), deg teqbaylit 'n yat' yettili d talɣa n usenti"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וילינו",
+      "rationale": "azrar-a n lwy d win i d-yettmeslayen ɣef 'lumann\/imenna'; tulsa n tajmaɛt tamrilt 'rewwaḥen' tettwafren, walizen daɣen 'neggren'"
+    }
+  ],
+  "translation": "Tajmaɛt akk n yat Yisrael rewwaḥen ɣef Moce, daɣen ɣef Aharon, deg tinirt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4ae3a94da91b7c08d4111e2d40e6425b4fc8ceb502b91bedd3cddfb4d1f878e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/16\/2-2.1791267254734.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "rewwaḥen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "tajmaɛt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "n yat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "daɣen ɣef"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg tinirt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:14.734989248Z",
+  "model": "glm-5.3"
+}

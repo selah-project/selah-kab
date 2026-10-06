@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד אשר לא",
+      "rationale": "Kab: send-mi ara yekcem (talɣa n umaḍal) neɣ send-mi ur tettwakcem tajdit (talɣa tamyiwent)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "unuf ula d yiwen",
+      "rationale": "taɛbranit tessawal-d tagi kan s wawal waḥdut, tin n teqbaylit tessuter sin: awal + ur-lli ara, iɛawd-ed amaḍal-nni"
+    },
+    {
+      "kind": "elision",
+      "subject": "ccerɛ n ṣedeq",
+      "rationale": "ula d awal n teqbaylit i wawal-a n teɛbranit; yewwi-d kan i tzemmil"
+    }
+  ],
+  "translation": "Send mi ur tettwakcem tajdit ⟨i⟩ yiṭij d ufaw, d yitri d yifḍan n yitran, uɣalent taḥnut ɣef deffir n ugeffur,",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4857c94f26322da7c16113f76a54c66df7d7731ed820da83f108e6a41ab79ec1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/12\/2-2.1791268215409.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "send mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "tettwakcem tajdit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "d ufaw"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "d yitri"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "d yifḍan n yitran"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "uɣalent"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "taḥnut"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɣef deffir"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "n ugeffur"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:15.410445399Z",
+  "model": "glm-5.3"
+}

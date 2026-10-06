@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akessar",
+      "rationale": "כיור d taɣawsa tuḥdift (taḥnat i d-yettwanuten); 'akessar' d axxam n waman, maca ur telli ara awal niḍen n teqbaylit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lmeṣjed",
+      "rationale": "המזבח d lmeṣjed n tnaɛrabt, d ameɣtu i waṭas n yimsuqlen; ulac awal n taqbaylit n daxel"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "טבין yellan d akkin gar sin n yismawen; taqbaylit tessrusa 'd' i wakken ad d-tefken talɣiwt"
+    }
+  ],
+  "translation": "Ad txelqeḍ yiwen ukessar n tnexseft, akked uṣdas-is n tnexseft, i laṣeḥ; ad t-terḍu ⟨את⟩ gar uxam n umlal d lmeṣjed, ad t-terreḍ degs aman.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "fdf5ddf6616e1bad69b64e9a5d6b01449c4a17b252683584217cebddef188cea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/30\/18-18.1791267301618.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ad txelqeḍ"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "akessar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n tnexseft"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "akked uṣdas-is"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "n tnexseft"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "i laṣeḥ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ad t-terḍu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "akessar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uxam"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umlal"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "lmeṣjed"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ad t-terreḍ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "degs"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:01.619796033Z",
+  "model": "glm-5.3"
+}

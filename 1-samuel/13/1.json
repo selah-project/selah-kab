@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן שנה",
+      "rationale": "Le nombre d'années manque dans le texte massorétique — 'un an' est probablement le reste d'un nombre perdu (quarante ?) ; KJV 'un an', BSB trente, JPS laisse un blanc."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בן שנה",
+      "rationale": "Lecture littérale : 'fils d'un an' = Saul avait un an — impossible ; idiomatique pour l'âge, nombre tombé du texte."
+    },
+    {
+      "kind": "elision",
+      "subject": "במלכו",
+      "rationale": "Infinitif construit 'dans son régner' rendu par une proposition verbale, le kabyle n'ayant pas d'infinitif construit."
+    },
+    {
+      "kind": "measurement",
+      "subject": "années",
+      "rationale": "Comptage d'années d'âge et de règne."
+    }
+  ],
+  "translation": "D mmi-s n yiwet n teseggast i yella Ccawl mi yebda ɣellaɣen ⟨deg⟩ tgelda-is; sin n yiseggasen yella d agellid ɣef Yisrael.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b9c05679bc49f2021577910fe7ed5ffd1b569252851cfee908782e42a1d7344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/13\/1-1.1791267633811.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yiwet n teseggast"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ccawl"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "mi yebda ɣellaɣen deg tgelda-is"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "sin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yella d agellid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:33.815636782Z",
+  "model": "glm-5.3"
+}

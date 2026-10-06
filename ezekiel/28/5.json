@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיל",
+      "rationale": "חיל zmer d llan d aɣellar: KJV 'riches', YLT 'wealth', Wycliffe 'strengthe' — qqimen d tuγdi n wawal amenzu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חילך ... בחילך",
+      "rationale": "Tuslit n wawal חיל deg tazwart d deg taggara n tseddar — alliteration, d tanumi i icudden timsetrin igejdanen"
+    },
+    {
+      "kind": "you",
+      "subject": "amarraw n Ṣur",
+      "rationale": "Tseddar-agi tettmesser s tuγdi ɣer unebdad ummid — deg tulmis, amarraw n Ṣur (Ezekiel 28:2)"
+    }
+  ],
+  "translation": "S tuḍfi n teḥkemt-ik, di ttjuṛa-ik, tsemɣereḍ leqlq-ik, wul-ik yuli s leqlq-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8305a2dab69f5c8cdc5a854cccfbe58739c7f08bddefce427ac3771e38324067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/28\/5-5.1791267897157.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "s tuḍfi"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "teḥkemt-ik"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "di ttjuṛa-ik"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "tsemɣereḍ"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "leqlq-ik"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "yuli"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "wul-ik"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "s leqlq-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:57.158205874Z",
+  "model": "glm-5.3"
+}

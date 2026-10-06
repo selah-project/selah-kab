@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 18:5",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נכרית",
+      "rationale": "'nuqqa\/nukk' ilugan n taɛbranit 'ṭṭef\/kkes' — yessegem-nnes (nakrez\/ayen icudden ɣer yil) deg unamek n 'ur nukku ara yiwet seg lmal'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנחלים",
+      "rationale": "isaffagen (asif aman n tefsut) neɣ iberdan n tefsut — yal tira texdem-itt."
+    },
+    {
+      "kind": "you",
+      "subject": "Ɛovadyahu",
+      "rationale": "Aḥav isawal s tidet i Ɛovadyahu, tumṭṭaft-agi tettwasi deg 'duḍ'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "maḍal",
+      "rationale": "Aḥav yesselmad Ɛovadyahu ad yeddu seg tillist n yiman-is; deg wayen ara yaf, ad yaf iseɛɛaden i lmal."
+    }
+  ],
+  "translation": "Yenna-d Aḥav i Ɛovadyahu: Dudu deg tmurt, ɣer akk tiɣbula n waman d akk isaffagen, ahat ad naf iseɛɛaden, ad d-nḥeddu aɛud d aydi, akken ur nukk ara ⟨seggem⟩ seg lmal.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d28d3ac92e08906009735152d2efe772b25826e3b5a6b1d6fdeb12577ab206ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/18\/5-5.1791267727094.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ɛovadyahu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "duḍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "tiɣbula"
+    },
+    {
+      "surface": "המים",
+      "gloss": "n waman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "isaffagen"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ahat"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ad naf"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "iseɛɛaden"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ad d-nḥeddu"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "aɛud"
+    },
+    {
+      "surface": "ופרד",
+      "gloss": "d aydi"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "akken ur"
+    },
+    {
+      "surface": "נכרית",
+      "gloss": "nukk ara ⟨seggem⟩"
+    },
+    {
+      "surface": "מהבהמה",
+      "gloss": "seg lmal"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:07.096419474Z",
+  "model": "glm-5.3"
+}

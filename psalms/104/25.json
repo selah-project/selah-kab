@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יָדַיִם",
+      "rationale": "Dual n יד (sinwat tanumin): 'sinwat yifadden' — talɣa tasantakt n teqbaylit tεedda ɣef 'deg yifadden'"
+    },
+    {
+      "kind": "addition",
+      "subject": "llan",
+      "rationale": "Taɛbranit ur tesɛi ara fell-agi amekkin idgan; yettwarna i teqbaylit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדול ... גדלות \/ קטנות",
+      "rationale": "Alliteration akked umgaled meqṛan\/meẓyan — talɣa-agi tḥrez imyagen n teɛbranit"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מִסְפָּר",
+      "rationale": "Aḥṭṭab ɣef uṭṭun: tirerrutan war uṭṭun — aseddun war umḍan"
+    }
+  ],
+  "translation": "Ha-agi n yilel, ameqṛan uṣrif deg yifadden; din llan ⟨ayen yettṛerruten⟩ war uṭṭun, iḥerriyen imeẓyanen akked imeqṛanen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6b77de213e579d38940522b6d0e64e0c0fca3b5ef292f3bdf665c6f907b9affb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/104\/25-25.1791268111114.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "ha-agi"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "גָּדוֹל",
+      "gloss": "ameqṛan"
+    },
+    {
+      "surface": "וּרְחַב",
+      "gloss": "uṣrif"
+    },
+    {
+      "surface": "יָדַיִם",
+      "gloss": "deg yifadden"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "din"
+    },
+    {
+      "surface": "רֶמֶשׂ",
+      "gloss": "ayen yettṛerruten"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "war"
+    },
+    {
+      "surface": "מִסְפָּר",
+      "gloss": "uṭṭun"
+    },
+    {
+      "surface": "חַיּוֹת",
+      "gloss": "iḥerriyen"
+    },
+    {
+      "surface": "קְטַנּוֹת",
+      "gloss": "imeẓyanen"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "גְּדֹלוֹת",
+      "gloss": "imeqṛanen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:31.115408170Z",
+  "model": "glm-5.3"
+}

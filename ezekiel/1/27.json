@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 1:27",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ḥacmal",
+      "rationale": "חשמל d awal i yettwarren s waṭas n tarrayin: aneḥḥas yettcubbiben, ṭibrum, neɣ tisint timseḥriyin — ad yeqqim s tira-is"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ini",
+      "rationale": "כעין deg taɛbranit d yiwet n tɣawsa: taṭṭ, ini — deg uḍris-agi d ini i d-ibanen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "axxam-is",
+      "rationale": "בית לה s wudem-is d 'axxam-is', maca deg Umaṛuṛ n Yeḥezqel yebna d 'axxam-is' i d-yessen (taṭṭ n timest)"
+    },
+    {
+      "kind": "mystery",
+      "subject": "am umaṛuṛ",
+      "rationale": "d umaṛuṛ yettwaṛmen s tɣawsa-nni ur nelli ara d tamawant: ini, tafawt, tafat — ur d-yettwali ara wudem s tarrayt tasreḥt"
+    }
+  ],
+  "translation": "Twalaɣ am ini n ḥacmal, am umdi n timest, ⟨axxam-is⟩ s lḥawẓa; seg umdi n tunft-is ar s afella, seg umdi n tunft-is ar s adda, twalaɣ am umdi n timest, tella tafat i-s s lḥawẓa.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3f6cc03569e5b2d6a772386137804c84b8d9ed21ab739c1d8046e5eb2bafb206",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/1\/25-27.1791267989503.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "twalaɣ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "am ini n"
+    },
+    {
+      "surface": "חשמל",
+      "gloss": "ḥacmal"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "am umdi n"
+    },
+    {
+      "surface": "אש",
+      "gloss": "timest"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam-is"
+    },
+    {
+      "surface": "לה",
+      "gloss": "is"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s lḥawẓa"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "seg umdi n"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "tunft-is"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ar s afella"
+    },
+    {
+      "surface": "וממראה",
+      "gloss": "seg umdi n"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "tunft-is"
+    },
+    {
+      "surface": "ולמטה",
+      "gloss": "ar s adda"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "twalaɣ"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "am umdi n"
+    },
+    {
+      "surface": "אש",
+      "gloss": "timest"
+    },
+    {
+      "surface": "ונגה",
+      "gloss": "tafat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-s"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "s lḥawẓa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:29.506540871Z",
+  "model": "glm-5.3"
+}

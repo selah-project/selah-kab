@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 6:4",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "rationale": "aramäisch 'über alle' (Ganzheit) — im kabyleischen adverbial nur einmal mit 'akk' bei tgelda erfasst, erstes כל entfällt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתנצח",
+      "rationale": "hithpa. von נצח heißt wörtlich 'sich als Vornehmster erweisen' — als Übertragung 'yettfeɛɛel' wiedergegeben."
+    },
+    {
+      "kind": "alternative",
+      "subject": "yettfeɛɛel",
+      "rationale": "Nach dem Lemma 'Oberster werden' könnte der Satz auch Amtsträgerschaft meinen ('war Aufseher über die Satrapen'), wie YLT liest."
+    },
+    {
+      "kind": "addition",
+      "subject": "aɣilas",
+      "rationale": "עשית heißt 'beabsichtigen'; 'aɣilas' (Vorhaben) expliziert die Absicht, die das Aramäische im Verb trägt."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tgelda tammeṛtut",
+      "rationale": "Reichsweite als Gesamtgröße — 'die ganze Königsherrschaft' — dimensioniert Daniels künftige Stellung."
+    }
+  ],
+  "translation": "Snyder, Daniel-agi yella yettfeɛɛel ɣef yinabaḍen d yisedraren, axaṭer ruaḥ yettwasnen tezga deg-s, d agellid yexdem aɣilas ad t-isseggem ɣef tgelda tammeṛtut.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bc6b9cef9af15953082ec940f1ca27d681310e8cbfbc07a3d4950ecb5fc61a49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/daniel\/6\/4-4.1791268231547.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Snyder"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yella"
+    },
+    {
+      "surface": "מתנצח",
+      "gloss": "yettfeɛɛel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "סרכיא",
+      "gloss": "yinabaḍen"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "d yisedraren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "די",
+      "gloss": "d"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "יתירא",
+      "gloss": "yettwasnen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ומלכא",
+      "gloss": "d agellid"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yexdem aɣilas"
+    },
+    {
+      "surface": "להקמותה",
+      "gloss": "ad t-isseggem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "tgelda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:31.551941713Z",
+  "model": "glm-5.3"
+}

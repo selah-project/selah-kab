@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 22:13",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i yelli-t",
+      "rationale": "taɛbranit ur tesɛi ara awal-agi; yettwarna iwakken ad iberrek anwa i tesɛa zerɛ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aberrani",
+      "rationale": "זר aberra-nni d 'aberrani'; jps tenna 'common man' — d amdan mačči d akohen, mačči d abeṛṛani s wudem n lǧinsa"
+    },
+    {
+      "kind": "alternative",
+      "subject": "zerɛ",
+      "rationale": "וזרע yeqqim d 'zerɛ\/anewdar'; JPS\/KJV 'child' — anamek n twacult"
+    }
+  ],
+  "translation": "Yelli-t n ukohen, ma tella d taǧehlit neɣ d tettwakkes, zerɛ ulac i yelli-t, tuɣal-d ɣer wexxam n baba-s, akken tella deg lleẓẓayer-is, seg uɣrum n baba-s ad tett; yal aberrani ur itett deg-s.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "abdb6d8212f542f349c9cd54839152edbaf6e8bd7bbc49f4432c9de1730a8a1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/22\/13-13.1791267328473.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "yelli-t"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ukohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tella d"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "taǧehlit"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "neɣ d tettwakkes"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "zerɛ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "לה",
+      "gloss": "i yelli-t"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "tuɣal-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "כנעוריה",
+      "gloss": "akken tella deg lleẓẓayer-is"
+    },
+    {
+      "surface": "מלחם",
+      "gloss": "seg uɣrum"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "n baba-s"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ad tett"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "זר",
+      "gloss": "aberrani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "itett"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:28.473799703Z",
+  "model": "glm-5.3"
+}

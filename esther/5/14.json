@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 5:14",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "semmus n yiɛqemen",
+      "rationale": "Lɛedda tettwaseglem: taseqqamt talat semmus (50) n yiɛqemen — tiɣzi tanesbegnen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "taseqqamt",
+      "rationale": "עץ s taɛbranit d 'aseklu\/taseqqamt' — maca mačči d 'taggagt' (gallows) i d-yenni uḍris; taqbaylit tcudda ɣer tsirt n usklu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kemm⟩",
+      "rationale": "Awal 'kemm' yettwarnan i usenẓa n wawal ובא, axaṭer taɛbranit tessaɣ-d kan tafalkayt."
+    }
+  ],
+  "translation": "Tenna-yas Zerec tidibelt-is akked akk wid t-iḥemmlen: ad xedmen taseqqamt talat semmus n yiɛqemen, deg tafawt ini i ugellid ad ṭṭlen ⟨את⟩ Mordeḥay fell-as; ⟨kemm⟩ ad tedduḍ akked ugellid ar uceṭṭiḍ di lefraḥ. Yelḥa wawal-agi gar Haman, yexdem taseqqamt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "eee27b4b9ad40fa9f2e199d73a8efdbb5b1407c590146ee13d554d42ed10b06f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/esther\/5\/13-14.1791268279516.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Tenna-yas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zerec"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tidibelt-is"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "akked akk"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "wid t-iḥemmlen"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ad xedmen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "taseqqamt"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "talat"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "n yiɛqemen"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "deg tafawt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ini"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "i ugellid"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "ad ṭṭlen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordeḥay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeḥay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ad tedduḍ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "uceṭṭiḍ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "di lefraḥ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "Yelḥa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal-agi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gar"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "taseqqamt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:19.528291092Z",
+  "model": "glm-5.3"
+}

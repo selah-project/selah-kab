@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 16:37",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Dawed⟩",
+      "rationale": "Taɛbranit ur tessemd ara yisem n win i yeṭṭfen; deg telɣut taneggarut (16:1) Dawed i d-yella."
+    },
+    {
+      "kind": "substitution",
+      "subject": "taqbuṭṭalt",
+      "rationale": "ארון yesɛa anamek n 'tayuga\/tankult'; mačči d 'taṣṭa n lqedc'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ass deg wass-is",
+      "rationale": "יום ביומו — tazmilt taɛbranit 'ass deg wass-is' = i wass-nni kan, ayen iwatan i yal ass."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ad qennin",
+      "rationale": "לשרת d amekkan n umeḥbuṣ\/tuɛebbdi ɣer Elohim; 'qennin' yettwafernen axaṭer taqbaylit ur tesɛi ara awal am degree n lqedc."
+    }
+  ],
+  "translation": "⟨Dawed⟩ yeṭṭef-iten dinna, qbel taqbuṭṭalt n lɛahd n Yahwe, i Asaf d watmaten-is, ad qennin qbel taqbuṭṭalt-nni war tukk, akken iwata n wass deg wass-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "39da4ed4fa78c569d1fecdc0d609c965186f959b8728078ca418e6934e2ae0d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/16\/37-37.1791268297951.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "yeṭṭef-iten"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "taqbuṭṭalt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "i Asaf"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "d watmaten-is"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ad qennin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "taqbuṭṭalt-nni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "war tukk"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "akken iwata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wass"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "deg wass-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:37.956166442Z",
+  "model": "glm-5.3"
+}

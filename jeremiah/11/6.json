@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 11:6",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Awal-agi n tmerna yettwameggeḍ s 'ad tenniḍ', taɛbranit tettcabi-t kan."
+    },
+    {
+      "kind": "addition",
+      "subject": "t",
+      "rationale": "Taɛbranit tettcabi-t kan deg tguri 'אותם'; ilaq unegzaw n teqbaylit."
+    },
+    {
+      "kind": "you",
+      "subject": "Seldet",
+      "rationale": "Alhu ɣer yimezdaɣ n Yeḥuda d Yerucalayim: 'Seldet' d talɣa n usumer tamḍlant."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי הברית",
+      "rationale": "Alliteration deg teɛbranit davar\/berit, tettwameggeḥ deg teqbaylit."
+    }
+  ],
+  "translation": "Yenna-d Yahwe ɣur-i: Ssedfel ⟨את⟩ akk awalen-agi di temdinin n Yeḥuda d deg igennan n Yerucalayim, ad tenniḍ: Seldet ⟨את⟩ awalen n lɛahd-agi, xedmen-t.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d41583e26e65ca8d0caddabb6e84ad722fb56e47fef05d210e25c7f7d6ba70dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/11\/6-6.1791267826581.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Ssedfel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awalen-agi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di temdinin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeḥuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "d deg igennan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad tenniḍ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Seldet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awalen n lɛahd-agi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "awalen n"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ -t"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:46.581732248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Taɛbranit ur tesɛi ara awal-agi n tuqqna n unamek"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו \/ אדום",
+      "rationale": "Ismawen-agi ṣṣan azday n tira deg teɛbranit (aẓar ɛdm d ini azeggaɣ), ad d-yefk Edom i yisem n Ukessar n Ɛesaw"
+    },
+    {
+      "kind": "you",
+      "subject": "Esav",
+      "rationale": "Awal-a d talɣut ɣef Esav, mačči d tannumi i umaraɣri"
+    }
+  ],
+  "translation": "Esav yezdeɣ deg wedrar n Seɛir; Esav ⟨d⟩ ⟨netta⟩ d Edom.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4583646e3c72780a3fa6121a7163ef534e26af218d804f395af80bd91dd0aeb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/36\/8-8.1791267241687.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "deg wedrar"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "n Seɛir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:01.687953676Z",
+  "model": "glm-5.3"
+}

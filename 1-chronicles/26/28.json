@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 26:28",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ɣef ufus",
+      "rationale": "על יד d tamicerttut taɛbranit: 'deg ufus-is' = ddaw n leḥkem-is, d win it-iḥekmen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "win ipwalin",
+      "rationale": "הראה d anamek-is 'win ipwalin' (seer), mačči d navi — talɣa taqburt n uselmed"
+    }
+  ],
+  "translation": "Akk wayen i yeqdec Cemuel win ipwalin, d Caul mmi-s n Qic, d Abner mmi-s n Ner, d Yoav mmi-s n Ṣeruya — yal win iqedcen kra — yella-d ɣef ufus n Shelomit d watmaten-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "520121093a3784bf59826ec45ffa144c2cfc769bdb4fc6eb18dd0d4b0c3db496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/26\/25-28.1791268374520.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ההקדיש",
+      "gloss": "ayen i yeqdec"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Cemuel"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "win ipwalin"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "d Caul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "n Qic"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "d Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נר",
+      "gloss": "n Ner"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "d Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "n Ṣeruya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal win"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ufus"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "n Shelomit"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "d watmaten-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:54.523538474Z",
+  "model": "glm-5.3"
+}

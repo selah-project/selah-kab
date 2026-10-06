@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iḥarṭumim",
+      "rationale": "חרטומים: iḥarṭumim s isekkilen n taɛbranit; awal n teqbaylit «imsḥer” neɣ «imseḥra” yerna-d inumak n lḥerz"
+    },
+    {
+      "kind": "substitution",
+      "subject": "s wayen iffren deg-sen",
+      "rationale": "בלטיהטם: ahil ufren \/ tikciwin ffrenen; taɛbranit tesɛi kan yiwet n talɣa"
+    }
+  ],
+  "translation": "Rran ayagi iḥarṭumim s wayen iffren deg-sen, ad d-ssefɣen ⟨את⟩ iknimen, maca ur zmiren ara; iknimen llan-d ɣef wemdan akk d ɣef lmal.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9e5b4c7517f18492bacef89d843d053535d96287309ea5cb6fe2ec129c99974c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/8\/13-15.1791267305469.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Rran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "iḥarṭumim"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "s wayen iffren deg-sen"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ad d-ssefɣen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iknimen"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "iknimen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maca ur… ara"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "zmiren"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "llan-d"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "iknimen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ɣef wemdan"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "akk d ɣef lmal"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:05.472691580Z",
+  "model": "glm-5.3"
+}

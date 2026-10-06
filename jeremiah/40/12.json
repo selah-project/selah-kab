@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 40:12",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושבו\/ויאספו",
+      "rationale": "asawen n tseddart 10 ɣer 12: ayen i xedmen Gedalyahu (qqimet, ssemlilet) t-id-yettwalen s wawal i yettwaḥerben"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "'din' — amkan-nni, awal-a yeḍfer-d ticki tin kan s teqbaylit"
+    }
+  ],
+  "translation": "Uɣalen akk Yihuden si yimukan akk ideg ttwaḥerben din, kecmen ɣer tmurt n Yeḥuda, ɣer Gedalyahu ɣer Micpa, ssemlilen tayyint d ifruriten n unebdu, d aṭas maḍi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "834817efed8fc20a8dafbccf72e4c828c853199fdcab89e37820c02d987a623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/40\/10-12.1791267985166.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Uɣalen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yihuden"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "si"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "yimukan akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "נדחו",
+      "gloss": "ttwaḥerben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yeḥuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "ɣer Micpa"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ssemlilen"
+    },
+    {
+      "surface": "יין",
+      "gloss": "tayyint"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "ifruriten n unebdu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "d aṭas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "maḍi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:25.168444287Z",
+  "model": "glm-5.3"
+}

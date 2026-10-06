@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 8:1",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "issawel lexlaḥ",
+      "rationale": "קרא לרעב 'issawel lexlaḥ' — ibrahil yessaram-as lexlaḥ ad yawi amkan, mačči ara yesselmed win ara t-isewlen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וגורי \/ תגורי",
+      "rationale": "asget n uẓar gwr yettwaxelleḍ deg sin n yimukan — 'ẓeddeg anda ara tẓeddegeḍ', taɣara-nni ur teddi ara akken ilaq deg tsuqilt"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nekni⟩ d axxam-ik",
+      "rationale": "Taɛbranit tenna kan 'kečč d axxam-ik', walant talɣiwin n tuccḍa n tmeṭṭut tameṭṭut"
+    },
+    {
+      "kind": "you",
+      "subject": "tmeṭṭut n Cunam",
+      "rationale": "Elisa yerrez awal i tmeṭṭut-nni s tedyanit, ihi d tmeṭṭut i d-yettwamlen"
+    }
+  ],
+  "translation": "Elisa yemmaẓal i tmeṭṭut-nni i iḥyan ⟨את⟩ mmi-s, ad yini: Tbedded, ṭṭef-ed abrid kečč ⟨nekni⟩ d axxam-ik, ẓeddeg anda ara tẓeddegeḍ, axaṭer Yahwe issawel lexlaḥ, ihi ad d-yaweḍ ɣef ⟨tmurt sebɛa n yiseggasen⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "fb915be788ffb1479446872978b228894c5b8fa37ea72f7ead419959ae09cc2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/8\/1-1.1791267711539.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yemmaẓal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "iḥyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmi-s"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tbedded"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ṭṭef-ed abrid"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "d axxam-ik"
+    },
+    {
+      "surface": "וגורי",
+      "gloss": "ẓeddeg"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "anda ara"
+    },
+    {
+      "surface": "תגורי",
+      "gloss": "tẓeddegeḍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "issawel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "lexlaḥ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ad d-yaweḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sebɛa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "n yiseggasen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:51.541476822Z",
+  "model": "glm-5.3"
+}

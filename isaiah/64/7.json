@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "maci",
+      "rationale": "ועתה d aseggaz n tuccḍa — «maci tura» i d-yesbeggnen tiṭ n temsalut"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "talɣa tanmeṛṛaft tettmuqul ɣer Yahwe: «kečč-i d bab-nneɣ»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמר\/יוצר",
+      "rationale": "tamynamt n lexḍar d win t-ifetren teqqim d talɣa-is deg teqbaylit"
+    }
+  ],
+  "translation": "Maci tura, a Yahwe, kečč-i d bab-nneɣ; nekkini d lexḍar, kečč-i d win iɣer-nneɣ ifetren, nekkini akk d lxiḍ n ufus-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4aa10ab30b7ca57948ee1ea339eaffc1ec19a437e250fbea83c5113a697bbd55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/64\/7-7.1791267811169.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "maci tura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bab-nneɣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč-i"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekkini"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "lexḍar"
+    },
+    {
+      "surface": "ו אתה",
+      "gloss": "kečč-i"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "win iɣer-nneɣ ifetren"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "lxiḍ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "n ufus-ik"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "nekkini akk"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:31.169527314Z",
+  "model": "glm-5.3"
+}

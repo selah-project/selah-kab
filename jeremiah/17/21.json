@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 17:21",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yiman-nwen",
+      "rationale": "נפש d 'nnefs\/tudert', yettwaḥrez unamk-is amezwaru; 'yiman-nwen' d unamk n idem deg uḍris-agi"
+    },
+    {
+      "kind": "addition",
+      "subject": "t",
+      "rationale": "talɣa n tfelwit deg taqbaylit tessuter amkan n uzwir i ttẓur deg yiwen n wawal"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשאו\/משא",
+      "rationale": "asuf n yismawen: נשא d aẓar n משא, alliteration ur yelli ara deg teqbaylit"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yehuda and Yerucalayim",
+      "rationale": "axemṣem aderg i igeldanen n Yehuda akked imezdaɣ n Yerucalayim (Tasnim 17:20)"
+    }
+  ],
+  "translation": "Akka i d-yenna Yahwe: Ḥerez ⟨i⟩ yiman-nwen, ur ssumuḥ ara ttẓur deg wass n Cabbat, ur t-tseddun ara deg yiberdan n Yerucalayim.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a3207b7f5d3b6faeca0cbd0c4b0395daf4600e2dddabafbcfb490efb7e448bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/17\/21-21.1791267803585.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Ḥerez"
+    },
+    {
+      "surface": "בנפשותיכם",
+      "gloss": "⟨i⟩ yiman-nwen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "ssumuḥ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ttẓur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "n Cabbat"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "ur... t-tseddun ara"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "deg yiberdan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "n Yerucalayim"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:23.587315409Z",
+  "model": "glm-5.3"
+}

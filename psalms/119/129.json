@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩ tideṭ",
+      "rationale": "Hebrew lacks a copula between the predicate noun and subject"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nnefs-iw",
+      "rationale": "נפש is closer to 'nnefs \/ life-force' than to a disembodied soul"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלאות \/ נפלאות",
+      "rationale": "the plural of wonders opens the Pe stanza, a praise-word repeated throughout Ps 119"
+    }
+  ],
+  "translation": "Timahertin d tideṭ timegdiyin-ik; ɣef lxaṭer ⟨d⟩ nnefs-iw tḥerrez-ten.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "54b21845bc084cb440d9413c61136ba7112f418998f647cd5c5e5e49df5e48cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/119\/129-129.1791268088655.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "timahertin"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "timegdiyin-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lxaṭer"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "tḥerrez-ten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nnefs-iw"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:08.655963537Z",
+  "model": "glm-5.3"
+}

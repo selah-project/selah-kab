@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ad ilin d",
+      "rationale": "taɛbranit ur tesɛi ara n talɣa n 'to be'; talɣa n tlata tettwasneqden i ṣṣif n unamek n lɛamal"
+    },
+    {
+      "kind": "crux",
+      "subject": "באי השבת",
+      "rationale": "wid iteddun deg Cabbat: d iman-nni i d-ikeffun deg tnezduɣt n Cabbat (aserdas n lɛeskar deg wass n Cabbat), mačči d ayen amezwaru n ussan n usgunfu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "השלשית מכם",
+      "rationale": "beṭṭu n lɛeskar ɣef tlata (tis-kraḍ), aḥric seg wassangen n tɛessist"
+    }
+  ],
+  "translation": "Yeḥettem-iten ad yinin: Wagi d awal ara txedmem: tis-kraḍ segwen, wid iteddun deg Cabbat, ad ilin d yeḥerzen tɛessist n wexxam n ugellid.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3ccd98818a3a6814503ea02b50c887b14e7e00b9c87e620a485b70f04f6fb3a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/11\/5-5.1791267708471.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "yeḥettem-iten"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yinin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "d awal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "txedmem"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "tis-kraḍ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "segwen"
+    },
+    {
+      "surface": "באי",
+      "gloss": "wid iteddun"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ad ilin d yeḥerzen"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tɛessist"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:48.475707660Z",
+  "model": "glm-5.3"
+}

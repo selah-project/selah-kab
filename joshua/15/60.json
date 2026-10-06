@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "joshua 15:60",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d nettat",
+      "rationale": "Hebrew היא is the identificational 'she\/it is'; rendered with a kab pronominal phrase"
+    },
+    {
+      "kind": "measurement",
+      "subject": "snat n yiqeddacen",
+      "rationale": "city count in the Judah boundary list"
+    }
+  ],
+  "translation": "Qiryat Baɛal — ⟨d nettat⟩ Qiryat Yeɛarim — d ⟨d⟩ Rabbah: snat n yiqeddacen, d ḥeṛacen-nnsent.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a72ee11f457d7f39e2ad1af67049a100da0f79b69fc1b6c88d28403e87de2739",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/15\/60-60.1791267548309.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baɛal"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨d nettat⟩"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yeɛarim"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "d ⟨d⟩ Rabbah"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "iqeddacen"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "snat"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "d ḥeṛacen-nnsent"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:08.311014500Z",
+  "model": "glm-5.3"
+}

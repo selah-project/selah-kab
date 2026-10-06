@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 5:5",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין לאל ידנו",
+      "rationale": "Idiome: afus-nneɣ ur yesɛi ara El\/tazmert — 'our hand has no strength'; taɛbranit tseqqac El (strength) deg uẓar n tigawt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבשים \/ נכבשות",
+      "rationale": "Alliteration n uẓar kbc: 'we subdue' d 'are subdued' — snat n tikkal, tin yugaren taswit deg teqbaylit"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאל",
+      "rationale": "Glossary: 'there is no power' (El = strength) vs. 'no remedy\/help for our hand' — KJV\/JPS 'power to redeem' vs ASV 'help'"
+    }
+  ],
+  "translation": "D akka tura, tit n watmaten-nneɣ d tit-nneɣ, arraw-nneɣ am arraw-nnsen; d wa, nneɣni nṭebbeḍ ⟨את⟩ arraw-nneɣ d ⟨את⟩ yelli-s-nneɣ ɣer yimezdaguyen; yella deg yelli-s-nneɣ ay yettunṭeben, ur nelli d El afus-nneɣ; d iẓuran-nneɣ d yiberkan-nneɣ i wayeḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "21c489142201950de4d0c619acdb1be3dab65028ceacd73164329df82aa49784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/nehemiah\/5\/5-5.1791268255299.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "d akka tura"
+    },
+    {
+      "surface": "כבשר",
+      "gloss": "am tit"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "n watmaten-nneɣ"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "tit-nneɣ"
+    },
+    {
+      "surface": "כבניהם",
+      "gloss": "am arraw-nnsen"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "arraw-nneɣ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d wa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nneɣni"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "nṭebbeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-nneɣ"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "arraw-nneɣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "yelli-s-nneɣ"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "yelli-s-nneɣ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ɣer yimezdaguyen"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "מבנתינו",
+      "gloss": "deg yelli-s-nneɣ"
+    },
+    {
+      "surface": "נכבשות",
+      "gloss": "yettunṭeben"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ur nelli"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "d El"
+    },
+    {
+      "surface": "ידנו",
+      "gloss": "afus-nneɣ"
+    },
+    {
+      "surface": "ושדתינו",
+      "gloss": "d iẓuran-nneɣ"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "d yiberkan-nneɣ"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "i wayeḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:55.306306735Z",
+  "model": "glm-5.3"
+}

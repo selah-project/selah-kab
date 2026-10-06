@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הגד הגיד",
+      "rationale": "Infinitif absolu + verbe conjugué = intensification (« il dit certainement ») ; rendu par « ihi » (certes) en kabyle."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨wamm-nnes⟩",
+      "rationale": "L'hébreu dit seulement לו « à lui » ; le kabyle exige de nommer le destinataire pour éviter l'ambiguïté."
+    },
+    {
+      "kind": "you",
+      "subject": "à l'oncle de Sciul",
+      "rationale": "Sciul répond directement à la question de son oncle (v. 15) ; discours direct adressé."
+    }
+  ],
+  "translation": "Yenna Sciul i umm-nnes: ihi, yenna-yaɣ belli ttwafen tiɣyulin. Mačči ⟨את⟩ awal n tgelda, ayen i d-yenna Camuɛl, ur t-id-yenna ara i ⟨wamm-nnes⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "2bfb3eba07f6fcc62d93c2b998a9cac7c42dcf84224ce39a320ca10c4190a475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/10\/16-16.1791267633681.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sciul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "umm-nnes"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "yenna-yaɣ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ttwafen"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "tiɣyulin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "awal n tgelda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "tgelda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Camuɛl"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:33.685581795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiggura iḥerren",
+      "rationale": "המצרות: tiggura-nni iḥerren i yal tikkelt"
+    },
+    {
+      "kind": "addition",
+      "subject": "menɛaben",
+      "rationale": "Taɛbranit ur d-temmala ara acu i ṭṭfen inebbgi; tettwarna akken ad tettfehm tselmikt"
+    }
+  ],
+  "translation": "Yexqem ⟨את⟩ tiggura-nni iḥerren, yefka deg-sen inebbgi imenɛaben, d trezzayt n uẓu d uẓemmur d wayen",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "60cd0b34567c7a977aed2c0d94affdc7e6522a39ea12cb52adcf382e750bd58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/11\/11-11.1791268366861.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yexqem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiggura-nni iḥerren"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "tiggura-nni iḥerren"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deg-sen"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "inebbgi imenɛaben"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "d trezzayt"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "n uẓu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "d uẓemmur"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "d wayen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:46.866141673Z",
+  "model": "glm-5.3"
+}

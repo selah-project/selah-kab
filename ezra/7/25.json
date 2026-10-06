@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 7:25",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "beṛṛa n wasif",
+      "rationale": "בעבר נהרה: 'beṛṛa n wasif' (abrar) — si tirigt n ugellid babiluni, d aḥric n utaram n Ferɛat; kra n tsuqilin qqaṛen 'utaram', wiyaḍ 'beṛṛa'."
+    },
+    {
+      "kind": "you",
+      "subject": "Ɛezra",
+      "rationale": "Alugen n ugellid yettmeslay-d yettwar meslay i Ɛezra s wudem usrid."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ccreɛ",
+      "rationale": "דת (dat) d taramezt — 'aserḥel\/alugen n ugellid' — ttwaḥerzen-d deg 'ccreɛ' i yuẓen ɣer tfelwit D2."
+    }
+  ],
+  "translation": "Keččin, Ɛezra, s tkerri n Eloha-nnek i deg ufus-inek tella, sbad iḥekkam d yimḥeqqen, iwakken ad ilin iḥekmen i yal aɣella n beṛṛa n wasif, i yal win issnen ccreɛ n Eloha-nnek; i win ur issin ara, melsen-as ad issin.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5ed06e0b5728094223c00a292af213fb33146e90daa6e1e1e7f52642cea1c7b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezra\/7\/25-26.1791268282800.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנת",
+      "gloss": "Keččin"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ɛezra"
+    },
+    {
+      "surface": "כחכמת",
+      "gloss": "s tkerri"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Eloha-nnek"
+    },
+    {
+      "surface": "די",
+      "gloss": "i"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-inek"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sbad"
+    },
+    {
+      "surface": "שפטין",
+      "gloss": "iḥekkam"
+    },
+    {
+      "surface": "ודינין",
+      "gloss": "d yimḥeqqen"
+    },
+    {
+      "surface": "די",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ad ilin"
+    },
+    {
+      "surface": "דאנין",
+      "gloss": "iḥekmen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "aɣella"
+    },
+    {
+      "surface": "די",
+      "gloss": "n"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "n wasif"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal win"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "issnen"
+    },
+    {
+      "surface": "דתי",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Eloha-nnek"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "i win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "issin ara"
+    },
+    {
+      "surface": "תהודעון",
+      "gloss": "melsen-as ad issin"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:22.810986173Z",
+  "model": "glm-5.3"
+}

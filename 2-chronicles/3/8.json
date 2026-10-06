@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ablad",
+      "rationale": "Tikkelt-a tettmuddu timeẓri n teqedcit n iqedcen: 20 temawin ɣef 20 temawin, d 600 n yikikaren n-deheb."
+    },
+    {
+      "kind": "crux",
+      "subject": "על פני רחב הבית",
+      "rationale": "Asuqel: teɣzi tessaḍ-d akken tella tehri n uxхam neɣ tamatart n zdat n tehri; imsuqlen mgalan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ככרים",
+      "rationale": "Isettwaṭṭef umeslugen n tɛebranit iḍfar-as 'kikar' (tazmelt n wazal), mačči 'talent' n tegrizit."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Kra n yisenganen n tuqqna yettwarnan i taqbaylit, ula d ayen ur nelli ara deg uḍris aɛebran."
+    }
+  ],
+  "translation": "Yexlem ⟨את⟩ axxam n teqedcit n iqedcen: teɣzi-s ɣef zdat n tehri n uxхam, crarent n temawin (20), tehri-s crarent n temawin (20); iḍef-it s-deheb igarrezen, sḍis n temyatin (600) n yikikaren.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7228085a53caf1e091da35ebb7cc9973d731d60b731d0eedf3f14bfe3f6051b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/3\/8-8.1791268319064.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexlem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n teqedcit n iqedcen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "teqedcit"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "n iqedcen"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-s"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "tehri"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "n uxхam"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "temawin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "crarent"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "tehri-s"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "temawin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "crarent"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "iḍef-it"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d-deheb"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "igarrezen"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "s yikikaren"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sḍis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n temyatin"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:59.071051908Z",
+  "model": "glm-5.3"
+}

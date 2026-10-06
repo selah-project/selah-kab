@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויענני",
+      "rationale": "mačči d talɣa kan deg taqbaylit; yeffeɣ-d deg tira n tsuqilt"
+    },
+    {
+      "kind": "crux",
+      "subject": "ur numin ara",
+      "rationale": "Iyov yerrent awal-agi akken d aḥeqq n yiwen kan, imi yeqqar belli Ṛebbi ur yettaram ara ad yissin ma yella yeεreḍ ad yessawel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "يַאֲזִין",
+      "rationale": "aεqqeb deg teqbaylit ɣef 'yessferḍ iṭijen' d ayen yellan deg tira tamaziɣt, imi d ayen iḥerfan ara ad d-yefk"
+    },
+    {
+      "kind": "you",
+      "subject": "Iyov",
+      "rationale": "awal agi d ayen nnettat i d-yennan ɣef yiḥeqq-is d Ṛebbi"
+    }
+  ],
+  "translation": "Ma lliɣ yeɛreḍ ⟨i⟩ yessawel-ed, ur numin ara yerna ur lliɣ ara ad numin belli yesla i ṣṣut-iw, axaṭer ur yessineṛ ara ma yella deg-s ṣṣut-iw.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "268a68e38694bdb4a1e65e4a77c293b485eef478d3e43a95893d261a31f39c74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/9\/16-16.1791268167323.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "yeɛreḍ yessawel-ed"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "yerra-yi-d yisewwel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "ur numin ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "belli"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "ad yesleṛ iṯijin"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ṣṣut-iw"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:27.323987738Z",
+  "model": "glm-5.3"
+}

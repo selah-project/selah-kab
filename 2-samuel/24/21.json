@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 24:21",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iwakken",
+      "rationale": "taɛbranit ur tesɛi ara awal n umḍiq i 'iwakken', tanila n yisefra tella deg talɣa n lieɛrab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lweǧdɛa",
+      "rationale": "המגפה d tameṭṭant n tnefsit\/tanekra, 'lweǧdɛa' d awal n teqbaylit i yugaren"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bab-iw",
+      "rationale": "אדני n wemdan, mačči n Ṛebbi — 'bab-iw' am akken di Lemet 24:20"
+    },
+    {
+      "kind": "you",
+      "subject": "Arawna → David",
+      "rationale": "tuttra ɣef ssebaba: 'Acuɣer i d-yusa bab-iw ugellid?' — David i d-yejtɛel"
+    }
+  ],
+  "translation": "Yenna Arawna: Acuɣer i d-yusa bab-iw, ugellid, ɣer umaklay-is? Yenna David: Ad trewleɣ seg-k ⟨את⟩ wanzar n wusenṭeḥ, iwakken ad nebnu mizbeaḥ i Yahwe, ad teḥbes ⟨lweǧdɛa⟩ ɣef ugdud.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a272b28d70077bc3a5735142a6e2eadfc3a16d882854eb5957683f3be9f3d64d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/24\/21-21.1791267664746.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Arawna"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "acuɣer"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-yusa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bab-iw"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "amaklay-is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "ad trewleɣ"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "seg-k"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anzar n wusenṭeḥ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "anzar n wusenṭeḥ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ad nebnu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaḥ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ad teḥbes"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "lweǧdɛa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:04.753646409Z",
+  "model": "glm-5.3"
+}

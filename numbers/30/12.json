@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefsa-s",
+      "rationale": "נפש d lebda tadet: tua \/ nnefs \/ taneffust, mačči d «iman» kan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bab-is",
+      "rationale": "אישה d «argaz-is»; bab d taqbaylit i tebna ɣef unemhal amezwaru n tɣuri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אסר…אסרה",
+      "rationale": "alliteration: isem lɛahd d yibawen-is deg yiwen n uẓar, yeqqim d iddi deg tsuqilt"
+    },
+    {
+      "kind": "elision",
+      "subject": "imiren",
+      "rationale": "ilugan n tseddert n taqbaylit ssumrent awal-nni, taɛbranit ur tesɛi ara"
+    }
+  ],
+  "translation": "Yessla bab-is, yenna-as walac, ur tt-id-yeḥbes ara i ⟨את⟩ tess: imiren akk iney-a-s ad yekfu, yal lɛahd i t-icudd ɣef nefsa-s ad yekfu.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "68fba0e23c1e71809333bc97732d14ac1ba2c9982a1ff910fd29166a978069f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/30\/12-12.1791267465468.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "yessla"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "yenna-as walac"
+    },
+    {
+      "surface": "לה",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "yeḥbes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tess"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "ad yekfu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "iney-a-s"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "t-icudd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nefsa-s"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ad yekfu"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:45.473481459Z",
+  "model": "glm-5.3"
+}

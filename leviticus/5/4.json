@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 5:4",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבטא",
+      "rationale": "בטא: yal 'ad d-yini s tazrart' (KJV 'pronouncing', JPS 'clearly'), yal 'ad yelmeḍ deg lɛajla' (ASV 'rashly') — tazrart tamezwarut i ḍefren"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בטא\/בשבעה",
+      "rationale": "allug n lemqama: לבטא...יבטא d tullis tettwaxedmen deg tseddart-agi, tettwaḥrez deg tsuqilt s 'ad d-yini \/ ara d-yini'"
+    }
+  ],
+  "translation": "Neɣ nefs ma tegga tamment s ieṛṣiyen, ad texmeṛ neɣ ad iselhu, i yal ayen ara d-yini wemdan s tamment; ma teffɣ-d acu seg-s, yerna yessin, ad yeglu d amxuṣṣar deg yiwen seg waya.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/5\/1-4.1791267440103.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Neɣ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tegga tamment"
+    },
+    {
+      "surface": "לבטא",
+      "gloss": "ad d-yini"
+    },
+    {
+      "surface": "בשפתים",
+      "gloss": "s ieṛṣiyen"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ad texmeṛ"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ad iselhu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יבטא",
+      "gloss": "ara d-yini"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "s tamment"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "ma teffɣ-d acu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yessin"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ad yeglu d amxuṣṣar"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "deg yiwen"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "seg waya"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:20.111046405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 11:6",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממציא",
+      "rationale": "Hiphil n מצא: 'ad d-mlireɣ' (ad d-yewṭṭef\/mmed ɣer) — yal times d-yenna 'delivrer' (KJV), yal 'cause to fall' (BSB)"
+    },
+    {
+      "kind": "addition",
+      "subject": "nekk",
+      "rationale": "taɛbranit ur tezmir ara tettwacent deg ufus n umsawal i d-yettwaxedmen",
+      "rationale_hidden": "Hebrew אנכי present; kab needs emphatic pronoun; brackets omitted as not strictly needed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "איש",
+      "gloss_note": "",
+      "rationale": "םאיש גוי גו 'yal yiwen' — ecbatic distributive, 'each man into his neighbour's hand'",
+      "kind_override": null
+    }
+  ],
+  "translation": "Axir ur ttxemmleɣ ara ugar ɣef yimezdaɣ n tmurt, i d-yenna Yahwe; d acu kan, ad d-mlireɣ ⟨את⟩ wemdan, yal yiwen s ufus n umeggiw-is d s ufus n ugellid-is; ad ḥeṭṭen ⟨את⟩ tmurt, ur tent-id-neṭṭfeɣ ara seg ufus-nsen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b042832c74a5ca08ad373551418fae13237eb0d5414e2ec73381e3a81b1ca965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/zechariah\/11\/6-6.1791268043971.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "ttxemmleɣ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yimezdaɣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d acu kan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "ממציא",
+      "gloss": "ad d-mlireɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wemdan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal yiwen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "s ufus"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n umeggiw-is"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "d s ufus"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "n ugellid-is"
+    },
+    {
+      "surface": "וכתתו",
+      "gloss": "ad ḥeṭṭen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tmurt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אציל",
+      "gloss": "tent-id-neṭṭfeɣ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "seg ufus-nsen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:23.972243851Z",
+  "model": "glm-5.3"
+}

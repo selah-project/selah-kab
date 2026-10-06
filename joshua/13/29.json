@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 13:29",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i wegger",
+      "rationale": "taɛbranit ur tesi ara awal-agi deg uḍris; yettwarna iwakken ad yili unamek d ilem"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט \/ מטה",
+      "rationale": "sin awalen yemgerraden i yiwet n tkerrist: agbuḍ d aɣiɣ — asenqeq n uḍris yettwaḥrez s sin n wawalen n taqbaylit"
+    }
+  ],
+  "translation": "Moce yefka ⟨i⟩ wegger n yiwen n uzgen n wegbuḍ n Menucci, d wegger-agi i yella i wazgen n uɣiɣ n yimawlan n Menucci, ɣef tewcac-nnsen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bccb4d94fd53657ab454034897e49283dd8f9c4c80f83c26448f52afc02cb8c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/13\/29-29.1791267545964.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "i wazgen n"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ugbuḍ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menucci"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "d win i yellan"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "i wazgen n"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "aɣiɣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yimawlan n"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menucci"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "ɣef tewcac-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:05.966334059Z",
+  "model": "glm-5.3"
+}

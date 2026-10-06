@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 7:9",
+  "book": "esther",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "asekṛaḍ",
+      "rationale": "העץ d \"asekṛaḍ\/tecra\" i d-implan deg taɛbranit; \"iɛddeb\" (gallows) d ages Ayren Ayren"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "yaɣ-d amedya: taqbaylit tesra ⟨i llan zdat⟩ akken ad tesdukel awal; preposition s taqbaylit tessaweḍ-it"
+    },
+    {
+      "kind": "measurement",
+      "subject": "n ṣin d ḥamsin n yiɣar",
+      "rationale": "tiɣzi n uɣyam tettwasekkel: 50 n yiɣar (~25 n yiɣar)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lexṣar",
+      "rationale": "טוב \"ift\/lexṣar\" — taqbaylit tessaweḍ-it s unamek agejdan, d \"lexṣar\" i d-yeḥkan ayen d-yenna Mordoxay ɣef ugellid"
+    },
+    {
+      "kind": "you",
+      "subject": "sseḥbes-it fellas",
+      "rationale": "alugen n ugellid ɣef wid i t-yeslan: ad d-ttwalin ayen yexleq Haman i Mordoxay, ad yili d netta i t-yesḥebßen fellas"
+    }
+  ],
+  "translation": "Yenna-d Harbona, yiwen seg yiserdisen ⟨i llan zdat⟩ ugellid: Wali daɣen, asekṛaḍ i yexleq Haman i Mordoxay, win i d-yennan lexṣar deg ⟨tikkelt⟩ ugellid — yezga deg uxxam n Haman, d axxam n ṣin d ḥamsin n yiɣar. Yenna-d ugellid: Sseḥbes-it fellas!",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9228ad1e1e8993d8aeb1a3b880ee7c2c474ac7446185be5efcded9ace86d85e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/esther\/7\/9-9.1791268228049.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "חרבונה",
+      "gloss": "Harbona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "yiserdisen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "asekṛaḍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yexleq"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "i Mordoxay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "d-yennan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lexṣar"
+    },
+    {
+      "surface": "על",
+      "gloss": "fell"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yezga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg uxxam"
+    },
+    {
+      "surface": "המן",
+      "gloss": "n Haman"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "n ṣin d ḥamsin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "n yiɣar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "תלהו",
+      "gloss": "sseḥbes-it fellas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fellas"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:28.054971467Z",
+  "model": "glm-5.3"
+}

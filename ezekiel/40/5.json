@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 40:5",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "taɣudent, ueccen, dṣa n tfesna",
+      "rationale": "Tisekta: taɣudent tettwaẓẓa s ueccen n usẓi, dṣa n tfesna d yiwen n ufus n ttawla (ṭepaḥ)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "Tulsa n wawal 'tbeggeṭ ttbeggeṭ' — tigti n tɣuztant, tettwaseggeḍ s tulsa deg teqbaylit."
+    },
+    {
+      "kind": "crux",
+      "subject": "אמה וטפח",
+      "rationale": "Tifesna-a tegda tfesna tamaynut tameqqrant (cubit) i ttwaṣṣfen daxel n usẓi; kra n yimsuqlen gguten ad snulfun taɣ rich n tfesna n umenzel n teqdimt."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הבנין",
+      "rationale": "Awal הבנין (lebni) ur yella ara deg umkan-nniḍen n Tanakh."
+    }
+  ],
+  "translation": "Walay, taɣudent beṛṛa n wexxam, tuɣza-t tbeggeṭ ttbeggeṭ; deg ufus n wemdan yella yiwen n ueccen n usẓi, dṣa n tfesna s tfesna, d yiwen n ufus (ṭepaḥ); yis-ixḍa ⟨את⟩ teɣzi n lebni, yiwen n ueccen, d tattuyt, yiwen n ueccen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "987bc0107f68c106583771c40bdeb29597a99a409e28a04b20b2296512ad412c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/40\/5-5.1791267930388.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "taɣudent"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "beṛṛa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tbeggeṭ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ttbeggeṭ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "yiwen n ueccen"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "n usẓi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "dṣa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "n tfesna"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "s tfesna"
+    },
+    {
+      "surface": "וטפח",
+      "gloss": "d yiwen n ufus (ṭepaḥ)"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "yis-ixḍa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teɣzi n lebni"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "n lebni"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "yiwen n ueccen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "d tattuyt"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "yiwen n ueccen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:30.389374119Z",
+  "model": "glm-5.3"
+}

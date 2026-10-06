@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 40:18",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "teɣzi n twura",
+      "rationale": "Tisekta: asfal yettwasemres s teɣzi n twura, aḥric seg tmuqli n ugemmad."
+    },
+    {
+      "kind": "crux",
+      "subject": "yiɣil",
+      "rationale": "כתף \"iɣil\" i yettunefken i tewsit n twura: talɣa n tfekka i yettwaseqdec; kra n yimsuqal sya \"d amaḍal \/ lɛenwan\"."
+    }
+  ],
+  "translation": "Asfal-nni yiweḍ-d arma ɣer yiɣil n twura, mgal teɣzi n twura: d netta i d asfal n wadda.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "84f8737650714c0a8c5d51bee27ba8b802defcd0ac90433e5633daf646ca6d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/40\/17-18.1791267950914.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרצפה",
+      "gloss": "asfal-nni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arma ɣer"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "yiɣil"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "n twura"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "n twura"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "asfal"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "n wadda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:50.916111300Z",
+  "model": "glm-5.3"
+}

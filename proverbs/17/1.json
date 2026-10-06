@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "isfelan",
+      "rationale": "זבחי ריב: 'izekkar n wemennuɣ' (timeḥbasin n ttṛad) neɣ 'iḍammen n lɛid' (tideffirin), am TNT d JPS 'feasting'."
+    },
+    {
+      "kind": "addition",
+      "subject": "s usgunfu deg-s",
+      "rationale": "עברית יש רק 'ושלווה בה' — הוספת 'deg-s' כדי לבאר את המקום."
+    }
+  ],
+  "translation": "Igerrez uceṭṭuḥ yerren s usgunfu deg-s, ɣef wexxam imaṛṛa n yisfelan n wemennuɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "fbb648255a751929183b4ee3b209c13572ab7030588d2467aaf31012e7cfae90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/17\/1-1.1791268180856.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "igerrez"
+    },
+    {
+      "surface": "פת",
+      "gloss": "uceṭṭuḥ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "yerren"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "s usgunfu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ɣef wexxam"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "imaṛṛa"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "n yisfelan"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "n wemennuɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:40.857124491Z",
+  "model": "glm-5.3"
+}

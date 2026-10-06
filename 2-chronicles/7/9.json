@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצרת",
+      "rationale": "Azhar: 'ajmuɛ n tagara' (ḥebs \/ tlufa tacerreḥt) — mara ad tili d taggara n ucekkaḍ, meṛṛa d leḥsab ɣef waya."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חנכת",
+      "rationale": "Tazwara n wawal-a deg Tanakh — anamek-is taḥnukkat \/ asentel, si tegdi n ḥanuka."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sebɛa n wussan",
+      "rationale": "Asiḍen n wussan: sebɛa i taḥnukkat, sebɛa i tbacuct, d ass wis tam."
+    }
+  ],
+  "translation": "Deg wass wis tam deg tteḥ ḥadḥen nnan, xedmen ṣeddit ⟨n tlufa⟩, axaṭer taḥnukkat n lmeṛbaḥ xedmen-tt sebɛa n wussan, d tbacuct ula d nettat sebɛa n wussan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8b927494c818913d493214c50af7e72ba434872769b53c5b2702c7e8015eed9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/7\/9-10.1791268336445.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "wis tam"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ṣeddit n tlufa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "taḥnukkat"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "n lmeṛbaḥ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen-tt"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebɛa n"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "d tbacuct"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sebɛa n"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "wussan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:16.449785648Z",
+  "model": "glm-5.3"
+}

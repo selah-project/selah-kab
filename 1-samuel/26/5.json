@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 26:5",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "umaɛgal",
+      "rationale": "במעגל: KJV 'trench', ASV 'place of the wagons', JPS 'barricade', ylt 'path' — d talɣa n tira i yettwaḥerzen, tamdegt neɣ amḍiq umḍin n ukamp"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנה\/שכב",
+      "rationale": "sin n tikkal yal awal (חנה deg tazwara d deg taggara, שכב snat n tikkal) — tanḍa-agi treqqec deg tsuqilt"
+    },
+    {
+      "kind": "addition",
+      "subject": "yerna",
+      "rationale": "awal n tuqqna i d-yettwarnan i wawal הנף deg ואבנר"
+    }
+  ],
+  "translation": "David yurmed, yusa-d ar wemkan anida yessers akamp Caewl; David yiẓer ⟨את⟩ wemkan anida yerkad din Caewl, ⟨yerna⟩ Abner, mmi-s n Ner, anemhal n lɛesker-is; Caewl yerkad deg umaɛgal, ma d ugdud yessersen akamp i tdat-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a64e8d30c7a4700aa88af84528a579d87107703872e99fa3f9724098dd529355",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/26\/5-5.1791267669106.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yurmed"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yusa-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "yessers akamp"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caewl"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yiẓer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amkan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yerkad"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Caewl"
+    },
+    {
+      "surface": "ויבנר",
+      "gloss": "yerna Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "anemhal"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "n lɛesker-is"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ma d Caewl"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yerkad"
+    },
+    {
+      "surface": "במעגל",
+      "gloss": "deg umaɛgal"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ma d ugdud"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "yessersen akamp"
+    },
+    {
+      "surface": "סביבתו",
+      "gloss": "i tdat-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:09.112923267Z",
+  "model": "glm-5.3"
+}

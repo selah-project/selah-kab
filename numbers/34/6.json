@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "utaram",
+      "rationale": "taɛbranit tenna  ים  (ilel) i tfella n utaram; taqbaylit tettmagar s \"utaram\" (utaram)"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taqbaylit tesra tazmilt \"d\" deg \"ad yili d tillist-nwen\", taɛbranit ur ɣur-s ara"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tillist",
+      "rationale": "aḍris-agi d tasḍaft n tilistin n Yisrael"
+    }
+  ],
+  "translation": "I ḥrum n utaram: ilel ameqṛan ad yili ⟨d⟩ i wenrar-nwen, wagi ad yili d tillist-nwen n utaram.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a2c834b2eecc4a2ba3ad65cb2e837865b233e5633e5d33a831116c872a6348d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/34\/6-6.1791267475537.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "i ḥrum"
+    },
+    {
+      "surface": "ים",
+      "gloss": "n utaram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wenrar-nwen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilel"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ameqṛan"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "wagi ad yili d tillist"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "d tillist-nwen"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tillist"
+    },
+    {
+      "surface": "ים",
+      "gloss": "n utaram"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:55.541644909Z",
+  "model": "glm-5.3"
+}

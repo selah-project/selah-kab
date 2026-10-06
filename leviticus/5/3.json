@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ונעלם ממנו",
+      "rationale": "anida i d-yettwammel: 'teffɣ-d acu seg-s' neɣ 'yettwakkes seg wallen-is' — anamek amezwaru i ḍefren"
+    }
+  ],
+  "translation": "Neɣ ma yenṭeq deg tnijest n wemdan, deg yal tnijest-is ideg yeglu d anijis, ma teffɣ-d acu seg-s, yerna yessin, ad yeglu d amxuṣṣar.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/5\/1-4.1791267440103.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Neɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "yenṭeq"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "deg tnijest"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "n wemdan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "tnijest-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "yeglu d anijis"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "ma teffɣ-d acu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yerna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yessin"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ad yeglu d amxuṣṣar"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:20.109474498Z",
+  "model": "glm-5.3"
+}

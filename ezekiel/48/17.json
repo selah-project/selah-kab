@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 48:17",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩",
+      "rationale": "taɛbranit ur tesɛi ara yiwet n tguri n unudd deg wagdal, taqbaylit tesra-t"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiḥirt",
+      "rationale": "מגרש d akal ilem ak ufeggag n temdint; 'tiḥirt' yettegzan tamnaḍt ilemmt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "semmus d snat n temṛin",
+      "rationale": "asḥesheb n yal idis: 250 (n yisekfawen, Dkezqel 40:5) ar kuẓ tamiyin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימה",
+      "rationale": "'yam' ansi 'ay yam' = utaram; taqbaylit tesɛa awal s lexṣas: utaram"
+    }
+  ],
+  "translation": "Ad yili ⟨d⟩ tiḥirt i temdint: ɣer ugafa semmus d snat n temṛin, ɣer unẓul semmus d snat n temṛin, ɣer usamar semmus d snat n temṛin, d ɣer utaram semmus d snat n temṛin.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "10c13d8e78065bafb6b4b9433725c5ac4162666e735867d8f6b1b68de8e67ccd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/48\/17-17.1791268003166.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "tiḥirt"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "i temdint"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ɣer ugafa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "d snat n temṛin"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "ɣer unẓul"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "d snat n temṛin"
+    },
+    {
+      "surface": "וקדימה",
+      "gloss": "ɣer usamar"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "d snat n temṛin"
+    },
+    {
+      "surface": "וימה",
+      "gloss": "d ɣer utaram"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "semmus"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "d snat n temṛin"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:43.167487105Z",
+  "model": "glm-5.3"
+}

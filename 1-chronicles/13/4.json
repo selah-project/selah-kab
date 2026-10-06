@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "deg tiṭ-s n ugdud",
+      "rationale": "בעיני d tawuri tatrart: «deg tiṭ-s», taɛbranit tettmeslay ɣef tiṭ akka s usrag"
+    },
+    {
+      "kind": "elision",
+      "subject": "כן",
+      "gloss": "wagi yettwaxedmen",
+      "rationale": "כן yettusesmel d tanzert n wayen i d-yenna uqbel; taqbaylit tesra talɣa"
+    }
+  ],
+  "translation": "Llaḥdara akk tenna ad yili wagi yettwaxedmen, axaṭer awal-nni d ilemti deg tiṭ-s n ugdud akk.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "86ddadd561b4837cbf56e21b47eb005a82653507320740d5e17be983e96527ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/13\/4-4.1791268287264.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "llaḥdara"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yili yettwaxedmen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "d ilemti"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal-nni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiṭ-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:27.273573289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 25:35",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממנה",
+      "rationale": "'seg-s' (seg Menora) neɣ 'yettwaxlemen seg yisem-nnes' — KJV 'of the same' vs ASV 'of one piece with it'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kaftor × 3",
+      "rationale": "alliteration \/ asnubeg n usetti: kraḍ tikal 'kaftor ddaw snat n weqanim', tin n tmezgigt tettwaseǧhed"
+    },
+    {
+      "kind": "measurement",
+      "subject": "snat × 3 \/ ṣedda",
+      "rationale": "asizi n tmenna: kuz-ikuffar ddaw kogneẓ n weqanim, i ṣedda n weqanim"
+    }
+  ],
+  "translation": "Kaftor ddaw snat n weqanim i d-iteddun seg ⟨te⟩Menora, kaftor ddaw snat n weqanim i d-iteddun seg ⟨te⟩Menora, kaftor ddaw snat n weqanim i d-iteddun seg ⟨te⟩Menora — i ṣedda n weqanim i d-yeffɣen seg ⟨te⟩Menora.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "16c64291c631e073fbde4d27e9e0ff7860a60d8175133b88d0fedc466f630c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/25\/33-35.1791267299951.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפתר",
+      "gloss": "kaftor"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "snat n"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "weqanim"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "kaftor"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "snat n"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "weqanim"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "kaftor"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "snat n"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "weqanim"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "לששת",
+      "gloss": "i ṣedda n"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "weqanim"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:59.954310973Z",
+  "model": "glm-5.3"
+}

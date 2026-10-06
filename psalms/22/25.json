@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ara",
+      "rationale": "taqbaylit tessra ticki neggwent s ara, taɛbranit ur tesɛi ara"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עני",
+      "rationale": "עני d 'win iɣli, win yeqqimen deg weggunaw' — uɛessas yettwafernen ijeṛṛen"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקץ",
+      "rationale": "'igguma\/igdel' neɣ 'yugg tanekra' — bṭel d tugdi n wayen iḥeṣṛen"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "aẓavan yettmeslay ɣef Yahwe d ugdud, maca deg uselken-is ay seg yebda"
+    }
+  ],
+  "translation": "Axṭer Yahwe ur iḥeṣṛa ara d ur igguma ara taẓeṭṭit n uɛessas, ur iffir ara uḍem-is seg-s; mi yessawel ɣer-s, isel.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8822d8de49dee36ee7e741fc9c09af130086d9f9350e55b698611901109312ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/22\/25-25.1791268025858.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "iḥeṣṛa ara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "d ur"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "igguma ara"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "taẓeṭṭit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "n uɛessas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "iffir ara"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uḍem-is"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "mi yessawel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣer-s"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "isel"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:05.859320026Z",
+  "model": "glm-5.3"
+}

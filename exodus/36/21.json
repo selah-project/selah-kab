@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "temma",
+      "rationale": "אמה d amur n tbaḍant (gar uceffud d ufus), tettwaseqmel s yisem-is, mačči s \"amur\""
+    },
+    {
+      "kind": "measurement",
+      "subject": "36:21",
+      "rationale": "Aḥsab n teɣzi d tehri: mrawt n temma ɣer teɣzi, temma d wamur-nnes-tullan ɣer tehri"
+    },
+    {
+      "kind": "elision",
+      "subject": "האמה",
+      "gloss": "tettwaseggeḍ d ayla n wawal nniḍen (ו חצי), ur tettwakkes ara deg ttfaṣil"
+    }
+  ],
+  "translation": "Mrawt n temma d teɣzi n uqerreš, yiwet n temma d wamur-nnes-tullan d tehri n uqerreš ⟨am yiwet⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a8b6376cda0f735303485caf34b00d83206cd224d704516e7209115eb426ba8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/36\/21-22.1791267354632.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "mrawt"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "n temma"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "d teɣzi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "n uqerreš"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "yiwet n temma"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "d wamur-nnes-tullan"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "temma"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "tehri"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "n uqerreš"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨am yiwet⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:54.632610642Z",
+  "model": "glm-5.3"
+}

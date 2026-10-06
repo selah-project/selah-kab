@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לנפל חללי",
+      "rationale": "Ḥebrew 'to fall the slain of' — idiom of causing slaughter; kabyle renders as causative 'yegga ad d-ddun'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבבל נפלו",
+      "rationale": "Prefix ל read as 'at\/in Babylon' (KJV, JPS) vs 'because of Babylon' (BSB); YLT reads 'they of Babylon have fallen'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבל \/ לבבל",
+      "rationale": "Same root with different prefixes mirrors guilt-for-guilt reversal; lost in kabyle as in English"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם",
+      "rationale": "Anaphoric 'also\/just as ... so also' frames the measure-for-measure symmetry"
+    },
+    {
+      "kind": "elision",
+      "subject": "גם בבל לנפל",
+      "rationale": "First גם read as comparative 'akken' (as) rather than literal 'also', following the parallel structure"
+    }
+  ],
+  "translation": "Akken Babil yegga ⟨את⟩ wid yettwakren n Yisrael ad d-ddun, akken deg Babil ddekkren wid yettwakren n tmurt akk.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6e56304c9bedbf38d08a0bbd877a08245eebd619f96015f501e7ccd53a41d732",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/51\/49-49.1791267891626.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "akken"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ad d-ddun"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wid yettwakren"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "גם",
+      "gloss": "akken"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "deg Babil"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ddekkren"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wid yettwakren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:51.626736531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 14:26",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nnefs-ik",
+      "rationale": "נפש ur telli ara d 'nnefs' deg umahil; asugar d tuccḍi, s lemḍil d 'iεeddi n tudert, ul, iṭṭes' — 'nnefs' taqbaylit tessaweḍ ɣer-s."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשכר",
+      "rationale": "שכר d ccirb iweɛren mačči n lḥemra; 'lḥemra iweɛren' d awezɣi, tibuct n tidet: ccirb ameqqran, mačči kan lḥemra."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Tafelwit-a tessawal i Yisrael s tudert: 'nnefs-ik', 'axxam-ik'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאוה...תשאלך",
+      "rationale": "Sin n yiferdisen yemcabin: tiḥerci n wanwi d nnefs i d-yettwajan deg yal amkan, taqbaylit tesseḥbes fell-asen."
+    }
+  ],
+  "translation": "Ad tmuddeḍ iḍrim ɣef yal ayen ara tebɣu nnefs-ik — i yizerman, i weklum, i lḥemra, i lḥemra iweɛren, d ɣef yal ayen ara yessutru nnefs-ik — ad teccḍeḍ dinna zdat Yahwe Elohim-ik, ad tferḥeḍ, keččini d axxam-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c71bcd49a491064540511948b4ed48d20bc540c416ee2dc933cb537412455340",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/14\/25-26.1791267522229.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ad tmuddeḍ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "iḍrim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ɣef yal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ara tebɣu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nnefs-ik"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "i yizerman"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "i weklum"
+    },
+    {
+      "surface": "וביין",
+      "gloss": "i lḥemra"
+    },
+    {
+      "surface": "ובשכר",
+      "gloss": "i lḥemra iweɛren"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "d ɣef yal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "תשאלך",
+      "gloss": "ara yessutru"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nnefs-ik"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ad teccḍeḍ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "ad tferḥeḍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "keččini"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "d axxam-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:42.241724380Z",
+  "model": "glm-5.3"
+}

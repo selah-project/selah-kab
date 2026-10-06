@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 3:17",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לקול אשתך שמעת",
+      "rationale": "tegberawt taɛbranit 'ad tesleḍ i teɣect n...' temmal-d tamuɣli (tsemlaleḍ), mačči kan yifes kan aselawen"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעצבון",
+      "rationale": "lexmac \/ laḥmec: tugdi d lkama — tisuqil timeqranin qqarent-d 'in toil' (aqelleḥ) neɣ 'in pain' (aṭṭan)"
+    },
+    {
+      "kind": "you",
+      "subject": "i Adam",
+      "rationale": "Yahwe\/Elohim ad-yennat i Adam s t synonymit tamatut ('-ik', '-eḍ')"
+    }
+  ],
+  "translation": "I Adam i d-yenna: axaṭer tesleḍ i teɣect n tmeṭṭut-ik, tuḥeḍ seg useklu i k-iḥekmeɣ, i d-nniɣ: ur tet ara seg-s; ittwanezt tamurt ɣef leḥsab-ik; s lexmac ad t-teteḍ akk wussan n tmeddurt-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "2a479beec724638b313ceda291fd14eef2801a84cfea33c90a9b28bc9e4e2f76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/3\/17-17.1791267291426.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאדם",
+      "gloss": "i Adam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tesleḍ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "i teɣect"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "n tmeṭṭut-ik"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "tuḥeḍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "useklu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "k-iḥekmeɣ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "i d-nniɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "ארורה",
+      "gloss": "ittwanezt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "ɣef leḥsab-ik"
+    },
+    {
+      "surface": "בעצבון",
+      "gloss": "s lexmac"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "ad t-teteḍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "n tmeddurt-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:51.427316621Z",
+  "model": "glm-5.3"
+}

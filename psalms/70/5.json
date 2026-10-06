@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוש\/שמח",
+      "rationale": "Sinomi-árezguf tizmert n sin n yiferdisen: שוש d שמח, snat awal yemgaharden maḥmi amkan araǧǧun."
+    }
+  ],
+  "translation": "Ad ceḥḥlen ad frḥen deg ⟨kečč⟩, akk wid ak-iddmaren, ad qqalen tamṭit: Ad yimeqqer Elohim, wid iḥemmlen lɛelqa-nneк…",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a7f39ce6df830f6195f9006330dab20e9035b973b715223daa56b19c7281b314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/70\/5-5.1791268080830.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ad ceḥḥlen"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ad frḥen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deg kečč"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wid ak-iddmaren"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ad qqalen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tamṭit"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ad yimeqqer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "wid iḥemmlen"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tafrant-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:00.831710596Z",
+  "model": "glm-5.3"
+}

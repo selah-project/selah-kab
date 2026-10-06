@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 10:1",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האמנים",
+      "rationale": "'Wid yessefraḥen' (guardians\/fosterers) vs 'wid ikefflen' (those who raise up\/support); root אמן means to foster or support."
+    },
+    {
+      "kind": "addition",
+      "subject": "arraw",
+      "rationale": "Hebrew says only 'the omnim of Ahab' — 'arraw' (children) added to clarify the foster-relationship."
+    },
+    {
+      "kind": "substitution",
+      "subject": "seg Comron",
+      "rationale": "Hebrew וישלח שמרון lacks a preposition; 'seg' supplied for sense ('sent to Samaria')."
+    }
+  ],
+  "translation": "Deg leɛmṛa n Aḥab, llan sebɛin n warraw deg Comron. Yehu yura isekkilen, yuzen-iten seg Comron ɣer yimḍebbren n Yizreɛel, iɣerman, d wid yessefraḥen ⟨arraw⟩ n Aḥab, ad yini:",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1eb84cd99642ec866b0a5732be6a9fd7abd82571e33df4c96285526564b73384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/10\/1-1.1791267732224.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאחאב",
+      "gloss": "i Aḥab"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sebɛin"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "deg Comron"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "yura"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "isekkilen"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "seg Comron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "imḍebbren"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreɛel"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "iɣerman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "wid yessefraḥen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aḥab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:12.227058707Z",
+  "model": "glm-5.3"
+}

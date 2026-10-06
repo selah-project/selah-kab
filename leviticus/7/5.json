@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Taɛbranit ur tesɛi ara ntedya; 'd' yettwarna i ⟨acem i d-igan⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iche",
+      "rationale": "אִשֶּׁה d lqerban n tmes; talɣa n taɛbranit tettwaḥrez"
+    }
+  ],
+  "translation": "Akohen ad yecṣṣeḥ ⟨אתם⟩ ɣef lmeẓbeaḥ, iche i Yahwe; d acem i d-igan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f8012730dfb8984741315fd11f423f27eb3ee0e16abac473c7317b0fd3e9f249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/7\/5-6.1791267382840.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ad yecṣṣeḥ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iẓeḍḍan d tikkal n tmeẓla, win ittwaceṣṣḥen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeẓbeaḥ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "iche"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "acem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-igan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:16:22.841543498Z",
+  "model": "glm-5.3"
+}

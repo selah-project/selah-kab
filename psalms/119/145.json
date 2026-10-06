@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "קראתי ... בכל לב",
+      "rationale": "taziwert n lɛahd: segmi taqbaylit tessutsay s yiwet n talɣa i 's wul ameẓẓul', sin n yismawen n taɛbranit (בכל, לב) ttwasmezglen ɣef snat n tseddarin s yiwet n tsiwelt"
+    },
+    {
+      "kind": "crux",
+      "subject": "אצרה",
+      "rationale": "yettwaḥrez deg wawal n yelyeḥ d yebɛed — tasiwelt tettini-d ɣef tdukli: yella wid i d-yennan 'ad ḥeddeɣ' (ttwaɛqed) syin wid i d-yennan 'ad ṣeḥḥeɣ' (ttwaḥrez); yerna yella ukayad: d aneggaru n lɛahd mačči d tafelsit"
+    }
+  ],
+  "translation": "Ceɣliɣ s wul ameẓẓul; d-yisir-i Yahwe; lɛahd-im ad ḥeddeɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f2eaae99ad6be4aeb958e3cfa38e9b85a5205225b8a09f3dd0a204140037105a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/119\/145-145.1791268080958.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Ceɣliɣ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s wul ameẓẓul"
+    },
+    {
+      "surface": "לב",
+      "gloss": "s wul ameẓẓul"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "d-yisir-i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "lɛahd-im"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "ad ḥeddeɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:00.959384777Z",
+  "model": "glm-5.3"
+}

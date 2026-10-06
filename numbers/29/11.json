@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 29:11",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חטאת",
+      "rationale": "Isem yiwen i yesɛan sin yinumak: tucḍa d taqerbant n tucḍa; talɣiwt-a d talɣiwt kan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "התמיד",
+      "rationale": "Talɣa taneṣlit d 'win yettkemmilen' — taqerbant tamatut n yal ass."
+    }
+  ],
+  "translation": "yiwen wazerf n tɣaṭin, d tucḍa; beṛṛa si tucḍa n tusfelt, ula d taqerbant n win yettkemmilen, d minḥa-s, d tisɣunin-nsen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8103c7a15495f92bf88f8ba5a333ef9355073a7549897e1ae3d6ef0f7e34c7b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/29\/9-12.1791267537479.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "azerf"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "n tɣaṭin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tucḍa"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "beṛṛa si"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tucḍa"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "n tusfelt"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ula d taqerbant"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "n win yettkemmilen"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "d minḥa-s"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "d tisɣunin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:57.487524837Z",
+  "model": "glm-5.3"
+}

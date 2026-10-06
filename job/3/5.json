@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגאלהו",
+      "rationale": "go'el 'ad yeḥbes \/ ad yerreḥ': 'redeem\/claim it' (YLT, ASV) vs 'stain it' (KJV, taɣrayewt n tfelwit tamezwarut); teqbaylit tewweḍ-d ɣer 'claim' (ḥeṣḍ)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כמרירי",
+      "rationale": "kimririret kan deg Taggara-agi n lɛahd, maca deg usuf (plural) kan; tettwasuqal d 'tiẓẓin' (timlilin n wass)"
+    }
+  ],
+  "translation": "Ad t-id-ḥeṣḍen tawinest d tiẓẓi n tmettant, ad yezdeɣ fell-as usigna, ad t-ḥarben ⟨tiẓẓin⟩ n wass.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e2662737e9bc9b1e5de1f6f63ecfcb4098e2874f7e0f518724fa153fbaf7ae78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/3\/5-5.1791268154583.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "ad t-id-ḥeṣḍen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tawinest"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "tiẓẓi n tmettant"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "ad yezdeɣ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "usigna"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "ad t-ḥarben"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "tiẓẓin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "n wass"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:14.584053101Z",
+  "model": "glm-5.3"
+}

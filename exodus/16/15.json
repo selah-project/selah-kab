@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 16:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן הוא",
+      "rationale": "Man (acu?) d taperrasit: awal 'man' (acu?) i d-yesnemkaren isem n uman; suqeldent s 'Man? ⟨d⟩ acu i d-lli?' iwakken ad yeqqim ugersal n yisem"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן",
+      "rationale": "Tazmilt: 'Man hu' (acu i d-lli?) neɣ 'd Man' (isem n uman); NV yenna-d taperrasit, yerna seg-s i d-yekka yisem"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩",
+      "rationale": "Taqbaylit tesra tafrant 'd' deg wemkan n tfelwit, taɛbranit ur ɣi-tt"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "Taferrant 'i' tettwasumner deg taqbaylit deg ufraz n tferrawt, ur telli deg uḍris aɛebri"
+    }
+  ],
+  "translation": "Mi ẓran wid n Yisrael, nnan yiwen ɣer wayeḍ: Man? ⟨d⟩ acu i d-lli? Aẓaḍ ur ẓrin acu i d-lli. Yenna Moce ɣur-sen: D netta lɣelem i d-yefka Yahwe ⟨i⟩ wen, iwakken ad t-teččem.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "657dae9b586a91004f327339a0aad86239ef329d8424d9b6cb430369863a216d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/16\/15-15.1791267270308.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "mi ẓran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aẓaḍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ẓrin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-lli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɣur-sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "lɣelem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "i d-yefka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i wen"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "iwakken ad t-teččem"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:30.309456192Z",
+  "model": "glm-5.3"
+}

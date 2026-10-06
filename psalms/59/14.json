@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כלה...כלה",
+      "rationale": "Usliḍ n usenṭeḍ: yis-s wayen yuɣen s tmentil, taqbaylit tḥrez-it s \"Sfeḍ-ten... sfeḍ-ten\"."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wuɣdi",
+      "rationale": "בחמה tenna-d \"aẓeṭṭab\/tasensel\", maca deg taɛbranit d taɣawsa tameẓẓyant: aɣdi ay d-yefka."
+    },
+    {
+      "kind": "crux",
+      "subject": "Selah",
+      "rationale": "סלה d awal n uẓawan yettwacabin, aṭas n yisuqalen tt-ḥerren am akken illa (Selah) mačči am akken d taqbaylit."
+    }
+  ],
+  "translation": "Sfeḍ-ten s wuɣdi, sfeḍ-ten, ur d-lin ara; ad wassin b​akken Elohim yettaḥkem deg Yaɛqov, arma d yixfawen n tmurt. Selah.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9d3cec20b572d90a0d53510bb3cfc40c1138c2b46569c352f0528b2a726ab2f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/59\/14-14.1791268023745.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Sfeḍ-ten"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "s wuɣdi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sfeḍ-ten"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "ur d-lin ara"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ad wassin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "b​akken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "yettaḥkem"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "deg Yaɛqov"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "arma d yixfawen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:03.745557700Z",
+  "model": "glm-5.3"
+}

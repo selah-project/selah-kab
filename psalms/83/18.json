@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "leqdic",
+      "rationale": "עדי עד (kraḍ n wawalen) yeqqim d 'ɣer lebda' kan; talɣiwt tanemmirt tettwasumur."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ad ɛeḍlen",
+      "rationale": "בהל d 'tugin n ul'; taqbaylit tefka talɣa n ussiglwel."
+    }
+  ],
+  "translation": "Ad nxṣer, ad ɛeḍlen, ɣer ⟨leqdic⟩ n lebda, ad nɣelli d lexṣara, ad nṣuḥ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/83\/17-19.1791268089605.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ad nxṣer"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ad ɛeḍlen"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "n lebda"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ad nɣelli d lexṣara"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ad nṣuḥ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:09.606106726Z",
+  "model": "glm-5.3"
+}

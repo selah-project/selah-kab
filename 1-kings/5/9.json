@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 5:9",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wasif",
+      "rationale": "חול d tira-is 'ilel (n wasif) — awal n teqbaylit yessaǧǧan asemmiḍ, maca חול s yiman-is 'amḍan n yijfan ur yelli ara deg teqbaylit d awal aweḥdi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחב לב",
+      "rationale": "'teɣzi n ul' — taɛbranit tettaṭṭaf teɣzi\/tihri d tamextit, am 'l'argeur du cœur' n tefransist; taqbaylit teṭṭaf 'ul' amkan n wayyur n teqbaylit"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tuget tameqqrant maḍi",
+      "rationale": "asmeḥbas n teḥekma d teftsut s wawalen n usṭu (הרבה מאד)"
+    }
+  ],
+  "translation": "Elohim yefka icelmeḥ ḥekma, d teftsut, tuget tameqqrant maḍi; d teɣzi n ul am yilel n wasif i yellan ɣef iji n yilel.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f7102c0f816512916b1fb05ecc325f002a62699b2c911ad113a8fecf48764106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/5\/9-9.1791267721495.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yefka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ḥekma"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "icelmeḥ"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "d teftsut"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "tuget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tameqqrant maḍi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "d teɣzi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "n ul"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "am yilel n wasif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "iji"
+    },
+    {
+      "surface": "הים",
+      "gloss": "n yilel"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:01.496079306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 25:33",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "igeviɛim",
+      "rationale": "גביע d tagla (aqerbaz) neɣ taqsit n tmezgigt; tettwattfen talɣa tamaziɣt s uɣir n tmezgigt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "imecuqqaden",
+      "rationale": "משקדים: 'yettwaxlemen am tmezgigt' — awal n taɛbranitt iḥrez-it"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משקדים \/ שקד",
+      "rationale": "aẓar šqd — tmezgigt; tiggit tettwal-d deg imedyaten n Menora; talɣa taɛbranit tettwaḥrez"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kraḍ \/ kraḍ \/ ṣedda",
+      "rationale": "asizi n tɣawsa: 3+3 tigejwin ɣef yal weqan, ṣedda n weqanim"
+    }
+  ],
+  "translation": "Kraḍ n yigeviɛim imecuqqaden deg yiwen n weqan, kaftor akked uperaḥ; kraḍ n yigeviɛim imecuqqaden deg yiwen n weqan, kaftor akked uperaḥ; akka i ṣedda n weqanim i d-yeffɣen seg ⟨te⟩Menora.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "16c64291c631e073fbde4d27e9e0ff7860a60d8175133b88d0fedc466f630c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/25\/33-35.1791267299951.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "igeviɛim"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "imecuqqaden"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "deg yiwen n weqan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "כפתר",
+      "gloss": "kaftor"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "akked uperaḥ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "igeviɛim"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "imecuqqaden"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "deg yiwen n weqan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "כפתר",
+      "gloss": "kaftor"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "akked uperaḥ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "לששת",
+      "gloss": "i ṣedda n"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "weqanim"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menora"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:59.953005742Z",
+  "model": "glm-5.3"
+}

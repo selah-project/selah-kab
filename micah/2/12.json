@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 2:12",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אאסף · קבץ אקבץ",
+      "rationale": "Infinitif absolu + yezmer d wayeḍ: uslug ara, ad ak-d-ssumdeɣ — snat n tskal, snat n yinumak i d-yettwalin deg uḍris"
+    },
+    {
+      "kind": "crux",
+      "subject": "בצרה",
+      "rationale": "Isem n temdint n Bocra (tinqed id Yisrael) neɣ 'agadir n tlufa' (tira tigawt) — KJV\/JPS ɛan-d iẓuran nniḍen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדברו",
+      "rationale": "Awal-a yemmal-d 'adgan n tlufa' (degh tezdeɣ tlufa), yeffeɣ-d s 'tiḥirt-nsen'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tuget",
+      "rationale": "מאדם yenna-d kan 's yimdanen'; 'tuget' tettwarni akken ad tettwafhem tselmawt"
+    }
+  ],
+  "translation": "Ad ssumdeɣ, ad ak ssumdeɣ akk, a Yaɛqov; ad d-mlileɣ, ad ak-d-mlileɣ wid i d-yeqqimen seg Yisrael; deg yiwet ad ten-rrɣ am iṭṭerdan deg wagadir, am taymat deg tlemmast n tiḥirt-nsen; ad ckukrent s ⟨tuget⟩ n yimdanen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "09edcc7a627267236bac7c9df549df3e0a5b351ca34e9accccbbc449360859f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/micah\/2\/12-12.1791268072417.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "ad ssumdeɣ"
+    },
+    {
+      "surface": "אאסף",
+      "gloss": "ad ak ssumdeɣ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "akk-ik"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "ad d-mlileɣ"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "ad ak-d-mlileɣ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "wid i d-yeqqimen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "deg yiwet"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ad ten-rrɣ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "am iṭṭerdan"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "deg wagadir"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "am taymat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "deg tlemmast"
+    },
+    {
+      "surface": "הדברו",
+      "gloss": "n tiḥirt-nsen"
+    },
+    {
+      "surface": "תהימנה",
+      "gloss": "ad ckukrent"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "n yimdanen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:52.419474776Z",
+  "model": "glm-5.3"
+}

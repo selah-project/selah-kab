@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 9:11",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "frureggten",
+      "rationale": "השלום — 'ma yella talwit\/shalom', idiom n usteqsi ɣef leḥsab; 'frureggten' d tazwart n unamek"
+    },
+    {
+      "kind": "crux",
+      "subject": "המשגע",
+      "rationale": "'umesser' (win yessedden) — kra n yimsuqal ḥemmlen 'anabi amahbus' ayen nniḍen; talɣa huxxag"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיחו",
+      "rationale": "siɣer ur yettwaḥrez ara deg tira n taqbaylit: 'šiaḥ' d asawen n tfelsit akked wawal"
+    }
+  ],
+  "translation": "Yehu yeffeɣ ɣer yimeẓlayan n bab-is, wigi nnan-as: Ma yella frureggten? Acimi i d-ikkf umesser-ag ɣer yid-k? Yenna-yas: Kunwi tessnen ⟨את⟩ wemdan-a d ⟨את⟩ wawal-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "387d2379ad897ae821dde15794831b225f8056b376be7ae2b26302bac57923f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/9\/11-11.1791267704741.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yeffeɣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "imeẓlayan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bab-is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nnan-as"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Ma yella frureggten"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Acimi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "i d-ikkf"
+    },
+    {
+      "surface": "המשגע",
+      "gloss": "umesser-ag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣer yid-k"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-yas"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Kunwi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tessnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wemdan-a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wemdan-a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "wawal-is"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "wawal-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:44.752088238Z",
+  "model": "glm-5.3"
+}

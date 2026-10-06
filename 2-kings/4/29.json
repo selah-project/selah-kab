@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 4:29",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Geḥazi",
+      "rationale": "Elisha addresses his servant Geḥazi with a chain of imperatives."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ḥell iɣerẓan-ik",
+      "rationale": "חגר מתניך 'gird your loins' — idiom for urgent preparation, kept literally."
+    },
+    {
+      "kind": "addition",
+      "subject": "udem",
+      "rationale": "פני 'face of' rendered with a noun requiring the bracketed construct sense in kab."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך\/ענה",
+      "rationale": "Parallelism: bless-not \/ answer-not, mirrored chiasm in the two conditional clauses."
+    }
+  ],
+  "translation": "Yenna i Geḥazi: Ḥell iɣerẓan-ik, ṭṭef tadusiw-iw deg ufus-ik, udu; ma tufiḍ argaz, ur t-iberrkeḍ ara; ma k-iberrkeḍ argaz, ur t-id-tettaraḍ ara; sers tadusiw-iw ɣef ⟨udem⟩ n wefrux.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f63dd0d41ef62ecca91155682a905b69135159f0019a2c3560d17516c1cad521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/4\/29-29.1791267720134.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "לגיחזי",
+      "gloss": "i Geḥazi"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "Ḥell"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "iɣerẓan-ik"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ṭṭef"
+    },
+    {
+      "surface": "משענתי",
+      "gloss": "tadusiw-iw"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-ik"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "udu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tufiḍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "t-iberrkeḍ ara"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "k-iberrkeḍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "t-id-tettaraḍ ara"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "sers"
+    },
+    {
+      "surface": "משענתי",
+      "gloss": "tadusiw-iw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "n wefrux"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:00.135587581Z",
+  "model": "glm-5.3"
+}

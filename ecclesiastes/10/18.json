@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המקרה",
+      "rationale": "asergef n tseɛlayin: 'KJV d taɣdict', 'ASV\/JPS d iseɛlayen n usergif' — talɣa tamezwarut tettḍu, nezzeh ad yeqqim d wawal n tseɛlayin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימך\/ידלף",
+      "rationale": "sin wawalen n usrew d uẓeḍṛu — aserwef ɣef wayen yexṣen, yexṣa ad yebnu; taqbaylit teṭṭef-d snat n tewdin"
+    }
+  ],
+  "translation": "S tẓeggit ad yuɣal d wad iḍṛuẓen uẓeṭṭaṭ, s ḍeɛf n yifassen ad isrew-d wexxam.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4f883705f916f365ec8df40665fc682282eb361dc38dbdfd4f40eacd6bd9060a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/10\/18-18.1791268402899.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "s tẓeggit"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ad yuɣal d wad iḍṛuẓen"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "uẓeṭṭaṭ"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "s ḍeɛf"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "n yifassen"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ad isrew-d"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:22.900646273Z",
+  "model": "glm-5.3"
+}

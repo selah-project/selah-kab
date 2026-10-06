@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 25:34",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "te",
+      "rationale": "article deg teqbaylit i Menora; taɛbranit ur tesɛi ara article s wanecta"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ṣa",
+      "rationale": "asizi: ṣa n tigejwin ɣef uẓeṭṭaṭ (iṣerḍen) n Menora"
+    }
+  ],
+  "translation": "Deg ⟨te⟩Menora ṣa n yigeviɛim imecuqqaden, ikafturen-is d iperaḥen-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "16c64291c631e073fbde4d27e9e0ff7860a60d8175133b88d0fedc466f630c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/25\/33-35.1791267299951.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "deg Menora"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ṣa"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "igeviɛim"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "imecuqqaden"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "ikafturen-is"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "d iperaḥen-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:59.953735573Z",
+  "model": "glm-5.3"
+}

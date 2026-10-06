@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורך הלבב",
+      "rationale": "rakh — 'uléḥen, awṛi', d awal aqbur deg Tanakh; tsuqilin qqaṛen 'faint-hearted' (BSB) neɣ 'tender of heart' (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iyerr",
+      "rationale": "מסס — 'ad yeli, ad ifṛu' (timura ḍment am dsel); 'yerr' yegber tigawt-agi tamellant."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלבב \/ לבב \/ כלבבו",
+      "rationale": "Allus n leb (ul) tlata n tikkal deg yiwet n tseddart — asettu deg tsuqilt n lqern amzwaru."
+    }
+  ],
+  "translation": "Išoṭṛim ad rnun mmeslayen ɣer ugdud, ad nnan: anwa d argaz iugaden, ul-is d amellal? Ad yeddu, ad yuɣal ɣer wexxam-is, akken ur iyerr ⟨ara⟩ ⟨את⟩ ul n watmaten-is am ul-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3c6e5c116bb733251dbb74edf3234fe83f4973455a377d92ec70b7275a6317d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/20\/5-8.1791267610263.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "ad rnun"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "išoṭṛim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mmeslayen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ad nnan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "d argaz"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "iugaden"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "amellal"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ad yuɣal"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ɣer wexxam-is"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akken ur ... ara"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "iyerr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul n watmaten-is"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "n watmaten-is"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "am ul-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:10.268232135Z",
+  "model": "glm-5.3"
+}

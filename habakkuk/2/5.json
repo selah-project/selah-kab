@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 2:5",
+  "book": "habakkuk",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בוגד",
+      "rationale": "Uḍris yenna-d kan: 'tayyin d win yettxeḍḍen' neɣ 'gebr ixellex s tayyin' — leqbayel n tsuqil mḍebbin gar-asen (KJV vs ASV\/JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש d taṭṭuft \/ tameddurt, mačči d 'ruḥ' — tettwaḥrez s talɣa-is taɛbranit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ceol d lmut",
+      "rationale": "Sin-agi sḍafen rnu ur nessin acemma tanekra: Ceol d lmut ur ççiṛen ara, tayunsi i yeṛḥun"
+    }
+  ],
+  "translation": "Ugar daɣen, axaṭer tayyin d win yettxeḍḍen, gebr d ajehliḥ, ur yezdeɣ ara deg uxxam-is; win iwumi tenghez nefes-is am Ceol, netta yegda lmut, ur yeçčiṛ ara; yujmeɛ ɣur-s akk iɣlanen, yewḥel ɣur-s akk yegdannen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "caa411715fbb00043182831e1830b8fc3f61d84691fc0a739adaa159e9a256fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/habakkuk\/2\/5-5.1791268057280.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ugar daɣen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "היין",
+      "gloss": "tayyin"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "win yettxeḍḍen"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gebr"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "ajehliḥ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ינוה",
+      "gloss": "yezdeɣ axxam-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "הרחיב",
+      "gloss": "iwumi tenghez"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "am Ceol"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefes-is"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "am lmut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "yeçčiṛ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "yujmeɛ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "iɣlanen"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "yewḥel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yegdannen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:37.282111523Z",
+  "model": "glm-5.3"
+}

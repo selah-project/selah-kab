@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וביתה",
+      "rationale": "Crux: 'and inward' (bayta, direction) vs 'and to the house' — ulac amek ara yili d tuccḍa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סביב",
+      "gloss": "deg tazrawt — 'around', amekan n tɣuri n usellaḥ."
+    }
+  ],
+  "translation": "David yezdeɣ deg tgezzunt, isemma-yas ⟨i⟩ tamdint n David; David yebna deg tazrawt, seg Millo ɣer ⟨uɣur⟩ n wexxam.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3f1027dfd986c928fb80a5d55326d91f1a45933789e04533bd4f3c62d8e7dc58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/5\/9-9.1791267623021.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yezdeɣ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "deg tgezzunt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "issema-yas"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "deg tazrawt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ɣer ⟨uɣur⟩ n wexxam"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:23.024043349Z",
+  "model": "glm-5.3"
+}

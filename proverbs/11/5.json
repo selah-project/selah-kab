@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ṣedeq",
+      "rationale": "צדקה yettwag s ṣedeq s lebɛi n tfelwit, mačči s lḥeqq weḥd-s."
+    },
+    {
+      "kind": "substitution",
+      "subject": "timmad-is tameṣṣut",
+      "rationale": "תמים 'win imden, win igan timmad-is tekkmimt' — taqbaylit ur tesɛi ara awal Yiwen n umgrad n taɛbranittamim."
+    },
+    {
+      "kind": "alternative",
+      "subject": "uṛṛumi",
+      "rationale": "רשע yezmer daɣen ad yettwag 'abekkav' — 'uṛṛumi' yezga d ameɣtu i win n dirit."
+    }
+  ],
+  "translation": "Ṣedeq n win ilan timmad-is tameṣṣut ad yessfehmel abrid-is; maca deg treɛṛṛut-is ad yider lexṣar.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "29a028f0c29212ad917f48a69e8426fe4a567ae6cd31e0b4154024c24139d99d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/11\/5-5.1791268106544.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "ṣedeq"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "n win ilan timmad-is tameṣṣut"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "ad yessfehmel"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "abrid-is"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "maca deg treɛṛṛut-is"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ad yider lexṣar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "uṛṛumi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:26.547009336Z",
+  "model": "glm-5.3"
+}

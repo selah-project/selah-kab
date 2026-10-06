@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i weneger-nni",
+      "rationale": "taɛbranit tessefruri-d taɣawsa-nni s taɣzut tanekumt; taqbaylit tessuter-d taɣawsa n yibenk — tettwarna deg ⟨…⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לִבְנֹת וְלִנְטֹעַ",
+      "rationale": "sinawen-agi d tifrat n Yiṛemiyu 1:10 (snub, nṭaɛ); ttuɣalen-d da, meḥsub d ayen ilaqen ad yeqqim."
+    }
+  ],
+  "translation": "Tuɣt ticki ad d-yenna ⟨Yahwe⟩ wawal ɣef uwenger neɣ ɣef tgelda, ad ibnu ⟨i weneger-nni⟩, ad iseggy ⟨i weneger-nni⟩ —",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5670fc8c19ed2af6e289408068a181edccb4c4bb804f264770d98e56108f0134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/18\/8-10.1791267862168.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "tuɣt ticki"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ad d-yenna wawal"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "uwenger"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "neɣ ɣef"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "tgelda"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ad ibnu"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "ad iseggy"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:22.170374264Z",
+  "model": "glm-5.3"
+}

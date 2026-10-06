@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iḥricen",
+      "rationale": "Taqbaylit terra zenziya n usegdi i tfelwit n yigenan; taɛbranit ur t-tesɛi ara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "uneggaɛ",
+      "rationale": "הנגע d «tagi \/ waẓẓa»; «aneggaɛ» yettwafernen axaṭer ur nelli d tazwara ara d-yettalin."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ופרח",
+      "rationale": "Qbel isem-a i ṣṣef; da yettwameggez d «yeffɣ\/yenza» — akken tenna tefransist «break out»."
+    }
+  ],
+  "translation": "Ma yuɣal-d uneggaɛ, yerna yeffɣ deg wexxam, deffir ma twaldeḍ ⟨iḥricen⟩ ⟨את⟩ tiẓraɣin, d deffir ma iḥeṣṣa ⟨iḥricen⟩ ⟨את⟩ axxam, d deffir ma yettwaleḥḥem:",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c8b037cc41ce37477dc0104ef10fcd30f25b6427a36237fe126c0366c0913c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/14\/43-43.1791267330094.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yuɣal-d"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "uneggaɛ"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "yerna yeffɣ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "deg wexxam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "deffir ma"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "twaldeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiẓraɣin"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "tiẓraɣin"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "d deffir ma"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "iḥeṣṣa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "d deffir ma"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "yettwaleḥḥem"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:30.095081375Z",
+  "model": "glm-5.3"
+}

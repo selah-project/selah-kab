@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 32:28",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "'deg ufus' — idiom n teɛbranit iwakken ad d-yeglu s lmektub \/ s leḥkm; taqbaylit tḥrez tifekka n ufus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ולכדה",
+      "rationale": "yeṭṭef — aɛerqeb n usenṭeḍ ɣer leḥkem; awal n teɛbranit yegber 'yeṭṭef' d 'yessenkad'"
+    }
+  ],
+  "translation": "Dɣa akka i d-yenna Yahwe: Wali, nekk ad qqimɣeḍ qqimeɣ ad mudded ⟨את⟩ tamdint-agi deg ufus n yikaldayen, deg ufus n Nevukadreṣṣar, agellid n Babel, ad tt-yeṭṭef.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "604faf267611fc13e7822e0ae673663de11c6a80ea80bc628608a7f7eed49b9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/32\/28-28.1791267899516.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "dɣa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "wali, nekk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad mudded"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamdint-agi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint-agi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "yikaldayen"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "deg ufus"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadreṣṣar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ad tt-yeṭṭef"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:59.516534278Z",
+  "model": "glm-5.3"
+}

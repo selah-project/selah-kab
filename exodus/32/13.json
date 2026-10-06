@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 32:13",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "Aẓar-nni d 'seḍa' — 'ad iḥeṣmeḍ' yebna ɣef umḍan seḍa, timeḥra nttat i d-teenḍel deg tsuqilt."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ככוכבי השמים",
+      "rationale": "Asesfer n zerru s yitran n igenwan — tiḍḍin yellan deg wayter."
+    }
+  ],
+  "translation": "Cmekter i Avraham, i Yiṣḥaq d i Yisrael, ixeddamen-ik, i ḥeṣmeḍ-asen s yiman-ik, i twalad-asen: Ad ssugarɣ ⟨את⟩ zerru-wnnem am yitran n igenwan, d akk tmurt-agi i d-nniɣ, ad efkeɣ-t i zerru-wnnem, ad tt-ḥeṣlen i lebda.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6acd369176d5b387ccbd0dc072e0f9415bb335adef397c82c12ffb6e5f544f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/32\/13-14.1791267376563.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Cmekter"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "i Yiṣḥaq"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "d i Yisrael"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ixeddamen-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "i ḥeṣmeḍ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "s yiman-ik"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "twalad"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ad ssugarɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zerru-wnnem"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "zerru-wnnem"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "am yitran"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n igenwan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "i d-nniɣ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad efkeɣ"
+    },
+    {
+      "surface": "לזרעכם",
+      "gloss": "i zerru-wnnem"
+    },
+    {
+      "surface": "ונחלו",
+      "gloss": "ad tt-ḥeṣlen"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "i lebda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:16:16.565356513Z",
+  "model": "glm-5.3"
+}

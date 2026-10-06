@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 55:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yerna",
+      "rationale": "taɛbranit ur tesɛi ara awal n tuqqna deg uḥric wis kraḍ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברושׁ",
+      "rationale": "d aseklaw n yiɣir neɣ d aberruc? amesnulfan mtawan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת ... תחת",
+      "rationale": "allus n \"deg umekkan n\" snat n tikkal, tasengama n ttsimet ur tezri ara deg tsuqilt"
+    }
+  ],
+  "translation": "Deg umekkan n tyebbet, ad yali ⟨את⟩ uberruc; deg umekkan n tzeǧǧaɛt, ad yali ⟨את⟩ uriḥan; yerna ad yili i Yahwe, d isem, d azmul n leqyel, ur yettwakkes ara.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e6052375b8369706000f17193e587bfbc1889eb7f6039818c8513d77b0828ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/55\/13-13.1791267815598.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "deg umekkan n"
+    },
+    {
+      "surface": "הנעצוץ",
+      "gloss": "tyebbet"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "ברושׁ",
+      "gloss": "uberruc"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "deg umekkan n"
+    },
+    {
+      "surface": "הסרפד",
+      "gloss": "tzeǧǧaɛt"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "הדס",
+      "gloss": "uriḥan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "yerna ad yili"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahwe"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "d isem"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "d azmul"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "n leqyel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "yettwakkes ara"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:35.599323681Z",
+  "model": "glm-5.3"
+}

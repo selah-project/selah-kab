@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וינחם",
+      "rationale": "Imsuqalen mgaraden: 'yebdel wallaɣ-is' (relented) neɣ 'yessmex yiḥder' (repented) — tanekda n tuccḍa degs-as lexṣas n tglayt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lbaṭel-agi",
+      "rationale": "הרעה texdem d 'raxeṛ\/ir' — 'lbaṭel' yecfa ɣer lḥif i d-yenna Yahwe ad yexdem."
+    }
+  ],
+  "translation": "Yebdel Yahwe wallaɣ-is ɣef lbaṭel-agi i d-yenna ad yexdem i ugdud-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6acd369176d5b387ccbd0dc072e0f9415bb335adef397c82c12ffb6e5f544f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/32\/13-14.1791267376563.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "yebdel wallaɣ-is"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "lbaṭel-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "i ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:16:16.565655598Z",
+  "model": "glm-5.3"
+}

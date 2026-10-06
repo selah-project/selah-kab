@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 17:15",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שום תשים",
+      "rationale": "L-infinitif n usmagel (infinitif absolu) yella-d uqbel n wawal-nni n tzesriṭ iwakken ad yerni tamseḥlawt: «siwer, ad t-siweḍ»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשים עליך מלך",
+      "rationale": "Tikkelt tamenzut d tin tisnat ttwanṭḍen: talɣa-agi n talsint tarreẓẓuxt (repetition) tgebren tamawt."
+    },
+    {
+      "kind": "crux",
+      "subject": "איש נכרי",
+      "rationale": "«Argaz abeṛṛani»: ṣḥeḥ-tt neẓra «aneggar neɣ abeṛṛani» (nneḥwaǧ ad yili d aɣerdan neɣ d win n tgelda niḍen), maca ṭṭaf-tt akken d win ur nelli d win n ugdud-agi."
+    },
+    {
+      "kind": "you",
+      "subject": "tisɣal i Yisrael",
+      "rationale": "Aluǧu-agi ɣer yiwet n tɣawsa (adu wis-agi i Yisrael), d tamaraṭ tamirit: agellid ilaq ad yili d win n Yisrael."
+    }
+  ],
+  "translation": "Siwer, ad t-siweḍ ɣef yiman-ik agellid ara yefren Yahwe, Elohim-ik, deg-s; si tiddi n watmaten-ik ad t-siweḍ ɣef yiman-ik agellid; ur tezmired ara ad t-terrḍ ɣef yiman-ik argaz abeṛṛani, win mačči d watma-ik d netta.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "82955b1251be52e122a353761dcc8361dc47c7051d8453e6f702ab48cee12036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/17\/15-15.1791267569614.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שום",
+      "gloss": "siwer"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ad t-siweḍ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef yiman-ik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "yefren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "si tiddi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "n watmaten-ik"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ad t-siweḍ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef yiman-ik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tezmired ara"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad t-terrḍ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef yiman-ik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "abeṛṛani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "win"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "watma-ik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:29.614821885Z",
+  "model": "glm-5.3"
+}

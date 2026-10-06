@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Iswin n wawal (waw) ttuɣlen d 'd', taqbaylit ur tesɛi ara tileffit nniḍen"
+    },
+    {
+      "kind": "measurement",
+      "subject": "timucuha n tgatilt",
+      "rationale": "Tibdert n yismawen d teɣdemt n yilemẓyen deg twacult — d tummant (census)"
+    }
+  ],
+  "translation": "D ⟨את⟩ Yɛuṣ, d ⟨את⟩ Cakya, d ⟨את⟩ Mirmah. Wid-agi d araw-is, iqeṛṛen deg iqjawen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6321dfe8ec859c7c00e2f4abc403bf865a235ad9b9ddcb69bb37093bcb920e3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/8\/10-10.1791268288002.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Yɛuṣ"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yɛuṣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Cakya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Cakya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "wid-agi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "araw-is"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "iqeṛṛen"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "iqjawen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:28.007275238Z",
+  "model": "glm-5.3"
+}

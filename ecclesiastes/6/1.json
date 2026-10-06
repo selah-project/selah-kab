@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ddaw n yiṭij",
+      "rationale": "תחת השמש idiom n Qohelet: 'ddaw n yiṭij', i.e. deg tameddurt-agi n ddunit"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבה על האדם",
+      "rationale": "KJv 'common among men', ylt 'great on man', jps 'heavy upon men' — nḥadt ar 'imeqqṛen ɣef umdan'"
+    },
+    {
+      "kind": "addition",
+      "subject": "netta",
+      "rationale": "הוא emphatique, yattwasneqden i lmendad n taqbaylit"
+    }
+  ],
+  "translation": "Yella diri i wwirez ddaw n yiṭij, dɣa netta d win imeqqṛen ⟨i⟩ ɣef umdan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "85e622a34097f056ddf5e47339b957ce109bbd3802f629c7bc836e10d1d81d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/6\/1-1.1791268232251.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "yella"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "diri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i wwirez"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": " wirez"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw n"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "d win imeqqṛen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "netta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umdan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:32.255263102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 30:21",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מלכת",
+      "rationale": "taɛbranit ur t-neḍri ara; talɣa-ines d talɣa n teddukla, tettwafehm seg umekli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tifat",
+      "rationale": "לשלום yuger asent n 'tifat': d anamek n telqey, tiṣekkiwin d tegnit tamatut"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבשור",
+      "rationale": "isem n wasif Beṣor ittekka d yiẓar n בשׂר (ixeṛbec? ala lexbar); ur yettwaseggi ara deg tsuqilt"
+    }
+  ],
+  "translation": "David ikecmed ɣer mraw n tesutin n yergazen, i yeččuren deg lǧuhd, ur izmiren ara ad ḍefren David; yerra-ten deg lɛebba n Beṣor. D-ffɣen ad muqelen David, ad muqelen leɣyur yellan ⟨את⟩ yid-s. David iqeddec-d ɣer ⟨את⟩ leɣyur, yesteqsay ⟨את⟩ iten ɣef tifat.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "79cb860e3d0fdab1c20c94174a9b081fecb1cd7d387e3992960245120c775ae3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/30\/21-21.1791267667111.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ikecmed"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mraw n tesutin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "yergazen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "yeččuren deg lǧuhd"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ad ḍefren"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ḍeffir"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "yerra-ten"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "deg lɛebba"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Beṣor"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "d-ffɣen"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ad muqelen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ולקראת",
+      "gloss": "ad muqelen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "leɣyur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yid-s",
+      "marks": "David"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "iqeddec-d"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leɣyur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "leɣyur"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "yesteqsay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "iten"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tifat"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:07.118739467Z",
+  "model": "glm-5.3"
+}

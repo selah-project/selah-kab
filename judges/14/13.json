@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 14:13",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tlata n yiduran, tlata n tḥerci",
+      "rationale": "Assemter n tlata (30) i yiduran d tlata (30) n tḥerci — amḍan yettwasemnirem deg uḍris."
+    },
+    {
+      "kind": "mystery",
+      "subject": "tanestit",
+      "rationale": "Asuter n tnestit — awal yettwafferan, icudden ɣer Ceimcun; taɣara-agi tettusemma deg tsuta-agi n tmacahutt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iduran n leḥrir",
+      "rationale": "סדינים d iḍumen (isednen) n leḥrir; 'idurar' yettwarna i lebɣi n wegmu."
+    },
+    {
+      "kind": "addition",
+      "subject": "iyyi",
+      "rationale": "Taqbaylit tessuter taɣect n ttekki ⟨iyyi⟩ anida taɛbranit tesɛa alun-aḥric kan לי."
+    }
+  ],
+  "translation": "Ma ur tezmirem ara ad t-id-tesbegnet-iḍ iyyi, kečč-kun ad yi-tt-mudun ⟨iyyi⟩ tlata (30) i yiduran n leḥrir d tlata (30) n tḥerci n yilman. Nnan-as: Mudd-aɣ-d tanestit-ik, iwakken ad tt-nesleḍ!",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "4d74c54a1752e63c2b27fee1d1e0fd0825cb7f6d34f2189cf61927654c8dd58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/judges\/14\/13-13.1791267578595.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ma ur ... ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "tezmerem"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ad t-id-tesbegnet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyyi"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ad ... mudun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kečč-kun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "iyyi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "סדינים",
+      "gloss": "iduran n leḥrir"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "d tlata"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "tḥerci"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "n yilman"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Nnan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "חודה",
+      "gloss": "Mudd-aɣ-d tanestit"
+    },
+    {
+      "surface": "חידתך",
+      "gloss": "tanestit-ik"
+    },
+    {
+      "surface": "ונשמענה",
+      "gloss": "ad tt-nesleḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:38.597943021Z",
+  "model": "glm-5.3"
+}

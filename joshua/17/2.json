@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 17:2",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הזכרים",
+      "rationale": "lit. «iɛeqqalen \/ wid yettwakten» — irgazen yettwafehm, awal n tanzart yeḍra"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tabdart n tewaculin",
+      "rationale": "tiseddarin-agi d talɣut n beṭṭu n tmurt: tabdart n yismawen n tewaculin n Menace"
+    }
+  ],
+  "translation": "Yella-as i warrac n Menace, i d-yegran, s tewaculin-nsen: i warrac n Aviɛezer, i warrac n Ḥeleq, i warrac n Asriɛel, i warrac n Ceḥem, i warrac n Ḥefer, i warrac n Cemiḍaɛ; widen-agi d arrac n Menace, mmi-s n Yosef, irgazen, s tewaculin-nsen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bc465945630eb15f981a32fcd6cd122f0543c198f9e6b879acefbd2fce6124be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/17\/2-2.1791267574097.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-as"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac n"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menace"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "i d-yegran"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tewaculin-nsen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i warrac n"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviɛezer"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "d i warrac n"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "Ḥeleq"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "d i warrac n"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriɛel"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "d i warrac n"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Ceḥem"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "d i warrac n"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Ḥefer"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "d i warrac n"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "Cemiḍaɛ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "widen-agi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "arrac n"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menace"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "s tewaculin-nsen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:34.099574606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taṣebḥit",
+      "rationale": "מחבת d taṣebḥit n wuẓẓu i waxxam n yiḍan — yerna taqbaylit tesɛa awal i waya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "udem-ik",
+      "rationale": "סג לפנים: 'righ udem-ik' — idiom n taɛbranit, yettusuqal s lebɛi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "taqbaylit tesra article i temdint, taɛbranit ur tesɛi ara"
+    }
+  ],
+  "translation": "Keččini, eḍfer i yiman-ik taṣebḥit n uzzal, ttifeḍ-tt d agu n uzzal gar-ik d ⟨i⟩ temdint; sseggem udem-ik ɣefs, ad tili deg lḥeṛs, ad t-ḥerbeḍ: d azmul i Tawit n Yisrael.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6307ba4fb77f133376ea747c5f8ce46414b6f9aacbebcbc472a79ce45da2e471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/4\/3-3.1791267922425.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Keččini"
+    },
+    {
+      "surface": "קח",
+      "gloss": "eḍfer"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i yiman-ik"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "taṣebḥit"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "n uzzal"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ttifeḍ-tt"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "agu n uzzal"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "agu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "n uzzal"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "gar-ik"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "והכינתה",
+      "gloss": "sseggem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udem-ik"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "udem-ik"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɣefs"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "deg lḥeṛs"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ad t-ḥerbeḍ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "s ɣefs"
+    },
+    {
+      "surface": "אות",
+      "gloss": "azmul"
+    },
+    {
+      "surface": "היא",
+      "gloss": "d"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "i Tawit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:22.426242688Z",
+  "model": "glm-5.3"
+}

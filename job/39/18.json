@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 39:18",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמריא",
+      "rationale": "Tmari: lmensur ateg 'tettamray' (KJV\/ASV\/YS 17:16 'tapunef') — isem-agi ɣur-s talɣiwin; ihi talɣi taneggarut tettwafren."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tettmeḥlem",
+      "rationale": "tiqqaḍ akk d tmedyazt n tissuct n teḥrucit."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תמריא",
+      "rationale": "lmensur ɣur-s talɣiwin n tseddart; taneggarut tella kan dagi."
+    }
+  ],
+  "translation": "Mi tella, deg teɣzi tettamray, ad tettmeḥlem i yis d win t-yerrun.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c5239efe3a17644626441091eea3eb85e6274727fff94f74ddf567439df6816f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/39\/18-18.1791268174802.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כעת",
+      "gloss": "mi tella"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "deg teɣzi"
+    },
+    {
+      "surface": "תמריא",
+      "gloss": "tettamray"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ad tettmeḥlem"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "i yis"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "d win t-yerrun"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:34.802859358Z",
+  "model": "glm-5.3"
+}

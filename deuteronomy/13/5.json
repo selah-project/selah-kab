@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i \/ tiɛdacin",
+      "rationale": "Taqbaylit tesaḥsab ikufanen neɣ isem n wawal i d-yettwaznen deg taɛbranit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiɛdacin",
+      "rationale": "מצות yekka seg lekdeb, ma d taqbaylit tesɛa awal n taɛdact — yekkes-as lexbar s telqey"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבק",
+      "rationale": "'yezdin' neɣ 'aqqim yezdin' — awal n taɛbranit yemmel ad yili d aɛessas s wudem amṣup"
+    }
+  ],
+  "translation": "S deffir n Yahwe, Elohim-nwen, a tteddun; ⟨את⟩-i ṭṭfen ad t-txerḍem; ⟨את⟩ lɛahd-is-inu ḥrezet, i taɣm-is-inu ṣse flint…",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7dd3270401f79a4d0e05b6c99ef78c1410d6f440425dbc22a8b82a7b62382bce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/13\/5-5.1791267466518.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "s deffir n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "a tteddun"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-i",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ad t-txerḍem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiɛdacin-is"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "tiɛdacin-is"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ḥrezet"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "i taɣm-is-inu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ad teslem"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-i",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "ad ten-txdem"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "di-s"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "ad t-qqimḍen yezdin"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:46.525416660Z",
+  "model": "glm-5.3"
+}

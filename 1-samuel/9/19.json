@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 9:19",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iroe",
+      "rationale": "הראה d win yettwaliḍen — mačči d 'navi' kan; isem-is seg 'to see'"
+    },
+    {
+      "kind": "addition",
+      "subject": "yas",
+      "rationale": "taɛbranit ur tesɛi ara taɣara i 'yenna-yas', talɣa n taqbaylit tesra-tt"
+    },
+    {
+      "kind": "you",
+      "subject": "Cawl",
+      "rationale": "Samuel yettmeslay-d srid i Cawl, isellek-it-id"
+    },
+    {
+      "kind": "secret",
+      "subject": "yal ayen yellan deg ul-ik",
+      "rationale": "Samuel yeẓra ayen yerwen ul n Cawl — tigni yettwaffer, ulac tamussni n zdat i Cawl"
+    }
+  ],
+  "translation": "Yedran Samuel ⟨את⟩ Cawl, yenna-yas: Nekk i d-iroe; ɛeddu uqbel-iw ɣer lbuma, ad teccem yid-i ass-a, azekka aqrib ad aa-k-ruḥeɣ, yal ayen yellan deg ul-ik ad ak-id-iniɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bd4e2f5d9b209932848b809cfb55a193317a6b5ef18b31bc09f47f91b4702f5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/9\/19-20.1791267640127.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yedran"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cawl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "i d-iroe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɛeddu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "uqbel-iw"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ɣer lbuma"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ad teccem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yid-i"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "ושלחתיך",
+      "gloss": "ad aa-k-ruḥeɣ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "azekka aqrib"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yal ayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "deg ul-ik"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ad ak-id-iniɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:40.133512226Z",
+  "model": "glm-5.3"
+}

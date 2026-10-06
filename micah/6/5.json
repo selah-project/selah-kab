@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 6:5",
+  "book": "micah",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "i-s",
+      "rationale": "taɛbranit tesɛa taɣent deg ענה אתו; taqbaylit tesra taɣent s wawal-nniḍen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ṣedaqut",
+      "rationale": "צדקות yettwag s wawal n teɛbranit ṣedeq mačči s lḥeqq, akken i d-yenna usenfaṛ D2"
+    },
+    {
+      "kind": "invitation",
+      "subject": "cket ttxil-k",
+      "rationale": "Yahwe issenqed aɣelli-nnes s tseddast: cket, cket maḍi"
+    },
+    {
+      "kind": "you",
+      "subject": "aɣelli-w",
+      "rationale": "Yahwe yettmeslay i Yisrael s yiman-is deg yiwet n tmeslayt"
+    }
+  ],
+  "translation": "Aɣelli-w, cket, ttxil-k, acu i d-iḥekmen Belaq, agellid n Mwab, d acu i d-yerran ⟨i⟩-s ⟨את⟩ Bilɛam, mmi-s n Beɛor, seg Ha-Sittim armi d lǧilǧal, iwakken ad tessneḍ ṣedaqut Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "61b33f634257e41c734533c985981697a63e2f92ad1756b8cf21044dff56d5ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/micah\/6\/5-5.1791268036959.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "aɣelli-w"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "cket"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ttxil-k"
+    },
+    {
+      "surface": "מה",
+      "gloss": "acu"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "i d-iḥekmen"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Belaq"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "n Mwab"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "d acu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "i d-yerran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Bilɛam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilɛam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "n Beɛor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "Ha-Sittim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi d"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "lǧilǧal"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ad tessneḍ"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ṣedaqut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:16.960549733Z",
+  "model": "glm-5.3"
+}

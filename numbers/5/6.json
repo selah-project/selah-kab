@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 5:6",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taɣwsert",
+      "rationale": "נפש d win iṭṭfen aman d nnfas — urugi d 'soul'; taqbaylit ur tesɛi ara awal ixuṣṣen ugar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למעל מעל",
+      "rationale": "uslig n sin n wawalen n treachery: למעל מעל ביהוה — snat n tikkal, yiwet n tukkṣa; taqbaylit tessiḍen-itt s yiwet n talɣa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩",
+      "rationale": "taqbaylit tesra d-nni i wemḍiq, taɛbranit ur tesɛi ara"
+    }
+  ],
+  "translation": "Mmeslay i yigerdan n Yisrael: amdan neɣ tameṭṭut, mi ara xdemen yal tuccḍa n umdan, ma yexreden leɛahd-nni n weḥdes n leɛahd mgal Yahwe, taɣwsert-nni ad tqebbel ⟨d⟩ taqnit-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6b85dc5ef87b524d979471b3dcc005fe7dd35052c1645c816236408100772002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/5\/6-6.1791267359689.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mmeslay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yigerdan n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ara xdemen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tuccḍa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "n umdan"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "ma yexreden"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "leɛahd-nni n weḥdes n leɛahd"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "mgal Yahwe"
+    },
+    {
+      "surface": "ואשמה",
+      "gloss": "ad tqebbel taqnit"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "taɣwsert"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-nni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:59.690259433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "joshua 15:47",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ilul-ameqqran",
+      "rationale": "taɛbranit tenna yilel kan; awal «ameqqran» yettwarnan deg wemyafer n tjdeft",
+      "refs": "joshua 15:47"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגבול \/ וגבול",
+      "rationale": "uslig n wawal «gbul» yebda-d snat n tikkal, asenmeḥ n tlisa — iṛuḥ deg tsuqilt",
+      "refs": "joshua 15:47"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tlisa n ṣṭaḥ n Yeḥuda",
+      "rationale": "asḍes n tlisa: seg asif n Miṣrayim ar yilel",
+      "refs": "joshua 15:47"
+    }
+  ],
+  "translation": "Acudud s tentuliwin-is d tiḥemmalin-is, ɛAzza s tentuliwin-is d tiḥemmalin-is, alama d asif n Miṣrayim, d ⟨ilul-ameqqran⟩; d tilisa.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "12a9c18d8d7447974253d23c2396743480638f8cb233538b116a895fb69f8a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/15\/47-47.1791267561960.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשדוד",
+      "gloss": "Acudud"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "s tentuliwin-is"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "d tiḥemmalin-is"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ɛAzza"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "s tentuliwin-is"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "d tiḥemmalin-is"
+    },
+    {
+      "surface": "עד",
+      "gloss": "alama d"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "asif"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "n Miṣrayim"
+    },
+    {
+      "surface": "והים",
+      "gloss": "d ⟨ilul-ameqqran⟩"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "d tilisa"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "d tilisa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:21.962019977Z",
+  "model": "glm-5.3"
+}

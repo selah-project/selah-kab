@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 7:10",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨i wenεt⟩",
+      "rationale": "taɛbranit ur d-temmal ara anida yella win izuznen; teqbaylit tesra-t"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ass wis 23 n wagur wis sebaɛ",
+      "rationale": "asḍes n wussan d wagur"
+    },
+    {
+      "kind": "you",
+      "subject": "wild n Yisrael i yuznen ɣer txelwi-nsen",
+      "rationale": "d umdan n tmacahutt, mačči d tuzzya i uɣerdi"
+    }
+  ],
+  "translation": "Deg wass wis 23 n wagur wis sebaɛ, ⟨i wenεt⟩ yuzen ⟨את⟩ ugdud-dagi ɣer txelwi-nsen, ferḥen, d wul-nsen ifessusen, ɣef lexṣuṣ i d-ixelḥen Yahwe i David, i Solomon, i Yisrael, i ugdud-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "964b91bacff45ff0b042893d052a0c6e4080f8eb44ebe29e85e82b379b5693de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/7\/10-10.1791268415123.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Deg wass"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wis 20"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "d krad (wis 23)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "n wagur"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wis sebaɛ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "ɣer txelwi-nsen"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ferḥen"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "d wul-nsen ifessusen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "lexṣuṣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixelḥen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "i Solomon"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "i ugdud-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:35.124248780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסכת",
+      "rationale": "Tasuqilt: 'susmet' (asin) neɣ 'ɛreḍ leḥder' (ttḥadret s leḥder); YLT\/JPS 'keep silence', KJV 'take heed'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Susmet, Yisrael, ssemlalet",
+      "rationale": "Aḥetu d umsujey ɣer Yisrael: isefra inesḥen s yiwet n tdekkirt."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Amyantan ad yeddu ɣer Yisrael s yism-is, tissit n taset i Yisrael."
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Taqbaylit tesra 'd' deg 'tuɣaleḍ d agdud'; taɛbranit ur tesɛi ara awal-agi."
+    }
+  ],
+  "translation": "Moce d yiqedcen, ilwiyen, mmeslayen ɣer Yisrael meṛṛa, nnan: Susmet, Yisrael, ssemlalet! Ass-a, tuɣaleḍ d agdud i Yahwe, Elohim-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "64957f817635be069d352d961d6ce4488f81f273be54969de6165041c08e50b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/27\/9-9.1791267555643.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mmeslayen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "d yiqedcen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ilwiyen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "meṛṛa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Susmet"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ssemlalet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Ass-a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "tuɣaleḍ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "d agdud i"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:15.644780645Z",
+  "model": "glm-5.3"
+}

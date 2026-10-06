@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uneẓruf",
+      "rationale": "נגב d isem n temnaḍt n uneẓruf, yettwasuqal s unamek-is n tnila."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ẓedmen",
+      "rationale": "פשטו: 'ẓedmen\/ad eksen' — anamek arawan n ussenker n yiserdasen, mačči d taggli n yimensi."
+    }
+  ],
+  "translation": "Yella-d lḥal, mi wwḍen David d yergaz-ennes ɣer Ṣiqleḥ, deg wass wis kraḍ, Imanekiyen ẓedmen ɣer uneẓruf d Ṣiqleḥ, ẓdan ⟨את⟩ Ṣiqleḥ, ṣɣan-t deg tmes.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7eab2bf6612ef8a3c31a0341362bdfa39074daf8922efc96697acb7039395f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/30\/1-1.1791268402077.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d lḥal"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "mi wwḍen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "d yergaz-ennes"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ṣiqleḥ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wis kraḍ"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "Imanekiyen"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "ẓedmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "uneẓruf"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d ɣer"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ṣiqleḥ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ẓdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣiqleḥ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ṣiqleḥ"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ṣɣan-t"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Ṣiqleḥ (t-t)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deg tmes"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:22.080246814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ad twelleḍ",
+      "rationale": "תרחק qqnen ɣer 'ad yili d abeṛṛani\/aṛeḥq' — 'welleḍ' d tnammirt n tmurt, mačči d taɣdiqt n teɣzi"
+    },
+    {
+      "kind": "crux",
+      "subject": "אצדיק",
+      "rationale": "Nesεa sin n yiḥricen: 'ur neccdeq ara' (s lḥeqq ad d-yefk yisem) neɣ 'nekcem d aram' am Wycliffe — hifdhiphip causative n ṣedeq yettwaɣ-d am zik"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Ilugan-agi ttmeslayen ɣer Yisrael s yisem, s talɣa tafellayt (ṣṣef)"
+    }
+  ],
+  "translation": "Seg wawal n ucɣer ad twelleḍ; ⟨i⟩ win ur nesɛi ara abekkil d win n ṣedeq ur ten-tenɣet ara, axaṭer ur neccdeq ara ⟨i⟩ aram.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "273286554c1853155d8262d2b2a48aa25202f0f4156eadb540ee900456c7ce2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/23\/7-7.1791267258803.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "seg wawal"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "n ucɣer"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ad twelleḍ"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "win ur nesɣi ara abekkil"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "d win n ṣedeq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "tenɣet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "neccdeq ara"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "aram"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:18.805316831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 18:8",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וְנִחַמְתִּי",
+      "rationale": "aẓar n-ḥm: d tissit \/ tirgwalt, meḥsub 'ad tiɣ d Yiḥmim' — meqqer ɣef 'ad iḥmem' kan, axaṭer Yahwe ur ittḥemmil ara ur yesɛi ara wallaḥ am umdan."
+    },
+    {
+      "kind": "elision",
+      "subject": "הַהוּא",
+      "gloss": "d tira n tbadut tinneflit, tettwag s 'nni'."
+    }
+  ],
+  "translation": "Ma yuɣal uwenger-nni seg tadsa-nnes, ay deg-s i d-yenna ⟨Yahwe⟩ — maca ulac, d ayen i d-yenna wawal ɣef-s — ad tiɣ d Yiḥmim ɣef lexṣas-nni i iḥekmen ad yexdem i weneger-nni.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5670fc8c19ed2af6e289408068a181edccb4c4bb804f264770d98e56108f0134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/18\/8-10.1791267862168.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ma yuɣal"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "uwenger-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מרעתו",
+      "gloss": "seg tadsa-nnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ay deg-s"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "i d-yenna wawal ɣef-s"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ad tiɣ d Yiḥmim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "lexṣas-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i iḥekmen"
+    },
+    {
+      "surface": "חשבתי",
+      "gloss": "i iḥekmen ad yexdem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i weneger-nni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:22.169718819Z",
+  "model": "glm-5.3"
+}

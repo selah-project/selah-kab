@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 12:13",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מחצב",
+      "rationale": "d amekkan n uḥeṭṭb neɣ iẓra yettwaḥeṭṭben; yettwameɣ kan d 'yettwaḥeṭṭben'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחזקה",
+      "rationale": "tanemmirt\/tezmert: kra n imsukfal qqulen-d d 'i wakken ad tqewwi'; amahil-a yettwaf d aẓar n ḥzq"
+    }
+  ],
+  "translation": "I yimɣaren n wasgel d yiḥeccaben n yiẓra, i tiḥci n yiseklan d yiẓran yettwaḥeṭṭben, iwakken ad ttwazmret ⟨את⟩ tegriṭ n wexxam n Yahwe, i yal ayen ara d-yeffeɣ ɣef wexxam, i tezmert.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "86c3813a1f043dcf3fd19202fb3c93296378f942f22992cbf4eff66cbcdc5fb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/12\/13-14.1791267797117.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולגדרים",
+      "gloss": "i yimɣaren n wasgel"
+    },
+    {
+      "surface": "ולחצבי",
+      "gloss": "d yiḥeccaben"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "n yiẓra"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "i tiḥci n"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "yiseklan"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "d yiẓran"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "yettwaḥeṭṭben"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ad ttwazmret"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tegriṭ n wexxam n Yahwe"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "tegriṭ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ara d-yeffeɣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "i tezmert"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:17.118810028Z",
+  "model": "glm-5.3"
+}

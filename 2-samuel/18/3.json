@@ -1,0 +1,173 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 18:3",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נס ננוס",
+      "rationale": "Askar ameslan (infinitif absolu) — tikci n tmezdi n yiwen n wawal ɣer yidesf, taqbaylit tesɛa ad-nnuj\/nnuj am akken."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ישימו אלינו לב",
+      "rationale": "Ḥirrit taɛbranit 'ṭṭef ul ɣef' — ad tenyif d 'ur qeblen ara ɣef-neɣ'; tettwasekna s talɣa tammeṛṛut."
+    },
+    {
+      "kind": "crux",
+      "subject": "לעזיר",
+      "rationale": "Ketiv לעזיר 'i tɛawent' (asegzi l-ɛ-z-r); Qere yessekna tikti n 'ad iheggu \/ ad yeṭṭef'; imsuqalen qquren ḥeṣṣen gar 'ad aɣ-ɛawen seg temdint' d 'iliḍ d aheggu'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עשרה אלפים",
+      "rationale": "Asebtar: mraw n yimilen, azal n ugellid yettwaseḥsab am ten thousand n yimdanen."
+    },
+    {
+      "kind": "you",
+      "subject": "ugdud ɣer David",
+      "rationale": "Awal-agi i d-yettuɣal s tzermilt γer Ugellid David: 'Ur teffeɣ ara'."
+    }
+  ],
+  "translation": "Yenna ugdud: Ur teffeɣ ara, axaṭer ma nnuj neɣ, ur ṭṭefnen ara ul ɣef-neɣ; ma mmutten azgen-nneɣ, ur ṭṭefnen ara ul ɣef-neɣ; axaṭer tura mraw n yimilen am neɣ i yellan; d axir tura ma ad tiliḍ i-neɣ d tallelt seg temdint.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "73acdf3c198c3c9bfacdb62c128fabe72618d5f40cde3af489baf3daa846d592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/18\/3-3.1791267653847.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "teffeɣ ara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ad-nnuj"
+    },
+    {
+      "surface": "ננוס",
+      "gloss": "nnuj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ṭṭefnen"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣef-neɣ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "mmuten"
+    },
+    {
+      "surface": "חצינו",
+      "gloss": "azgen-nneɣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ṭṭefnen"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣef-neɣ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "am neɣ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mraw"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "n yimilen"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "d tura"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "d axir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tiliḍ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "i-neɣ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "seg temdint"
+    },
+    {
+      "surface": "לעזיר",
+      "gloss": "d tallelt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:53.851347878Z",
+  "model": "glm-5.3"
+}

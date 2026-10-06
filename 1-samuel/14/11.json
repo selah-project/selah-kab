@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 14:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iman-nsen",
+      "rationale": "Hebrew niphal ויגלו 'yettwanefkent' d talɣa tuhriṭ; taqbaylit tesra taɣawsa n tbanent (reflexive)"
+    },
+    {
+      "kind": "elision",
+      "subject": "מצב",
+      "rationale": "מצב d 'amḍiq usdid' n tesrdast; yettwasuqal d 'umḍiq' kan, talɣa tamilitiwit tṛuḥ"
+    }
+  ],
+  "translation": "I sinen bdan iman-nsen i umḍiq n yifilistiniyen; ifilistiniyen nnan: Wali, Iɛibriyen ttffeɣen si tixxumin ideg ḥebben iman-nsen ⟨din⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9c06071fc4ebcd2e9c0489280bcb7c626f9ab58393f23c1b41197106f2d93542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/14\/11-11.1791267664801.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגלו",
+      "gloss": "bdan iman-nsen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "i sinen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "umḍiq"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n yifilistiniyen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ifilistiniyen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "Iɛibriyen"
+    },
+    {
+      "surface": "יצצאים",
+      "gloss": "ttffeɣen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "si"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "tixxumin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ideg"
+    },
+    {
+      "surface": "התחבאו",
+      "gloss": "ḥebben iman-nsen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:04.805315103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 9:32",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Aslef-agi d tukkista ɣef ssem n tmurt ɣer Elohim, s yisem n Yisrael."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ḥesed",
+      "rationale": "ḥesed yettwasekles s timesliyin-is, mačči s 'ṛṛeḥma' weḥd-s, axaṭer yesɛa ugar n yiwen n unamek."
+    },
+    {
+      "kind": "substitution",
+      "subject": "navi",
+      "rationale": "נביא yettwaḥrez s 'navi' (jam n 'inaviyen'), ur yettwarni ara 'nnbi' neɣ 'ṛṛasul'."
+    },
+    {
+      "kind": "addition",
+      "subject": "deg udmir-ik",
+      "rationale": "לפניך yettekka-d talɣa n wudem (zdat n udmir-ik); taqbaylit tesɛa tiɣawsiwin nniḍen."
+    }
+  ],
+  "translation": "Dɣa tura, a Elohim-nneɣ, El-agi ameqqran, bu tezmert, d win yettẓalliten, win yettḥerren lɛahd akked ḥesed: ur yettwaselhir ara deg udmir-ik ⟨את⟩ tutta tatra i ɣ-d-yeḍran, i yigelliden-nneɣ, i yimeqqranen-nneɣ, i lqissisen-nneɣ, i yinaviyen-nneɣ, i yiddura-nneɣ d ugdud-ik akk, seg wussan n yigelliden n Accur arma d ass-agi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "006c6cf74ad24091f71fef82c3a8642fe09042db37537d6739ffbb3a8690e64c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/nehemiah\/9\/32-32.1791268335273.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dɣa tura"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a Elohim-nneɣ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El-agi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ameqqran"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "bu tezmert"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "d win yettẓalliten"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "win yettḥerren"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lɛahd"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "akked ḥesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "yettwaselhir"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "deg udmir-ik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutta tatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "התלאה",
+      "gloss": "tutta tatra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "מצאתנו",
+      "gloss": "i ɣ-d-yeḍran"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "i yigelliden-nneɣ"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "i yimeqqranen-nneɣ"
+    },
+    {
+      "surface": "ולכהנינו",
+      "gloss": "i lqissisen-nneɣ"
+    },
+    {
+      "surface": "ולנביאנו",
+      "gloss": "i yinaviyen-nneɣ"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "i yiddura-nneɣ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "d"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ugdud-ik akk"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "seg wussan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "n yigelliden"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "n Accur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-agi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:15.279125108Z",
+  "model": "glm-5.3"
+}

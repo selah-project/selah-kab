@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קֹדֶשׁ קָדָשִׁים",
+      "rationale": "Allus n wawal ɣef yiman-is — iqedcen n yiqedcen — talɣa n tuget tettwasegzem s 'saint des saints'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ad yettwaṭṭeṭ",
+      "rationale": "Taɛbranit tesɛi tluddna (י׵אכל) — taqbaylit tettwakkes s wemyar n ttwaṭṭeṭ"
+    }
+  ],
+  "translation": "Yal amalal deg yikohanim ad t-icceṭ; deg umkan iqedcen ad yettwaṭṭeṭ; iqedcen n yiqedcen i d-igan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f8012730dfb8984741315fd11f423f27eb3ee0e16abac473c7317b0fd3e9f249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/7\/5-6.1791267382840.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amalal"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "deg yikohanim"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ad t-icceṭ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "deg umkan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ad yettwaṭṭeṭ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "i d-igan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:16:22.842233656Z",
+  "model": "glm-5.3"
+}

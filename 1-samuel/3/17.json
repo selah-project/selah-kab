@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 3:17",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כה יעשה... וכה יוסיף",
+      "rationale": "Aḥeqq n lgirra: 'akka ad yexdem Elohim, yerna akka ad yernu' — tigri n lgirra, mačči d tignit n lxir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר",
+      "rationale": "Awal 'davar' yettwarran 5 n tikkal deg tseddart-agi, alliteration ur tezmir ara ad tettwaseggeḍ"
+    },
+    {
+      "kind": "you",
+      "subject": "Eli → Cemuel",
+      "rationale": "Eli issumumug-d Cemuel s wawal-agi n tubert"
+    },
+    {
+      "kind": "invitation",
+      "subject": "אל נא תכחד ממני",
+      "rationale": "Anemmul: Eli isreqqes Cemuel ad d-yini wawal"
+    }
+  ],
+  "translation": "Yenna: Acu i d-wawal i d-yenna ɣur-ek? Ttxil-k, ur t-yeffel ara fell-i. Akka ad yexdem Elohim ɣur-ek, yerna akka ad yernu, ma yeffel-d fell-i awal seg wawal akk i d-yenna ɣur-ek.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9ed0f93e080806542aee5a4d46150795ed34de75916e7c3b8929a4a1df2ecf53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/3\/17-18.1791267602293.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Acu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "i d-wawal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-ek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ttxil-k"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "t-yeffel ara"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad yexdem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɣur-ek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "yerna akka"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ad yernu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "yeffel-d"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wawal akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ɣur-ek"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:02.294771941Z",
+  "model": "glm-5.3"
+}

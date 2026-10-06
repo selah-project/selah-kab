@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 12:7",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ameḥbus",
+      "rationale": "עבד d ameḥbus (win yettwaṭṭfen); taqbaylit ur tesɛi ara awal akken iwatan i 'aqeddac n ugdud' s unamek aqbur"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "yettwameggeẓ; yerna s taqbaylit iwakken ad yini iwakken ad yili d nnis deg tjewwiq"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taqbaylit tesra 'd' n tjewwiq deg tellaḍ d ameḥbus"
+    }
+  ],
+  "translation": "Wid-iw yenna-yas: Ma tellaḍ ass-a d ameḥbus i weggenwa-agi, txedmeḍ-asen, tetfeṛḍem-asen, ttmeslayeḍ-asen awalen ilawen, ad llun d imeḥbusen-ik ⟨i⟩ yal assan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a709b88a1f87b460e75b70701606edfad8d06c3eceea2478a22a4c99e34f01fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/12\/7-7.1791267730503.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yenna-yas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨i⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "iwakken ad yini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tellaḍ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "d ameḥbus"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i weggenwa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ו עבדתם",
+      "gloss": "txedmeḍ-asen"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "tetfeṛḍem-asen"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ttmeslayeḍ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "asen"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "awalen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ilawen"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ad llun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "d imeḥbusen-ik"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "imeḥbusen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "assan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:10.503930127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 54:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taxxamt",
+      "rationale": "אוהל d axxam n usumren; taqbaylit ur tesɛi ara awal-aḥric, axxam n usumren i d-yettwafernen"
+    },
+    {
+      "kind": "elision",
+      "subject": "tiqencharen",
+      "rationale": "ויתדתיך d tiqenchar n uxxam n usumren; taqbaylit tessuffeɣ-d taγawsa s yisem-is n ttbut"
+    },
+    {
+      "kind": "you",
+      "subject": "i Sihyun",
+      "rationale": "talwit-a yettwawdal s talɣa n tmeṭṭut i d-yettunefken; isekkilen ibernatiyen n twinist (־יך)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "tiludna",
+      "rationale": "sḍis n tiludna ɣer tmeṭṭut tarameṭṭut: ssemneɛ, ur ttḥebbes, γzem, cceɛɣel"
+    }
+  ],
+  "translation": "Ssemneɛ amkan n taxxamt-ik, ad qqimen ḍelnent tulya n Mickan-ik; ur ttḥebbes ara: γzem iγzaven-ik ula d tiqencharen-ik cceɛɣel-itent.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1542558198f55d493acb2ff9f9a394a4be7939853f44c49651b684d5282c1540",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/54\/2-2.1791267826651.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחיבי",
+      "gloss": "Ssemneɛ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "n taxxamt-ik"
+    },
+    {
+      "surface": "ויריעות",
+      "gloss": "tulya"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "n Mickan-ik"
+    },
+    {
+      "surface": "יטו",
+      "gloss": "ad qqimen ḍelnent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תחשכי",
+      "gloss": "ttḥebbes ara"
+    },
+    {
+      "surface": "האריכי",
+      "gloss": "γzem"
+    },
+    {
+      "surface": "מיתריך",
+      "gloss": "iγzaven-ik"
+    },
+    {
+      "surface": "ויתדתיך",
+      "gloss": "ula d tiqencharen-ik"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "cceɛɣel-itent"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:46.651567589Z",
+  "model": "glm-5.3"
+}

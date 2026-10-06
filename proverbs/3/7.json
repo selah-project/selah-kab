@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "deg wallen-ik",
+      "rationale": "בעיניך — idiom tatilayt 'in your own eyes', iţusemres di taqbaylit akken illa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ɛes",
+      "rationale": "ירא את יהוה — d ccat-agi n ussur n Yahwe; taɛbranit tenna 'ad tɛeṣḍ Yahwe'."
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Aluz n nnasb n taqbaylit, taɛbranit ur tesɛi ara."
+    },
+    {
+      "kind": "you",
+      "subject": "adresat",
+      "rationale": "Awal-agi yettmeslay i wemdan ameẓyan s tmetti (imperatif, suffiks -ik)."
+    }
+  ],
+  "translation": "Ur tiliv ara d bab n tussna deg wallen-ik; ɛes i ⟨את⟩ Yahwe, ţeffeɣ seg dir-it.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "0197de6d06369190b38a6a97db378e9287dbb5346209f74e368af2b91ac82013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/3\/7-7.1791268097861.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur... ara"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "tiliv"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "d bab n tussna"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "deg wallen-ik"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ɛes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ţeffeɣ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "seg dir-it"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:17.862877132Z",
+  "model": "glm-5.3"
+}

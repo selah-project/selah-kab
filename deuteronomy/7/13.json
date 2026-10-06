@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 7:13",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Yahwe⟩",
+      "rationale": "taɛbranit ur tettekkay ara yisem n ubabu deg tira tamimentant; yernan iwakken ad ttwafen wid iqelḥen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ועשתרת",
+      "rationale": "asuffeɣ n tiri ad yeglem taɣawsa; asuffeɣ n wayen yerzan taɣawsa d ayen yellan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשתרות \/ Ashtoret",
+      "rationale": "aseggres n tezdemt yettban-d tikkelt-nniḍen deg Tsefanya 7:13 — tazmilt n taneɣruft taqbaylit tessefsax taggi ay yellan deg Uselmad 7:13 s wudem n umaṛuf n tneɣruft"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tiros",
+      "rationale": "lxemṛ tamaynut (asfelu n tevinect ur nekkas ara); ula d ssum-is n lxemṛ yettwaseglan s wayen n teqbaylit, d lxemṛ n tevinect i d-iteddun deg tfukt"
+    }
+  ],
+  "translation": "Ad iḥemmel-ik ⟨Yahwe⟩, ad yebrek ik, ad k-yesɛuṭen; ad yebrek deg-yiwen aseklu n teɛqalt-ik i d-iteddun, d wayen akk i d-yettɣayayen seg tmurt-ik — irden-ik, d lxemṛ-ik tamaynut, d zzet-ik — d lweḥd n yilman-ik i d-yettwasrumen, d teḥray-ik tinemɣur, s yal ass deg tmurt-agi i iɣef yenna Yahwe i yimawlan-ik ad ak-d-yefk.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "974f0ecefd5e5226d8c80649ec82c9078aed04c9c850f9efc3d6e934da8a1efd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/7\/13-13.1791267483955.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבך",
+      "gloss": "ad iḥemmel-ik"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ad yebrek ik"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ad k-yesɛuṭen"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ad yebrek"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "aseklu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "n teɛqalt-ik i d-iteddun"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "d ayen akk i d-yettɣayayen"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "seg tmurt-ik"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "irden-ik"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "d lxemṛ-ik tamaynut"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "d zzet-ik"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "lweḥd n yilman-ik i d-yettwasrumen"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "n yilman-ik"
+    },
+    {
+      "surface": "ועשתרת",
+      "gloss": "d teḥray-ik tinemɣur"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "n teḥray-ik"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tmurt-agi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i iɣef"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yenna Yahwe"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "i yimawlan-ik"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ad yefk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ad ak-d-yefk"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:03.962983872Z",
+  "model": "glm-5.3"
+}

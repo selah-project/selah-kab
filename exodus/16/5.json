@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "snat n tikkal",
+      "rationale": "משנה d-asufan: asenkar (aṭas sin berziken), yerna \"snat n tikkal\" i lmend n usmad"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום יום",
+      "gloss-rationale": "alliteration snat n tikkal n wawal 'ass ass', ttwaneflen i unekcum seg \"deg yal ass\""
+    },
+    {
+      "kind": "measurement",
+      "subject": "ass wis sedis",
+      "rationale": "tisekta n wussan d usenkar n ukatu deg sin n tikkal"
+    }
+  ],
+  "translation": "Ad yili, deg wass wis sedis, ad hegggun ⟨את⟩ ayen ad d-glisen; ad yili snat n tikkal ɣef wayen i d-mlillen deg yal ass.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "852f1d6ce260a6fd842abcbfa23df4574bdb10866e290910c857441cea840bf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/16\/5-5.1791267249328.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "deg wass"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wis sedis"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ad hegggun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayen ad d-glisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ad d-glisen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "snat n tikkal"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "i d-mlillen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:09.328787912Z",
+  "model": "glm-5.3"
+}

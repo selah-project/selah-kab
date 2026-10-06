@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העדתה בנו",
+      "rationale": "Taɛbranit 'atu ḥedreḍ fella-neɣ': lḥedra neɣ alwaḥi; kra n tsuqilalen nnan 'tḥeṣṣreḍ-aɣ' am unwaḥ."
+    },
+    {
+      "kind": "addition",
+      "subject": "ara",
+      "rationale": "Taɛbranit ur tesɛi ara arurtlef 'ara' i ugded, taqbaylit tesra-t."
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "'lemmer' \/ 'ad yenni' — yettwamegzal d 'ma d awal-ik' iwakken ad yili d taqbaylit."
+    },
+    {
+      "kind": "you",
+      "subject": "Moce i Yahwe",
+      "rationale": "Moce isawal ɣer Yahwe s yal awal: 'kecc i neḥder-aneɣ'."
+    }
+  ],
+  "translation": "Moce yenna-d i Yahwe: Aɣdud ur izmir ara ad d-afi ɣer wedrar n Sinaï, axaṭer kecc i neḥder-aneɣ, ma d awal-ik: Serru ⟨⟨את⟩⟩ adrar, ad t-iqedceḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d3f8c58ce946d810c85bb639329856b761441c47b4524f33bdf3d4f6dc20c92e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/19\/23-23.1791267273251.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "izmir ara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "aɣdud"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ad d-afi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kecc"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "i neḥder-aneɣ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "aneɣ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ma d awal-ik"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "Serru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adrar"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "adrar"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "ad t-iqedceḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:33.251875723Z",
+  "model": "glm-5.3"
+}

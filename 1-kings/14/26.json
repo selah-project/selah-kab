@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקח \/ לקח",
+      "rationale": "Allusion tissint n wawal 'lwḥ' (ad yewweḍ) tlata n tikkal deg yiwen n useggas — tacerrit tettwakkes deg tsuqilt"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Taqbaylit tesra allusion ('d') ar zdat n usegzel wis sin, taɛbranit ur tesɛi ara"
+    }
+  ],
+  "translation": "Yewwi ⟨את⟩ lexṣayen n wexxam n Yahwe, d ⟨את⟩ lexṣayen n wexxam n ugellid, ⟨את⟩ akk i d-yewwi; yewwi ⟨את⟩ akk isellagen n werɣ i d-yexleq Culeman.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d8e84be2b70c5f60fbd4dc0f9c539fa160117e611a81513a2eccaef1ac7bb205",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/14\/26-28.1791267775011.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lexṣayen n wexxam n Yahwe"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "lexṣayen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lexṣayen n wexxam n ugellid"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "lexṣayen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam n"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akk"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "i d-yewwi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk isellagen n werɣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "isellagen n"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "werɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "d-yexleq"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Culeman"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:55.013002885Z",
+  "model": "glm-5.3"
+}

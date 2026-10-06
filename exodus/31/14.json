@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taɛbant",
+      "rationale": "נפש d axsaw-abrid d taɛbant\/taneddert, mačči d 'lmeṛṛuḥ' n talɣa tatrūsit."
+    },
+    {
+      "kind": "crux",
+      "subject": "iḥelllen",
+      "rationale": "חלל: 'ad yexdem fell-as d aḥerrec' neɣ 'ad t-yessuruf'; lexṣas n tukksa n tqedcit."
+    },
+    {
+      "kind": "addition",
+      "subject": "i tessarmeɣ",
+      "rationale": "c\/8104 zmer ad yili 'ad ḥerzm' s talɣa taserḥant; talɣa n teqbaylit tessarmay-as awal."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "asnas n tnegzumnit: lmut ad yemmut — taluft tarreẓmant i kefden s talɣa-is."
+    }
+  ],
+  "translation": "Ad teqqimim ⟨i tessarmeɣ⟩ ⟨את⟩ Cabbat, acku d taqedcut i kwen-id-ihegga; win t-iḥelllen, ad yemmut s lmut, acku win yexdem deg-s amaṛṛa n yemmaṛṛa, taɛbant-nni ad tettwakkes seg tgemmart n yigensas-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "dacabeb7183bcf06dad23b9c4cfd5f79553f60847d7bfd4f6dc56c5c0174bda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/31\/14-14.1791267317755.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ad teqqimim ⟨i tessarmeɣ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Cabbat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "taqedcut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kwen-id-ihegga"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "win t-iḥelllen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "s lmut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ad yemmut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amaṛṛa"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "win yexdem"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "n yemmaṛṛa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ad tettwakkes"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "taɛbant-nni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "seg tgemmart"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "n yigensas-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:17.755658242Z",
+  "model": "glm-5.3"
+}

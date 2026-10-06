@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "wid-a",
+      "rationale": "Tigidt taggugt n yiserdasen deg Tsedwirit 17 — taggara n teḥcanut n Jehocabad."
+    },
+    {
+      "kind": "substitution",
+      "subject": "timeḥṣant",
+      "rationale": "המבצר: 'iḥerṛmen, imeḥṣan' — taneṣliţ taɛbranit d tamnekdest, maca taqbaylit ur tesɛi ara awal yiwen n umkan."
+    }
+  ],
+  "translation": "Wid-a yettqadaren ⟨את⟩ ugellid, si tami wid id-yefka ugellid deg tiɣerman timeḥṣant, deg Yehuda akk.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c5aaa756bb46ee7db7b8d523cefe754d975da728849bc33dae2f52db44cceb65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/17\/19-19.1791268353788.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wid-a"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "yettqadaren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugellid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "si tami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wid"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "id-yefka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "deg tiɣerman"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "timeḥṣant"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deg…akk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:33.789574008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ifassen",
+      "rationale": "יָדֹת \"ifassen\" i d-yesbeggnen timseɣiwin n uqerreš; taneggarut tesɛa tira-agi maḍi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ttuseddrent",
+      "rationale": "מְשֻׁלָּבֹת: \"ttusemsegdayent\" neɣ \"ttilin d timwanin\" — suqal ad tirmen watas (Geneva: am tiqacic n umḍellel)"
+    },
+    {
+      "kind": "addition",
+      "subject": "am yiwet",
+      "rationale": "האחד yettceggeɛ, yesɛa azal n \"yal wa\"; tettwaznat ⟨am yiwet⟩ d talɣa n teqbaylit"
+    }
+  ],
+  "translation": "Snat n yifassen i uqerreš am yiwet, ttuseddrent yiwet ɣer tayeḍ; akka i yexdem i yal aqerreš n Mickan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a8b6376cda0f735303485caf34b00d83206cd224d704516e7209115eb426ba8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/36\/21-22.1791267354632.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "snat"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "n yifassen"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "i uqerreš"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "am yiwet"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "ttuseddrent"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "tayeḍ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "i yexdem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i yal"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "aqerreš"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "n Mickan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:54.633145670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 22:22",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kec ⟨ad⟩",
+      "rationale": "taɛbranit ur tesɛi ara awal-agi i uselkim n tefrst; yettwanarna i taqbaylit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעלת בעל",
+      "rationale": "asnubel deg uẓar bʕl — tmeṭṭut n baɛl; tikti n 'baɛl' teqqim deg wawal"
+    }
+  ],
+  "translation": "Ma yettwaf yiwen yettewḥer akked tmeṭṭut n baɛl-is, ad mmenten maḍi snat: argaz-nni yettewḥer akked tmeṭṭut-nni, akked tmeṭṭut-nni; kec ⟨ad⟩ tekkseḍ ⟨את⟩ dirant seg Yisrael.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "0861c78d88fdbb97266dee5bb4c0272637f3a0117a028541f6958e0ec03e1884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/22\/21-22.1791267600939.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yettwaf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yettewḥer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tmeṭṭut"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "n baɛl"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baɛl-is"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ad mmenten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "snat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "argaz-nni"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "yettewḥer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tmeṭṭut-nni"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "akked tmeṭṭut-nni"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "tekkseḍ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dirant"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "seg Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:00.945724562Z",
+  "model": "glm-5.3"
+}

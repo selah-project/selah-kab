@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lqṣer",
+      "rationale": "ההיכל d amgeddal ameqqran (taɣemt) — lqṣer yettwaṭṭef deg umkan-is."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aqedcan n yiqedcen",
+      "rationale": "קדש הקדשים d talɣa n usegdeṣ (construct) — tettwafren talɣa tanmleḥt seg uẓar qdc."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ɛecrin n lɛed",
+      "rationale": "Akkal-agi d asidd: teɣzi tehriɣ, s lɛed."
+    }
+  ],
+  "translation": "Yessidd ⟨את⟩ teɣzi-ns: ɛecrin n lɛed; tehriɣ: ɛecrin n lɛed, ɣer zdat n lqṣer; inna-yas-i-d: Wagi d aqedcan n yiqedcen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "73c64eeaf0345c705061666593eca8c192f9ab57cb5de874d5fa69a717a3e351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/41\/4-4.1791268041920.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "yessidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teɣzi-ns"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-ns"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ɛecrin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lɛed"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "tehriɣ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ɛecrin"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "lɛed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "פני",
+      "gloss": "zdat n"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "lqṣer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inna-yas-i-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "yi-d"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "aqedcan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "n yiqedcen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:21.920893867Z",
+  "model": "glm-5.3"
+}

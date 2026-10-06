@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lḥeṣ",
+      "rationale": "המצודה: aseggren — aẓar-is yeqqar ɣef teṣṭest d waṭṭab; lḥeṣ d tmacahutt n tɣawsa, maca aẓar n 'qebḍ' yekkes"
+    },
+    {
+      "kind": "idiom",
+      "subject": "yeɣbel",
+      "rationale": "שבע = 'di d-yeffeɣ ṣa (七)' — awal-aqqan n ugalya; yerna s ṣa n tikkal, am akken d taqbaylit 'yeɣbel' d tin igerrzen"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וילך...עלו",
+      "gloss": "tazrawt n usuddes: Cawl yuɣal s adday ɣer wexxam, David d yirgazen-is ɛellin s afella — snat n tmandiwin yettnaqliyan",
+      "rationale": "cliché: yir n wawal yekka taẓult s wudem n tmacahut"
+    }
+  ],
+  "translation": "David yeɣbel i Cawl. Cawl yuɣal ɣer wexxam-is, ma d David d yirgazen-is ɛellin ɣer lḥeṣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "21d52fc5cfea6075cbb2b9b61ad284f7ec531002e0b5ae910d55d7144592e344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/24\/23-23.1791267655615.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "yeɣbel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "i Cawl"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Cawl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wexxam-is"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ma d David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "d yirgazen-is"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ɛellin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "lḥeṣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:55.618773303Z",
+  "model": "glm-5.3"
+}

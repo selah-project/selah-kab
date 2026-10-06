@@ -1,0 +1,172 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 14:4",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iṛebbiten-is",
+      "rationale": "גלוליו — daɣen 'iṛebbuten-is' s yisekkilen imeẓyanen mačči d Isem, akken yella D1 i yiṛebbiten n tugniwin."
+    },
+    {
+      "kind": "you",
+      "subject": "i Yeḥezqel",
+      "rationale": "Alxal yessawal i mmi-s n wemdan (Yeḥezqel) s tladagt: mmeslay-id, ini-yasen."
+    }
+  ],
+  "translation": "Ɣef waya, mmeslay-id ⟨i⟩ ɣer-sen, ini-yasen: Akka i d-yenna Adonai Yahwe: Yal amdan seg wexxam n Yisrael, i d-yettawin ⟨את⟩ iṛebbiten-is ar ul-is, i d-yessersen takerrust n tukkṛa-ines ɣer zdat ugemmum-is, ma ikecmen ɣer navi — nekk, Yahwe, ad awed-eɣ ⟨as⟩ s wawal-agi, s lɛadad n iṛebbiten-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "2ceac76a23309950593bca3a810729bd92955880cf9ee3dcbbe1101bbfb72de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/14\/4-4.1791267913723.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ɣef waya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mmeslay-id"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɣer-sen"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ini-yasen"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɣer-sen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Yal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seg wexxam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "i d-yettawin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iṛebbiten-is"
+    },
+    {
+      "surface": "גלוליו",
+      "gloss": "iṛebbiten-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ul-is"
+    },
+    {
+      "surface": "ומכשול",
+      "gloss": "takerrust"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "n tukkṛa-ines"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "i d-yessersen"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ugemmum-is"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ma ikecmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעניתי",
+      "gloss": "ad awed-eɣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨as⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "s wawal-agi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s lɛadad"
+    },
+    {
+      "surface": "גלוליו",
+      "gloss": "n iṛebbiten-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:13.724102347Z",
+  "model": "glm-5.3"
+}

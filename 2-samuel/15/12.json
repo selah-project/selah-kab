@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 15:12",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lqeḥfaniyin",
+      "rationale": "זבחים d lmegrad n ttbiɛ — «exleq» deg teqbaylit iṭeddu akk d ttbiɛ imi d tallit n waggur, d tazwara n Avcalom"
+    },
+    {
+      "kind": "addition",
+      "subject": "tuɣal",
+      "rationale": "ויהי i d-yesbeggnen tikci, mačči kan d tduṭṭfa"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Taqbaylit tesra ticci; ויהי iṭeffeɣ s wawal-nniḍen deg tsuqilt"
+    }
+  ],
+  "translation": "Avcalom yuzen ⟨את⟩ Aḥitofel ajiluni, ameslav n David, seg temdint-is, seg Jilu, mi yexleq ⟨את⟩ lqeḥfaniyin. Tuḥdint tuɣal tazmert, aberkan ddan widan, ṛṛemmer-d deg yid-s d Avcalom.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5fb5bad942178a7d2ea465d5946bf479d52fdd1635df7f6de1b7137487aa00f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/15\/12-12.1791267649023.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yuzen"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aḥitofel"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Aḥitofel"
+    },
+    {
+      "surface": "הגילני",
+      "gloss": "ajiluni"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ameslav"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "n David"
+    },
+    {
+      "surface": "מעירו",
+      "gloss": "seg temdint-is"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "seg Jilu"
+    },
+    {
+      "surface": "בזבחו",
+      "gloss": "mi yexleq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lqeḥfaniyin"
+    },
+    {
+      "surface": "הזבחים",
+      "gloss": "lqeḥfaniyin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tuɣal"
+    },
+    {
+      "surface": "הקשר",
+      "gloss": "tuḥdint"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "tazmert"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "widan"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ddan"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ṛṛemmer-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ d"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avcalom"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:49.030596938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "666 talents of gold",
+      "rationale": "Amḍan aqburan: taẓayt n weɣreb i d-ikedcen i Clevman deg yiwen n useggas — 666 n yiẓuran."
+    },
+    {
+      "kind": "crux",
+      "subject": "ככר",
+      "rationale": "Talent d yiẓur n tẓayt yettwasqedcen; awal-agi yeffeɣ seg tẓayt n yiẓuran amezwaru, yerna aẓar-is 'circle' n tẓayt n yiẓuran imeqqṛen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלמה",
+      "rationale": "Ismawen n yimdanen d imukan s timesliyin n taɛbranit kan: Clevman."
+    }
+  ],
+  "translation": "Yella-yagi taẓayt n weɣreb i d-ikedcen ɣer Clevman deg yiwen n useggas: kraḍ n temedyanin d mraw d ṣa d settIN n yiẓuran n weɣreb.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "94328bbb7685cfb929448398d170b1301f08678d66ddce24e9709b678cd615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/10\/14-14.1791267702208.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-yagi"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "taẓayt"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "n weɣreb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "בא",
+      "gloss": "d-ikedcen"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ɣer Clevman"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "deg useggas"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kraḍ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "temedyanin"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mraw d ṣa d settIN"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "d ṣa"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "yiẓuran"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "n weɣreb"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:42.209807511Z",
+  "model": "glm-5.3"
+}

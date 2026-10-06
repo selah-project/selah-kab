@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בחטאתם \/ חטאו",
+      "rationale": "Asget n uẓar ḥṭʾ deg tgara n tseddart — tḥeccin \/ i ḥecmen — tallalt-a tettwakkes di teqbaylit"
+    },
+    {
+      "kind": "crux",
+      "subject": "קנא",
+      "rationale": "Qenneɛ: 'ḥeqren-t' (lmut n yiẓuran) neɣ 'ssawḍen-t ad yekker deg-s walla' — ammud n Udigel 32:21"
+    },
+    {
+      "kind": "addition",
+      "subject": "plural verb",
+      "rationale": "Yehuda d amyari, maca yal tikkelt tettwaxdem s yisem n wegdud, ihi fehmey n wegdud"
+    }
+  ],
+  "translation": "Yexdem Yehuda dirit deg tiḍ n Yahwe, u qenneɛn-t ⟨אתו⟩ ugar n wayen akk i xedmen ibaban-nsen, s tḥeccin-nsen i ḥecmen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e404d37fb7ef9283dc117de3dfdd5173451e78ada80111e282d330dab203a568",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/14\/22-22.1791267727749.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yexdem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "deg tiḍ n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "qenneɛn-t"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ugar n wayen akk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "xedmen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ibaban-nsen"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "s tḥeccin-nsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "i ḥecmen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:07.750799523Z",
+  "model": "glm-5.3"
+}

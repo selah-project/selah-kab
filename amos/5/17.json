@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "amos 5:17",
+  "book": "amos",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בקרבך",
+      "rationale": "'gar tu' (d tutlayt n tectukt: in thy midst) — yettwaxleḍ s 'garawen' i lmend n tira n taqbaylit"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "AYisrael i d-ittwaxtam deg wawal-agi: 'ad d-ɛeddeɣ garawen'"
+    }
+  ],
+  "translation": "Deg yal lexla n tezin, lɛaz akk ad yili, axaṭer ad d-ɛeddeɣ garawen, i d-yenna Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "735884156112857887a91a6464718fa64fc26572e7e18da5d42893e8f29cb265",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/amos\/5\/17-17.1791268026888.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "deg yal"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "lexla n tezin"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "lɛaz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ad d-ɛeddeɣ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "garawen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:06.888880604Z",
+  "model": "glm-5.3"
+}

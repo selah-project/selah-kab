@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nnefs",
+      "rationale": "נפש חיה d tameḥḥut \/ lkelba iḥewwen, mačči d 'ṛṛuḥ' — d lkelba iḥewwen kan i yimeḥḥiyen."
+    },
+    {
+      "kind": "elision",
+      "subject": "Tora n",
+      "rationale": "Taqbaylit tesra 'n' n usenti (construct) i 'תורת הבהמה', taɛbranit texdem-itt s usenti-a yakan."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Tora",
+      "rationale": "Taseddut n tmara-a: aḥric-a yessemuddled Tora n yimeččiyen iɣersiwen — d tasemmilt n usettel."
+    }
+  ],
+  "translation": "Tagi d Tora n yiɣersiwen, d Tora n yiẓan, d yal nnefs d imeḥḥi yettzillin deg waman, d yal nnefs yettḍeṛṛen ɣef tmurt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "57168e5046038d93ae9413e88b067174188093f07aa1404a4fad864c3def0e02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/11\/46-46.1791267320409.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Tagi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "n yiɣersiwen"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "d yiẓan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "d yal"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nnefs"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "imeḥḥi"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "yetzillin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deg waman"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "d i yal"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nnefs"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "yettḍeṛṛen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:20.410040479Z",
+  "model": "glm-5.3"
+}

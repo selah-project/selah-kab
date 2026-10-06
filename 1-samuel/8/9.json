@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Tiqqilt ur tesɛi ara anamek s waḥd-s da, tettwattu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העד תעיד",
+      "rationale": "Asnulfu n yiwen n uẓar ɣer snewt: infinitive d yizri, taɛrabit tettak yiwen kan."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe → Cemuel",
+      "rationale": "Alhidda n Ucekkil ɣer Cemuel: sel, seqqim, welleh."
+    }
+  ],
+  "translation": "Tura ḍfer iḍris-nsen; maca ad ten-tseqqimḍ: ad as-tninaḍ ccreɛ n ugellid ara yebren ɣef-sen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "da7f1a97d2d93a53c45b30a440884eca0924d535eccbf5d1dd8230dbb3450fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/8\/9-11.1791267693507.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ḍfer"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "iḍris-nsen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "maca"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "העד",
+      "gloss": "ad tseqqimḍ"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "ad tseqqimḍ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "ad as-tninaḍ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "as"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreɛ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "yebren"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɣef-sen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:33.511870700Z",
+  "model": "glm-5.3"
+}

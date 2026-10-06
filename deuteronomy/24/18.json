@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 24:18",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "i k-ysseyel",
+      "rationale": "פדה d 'issyel\/isselḥi' (ad d-yefke s weqrid), mačči kan 'isselḥa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "maḍi",
+      "rationale": "כי ttwaru-d s 'maḍi' iwakken ad yefhem wamek, taqbaylit tesra-t."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Alugen-a yettarmes ɣer Yisrael, s tedyanin n umɛelleb d tgellilt."
+    }
+  ],
+  "translation": "Cfu maḍi illi-d d aɛebd deg Miṣrayim, Yahwe Elohim-im i k-ysseyel si din; ɣef waya, nekk ad k-ḥekmeɣ ad txedmeḍ ⟨את⟩ awal-agi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "55f9c26ea6820d5c522def66616aab81aadb54758f050accf05cd96c2de7f3c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/24\/18-18.1791267548191.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "cfu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maḍi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "aɛebd"
+    },
+    {
+      "surface": "היית",
+      "gloss": "illi-d"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "deg Miṣrayim"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "i k-ysseyel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-im"
+    },
+    {
+      "surface": "משם",
+      "gloss": "si din"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ad k-ḥekmeɣ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ad txedmeḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awal-agi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:08.193601401Z",
+  "model": "glm-5.3"
+}

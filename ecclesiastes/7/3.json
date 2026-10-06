@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ttqiḍt",
+      "rationale": "כעס: 'ttqiḍt' (KJV sorrow) neɣ 'ṭṭeḍṣa\/tiqeccem' (JPS vexation, tiqeccem n wudem)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wudem",
+      "rationale": "פנים d asget (udmawen), deg teqbaylit yuɣal d amenzu 'wudem'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ad yelḥu wul",
+      "rationale": "ייטב yezmer daɣen ad yili 'ad yelhu wul' — tamyurt d axeṭṭaṛ n wayen yelhan"
+    }
+  ],
+  "translation": "Ttqiḍt tugar aḍḥuk, axaṭer s dirit n wudem ad iṣeḥḥeḥ wul.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f1831f8bfc1bd2ac41312cb81ad164bbc23264f411e6832c8d9393acfb6b6d7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/7\/3-3.1791268239373.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tugar"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ttqiḍt"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "aḍḥuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "s dirit"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "n wudem"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ad iṣeḥḥeḥ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wul"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:39.376129949Z",
+  "model": "glm-5.3"
+}

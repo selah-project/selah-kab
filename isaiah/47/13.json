@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 47:13",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הברו",
+      "rationale": "Iẓar hb, «iḥerksuten n yitran» — deg Tanakh tikelt kan i d-yettaḍ, ayen id yessisen imsujayen ɣef unamek: ayen yellan d win yettḥerksen tira n igenwan."
+    },
+    {
+      "kind": "crux",
+      "subject": "leɛqel",
+      "rationale": "עצתיך: «iqeddacen\/leɛqel» neɣ «iɣiwnen» — imsujayen beṭṭlen gar «counselors» d «plans»."
+    },
+    {
+      "kind": "alternative",
+      "subject": "iḥerksen",
+      "rationale": "Tasuqilt tis snat i הברו: «wid yessekelsen» (augury s tagerda) — ɣef leḥsab n talɣa n yiẓar deg uḍris n Talmud."
+    },
+    {
+      "kind": "you",
+      "subject": "Babel",
+      "rationale": "Axlaṣ adirekt i Babel, yebna deg udlif izaia 47 s yeḥrami (feminin)."
+    }
+  ],
+  "translation": "Tḥeṣṣdeḍ di leɛḍil n leɛqel-ik-im. Ad d-qqimen tura, ad k-ǧǧben seg wayen ara d-ikes ɣef-ik-im: wid iḥerksen igenwan, wid iẓerran yitran, wid isselmaden i wagur n wayen ara d-ikes ɣef-ik-im.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7e2a9312436b61085e4aba48adfb0b4c3bcca9b8da72b131635bbd31feebb05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/47\/13-13.1791267806644.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נלאית",
+      "gloss": "tḥeṣṣdeḍ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "di leɛḍil"
+    },
+    {
+      "surface": "עצתיך",
+      "gloss": "n leɛqel-ik-im"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ad d-qqimen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tura"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "ad k-ǧǧben"
+    },
+    {
+      "surface": "הברו",
+      "gloss": "wid iḥerksen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "igenwan"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "wid iẓerran"
+    },
+    {
+      "surface": "בכוכבים",
+      "gloss": "yitran"
+    },
+    {
+      "surface": "מודיעם",
+      "gloss": "wid isselmaden"
+    },
+    {
+      "surface": "לחדשים",
+      "gloss": "i wagur n"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "seg wayen"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ara d-ikes"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef-ik-im"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:26.646539114Z",
+  "model": "glm-5.3"
+}

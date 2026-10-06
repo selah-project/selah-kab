@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פצמתה",
+      "rationale": "פָּצַם yella deg Tanakh kan deg tseddert-agi; 'gzez' i d-yefren"
+    },
+    {
+      "kind": "crux",
+      "subject": "פצמתה",
+      "rationale": " Kraḍ n tɣuri: 'tgezza-t', 'teṛẓa-t' — seg unamek n tmsgoḍt (earthquake)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבריה",
+      "rationale": "שבר = tarẓa \/ taɣlawt n tmiḍin; 'isiḍen' d tugna i d-yesbeggnen"
+    },
+    {
+      "kind": "invitation",
+      "subject": "רפה",
+      "rationale": "Talɣa n unuɣ d Yahwe: 'ejbeṛ isiḍen-is' — asuter s tidet"
+    }
+  ],
+  "translation": "Tessukwed tamurt, tgezza-t: ejbeṛ isiḍen-is, axaṭer tettwexleḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "38f53c335246bbe38e7319d6f8d5615f55d702d23251f9962e43b2ae585732de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/60\/4-4.1791268021369.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "tessukwed"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "tgezza-t"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ejbeṛ"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "isiḍen-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tettwexleḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:01.370043596Z",
+  "model": "glm-5.3"
+}

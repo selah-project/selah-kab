@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 9:37",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nelli",
+      "rationale": "taɛbranit ur tesɛi ara awal n uneḥbas; 'nekni nelli' i d-yettwarnan i wawal war umsarer אנחנו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "udiẓin",
+      "rationale": "בצרה d 'aẓeẓla \/ tangeḍdit' deg teqbaylit, tamnaḍt tanamektant i tuccḍa"
+    },
+    {
+      "kind": "you",
+      "subject": "i Yahwe",
+      "rationale": "taseddart-agi d aẓrar deg unẓar, tettmeslay i Yahwe s yisem-nniḍen 'tesbeddeḍ'"
+    }
+  ],
+  "translation": "Tiɣḍarin-is d deqs i yigeldanen i tesbeddeḍ ɣef nekni deg tuccḍin-nneɣ; ḥekmen ɣef igmanen-nneɣ d lmal-nneɣ akken i ṛḍan, nekni nelli deg udiẓin ⟨ameqran⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d10cb2af0bf5f79cf0fb5089482a8473c8408cb6497e71509a5c9aa2d2dae773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/nehemiah\/9\/37-37.1791268312361.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבואתה",
+      "gloss": "tiɣḍarin-is"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "d deqs"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "i yigeldanen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tesbeddeḍ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ɣef nekni"
+    },
+    {
+      "surface": "בחטאותינו",
+      "gloss": "deg tuccḍin-nneɣ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גויתינו",
+      "gloss": "igmanen-nneɣ"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ḥekmen"
+    },
+    {
+      "surface": "ובבהמתנו",
+      "gloss": "d lmal-nneɣ"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "akken i ṛḍan"
+    },
+    {
+      "surface": "ובצרה",
+      "gloss": "deg udiẓin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ameqran"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:52.369637546Z",
+  "model": "glm-5.3"
+}

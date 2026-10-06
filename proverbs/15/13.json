@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "imuqeddem",
+      "rationale": "שמח d 'amuqeddem, amuḥlah' — deg teqbaylit ulac awal-id yufraren, iṭṭef talɣa n umedad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aẓeḍḍaḍ",
+      "rationale": "עצבת tettwasuqal d 'aẓeḍḍaḍ' (tuḥẓi) — mačči d tameṭṭut n tnẓurt, d tin n tuḥẓi i yellan da"
+    },
+    {
+      "kind": "addition",
+      "subject": "ma yella",
+      "rationale": "taqbaylit tessra talɣa n uwit idhehric, taɛbranit ur tesɛi ara"
+    }
+  ],
+  "translation": "Lbib imuqeddem ad iẓeggɛen ⟨i⟩ udem; ma yella aẓeḍḍaḍ n lbib, ruaḥ ad tettwaḥrem.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b81a844c44a289b7936815d5f759e1abd6c2379f353fa3595e95fc4f4912d259",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/15\/13-13.1791268164593.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "lbib"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "imuqeddem"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ad iẓeggɛen"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udem"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "ma yella aẓeḍḍaḍ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "n lbib"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaḥ"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ad tettwaḥrem"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:24.593986208Z",
+  "model": "glm-5.3"
+}

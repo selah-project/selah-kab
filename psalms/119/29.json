@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ḥennen-iḍ",
+      "rationale": "חנני: 'grant me graciously' (KJV\/JPS) vs 'favour me' (YL) — kab yerna ḥenn ('ṣetuṭ n lḥanya') yer tamawt n Tora"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Aslemlit ɣer Ṛebbi s yisem-nniḍen: tikkelt tamenant n umezdag n tzuri 119"
+    }
+  ],
+  "translation": "Abrid n lekdeb ekkes-it si-iw, s Tora-inek ḥennen-iḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9aeeae7494498ba77d9f99faa9431e71b210fe4268a822643bb05ba9df32a42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/119\/29-29.1791268098251.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lekdeb"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ekkes-it"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "si-iw"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "s Tora-inek"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ḥennen-iḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:18.251908693Z",
+  "model": "glm-5.3"
+}

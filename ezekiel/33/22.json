@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 33:22",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seg Yerucalayim",
+      "rationale": "Isem n temdint ur yelli ara deg uḍris aɛrabran; yettwarna i ṣeḥḥa n tengalt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "amectul",
+      "rationale": "נאלמתי iqareɛ 'yettwaqdeṛ s yils-iw' — 'amectul' yettwafernen i ṣeḥḥa n unamek, mačči d taqbulit taqburt"
+    },
+    {
+      "kind": "idiom",
+      "subject": "afus n Yahwe",
+      "rationale": "'Afus n Yahwe' d tungalit taɛbranit i tnezhi d tmara n unuɣy; tettwaḥrez s talɣa-is tanagrawant"
+    }
+  ],
+  "translation": "Afus n Yahwe yella-d ɣef-i tameddit, uqbel mi d-yewweḍ win yerwel seg Yerucalayim; yeldi-yi-d ⟨את⟩ yimi, arma mi d-yusa ɣur-i deg tifawt; yeldi yimi-w, ur qqimeɣ ara d amectul.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ad3be8112a7f52457784f49f55f58560d07723b501d6bcbb526c922f6dc576ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/33\/22-22.1791267941511.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "Afus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣef-i"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "tameddit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "uqbel"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "mi d-yewweḍ"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "win yerwel"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "yeldi-yi-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "yimi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "mi d-yusa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "deg tifawt"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "yeldi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "yimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur … ara"
+    },
+    {
+      "surface": "נאלמתי",
+      "gloss": "qqimeɣ d amectul"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tikelt-nniḍen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:41.512699845Z",
+  "model": "glm-5.3"
+}

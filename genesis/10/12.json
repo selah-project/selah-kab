@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היא העיר הגדלה",
+      "rationale": "Anya tamdint tameqqrant: d Ninwe (KJV, JPS) neɣ d Kelax (BSB)? Taɛbranit tettarra d tamdint tameqqrant s yisem, mačči d aseggal."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hiya d⟩",
+      "rationale": "Taɛbranit ur tesɛi ara amenzu n tenfalit; taqbaylit yessefk fell-as."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רסן",
+      "rationale": "Reṣen yettban-d kan da deg Tanakh."
+    }
+  ],
+  "translation": "Akken d ⟨את⟩ Reṣen, gar Ninwe d gar Kelax — d netta ⟨hiya d⟩ tamdint tameqqrant.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b3bc9028af40831ea6f81d54c737824cae8e1cfd51ffe39fc8ed7e86cbedf265",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/10\/12-12.1791267249267.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Reṣen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reṣen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "d gar"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "d netta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "tameqqrant"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:09.268561349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 38:18",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "yekcem ɣur-s",
+      "rationale": "ויבא אליה 'ikcem ɣur-s' — idiom n tmettant deg tɛbranit, 'yekcem ɣur-s' yerna amekkan amellil."
+    },
+    {
+      "kind": "crux",
+      "subject": "ופתילך",
+      "rationale": "פתיל 'azrar': KJV 'ibracen (bracelets)' mgal JPS\/ASV 'aḥerḍum\/azrar' — targalt n tɣi ṣḥiḥ tettwaxdem."
+    },
+    {
+      "kind": "substitution",
+      "subject": "aḥettem",
+      "rationale": "חותם d axial n tẓermust (signature-ring), 'aḥettem' iṭṭef talɣa-nni n tɛbranit."
+    }
+  ],
+  "translation": "Yenna: d acu-t weɛrabun ara d-mudduɣ? Tenna: aḥettem-ik, d azrar-ik, d taɛṣa-ik yellan deg ufus-ik. Imudda-tt, yekcem ɣur-s, teqebbeḍ fell-as.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "44a0ec98f4b0c8911fef73b21e5714f98bf942d836cf1117dff91a0051eb8835",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/38\/18-18.1791267265533.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "d acu-t"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "weɛrabun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ad-mudduɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečč"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "חתמך",
+      "gloss": "aḥettem-ik"
+    },
+    {
+      "surface": "ופתילך",
+      "gloss": "d azrar-ik"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "d taɛṣa-ik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-ik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "imudda"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-tt"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɣur-s"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "teqebbeḍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:25.537010959Z",
+  "model": "glm-5.3"
+}

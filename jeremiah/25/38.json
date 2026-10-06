@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 25:38",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היונה",
+      "rationale": "Tazrart: 'win inunden' (adeg-zwis n uḍris) ɣer tama n Targum\/targumin-nniḍen 'aseggu' neɣ 'winiq' — KJV 'the oppressor', JPS 'the oppressing sword'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "אף d 'teɣmirt' (ini\/izem) — figurativ 'lɛaqda'; ceḥt-it 'n teɣmirt-is' iwakken ad yeqqim uẓar n wawal."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרון ... חרון",
+      "rationale": "Allus n wawal 'lɛaqda' snat n tikkal — tanmehla tarattant i d-yesbeggnen tixutṛt n yir ṛṣaṣ."
+    }
+  ],
+  "translation": "Am ukfull, yeǧǧa ⟨agdim⟩-is; axaṭer tmurt-nsen tuɣal d lexsa, seg udem n lɛaqda n win inudden, d seg udem n lɛaqda n teɣmirt-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "14f83fe340be62dfa58cce8144bf3e66301046fd98f725c00a7547f19dc8a1f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/25\/38-38.1791267915585.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזב",
+      "gloss": "yeǧǧa"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "am ukfull"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "⟨agdim⟩-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tuɣal"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tmurt-nsen"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "d lexsa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seg udem"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "n lɛaqda"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "n win inunden"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "d seg udem"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "n lɛaqda"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "n teɣmirt-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:15.586474333Z",
+  "model": "glm-5.3"
+}

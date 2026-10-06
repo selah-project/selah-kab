@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Millo",
+      "rationale": "המלוא: isem n wemkan — 'asergi i-d-yeččuren' neɣ isem amdanan; nettawi-t d isem, am KJV\/JPS"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yesḥerrez",
+      "rationale": "יחיה d aḥric-is 'iḥya' (yesnerna tudert); 'yesḥerrez' (yerra-t d amuddir) yettwafer deg wanida"
+    }
+  ],
+  "translation": "Yebna tamdint si tama ɣer tama, seg Millo arma d tama-ines, Yoav yesḥerrez ⟨את⟩ wayen i-d-yeqqimen seg ⟨את⟩ temdint.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "047a62eb96ef91d841e8a0f943c3632c3fb4dcec6aac3506ff05e26e4365fdda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/11\/7-8.1791268327652.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yebna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tamdint"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "si tama ɣer tama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "tama-ines"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yesḥerrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayen i-d-yeqqimen seg temdint"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "wayen i-d-yeqqimen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "seg temdint"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:07.660557153Z",
+  "model": "glm-5.3"
+}

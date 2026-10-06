@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 16:39",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iqedcen",
+      "rationale": "הכהנים — iqedcen (aẓar qdc) i kohen, akken i d-enna tfelwit D2"
+    },
+    {
+      "kind": "addition",
+      "subject": "yellan",
+      "rationale": "אשר ur yessin ara ara yili d 'yellan' neɣ d 'win' — asiḍen n yimir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "teɣzert",
+      "rationale": "במה teɣzert\/tanila n usafel, ur tettwasuqal ara d 'amezgun'"
+    }
+  ],
+  "translation": "D ⟨את⟩ Ṣeduq akohen, d atmat-is iqedcen, ger iwaziwen n Mickan Yahwe, deg teɣzert yellan deg Giḥɛun.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8c06c5c47bc681fb9ab0ec8b429d63b0e51be36c039b128b1357e1b82e60d25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/16\/39-39.1791268314314.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ d",
+      "marks": "Ṣeduq"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Ṣeduq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "akohen"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "d atmat-is"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ger iwaziwen"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mickan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "deg teɣzert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "deg Giḥɛun"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:54.318108826Z",
+  "model": "glm-5.3"
+}

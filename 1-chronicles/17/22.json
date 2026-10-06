@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Aslal n David i Yahwe, tamasilt tadigtant"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lebda",
+      "rationale": "עולם d 'tigget yettwaffren \/ vanishing point'; lebda dunamek imeẓẓiyen"
+    }
+  ],
+  "translation": "Terraḍ ⟨את⟩ yigelman-ik Yisrael d agdud-ik, i kečči, armi d lebda; kečči, Yahwe, telliḍ-asen d Elohim.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d7b17d12cf1b2fb8a018855cdf0c95003c703547287bb9a9a1be0d6b64293ddc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/17\/22-23.1791268313024.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Terraḍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yigelman-ik Yisrael"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yigelman-ik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "i kečči"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "d agdud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "armi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "d lebda"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "telliḍ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-asen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "d Elohim"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:53.030060362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "asemḍel n yirgazen yellan d tuɣalin",
+      "rationale": "Takkayt n tgertilt: merra wid i d-yuɣalen seg Babil, s yimḍanen."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kiryat Ɛarim",
+      "rationale": "קרית ערים neɣ קרית יערים (Kiryat-Yearim) — mazal ittwaḥerrez ṣṣifat 'Ɛarim\/Yearim'."
+    }
+  ],
+  "translation": "Arraw n Kiryat Ɛarim, n Kefira d Beerot, εecṛa n tmailin (700) d ϛrebṭin (40) d kraḍ (3).",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a7e7c8f582a312064872b741f46439693e6f0bcb760f638ed97969be7041b58b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezra\/2\/25-25.1791268238888.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Arraw n"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Ɛarim"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Kefira"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "d Beerot"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "εecṛa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "n tmailin (700)"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "d ϛrebṭin (40)"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "d kraḍ (3)"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:38.891548528Z",
+  "model": "glm-5.3"
+}

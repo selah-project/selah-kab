@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teɣzi",
+      "rationale": "כבוד d-yessegzen 'taẓayt, tazwart'; teɣzi tettwafren axaṭer ulac awal n teqbaylit i yecuban, teɣzi n yiwen umkan d tin i d-ibanen."
+    },
+    {
+      "kind": "crux",
+      "subject": "כבודו",
+      "rationale": "Talɣa: 'teččur tmurt akk s teɣzi-nnes' (tiferkit-is tettwaḥrez ɣer teɣzi) neɣ 'taɣzi-is d tin i d-teččur tmurt' ( SUBJECT d a NAME-TIME). Talɣa tamenzut d tin i qqnen ɣer yiles n teɛbranit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדוש קדוש קדוש",
+      "rationale": "Allus krad n tikkal n 'iqedcen' — asemlal i d-ibanen deg teqbaylit, maca allus-agi d taẓuri n uḍris."
+    },
+    {
+      "kind": "measurement",
+      "subject": "teččur tmurt akk",
+      "rationale": "Aḍris yeɛna tiɣzi s tmurt meṛṛa — tiɣzi n Yahwe tettwasen s usnubg-agi n tmurt."
+    }
+  ],
+  "translation": "Yiwen yessawel ɣer wayeḍ, yenna: Iqedcen, iqedcen, iqedcen Yahwe Ṣebaot; teččur tmurt akk s teɣzi-nnes ⟨n⟩ yiqedcen-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f4774a8ef7239015cac9a9da940ed2d6fdc5281b1303a7e80abb7e3691eafccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/6\/3-4.1791267847595.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "yessawel"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "teččur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "s teɣzi-nnes"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:07.596224266Z",
+  "model": "glm-5.3"
+}

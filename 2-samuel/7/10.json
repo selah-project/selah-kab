@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 7:10",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "deg-s",
+      "rationale": "תחתיו 'taceddit-is' \/ 'ddaw-is' — tettwafren talɣa n 'deg-s' iwakken ad tettfehmeɣ s teqbaylit"
+    },
+    {
+      "kind": "idiom",
+      "subject": "wid n unezref",
+      "rationale": "בני עולה 'arrac n tdirwit' — talɣa n taɛbranit maca talɣa n teqbaylit 'wid n…' tettwafren"
+    },
+    {
+      "kind": "addition",
+      "subject": "ara",
+      "rationale": "taqbaylit tesra awal-agi iwakken ad d-teffeɣ talɣa n temgerrer"
+    }
+  ],
+  "translation": "Ad sbeddeɣ deg-s amkan i ugdud-iw, i Yisrael, ad t-esseɣlin, ad izdeɣ deg-s, ur it-ttawezzir ara ugar, ur ziren wid n unezref ara ɛedlen ɣer uɛqeb-agi akken xelṣen deg tazwara.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3977c9548a0d3a2ff5c2f9dc60932c0f2f09f4035710acc1343f7008d4fbd9b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/7\/10-10.1791267663883.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ad sbeddeɣ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "amkan"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "i ugdud-iw"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "וינטעתיו",
+      "gloss": "ad t-esseɣlin"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ad izdeɣ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "ur it-ttawezzir ara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ugar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יסיפו",
+      "gloss": "ur ziren ara ɛedlen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wid n"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "unezref"
+    },
+    {
+      "surface": "לענותו",
+      "gloss": "ɣer uɛqeb-agi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "deg tazwara"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:03.887684336Z",
+  "model": "glm-5.3"
+}

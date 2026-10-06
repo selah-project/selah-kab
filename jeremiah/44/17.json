@@ -1,0 +1,173 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 44:17",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשׂה נעשׂה",
+      "rationale": "Infinitive absolute + finite verb — 'to do we will do' — emphatic resolve; kabyle repeats 'ad nxedem ad nxedem' only in force, not in shape."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨imiren⟩",
+      "rationale": "Temporal 'then' implied by the waw-consecutive chain ונשבע\/ונהיה but not present as a separate Hebrew word."
+    },
+    {
+      "kind": "crux",
+      "subject": "tagellidt n yigenwan",
+      "rationale": "מלכת השמים read as construct 'queen of heaven'; some read מְלֶאכֶת 'work\/weaponry of heaven' — most versions keep 'queen'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ובחצות",
+      "rationale": "Literally 'outsides\/outdoor places' (ḥuṣot) rendered 'iberdan' (streets); the 'outside-the-walls' picture is lost."
+    }
+  ],
+  "translation": "Axaṭer ad nxedem ⟨את⟩ akk awal i d-yeffɣen seg imi-nneɣ: ad nkeṭṭer i tagellidt n yigenwan, ad nsekk ives iṣeffan, akken nxedem nekni, d yibabaten-nneɣ, igeldanen-nneɣ d inebgawen-nneɣ, deg tiɣremi n Yehuda d iberdan n Yerucalayim; ⟨imiren⟩ nessbeɛ yirẓaẓen, nessili d ifazen, ur nwala ara tazralt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5b8b9ed69053bf765f5832ce2a9248efd10436551d28587879028b1448d8b64e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/44\/17-17.1791267956916.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ad nxedem"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ad nxedem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk awal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "מפינו",
+      "gloss": "seg imi-nneɣ"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "ad nkeṭṭer"
+    },
+    {
+      "surface": "למלכת",
+      "gloss": "i tagellidt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "n yigenwan"
+    },
+    {
+      "surface": "והסיך",
+      "gloss": "ad nsekk"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ives"
+    },
+    {
+      "surface": "נסכים",
+      "gloss": "iṣeffan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "nxedem"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nekni"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "d yibabaten-nneɣ"
+    },
+    {
+      "surface": "מלכינו",
+      "gloss": "igeldanen-nneɣ"
+    },
+    {
+      "surface": "ושרינו",
+      "gloss": "d inebgawen-nneɣ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "deg tiɣremi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "d iberdan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerucalayim"
+    },
+    {
+      "surface": "ונשבע",
+      "gloss": "nessbeɛ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yirẓaẓen"
+    },
+    {
+      "surface": "ונהיה",
+      "gloss": "nessili"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "d ifazen"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "d tazralt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nwala ara"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:56.917319127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ad",
+      "rationale": "taɛbranit ur tesɛi ara amenzu n tilin, taqbaylit tettas-it i lmend n us未来"
+    },
+    {
+      "kind": "you",
+      "subject": "Solomonan",
+      "rationale": "ayen i d-yenna wawal ɣef Solomon, ad yebnu i Yisem n Yahwe"
+    }
+  ],
+  "translation": "Solomonan yenna-d ad yebnu axxam i Yisem n Yahwe, d axxam i tgelda-nnes.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "08456f22086f5577c7d51ed565836316a5f7c5a9c9b9be3cd69a7ddd0b3a3381",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/1\/18-18.1791268284808.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomonan"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ad yebnu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "i Yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "d axxam"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "i tgelda-nnes"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:24.811920305Z",
+  "model": "glm-5.3"
+}

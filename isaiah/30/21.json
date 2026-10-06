@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאמינו",
+      "rationale": "Aẓar aman = 'ad d-yedu ɣer yidistir-aɣella'; tisuqil timeqranin qqurent-tent d 'tanemmirt\/tamanit' (ḥighest faith), maca deg tseddart-agi d asnubget n wemdan i d-yesbeggnen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תאמינו \/ תשמאילו",
+      "rationale": "Sin n yiwudam n yidistiren: aɣella d aẓelmaḍ — taɛbranit tettak-d tamawt s yisekkilen, taqbaylit yessefk ad tn-id-tesbeggnen s wawalen-nnsen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימין\/שמאל",
+      "rationale": "Amperid ger idistiren: d allal n tnefsirt i d-iteddun deg tmeẓẓuɣin-ik, ma yella tuzeddiḍ deg yiwen seg sin."
+    }
+  ],
+  "translation": "D yimeẓẓuɣen-ik ad tslewḍeḍ awal seg deffir-ik, ad yini: Wagi d abrid, ttekkti-t deg-s; mi ara t-refḍeḍ s yidistir-aɣella, neɣ mi ara t-refḍeḍ s yidistir-aẓelmaḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b80d6ca232dc47f8cea8631a2daca2b41fdab94bef1e7437ad104d456eea7695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/30\/21-21.1791267811085.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "d yimeẓẓuɣen-ik"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "ad tslewḍeḍ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "seg deffir-ik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "d abrid"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ttekkti-t"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "t-refḍeḍ s yidistir-aɣella"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "neɣ mi ara"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "t-refḍeḍ s yidistir-aẓelmaḍ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:31.086011598Z",
+  "model": "glm-5.3"
+}

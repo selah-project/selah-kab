@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לחמותה",
+      "rationale": "Taɛbranit tessɛa awal amelsi i 'yemma n wergaz'; taqbaylit ur tesɛi ara awal yiwen, tettwafra s tsentat n wawalen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ו\/דבקה",
+      "rationale": "Anmgal ger ussunḍeq n Orpa (tuzzel) d usedukkel n Rut (aṭṭaf) — tafelsit tamyiwent n tseddart."
+    },
+    {
+      "kind": "addition",
+      "subject": "tiṭṭ-ines",
+      "rationale": "Taɛbranit tenna 'tessunḍeq' kan; awal-nni yettwarna iwakken ad yennaɣ unamek n tuzzi."
+    }
+  ],
+  "translation": "Rûent akken i d-lalin tivect-nsent, u ssentaqent tikelt-nniḍen; Orpa tessunḍeq tiṭṭ-ines i yemma n wergaz-is, ma d Rut tesdukkel yides-ttin.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "62024939467ad58e5e6cf12962134cf29dd81325bd9316aa081bd4891e66acbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ruth\/1\/14-14.1791268146395.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַתִּשֶּׂ֫נָה",
+      "gloss": "rûent akken i d-lalin"
+    },
+    {
+      "surface": "קוֹלָ֔ן",
+      "gloss": "tivect-nsent"
+    },
+    {
+      "surface": "וַתִּבְכֶּ֖ינָה",
+      "gloss": "ssentaqent"
+    },
+    {
+      "surface": "ע֑וֹד",
+      "gloss": "tikelt-nniḍen"
+    },
+    {
+      "surface": "וַתִּשַּׁ֤ק",
+      "gloss": "tessunḍeq tiṭṭ-ines"
+    },
+    {
+      "surface": "עָרְפָּה֙",
+      "gloss": "Orpa"
+    },
+    {
+      "surface": "לַחֲמוֹתָ֔הּ",
+      "gloss": "i yemma n wergaz-is"
+    },
+    {
+      "surface": "וְר֖וּת",
+      "gloss": "ma d Rut"
+    },
+    {
+      "surface": "דָּ֥בְקָה",
+      "gloss": "tesdukkel yides-ttin"
+    },
+    {
+      "surface": "בָּֽהּ",
+      "gloss": "yides-ttin"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:06.399378551Z",
+  "model": "glm-5.3"
+}

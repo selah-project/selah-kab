@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכסה",
+      "rationale": "Kesef: «ayyur imaṭṭafen» (ASV\/JPS) neɣ «akud ittwanefken» (KJV, seg keceh «yettwassen»); tettwafren talɣa tamzikt."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ayenyur d umuddu n wayyur",
+      "rationale": "Iẓri-agi iseggam akud deg uwitay n wayyur: ayenyur, umuddu, ass n tmeɣṛut."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כסה",
+      "rationale": "Talinut agi n «kesef» i ẓẓayer n wayyur tettban-d kan deg umaṛ-agi n Tanakh."
+    }
+  ],
+  "translation": "Buɣen cofar deg uyenyur, deg umuddu n wayyur, ass n tmeɣṛut-nneɣ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "29046d1e0d960da89d8ac0a56eb9613871fd7c8fd86fe99a30d68103cc4aff09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/81\/2-4.1791268135908.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Buɣen"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "deg uyenyur"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "cofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "deg umuddu n wayyur"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ass n"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "tmeɣṛut-nneɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:55.915118225Z",
+  "model": "glm-5.3"
+}

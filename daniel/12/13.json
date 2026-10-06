@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lɛahd-nnek",
+      "rationale": "גורל d tfeṛṭit (iẓẓan n usmagel); 'lɛahd' yettwaṭṭef ɣef usrag n tguri-agi s leɛquṛ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨i⟩",
+      "rationale": "taɛbranit ur tesɛi ara awal n usmezdi, taqbaylit tesra-t"
+    },
+    {
+      "kind": "you",
+      "subject": "to Daniel",
+      "rationale": "Yahwe\/yenMES ad yettmeslay ɣer Daniyel s wudem usrid: 'keččini'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "taggara n wussan",
+      "rationale": "tancelt-agi tettwaseḥbes; awal-agi d taggara n tsseft deg tmedlert (Dan 12:4)"
+    }
+  ],
+  "translation": "Keččini, ɛeddu ar taggara-nni; ad tesgunfud, ad teqqimeḍ deg lɛahd-nnek ⟨i⟩ taggara n wussan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "760fdc6885ab7e9c1e0cf22ba3c474b1eacfa66611e6c147e205f250a7b006d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/daniel\/12\/13-13.1791268203782.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "keččini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɛeddu"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "ar taggara-nni"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "ad tesgunfud"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ad teqqimeḍ"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "deg lɛahd-nnek"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "ar taggara"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "n wussan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:03.782780517Z",
+  "model": "glm-5.3"
+}

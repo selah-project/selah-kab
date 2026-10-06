@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩",
+      "rationale": "taqbaylit tessra d nniq qqimen n tefyirt n unadi n taɛrabt, taɛrabt ur tesɛi ara"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "iyedcqen \/ imezgiyen",
+      "rationale": "sdq d ycr klimenten (yedcqen \/ izerwan), tajmilt ur tettwameg ara s timmad-is deg taɛrabt"
+    },
+    {
+      "kind": "invitation",
+      "subject": "zerwet",
+      "rationale": "taluft-a tettmuqul imesliyen maḍi s tmeslayt-agi: izerwennaw n tmedyazt"
+    }
+  ],
+  "translation": "Zerwet iyedcqen deg Yahwe; i wid imezgiyen tezga tezgi ⟨d⟩ ttuqbal teḥmilt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "08f3b18c2eef0dc064874910b8a612a34a5f13679e89b7bc4bac1cc2244d0e78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/33\/1-1.1791268014970.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "zerwet"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "iyedcqen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deg Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "i wid imezgiyen"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "tezga tezgi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ttuqbal teḥmilt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:54.971239305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "isem Ḥebron",
+      "rationale": "taqbaylit tesra asuf n umenkad n lmilk, yerna ulac awal iberkan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "i ten-id-yewwin ɣer d asawen",
+      "rationale": "העלה «yuli» — talɣa tanemmirt n «yewwi-d ɣer d asawen»"
+    }
+  ],
+  "translation": "Irgazen-is i ilan yides, d David i ten-id-yewwin ɣer d asawen, yal argaz akked wexxam-is, zzin-d deg yimdnen n Ḥebron.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bc4d0da2f098df84292e40732b6aab108c3c46e0d482dd54f3429e6a75c65ad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/2\/3-3.1791267625410.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Irgazen-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i ilan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yides"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "i ten-id-yewwin ɣer d asawen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yal argaz"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "akked wexxam-is"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "zzin-d"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "deg yimdnen"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "n Ḥebron"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:25.413481173Z",
+  "model": "glm-5.3"
+}

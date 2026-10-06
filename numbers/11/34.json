@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קברות התאווה \/ המתאוים",
+      "rationale": "Isem n wemkan 'Qubrut Ha-taɛva' (iɣbula n teqdit) yella d taεzilt ɣef 'ha-mit'awwim' (wid yerwan): qbur-taɛva yettcabi i taɛva, taqdit tettunefk-d isem n wemkan s unamek i d-yusan seg wayen yeḍran."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המתאוים",
+      "rationale": "yettwasuqel s 'wid iɛelleqen ssuq' (wid ibren taqdit n lɣem); taqdit n teɛbranit hi 'ilmeḥ' \/ 'yexsed'."
+    }
+  ],
+  "translation": "Yessuma-d ⟨את⟩ yisem n wemkan-nni Qubrut Ha-taɛva, axaṭer dinna ɣeṛṛen ⟨את⟩ agdud, wid iɛelleqen ssuq.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9fac1f3e609e3b2bbd2b2c3c684917fa8e5cec720d712c70ad9017f44b1a9304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/11\/34-34.1791267452527.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessuma-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yisem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yisem"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "n wemkan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "Qubrut"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Ha-taɛva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ɣeṛṛen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "agdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "agdud"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "wid iɛelleqen ssuq"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:32.530352329Z",
+  "model": "glm-5.3"
+}

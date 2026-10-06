@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמות הספים",
+      "rationale": "Talɣa: 'tḥerzekt n yiferdisen' (wid izemren ad ttḥerzcen ɣer iferdisen, am linteaux) neɣ 'iɣẓan n yiferdisen' (iɣẓan n yisfuyla, am ASV). KJV yenna 'posts', JPS 'posts of the door'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yuli-d deg usgen",
+      "rationale": "ימלא עשן yegber 'yettwali s usgen \/ yettwassen s usgen' — talɣa n teqbaylit tettawi-d amejnun n usgen d wayen yettkelsen."
+    },
+    {
+      "kind": "elision",
+      "subject": "הקורא",
+      "rationale": "D yiwen (singular) maca JPS yegbur kuẓ (them that called) — ufran n talɣa singular yettwadem i yiles n teɛbranit."
+    }
+  ],
+  "translation": "Tḥerzekt n yiferdisen tzenz deg wedɣaɣ n win yettmeslayen, axxam yuli-d deg usgen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f4774a8ef7239015cac9a9da940ed2d6fdc5281b1303a7e80abb7e3691eafccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/6\/3-4.1791267847595.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "tzenz"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tḥerzekt n yiferdisen"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "n yiferdisen"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "deg wedɣaɣ"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "n win yettmeslayen"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yuli-d"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "deg usgen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:07.596800155Z",
+  "model": "glm-5.3"
+}

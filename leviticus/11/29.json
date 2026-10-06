@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 11:29",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והצב",
+      "rationale": "Mačči d aɣaras amatu: KJV 'tortoise', ASV\/JPS 'great lizard', Geneva 'frog' — tajgu n kab d ameɣru kan."
+    },
+    {
+      "kind": "crux",
+      "subject": "החלד",
+      "rationale": "Taɣerdayt (weasel) d leqbayel n leqdic, maca kra n yimsuqelen qqulen-d ɣer 'mole'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הטמא",
+      "gloss": "yuɣen",
+      "rationale": "ṭum'a deg taɛbranit d talɣa n trewla n teqdeccit, mačči kan d axeqqer."
+    }
+  ],
+  "translation": "Wagi i kunwi d win ara yuɣen deg iḍammen-arrawen wid yettḍeḍḍeren ɣef tmurt: taɣerdayt, d yilmes, d ṣebb-aḥyun, akken yella udmis-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a407949a9778ae6603788cef35099256f0b21a47c782141ba58c39e6b7b5a2eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/11\/29-29.1791267300702.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Wagi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i kunwi"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "d win ara yuɣen"
+    },
+    {
+      "surface": "בשרץ",
+      "gloss": "deg iḍammen-arrawen"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "wid yettḍeḍḍeren"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "החלד",
+      "gloss": "taɣerdayt"
+    },
+    {
+      "surface": "והעכבר",
+      "gloss": "d yilmes"
+    },
+    {
+      "surface": "והצב",
+      "gloss": "d ṣebb-aḥyun"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "akken yella udmis-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:00.703055628Z",
+  "model": "glm-5.3"
+}

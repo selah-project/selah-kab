@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 17:25",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Uceṭṭan",
+      "rationale": "העדות d 'uceṭṭan' — tabdert n ccetla n Tora deg Mickan; yewweḍ-d deg taqbaylit am awal-agi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרי",
+      "rationale": "meri 'tigawt' yeqqen ɣer umer 'd ameqqwer' — talɣiwt ur d-tettidir ara deg teqbaylit"
+    },
+    {
+      "kind": "addition",
+      "subject": "iwakken",
+      "rationale": "wawi d imeddwal (ad fked... ur ad mmten) — taɛbranit tessawaṭ s wassaɣ kan"
+    }
+  ],
+  "translation": "Yahwe yenna-d i Moce: Err ⟨את⟩ taɛcac n Aharon sdat Uceṭṭan, i ḥeṛs, d imeṛṛa i tarwa n tigawt, iwakken ad fked tilqayin-nsen fell-i, ur ad mmten.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6499d5e47975c3d85ac47d5be9f7449a3b7ce6d48f6e5075dfc8bb6664f7d80a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/17\/25-25.1791267452652.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna-d"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Err"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taɛcac n Aharon"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "taɛcac"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Uceṭṭan"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "i ḥeṛs"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "imeṛṛa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "i tarwa"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "tigawt"
+    },
+    {
+      "surface": "ותכל",
+      "gloss": "ad fked"
+    },
+    {
+      "surface": "תלונתם",
+      "gloss": "tilqayin-nsen"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "fell-i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ad mmten"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:32.654923282Z",
+  "model": "glm-5.3"
+}

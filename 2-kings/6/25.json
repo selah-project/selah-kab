@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 6:25",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "temdint-a",
+      "rationale": "עליה temreḥ fell-as; awal-nniḍen n teqbaylit yettwarnan iwakken ad ẓer neẓra anwa i ṛṛumen fell-as"
+    },
+    {
+      "kind": "crux",
+      "subject": "iḥriryen n yijan",
+      "rationale": "חרי יונים: ḍri n yijan s unamek alit, neɣ d yemẓa n ygoma (azal-is meqrir kan); imsuqlen lhan fells-i"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרי יונים",
+      "rationale": "tiggi-agi d taneslit, tettwasi-d deg Tanakh deg wemkan-agi kan"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tmanin n lfeḍḍa \/ rbeɛ n lqab",
+      "rationale": "lḥsab n tangezt s lqab d lfeḍḍa — tigejdit tameqrant"
+    }
+  ],
+  "translation": "Tella tangezt tameqqrant deg Somron, d ⟨aɛiwen⟩, wanag ṛṛumen ɣef temdint-a, almi yuɣal ixef n uyədi s tmanin n lfeḍḍa, d rbeɛ n lqab n iḥriryen n yijan b tsemmus n lfeḍḍa.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8c67cfafbe7dd8fef19dbde5ec684a5aa589b7bb00e211473b4eeb7cd347317e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/6\/25-25.1791267706964.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Tella"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "tangezt"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "tameqqrant"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "deg Somron"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d ⟨aɛiwen⟩"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ṛṛumen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɣef temdint-a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "yuɣal"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ixef"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "n uyədi"
+    },
+    {
+      "surface": "בשמנים",
+      "gloss": "s tmanin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfeḍḍa"
+    },
+    {
+      "surface": "ורבע",
+      "gloss": "d rbeɛ"
+    },
+    {
+      "surface": "הקב",
+      "gloss": "n lqab"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "n iḥriryen"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "n yijan"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "b tsemmus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "n lfeḍḍa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:46.968756190Z",
+  "model": "glm-5.3"
+}

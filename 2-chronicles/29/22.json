@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 29:22",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "idammen",
+      "rationale": "taɛbranit ur tettekkis ara awal הדם deffir ויזרקו amezwaru; tettwarni deg ⟨…⟩ axaṭer tazmilt n wemḍuf d teɣzi n tefyar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lmeṣbed",
+      "rationale": "המזבחה yesɛa sekkil-agi n tanila ה (-ah): \"ɣer lmeṣbed\"; talɣa n usmagel tettwaseggem s wawal n teqbaylit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tiktayin kukṛa",
+      "rationale": "tlata n tikkal: nɣan — sefregen — ɣef lmeṣbed; asnagar (repetition) yuɣal yiwet n tmacahutt n usmurter, yettwaḥrez akken yella"
+    }
+  ],
+  "translation": "Nɣan ifunasen, iqeblen ikohanim ⟨את⟩ idammen, sefregen ⟨idammen⟩ ɣef lmeṣbed; nɣan ilemcuyen, sefregen idammen ɣef lmeṣbed; nɣan ilemcayen imeẓyanen, sefregen idammen ɣef lmeṣbed.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a559a9eae14fbfa95bf3de8256f0756e35149579c66a13b0a95dd0491f255d22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/29\/22-22.1791268389666.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "nɣan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ifunasen"
+    },
+    {
+      "surface": "ויקבלו",
+      "gloss": "iqeblen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idammen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "sefregen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeṣbed"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "nɣan"
+    },
+    {
+      "surface": "האלים",
+      "gloss": "ilemcuyen"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "sefregen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeṣbed"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "nɣan"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ilemcayen imeẓyanen"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "sefregen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "idammen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ɣef lmeṣbed"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:09.667115849Z",
+  "model": "glm-5.3"
+}

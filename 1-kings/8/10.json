@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yella-d",
+      "rationale": "wayhi yeffɣal d tidet s taqbaylit s yiwen n umsefray n uzrar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iṭijjen",
+      "rationale": "ענן d aṭij n tfawt; da yettwaqbal d iṭijjen n tezmert, mačči d aḍu kan"
+    }
+  ],
+  "translation": "Yella-d, mi d-fɣen iqahenen seg teqdecit, iṭijjen yewweṭ ⟨את⟩ axxam n Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3dd792e85f389d8e1b05eb52a672d3c5b9c1943d0a37d7eae3b16e1c7c84cfc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/8\/10-10.1791267712961.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "mi d-fɣen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "iqahenen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "teqdecit"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "iṭijjen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yewweṭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "axxam n Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "axxam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:52.962772952Z",
+  "model": "glm-5.3"
+}

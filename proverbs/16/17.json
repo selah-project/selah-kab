@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nef-s",
+      "rationale": "נפש אִיֶה תַאגְ'מַארְת (nnefs) ד תאקבאילית — אקרב צו אנפוס\/נפש שא תאקבאילית, מאצ'י צ'ו אושן"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/נצר",
+      "rationale": "שני שורשים שונים שניהם \"לשמור\" — פרודוקטיוויטי בעברית, אוודאי לקאבייל"
+    },
+    {
+      "kind": "crux",
+      "subject": "מסלת",
+      "rationale": "רוב המנגנונות: 'כביש של ישרים הוא לסור מרע' וקוואלייף: 'מסלה דגל ישרים נוטה מרע'"
+    }
+  ],
+  "translation": "Abrid ameqṛan n wid imaεalen d ad iwweḍ seg tîû; win yettḥarben abrid-is yettḥareb ⟨i⟩ nef-s-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "08f1d2caf32531665f4ec945a6f2a73711e11e68a4d60d81b8e58c39181a0887",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/16\/17-17.1791268145904.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "abrid ameqṛan"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "n wid imaεalen"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ad iwweḍ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "seg tîû"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "yettḥareb"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nef-s-is"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "yettḥareb"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "abrid-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:05.906696414Z",
+  "model": "glm-5.3"
+}

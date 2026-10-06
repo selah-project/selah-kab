@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 27:3",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בחטאו מת",
+      "rationale": "talɣa taɛbranit 'yemmut deg tucḍa-s' — tettwafhm d 'yemmut ɣef tucḍa-s i yellan kan d tacḍa-s'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "tlata n yinumak: 'axaṭer', 'maca', 'd acu kan' — dagi 'maca', am uneḥṣab n umsuqel, axaṭer bab-nsen ur yelli ara deg tegrumma n Qoraḥ."
+    },
+    {
+      "kind": "you",
+      "subject": "i Moce, i Ɛazar",
+      "rationale": "awal-agi i d-yettwawden seg yirgazen n Tselofḥad i Moce d Ɛazar (Tanged 27:2)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מת ... מת",
+      "rationale": "uslig n wawal 'yemmut' snat n tikkal — amḍan n tmirt n uneḥṣab."
+    }
+  ],
+  "translation": "Bab-nneɣ yemmut deg unaẓur; ma d netta, ur yelli ara gar teɣlamt i d-yemsegrawen mgal Yahwe, deg tegrumma n Qoraḥ; maca s tucḍa-s yemmut, d arraw ur yesɏi ara ⟨i netta⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "57853e2e0fec9590c06cccd861f3f8de5fbf70b615fa0d1f34ca3459f015f649",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/27\/3-3.1791267461283.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבינו",
+      "gloss": "Bab-nneɣ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deg unaẓur"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma d netta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ara"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yelli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gar"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "teɣlamt"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "i d-yemsegrawen"
+    },
+    {
+      "surface": "על",
+      "gloss": "mgal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "deg tegrumma n"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qoraḥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maca"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "s tucḍa-s"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "d arraw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ara"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yesɏi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨i netta⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:41.289913375Z",
+  "model": "glm-5.3"
+}

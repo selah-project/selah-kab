@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 1:30",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי…כי…כי",
+      "rationale": "Tikelt tis kraâ yella כי deg tseddart-agi — d awal n usekkem i d-yettuɣalen, taqaṛḍutt-is tettwaṛuṛ deg tsuqilt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ad yeseô deg ôurs-i deffir-i",
+      "rationale": "תחתי qabel-is 'ddaw-i \/ deg umkan-iw'; yettwaâaqel d 'deffir-i' s leɛqel n tmurt"
+    }
+  ],
+  "translation": "Acku am akken i ṭṭef-âaâdeg i ṭṭef-âaâdeg-iâ deg wawal-iw iâ yer-ek s yisem Yahwe, Elohim n Yisrael, semmaâ d: Celomo, mmi-k, ad yennerni d agellid deffir-i, d neôôa yegga ad yeseô deg ôurs-i, deffir-i; acku akka i t-id-âeôeô ass-agi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "263662c62bfbed64196a8e3686e281cc5919b6af8c2a4c67702db11de618ae47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/1\/30-30.1791267720323.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "am akken"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "âaâdeâ-agh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iâ yer-ek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "s yisem Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s-lemmaâ d"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Celomo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mmi-k"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ad yennerni d agellid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir-i"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "d neôôa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ad yeseô"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "ôurs-i"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "deffir-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "i t-id-âeôeô"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "agi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:00.324552161Z",
+  "model": "glm-5.3"
+}

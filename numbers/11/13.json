@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iwakken ad muddɣ",
+      "rationale": "taɛbranit ur tesɛi ara awal-nniḍen — lqafyen n wawal akk illan deg lekmal"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשר",
+      "rationale": "iseɣ: deg uḍris-agi yemmal tidwt (iseɣ n tmerlut), mačči tugna n tmettant"
+    },
+    {
+      "kind": "you",
+      "subject": "i Yahwe",
+      "rationale": "Moce yettmeslayaḍ s usuffeɣ ɣer Yahwe, tuqqna n ubbib n wegdud fell-as"
+    }
+  ],
+  "translation": "Seg ani i kečč-inu iseɣ, iwakken ad muddɣ i wegdud-agi akk? Xaṭi, ad bbiben ɣuri, ad nnan: Mudd-aɣ iseɣ, ad nečč.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f3594ac536ec41538610b9422b7a19a09c98a98a70c47cdd8aff7109e0e01088",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/11\/13-14.1791267495085.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "seg ani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i kečč-inu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "iseɣ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "iwakken ad muddɣ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "i wegdud-agi akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "i wegdud-agi akk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "i wegdud-agi akk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "xaṭi"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ad bbiben"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣuri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad nnan"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "mudd-aɣ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "iseɣ"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ad nečč"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:15.090496403Z",
+  "model": "glm-5.3"
+}

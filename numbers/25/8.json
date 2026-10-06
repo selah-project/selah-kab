@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקבה",
+      "rationale": "qubba: axxam n usundi \/ takurt — makken i d-yenna uḍris d axxam n usundi neɣ takurt n usundi; tzemar ad tili d axxam n tmeṭṭut"
+    },
+    {
+      "kind": "crux",
+      "subject": "קבתה",
+      "rationale": "qovta: tiɣmert \/ taɛqeb — deg tiɣmert-is; imsuqlen meḥḍa ma yella d ayla neɣ d tiɣmert n wučči"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קבה\/קבתה",
+      "rationale": "sin n yismawen yemcaben: axxam n usundi (qubba) d tiɣmert (qovta) — taɛzanit ur tettwameg ara deg taqbaylit"
+    }
+  ],
+  "translation": "Yeḍfer amdan n Yisrael arma d axxam-agi n usundi, inɣa sin-agi ⟨את⟩: ⟨את⟩ amdan n Yisrael d ⟨את⟩ tamettut deg tiɣmert-is, ihi tewweḍ tuḥḍi ɣef warraw n Yisrael.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "cfa9a8b2e1203a1c6d81c0829500a0b19483496f8a391c223365380e3b113ab9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/numbers\/25\/7-8.1791267489869.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yeḍfer"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "axxam n usundi"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "inɣa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin-agi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sin-agi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amdan n Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amdan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "tamettut"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tamettut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "deg"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "tiɣmert-is"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "tewweḍ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "tuḥḍi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "n Yisrael"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:09.882009822Z",
+  "model": "glm-5.3"
+}

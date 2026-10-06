@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להזהר",
+      "rationale": "aẓar zhr 'ad iḥeu, ad iseqsi': kra n imsatal γren 'ad yexwes neγ ad iṛuḥ ar zdat', wayeḍ 'ad yesselmed'"
+    }
+  ],
+  "translation": "Yelha yeḥmel ameṣṣuq dwa d-nnavi, ugar n ugellid amaẓlay dweḥd-s d-akessif, i ur neẓri ara ad d-yewweḍ ɣer usmekti ⟨tikkelt-nniḍen⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6c924b82515820df014fd15f6be092716282798126d4267a899a31a86e7e1f49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/4\/13-13.1791268203118.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yelha"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yeḥmel"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ameṣṣuq"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "d-nnavi"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ugar n ugellid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "amaẓlay"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "d-akessif"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "neẓri ara"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "ad d-yewweḍ ɣer usmekti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨tikkelt-nniḍen⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:03.119484864Z",
+  "model": "glm-5.3"
+}

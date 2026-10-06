@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "win nniḍen",
+      "rationale": "זר d 'aberray, awin nniḍen' — mačči d 'aɛetri kan'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tamurt⟩",
+      "gloss": "tamurt",
+      "rationale": "tamesluyt i d-tilin deg uḍris, tettwakkes deg tsuqilt"
+    },
+    {
+      "kind": "elision",
+      "subject": "להם",
+      "rationale": "suffix n tmeḥla yettwamegla s 'i' deg tsuqilt"
+    }
+  ],
+  "translation": "Ii kan i d-tettunefk ⟨tamurt⟩ tamurt, ur d-yebbriḍ ara win nniḍen gar-asen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7fddb8682c9848182603d1977d6a8477b60be963acd0994c86b02626afc24a2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/15\/19-19.1791268171586.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "i d-tettunefk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yebbriḍ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "win nniḍen"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "gar-asen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:31.587350547Z",
+  "model": "glm-5.3"
+}

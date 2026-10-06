@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 35:25",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiḥbula",
+      "rationale": "קינה d teḥbula\/tiwetlin — awal aqburan n teɛbranit i teḥbula n lmut"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yidergaggen",
+      "rationale": "השרים\/השרות: 'wid izemren' mačči 'idennen' — isem n wayen yettḍafren i ccna n teḥbula"
+    },
+    {
+      "kind": "crux",
+      "subject": "על הקינות",
+      "rationale": "'deg teḥbula' neɣ 's deffir n teḥbula' (ylt: 'beside the lamentations') — anida ara naf ikufen-agi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "almi d ass-a",
+      "rationale": "tazmara n leqdic-nni ɣer lweqt n umaru n tseftert"
+    }
+  ],
+  "translation": "Yirmeyahu yewwet tiḥbula ɣef Yochiyahu, ayen akk n yidergaggen d yidergaggen-t yettmeslayen deg teḥbula-nsen ɣef Yochiyahu almi d ass-a, u rran-ten d lɛahd ɣef Yisrael; ve ⟨dan-ini⟩, ttwarun deg teḥbula.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3ef1ec12c3f1d660d78f0780631a26f376b2845ed4d331830591f4cd39483b38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/35\/25-25.1791268371966.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקונן",
+      "gloss": "yewwet tiḥbula"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yochiyahu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "yettmeslayen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ayen akk"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "n yidergaggen"
+    },
+    {
+      "surface": "והשרות",
+      "gloss": "d yidergaggen-t"
+    },
+    {
+      "surface": "בקינותיהם",
+      "gloss": "deg teḥbula-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yochiyahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "almi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass-a"
+    },
+    {
+      "surface": "ויתנום",
+      "gloss": "rran-ten"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "d lɛahd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ve ⟨dan-ini⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ttwarun"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "הקינות",
+      "gloss": "teḥbula"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:51.970819480Z",
+  "model": "glm-5.3"
+}

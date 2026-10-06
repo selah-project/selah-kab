@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 21:9",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יען אשר... לכן",
+      "rationale": "Tinest taɛbranit acku...ihi — tangalt n ussunɣ; tettwag s sin n yifeḍ n teqbaylit."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתערה",
+      "rationale": "Yettwag d 'tqebuct' (taɣeżżart\/tqebuct); ẓer: isem-a yezmer ad yeg 'taɣeżżart' neɣ 'tqebuct' — asefham yettɣima deg uḍris."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מנגב צפון",
+      "rationale": "Asedger seg uneẓul ɣer ugafa — tillist tamfidt n teɣzi, yal aksum yettwaselgen."
+    }
+  ],
+  "translation": "Acku gezzɣ seg-k ⟨i⟩ ayeddam d ubekkay; ihi ssif-iw ad yeffeɣ si tqebuct-is ɣer yal aksum, seg uneẓul ɣer ugafa.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1bc85138b9bc7c2f23313a284e4cfa50d1a15aef49c11519875e0ae2c3e0aab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/21\/9-9.1791268407880.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Acku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "gezzɣ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "seg-k"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ayeddam"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "d ubekkay"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ihi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ad yeffeɣ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ssif-iw"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "si tqebuct-is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aksum"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "seg uneẓul"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ɣer ugafa"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:27.883646008Z",
+  "model": "glm-5.3"
+}

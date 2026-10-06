@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 6:7",
+  "book": "nehemiah",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inavyen",
+      "rationale": "נביאים yettwaru d inavyen (nnbi d isem n lislam, UGIN)"
+    },
+    {
+      "kind": "crux",
+      "subject": "לקרא עליך",
+      "rationale": "'ad imeslayen ɣef yisem-ik' — taɛbranit tenna 'ad yessiwel ɣef-k': kra n tsuqilin qquent 'ad llayen ɣef-k' (ad k-id-ixelqen)"
+    },
+    {
+      "kind": "addition",
+      "subject": "yella",
+      "rationale": "taɛbranit ur tesɛi ara awal n yella deg 'מלך ביהודה' — tegla tezwar"
+    }
+  ],
+  "translation": "Daɣen inavyen tesbeddeḍ deg Yerucalayim ad imeslayen ɣef ṛṛeẓq-ik·ɣef yisem-ik s wawal: Agellid yella deg Yahuda. Dɣa ad yesserḥu waya ɣer ugellid akken llan wawalen-agi. Dɣa ddu-d tura, ad nemmeslay yid-m akken ad nmeslay <yid-m> d yiwen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ed411ea7579bdab1639546155243ddfcc36fa3c6bdc35493ac540af6172388f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/nehemiah\/6\/7-7.1791268250990.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "daɣen"
+    },
+    {
+      "surface": "נביאים",
+      "gloss": "inavyen"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "tesbeddeḍ"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ad imeslayen d navi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef yisem-ik"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "deg Yerucalayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "agellid"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "deg Yahuda"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dɣa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ad yesserḥu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ɣer ugellid"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "akken llan wawalen-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "agi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ddu-d"
+    },
+    {
+      "surface": "ונועצה",
+      "gloss": "ad nemmeslay yid-m"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "d yiwen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:50.994276182Z",
+  "model": "glm-5.3"
+}

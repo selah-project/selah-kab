@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "teffreḍ",
+      "rationale": "תעלים s uẓar ɛlm — 'ad teffreḍ': taɛbranit ur tefri ara ajya, maca teqqar d tidet 'ad tḥebbseḍ i d-yettwali'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leḥzen",
+      "rationale": "בצרה d 'taneẓẓift, lḥebs': taqbaylit tesɛa awal i d-yemqaden"
+    },
+    {
+      "kind": "you",
+      "subject": "a Yahwe",
+      "rationale": "asirem s liḥala ɣer Yahwe s yisem-is"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Acuɣer",
+      "rationale": "isteqsiyen i d-yettwaznen ɣer Yahwe, d axeddim n usirem di tzuri"
+    }
+  ],
+  "translation": "Acuɣer, a Yahwe, attan teqqedeḍ ⟨i⟩ yizerban? Acuɣer teffreḍ ⟨ajjiv-ik⟩ deg lwakt n leḥzen?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9abfacbc4090daf29b6b2ffcc7acb739aa5e3a01482c2511c21fb5d8ee30b847",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/10\/1-1.1791267997788.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Acuɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "teqqedeḍ"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "di yizerban"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "teffreḍ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "deg lwakt"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "n leḥzen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:37.789262129Z",
+  "model": "glm-5.3"
+}

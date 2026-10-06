@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "minḥa",
+      "rationale": "מנחה deg uhil-agi d taxterṭut (ttun tikci n laman i ugellid); talɣa minḥa tettwaḥrez akken yellan deg taɛbranit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yessed",
+      "rationale": "כון yebna ɣef 'ad yili d uzguḍ \/ ad yettwabnu'; 'yessed' yettwafernen i unamek n usseḥbiber."
+    }
+  ],
+  "translation": "Yahwe yessed ⟨את⟩ tageldit deg ufus-is, akk Yehuḍa unnen minḥa i Yehocafat, yeǧǧa-as lexṣ d tmqqert s waṭas.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b2f97ce8343437993f16bc60015215357d7db3eb204a47cb5ec64658f2c9938d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/17\/5-5.1791268358835.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "yessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tageldit"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "tageldit"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "deg ufus-is"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "unnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuḍa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "i Yehocafat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yeǧǧa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lexṣ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "d tmqqert"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "s waṭas"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:38.838025764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גוים\/גויות",
+      "rationale": "Amkar gar leǧnas (גּוֹיִם) d tfekkiwin (גְּוִיּוֹת) — yal tikelt taɛbranit tettur-d ajerred-agi, di teqbaylit iruḥ."
+    },
+    {
+      "kind": "crux",
+      "subject": "מלא גויות",
+      "rationale": "Anwa i yettḥellun: Adonai yettḥelli-d tifekkiwin (neɣ imukan, akken tella taɣuri n « yeḥelli imukan »), neɣ aqerru yettwaḥella s tfekkiwin?"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארץ רבה",
+      "rationale": "רַבָּה: wakal ahrawan (d ameqran) — neɣ « ttiki deg tmura igen». Imesuqal mgaraden."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מחץ ראש",
+      "rationale": "Tazwara tarjit: yedgel aqerru n ugarrew? Maca aḍris yesɛa aẓar mḥz: ayen i d-yusan zik (Taz 3:15) d unadi ɣef aqerru, qqim d-agi d aḍris ɣef lɛesker."
+    }
+  ],
+  "translation": "Ad iḥkem gar ⟨leǧnas⟩, ad iḥelli ⟨tifekkiwin n wid yettwanɣan⟩, yedgel aqerru ɣef wakal ahrawan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d5f536984e8431886dab05324dc76dc5a008aa9ab8ab120ccc6e80349f1259d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/110\/6-6.1791268098856.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ad iḥkem"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gar ⟨leǧnas⟩"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ad iḥelli"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "⟨tifekkiwin n wid yettwanɣan⟩"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "yedgel"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "aqerru"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wakal"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ahrawan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:18.857645787Z",
+  "model": "glm-5.3"
+}

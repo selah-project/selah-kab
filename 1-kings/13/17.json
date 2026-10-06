@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 13:17",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שם",
+      "rationale": "Deg tseggast-a שם \"di\" tettwaru d \"degs\" — talɣa n teqbaylit i \"deg wemkan-nni\"."
+    },
+    {
+      "kind": "elision",
+      "subject": "בה",
+      "rationale": "Tafatiwt n teqbaylit tettwakkes; talɣiwin n yimdanen qqiment deg ubrid."
+    },
+    {
+      "kind": "addition",
+      "subject": "ara",
+      "gloss": "Sufiks n neggative \"ara\" yettwarnan i wayyur n teqbaylit, axaṭer taɛbranit ur tesɛi ara-t."
+    }
+  ],
+  "translation": "Acku awal i d-ikecmen ɣur-i s wawal n Yahwe: ur teṭṭfeḍ ara aɣrum, ur tesseṭṭfeḍ ara degs aman, ur tuɣaleḍ ara ad tedduḍ deg ubrid i deg teeḍḍfeḍ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "641439fe1c88a4d24c39fbac5b36c25b02248104e1528ee8b9d9955ee261df94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/13\/17-17.1791267713176.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɣur-i"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "teṭṭfeḍ ara"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aɣrum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "tesseṭṭfeḍ ara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "degs"
+    },
+    {
+      "surface": "מים",
+      "gloss": "aman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tuɣaleḍ ara"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ad tedduḍ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "deg ubrid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i deg"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "teeḍḍfeḍ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:53.178013627Z",
+  "model": "glm-5.3"
+}

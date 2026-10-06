@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tixxert",
+      "rationale": "החור: 'tixxert n usber' (KJV\/JPS) ɣef tzeɣla n uɣessa, neɣ 'aseklu n tzeɣla' (YLT); taqbaylit texxa-d talɣa tamaslayt kan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iṛumman-iw",
+      "rationale": "מעי d idammen n tuber n lexla, maca deg uḍris-agi d amkan n tiṭṭufin n wul — 'iṛumman-iw' deg teqbaylit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המו",
+      "rationale": "המה d awal n umeslaw (asennan am 'hum') — iḥekku-d tiṭṭ n ul; deg teqbaylit 'ḥemmelen' ixuṣṣ-as ameslaw."
+    }
+  ],
+  "translation": "Dduda-iw izuzer afus-is seg tixxert, iṛumman-iw ḥemmelen fell-as.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "76065609d80ac31c3d260f3927bde804873617d1686c0adec0ea4d876d2a6847",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/song-of-songs\/5\/4-4.1791268148091.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Dduda-iw"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "izuzer"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "afus-is"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "החר",
+      "gloss": "tixxert"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "iṛumman-iw"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ḥemmelen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fell-as"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:08.093366895Z",
+  "model": "glm-5.3"
+}

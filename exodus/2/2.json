@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mmi-s",
+      "rationale": "taɛbranit ur tesɛi ara suffiks n lɛesker, taqbaylit tesra-t"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tban",
+      "rationale": "טוב d 'tban\/ixeṣṣen' deg unamek ameqqran; yerna meqqren akken i wawal-a deg Tazwara 1"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kṛaḍ n yiragen",
+      "rationale": "asḍes n wakud: kṛaḍ n yiragen"
+    }
+  ],
+  "translation": "Tameṭṭut terreẓ gemmen, d-tewwid mmi-s; mi t-twald ⟨אתו⟩ deg wayen ara tban, teffer-t iT kṛaḍ n yiragen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1cae2fa254a7806c935c27de96cf804f62943a108ff8e6a398cf6d3a54e6ecf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/2\/2-2.1791267250381.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "terreẓ gemmen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "d-tewwid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "t-twald"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mmi-s — deg wayen ara tban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "deg wayen ara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tban"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ITT"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "teffer-t"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kṛaḍ"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "n yiragen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:10.381811999Z",
+  "model": "glm-5.3"
+}

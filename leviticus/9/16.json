@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lɛola",
+      "rationale": "העלה d 'win yettali' — tanalt i d-yettalin ɣer ufarna; talɣa n taɛbranit tettwaḥrez"
+    },
+    {
+      "kind": "addition",
+      "subject": "akken",
+      "rationale": "tuddsa כ tessutd talɣa n umyalew n taqbaylit akken yella ccreɛ"
+    },
+    {
+      "kind": "elision",
+      "subject": "tt- ig",
+      "rationale": "tuddsa n taqbaylit tessawal ɣer wawal iɛeddan (lɛola) s twinssi -tt"
+    }
+  ],
+  "translation": "Yeqqen-d ⟨את⟩ lɛola, tt-ig akken yella ccreɛ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e6cb34f6206814985f96aa79aa4a60a4532b81d7ac19def4e8a5846fa78e673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/9\/16-16.1791267318400.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yeqqen-d"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lɛola"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "tt-ig"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "akken yella ccreɛ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:18.400525722Z",
+  "model": "glm-5.3"
+}

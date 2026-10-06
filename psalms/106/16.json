@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uɛesker",
+      "rationale": "מחנה d anida ṭṭfen yimezdaɣ — uɛesker d abrid i yelhan, maca ṭṭaf-it id"
+    },
+    {
+      "kind": "you",
+      "subject": "israyil",
+      "rationale": "Aḍris yettmeslay ɣef ugdud n Yisrael deg teɣrest, am Akked Aharon"
+    }
+  ],
+  "translation": "Kren i Moce deg uɛesker, i Aharon win iqeccen n Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e402c046e0d7ec19f28a52e0adf083edcbc0f99b546314d256c5d06ac0251ab7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/106\/15-16.1791268130275.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Kren i"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "deg uɛesker"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "win iqeccen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:50.281656810Z",
+  "model": "glm-5.3"
+}

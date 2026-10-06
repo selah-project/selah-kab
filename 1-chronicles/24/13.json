@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tis tlata-d-mraw \/ tis rebɛa-d-mraw",
+      "rationale": "Tabdert n umḍan n terbaɛt n walluy n waklan deg uɣiwen."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wis (tlata-d-mraw)",
+      "rationale": "Taɛbranit ur tesɛi ara amawal anemmal am wis deg teqbaylit; tettwafk ed talɣa n umḍan kan."
+    }
+  ],
+  "translation": "I Ḥuppa, wis tlata-d-mraw; i Yecebeab, wis rebɛa-d-mraw.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ad99a346142a564186ab80f504ae9ccdc1f27d9419a2395f5c951918c7197b21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/24\/13-13.1791268286842.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "i Ḥuppa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "i Yecebeab"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "rebɛa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "d mraw"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:26.849343859Z",
+  "model": "glm-5.3"
+}

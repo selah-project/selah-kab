@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "llan",
+      "rationale": "Ulac amyag deg uḍris aɛbranit; amyag n teqbaylit yettwarnan"
+    },
+    {
+      "kind": "crux",
+      "subject": "Abimelec",
+      "rationale": "1 Yiḍnanen 18:16 yenna אבימלך, ma d 2 Samuel 8:17 yenna אחימלך — isem yettbeddil gar sin n yidisifyen"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tabdert",
+      "rationale": "D tabdert n yimeḍfaren n ugellid David — tigezt n usmel n umennuɣ n tgeldit"
+    }
+  ],
+  "translation": "Ṣadoq, mmi-s n Aḥitub, d Abimelec, mmi-s n Ebyatar, ⟨llan⟩ d ikohanen ; Cawca ⟨yella⟩ d amaru.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "de86f2ccb3d695bdc72a3a84eaa43e36cd296b920ed6ad6d62b5a5e61a911ec1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/18\/15-16.1791268336254.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Ṣadoq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Aḥitub"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "Abimelec"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ikohanen"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "Cawca"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "amaru"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:16.260752552Z",
+  "model": "glm-5.3"
+}

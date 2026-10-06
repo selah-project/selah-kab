@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 1:10",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "Ada d bab n wemdan (David), mačči d Yahwe — sidi.",
+      "kind_note": ""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי...כי",
+      "rationale": "Snat n tkkin ɣef yidis — tanekda i d-yesbeggnen asesfer."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אצעדה",
+      "rationale": "Taneɣmert n yiḍar (step-chain\/bracelet) — talɣa n wawal tettwaseggar."
+    },
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "hither\/ɣur-k — awal n tmeẓla i d-yettwasefkil."
+    }
+  ],
+  "translation": "Yukan ɣef-s, yeɣli-yas-t-id, axaṭer ẓriɣ mačči d amdan ara yidren deffir ma yuli; tuɣaleɣ ṭṭefɣeɣ taneẓṛut yellan ɣef uqerru-s, d teɣmert yellan ɣef uḍar-alemmas-is ⟨deg yiḍar-is⟩, u d-ttwiɣeɣ-tent-id ɣer sidi, ɣur-k.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e8eaaf9501d75c689f880d95a81ec2847120b71a10ffe5a50718d6e59bac4a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/1\/10-10.1791267662685.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעמד",
+      "gloss": "yukan ɣef-s"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɣef-s"
+    },
+    {
+      "surface": "ואמתתהו",
+      "gloss": "yeɣli-yas-t-id"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ẓriɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mačči d"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ara yidren"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ma yuli"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "tuɣaleɣ ṭṭefɣeɣ"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "taneẓṛut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "aqerru-s"
+    },
+    {
+      "surface": "ואצעדה",
+      "gloss": "teɣmert n uḍar-alemmas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yellan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "uḍar-alemmas-is"
+    },
+    {
+      "surface": "ואביאם",
+      "gloss": "d-ttwiɣeɣ-tent-id"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sidi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɣur-k"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:02.689301290Z",
+  "model": "glm-5.3"
+}

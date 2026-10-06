@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נאם יהוה",
+      "rationale": "i d-yenna Yahwe — talɣa tamirant, mačči d lweḥy."
+    }
+  ],
+  "translation": "Ineḍs akkin, ineḍs d lɣerḍ i n-yenna Yahwe Ṣebaot.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6556f4d55e64e4b4d0710864874fc5e67028af2d3db6d19cb6608b92cdbe5b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/haggai\/2\/8-8.1791267994271.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ineḍs akkin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "akkin"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ineḍs"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "lɣerḍ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:34.271791204Z",
+  "model": "glm-5.3"
+}

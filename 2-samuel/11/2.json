@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 11:2",
+  "book": "2-samuel",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Taqbaylit tesra ayfer (d) deg «tameṭṭut tcuḥt», taɛbranit ur tesɛi ara ayen am wagi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tettwal",
+      "rationale": "רחצת tettwal kan, mačči «tettwal iman-is» — amek i d-tenna taɛbranit, akk i ṣubb-d"
+    }
+  ],
+  "translation": "Deg usrag n tmeddit, David yunag seg usetti-is, yellel ɣef ugettin n wexxam n ugellid, yerna seg ugettin iwala tameṭṭut tettwal; tameṭṭut-nni ⟨d⟩ tcuḥt n wallaɣ beṭṭaḥ.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "766f0adb719319496bc5abcdc7cccaad37b82f4942ba96c5313ddc7e6a6c792d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-samuel\/11\/2-3.1791267689852.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "deg usrag"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "n tmeddit"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "yunag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "usetti-is"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "yellel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ugettin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "n wexxam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iwala"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tameṭṭut"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "tettwal"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "seg"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "ugettin"
+    },
+    {
+      "surface": "ווהאשה",
+      "gloss": "tameṭṭut-nni"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "tcuḥt"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "n wallaɣ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beṭṭaḥ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:29.857738078Z",
+  "model": "glm-5.3"
+}

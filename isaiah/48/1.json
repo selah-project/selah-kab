@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Slayen-at ayagi",
+      "rationale": "Tazwara n tefyirt d tanect: awal ad islen yimeḍfaṛen."
+    },
+    {
+      "kind": "you",
+      "subject": "a yaxxam n Yaɛqov",
+      "rationale": "Anect adrez i uhilum n Yisrael, i tmedyazt n Debir Yeshaɛyahu."
+    },
+    {
+      "kind": "crux",
+      "subject": "seg waman n Yehuḍa",
+      "rationale": "ממי = 'isef n Yiḥuda' (d awal-a iwumi ḥeṛmen d tasuqilt), neɣ 'seg Yiḥuda' kan; JPS tenna 'fountain', BSB 'line'."
+    }
+  ],
+  "translation": "Slayen-at ayagi, a yaxxam n Yaɛqov, wid yettwasnen s yisem n Yisrael, seg waman n Yehuḍa i d-yeffɣen, wid igullen s yisem Yahwe, ɣef Elohim n Yisrael qqaren-d, mačči s tinest, mačči s ṣedeq.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "58642e783442547f4ba3868cb4b296c417cab5352e22e8247e03b15996fc5281",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/48\/1-1.1791267841049.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slayen-at"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ayagi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a yaxxam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaɛqov"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "wid yettwasnen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "d seg waman"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuḍa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "i d-yeffɣen"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "wid igullen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "s yisem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "d ɣef Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "qqaren-d"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "s tinest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mačči"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "s ṣedeq"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:01.051239787Z",
+  "model": "glm-5.3"
+}

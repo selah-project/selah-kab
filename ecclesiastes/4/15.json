@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "deg umkan-is",
+      "rationale": "תחתיו ur d-yeqqin ara ara yekker ɣef-s kan; 'deg umkan-is' i d-yefkan talɣa n yiẓri n tɛicbuxt tanamnant"
+    },
+    {
+      "kind": "crux",
+      "subject": "הילד השני",
+      "rationale": "imeḥyan ttgarraden: 'amectan wis sin' d win ara izemren ad yeḥkem (JPS) neɣ d ageldun ijehhlen ara yekken amkan n win yezrin"
+    }
+  ],
+  "translation": "Twalaɣ ⟨את⟩ akk wid yidian i yeddun ddaw yiṭij, akked umeḥucc wis sin, ara yekker deg umkan-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b88e266c7357a1e9057fd13bad00e61f682ed7de2f4ea938e2890042ed8bf79d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ecclesiastes\/4\/15-15.1791268211383.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Twalaɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akk wid yidian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wid yidian"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "i yeddun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "yiṭij"
+    },
+    {
+      "surface": "עם",
+      "gloss": "akked"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umeḥucc"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wis sin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yekker"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "deg umkan-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:11.383786380Z",
+  "model": "glm-5.3"
+}

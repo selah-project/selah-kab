@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 26:14",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Avner",
+      "rationale": "David i d-yessawalen i Avner s yisem, s tmacahut tamenḍarut"
+    },
+    {
+      "kind": "crux",
+      "subject": "קראת אל המלך",
+      "rationale": "KJVs 'anwa i k-iɣran i ugellid' vs BSB 'anwi i yessawelen i ugellid' — taɛbranit tezmer ad tettwag leḥsab i David neɣ i Avner"
+    }
+  ],
+  "translation": "Yessiwel David ɣer wegdud akked ɣer Avner mmi-s n Ner, ad yini: Ur d-tettidir ara, a Avner? Yerr-d Avner yenna: Anwi kečč i isselɣen ɣer ⟨w⟩ugellid?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/26\/13-16.1791267704128.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yessiwel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wegdud"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "akked ɣer"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ad yini"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "d-tettidir"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "a Avner"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "yerr-d"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kečč"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "isselɣen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨w⟩ugellid"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:44.134393232Z",
+  "model": "glm-5.3"
+}

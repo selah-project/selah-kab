@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 23:3",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Nekk",
+      "rationale": "Taqbaylit tessuter asefrur n wawal 'nekk' i ואני, ayen ur nessin ara uḍris i d-yeqqimen d aḥric si tuccḍa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iɛessar",
+      "rationale": "שארית d 'win i d-yeqqimen' — d awal n tuqqna i d-yettwafkan s taqbaylit."
+    },
+    {
+      "kind": "alternative",
+      "subject": "daxel-nsent",
+      "rationale": "נוהן d 'tanida-nsent \/ imi-nsent n ṭṭebḥa' — tettwafham d amkan n tana n ṭṭebḥa."
+    }
+  ],
+  "translation": "Nekk, ad sselmeɣ ⟨את⟩ iɛessar n ṭṭebḥa-nniw si tmura akk anda ẓedɣeɣ-iten din, ad d-rɣeɣ-tent ɣer daxel-nsent, ad frunt, ad ɛawnent akken ad sɛunt aṭas.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "61524f15690fd48cf8133a8c8351460d32b47e028c57d162c1357e3d0fc99bc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/23\/3-3.1791267893599.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Nekk"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "ad sselmeɣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iɛessar n ṭṭebḥa-nniw"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "iɛessar"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ṭṭebḥa-nniw"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "si akk"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tmura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anda"
+    },
+    {
+      "surface": "הדחתי",
+      "gloss": "ẓedɣeɣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iten"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ad d-rɣeɣ-tent"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "tent"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נוהן",
+      "gloss": "daxel-nsent"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "ad frunt"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ad ɛawnent akken ad sɛunt aṭas"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:53.600586575Z",
+  "model": "glm-5.3"
+}

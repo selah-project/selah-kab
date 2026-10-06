@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefs",
+      "rationale": "נפש d 'tfekka tettallin \/ tudert', mačči d 'ṛṛuḥ' s umahil; nefkant-t d awal n teqbaylit yerzan tudert n wemdan"
+    },
+    {
+      "kind": "crux",
+      "subject": "taɣrit n lɛahd",
+      "rationale": "קול אלה: kra n yimsuqlen qquren ɣer 'taɣrit n tmenɣiwt\/accen', wiyaḍ ɣer 'taɣrit n lɛahd' — anida i ḍefren"
+    },
+    {
+      "kind": "elision",
+      "subject": "והוא",
+      "rationale": "כי והוא עד — 'ma d netta d amarag': taɛbranit tesɛa yiwet n tjemmil, taqbaylit tesra talɣa tammeṛtut"
+    }
+  ],
+  "translation": "Ma texṣer yiwet n nefs, tesla taɣrit n lɛahd, ma tella d ⟨umdeqqel⟩ amarag, neɣ i t-iwala, neɣ i t-yeẓra; ma ur t-id-yenna ara, ad teṭṭef tuccḍa-nnes.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/5\/1-4.1791267440103.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "nefs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "texṣer"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "tesla"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taɣrit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "n lɛahd"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ma tella"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amarag"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "i t-iwala"
+    },
+    {
+      "surface": "או",
+      "gloss": "neɣ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "i t-yeẓra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "t-id-yenna"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ad teṭṭef"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "tuccḍa-nnes"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:20.106699197Z",
+  "model": "glm-5.3"
+}

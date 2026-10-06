@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועזוב",
+      "rationale": "Anida yella wayen d-tedla: KJV\/JPS 'isem-is' (anida d-tedla); YLT 'ad tettun!' d kra n wayen nniḍen — tettun anida tella."
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "rationale": "Talɣa n uḍris 'ula' tettwakkes seg tjja n tsuqilt i wakken ad yili d taflisant."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨anida tella⟩",
+      "rationale": "Taɛbranit ur tessefra ara ayen yettwattun; talɣa-agi tettwarna i umahil n tsuqilt."
+    }
+  ],
+  "translation": "Axaṭer taɣeṭṭuft deg uṭṭun tedla, tettun ⟨anida tella⟩, axaṭer ur telli ara tḥeccict.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "2847a3dc3408ceb85654b527f87101051f983f2183a1ebb24e2b652e3a68d259",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/14\/5-5.1791267815209.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "taɣeṭṭuft"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "deg uṭṭun"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tedla"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "tettun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur…ara"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telli"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "tḥeccict"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:35.210242821Z",
+  "model": "glm-5.3"
+}

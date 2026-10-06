@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 5:26",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yiwen n",
+      "rationale": "taɛbranit ur tesɛi ara amḍan i נס; taqbaylit tessaǧra tifrat"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "amḍan n wawal: d ammid (as) neɣ d aseggal (asen, i yegduden) — tisuqil qdimen qqurent"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושרק",
+      "rationale": "sewwet n yiɣil d isefra i lmerr; taɛbranit tesseqdac-it i usiwel n yigrudan (Taz 7:18)"
+    }
+  ],
+  "translation": "Ad issali yiwen n lyas i yegduden seg teẓi, ad isewweṭ-as seg taggara n tmurt; d ayla, ar zdat, ẓẓay, ad d-yas.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "12d68fd12224e65506347f57ade7ca62d21b101082195f46f2fa787f8dc1f70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/5\/26-26.1791267829259.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ad issali"
+    },
+    {
+      "surface": "נס",
+      "gloss": "yiwen n lyas"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "i yegduden"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "seg teẓi"
+    },
+    {
+      "surface": "ושרק",
+      "gloss": "ad isewweṭ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "as"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "seg taggara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "d ayla"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ar zdat"
+    },
+    {
+      "surface": "קל",
+      "gloss": "ẓẓay"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ad d-yas"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:49.259931521Z",
+  "model": "glm-5.3"
+}

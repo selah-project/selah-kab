@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 24:26",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האלה",
+      "rationale": "D\/427: taɛlalt (taɣlabt) neɣ tisednar; targlit n wayen yella: ccih — targlut 'elah' d 'allah' tettwaxdem kan s umaɛni n teɣlabt."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Taqbaylit yesεa kan yiwen n wahil i yuran; awal-agi yettwarna deg ⟨i⟩."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sifr Tora",
+      "rationale": "Amiḍan: tirra n wawalen deg udlis, asbedd n yiwen useglu meqqren d lmarsel: d asbdad ula d lkirt."
+    }
+  ],
+  "translation": "Yeḥucca yura ⟨את⟩ ⟨i⟩ wawalen-agi deg udlis n Tora n Elohim; yewwi-d taẓallayt tameqṛant, yessbedd-t din ddaw taɣlabt i yellan deg uqeddis n Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "263666764333f43d3ec41d3da7b480ed1e4519cde1875f54719af9997ac95571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/24\/25-26.1791267602204.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yura"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yeḥucca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawalen-agi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "wawalen-agi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deg udlis"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "n Tora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "yewwi-d"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "taẓallayt"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "tameqṛant"
+    },
+    {
+      "surface": "ויקימה",
+      "gloss": "yessbedd-t"
+    },
+    {
+      "surface": "שם",
+      "gloss": "din"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ddaw"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "taɣlabt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i yellan"
+    },
+    {
+      "surface": "במקדש",
+      "gloss": "deg uqeddis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:02.205729789Z",
+  "model": "glm-5.3"
+}

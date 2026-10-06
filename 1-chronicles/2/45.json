@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taɛbranit ur tesɛi ara awal am 'd' n tuccda, tettwarna i taqbaylit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית צור",
+      "rationale": "isem n wemkan Bet-Ṣur yettwaḥrez d yiwet n tira, mačči d 'axxam n ṣur'"
+    }
+  ],
+  "translation": "Mmi-s n Shemay d Maon, Maon inehher d bab n Bet-Ṣur.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "dac9e6a3860a4ae8df2395bfbb8627b075ee6c8fe69df74a72c37e37f6b2c723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/2\/45-45.1791268290270.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "mmi-s"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shemay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-Ṣur"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Bet-Ṣur"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:30.277410360Z",
+  "model": "glm-5.3"
+}

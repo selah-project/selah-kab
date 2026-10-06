@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taɛbranit ur tesɛi ara awal-agi n usenger; yettwarna i teqbaylit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "asget n yiẓer qqm — 'iqdec n yiqedcen' d talɣa n tɛebrent i yettwaḥerzen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iqedcen",
+      "rationale": "קדש yettwagled seg uẓar taɛbranit qqm (D2), mačči d awal n lislam"
+    }
+  ],
+  "translation": "Ayen i d-yeqqimen seg minḥa, n Aharon d n warraw-is ⟨d⟩ iqdec n yiqedcen, seg tiqṣa n tmes n Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "77f3b0d2b57fc31ccc89e8c54ab3e9669ce42b2bbe694197ee2e4d6701f730d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/2\/1-3.1791267404707.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ayen i d-yeqqimen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seg"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minḥa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "n Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "d n warraw-is"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqdec"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "seg tiqṣa n tmes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:16:44.710234597Z",
+  "model": "glm-5.3"
+}

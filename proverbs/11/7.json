@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אונים",
+      "rationale": "און s tenerfad: lbaṭel (ASV\/Geneva 'iniquity') neɣ tazmert (JPS 'strength') neɣ lexṣara; nefreḍ lbaṭel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאבד \/ אבדה",
+      "rationale": "Sinuca: abeddu n yiwet n tguri snat n tikkal — ad teɣli \/ yemḍel — talɣa tettwaḥrez s sin n yiferdisen"
+    },
+    {
+      "kind": "addition",
+      "subject": "-is",
+      "rationale": "Taqbaylit tesra taɣara i 'targit', taɛbranit ur tessim ara (construct תקותו tacuḍt)"
+    }
+  ],
+  "translation": "Mi yemmut wemdan arrezqi, targit-is ad teɣli; yerna ttawaɛ n lbaṭel yemḍel.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d5b25b97d95d379a3c3f8aa181c5c395c1c9f41cb6f0184118470adbb31fd78f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/11\/7-7.1791268101785.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "mi yemmut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wemdan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "arrezqi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ad teɣli"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "targit-is"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "yerna ttawaɛ"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "n lbaṭel"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "yemḍel"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:21.786741320Z",
+  "model": "glm-5.3"
+}

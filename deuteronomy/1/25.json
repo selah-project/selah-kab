@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 1:25",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השיבו אתנו דבר",
+      "rationale": "Ḥeber: 'uɣalen ⟨את⟩-aɣ s wawal' — Deg taɛbranit, 'awal i d-yuɣal' mačči d tuɣalin n umdan."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טובה",
+      "gloss_note": "d taqbuct — Yal tikkelt taɛbranit tḥeqqeq taqbuct, maca taqbuct d talɣa n wawal i yellan deg umaḍal-a."
+    }
+  ],
+  "translation": "Ttan deg ifassen-nsen seg wemdan n tmurt, wwin-t-id d-akken i neḍrε ɣer-neɣ, uɣalen ⟨את⟩-aɣ s wawal, nnan: Taqcint-a d tamurt taqbuct, Yahwe Elohim-nneɣ yettak i neḥkmu ɣef-s lεahd lqawi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f2c9d27ab9772df3f244415b11b35742ff96832344fce6496756ff3845a7dcad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/1\/25-25.1791267466204.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ttan"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "deg ifassen-nsen"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "seg wemdan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "n tmurt"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "wwin-t-id d-akken i neḍrε ɣer-neɣ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ɣer-neɣ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "uɣalen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-aɣ",
+      "marks": "aneɣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "s wawal"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "d taqbuct"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-nneɣ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yettak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:46.213150941Z",
+  "model": "glm-5.3"
+}

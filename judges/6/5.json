@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 6:5",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כדי ארבה לרב",
+      "rationale": "ḍḍfaṛ akken meṛṛa: tamedyezt timsirwit — 'am waɛraben aruneq'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ḥerbnen",
+      "rationale": "לשחתה yebna ɣef aẓar 'ruḥ\/ḥṛeb' — 'ad tt-ḥerbnen' yettwaḥrez unamek n usṭef"
+    },
+    {
+      "kind": "measurement",
+      "subject": "אין מספר",
+      "rationale": "tinect 'ulac umḍan' — tiseḍḍa n teqseḍt n weɣlan"
+    }
+  ],
+  "translation": "Axtir llan nutni d lmal-nnsen ad d-alin, d ixxamen-nnsen ad d-unɛen, am waɛraben aruneq, nutni d yileγman-nnsen ⟨ulac> umḍan — kecmen ɣer tmurt akken ad tt-ḥerbnen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c4dcbe8a48aa614a58ec6c50fc0938b613a25022f42775a4c173755283c77e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/judges\/6\/5-5.1791267573415.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axtir"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "d lmal-nnsen"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ad d-alin"
+    },
+    {
+      "surface": "ואהליהם",
+      "gloss": "d ixxamen-nnsen"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ad d-unɛen"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "akken"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "aɛraben"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "aruneq"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "i nutni"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "d yileγman-nnsen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "umḍan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "akken ad tt-ḥerbnen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:33.417354508Z",
+  "model": "glm-5.3"
+}

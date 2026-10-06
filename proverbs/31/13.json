@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "tessekkil",
+      "rationale": "דרשׁה tessalm-as i 'tikkil\/ttnadi'; awal-a yessawal ɣef unadi n tqeccicin, maca ttawil mačči d amedya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחפץ",
+      "rationale": "'s leɛǧeb' — ḥefeṣ d abuɣdel\/ttidet n wul, meqqer ɣef 'leɛǧeb' n uqerru kan"
+    }
+  ],
+  "translation": "Tessekkil takeṛṛust d lfit, tettaɣ s leɛǧeb s tekkassin-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "1999f59f84a5e57aa98429156398c1392b7c22b57d78b57632811c0ba0e70088",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/31\/13-13.1791268175382.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "tessekkil"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "takeṛṛust"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "d lfit"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "tettaɣ"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "s leɛǧeb"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "s tekkassis-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:35.382590718Z",
+  "model": "glm-5.3"
+}

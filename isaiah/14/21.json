@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "imdanen",
+      "rationale": "KJV: 'fill the face of the world with cities' — maca LXX d tira n Uksifant: s \/d lɛesker i d-yettunefken i Babel\/ — Q'i d-yenna kan: ad ḍlen adem n umaḍal s yimdunen."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Tafelwit-a d taluft n tmeẓla i yimsefran (d tafrara), am 'hejjijen!': imeslay ɣer ufus n usirem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ṭṭef",
+      "rationale": "Meṭbeaḥ d wawal n teẓri n teẓẓi: d 'amkan n teẓẓi', mačči amkan ara yemmet wemdan."
+    }
+  ],
+  "translation": "Hejjijen i warraw-is timlilit n uṭṭef, ɣef tucḍa n yivan-nsen; ad ur d-kkren ara, ur ḥekmen ara tamurt, ur ḍlen ara udem n umaḍal s yimdunen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c4f68bc4a1dc81ecf4bc29721b8b4728ad4069577c3e287f94e7991aa5b179b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/14\/21-21.1791267804305.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכינו",
+      "gloss": "hejjijen"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "i warraw-is"
+    },
+    {
+      "surface": "מטבח",
+      "gloss": "timlilit n uṭṭef"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ɣef tucḍa"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "n yivan-nsen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ad ur ... ara"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "d-kkren"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ḥekmen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ḍlen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udem n"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umaḍal"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "s yimdunen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:24.306500065Z",
+  "model": "glm-5.3"
+}

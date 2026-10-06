@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yisrael",
+      "rationale": "Tafelwit-a tessawal s tudert i Yisrael, am akken d netta i yettcfanin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ad tḥemdleḍ",
+      "rationale": "צרת yettak anamek n 'dzegger, cnuḥ'; 'ḥemdel' d lemḍil ara yelhin, maca mačči d taqbaylit tamaynut."
+    }
+  ],
+  "translation": "Ad tmuddeḍ s uḍrim, ad tḥemdleḍ iḍrim deg ufus-ik, ad tedduḍ ɣer wemkan ara yefren Yahwe Elohim-ik deg-s.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "c71bcd49a491064540511948b4ed48d20bc540c416ee2dc933cb537412455340",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/14\/25-26.1791267522229.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ad tmuddeḍ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "s uḍrim"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ad tḥemdleḍ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "iḍrim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "deg ufus-ik"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ad tedduḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "wemkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "yefren"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-06T06:18:42.237423131Z",
+  "model": "glm-5.3"
+}

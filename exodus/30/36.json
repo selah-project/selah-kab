@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 30:36",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קדש קדשים",
+      "rationale": "Tasila n usnawi n tɛebrant — iqedcen n yiqedcen — d ahil n usnaw neɣ 'iqedcen ufella', maca taɛbranit tettawi tasila-agi s yisem-is."
+    },
+    {
+      "kind": "crux",
+      "subject": "אועד",
+      "rationale": "Niphal n יעד: YLT tenna 'whither I am met with thee' (win i d-yettwamlalen), ma d KJV\/JPS 'where I will meet with thee' — aṭas n tsuqilin ad ttwaḥeṛṛken dinna."
+    },
+    {
+      "kind": "you",
+      "subject": "i Moce",
+      "rationale": "Awal-a yeḥder Yahwe ɣef Yisrael s Moce: tigezt tanemmirt ɣef lmuxatar, tuccḍa n tyita yelhan."
+    }
+  ],
+  "translation": "Ad tesẓermelt seg-s d tazmelt tfeṣṣelt, ad t-tefḍeḍ seg-s deg zdat n tcchedla deg uxiq n temlilit, anida ad d-mlileɣ yid-k dinna; iqedcen n yiqedcen ad tili i-wen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bfc41052a2609d63071ff15dbbfb09450f7cfda7d755b797dc0bc894376cde04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/30\/36-36.1791267322280.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחקת",
+      "gloss": "ad tesẓermelt"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "הדק",
+      "gloss": "d tazmelt tfeṣṣelt"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ad t-tefḍeḍ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "n tcchedla"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "deg uxiq"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n temlilit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anida"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "ad d-mlileɣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yid-k"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dinna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iqedcen"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "n yiqedcen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ad tili"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "i-wen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:22.281328141Z",
+  "model": "glm-5.3"
+}

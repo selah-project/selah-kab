@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iman-ik",
+      "rationale": "taɛbranit ur tesɛi ara awal i yiman deg hihshamar lek, taqbaylit tesra-t"
+    },
+    {
+      "kind": "idiom",
+      "subject": "hishamer lekha",
+      "rationale": "qbal: 'ḥrez iman-ik' — deg ussuqel: ccɣel axaṭer ur telli ara talɣa n umenɛiw n teqbaylit am taɛbranit"
+    }
+  ],
+  "translation": "Ḥrez ⟨iman-ik⟩, akken ur tettuḍ ara ⟨את⟩ al-Levi, akk wussan-ik, ɣef tmurt-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e86ade2069a7c0ec015f154fe3427d83062b0b2289b2f9a31dc3e144257b2263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/12\/19-19.1791267477591.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הִשָּׁ֣מֶר",
+      "gloss": "ḥrez"
+    },
+    {
+      "surface": "לְךָ֔",
+      "gloss": "⟨iman-ik⟩"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "akken ur … ara"
+    },
+    {
+      "surface": "תַּעֲזֹ֖ב",
+      "gloss": "tettuḍ"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "al-Levi"
+    },
+    {
+      "surface": "הַלֵּוִ֑י",
+      "gloss": "al-Levi"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "יָמֶ֖יךָ",
+      "gloss": "wussan-ik"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "אֲדָמָתֶֽךָ",
+      "gloss": "tmurt-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:17:57.595302503Z",
+  "model": "glm-5.3"
+}

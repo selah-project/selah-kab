@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 6:13",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בוצע בצע",
+      "rationale": "Afaylu n wawal: agesmad בוצע d lefsel-is בצע — yiwet n teḥricit, tettwakkes deg teqbaylit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ittyan lexleṣ",
+      "rationale": "בוצע בצע: «yekkat i lexleṣ maḍi» — amuddir, mačči kan «iḥemmel lexleṣ»"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "Asesgal arma d — taɛbranit ur tessili ara awal-agi, tettwarna i taqbaylit"
+    }
+  ],
+  "translation": "Axir meṣṣit-nsen arma d imeqranen-nsen, akk-agi ittyan lexleṣ; seg navi arma d ukohen, akk-agi ixeddem tikerci.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f82bbf97706f1bcbf7ba2874baa6521563f6243c92abf65946b1f20103bdedcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/6\/13-13.1791267838472.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axir"
+    },
+    {
+      "surface": "מקטנם",
+      "gloss": "meṣṣit-nsen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "גדולם",
+      "gloss": "imeqranen-nsen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "akk-agi"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "ittyan lexleṣ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lexleṣ"
+    },
+    {
+      "surface": "ומנביא",
+      "gloss": "seg navi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ukohen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "akk-agi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ixeddem"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tikerci"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:58.473738037Z",
+  "model": "glm-5.3"
+}

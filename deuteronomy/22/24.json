@@ -1,0 +1,173 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 22:24",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yeḥmeṛ",
+      "rationale": "ענה s unamek-ines amezwaru 'ad yeṣubb \/ ad yekkes tazmert'; illa wawal-nni deg waṭas n tseddarin i wesɣan n tmettant"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ובערת הרע מקרבך",
+      "rationale": "abeddel yettwassnen deg Tmeddurt: 'ad yiliḍ dirit' -- s taɛbranit 'ad yeḥmeṛ'; yenna-t-id uḍris s tmuɣli n tmes"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא צעקה בעיר",
+      "rationale": "imeṣuben beṭṭlen: ur tessɛawij ara (s unamek n tḥerci n tmettant) neɣ ur tessɛawij ara imi temdint tessefham"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "sawalen imṛebben-is Yisrael s tmetti (tessuffɣem, tekkseḍ, txellit-ik)"
+    }
+  ],
+  "translation": "Ad ten-id-tessuffɣem ⟨את⟩ sin-agi ɣer berreb n temdint-nni, ad ten-tesseɣlinem s yijerban ⟨את⟩ ten, ad mmten: ⟨את⟩ teqlict, ɣef wayen i ur tessɛawij ara deg temdint; d ⟨את⟩ argaz, ɣef wayen i yeḥmeṛ ⟨את⟩ tamṭut n umɛiwn-is; ad tekkseḍ dirit seg txellit-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "3fb85e7e87440f687cca9b2d4206cd74d8e34641d291ff6c50899703b5aefd79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/22\/24-24.1791267579211.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאתם",
+      "gloss": "ad ten-id-tessuffɣem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sin-agi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sin-agi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "שער",
+      "gloss": "berreb"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "temdint"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nni"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "ad ten-tesseɣlinem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ten",
+      "marks": "sin-agi"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "s yijerban"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ad mmten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teqlict"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "teqlict"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "tessɛawij"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deg temdint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "d ⟨את⟩",
+      "marks": "argaz"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "argaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wayen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "yeḥmeṛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamṭut"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "tamṭut"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "n umɛiwn-is"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ad tekkseḍ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dirit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "seg txellit-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:39.213556943Z",
+  "model": "glm-5.3"
+}

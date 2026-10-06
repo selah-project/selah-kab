@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 9:6",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתו ברית",
+      "rationale": "La taɛbranit tenna 'gẓem lɛahd' (ad gẓem lɛahd) — taqbaylit tḥeṣṣa talɣa tamhatart n tguri."
+    },
+    {
+      "kind": "addition",
+      "subject": "i",
+      "rationale": "Taɛbranit ur tesɛi ara tajmilt n lεadded n tneslemt ara tettwaṛǧu deg tira, tettwarna deg ⟨…⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באנו",
+      "rationale": "La taɛbranit tenna kan 'nekni nni-d', tettwabeddlen d talɣa tamhatart n teqbaylit i 'si tmurt tamezwarut nessiẓreg'."
+    }
+  ],
+  "translation": "Ṛuḥen ɣer Yehocua, ɣer usirem n HaGilgal, nnan-as i nekka d ⟨i⟩ yimezdaɣ n Yisrael: Si tmurt tezd weḥd-iḍfice n yidurar nessiẓreg, nnan-d nekni; ihi tura, gẓemmet-aɣ lɛahd.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "86d0fafaec628a48e293e94a8cbc9670c2023915ce7183f32b4f41ef33c92b53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/9\/6-6.1791267554192.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ṛuḥen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehocua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "usirem"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "HaGilgal"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nnan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "-as"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "d"
+    },
+    {
+      "surface": "איש",
+      "gloss": "imezdaɣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "si tmurt"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "tezd weḥd-iḍfice n yidurar nessiẓreg"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "nnan-d nekni"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "tura"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "gẓemmet"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-aɣ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lɛahd"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:14.194511813Z",
+  "model": "glm-5.3"
+}

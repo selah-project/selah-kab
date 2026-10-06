@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ddut, wali-d",
+      "rationale": "L'impératif pluriel invite directement le lecteur à venir voir les œuvres de Yahwe."
+    },
+    {
+      "kind": "you",
+      "subject": "au peuple \/ aux auditeurs",
+      "rationale": "Adresse impérative plurielle : « Ddut, wali-d »."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שם שמות",
+      "rationale": "שׂם שֹׁמוֹת : littéralement « il a mis des désolations », rendu par « i d-yeɣli d telɣa »."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "Conjonction relative rendue par la construction relative kabyle « i d- »."
+    }
+  ],
+  "translation": "Ddut, wali-d tiqficin n Yahwe, i d-yeɣli d telɣa deg tmurt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d028c14c5002d11fc49fed4b03741e7817543508739ba2fbbbe13583bb857ada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/46\/9-9.1791268025241.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ddut"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "wali-d"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "tiqficin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i d-yeɣli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "d"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "telɣa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deg tmurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:05.241857690Z",
+  "model": "glm-5.3"
+}

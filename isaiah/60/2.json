@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Sion",
+      "rationale": "Awal-a yettmeslay i Sion, yessawen-as ɣef wayen ara d-yeddu ɣef-s Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ad yeddu",
+      "rationale": "יזרח yebna ɣef tfukt mi ara d-tekker; 'ad yeddu' yettḥeqqeq asnufa n yiṭij, am yilt maḍi akken tenna tmurt n taɛbranit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tileẓwi \/ tagri",
+      "rationale": "חשך d ערפל: sin n wawalen ɣef ttleẓwi, tasuft tettusemres deg kraḍ n tikkal deg Yecayahu 60:2 — tuffra tettwalas deg teqbaylit s 'tileẓwi' d 'tagri'."
+    }
+  ],
+  "translation": "Axaṭer wali, tileẓwi ad texseṛ tamurt, d tagri i teɣlaf n yizerfan; maca ɣef keččini ad yeddu Yahwe, teẓdi-s ɣef keččini ad tettwali.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "74fd65b149d5ffe9f622bcfb14e1454a2ec72f814493f53553c497c88d25536f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/60\/2-2.1791267802134.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Axaṭer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wali"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tileẓwi"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ad texseṛ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "d tagri"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "n yizerfan"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "ɣef keččini"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ad yeddu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "teẓdi-s"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef keččini"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ad tettwali"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:22.135108427Z",
+  "model": "glm-5.3"
+}

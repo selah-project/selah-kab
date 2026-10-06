@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 4:24",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩",
+      "rationale": "Taɛbranit ur tesɛi ara nnetta n usentel; taqbaylit yessefk"
+    },
+    {
+      "kind": "idiom",
+      "subject": "afus",
+      "rationale": "יד d afus, maca da yettmal-d tezmert n Yahwe, mačči afus am umdan"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisrael",
+      "rationale": "Ayen i d-yennan yettmeslaya ɣer Yisrael s yiwet n tewsit: Elohim-nwen, ad tgeẓlem"
+    }
+  ],
+  "translation": "Iwakken ad ẓren akk leǧnas n tmurt ⟨את⟩ afus n Yahwe, acku ⟨d⟩ tezmert; iwakken ad tgeẓlem ⟨את⟩ Yahwe, Elohim-nwen, akk wussan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "021015536c9002236e00d2aaea83c3fa8c718672d36a12cf02e59a99ff8e966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/4\/24-24.1791267564489.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ad ẓren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afus n Yahwe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "afus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "tezmert"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨hi⟩"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ad tgeẓlem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wussan"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:24.491932582Z",
+  "model": "glm-5.3"
+}

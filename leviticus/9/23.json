@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "kab",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tfukkra n Yahwe",
+      "rationale": "כבוד d tamusni tamqqrant (taẓayert d leḥkem); tfukkra tettak kan yiwet n tmuɣli."
+    },
+    {
+      "kind": "elision",
+      "subject": "אהל מועד",
+      "rationale": "tettwafham d 'axem n umelḍi' — Moce d Aharon d nutni i d-yettwaḥerzen deg waḍris-agi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויברכו ... וירא",
+      "rationale": "tanmeẓla: berak (fukkra) irbeḥ-ed ra'a (tban) — kra n yismawen yesɛan cc n taɛbranit."
+    }
+  ],
+  "translation": "Moce d Aharon kecmen ɣer uxem n umelḍi, ffɣen, fukkren ⟨את⟩ ugdud, d tfukkra n Yahwe tban i ugdud akk.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b5c17e7367d1344e0cb10864657435b056179145970ae023f656863dc4fc8bfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/leviticus\/9\/23-23.1791267308823.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kecmen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moce"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "d Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "uxem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "n umelḍi"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ffɣen"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "fukkren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ugdud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "tban"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tfukkra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "n Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ugdud"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:08.823584368Z",
+  "model": "glm-5.3"
+}

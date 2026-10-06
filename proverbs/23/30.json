@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tajeɛdit",
+      "rationale": "יין d 'tajeɛdit' i tmurt, 'ayen' i win ittessen; yiwen n wawal deg taɛbranit"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lam'aḥarim",
+      "rationalе": "Yettwagdel: izemren neɣ 'i wid iɣeṛben ɣef' — asrag n taggara mgal wayen"
+    }
+  ],
+  "translation": "I wid izemren ad qelben ɣef wayen, i wid i d-icedḥen iwakken ad slemden tagrumma n tjeɛdit.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "81a1400b73ccd98cfeaa6818ffad817c361743a882b99ab47d64c5907d5c406f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/23\/29-32.1791268195436.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "i wid izemren ad qelben ɣef wayen"
+    },
+    {
+      "surface": "על",
+      "gloss": "i wid izemren ad qelben ɣef wayen"
+    },
+    {
+      "surface": "היין",
+      "gloss": "tagrumma"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "i wid i d-icedḥen"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "iwakken ad slemden"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "tagrumma n tjeɛdit"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:55.440403422Z",
+  "model": "glm-5.3"
+}

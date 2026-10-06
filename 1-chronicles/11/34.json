@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בני",
+      "rationale": "Deg talɣa n yiwet (2 Sam 23:32) 'bni' i d-yettwaneḥreẓ; dagi ttasuqal-d am 'At' am akken d yiwen n wemdan, mačči d tarwa."
+    },
+    {
+      "kind": "you",
+      "subject": "at HaChem HaGizuni d Yonatan",
+      "rationale": "Tabdert n yizerfan n David, ticki tettwabder tazmert n yal yiwen."
+    }
+  ],
+  "translation": "At HaChem (win yettusemman) HaGizuni, Yonatan mmi-s n Cagi, Aḥarari.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "bf974766f67419adb39a15571fe6bc7bd83c2e55de2d06d49d34bf4bb4889215",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/11\/34-34.1791268290174.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "At"
+    },
+    {
+      "surface": "השם",
+      "gloss": "HaChem"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "HaGizuni"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mmi-s n"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "Cagi"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Aḥarari"
+    }
+  ],
+  "timestamp": "2026-10-06T06:31:30.177850177Z",
+  "model": "glm-5.3"
+}

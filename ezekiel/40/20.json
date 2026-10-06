@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "awal-aɣelsan yettwamegzel deg tsuqilt, yettwafern i d-yettwamegzel"
+    },
+    {
+      "kind": "measurement",
+      "subject": "izzel teɣzi d tehri",
+      "rationale": "aẓeṭṭa n tɣrest — asaf n usenẓaẓ n tg lamaḥdi"
+    }
+  ],
+  "translation": "Taɣrest n teɣsert tamewwert, i ɣer tella tamurt-is ɣer ugafa, izzel measuring: yeẓra teɣzi-ines d tehri-ines.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "7deeea08b05618bc1f42d37fd2224060ac57f96e3ee6499611ad2aca6f4164ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/40\/20-20.1791268000670.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "d taɣrest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i ɣer"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tamurt-is"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ɣer ugafa"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "n teɣsert"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "tamewwert"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "izzel"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "teɣzi-ines"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "d tehri-ines"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:40.670952588Z",
+  "model": "glm-5.3"
+}

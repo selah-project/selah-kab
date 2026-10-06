@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 8:28",
+  "book": "judges",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לשאת ראשם",
+      "rationale": "ṭaɛrabt tanumakt: 'ad semlalen iqerru-nsen' — d amedya n tezmert d unnegz; yettusuqal d 'ad d-ǧǧan arraw-is deg ufella'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויכנע",
+      "rationale": "'iḥna' s lɛebd (bend the knee) — Miḍyan iɣli-d: anamek n tdukli gar ussuɣ d lqeh"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ארבעים שנה",
+      "rationale": "arbenin n yiseggassen — amḍan n tallit n tlelluḥt"
+    }
+  ],
+  "translation": "Miḍyan iɣli-d sdat n warraw n Yisrael, ur ɛawden ara ad d-ǧǧan arraw-is deg ufella; tamurt tuɣal d talwit arbenin n yiseggassen, deg wussan n Giḏɛon.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d49521fe3ecf12c9aac525d146adebaf0808e4945c9fd5a359ece28dcd57f945",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/judges\/8\/28-28.1791267571335.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "iɣli-d"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Miḍyan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sdat n"
+    },
+    {
+      "surface": "בני",
+      "gloss": "warraw n"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "ɛawden"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ad d-ǧǧan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "arraw-is deg ufella"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "tuɣal d talwit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tamurt"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "arbenin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggassen"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "deg wussan n"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Giḏɛon"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:31.336013077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 25:17",
+  "book": "2-kings",
+  "lang": "kab",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "timeɣri",
+      "rationale": "Asur n tɣzi: 18 n yima i tiǧǧa, 3 n yima i texfiwt; kraḍ n yisekkilen usligen n uneḥḥas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨d⟩",
+      "rationale": "Taqbaylit tesra tasenti 'd' deg wemkan anda taɛbranit terka arraten s wefran."
+    },
+    {
+      "kind": "crux",
+      "subject": "וְקוֹמַת הַכֹּתֶרֶת שָׁלֹשׁ אַמָּה וּשְׂבָכָה",
+      "rationale": "D acu i d-yettwassen ɣef tlata n yima: taxfiwt weḥd-s (ASV\/JPS) neɣ taxfiwt s uzetta (Geneva\/KJV 'with networke three cubites')?"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על ... על",
+      "rationale": "Asnirem n 'על' snat n tikkal deg tgara n ufra ('al ha-ktoret' \/ 'al ha-sbaka'), d umsedri i ur yeqqimen ara deg tsuqilt."
+    }
+  ],
+  "translation": "Tmanya d mraw n yima d teɣzi n yiwen n tiǧǧa; taxfiwt-is d nneḥḥas, d teɣzi n texfiwt ⟨d⟩ tlata n yima, d uzetta d rummanen ɣef texfiwt, i tudert — akk ⟨d⟩ nneḥḥas; am tagi i tiǧǧa tis-snat, ɣef uzetta.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "56d11b1bf21c9f78ebaac32ba1404e2015f824719ef244f55c51e350d65671c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-kings\/25\/17-17.1791267783473.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמנה",
+      "gloss": "Tmanya"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "d mraw"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "n yima"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "teɣzi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiǧǧa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "וכתרת",
+      "gloss": "taxfiwt-is"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "is"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nneḥḥas"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "d teɣzi"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "texfiwt"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tlata"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "n yima"
+    },
+    {
+      "surface": "ושבכה",
+      "gloss": "d uzetta"
+    },
+    {
+      "surface": "ורמנים",
+      "gloss": "rummanen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "texfiwt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "i tudert"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nneḥḥas"
+    },
+    {
+      "surface": "וכאלה",
+      "gloss": "am tagi"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "i tiǧǧa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "tis-snat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "uzetta"
+    }
+  ],
+  "timestamp": "2026-10-06T06:23:03.474696876Z",
+  "model": "glm-5.3"
+}

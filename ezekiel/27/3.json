@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 27:3",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (v27:3)",
+      "rationale": "Wagi mačči d am PA ay d-yettaṭṭaf umesel (H853); d awal-nniḍen: keččin — yura s yisekkilen-agi n yiber, am α d ω."
+    },
+    {
+      "kind": "addition",
+      "subject": "A Ṣur",
+      "rationale": "Taɛbranit tessexdam taneṣliyet ad tettwabedreḍ Ṣur; taqbaylit tesra-t."
+    },
+    {
+      "kind": "you",
+      "subject": "i Ṣur",
+      "rationale": "Yal n tuttra tettwaru ɣer Tsor, tamdint n tḥeggult."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלילת יפי \/ כללו יפיך",
+      "rationale": "Aẓar kll yedda deg 27:3 d 27:4 — tukkimt n tcirt \/ kkemlen tcirt-ik — alliteration n tsedda."
+    }
+  ],
+  "translation": "Ad tinniḍ i Ṣur: a tazddaɣt deg tebbura n yillel, taḥeggult n yegduden ar tegzirin timezgin. Akka i d-yenna Adonai Yahwe: A Ṣur, keččin tenniḍ: Nek d tukkimt n tcirt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "48c1bc3231b75bc201dcfa87a05773396ea1f7cdf796e6811514881af4abcb2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/27\/3-4.1791267950590.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ad tinniḍ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "i Ṣur"
+    },
+    {
+      "surface": "הישבתי",
+      "gloss": "a tazddaɣt"
+    },
+    {
+      "surface": "על",
+      "gloss": "deg"
+    },
+    {
+      "surface": "מבואת",
+      "gloss": "tebbura"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yillel"
+    },
+    {
+      "surface": "רכלת",
+      "gloss": "taḥeggult"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "n yegduden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "איים",
+      "gloss": "tegzirin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "timezgin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Ṣur"
+    },
+    {
+      "surface": "את",
+      "gloss": "keččin"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "tenniḍ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nek"
+    },
+    {
+      "surface": "כלילת",
+      "gloss": "tukkimt"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "n tcirt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:50.591790910Z",
+  "model": "glm-5.3"
+}

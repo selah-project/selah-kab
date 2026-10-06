@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 8:15",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "adbir n ufus n Elohim",
+      "rationale": "אצבע אלהים d tangalt: «tezmert n Elohim» — imesluɣen n Ferɛun ssnen belli d Eliḥaǧǧ ara t-yeggunin"
+    },
+    {
+      "kind": "idiom",
+      "subject": "yuɣer wul",
+      "rationale": "ויחזק לב: ul iǧehhen \/ ur yeṭṭif ara — tangalt taɛbranit i tigesda n wul"
+    },
+    {
+      "kind": "you",
+      "subject": "Ferɛun",
+      "rationale": "iḥarṭumim ssiḥen s Ferɛun s yisem, d imesluɣen-is yakan"
+    }
+  ],
+  "translation": "Nnan iḥarṭumim i Ferɛun: Wagi d adbir n ufus n Elohim; yuɣer wul n Ferɛun, ur yesslan ara awal i sen, akken i d-yenna Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9e5b4c7517f18492bacef89d843d053535d96287309ea5cb6fe2ec129c99974c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/8\/13-15.1791267305469.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Nnan"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "iḥarṭumim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Ferɛun"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "adbir n ufus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Wagi…d"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "yuɣer"
+    },
+    {
+      "surface": "לב",
+      "gloss": "wul"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "n Ferɛun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur… ara"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yesslan awal"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "i sen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:05.473453960Z",
+  "model": "glm-5.3"
+}

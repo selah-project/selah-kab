@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המרקחה",
+      "rationale": "D taqsit (laxda) neɣ d izerfan (spices); ASV 'broth', KJV 'spice it well'."
+    },
+    {
+      "kind": "crux",
+      "subject": "התם",
+      "rationale": "D 'mmed\/sexsi' (consommé) neɣ 'yiweḍ-d ɣer taggara'; tanmegla gar KJV d ASV."
+    },
+    {
+      "kind": "idiom",
+      "subject": "tafsirt n usekḍu",
+      "rationale": "Ayen akk d tamesniẓiɣt: Yerucalayim d taqsidt yettwasekḍen deg yiwen n uẓelmim; tira d tin n usmeɣru."
+    }
+  ],
+  "translation": "Semɣer-d aɣewwaɣ, ssenṭed tames, mmed asafu, ssuqel ⟨iɣruman⟩ taqsit, ad kkenten yid-s iɣsan.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ed3680604aa3d6e7dad5e5e7f5ec8dc21874510f40572b1390396f0baa4674b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/24\/9-10.1791267945721.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Semɣer-d"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "aɣewwaɣ"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "ssenṭed"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tames"
+    },
+    {
+      "surface": "התם",
+      "gloss": "mmed"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "asafu"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "ssuqel"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "taqsit"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "iɣsan"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "ad kkenten"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:45.723143402Z",
+  "model": "glm-5.3"
+}

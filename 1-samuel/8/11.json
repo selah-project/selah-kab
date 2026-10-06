@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 8:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "fellawen \/ arraw-nwen",
+      "rationale": "Cemwel yessawal s walwat i yigen iwtlan n Yisrael"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ccreε",
+      "rationale": "משפט deg umkan-agi d unamek n usselḥu d lmizan, mačči d aḥkam n tmenḍit"
+    },
+    {
+      "kind": "addition",
+      "subject": "d",
+      "rationale": "taqbaylit tesra d deg waglam, taɛbranit ur tesɛi ara"
+    }
+  ],
+  "translation": "Yenna: Wagi ad yili d ccreε n ugellid ara yesselḥayen fellawen: ⟨את⟩ arraw-nwen ad iḥettem, ad ten-yerr i yiman-is deg tjenwiz-is d i yisawen-is, ad ţţɣen zdat n tjenwiz-is.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "9b83fd28a48665f1d9afdeaa3d371cfab9f38c180e35836dc97d43605b21fd3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/8\/10-11.1791268413845.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yenna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ccreε"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "n ugellid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ara"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "yesselḥayen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fellawen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arraw-nwen"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "arraw-nwen"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ad iḥettem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ad yerr"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i yiman-is"
+    },
+    {
+      "surface": "במרכבתו",
+      "gloss": "deg tjenwiz-is"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "d i yisawen-is"
+    },
+    {
+      "surface": "ורצו",
+      "gloss": "ad ţţɣen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zdat"
+    },
+    {
+      "surface": "מרכבתו",
+      "gloss": "n tjenwiz-is"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:33.846921561Z",
+  "model": "glm-5.3"
+}

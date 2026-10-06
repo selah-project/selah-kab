@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 28:11",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבכי",
+      "rationale": "Asrag meqqren: 'taṛṣa (asemmad n waman)' neɣ 'iɣbula n yisaffen'; YLT 'overflowing', KJV\/JPS 'bindeth the streams'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אור",
+      "rationale": "אור d 'tafat\/illel' di taɛbranit, yettwasuqal da 'yerwas-d tafat' i wawal n tuffra."
+    },
+    {
+      "kind": "secret",
+      "subject": "תעלמה",
+      "rationale": "Tuffra: ayen yettwaffer, d yiwen n yisentalen n tseddart-agi n tayri n teḥkemt."
+    }
+  ],
+  "translation": "Seg teṛṣa n yisaffen yewgel, d tuffra d-yeffɣen yerwas-d tafat.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e4cd8d0473a3fa588c404f7f409c29df39fe64bc4df1ab5f1472781139979d53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/28\/11-12.1791268186256.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבכי",
+      "gloss": "seg teṛṣa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "n yisaffen"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "yewgel"
+    },
+    {
+      "surface": "ותעלמה",
+      "gloss": "d tuffra"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "d-yeffɣen"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tafat"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:46.257289376Z",
+  "model": "glm-5.3"
+}

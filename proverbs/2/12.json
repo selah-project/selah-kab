@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iwakken",
+      "rationale": "taɛbranit ur teɛi ara awal-agi; infinitive l- yebda i wawal-nni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תהפכות",
+      "rationale": "talɣa tafurkit n hafak — 'wid yerẓan awal'; taqbaylit tesra tefrzit"
+    }
+  ],
+  "translation": "Iwakken ad k-yesellek seg ubrid n dirit, seg yiwen n wemdan yettmeslayen d wid icudden-ten-d ur d-nnin ara.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ceaadba0cceadcef2e1c55f689ee2578cc77175c8d21582f05ad655e7149acbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/2\/12-12.1791268078383.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "iwakken ad k-yesellek"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "seg ubrid"
+    },
+    {
+      "surface": "רע",
+      "gloss": "n dirit"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "seg yiwen n wemdan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yettmeslayen d"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "wid icudden-ten-d ur d-nnin ara"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:58.384403494Z",
+  "model": "glm-5.3"
+}

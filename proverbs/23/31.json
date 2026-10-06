@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "i win i d-ittmeslayen",
+      "rationale": "Tamara tamenḥit ur twali ara — taskant"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכוס hisigner",
+      "rationale": "Yettwagdel: 'kis' d lqic neɣ 'tejumma'; tajumma tettwaf d cciḥ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתהלך במישרים",
+      "rationale": "S nitenti ayen yufraren: 'tettṛaǧu d lɛudan \/ tettafi ugar' mgal YLT 'goeth up and down through the upright'"
+    }
+  ],
+  "translation": "Ur twali ara tajeɛdit mi ara tettwali tameccant-is, mi ara d-tefk deg tejumma tinit-is, tettafi ugar n wayen ilawen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "81a1400b73ccd98cfeaa6818ffad817c361743a882b99ab47d64c5907d5c406f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/23\/29-32.1791268195436.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "twali ara"
+    },
+    {
+      "surface": "יין",
+      "gloss": "tajeɛdit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "tettwali tameccant-is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mi ara"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "tefk"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "deg tejumma"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "tinit-is"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "tettafi ugar"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "n wayen ilawen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:55.441291735Z",
+  "model": "glm-5.3"
+}

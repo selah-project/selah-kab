@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 38:25",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפתילים",
+      "rationale": "tibbandin (tiqacerḍin) seg tira n KJV; taɛbranit tuḥeqqet d 'cords\/twine' — akken i d-ssnen YLT, ASV d JPS."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seg⟩",
+      "rationale": "taɛbranit tenna kan 'i umdan i huma i ne-s, reẓẓeɣ nekk' — ulac 'seg', yettwarnan i wawal n teqbaylit."
+    },
+    {
+      "kind": "you",
+      "subject": "i Yeḥuda",
+      "rationale": "Tamar tettmeslay-d irect ɣer bab n urgaz-is Yeḥuda: 'eɛref, ma ulac aɣilif'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Tamar teffeɣ ayen yerben",
+      "rationale": "ur tenna ara isem n bab n wemuc — tettak kan izamulen-is (taẓekkta, tiqacerḍin, yiɣsan) iwakken ad d-yiban win i s-yefkan."
+    }
+  ],
+  "translation": "Mi tettwattwaɣ-d, tebɛa-d ɣer bab n urgaz-is, tenna: Nekk reẓẓeɣ ⟨seg⟩ umdan i huma ⟨i⟩ ne-s. Tenna daɣen: Eɛref, ma ulac aɣilif, anwa i d-yesɛan ⟨i⟩ taẓekkta-agi, d tiqacerḍin-agi, d yiɣsan-agi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6fe499891be69d641841f9ae058aa462aaa944cdcb75b81eac5cf2e958c33173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/38\/25-25.1791267277719.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hiyya"
+    },
+    {
+      "surface": "מוצאת",
+      "gloss": "tettwattwaɣ-d"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "u hiyya"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "tebɛa-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "bab n urgaz-is"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tenna"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "i umdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "huma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ne-s"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nekk"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "reẓẓeɣ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tenna daɣen"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "eɛref"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ma ulac aɣilif"
+    },
+    {
+      "surface": "למי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "החתמת",
+      "gloss": "taẓekkta"
+    },
+    {
+      "surface": "והפתילים",
+      "gloss": "tiqacerḍin"
+    },
+    {
+      "surface": "והמטה",
+      "gloss": "yiɣsan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-agi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:37.719595273Z",
+  "model": "glm-5.3"
+}

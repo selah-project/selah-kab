@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Avraham",
+      "rationale": "Inebgawen sleyn asen Avraham s tuttra: \"Anda Sarah, tameṭṭut-ik?\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "uxam n usseɣlif",
+      "rationale": "אהל d aɣrif n wulli; taqbaylit ur tesɛi ara awal yellan kan i seɛlayen tuget, ihi snerniɣ \"n usseɣlif\" iwakken ad yettwafham."
+    },
+    {
+      "kind": "addition",
+      "subject": "yasen",
+      "rationale": "Taɛbranit ur tedi ara i yellan nnan-as; yerna-t weggir n taqbaylit iwakken ad yili d ilem."
+    }
+  ],
+  "translation": "Nnan-as: Anda yellan Sarah, tameṭṭut-ik? Yenna-yasen: Atan, deg uxam n usseɣlif.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6512a44a164faf5a6de47c9966b4cb7f1cb7655b54f1097459e58fcdf542f11e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/genesis\/18\/9-9.1791267254986.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Nnan-as"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "as"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Anda yellan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tameṭṭut-ik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-yasen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Atan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "deg uxam n usseɣlif"
+    }
+  ],
+  "timestamp": "2026-10-06T06:14:14.987504423Z",
+  "model": "glm-5.3"
+}

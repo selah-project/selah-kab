@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 13:8",
+  "book": "zechariah",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פי שנים",
+      "rationale": "qbel uṭṭun: 'sin n yiḥricen' — שנים d aptek, maca 'sin' weḥd-s ur id-yeffeɣ ara d aḥric, ihi 'iḥricen' yettwarna"
+    },
+    {
+      "kind": "addition",
+      "subject": "iḥricen",
+      "rationale": "awal-agi yettwarna di teqbaylit iwakken 'sin' ad yefhem d sin n yiḥricen n tmurt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sin · wis-kraḍ",
+      "rationale": "asḍas n yimezdaɣ n tmurt: sin n yiḥricen ad rwḥen, wis-kraḍ ad yeqqim"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגועו",
+      "rationale": "'ad d-rɣen' (gawaɛ = semmed ad iṭṭef unaf) neɣ 'ad mten' — gawaɛ d awal n tnefsa\/tanekra"
+    }
+  ],
+  "translation": "Ad yili di tmurt akk, i d-yenna Yahwe, sin n yiḥricen deg-s ad ttwagzen, ad d-rɣen; ma d wis-kraḍ ad yeqqim deg-s.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "fa8c8d46edd8bfce3b06b41a3914ac997ea1e51ef1b8622c6cc6eed29033f89e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/zechariah\/13\/8-8.1791267999192.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ad yili"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di akk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "iḥricen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ad ttwagzen"
+    },
+    {
+      "surface": "יגועו",
+      "gloss": "ad d-rɣen"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ma d wis-kraḍ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ad yeqqim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deg-s"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:39.193615388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בְּעֵינַי",
+      "rationale": "ṭṭrfan 'di tidɣar-iw' d tira n tḥerci taɛbranit, meḥsub 'di wallaɣ-nni' \/ 'di tidɣar-iw' — d tid i d-yeččuren d 'd ayen yiwen iglan ɣef ṭṭrfan n wudem'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וְנִחַמְתִּי",
+      "rationale": "d Yiḥmim \/ ad tiɣ tirgwalt — ur yettwamegul ara d 'repentance' n wemdan; d anaw n wallaḥ n Yahwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "שְׁמֹעַ בְּקוֹלִי",
+      "rationale": "'ad yessefk ad yessefhem i weɣbalu-w' meḥsub 'ad issel i weɣbalu-w' — 'issel' deg taɛbranit yeqqim d 'issefk ad issefhem \/ ad iṭṭef'; kra n yimsuqlen ggulen-d 'ad issel', wayeḍen 'ad iḥkem'."
+    }
+  ],
+  "translation": "Ma yexdem ṛṛey ad yessiddeḥ di tidɣar-iw, meḥsub ad yessider i weɣbalu-w — d ⟨tadsa⟩ i d-ttuɣalin — ad tiɣ d Yiḥmim ɣef lxiṛ-nni i d-yenna ⟨Yahwe⟩ ɣef wayen ara d-yexdem i weneger-nni s ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5670fc8c19ed2af6e289408068a181edccb4c4bb804f264770d98e56108f0134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/18\/8-10.1791267862168.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ma yexdem ṛṛey"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "tadsa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di tidɣar-iw"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ad yessider"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "i weɣbalu"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "i weɣbalu-w"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ad tiɣ d Yiḥmim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "lxiṛ-nni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayen i d-yenna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ad d-yexdem lxiṛ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "i weneger-nni"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:22.170840143Z",
+  "model": "glm-5.3"
+}

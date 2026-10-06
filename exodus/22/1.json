@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fell-as",
+      "rationale": "לו: nniḍen qqaren-as d bab n uxxam (ulac tissit n idammen ɣef bab n uxxam), wiyaḍ d umakkar yemmuten"
+    },
+    {
+      "kind": "idiom",
+      "subject": "idammen",
+      "rationale": "דמים d asget n דם: mačči d idammen n tidet, d «tissit n idammen» — awal n usaḍuf ara yuɣal d lɛadla"
+    },
+    {
+      "kind": "elision",
+      "subject": "במחתרת",
+      "rationale": "bammaḥteret — tawuri n ukessum n yiri; kkes-as «tkarḍa» ay d-yettwaḥerzen tugna n taɛbranit"
+    }
+  ],
+  "translation": "Ma yettwaf umakkar di tkarḍa, yettwiḥeccem yemmut: ulac idammen fell-as.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b4b564b4ed9bb2571d39186cd1412b8217be12a08b2862431824cf321e94988a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/22\/1-3.1791267308237.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "di tkarḍa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "yettwaf"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "umakkar"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "yettwiḥeccem"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yemmut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "idammen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:08.237758005Z",
+  "model": "glm-5.3"
+}

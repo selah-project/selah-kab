@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 13:17",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yiɣfawen",
+      "rationale": "ראשים ifeḍla 'iqfan' — imesuqlen ssawalen-as 'tkkarḍa'\/'compagnie', maca taɛbranit tettemmeslay ɣef 'yiɣef' i yal tecṭṭuḥt."
+    },
+    {
+      "kind": "crux",
+      "subject": "Cuɛal",
+      "rationale": "שואל שועל: isem n temnaṭṭ, maca anamek-nniḍen d 'lwecc' — kra n imesuqel ḥemmlen tin n 'lwecc' deg yisem-agi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kkrad n yiɣfawen",
+      "rationale": "asekker n tceṭṭuḥin: kkrad, yal yiwet ɣer tamnaṭṭ-is."
+    }
+  ],
+  "translation": "Ifeɣ-d win yexseṛen seg leṣker n Plictim, d kkrad n yiɣfawen: yiwen seg yiɣfawen yerra-d ⟨d⟩ ubrid n Ɛofra, ɣer tmurt n Cuɛal.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "63a434b7a88a9d693ecd19ce2681c0bb716730da93774ff2015a597f5e8fae14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/13\/17-18.1791267687968.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ifeɣ-d"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "win yexseṛen"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "seg leṣker"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "n Plictim"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kkrad"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "yiɣfawen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "yiwen seg yiɣfawen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "yerra-d"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "abrid"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ɛofra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tmurt"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Cuɛal"
+    }
+  ],
+  "timestamp": "2026-10-06T06:21:27.973273313Z",
+  "model": "glm-5.3"
+}

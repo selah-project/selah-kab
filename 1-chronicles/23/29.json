@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 23:29",
+  "book": "1-chronicles",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולמרבכת",
+      "rationale": "Iẓar רבכ d araǧel: 'win yettwaččuren deg zzen' (Ylt\/JPS 'soaked') neɣ 'win yettwaseklen' (KJV 'fried'); kkes-asen ad yeqqel d 'aseklu' kan."
+    },
+    {
+      "kind": "measurement",
+      "subject": "משורה ומדה",
+      "rationale": "Taneɣruft tettmennu-as d aḥric seg lɛahd n Lewiyen ɣef yisegẓa: asgay n tẓeddiṭ d usgay n usemɣi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "למנחה",
+      "rationale": "minḥa tettwaru s timesliwin-is; ur tettwaru ara d 'tikci' neɣ 'lɣerma', axaṭer d awal n teḥrazt."
+    }
+  ],
+  "translation": "I weɣrum n usmidef, i yizerman i tminḥa, i leɣrayem war abeḥri, i useklu deg lexwaḍ, i wayen yedden deg zzen, akk i yal asgay n tẓeddiṭ d usgay n usemɛi.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "13ef4ed650c523160b6c882c546697bc276f890aa8719a0721284392c4986fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-chronicles\/23\/29-30.1791268359289.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וללחם",
+      "gloss": "i weɣrum"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "n usmidef"
+    },
+    {
+      "surface": "ולסלת",
+      "gloss": "i yizerman"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "i tminḥa"
+    },
+    {
+      "surface": "ולרקיקי",
+      "gloss": "i leɣrayem"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "war abeḥri"
+    },
+    {
+      "surface": "ולמחבת",
+      "gloss": "deg lexwaḍ"
+    },
+    {
+      "surface": "ולמרבכת",
+      "gloss": "i wayen yedden deg zzen"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "akk i yal"
+    },
+    {
+      "surface": "משורה",
+      "gloss": "asgay n tẓeddiṭ"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "d usgay n usemɛi"
+    }
+  ],
+  "timestamp": "2026-10-06T06:32:39.293561130Z",
+  "model": "glm-5.3"
+}

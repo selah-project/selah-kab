@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 22:7",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yerusalem",
+      "rationale": "Tanḍa tameẓyant '-ik' tettmuqel i Yerusalem d tameṭṭut"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שת שתו",
+      "rationale": "Sin n yiḍerḥal n yiwen uẓar (šyt) ḍeffir wa, alliteration tettwakkes"
+    }
+  ],
+  "translation": "Yella-d: leqyud ifazen n teqcejmarin-ik ḍeṛṛent s iṛezza, d yiserdasen ɣef yiysan qqnen ijerriḍen ɣer tawwurt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/22\/5-8.1791267876787.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "leqyud ifazen"
+    },
+    {
+      "surface": "עמקיך",
+      "gloss": "n teqcejmarin-ik"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ḍeṛṛent"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "s iṛezza"
+    },
+    {
+      "surface": "והפרשים",
+      "gloss": "d yiserdasen ɣef yiysan"
+    },
+    {
+      "surface": "שת",
+      "gloss": "qqnen ijerriḍen"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "qqnen ijerriḍen"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ɣer tawwurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:36.793275991Z",
+  "model": "glm-5.3"
+}

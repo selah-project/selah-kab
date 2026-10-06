@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kan",
+      "rationale": "taɛbranit ur tgi ara ayen i d-yennan כי deg wawal-agi; yettwarna iwakken ad d-iban wayes (ɣef yik-ik kan)"
+    },
+    {
+      "kind": "crux",
+      "subject": "טבחה",
+      "rationale": "ṣoɔn tiḥbec: 'n wegzen' (iɣudan n wegzen) neɣ 'i landa' — tira tamirant yessegnewen imeḥwal"
+    },
+    {
+      "kind": "you",
+      "subject": "ɣef yik-ik",
+      "rationale": "Yahwe i d-yettwanum yezgan deg deffir n tnefrunṭa-agi"
+    }
+  ],
+  "translation": "Iyef, ɣef yik-ik kan i nettwanngar akk ⟨u⟩ass, neḥsab am yimellel n wegzen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f65d44727ff64409a865045e77714ed4ee574659f2fe4b10be1bb42d3f034812",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/44\/23-23.1791267999045.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Iyef"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ɣef yik-ik"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "nettwanngar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "neḥsab"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "am yimellel"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "n wegzen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:26:39.046385879Z",
+  "model": "glm-5.3"
+}

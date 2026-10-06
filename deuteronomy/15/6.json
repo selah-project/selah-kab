@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 15:6",
+  "book": "deuteronomy",
+  "lang": "kab",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lqerd",
+      "rationale": "The verb עבט 'to lend on pledge' is rendered with the phrase 'lend money\/credit'; kab needs the noun."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוים רבים ... גוים רבים",
+      "rationale": "Repetition of 'many nations' frames the chiasm of lend\/rule versus not-borrow\/not-be-ruled."
+    }
+  ],
+  "translation": "Acku Yahwe Elohim-ik ad k-iberek, akken i d-yenna-k; ad tmuddeḍ lqerd i leǧyuc aṭas, kečči ur tettqesuḍ ara ⟨lqerd⟩; ad tḥekmeḍ ɣef leǧyuc aṭas, kečči ur lḥekmen ara ɣur-k.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/deuteronomy\/15\/5-8.1791267562384.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "acku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ik"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ad k-iberek"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "akken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-k"
+    },
+    {
+      "surface": "והעבטת",
+      "gloss": "ad tmuddeḍ lqerd"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "i leǧyuc"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "תעבט",
+      "gloss": "tettqesuḍ ara"
+    },
+    {
+      "surface": "ומשלת",
+      "gloss": "ad tḥekmeḍ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ɣef leǧyuc"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "aṭas"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "kečči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "lḥekmen ara"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:22.388789384Z",
+  "model": "glm-5.3"
+}

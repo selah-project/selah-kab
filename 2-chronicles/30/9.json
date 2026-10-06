@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 30:9",
+  "book": "2-chronicles",
+  "lang": "kab",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב",
+      "rationale": "Iẓar n ubeddel שב yettḍul-d kraḍ n tikkal (tuɣlim-d, tuɣalin, tuɣlim-d) — tasleḍt n tfukt n tefsert tessigdel di teqbaylit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחום\/לרחמים",
+      "rationale": "Alliterasyun ɣef uẓar rḥm: Arṛeḥma (Yahwe) d rrḥma i wawwat n wid yettwafeṭṭen — tuɣdaḍt tettwakkes di teqbaylit"
+    },
+    {
+      "kind": "crux",
+      "subject": "wid ten-yeḥbsen",
+      "rationale": "שוביהם: 'wid ten-yewwin d imeḥbas' (šenwa) neɣ 'wid yettuɣalen' (šiṛurim) — tazmilt tettḍafar leḥsab-agi amezwaru"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ɣer Yehuda d Yiṣraɛel",
+      "rationale": "Tefsert-a tettnuɣ s tuɣalin ɣer Yahwe — tinuɣt i yimeḍfaṛ"
+    }
+  ],
+  "translation": "Axaṭer ma tuɣlim-d ɣer Yahwe, atmaten-nwen d warrac-nwen ad nafen ⟨rrḥma⟩ ɣer zdat wid ten-yeḥbsen, u ad uɣlen ɣer tmurt-agi. Axaṭer Yahwe, Elohim-nwen, d Uṣṣeḥ d Arṛeḥma, ur itturruy ⟨udem-is⟩ seg-wen ma tuɣlim-d ɣuṛ-es.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "a82f79589906b58b3e0413c18468538f88df536527a6a4bf354b412077cca9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/2-chronicles\/30\/9-9.1791268386483.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "בשובכם",
+      "gloss": "ma tuɣlim-d"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "atmaten-nwen"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "d warrac-nwen"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ad nafen rrḥma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɣer zdat"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "wid ten-yeḥbsen"
+    },
+    {
+      "surface": "ולשוב",
+      "gloss": "d tuɣalin"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ɣer tmurt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "agi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Uṣṣeḥ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "Arṛeḥma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-nwen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ur"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "itturruy"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "udem-is"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "seg-wen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "tuɣlim-d"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ɣuṛ-es"
+    }
+  ],
+  "timestamp": "2026-10-06T06:33:06.484403021Z",
+  "model": "glm-5.3"
+}

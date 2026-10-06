@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 22:5",
+  "book": "isaiah",
+  "lang": "kab",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מהומה\/מבוסה\/מבוכה",
+      "rationale": "Kraḍ n wawalen s yiwen n unagraw n yisekkilen (m-b), taywalt-agi tettwakkes deg teqbaylit"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרקר קר ושוע",
+      "rationale": "JPS: Qir d Ciwa d isemwan n yimukan; KJV\/ASV: taggli n yiɣerḍen d usṭerfen ɣer udrar — neṭṭef tazwara taberkanit"
+    }
+  ],
+  "translation": "Ass n tebgert, n userɣu d unezgu, i Adonai Yahwe Ṣebaot, deg teqejmert n Ḥizayon: taggli n yiɣerḍen d usṭerfen ɣer udrar.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/isaiah\/22\/5-8.1791267876787.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ass n"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ass"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "tebgert"
+    },
+    {
+      "surface": "ומבוסה",
+      "gloss": "n userɣu"
+    },
+    {
+      "surface": "ומבוכה",
+      "gloss": "d unezgu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "i Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Ṣebaot"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "deg teqejmert"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Ḥizayon"
+    },
+    {
+      "surface": "מקרקר",
+      "gloss": "taggli n"
+    },
+    {
+      "surface": "קר",
+      "gloss": "yiɣerḍen"
+    },
+    {
+      "surface": "ושוע",
+      "gloss": "d usṭerfen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "udrar"
+    }
+  ],
+  "timestamp": "2026-10-06T06:24:36.791179952Z",
+  "model": "glm-5.3"
+}

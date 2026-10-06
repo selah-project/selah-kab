@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 37:9",
+  "book": "exodus",
+  "lang": "kab",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "takapporet",
+      "rationale": "הכפרת d alluy n taxxamt, yettwaḥrez s yisem-is; ur yettwasuqal ara"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרשי",
+      "rationale": "aẓar 'yessenmezgi\/yeṭṭef'; deg umḍis-agi: yettnuz tikan n tgedrayt — 'yesseḥlu \/ icerḍen' aganid"
+    },
+    {
+      "kind": "idiom",
+      "subject": "איש אל אחיו",
+      "rationale": "'yiwen ɣer wayeḍ' — tigawt taɛbranit i 'udsen ula d yiwen d wayeḍ'"
+    }
+  ],
+  "translation": "Llan ikerubim yettnuznen yiganidan-nsen d asawen, sseggumen s yiganidan-nsen ɣef ⟨tzakapporet⟩; udemawen-nsen, yiwen ɣer wayeḍ; ɣer ⟨tzakapporet⟩ llan udemawen n yikerubim.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e4e4d6a268e72ff6e6ee46253b3d5b55b8d6597e0b398540f295c76018141ad5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/exodus\/37\/9-9.1791267304462.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ikerubim"
+    },
+    {
+      "surface": "פרשי",
+      "gloss": "yettnuznen"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "yiganidan"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "d asawen"
+    },
+    {
+      "surface": "סככים",
+      "gloss": "sseggumen"
+    },
+    {
+      "surface": "בכנפיהם",
+      "gloss": "s yiganidan-nsen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takapporet"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "udemawen-nsen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yiwen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wayeḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "takapporet"
+    },
+    {
+      "surface": "היו",
+      "gloss": "llan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "udemawen"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "n yikerubim"
+    }
+  ],
+  "timestamp": "2026-10-06T06:15:04.463756614Z",
+  "model": "glm-5.3"
+}

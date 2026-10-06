@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 14:28",
+  "book": "1-kings",
+  "lang": "kab",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תא",
+      "rationale": "Awal-a 'txxamt' d arurdi deg Tseddarin — aseggas-a 1:26 yiwen n kan i d-yettwaxdem"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרצים",
+      "rationale": "Irurzuyen i d-yettwaxdem d 'irezzuyen' yettnaɣlen s waṭas n yismawen: taɣamsa, taɣuri, taɣerkezt"
+    }
+  ],
+  "translation": "Yella-d, yal tikkelt mi yekcem ugellid ɣer wexxam n Yahwe, irezzuyen ten-ṭṭfen, ad ten-rren ɣer txxamt n yirezzuyen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "d8e84be2b70c5f60fbd4dc0f9c539fa160117e611a81513a2eccaef1ac7bb205",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-kings\/14\/26-28.1791267775011.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yella-d"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "yal tikkelt mi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yekcem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ugellid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wexxam n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "ten-ṭṭfen"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "irezzuyen"
+    },
+    {
+      "surface": "והשיבום",
+      "gloss": "ad ten-rren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "תא",
+      "gloss": "txxamt n"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "yirezzuyen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:22:55.013883935Z",
+  "model": "glm-5.3"
+}

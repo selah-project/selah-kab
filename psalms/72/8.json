@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומנהר",
+      "rationale": "'wasif' s wazal umḍin: Yakect i d-yenna belli d wasif n Ferat neɣ Nil; taqbaylit teqqim d tajmilt."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מים עד ים",
+      "rationale": "Tajmilt taɛbranit 'ilel ɣer ilel' = seg yixf n umaḍal ɣer wayeḍ."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tiγzi n lḥukm",
+      "rationale": "Lḥukm yettwasḍaṛ s tilisa: ilel, wasif, yixfawen n tmurt."
+    }
+  ],
+  "translation": "Ad yeḥkem seg yilel ɣer yilel, seg wasif arma d yixfawen n tmurt.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "510be837a3494e57a9260fc59e978f72ca8f8eac5ac2a078f168df32f2676629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/72\/8-8.1791268097481.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ad yeḥkem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "seg yilel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yilel"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "seg wasif"
+    },
+    {
+      "surface": "עד",
+      "gloss": "arma d"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "yixfawen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "n tmurt"
+    }
+  ],
+  "timestamp": "2026-10-06T06:28:17.481875866Z",
+  "model": "glm-5.3"
+}

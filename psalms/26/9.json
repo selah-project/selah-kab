@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefsi-inu",
+      "rationale": "נפש d tamawt i unfes\/tudert, mačči d oṛṛuḥ am usuqel amiran"
+    },
+    {
+      "kind": "addition",
+      "subject": "di tudert-iw",
+      "rationale": "taqbaylit tessrusu tamawt i חיי deg taggara n tefyel akken ad tefhem"
+    }
+  ],
+  "translation": "Ur tegri ara nefsi-inu ɣer yidensen, ur tegri ara ara d-yeddur deg wid yessefsaden idammen di tudert-iw.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "f28f9dc6f4affdb28d4c691efc84a14cf82d16c8c82bf66d4cdd8d8ac1ccee43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/26\/9-9.1791268033844.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "tegri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɣer yidensen"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wid yednen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefsi-inu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "d wid"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "irgazen"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "n yidammen"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "tudert-iw"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:13.844668347Z",
+  "model": "glm-5.3"
+}

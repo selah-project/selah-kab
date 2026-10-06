@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 44:11",
+  "book": "ezekiel",
+  "lang": "kab",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פקדות",
+      "rationale": "taɛbranit tenna 'tuccḍa n ussehres (visitation)', teqbaylit tenna 'ttḥekmen' — ayen yemgarad n tifiγt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משרתים…ומשרתים…לשרתם",
+      "rationale": "allus n uẓar c-r-t i d-yettuɣal kraḍ tikkal deg yiwen n uzirig, ur iṭṭafar ara ara akk s lqawa deg teqbaylit"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העלה",
+      "rationale": "'taẓallit win yettalin' — teqbaylit 'lɛeḍya n tmes' teṭṭef tazmilt-nni n tmes, maca tawuri n usuli teḥbes"
+    }
+  ],
+  "translation": "Ad llin deg iqedcen-iw d ixeddmen, ttḥekmen ɣef tebburtin n wexxam, udiɣ xeddmen ⟨את⟩ wexxam; nutni ad ẓeḍmen ⟨את⟩ lɛeḍya n tmes d ⟨את⟩ izebḥ i ugdud, d nutni ad qqimen zdat-sen iwakken ad ten xeddmen.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6527ce31f8fb4b4e4583c8c7db061d475c9430291541803df3cdb85c255b4dc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/ezekiel\/44\/11-11.1791268026027.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ad llin"
+    },
+    {
+      "surface": "במקדשי",
+      "gloss": "deg iqedcen-iw"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "d ixeddmen"
+    },
+    {
+      "surface": "פקדות",
+      "gloss": "ttḥekmen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "tebburtin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "ומשרתים",
+      "gloss": "udiɣ xeddmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wexxam"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nutni"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ad ẓeḍmen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lɛeḍya n tmes"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lɛeḍya n tmes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izebḥ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "izebḥ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "i ugdud"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "d nutni"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ad qqimen"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "zdat-sen"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "iwakken ad ten xeddmen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:06.028358178Z",
+  "model": "glm-5.3"
+}

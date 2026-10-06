@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 4:13",
+  "book": "joshua",
+  "lang": "kab",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yigran",
+      "rationale": "ערבות d taẓegzawt n Yerden; 'yigran' qqnen kan ɣer wamek tella."
+    },
+    {
+      "kind": "crux",
+      "subject": "חלוצי הצבא",
+      "rationale": "D wid iɣerwen neɣ d wid izewwen? Imsuqalen melsen."
+    }
+  ],
+  "translation": "Zdat akken xebdeaẓen n yiserdasen iṣubb-iten ɛeddan qbel Yahwe ɣer ṭṭraḍ, ar yigran n Yeriḥo.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "8c7a535c421a33b1fd5593583da55fcd18071012e46fa6b3bbfb785ef143350d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joshua\/4\/13-13.1791267544402.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כארבעים",
+      "gloss": "zdat akken xebdeaẓen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "n yiserdasen"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "iṣubb-iten"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "iserdasen"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɛeddan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "qbel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ɣer ṭṭraḍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ar"
+    },
+    {
+      "surface": "ערבות",
+      "gloss": "yigran"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriḥo"
+    }
+  ],
+  "timestamp": "2026-10-06T06:19:04.403735521Z",
+  "model": "glm-5.3"
+}

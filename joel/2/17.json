@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 2:17",
+  "book": "joel",
+  "lang": "kab",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ad ddukklen",
+      "rationale": "בכה ddukklu\/imiren akken ad ddukklen; yebna ɣef Taz 43:7 (ur ddukklu ara deg yitij)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leǧnas",
+      "rationale": "גוים d leǧnas mačči d « yimezdaɣ » — argaz ameqqran n taɛrabt i ṛṛuḥ"
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests",
+      "rationale": "Aḍris yettmeslay-d γer ikohanim — lameɛna n tladist d tin i tent-yeḥetmen"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ad nnin",
+      "rationale": "Tikti tettunefk-ed i ikohanim s taladist, tuɣdaṭ tamenant"
+    }
+  ],
+  "translation": "Gar tugna d lmeṛṣed, ad ddukklen ikohanim, imenɛacen n Yahwe, ad nnin: Eɛfen, a Yahwe, ɣef ugdud-ik, ur ttakked ara taneɛlust-ik i tḥeqrent, iwakken ur ḥekmen ara fell-as leǧnas; acimi ara nnin gar yegduden: Anda llan Elohim-nnsen?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "fbbb9c46c494ba41b501d8ec80572150ca48b0be42140340e42d2a467913fe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/joel\/2\/17-17.1791268040450.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "gar"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "tugna"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "d lmeṛṣed"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ad ddukklen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ikohanim"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "imenɛacen n"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ad nnin"
+    },
+    {
+      "surface": "חוסה",
+      "gloss": "eɛfen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɣef"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ugdud-ik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ur ... ara"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ur ttakked ara"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "taneɛlust-ik"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "i tḥeqrent"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ad ḥekmen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leǧnas"
+    },
+    {
+      "surface": "למה",
+      "gloss": "acimi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ara nnin"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "gar yegduden"
+    },
+    {
+      "surface": "איה",
+      "gloss": "anda llan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-nnsen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:20.452497318Z",
+  "model": "glm-5.3"
+}

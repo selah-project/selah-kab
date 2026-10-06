@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 7:2",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teṣenduq",
+      "rationale": "הארון d 'teṣenduq\/takaṣṣalt' i d-yeṭṭefen laṣel-is n 'tanaka', mačči d awal-nni n leqds"
+    },
+    {
+      "kind": "crux",
+      "subject": "yebbuḥen",
+      "rationale": "וינהו: yebbuḥen ('lment') (KJV) ɣef 'neslugen\/ḥemmel' (JPS 'yearned'), neɣ 'yemlilen d' (aẓar n nhh d 'timlilit')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ɛesrin n yiseggasen",
+      "rationale": "Akked n leqraya: ɛesrin n yiseggasen i tezdeɣ teṣenduq deg Kiryat Yeɛrim"
+    }
+  ],
+  "translation": "Yella-d seg wass mi tezdeɣ teṣenduq deg Kiryat Yeɛrim, zzin wussan, rnan ɣef ma d ɛesrin n yiseggasen; yebbuḥen akk ayla n Yisrael deffir Yahwe.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "b5f4ecbcae3b8fb08c7fca46cb5392c3d1d201a67020ebfa0af0fa69759492de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/7\/2-2.1791267649011.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Yella-d"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "seg wass"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tezdeɣ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "teṣenduq"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "deg Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yeɛrim"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "zzin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wussan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "rnan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ɛesrin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "n yiseggasen"
+    },
+    {
+      "surface": "וינהו",
+      "gloss": "yebbuḥen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ayla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "deffir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:49.015425958Z",
+  "model": "glm-5.3"
+}

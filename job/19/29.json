@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 19:29",
+  "book": "job",
+  "lang": "kab",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב ... חרב",
+      "rationale": "is-s awal yella snat n tikkal, tasertit n ucenna; taqbaylit ur tezmir ara ad t-id-terr"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמה עונות חרב",
+      "rationale": "taglayt n yiẓuran: 'kerḥa n tuccḍin tettaḍ s-sif' neɣ 's-sif d akeffan n tuccḍin' (KJV) — mačči d taɣeft"
+    },
+    {
+      "kind": "addition",
+      "subject": "tettaḍ",
+      "rationale": "taɛbranit ur tesɛi ara akopula; tzemreɣ ad tili s ⟨…⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "i yinemadden-is n Yub",
+      "rationale": "Yub ad yenna awal-agi i wid t-iḥekmen; isefk ad teẓrem belli yella lḥeqq"
+    }
+  ],
+  "translation": "Ggadet ⟨i yiman-nwen⟩ si zzat n s-sif, axaṭer kerḥa n tuccḍin ⟨tettaḍ⟩ s-sif, iwakken ad teẓrem belli yella lḥeqq n ucuneg.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "158e05d715ebc1c1f9740294f8c3a9ca142477322e1d29a3a20529d784197660",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/job\/19\/29-29.1791268200764.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גורו",
+      "gloss": "ggadet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨i yiman-nwen⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "si zzat n"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "s-sif"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kerḥa"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "tuccḍin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "s-sif"
+    },
+    {
+      "surface": "למען",
+      "gloss": "iwakken"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "ad teẓrem"
+    },
+    {
+      "surface": "שדין",
+      "gloss": "lḥeqq n ucuneg"
+    }
+  ],
+  "timestamp": "2026-10-06T06:30:00.765300340Z",
+  "model": "glm-5.3"
+}

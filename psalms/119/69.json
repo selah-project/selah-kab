@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "kab",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טפלו",
+      "rationale": "Aẓar ṭpl: 'ad yefkeḍ aksum d aḥric' (s lmisal) — 'smeared\/gal' (gal tikkest) neɣ 'imagined' (snulmen); tividut n tira tettwasneked."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זדים",
+      "gloss": "wid iqehhren d wid izemren ad ilin d 'wid icuḍḍen' deg unamek-nniḍen."
+    }
+  ],
+  "translation": "Wid iqehhren rran-d tikkest ɣef yi; nekki, s wul am akk, ad ḥarzeɣ tiludin-ik.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "e17f77a995fa73bb8d3d052113371740c4c7832daf6ebe6e05c97b63e5c38a22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/psalms\/119\/69-69.1791268079925.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "rran-d"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɣef yi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "tikkest"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "wid iqehhren"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "s wul am akk"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ul"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ad ḥarzeɣ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tiludin-ik"
+    }
+  ],
+  "timestamp": "2026-10-06T06:27:59.926781400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 49:1",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Malkam",
+      "rationale": "מלכם: 'agellid-nsen' (their king) neɣ isem n ṛṛebbi Milkom n warrasen n Ɛamun — YLT\/JPS\/BSB ɛerḍen 'Malkam\/Milcom', KJV 'their king'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין … אין",
+      "rationale": "Allus n wawal 'ulac' snat n tikkal — tikka n ttulya deg wasteqsi, ulac deg taqbaylit am wayen yellan deg teɛbranit."
+    },
+    {
+      "kind": "you",
+      "subject": "i warrasen n Ɛamun",
+      "rationale": "Tanedmart-a tettaru-d ɣer warrasen n Ɛamun s isteqsiyen n umyar."
+    }
+  ],
+  "translation": "I warrasen n Ɛamun akka i d-yenna Yahwe: day ulac arrac i Yisrael? ma ulac ⟨awessir⟩ i netta? ɣerwa i yeṭṭef Malkam ⟨את⟩ Gad, d-agdud-is yezdeɣ deg yiqṣubiyen-is?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "6046eedc42e23185b0479b0550e2bc01ae882845aef0fa3ed2b29c5136d730b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/49\/1-1.1791267916804.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "i warrasen n"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ɛamun"
+    },
+    {
+      "surface": "כה",
+      "gloss": "akka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "i d-yenna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "arrac"
+    },
+    {
+      "surface": "אין",
+      "gloss": "day ulac"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ma"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "awessir"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ulac"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i netta"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ɣerwa"
+    },
+    {
+      "surface": "ירש",
+      "gloss": "i yeṭṭef"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gad"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "d-agdud-is"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "deg yiqṣubiyen-is"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yezdeɣ"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:16.805248840Z",
+  "model": "glm-5.3"
+}

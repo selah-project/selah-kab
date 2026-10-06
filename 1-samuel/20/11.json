@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "kab",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lɣaba",
+      "rationale": "השדה d 'taẓdayt', yerna deg usingen-nniḍen 'lɣaba'; taqbaylit tesɛa awal n lɣaba i d-yesbegnen attayen n lɛesker"
+    }
+  ],
+  "translation": "Yenna-yas Yehonatan i David: Iyedd-d, ad neffeɣ ɣer lɣaba. Ruḥen sinen-nsen ɣer lɣaba.",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "ecbc3473db2c5c531a5563eecd942b94400d6af4e46f79c1ec5b8263193c61ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/1-samuel\/20\/11-11.1791267617728.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yenna-yas"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Iyedd-d"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "ad neffeɣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ɣer lɣaba"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "Ruḥen"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sinen-nsen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ɣer lɣaba"
+    }
+  ],
+  "timestamp": "2026-10-06T06:20:17.731741977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 49:19",
+  "book": "jeremiah",
+  "lang": "kab",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אֶפְקֹד",
+      "rationale": "paqad: 'ssufuɣeɣ (ad s-errsɣ)' neɣ 'ad s-ḥebsɛeɣ' — imsuqalen mgaraden: KJV 'appoint over her', BSB 'chase from her land'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אַרְגִּיעָה",
+      "rationale": "ragaɛ: 'ad t-id-errɣ deg zdat' (ad t-errɣ ad inuṛṛuṛ) neɣ 'ad s-ṛṛuɣ leḥsab' — KJV 'suddenly make him run away' vs YLT 'cause to rest'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ומי ×3",
+      "rationale": "kasrawt n 'anwa' tisεa deg taggara n tcicift — tettwaseǧhed s tlalsa; taqbaylit teǧǧa-tt."
+    },
+    {
+      "kind": "you",
+      "subject": "ad inemhal Yisrael ɣef Edom",
+      "rationale": "Yahwe yettmeslay — istiqsayen ttwarun i wid yettsemmiḥen, ulac yettwaqbal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "abeḥriɣ",
+      "rationale": "roɛe d 'abeḥriɣ' (n yimelles) — da s yennum ɣef umekkād n ugdud, d tazmert-agi i d-yesbeggnen deg ushilaf akk n ucicif."
+    }
+  ],
+  "translation": "Walan, am izimer ad yali si teɣzi n Yardan ɣer wexxam n tezmert; axaṭer deg zdat ad t-id-errɣ ad inuṛṛuṛ seg-s, anwa i yettwafernen ara s-ssufuɣeɣ fell-as? Axaṭer anwa icban yi? Anwa ara yi-d-isɛasken? Anwa-agi d abeḥriɣ ara yaddren deg zdat-iw?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "21924dcb72dee161013742a22475c040463281997112d1caa11436e6420b3300",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/jeremiah\/49\/19-19.1791267927991.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Walan"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "am izimer"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ad yali"
+    },
+    {
+      "surface": "מגאון",
+      "gloss": "si teɣzi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "n Yardan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɣer"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "wexxam"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "n tezmert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "ad t-id-errɣ deg zdat"
+    },
+    {
+      "surface": "אריצנו",
+      "gloss": "ad inuṛṛuṛ"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "seg-s"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "i yettwafernen"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "fell-as"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ara s-ssufuɣeɣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "axaṭer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "icban yi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa"
+    },
+    {
+      "surface": "יעידני",
+      "gloss": "ara yi-d-isɛasken"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "anwa-agi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "-agi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "d abeḥriɣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "i"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ara yaddren"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "deg zdat-iw"
+    }
+  ],
+  "timestamp": "2026-10-06T06:25:27.993366683Z",
+  "model": "glm-5.3"
+}

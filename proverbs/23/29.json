@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 23:29",
+  "book": "proverbs",
+  "lang": "kab",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "asafag n tmeṭṭut",
+      "rationale": "Seddewt n tkeccitin i d-yeṭṭafen ameɣri — six times lemi, adabu n tmeṭṭut"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבוי",
+      "rationale": "S nitenti ayen yufraren: 'ayen yerxen \/ tatruri' mgal 'wuy'; mačči 'bab-is wuy' am Wycliffe"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חכללות",
+      "rationale": "Tafelwit n tɣuri: chaklilut tella kan dagi di Tanakh"
+    }
+  ],
+  "translation": "I net i d-yettɛawen? I net ayen yerxen? I net temcixxat? I net tiqqa? I net timedḥin war taɣdat? I net tayzut n wallen?",
+  "provenance": {
+    "system-sha256": "baffd2b47fc2c0b04a77bd0fe0d3bef35396df2c6fee68f9ae5ec9a17e463419",
+    "user-sha256": "81a1400b73ccd98cfeaa6818ffad817c361743a882b99ab47d64c5907d5c406f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/kab\/proverbs\/23\/29-32.1791268195436.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "I net"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "i d-yettɛawen"
+    },
+    {
+      "surface": "למי",
+      "gloss": "i net"
+    },
+    {
+      "surface": "אבוי",
+      "gloss": "ayen yerxen"
+    },
+    {
+      "surface": "למי",
+      "gloss": "i net"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "temcixxat"
+    },
+    {
+      "surface": "למי",
+      "gloss": "i net"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "tiqqa"
+    },
+    {
+      "surface": "למי",
+      "gloss": "i net"
+    },
+    {
+      "surface": "פצעים",
+      "gloss": "timedḥin"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "war taɣdat"
+    },
+    {
+      "surface": "למי",
+      "gloss": "i net"
+    },
+    {
+      "surface": "חכללות",
+      "gloss": "tayzut"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "n wallen"
+    }
+  ],
+  "timestamp": "2026-10-06T06:29:55.439314439Z",
+  "model": "glm-5.3"
+}
