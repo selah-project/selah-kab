@@ -91,10 +91,10 @@ Icaya 53:5 (`isaiah/53/5`):
 
 Tasuqilt-agi teqqim teldi s CC BY-SA 4.0. Ma tenfeɛ-ik, u tebɣiḍ ad tɛiwneḍ tasuqilt,
 aṣeggem, asuffeɣ d umahil i yettkemmilen, rzu ɣer
-[selahproject.com/support](https://selahproject.com/support).
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support).
 
 ## Selah
 
-- Tutlayin n Selah — yal tutlayt, isem-is d waddad-is: https://selahproject.com/learn/languages/index.md
-- Amek i ttwaxedment tsuqilin — abrid, ilugan, d inagan: https://selahproject.com/learn/data-sources/selah-renderings.md
-- Aḍris aɣbalu — OSHB / WLC 4.20, ɣef i tbedd yal tasuqilt: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- Tutlayin n Selah — yal tutlayt, isem-is d waddad-is: https://s33k3r.com/learn/languages/index
+- Amek i ttwaxedment tsuqilin — abrid, ilugan, d inagan: https://s33k3r.com/learn/data-sources/selah-renderings
+- Aḍris aɣbalu — OSHB / WLC 4.20, ɣef i tbedd yal tasuqilt: https://s33k3r.com/learn/data-sources/oshb-wlc

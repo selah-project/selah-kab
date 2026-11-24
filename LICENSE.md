@@ -16,7 +16,7 @@ Tzemreḍ:
 S tewtilin-agi:
 
 - **Bder-d anda i t-id-tufiḍ** — ilaq ad d-tebdreḍ *Tasuqilt n Selah s teqbaylit*
-  (asenfar Selah, https://selahproject.com), ad d-tefkeḍ aseɣwen ɣer turagt, u ad
+  (asenfar Selah, https://s33k3r.com), ad d-tefkeḍ aseɣwen ɣer turagt, u ad
   d-tiniḍ ma tbeddleḍ kra;
 - **Bḍu-t am akken** — ma tesnefleḍ, tbeddleḍ, neɣ tebniḍ fell-as, ilaq ad tebḍuḍ
   amahil-ik ddaw turagt-agi kan.

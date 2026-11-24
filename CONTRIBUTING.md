@@ -70,7 +70,7 @@ d tidet.**
   ma ur teẓriḍ ara amek ara yettwabeddel ufaylu.
 - Ldi **pull request** ma tuccḍa d uṣeggem-is d iseḥḥan.
 - I yibugen n usnas, neɣ i yisteqsiyen usligen (taɣellist, imiḍanen, isefka n yiman),
-  seqdec [tallelt n Selah](https://selahproject.com/support).
+  seqdec [tallelt n Selah](https://s33k3r.com/learn/support).
 
 Ini-d adlis, ixef, taseddart d wawal n taɛbranit; ayen yellan; ayen ilaqen ad yili;
 acimi; d uɣbalu i k-yesɛan (amawal, tajerrumt, asatal). Ini-d diɣen ma d taqbaylit i
